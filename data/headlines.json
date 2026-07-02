@@ -1,0 +1,161 @@
+{
+  "headlines": [
+    {
+      "title": "South Korea's currency chief says in talks with Japan, allies - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Interest Rate Gaps Are Rewriting Currency Markets - StoneX",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.4588,
+      "currencies": []
+    },
+    {
+      "title": "AriseAlpha Launches AI Forex Trading Bot as Automated Currency Trading Demand Surges in 2026 - The National Law Review",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.3612,
+      "currencies": []
+    },
+    {
+      "title": "Golden shiny currency symbols US dollar, Euro, British pound, Japanese yen on black cubes. - Action Forex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Euro Rebounds but Stalls Below Key Resistance - TradingPedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japan\u2019s forex chief flags contact with U.S. and intervention impact - The Japan Times",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "USD/JPY Caught Between NFP, the Fed and MOF Intervention Risk - FOREX.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.2732,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.1027,
+      "currencies": []
+    },
+    {
+      "title": "USD/KRW close to multi-year highs despite rising South Korean inflation - FXCM Markets",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "USD/SEK holds near 1-week peak with focus on NFP data - TradingPedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "The Yen's Biggest Test Since 1986 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "GBP/JPY Below 216 as Yen Spike Spurs Intervention Talk - TradingPedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "JPY"
+      ]
+    },
+    {
+      "title": "USD/CHF forecast: Bullish wedge keeps upside in focus ahead of payrolls - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "CHF"
+      ]
+    },
+    {
+      "title": "EUR/USD Edges Up, But Technicals Still Lean Bearish - TradingPedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "Swiss Franc Firms as Markets Eye Inflation - TradingPedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Meta launches Pocket app for AI-generated interactive content",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Rocky Brands Inc For: 2 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Ceribell director William Burke sells $43,786 in company stock.",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Freddie Mac reports 30-year mortgage rate falls to 6.43%",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "TSX edges higher following U.S. jobs data",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    }
+  ],
+  "run_id": 11
+}

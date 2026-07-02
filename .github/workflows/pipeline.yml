@@ -1,0 +1,33 @@
+# Runs the forex signal pipeline every hour, exports results to JSON,
+# and deploys to the gh-pages branch for Hugging Face to consume.
+name: forex-pipeline
+
+on:
+  schedule:
+    - cron: '0 * * * 1-5'   # Mon-Fri every hour
+  workflow_dispatch:          # manual trigger from GitHub UI
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install feedparser vaderSentiment requests streamlit pandas
+
+      - name: Run export pipeline
+        run: python src/export.py
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./data
+          publish_branch: gh-pages

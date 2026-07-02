@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "forex-signal"
+version = "0.1.0"
+description = "News-driven forex signal generator"
+requires-python = ">=3.10"
+dependencies = [
+    "feedparser",
+    "vaderSentiment",
+    "streamlit",
+    "pandas",
+    "requests",
+]
+
+[project.optional-dependencies]
+finbert = [
+    "transformers>=4.30,<4.50",
+    "torch>=2.0",
+]
+
+[project.scripts]
+forex-signal = "forex_signal.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+packages = {find = {where = ["src"]}}

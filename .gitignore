@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+venv-finbert/
+.env
+
+# Data
+signals.db
+logs/
+
+# OS
+.DS_Store
