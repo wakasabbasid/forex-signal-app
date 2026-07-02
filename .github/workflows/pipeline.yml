@@ -4,8 +4,13 @@ name: forex-pipeline
 
 on:
   schedule:
-    - cron: '0 * * * 1-5'   # Mon-Fri every hour
-  workflow_dispatch:          # manual trigger from GitHub UI
+    - cron: '0 * * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
 
 jobs:
   run:
