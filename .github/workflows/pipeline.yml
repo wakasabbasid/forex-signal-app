@@ -1,5 +1,5 @@
 # Runs the forex signal pipeline every hour, exports results to JSON,
-# and deploys to the gh-pages branch for Hugging Face to consume.
+# and pushes to the gh-pages branch for GitHub Pages hosting.
 name: forex-pipeline
 
 on:
@@ -25,9 +25,15 @@ jobs:
       - name: Run export pipeline
         run: python src/export.py
 
+      - name: Prepare deploy folder
+        run: |
+          cp -r data/* .
+          echo "" > .nojekyll
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./data
+          publish_dir: ./
           publish_branch: gh-pages
+          keep_files: false
