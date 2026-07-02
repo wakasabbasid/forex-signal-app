@@ -11,7 +11,7 @@ from urllib.request import urlopen
 
 import streamlit as st
 
-GH_USER = os.environ.get("GH_USER", "YOUR_USERNAME")
+GH_USER = os.environ.get("GH_USER", "wakasabbasid")
 GH_PAGES = f"https://{GH_USER}.github.io/forex-signal-app"
 
 
