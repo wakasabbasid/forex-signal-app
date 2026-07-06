@@ -21,10 +21,11 @@ jobs:
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install feedparser vaderSentiment requests streamlit pandas
+          pip install feedparser vaderSentiment requests streamlit pandas \
+                      transformers torch numpy --quiet 2>&1 | tail -5
 
-      - name: Run export pipeline
-        run: python src/export.py
+      - name: Run FinBERT pipeline
+        run: python src/export.py --engine finbert
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
