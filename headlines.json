@@ -1,0 +1,163 @@
+{
+  "headlines": [
+    {
+      "title": "Bank of Israel intervenes in forex trading again - Globes - Israel Business News",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "USD/JPY forecast: Currency Pair of the Week | July 6, 2026 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "EUR/USD Signal: Double Top Suggests Line of Least Resistance is Lower - DailyForex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7359,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "India Banks Slash Short-Term Debt Sales on Cheaper Forex Funding - Bloomberg.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9431,
+      "currencies": []
+    },
+    {
+      "title": "Dollar Gains Against Franc as 0.8075 Resistance Nears - TradingPedia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6296,
+      "currencies": []
+    },
+    {
+      "title": "Hong Kong Forex Reserves at 2022-Highs - TradingView",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: Markets cling to a cautious stance after choppy action to start week - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8861,
+      "currencies": []
+    },
+    {
+      "title": "Intervention fears to continue to help keep a lid on USD/JPY upside - Credit Agricole - investingLive",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Pound Extends Rally as Softer Fed Bets Weigh on Dollar - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6322,
+      "currencies": []
+    },
+    {
+      "title": "GBP/USD outlook: Impressive rebound arrives at key technical test - FOREX.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8794,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
+      "title": "Japan Forex Reserves Extend Decline in June - TradingView",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9737,
+      "currencies": []
+    },
+    {
+      "title": "Allied Critical Metals Confirms New High-Grade Tungsten Mineralization at the Venise Breccia with 13 Metres of 1.00% WO3 including 3 Metres of 4.15% WO3",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8685,
+      "currencies": []
+    },
+    {
+      "title": "NATO allies to discuss Hormuz tensions, mission with Gulf Arabs",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "American Electric Power Company stock hits all-time high at 139.5 USD",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5747,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Adia Nutrition nears final approval for name change to Adia Med",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "UBS raises Unum Group stock price target to $94 on LTC deal",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "UBS reiterates Buy on Smurfit Westrock stock, $56 target maintained",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "UBS reiterates Cboe Global Markets stock rating on June metrics",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "American States Water stock hits 52-week high at 85.33 USD",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6791,
+      "currencies": [
+        "USD"
+      ]
+    }
+  ],
+  "run_id": 1
+}
