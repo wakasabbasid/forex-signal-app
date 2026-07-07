@@ -10,9 +10,11 @@ RSS_SOURCES: list[tuple[str, str]] = [
     ("Investing.com", "https://www.investing.com/rss/news.rss"),
     ("ForexLive", "https://www.forexlive.com/feed/"),
     ("FXStreet", "https://www.fxstreet.com/rss/news"),
+    ("Yahoo Finance", "https://finance.yahoo.com/news/rssindex"),
+    ("Bloomberg", "https://feeds.bloomberg.com/markets/news.rss"),
 ]
 
-MAX_PER_SOURCE: int = 15
+MAX_PER_SOURCE: int = 12
 
 # ── Currency codes & pair mappings ───────────────────────────────────────────────
 

@@ -5,6 +5,7 @@ import os
 from datetime import datetime, timezone
 from urllib.request import urlopen
 
+import pandas as pd
 import streamlit as st
 import feedparser
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
@@ -23,6 +24,8 @@ RSS_SOURCES = [
     ("Google News", "https://news.google.com/rss/search?q=forex+currency&hl=en-US&gl=US&ceid=US:en"),
     ("ForexLive", "https://www.forexlive.com/feed/"),
     ("FXStreet", "https://www.fxstreet.com/rss/news"),
+    ("Yahoo Finance", "https://finance.yahoo.com/news/rssindex"),
+    ("Bloomberg", "https://feeds.bloomberg.com/markets/news.rss"),
 ]
 
 FINANCIAL_LINGO = {
@@ -106,7 +109,13 @@ ANIM_CSS = """
 
 
 @st.cache_data(ttl=600)
-def fetch_signals():
+def fetch_runs():
+    try:
+        with urlopen(f"{GH_PAGES}/runs.json", timeout=10) as r:
+            return json.loads(r.read()).get("runs", [])
+    except Exception:
+        return []
+
     try:
         with urlopen(f"{GH_PAGES}/latest.json", timeout=10) as r:
             return json.loads(r.read())
@@ -291,6 +300,47 @@ with col2:
             st.divider()
     else:
         st.info("Could not fetch live headlines.")
+
+# ── Signal history chart ──────────────────────────────────────────────────────────
+
+st.divider()
+st.subheader("📈 Signal Score History")
+
+runs = fetch_runs()
+if runs:
+    # Flatten: one row per signal per run
+    rows = []
+    for r in runs:
+        for s in r.get("signals", []):
+            rows.append({
+                "time": r["created_at"][:19],
+                "pair": s["pair"],
+                "score": s["avg_score"],
+                "signal": s["signal"],
+            })
+    if rows:
+        df = pd.DataFrame(rows)
+        df["time"] = pd.to_datetime(df["time"])
+        # Pivot for charting
+        pivot = df.pivot_table(index="time", columns="pair", values="score", aggfunc="last")
+        pivot = pivot.sort_index().tail(48)
+        if not pivot.empty:
+            st.line_chart(pivot, height=300)
+
+            # Signal distribution pie (latest run)
+            latest_run = runs[-1]
+            sig_counts = {}
+            for s in latest_run.get("signals", []):
+                sig_counts[s["signal"]] = sig_counts.get(s["signal"], 0) + 1
+            if sig_counts:
+                pie_df = pd.DataFrame([
+                    {"signal": k, "count": v} for k, v in sorted(sig_counts.items())
+                ])
+                st.caption(f"Run #{latest_run['id']} signal distribution ({latest_run['engine']})")
+                st.bar_chart(pie_df.set_index("signal"), height=200)
+else:
+    st.info("Not enough runs yet. Chart appears after 2+ pipeline runs.")
+
 
 # ── Footer ────────────────────────────────────────────────────────────────────────
 
