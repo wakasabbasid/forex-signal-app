@@ -3,7 +3,7 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "U.S. Dollar to Turkish Lira - USD/TRY Exchange Rate Chart - FOREX.com",
+        "title": "USD/JPY forecast: Currency Pair of the Week | July 6, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -13,18 +13,6 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "USD/JPY forecast: Currency Pair of the Week | July 6, 2026 - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "British Pound slips as Hormuz attacks revive USD demand",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.6609
       }
     ],
     "EUR/USD": [
@@ -33,6 +21,14 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      }
+    ],
+    "USD/CAD": [
+      {
+        "title": "USD/CAD Price Forecast: Buyers retain the upper hand even as momentum weakens",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.4931
       }
     ]
   }

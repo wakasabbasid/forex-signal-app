@@ -1,13 +1,6 @@
 {
   "headlines": [
     {
-      "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0411\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0438",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Bank of Israel intervenes in forex trading again - Globes - Israel Business News",
       "source": "Google News",
       "label": "neutral",
@@ -15,12 +8,13 @@
       "currencies": []
     },
     {
-      "title": "U.S. Dollar to Turkish Lira - USD/TRY Exchange Rate Chart - FOREX.com",
+      "title": "USD/JPY forecast: Currency Pair of the Week | July 6, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
-        "USD"
+        "USD",
+        "JPY"
       ]
     },
     {
@@ -41,10 +35,24 @@
       "currencies": []
     },
     {
+      "title": "Bank of Israel intervenes in forex for first time since pandemic - Ynetnews",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "India banks slash short-term debt sales on cheaper forex funding - Yahoo Finance Singapore",
       "source": "Google News",
       "label": "bearish",
       "score": -0.9588,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: US Dollar steadies as Williams keeps inflation caution alive - FXStreet",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7543,
       "currencies": []
     },
     {
@@ -62,10 +70,10 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: Markets cling to a cautious stance after choppy action to start week - FXStreet",
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.8861,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -79,76 +87,66 @@
       ]
     },
     {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
+      "title": "AFRICA-FX-Ugandan and Kenyan currencies could climb, Zambia's may slide - Reuters",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.6939,
       "currencies": []
     },
     {
-      "title": "USD/JPY forecast: Currency Pair of the Week | July 6, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
-      "title": "Form 144 RECURSION PHARMACEUTICALS For: 7 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Columns in Manhattan high-rise buckle, prompting evacuations",
+      "title": "Crude Oil Inventories Fall Less Than Expected, Signaling Lower Demand",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9523,
+      "score": -0.9699,
       "currencies": []
     },
     {
-      "title": "Form 4 GlobalFoundries Inc For: 7 July",
+      "title": "Monte Rosa Therapeutics CSO Sharon Townson sells shares worth $139,849",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Video shows suspect in sniper position as Charlie Kirk shot, Utah prosecutors say",
+      "title": "BBSI director Anthony Meeker disposes of $454,226 in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "GlobalFoundries chief legal officer sells $25,915 in stock",
+      "title": "Form 144 XERIS BIOPHARMA HOLDINGS For: 7 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Autodesk\u2019s SWOT analysis: stock expansion into operations market",
+      "title": "Form 144 AtaiBeckley Inc. For: 7 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Garden Valley Technologies expands Calix platform investment",
+      "title": "Form 4 Insulet Corporation For: 7 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Bulldog Investors calls for expanded share buybacks at CION",
+      "title": "First Majestic to sell San Martin mine for $90 million",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "iOThree reports 40% revenue growth for fiscal 2026",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8718,
+      "score": 0.9464,
       "currencies": []
     }
   ],
