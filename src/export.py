@@ -3,6 +3,8 @@
 Usage::
     python src/export.py                    # VADER (fast)
     python src/export.py --engine finbert   # FinBERT (accurate)
+
+History is accumulated in data/runs.json (restored from gh-pages before each run).
 """
 
 import argparse
@@ -16,10 +18,22 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from src.forex_signal.fetcher import fetch_headlines
 from src.forex_signal.detector import detect_currencies
 from src.forex_signal.sentiment import get_engine
-from src.forex_signal.signals import generate_signals
-from src.forex_signal.storage import save_run, get_signals_for_run, get_headlines_for_run, get_history
+from src.forex_signal.signals import generate_signals, resolve_pairs
+from src.forex_signal.storage import save_run
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
+
+
+def load_run_history() -> list[dict]:
+    """Load existing runs from data/runs.json (restored from gh-pages)."""
+    path = DATA_DIR / "runs.json"
+    if path.exists():
+        try:
+            data = json.loads(path.read_text())
+            return data.get("runs", [])
+        except Exception:
+            pass
+    return []
 
 
 def export_latest(engine_name: str = "vader") -> None:
@@ -43,8 +57,8 @@ def export_latest(engine_name: str = "vader") -> None:
     run_id = save_run(signals, headlines, engine=engine.name)
 
     now = datetime.now(timezone.utc).isoformat()
-    latest = {
-        "run_id": run_id,
+    run_obj = {
+        "id": run_id,
         "engine": engine.name,
         "headline_count": len(headlines),
         "source_count": len({h.source for h in headlines}),
@@ -54,22 +68,13 @@ def export_latest(engine_name: str = "vader") -> None:
             for s in signals
         ],
     }
-    (DATA_DIR / "latest.json").write_text(json.dumps(latest, indent=2))
+
+    # Write latest
+    (DATA_DIR / "latest.json").write_text(json.dumps(run_obj, indent=2))
     print(f"Wrote {DATA_DIR / 'latest.json'}")
 
-    # Per-pair headline breakdown for drill-down
+    # Write pair headline breakdown
     pair_h_map: dict[str, list[dict]] = {}
-    for h in headlines:
-        for code in h.currencies:
-            # Map currency code back to pair (from signals logic)
-            # Simple: use CURRENCY_PAIRS from config, but we only know codes
-            # The cleanest: re-derive pairs from signals
-            pass
-
-    # Better approach: derive from signal generation — for each headline,
-    # check which pairs it could belong to based on detected currencies
-    from src.forex_signal.signals import resolve_pairs
-    pair_h_map = {}
     for h in headlines:
         pairs = resolve_pairs(h.currencies)
         for p in pairs:
@@ -84,6 +89,7 @@ def export_latest(engine_name: str = "vader") -> None:
     )
     print(f"Wrote {DATA_DIR / 'pair_headlines.json'}")
 
+    # Write headlines export
     h_data = [
         {"title": h.title, "source": h.source, "label": h.label, "score": round(h.score, 4), "currencies": h.currencies}
         for h in headlines[:20]
@@ -91,23 +97,13 @@ def export_latest(engine_name: str = "vader") -> None:
     (DATA_DIR / "headlines.json").write_text(json.dumps({"headlines": h_data, "run_id": run_id}, indent=2))
     print(f"Wrote {DATA_DIR / 'headlines.json'}")
 
-    runs = get_history(limit=48)
-    runs_data = []
-    for r in runs:
-        sigs = get_signals_for_run(r.id)
-        runs_data.append({
-            "id": r.id,
-            "engine": r.engine,
-            "headline_count": r.headline_count,
-            "source_count": r.source_count,
-            "created_at": r.created_at,
-            "signals": [
-                {"pair": s.pair, "signal": s.signal, "avg_score": round(s.avg_score, 4), "headline_count": s.headline_count}
-                for s in sigs
-            ],
-        })
-    (DATA_DIR / "runs.json").write_text(json.dumps({"runs": runs_data}, indent=2))
-    print(f"Wrote {DATA_DIR / 'runs.json'}")
+    # Accumulate run history (preserve across deploys)
+    existing = load_run_history()
+    existing.append(run_obj)
+    # Keep last 200 runs max
+    existing = existing[-200:]
+    (DATA_DIR / "runs.json").write_text(json.dumps({"runs": existing}, indent=2))
+    print(f"Wrote {DATA_DIR / 'runs.json'} ({len(existing)} runs accumulated)")
 
     print(f"\nDone — run #{run_id}, {engine_name}, {len(signals)} signals, {len(headlines)} headlines")
 

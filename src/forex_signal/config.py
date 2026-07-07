@@ -114,4 +114,4 @@ TWELVEDATA_DELAY: float = 1.5  # seconds between retries
 # ── Storage ──────────────────────────────────────────────────────────────────────
 
 PROJECT_ROOT: Path = Path(__file__).resolve().parent.parent.parent
-DB_PATH: Path = PROJECT_ROOT / "signals.db"
+DB_PATH: Path = PROJECT_ROOT / "data" / "signals.db"

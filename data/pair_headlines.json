@@ -1,0 +1,33 @@
+{
+  "run_id": 2,
+  "pairs": {
+    "USD/JPY": [
+      {
+        "title": "USD/JPY forecast: Currency Pair of the Week | July 6, 2026 - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Intervention fears to continue to help keep a lid on USD/JPY upside - Credit Agricole - investingLive",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.3612
+      },
+      {
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0258
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/USD Signal: Double Top Suggests Line of Least Resistance is Lower - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": -0.1027
+      }
+    ]
+  }
+}

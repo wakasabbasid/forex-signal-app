@@ -2,7 +2,9 @@ name: forex-pipeline
 
 on:
   schedule:
-    - cron: '0 * * * 1-5'
+    - cron: '0 1-23 * * 1-5'
+    - cron: '0 22 * * 0'
+    - cron: '0 1-21 * * 6'
   workflow_dispatch:
 
 permissions:
@@ -24,13 +26,23 @@ jobs:
           pip install feedparser vaderSentiment requests streamlit pandas \
                       transformers torch numpy --quiet 2>&1 | tail -5
 
+      - name: Restore DB from gh-pages
+        run: |
+          git fetch origin gh-pages 2>/dev/null || true
+          git checkout gh-pages -- signals.db 2>/dev/null || true
+          git checkout gh-pages -- data/runs.json 2>/dev/null || true
+          mkdir -p data
+          cp signals.db data/signals.db 2>/dev/null || true
+          cp data/runs.json data/runs.json 2>/dev/null || echo '{"runs":[]}' > data/runs.json
+          git checkout main 2>/dev/null
+
       - name: Run FinBERT pipeline
         run: python src/export.py --engine finbert
 
-      - name: Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages (with DB)
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./data
           publish_branch: gh-pages
-          force_orphan: true
+          keep_files: false

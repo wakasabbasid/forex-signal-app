@@ -128,9 +128,17 @@ def fetch_pair_headlines():
 
 @st.cache_data(ttl=600)
 def fetch_runs():
+    try:
+        with urlopen(f"{GH_PAGES}/runs.json", timeout=10) as r:
+            return json.loads(r.read()).get("runs", [])
+    except Exception:
+        return []
+
+
+@st.cache_data(ttl=0)
+def fetch_live_headlines():
     analyzer = SentimentIntensityAnalyzer()
     analyzer.lexicon.update(FINANCIAL_LINGO)
-
     seen = set()
     headlines = []
     for name, url in RSS_SOURCES:
@@ -167,6 +175,69 @@ def fetch_live_prices():
     return prices
 
 
+@st.cache_data(ttl=600)
+def fetch_accuracy():
+    """Compare past signal directions against actual price movement."""
+    runs = fetch_runs()
+    if not runs or len(runs) < 2:
+        return None
+
+    results = []  # {pair, signal, score, entry_price, exit_price, profit_pct, correct}
+    for r in runs:
+        t = r["created_at"][:19]
+        for s in r.get("signals", []):
+            if s["signal"] == "HOLD":
+                continue
+            # Try to get historical price at signal time
+            sym = s["pair"].replace("/", "")
+            try:
+                url = f"https://api.twelvedata.com/time_series?symbol={sym}&interval=1h&outputsize=2&apikey=demo"
+                with urlopen(url, timeout=8) as resp:
+                    data = json.loads(resp.read())
+                if data.get("status") != "ok":
+                    continue
+                vals = data.get("values", [])
+                if len(vals) < 2:
+                    continue
+                # Current price is latest, entry price is previous
+                entry_p = float(vals[1]["close"])
+                exit_p = float(vals[0]["close"])
+                change_pct = (exit_p / entry_p - 1) * 100
+                correct = (s["signal"] == "BUY" and change_pct > 0) or (s["signal"] == "SELL" and change_pct < 0)
+                results.append({
+                    "pair": s["pair"],
+                    "signal": s["signal"],
+                    "score": s["avg_score"],
+                    "change_pct": round(change_pct, 2),
+                    "correct": correct,
+                    "time": t[:16],
+                })
+            except Exception:
+                continue
+
+    if not results:
+        return None
+
+    df = pd.DataFrame(results)
+    overall = len(df)
+    correct_count = int(df["correct"].sum())
+    win_rate = round(correct_count / overall * 100, 1) if overall > 0 else 0
+
+    per_pair = df.groupby("pair").agg(
+        trades=("correct", "count"),
+        wins=("correct", "sum"),
+        avg_change=("change_pct", "mean"),
+    ).reset_index()
+    per_pair["win_rate"] = (per_pair["wins"] / per_pair["trades"] * 100).round(1)
+
+    return {
+        "overall": {"trades": overall, "correct": correct_count, "win_rate": win_rate},
+        "per_pair": per_pair.sort_values("win_rate", ascending=False),
+        "trades": df.tail(20).to_dict("records"),
+    }
+
+
+
 def signal_label(signal):
     return {"BUY": "🟢 BUY", "SELL": "🔴 SELL", "HOLD": "⚪ HOLD"}[signal]
 
@@ -193,17 +264,24 @@ def next_pipeline_txt():
 st.set_page_config(page_title="Forex Signals", layout="wide")
 st.markdown(ANIM_CSS, unsafe_allow_html=True)
 
-# Top bar
-title_col, refresh_col, clock_col = st.columns([2, 1, 1])
-with title_col:
-    st.title("📊 Forex Signal App")
-    st.caption("Live headlines · Live prices · Hourly signals")
-with refresh_col:
-    st.markdown(f"<div class='meta' style='text-align:right;padding-top:18px;'>{next_pipeline_txt()}</div>", unsafe_allow_html=True)
-with clock_col:
+# Auto-refresh every 60s
+st.markdown("<meta http-equiv='refresh' content='60'>", unsafe_allow_html=True)
+
+# Sidebar
+with st.sidebar:
+    st.header("Settings")
+    selected_pair = st.selectbox("Filter by Pair", ["All Pairs"] + ALL_PAIRS, index=0)
     if st.button("🔄 Refresh Now", use_container_width=True):
         st.cache_data.clear()
         st.rerun()
+
+# Top bar
+title_col, clock_col = st.columns([3, 1])
+with title_col:
+    st.title("📊 Forex Signal App")
+    st.caption("Live headlines · Live prices · Hourly signals")
+with clock_col:
+    st.markdown(f"<div class='meta' style='text-align:right;padding-top:18px;'>{next_pipeline_txt()}</div>", unsafe_allow_html=True)
 
 # ── Live prices bar ───────────────────────────────────────────────────────────────
 
@@ -253,6 +331,8 @@ with col1:
     pair_map = ph_data.get("pairs", {}) if ph_data else {}
     if isinstance(latest, dict) and latest.get("signals"):
         sigs = latest["signals"]
+        if selected_pair != "All Pairs":
+            sigs = [s for s in sigs if s["pair"] == selected_pair]
         for s in sigs:
             cls = {"BUY": "buy-card", "SELL": "sell-card", "HOLD": "hold-card"}[s["signal"]]
             emoji = {"BUY": "🟢", "SELL": "🔴", "HOLD": "⚪"}[s["signal"]]
@@ -306,7 +386,14 @@ with col2:
     st.subheader("📰 Live Headlines")
     st.caption("RSS → VADER sentiment, live on every page load")
     if headlines:
-        for i, h in enumerate(headlines[:15]):
+        filtered_h = headlines
+        if selected_pair != "All Pairs":
+            target_codes = selected_pair.replace("/", "").split()
+            # Detect which codes in the pair
+            base, quote = selected_pair.split("/")
+            filtered_h = [h for h in headlines if base in h.get("currencies",[]) or quote in h.get("currencies",[])]
+            filtered_h = filtered_h[:15]
+        for i, h in enumerate(filtered_h[:15]):
             delay = i * 0.05
             tag = {"bullish": "🟢 Bullish", "bearish": "🔴 Bearish", "neutral": "⚪ Neutral"}[h["label"]]
             score_cls = "price-up" if h["score"] > 0 else "price-down"
@@ -377,3 +464,43 @@ st.markdown(
     "</div>",
     unsafe_allow_html=True,
 )
+
+# ── Accuracy tracking ─────────────────────────────────────────────────────────────
+
+st.divider()
+st.subheader("🎯 Signal Accuracy vs Market")
+
+acc = fetch_accuracy()
+if acc:
+    o = acc["overall"]
+    ca, cb, cc, cd = st.columns(4)
+    ca.metric("Total Trades", o["trades"])
+    cb.metric("Correct", o["correct"])
+    correct_cls = "price-up" if o["win_rate"] >= 50 else "price-down"
+    cb2 = cb.markdown if cb.markdown else cb
+    cd.metric("Win Rate", f"{o['win_rate']}%")
+
+    st.dataframe(
+        acc["per_pair"],
+        column_config={
+            "pair": "Pair", "trades": "Trades",
+            "wins": "Wins", "win_rate": st.column_config.NumberColumn("Win Rate", format="%.1f%%"),
+            "avg_change": st.column_config.NumberColumn("Avg Change", format="%.2f%%"),
+        },
+        use_container_width=True,
+        hide_index=True,
+    )
+
+    with st.expander("📋 Recent Trades"):
+        for t in acc["trades"][-15:]:
+            emoji = "✅" if t["correct"] else "❌"
+            signal_emoji = "📈 BUY" if t["signal"] == "BUY" else "📉 SELL"
+            score_cls = "price-up" if t["change_pct"] > 0 else "price-down"
+            st.markdown(
+                f"{emoji} {t['pair']} {signal_emoji} (score {t['score']:+.3f}) → "
+                f"<span class='{score_cls}'>{t['change_pct']:+.2f}%</span> "
+                f"<span class='meta'>{t['time']}</span>",
+                unsafe_allow_html=True,
+            )
+else:
+    st.info("Not enough data yet. Accuracy appears after multiple pipeline runs.")

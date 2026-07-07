@@ -1,161 +1,156 @@
 {
   "headlines": [
     {
-      "title": "South Korea's currency chief says in talks with Japan, allies - Reuters",
+      "title": "Bank of Israel intervenes in forex trading again - Globes - Israel Business News",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Interest Rate Gaps Are Rewriting Currency Markets - StoneX",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.4588,
-      "currencies": []
-    },
-    {
-      "title": "AriseAlpha Launches AI Forex Trading Bot as Automated Currency Trading Demand Surges in 2026 - The National Law Review",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.3612,
-      "currencies": []
-    },
-    {
-      "title": "Golden shiny currency symbols US dollar, Euro, British pound, Japanese yen on black cubes. - Action Forex",
+      "title": "USD/JPY forecast: Currency Pair of the Week | July 6, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Euro Rebounds but Stalls Below Key Resistance - TradingPedia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan\u2019s forex chief flags contact with U.S. and intervention impact - The Japan Times",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "USD/JPY Caught Between NFP, the Fed and MOF Intervention Risk - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.2732,
       "currencies": [
         "USD",
         "JPY"
       ]
     },
     {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
+      "title": "EUR/USD Signal: Double Top Suggests Line of Least Resistance is Lower - DailyForex",
       "source": "Google News",
       "label": "neutral",
-      "score": 0.1027,
-      "currencies": []
-    },
-    {
-      "title": "USD/KRW close to multi-year highs despite rising South Korean inflation - FXCM Markets",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "USD/SEK holds near 1-week peak with focus on NFP data - TradingPedia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "The Yen's Biggest Test Since 1986 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "GBP/JPY Below 216 as Yen Spike Spurs Intervention Talk - TradingPedia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "JPY"
-      ]
-    },
-    {
-      "title": "USD/CHF forecast: Bullish wedge keeps upside in focus ahead of payrolls - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "CHF"
-      ]
-    },
-    {
-      "title": "EUR/USD Edges Up, But Technicals Still Lean Bearish - TradingPedia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "score": -0.1027,
       "currencies": [
         "EUR",
         "USD"
       ]
     },
     {
-      "title": "Swiss Franc Firms as Markets Eye Inflation - TradingPedia",
+      "title": "India Banks Slash Short-Term Debt Sales on Cheaper Forex Funding - Bloomberg.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5574,
+      "currencies": []
+    },
+    {
+      "title": "Dollar Gains Against Franc as 0.8075 Resistance Nears - TradingPedia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.34,
+      "currencies": []
+    },
+    {
+      "title": "Hong Kong Forex Reserves at 2022-Highs - TradingView",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Meta launches Pocket app for AI-generated interactive content",
+      "title": "Bank of Israel intervenes in forex for first time since pandemic - Ynetnews",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "India banks slash short-term debt sales on cheaper forex funding - Yahoo Finance Singapore",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5574,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: Markets cling to a cautious stance after choppy action to start week - FXStreet",
+      "source": "Google News",
+      "label": "neutral",
+      "score": -0.1027,
+      "currencies": []
+    },
+    {
+      "title": "Intervention fears to continue to help keep a lid on USD/JPY upside - Credit Agricole - investingLive",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.3612,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0258,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Pound Extends Rally as Softer Fed Bets Weigh on Dollar - TradingPedia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.4588,
+      "currencies": []
+    },
+    {
+      "title": "Form 144 Pennant Group For: 7 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 Rocky Brands Inc For: 2 July",
+      "title": "Form 144 SEMTECH CORP For: 7 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Ceribell director William Burke sells $43,786 in company stock.",
+      "title": "Form 144 CORCEPT THERAPEUTICS INC For: 7 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Freddie Mac reports 30-year mortgage rate falls to 6.43%",
+      "title": "Pulsar Helium launches retail share offer at 75p",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.296,
+      "currencies": []
+    },
+    {
+      "title": "Form 144 RECURSION PHARMACEUTICALS For: 7 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "TSX edges higher following U.S. jobs data",
+      "title": "Form 144 AMERICAN EAGLE OUTFITTERS INC For: 7 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 144 Aon plc For: 7 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 144 Petco Health & Wellness Company For: 7 July",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.4404,
       "currencies": []
     }
   ],
-  "run_id": 11
+  "run_id": 2
 }
