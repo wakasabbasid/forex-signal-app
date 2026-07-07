@@ -57,6 +57,33 @@ def export_latest(engine_name: str = "vader") -> None:
     (DATA_DIR / "latest.json").write_text(json.dumps(latest, indent=2))
     print(f"Wrote {DATA_DIR / 'latest.json'}")
 
+    # Per-pair headline breakdown for drill-down
+    pair_h_map: dict[str, list[dict]] = {}
+    for h in headlines:
+        for code in h.currencies:
+            # Map currency code back to pair (from signals logic)
+            # Simple: use CURRENCY_PAIRS from config, but we only know codes
+            # The cleanest: re-derive pairs from signals
+            pass
+
+    # Better approach: derive from signal generation — for each headline,
+    # check which pairs it could belong to based on detected currencies
+    from src.forex_signal.signals import resolve_pairs
+    pair_h_map = {}
+    for h in headlines:
+        pairs = resolve_pairs(h.currencies)
+        for p in pairs:
+            pair_h_map.setdefault(p, []).append({
+                "title": h.title,
+                "source": h.source,
+                "label": h.label,
+                "score": round(h.score, 4),
+            })
+    (DATA_DIR / "pair_headlines.json").write_text(
+        json.dumps({"run_id": run_id, "pairs": pair_h_map}, indent=2)
+    )
+    print(f"Wrote {DATA_DIR / 'pair_headlines.json'}")
+
     h_data = [
         {"title": h.title, "source": h.source, "label": h.label, "score": round(h.score, 4), "currencies": h.currencies}
         for h in headlines[:20]

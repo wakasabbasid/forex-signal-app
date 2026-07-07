@@ -109,13 +109,7 @@ ANIM_CSS = """
 
 
 @st.cache_data(ttl=600)
-def fetch_runs():
-    try:
-        with urlopen(f"{GH_PAGES}/runs.json", timeout=10) as r:
-            return json.loads(r.read()).get("runs", [])
-    except Exception:
-        return []
-
+def fetch_signals():
     try:
         with urlopen(f"{GH_PAGES}/latest.json", timeout=10) as r:
             return json.loads(r.read())
@@ -123,8 +117,17 @@ def fetch_runs():
         return {}
 
 
-@st.cache_data(ttl=0)
-def fetch_live_headlines():
+@st.cache_data(ttl=600)
+def fetch_pair_headlines():
+    try:
+        with urlopen(f"{GH_PAGES}/pair_headlines.json", timeout=10) as r:
+            return json.loads(r.read())
+    except Exception:
+        return {}
+
+
+@st.cache_data(ttl=600)
+def fetch_runs():
     analyzer = SentimentIntensityAnalyzer()
     analyzer.lexicon.update(FINANCIAL_LINGO)
 
@@ -246,23 +249,45 @@ col1, col2 = st.columns([1.1, 1.3])
 with col1:
     st.subheader("🔴🟢 Live Signals")
     latest = fetch_signals()
+    ph_data = fetch_pair_headlines()
+    pair_map = ph_data.get("pairs", {}) if ph_data else {}
     if isinstance(latest, dict) and latest.get("signals"):
         sigs = latest["signals"]
-        sub_cols = st.columns(2)
-        for idx, s in enumerate(sigs):
-            with sub_cols[idx % 2]:
+        for s in sigs:
+            cls = {"BUY": "buy-card", "SELL": "sell-card", "HOLD": "hold-card"}[s["signal"]]
+            emoji = {"BUY": "🟢", "SELL": "🔴", "HOLD": "⚪"}[s["signal"]]
+            arrow = {"BUY": "📈", "SELL": "📉", "HOLD": "➡"}[s["signal"]]
+
+            # Build headline drill-down
+            h_list = pair_map.get(s["pair"], [])
+            h_md = ""
+            for h in h_list:
+                tag = {"bullish": "🟢", "bearish": "🔴", "neutral": "⚪"}.get(h.get("label", ""), "⚪")
+                cls = "price-up" if h["score"] > 0 else "price-down"
+                h_md += f'<div class="meta" style="padding:2px 0;">{tag} <span class="{cls}">{h["score"]:+.4f}</span> {h["title"][:90]}</div>'
+
+            expand = len(h_list) > 0
+            if expand:
+                with st.expander(f"", expanded=False):
+                    st.markdown(
+                        f'<div class="{cls}">'
+                        f'  <div style="font-size:18px;font-weight:700;">{arrow} {s["pair"]}</div>'
+                        f'  <div style="font-size:22px;font-weight:800;margin:2px 0;">{emoji} {s["signal"]}</div>'
+                        f'  <div class="meta">score {s["avg_score"]:+.3f} · {s["headline_count"]} news</div>'
+                        f'</div>',
+                        unsafe_allow_html=True,
+                    )
+                    st.markdown(f"**Headlines driving this signal:**")
+                    st.markdown(h_md, unsafe_allow_html=True)
+            else:
                 st.markdown(
-                    f'<div class="{card_class(s["signal"])}">'
-                    f'  <div style="font-size:18px;font-weight:700;">{signal_arrow(s["signal"])} {s["pair"]}</div>'
-                    f'  <div style="font-size:22px;font-weight:800;margin:2px 0;">{signal_label(s["signal"])}</div>'
+                    f'<div class="{cls}">'
+                    f'  <div style="font-size:18px;font-weight:700;">{arrow} {s["pair"]}</div>'
+                    f'  <div style="font-size:22px;font-weight:800;margin:2px 0;">{emoji} {s["signal"]}</div>'
                     f'  <div class="meta">score {s["avg_score"]:+.3f} · {s["headline_count"]} news</div>'
                     f'</div>',
                     unsafe_allow_html=True,
                 )
-        st.caption(
-            f"Run #{latest.get('run_id', '?')} · {ENGINE_META.get(latest.get('engine', ''), latest.get('engine', '?'))} · "
-            f"{latest.get('headline_count', 0)} headlines · {latest.get('source_count', 0)} sources"
-        )
 
         # Mini stats
         total = len(sigs)
