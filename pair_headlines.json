@@ -9,10 +9,10 @@
         "score": 0.0
       },
       {
-        "title": "Intervention fears to continue to help keep a lid on USD/JPY upside - Credit Agricole - investingLive",
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bullish",
+        "score": 0.6676
       }
     ],
     "EUR/USD": [
@@ -21,14 +21,6 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      }
-    ],
-    "USD/CAD": [
-      {
-        "title": "USD/CAD Price Forecast: Buyers retain the upper hand even as momentum weakens",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.4931
       }
     ]
   }

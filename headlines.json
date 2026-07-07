@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0411\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0438",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Bank of Israel intervenes in forex trading again - Globes - Israel Business News",
       "source": "Google News",
       "label": "neutral",
@@ -35,6 +42,13 @@
       "currencies": []
     },
     {
+      "title": "Forex Today: US Dollar steadies as Williams keeps inflation caution alive - FXStreet",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7543,
+      "currencies": []
+    },
+    {
       "title": "Bank of Israel intervenes in forex for first time since pandemic - Ynetnews",
       "source": "Google News",
       "label": "neutral",
@@ -49,18 +63,20 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar steadies as Williams keeps inflation caution alive - FXStreet",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7543,
-      "currencies": []
-    },
-    {
       "title": "Hong Kong Forex Reserves at 2022-Highs - TradingView",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
+    },
+    {
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "Pound Extends Rally as Softer Fed Bets Weigh on Dollar - TradingPedia",
@@ -77,76 +93,59 @@
       "currencies": []
     },
     {
-      "title": "Intervention fears to continue to help keep a lid on USD/JPY upside - Credit Agricole - investingLive",
-      "source": "Google News",
+      "title": "Form 4 Venu Holding For: 7 July",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
-      "title": "AFRICA-FX-Ugandan and Kenyan currencies could climb, Zambia's may slide - Reuters",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6939,
       "currencies": []
     },
     {
-      "title": "Crude Oil Inventories Fall Less Than Expected, Signaling Lower Demand",
+      "title": "US launches new strikes on Iran after reinstating oil sanctions over shipping attacks",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9699,
+      "score": -0.5902,
       "currencies": []
     },
     {
-      "title": "Monte Rosa Therapeutics CSO Sharon Townson sells shares worth $139,849",
+      "title": "Oil jumps after settlement as US revokes general license for Iran oil sales",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5754,
+      "currencies": []
+    },
+    {
+      "title": "Form 144 IRONWOOD PHARMACEUTICALS For: 7 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "BBSI director Anthony Meeker disposes of $454,226 in company stock",
+      "title": "Form 144 APPFOLIO For: 7 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 144 XERIS BIOPHARMA HOLDINGS For: 7 July",
+      "title": "Form 4 BioLargo Inc For: 7 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 144 AtaiBeckley Inc. For: 7 July",
+      "title": "Form 144 dLocal Ltd For: 7 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 Insulet Corporation For: 7 July",
+      "title": "Form 144 SOPHIA GENETICS SA For: 7 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "First Majestic to sell San Martin mine for $90 million",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "iOThree reports 40% revenue growth for fiscal 2026",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9464,
       "currencies": []
     }
   ],
