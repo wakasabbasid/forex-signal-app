@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0411\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0438",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Bank of Israel intervenes in forex trading again - Globes - Israel Business News",
       "source": "Google News",
       "label": "neutral",
@@ -8,20 +15,19 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY forecast: Currency Pair of the Week | July 6, 2026 - FOREX.com",
+      "title": "U.S. Dollar to Turkish Lira - USD/TRY Exchange Rate Chart - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
-        "USD",
-        "JPY"
+        "USD"
       ]
     },
     {
-      "title": "EUR/USD Signal: Double Top Suggests Line of Least Resistance is Lower - DailyForex",
+      "title": "EUR/USD Analysis 07/07: Interest Rate Outlook Continues - DailyForex",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.7359,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
         "EUR",
         "USD"
@@ -35,10 +41,10 @@
       "currencies": []
     },
     {
-      "title": "Dollar Gains Against Franc as 0.8075 Resistance Nears - TradingPedia",
+      "title": "India banks slash short-term debt sales on cheaper forex funding - Yahoo Finance Singapore",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.6296,
+      "label": "bearish",
+      "score": -0.9588,
       "currencies": []
     },
     {
@@ -46,6 +52,13 @@
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Pound Extends Rally as Softer Fed Bets Weigh on Dollar - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6322,
       "currencies": []
     },
     {
@@ -66,97 +79,77 @@
       ]
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.6676,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "USD/JPY forecast: Currency Pair of the Week | July 6, 2026 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
-        "USD"
+        "USD",
+        "JPY"
       ]
     },
     {
-      "title": "Pound Extends Rally as Softer Fed Bets Weigh on Dollar - TradingPedia",
-      "source": "Google News",
+      "title": "Form 144 RECURSION PHARMACEUTICALS For: 7 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Columns in Manhattan high-rise buckle, prompting evacuations",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6322,
+      "score": -0.9523,
       "currencies": []
     },
     {
-      "title": "GBP/USD outlook: Impressive rebound arrives at key technical test - FOREX.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8794,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "Japan Forex Reserves Extend Decline in June - TradingView",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9737,
-      "currencies": []
-    },
-    {
-      "title": "Allied Critical Metals Confirms New High-Grade Tungsten Mineralization at the Venise Breccia with 13 Metres of 1.00% WO3 including 3 Metres of 4.15% WO3",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8685,
-      "currencies": []
-    },
-    {
-      "title": "NATO allies to discuss Hormuz tensions, mission with Gulf Arabs",
+      "title": "Form 4 GlobalFoundries Inc For: 7 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "American Electric Power Company stock hits all-time high at 139.5 USD",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5747,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Adia Nutrition nears final approval for name change to Adia Med",
+      "title": "Video shows suspect in sniper position as Charlie Kirk shot, Utah prosecutors say",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "UBS raises Unum Group stock price target to $94 on LTC deal",
+      "title": "GlobalFoundries chief legal officer sells $25,915 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "UBS reiterates Buy on Smurfit Westrock stock, $56 target maintained",
+      "title": "Autodesk\u2019s SWOT analysis: stock expansion into operations market",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "UBS reiterates Cboe Global Markets stock rating on June metrics",
+      "title": "Garden Valley Technologies expands Calix platform investment",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "American States Water stock hits 52-week high at 85.33 USD",
+      "title": "Bulldog Investors calls for expanded share buybacks at CION",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6791,
-      "currencies": [
-        "USD"
-      ]
+      "score": 0.8718,
+      "currencies": []
     }
   ],
   "run_id": 1
