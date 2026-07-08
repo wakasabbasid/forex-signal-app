@@ -7,6 +7,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "EUR/GBP Price Forecasts: Euro holds below 0.8450 with indicators showing some bullish divergence",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.7201
       }
     ],
     "USD/JPY": [
@@ -17,10 +23,10 @@
         "score": 0.0
       },
       {
-        "title": "Silver Price Forecast: XAG/USD falls toward $58.00 as Trump declares Iran truce \u201cfinished\u201d",
-        "source": "FXStreet",
+        "title": "USD/SGD Analysis 08/07: Speculative Realm Holds Tight - DailyForex",
+        "source": "Google News",
         "label": "bearish",
-        "score": -0.9669
+        "score": -0.5762
       }
     ],
     "NZD/USD": [
@@ -49,16 +55,10 @@
     ],
     "EUR/USD": [
       {
-        "title": "EUR/USD Analysis: Interest Rate Outlook Continues to Impact Currency Prices - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "EUR/USD Price Forecast: Euro hesitates above 1.1400 as geopolitical risks mount",
+        "title": "EUR/GBP Price Forecasts: Euro holds below 0.8450 with indicators showing some bullish divergence",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9058
+        "score": -0.7201
       }
     ]
   }
