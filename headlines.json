@@ -1,13 +1,6 @@
 {
   "headlines": [
     {
-      "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0411\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0438",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Bank of Israel intervenes in forex trading again - Globes - Israel Business News",
       "source": "Google News",
       "label": "neutral",
@@ -25,7 +18,7 @@
       ]
     },
     {
-      "title": "EUR/USD Analysis 07/07: Interest Rate Outlook Continues - DailyForex",
+      "title": "EUR/USD Analysis: Interest Rate Outlook Continues to Impact Currency Prices - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -42,13 +35,6 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar steadies as Williams keeps inflation caution alive - FXStreet",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7543,
-      "currencies": []
-    },
-    {
       "title": "Bank of Israel intervenes in forex for first time since pandemic - Ynetnews",
       "source": "Google News",
       "label": "neutral",
@@ -60,6 +46,13 @@
       "source": "Google News",
       "label": "bearish",
       "score": -0.9588,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: US Dollar steadies as Williams keeps inflation caution alive - FXStreet",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7543,
       "currencies": []
     },
     {
@@ -93,56 +86,66 @@
       "currencies": []
     },
     {
-      "title": "Form 4 Venu Holding For: 7 July",
+      "title": "Intervention fears to continue to help keep a lid on USD/JPY upside - Credit Agricole - investingLive",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "Form 4 I Mab For: 7 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US launches new strikes on Iran after reinstating oil sanctions over shipping attacks",
+      "title": "IperionX prices $50M public offering at $21.98 per ADS",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "NovaBridge Biosciences SVP sells $3,991 in ordinary shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Bernie Sanders urges Platner to quit Maine Senate race as Democrats vie to succeed him",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5902,
+      "score": -0.8747,
       "currencies": []
     },
     {
-      "title": "Oil jumps after settlement as US revokes general license for Iran oil sales",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5754,
-      "currencies": []
-    },
-    {
-      "title": "Form 144 IRONWOOD PHARMACEUTICALS For: 7 July",
+      "title": "Form 4 Hinge Health Inc For: 7 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 144 APPFOLIO For: 7 July",
+      "title": "Form 4 Solitron Devices Inc For: 7 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 BioLargo Inc For: 7 July",
+      "title": "Form 4 Reddit Inc For: 7 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 144 dLocal Ltd For: 7 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 144 SOPHIA GENETICS SA For: 7 July",
+      "title": "Form 4 Lifestance Health Group Inc For: 7 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

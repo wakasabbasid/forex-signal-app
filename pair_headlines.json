@@ -13,14 +13,34 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.6676
+      },
+      {
+        "title": "Intervention fears to continue to help keep a lid on USD/JPY upside - Credit Agricole - investingLive",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "GBP/JPY Price Forecast: Struggles at 217.00, recoils towards 216.50",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.6598
       }
     ],
     "EUR/USD": [
       {
-        "title": "EUR/USD Analysis 07/07: Interest Rate Outlook Continues - DailyForex",
+        "title": "EUR/USD Analysis: Interest Rate Outlook Continues to Impact Currency Prices - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/JPY Price Forecast: Struggles at 217.00, recoils towards 216.50",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.6598
       }
     ]
   }
