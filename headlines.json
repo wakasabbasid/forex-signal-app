@@ -28,6 +28,13 @@
       "currencies": []
     },
     {
+      "title": "ED searches money changers\u2019 premises over alleged FEMA violations - The Hindu",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7846,
+      "currencies": []
+    },
+    {
       "title": "Czech Republic Forex Reserves at 3-Month Low - TradingView",
       "source": "Google News",
       "label": "bearish",
@@ -56,7 +63,7 @@
       "currencies": []
     },
     {
-      "title": "Market Threads \u2013 Oil Risk Premium Still in Play - FXCM Markets",
+      "title": "AriseAlpha Launches AI Forex Trading Bot as Automated Currency Trading Demand Surges in 2026 - The National Law Review",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -86,63 +93,58 @@
       "currencies": []
     },
     {
-      "title": "India's forex reserves fall to over one-year low as central bank mounts rupee defence - Reuters",
-      "source": "Google News",
+      "title": "Post Holdings stock hits 52-week low at 86.27 USD",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9426,
+      "score": -0.9482,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Trump says interim accord to end Iran war is \u2019over\u2019, warns of US strikes on Wednesday",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.4816,
       "currencies": []
     },
     {
-      "title": "ResMed stock held at Hold by Needham as MatrixCare sale announced",
+      "title": "Form 4 Old National Bancorp For: 8 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Saratoga Investment misses Q1 2026 estimates as stock falls",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8981,
-      "currencies": []
-    },
-    {
-      "title": "Mexico expects economy to outperform IMF projections",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9119,
-      "currencies": []
-    },
-    {
-      "title": "Wall Street slides, Dow sheds 1.5% as geopolitical risk premium resurges",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.95,
-      "currencies": []
-    },
-    {
-      "title": "American Electric Power secures $3.26 billion DOE loan for Texas grid",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9288,
-      "currencies": []
-    },
-    {
-      "title": "Morocco stocks lower at close of trade; Moroccan All Shares down 0.93%",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9683,
-      "currencies": []
-    },
-    {
-      "title": "JPMorgan hires veteran banker Michael Flynn to lead small-cap banking business",
+      "title": "Form 144 CASEYS GENERAL STORES INC For: 8 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "China plans to let top AI firms buy limited amount of Nvidia H200 chips, the Information reports",
+      "title": "BofA extends first $520 million loan to OpenAI ahead of IPO, source says",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Court authorizes E. Jean Carroll to collect $5 million damages award from Trump",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Sherwin-Williams Co For: 8 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "China gave little notice, detail to US before July 6 missile test, State Dept official says",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
