@@ -18,16 +18,6 @@
       ]
     },
     {
-      "title": "EUR/USD Analysis: Interest Rate Outlook Continues to Impact Currency Prices - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
       "title": "India Banks Slash Short-Term Debt Sales on Cheaper Forex Funding - Bloomberg.com",
       "source": "Google News",
       "label": "bearish",
@@ -40,6 +30,16 @@
       "label": "neutral",
       "score": 0.0,
       "currencies": []
+    },
+    {
+      "title": "EUR/USD Analysis: Interest Rate Outlook Continues to Impact Currency Prices - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
     },
     {
       "title": "India banks slash short-term debt sales on cheaper forex funding - Yahoo Finance Singapore",
@@ -56,7 +56,7 @@
       "currencies": []
     },
     {
-      "title": "Hong Kong Forex Reserves at 2022-Highs - TradingView",
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -72,83 +72,80 @@
       ]
     },
     {
-      "title": "Pound Extends Rally as Softer Fed Bets Weigh on Dollar - TradingPedia",
+      "title": "Hong Kong Forex Reserves at 2022-Highs - TradingView",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "AFRICA-FX-Ugandan and Kenyan currencies could climb, Zambia's may slide - Reuters",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.6322,
+      "score": -0.6939,
       "currencies": []
     },
     {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
+      "title": "How to strengthen Indian rupee without a rate hike - The Economic Times",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Intervention fears to continue to help keep a lid on USD/JPY upside - Credit Agricole - investingLive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
-      "title": "Form 4 I Mab For: 7 July",
+      "title": "Why is Inpex stock rallying today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "IperionX prices $50M public offering at $21.98 per ADS",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "NovaBridge Biosciences SVP sells $3,991 in ordinary shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Bernie Sanders urges Platner to quit Maine Senate race as Democrats vie to succeed him",
+      "title": "BHP faces Port Hedland strike as unions threaten iron ore export disruption",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8747,
+      "score": -0.937,
       "currencies": []
     },
     {
-      "title": "Form 4 Hinge Health Inc For: 7 July",
+      "title": "NATO leaders meet in Ankara after Trump rekindles disputes over Iran, Greenland",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 Solitron Devices Inc For: 7 July",
+      "title": "OpenAI gets US approval for broad GPT-5.6 rollout, Axios reports",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.908,
+      "currencies": []
+    },
+    {
+      "title": "Zhipu AI jumps on report it is exploring custom AI chip for GLM models",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5251,
+      "currencies": []
+    },
+    {
+      "title": "Jay Clayton\u2019s US intelligence director nomination hearing set for July 15",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 Reddit Inc For: 7 July",
+      "title": "US launches new strikes on Iran after reinstating oil sanctions over shipping attacks",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.5902,
       "currencies": []
     },
     {
-      "title": "Form 4 Lifestance Health Group Inc For: 7 July",
+      "title": "Oil climbs, bonds slide on Mideast hostilities",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.8975,
       "currencies": []
     }
   ],

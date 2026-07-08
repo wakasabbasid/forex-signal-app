@@ -15,16 +15,40 @@
         "score": 0.6676
       },
       {
-        "title": "Intervention fears to continue to help keep a lid on USD/JPY upside - Credit Agricole - investingLive",
-        "source": "Google News",
+        "title": "PBOC sets USD/ CNY mid-point today at 6.8077 (vs. estimate at 6.8018)",
+        "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "GBP/JPY Price Forecast: Struggles at 217.00, recoils towards 216.50",
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.8018 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "New Zealand Dollar rallies to 0.5700 vs USD on expected RBNZ rate hike",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8035
+      },
+      {
+        "title": "XAG/USD Price Forecast: Defends bearish flag support near mid-$59.00s",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.624
+      },
+      {
+        "title": "Euro struggles above 1.1400 as fresh US strikes on Iran support USD ahead of FOMC Minutes",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.6598
+        "score": -0.6916
+      },
+      {
+        "title": "PBOC sets USD/CNY reference rate at 6.8077 vs. 6.8054 previous",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "EUR/USD": [
@@ -35,12 +59,26 @@
         "score": 0.0
       }
     ],
-    "GBP/USD": [
+    "NZD/USD": [
       {
-        "title": "GBP/JPY Price Forecast: Struggles at 217.00, recoils towards 216.50",
+        "title": "NZD has jumped after the RBNZ rate hike and indication that further rate risers are ahead",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.9353
+      },
+      {
+        "title": "New Zealand Dollar advances as RBNZ hike weighs on AUD/NZD",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.6598
+        "label": "bullish",
+        "score": 0.7858
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "New Zealand Dollar advances as RBNZ hike weighs on AUD/NZD",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.7858
       }
     ]
   }
