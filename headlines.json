@@ -1,13 +1,6 @@
 {
   "headlines": [
     {
-      "title": "Bank of Israel intervenes in forex trading again - Globes - Israel Business News",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "USD/JPY forecast: Currency Pair of the Week | July 6, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -18,17 +11,34 @@
       ]
     },
     {
-      "title": "India Banks Slash Short-Term Debt Sales on Cheaper Forex Funding - Bloomberg.com",
+      "title": "Bank of Israel intervenes in forex trading again - Globes - Israel Business News",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9431,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
+    },
+    {
+      "title": "USD/CAD Gains as Geopolitics, Fed Awaited - TradingPedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "CAD"
+      ]
     },
     {
       "title": "Bank of Israel intervenes in forex for first time since pandemic - Ynetnews",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "India banks slash short-term debt sales on cheaper forex funding - Yahoo Finance Singapore",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9588,
       "currencies": []
     },
     {
@@ -42,21 +52,21 @@
       ]
     },
     {
-      "title": "India banks slash short-term debt sales on cheaper forex funding - Yahoo Finance Singapore",
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "AFRICA-FX-Ugandan and Kenyan currencies could climb, Zambia's may slide - Reuters",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9588,
+      "score": -0.6939,
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar steadies as Williams keeps inflation caution alive - FXStreet",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7543,
-      "currencies": []
-    },
-    {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
+      "title": "AriseAlpha Launches AI Forex Trading Bot as Automated Currency Trading Demand Surges in 2026 - The National Law Review",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -72,80 +82,76 @@
       ]
     },
     {
-      "title": "Hong Kong Forex Reserves at 2022-Highs - TradingView",
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9371,
+      "currencies": []
+    },
+    {
+      "title": "NZD/CHF Analysis: Which Currency Breaks the Consolidation First? - Action Forex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "NZD",
+        "CHF"
+      ]
     },
     {
-      "title": "AFRICA-FX-Ugandan and Kenyan currencies could climb, Zambia's may slide - Reuters",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6939,
-      "currencies": []
-    },
-    {
-      "title": "How to strengthen Indian rupee without a rate hike - The Economic Times",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is Inpex stock rallying today?",
+      "title": "Top 4 Reform Themes Affecting Indian Equities, According to BofA",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "BHP faces Port Hedland strike as unions threaten iron ore export disruption",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.937,
-      "currencies": []
-    },
-    {
-      "title": "NATO leaders meet in Ankara after Trump rekindles disputes over Iran, Greenland",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "OpenAI gets US approval for broad GPT-5.6 rollout, Axios reports",
+      "title": "Victoria PLC secures \u00a3300m debt reduction in refinancing deal",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.908,
+      "score": 0.5598,
       "currencies": []
     },
     {
-      "title": "Zhipu AI jumps on report it is exploring custom AI chip for GLM models",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5251,
-      "currencies": []
-    },
-    {
-      "title": "Jay Clayton\u2019s US intelligence director nomination hearing set for July 15",
+      "title": "Morgan Stanley initiates Honeywell Aerospace stock at equalweight",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US launches new strikes on Iran after reinstating oil sanctions over shipping attacks",
+      "title": "Morgan Stanley downgrades Lemonade stock rating to Equalweight on valuation",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5902,
+      "score": -0.7109,
       "currencies": []
     },
     {
-      "title": "Oil climbs, bonds slide on Mideast hostilities",
+      "title": "Europe stocks fall as geopolitical flusion and Fed anxiousness weigh",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8975,
+      "score": -0.9582,
+      "currencies": []
+    },
+    {
+      "title": "Japan considers policy wording change as BOJ independence fears roil bonds",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7731,
+      "currencies": []
+    },
+    {
+      "title": "Russia launches third air attack on Kyiv in a week, officials say",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7648,
+      "currencies": []
+    },
+    {
+      "title": "Thousands march as Khamenei\u2019s funeral procession crosses into Iraq",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

@@ -15,40 +15,24 @@
         "score": 0.6676
       },
       {
-        "title": "PBOC sets USD/ CNY mid-point today at 6.8077 (vs. estimate at 6.8018)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.8018 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "New Zealand Dollar rallies to 0.5700 vs USD on expected RBNZ rate hike",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8035
-      },
-      {
-        "title": "XAG/USD Price Forecast: Defends bearish flag support near mid-$59.00s",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.624
-      },
-      {
-        "title": "Euro struggles above 1.1400 as fresh US strikes on Iran support USD ahead of FOMC Minutes",
+        "title": "USD/JPY Price Forecast: Dollar remains capped below 162.40 resistance area",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.6916
-      },
+        "score": -0.9002
+      }
+    ],
+    "USD/CAD": [
       {
-        "title": "PBOC sets USD/CNY reference rate at 6.8077 vs. 6.8054 previous",
-        "source": "FXStreet",
+        "title": "USD/CAD Gains as Geopolitics, Fed Awaited - TradingPedia",
+        "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "USD/CAD Price Forecast: Weakens below 1.4200 as Oil gains, but technicals still favor upside",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9405
       }
     ],
     "EUR/USD": [
@@ -61,24 +45,32 @@
     ],
     "NZD/USD": [
       {
+        "title": "NZD/CHF Analysis: Which Currency Breaks the Consolidation First? - Action Forex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
         "title": "NZD has jumped after the RBNZ rate hike and indication that further rate risers are ahead",
         "source": "ForexLive",
         "label": "bullish",
         "score": 0.9353
-      },
-      {
-        "title": "New Zealand Dollar advances as RBNZ hike weighs on AUD/NZD",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.7858
       }
     ],
-    "AUD/USD": [
+    "USD/CHF": [
       {
-        "title": "New Zealand Dollar advances as RBNZ hike weighs on AUD/NZD",
+        "title": "NZD/CHF Analysis: Which Currency Breaks the Consolidation First? - Action Forex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Price Forecast: Sustenance above 20-day EMA backs further upside above 1.3400",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.7858
+        "score": 0.7767
       }
     ]
   }
