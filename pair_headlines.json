@@ -36,14 +36,6 @@
         "label": "bearish",
         "score": -0.9599
       }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/USD Price Forecast: Bears retain control within descending channel",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      }
     ]
   }
 }

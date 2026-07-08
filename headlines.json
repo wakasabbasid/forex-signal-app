@@ -28,17 +28,17 @@
       "currencies": []
     },
     {
-      "title": "ED searches money changers\u2019 premises over alleged FEMA violations - The Hindu",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7846,
-      "currencies": []
-    },
-    {
       "title": "Czech Republic Forex Reserves at 3-Month Low - TradingView",
       "source": "Google News",
       "label": "bearish",
       "score": -0.9073,
+      "currencies": []
+    },
+    {
+      "title": "ED searches money changers\u2019 premises over alleged FEMA violations - The Hindu",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7846,
       "currencies": []
     },
     {
@@ -56,6 +56,13 @@
       "currencies": []
     },
     {
+      "title": "AFRICA-FX-Ugandan and Kenyan currencies could climb, Zambia's may slide - Reuters",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6939,
+      "currencies": []
+    },
+    {
       "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
       "source": "Google News",
       "label": "bullish",
@@ -65,17 +72,10 @@
       ]
     },
     {
-      "title": "AFRICA-FX-Ugandan and Kenyan currencies could climb, Zambia's may slide - Reuters",
+      "title": "AriseAlpha Launches AI Forex Trading Bot as Automated Currency Trading Demand Surges in 2026 - The National Law Review",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.6939,
-      "currencies": []
-    },
-    {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -95,56 +95,56 @@
       "currencies": []
     },
     {
-      "title": "Stifel reaffirms Ondas Holdings stock rating on DZYNE acquisition",
+      "title": "Palisade Bio CEO, CFO Finley sells $303k in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Wolfe Research upgrades American Tower stock rating on tower market recovery",
+      "title": "AppLovin director Maynard Webb sells $1.6m in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 United Therapeutics Corporation For: 8 July",
+      "title": "Contineum Therapeutics CEO Stengone sells $40,000 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 EPR Properties For: 8 July",
+      "title": "Form 4 Cuentas Inc For: 8 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Kodiak Gas Services EVP & CHRO sells $284,992 in shares",
+      "title": "Form 144 SailPoint For: 8 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form S-1/A Texas Precious Metals Trust For: 8 July",
+      "title": "Form 13D/A TERADATA CORP /DE/ For: 8 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 JFB Construction Holdings For: 8 July",
+      "title": "Form 4 Jewett-Cameron Trading Company Ltd For: 8 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 13D/A Greenidge Generation Holdings Inc. For: 8 July",
+      "title": "Cuentas insider OAS Energy buys $1,107 of CUEN stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
