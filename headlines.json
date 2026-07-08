@@ -21,17 +21,17 @@
       ]
     },
     {
+      "title": "Bank of Israel intervenes in forex trading again - Globes - Israel Business News",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "ED searches money changers\u2019 premises over alleged FEMA violations - The Hindu",
       "source": "Google News",
       "label": "bearish",
       "score": -0.7846,
-      "currencies": []
-    },
-    {
-      "title": "Canadian Dollar Gains as Oil Rally Boosts Loonie - TradingPedia",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8064,
       "currencies": []
     },
     {
@@ -42,7 +42,14 @@
       "currencies": []
     },
     {
-      "title": "Bank of Israel intervenes in forex trading again - Globes - Israel Business News",
+      "title": "Canadian Dollar Gains as Oil Rally Boosts Loonie - TradingPedia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8064,
+      "currencies": []
+    },
+    {
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -56,13 +63,6 @@
       "currencies": [
         "USD"
       ]
-    },
-    {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
     },
     {
       "title": "AFRICA-FX-Ugandan and Kenyan currencies could climb, Zambia's may slide - Reuters",
@@ -95,59 +95,59 @@
       "currencies": []
     },
     {
-      "title": "Why is NVIDIA stock rallying today?",
+      "title": "Stifel reaffirms Ondas Holdings stock rating on DZYNE acquisition",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Iraq reportedly agrees to new dollar controls to resume U.S. cash shipments",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9093,
-      "currencies": []
-    },
-    {
-      "title": "Allstate declares $1.08 quarterly dividend payable Oct. 1",
+      "title": "Wolfe Research upgrades American Tower stock rating on tower market recovery",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "AGCO declares $0.30 quarterly dividend payable in September",
+      "title": "Form 4 United Therapeutics Corporation For: 8 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Fed minutes show high uncertainty and evenly divided debate over rate outlook",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7598,
-      "currencies": []
-    },
-    {
-      "title": "Why is Bloom Energy stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9094,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 PPG Industries  For: 8 July",
+      "title": "Form 4 EPR Properties For: 8 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Consumer credit unexpectedly contracts, raising economic concerns",
+      "title": "Kodiak Gas Services EVP & CHRO sells $284,992 in shares",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9705,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form S-1/A Texas Precious Metals Trust For: 8 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 JFB Construction Holdings For: 8 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 13D/A Greenidge Generation Holdings Inc. For: 8 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
