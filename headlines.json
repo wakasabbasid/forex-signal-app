@@ -21,17 +21,17 @@
       ]
     },
     {
-      "title": "Canadian Dollar Gains as Oil Rally Boosts Loonie - TradingPedia",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8064,
-      "currencies": []
-    },
-    {
       "title": "ED searches money changers\u2019 premises over alleged FEMA violations - The Hindu",
       "source": "Google News",
       "label": "bearish",
       "score": -0.7846,
+      "currencies": []
+    },
+    {
+      "title": "Canadian Dollar Gains as Oil Rally Boosts Loonie - TradingPedia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8064,
       "currencies": []
     },
     {
@@ -49,6 +49,15 @@
       "currencies": []
     },
     {
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
       "source": "Google News",
       "label": "neutral",
@@ -60,13 +69,6 @@
       "source": "Google News",
       "label": "bearish",
       "score": -0.6939,
-      "currencies": []
-    },
-    {
-      "title": "AriseAlpha Launches AI Forex Trading Bot as Automated Currency Trading Demand Surges in 2026 - The National Law Review",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -93,61 +95,59 @@
       "currencies": []
     },
     {
-      "title": "Post Holdings stock hits 52-week low at 86.27 USD",
+      "title": "Why is NVIDIA stock rallying today?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Iraq reportedly agrees to new dollar controls to resume U.S. cash shipments",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9093,
+      "currencies": []
+    },
+    {
+      "title": "Allstate declares $1.08 quarterly dividend payable Oct. 1",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "AGCO declares $0.30 quarterly dividend payable in September",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Fed minutes show high uncertainty and evenly divided debate over rate outlook",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9482,
-      "currencies": [
-        "USD"
-      ]
+      "score": -0.7598,
+      "currencies": []
     },
     {
-      "title": "Trump says interim accord to end Iran war is \u2019over\u2019, warns of US strikes on Wednesday",
+      "title": "Why is Bloom Energy stock sliding today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.4816,
+      "score": -0.9094,
       "currencies": []
     },
     {
-      "title": "Form 4 Old National Bancorp For: 8 July",
+      "title": "Form 4 PPG Industries  For: 8 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 144 CASEYS GENERAL STORES INC For: 8 July",
+      "title": "Consumer credit unexpectedly contracts, raising economic concerns",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "BofA extends first $520 million loan to OpenAI ahead of IPO, source says",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Court authorizes E. Jean Carroll to collect $5 million damages award from Trump",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Sherwin-Williams Co For: 8 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "China gave little notice, detail to US before July 6 missile test, State Dept official says",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9705,
       "currencies": []
     }
   ],

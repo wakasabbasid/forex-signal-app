@@ -17,22 +17,24 @@
         "score": 0.0
       },
       {
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.6676
+      },
+      {
         "title": "USD/SGD Analysis 08/07: Speculative Realm Holds Tight - DailyForex",
         "source": "Google News",
         "label": "bearish",
         "score": -0.5762
-      },
+      }
+    ],
+    "EUR/USD": [
       {
-        "title": "Post Holdings stock hits 52-week low at 86.27 USD",
-        "source": "Investing.com",
-        "label": "bearish",
-        "score": -0.9482
-      },
-      {
-        "title": "Japanese Yen: Oil shock weighs JPY against US Dollar \u2013 Scotiabank",
+        "title": "EUR/USD Price Forecast: Bears retain control within descending channel",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.5616
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }
