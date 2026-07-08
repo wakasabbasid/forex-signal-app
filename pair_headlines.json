@@ -7,12 +7,6 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "EUR/GBP Price Forecasts: Euro holds below 0.8450 with indicators showing some bullish divergence",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.7201
       }
     ],
     "USD/JPY": [
@@ -29,36 +23,12 @@
         "score": -0.5762
       }
     ],
-    "NZD/USD": [
-      {
-        "title": "NZD/CHF Analysis: Which Currency Breaks the Consolidation First? - Action Forex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "USD/CHF": [
-      {
-        "title": "NZD/CHF Analysis: Which Currency Breaks the Consolidation First? - Action Forex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "USD/CAD": [
-      {
-        "title": "USD/CAD Gains as Geopolitics, Fed Awaited - TradingPedia",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
     "EUR/USD": [
       {
-        "title": "EUR/GBP Price Forecasts: Euro holds below 0.8450 with indicators showing some bullish divergence",
+        "title": "Euro: Geopolitics and ECB repricing supports EUR \u2013 Scotiabank",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.7201
+        "label": "bullish",
+        "score": 0.7469
       }
     ]
   }

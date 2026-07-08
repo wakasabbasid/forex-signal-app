@@ -21,17 +21,17 @@
       ]
     },
     {
+      "title": "Canadian Dollar Gains as Oil Rally Boosts Loonie - TradingPedia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8064,
+      "currencies": []
+    },
+    {
       "title": "Czech Republic Forex Reserves at 3-Month Low - TradingView",
       "source": "Google News",
       "label": "bearish",
       "score": -0.9073,
-      "currencies": []
-    },
-    {
-      "title": "Euro Holds Steady Ahead of Fed Minutes, Risks - TradingPedia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -56,28 +56,18 @@
       "currencies": []
     },
     {
+      "title": "Market Threads \u2013 Oil Risk Premium Still in Play - FXCM Markets",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
       "source": "Google News",
       "label": "bullish",
       "score": 0.9371,
       "currencies": []
-    },
-    {
-      "title": "AriseAlpha Launches AI Forex Trading Bot as Automated Currency Trading Demand Surges in 2026 - The National Law Review",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "NZD/CHF Analysis: Which Currency Breaks the Consolidation First? - Action Forex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "NZD",
-        "CHF"
-      ]
     },
     {
       "title": "USD/SGD Analysis 08/07: Speculative Realm Holds Tight - DailyForex",
@@ -89,69 +79,73 @@
       ]
     },
     {
-      "title": "USD/CAD Gains as Geopolitics, Fed Awaited - TradingPedia",
+      "title": "Zloty Weakens as Policy Shift Favors Czech Koruna - TradingPedia",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "CAD"
-      ]
-    },
-    {
-      "title": "Chevron offers rival drillers its chemical technology to boost shale oil output",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8504,
-      "currencies": []
-    },
-    {
-      "title": "Sunrun stock rises after launching AI data center pilot program",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8929,
-      "currencies": []
-    },
-    {
-      "title": "HSBC drops \u2019overweight\u2019 call on EM equities on AI spending fears",
-      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8453,
+      "score": -0.9431,
       "currencies": []
     },
     {
-      "title": "Brazil\u2019s Natura sees second quarter revenue down 9% to 10% year-on-year",
-      "source": "Investing.com",
+      "title": "India's forex reserves fall to over one-year low as central bank mounts rupee defence - Reuters",
+      "source": "Google News",
       "label": "bearish",
-      "score": -0.9755,
+      "score": -0.9426,
       "currencies": []
     },
     {
-      "title": "Trump says interim accord to end war is \u2019over\u2019 after Iranian strikes",
+      "title": "ResMed stock held at Hold by Needham as MatrixCare sale announced",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Wells Fargo cautious on AT&T, Verizon and T-Mobile as Starlink looms",
+      "title": "Earnings call transcript: Saratoga Investment misses Q1 2026 estimates as stock falls",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9373,
+      "score": -0.8981,
       "currencies": []
     },
     {
-      "title": "Trump expresses doubts over Iran peace deal after tit-for-tat strikes",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7268,
-      "currencies": []
-    },
-    {
-      "title": "FDA accepts Arcutis application for infant eczema treatment",
+      "title": "Mexico expects economy to outperform IMF projections",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8256,
+      "score": 0.9119,
+      "currencies": []
+    },
+    {
+      "title": "Wall Street slides, Dow sheds 1.5% as geopolitical risk premium resurges",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.95,
+      "currencies": []
+    },
+    {
+      "title": "American Electric Power secures $3.26 billion DOE loan for Texas grid",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9288,
+      "currencies": []
+    },
+    {
+      "title": "Morocco stocks lower at close of trade; Moroccan All Shares down 0.93%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9683,
+      "currencies": []
+    },
+    {
+      "title": "JPMorgan hires veteran banker Michael Flynn to lead small-cap banking business",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "China plans to let top AI firms buy limited amount of Nvidia H200 chips, the Information reports",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
