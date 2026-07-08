@@ -1,6 +1,14 @@
 {
   "run_id": 1,
   "pairs": {
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Forex Signal 08/07: Eyes Breakout (Chart) - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
     "USD/JPY": [
       {
         "title": "USD/JPY forecast: Currency Pair of the Week | July 6, 2026 - FOREX.com",
@@ -9,38 +17,10 @@
         "score": 0.0
       },
       {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.6676
-      },
-      {
-        "title": "USD/JPY Price Forecast: Dollar remains capped below 162.40 resistance area",
+        "title": "Silver Price Forecast: XAG/USD falls toward $58.00 as Trump declares Iran truce \u201cfinished\u201d",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9002
-      }
-    ],
-    "USD/CAD": [
-      {
-        "title": "USD/CAD Gains as Geopolitics, Fed Awaited - TradingPedia",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "USD/CAD Price Forecast: Weakens below 1.4200 as Oil gains, but technicals still favor upside",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9405
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/USD Analysis: Interest Rate Outlook Continues to Impact Currency Prices - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "score": -0.9669
       }
     ],
     "NZD/USD": [
@@ -49,12 +29,6 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "NZD has jumped after the RBNZ rate hike and indication that further rate risers are ahead",
-        "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.9353
       }
     ],
     "USD/CHF": [
@@ -65,12 +39,26 @@
         "score": 0.0
       }
     ],
-    "GBP/USD": [
+    "USD/CAD": [
       {
-        "title": "GBP/USD Price Forecast: Sustenance above 20-day EMA backs further upside above 1.3400",
+        "title": "USD/CAD Gains as Geopolitics, Fed Awaited - TradingPedia",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/USD Analysis: Interest Rate Outlook Continues to Impact Currency Prices - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "EUR/USD Price Forecast: Euro hesitates above 1.1400 as geopolitical risks mount",
         "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.7767
+        "label": "bearish",
+        "score": -0.9058
       }
     ]
   }
