@@ -9,10 +9,10 @@
         "score": 0.0
       },
       {
-        "title": "GBP/JPY Price Forecast: Pound consolidates after hitting fresh all-time highs at 218.00",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8857
+        "title": "GBP/JPY Reaches 2008 Highs as Sterling Rallies - TradingPedia",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "USD/JPY": [
@@ -23,22 +23,34 @@
         "score": 0.0
       },
       {
-        "title": "USD/MYR Analysis 09/07 - DailyForex",
+        "title": "GBP/JPY Reaches 2008 Highs as Sterling Rallies - TradingPedia",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "USD/JPY continues to edge higher amid persistent negative yen backdrop, heightened US-Iran risks",
-        "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.8993
+        "title": "EUR/JPY Near Key Breakout Resistance - TradingPedia",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       },
       {
-        "title": "GBP/JPY Price Forecast: Pound consolidates after hitting fresh all-time highs at 218.00",
+        "title": "The USD is little changed.  What are the technical telling traders for the EURUSD, USDJPY & GBPUSD",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD remains stuck in a bearish channel",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9509
+      },
+      {
+        "title": "Singapore Dollar: Upside risks building as USD stays firm \u2013 DBS",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.8857
+        "score": 0.5001
       }
     ],
     "EUR/USD": [
@@ -47,6 +59,24 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "EUR/USD Analysis 09/07:Will Sellers Maintain Control or is a Strong Rebound Nearing? (chart) - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "EUR/JPY Near Key Breakout Resistance - TradingPedia",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "EUR/USD Update: Is the euro still struggling to recover strength? - FOREX.com",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.8941
       }
     ]
   }

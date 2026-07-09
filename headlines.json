@@ -28,11 +28,14 @@
       ]
     },
     {
-      "title": "Rupiah Weakens Ahead of Key Retail Data - TradingPedia",
+      "title": "GBP/JPY Reaches 2008 Highs as Sterling Rallies - TradingPedia",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9585,
-      "currencies": []
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "JPY"
+      ]
     },
     {
       "title": "India banks slash short-term debt sales on cheaper forex funding - Yahoo Finance Singapore",
@@ -49,7 +52,7 @@
       "currencies": []
     },
     {
-      "title": "State Bank of India draws over $1.5 billion in forex deposits - BFSI News",
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -65,25 +68,32 @@
       ]
     },
     {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
-      "currencies": []
-    },
-    {
-      "title": "USD/MYR Analysis 09/07 - DailyForex",
+      "title": "EUR/USD Analysis 09/07:Will Sellers Maintain Control or is a Strong Rebound Nearing? (chart) - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "EUR/JPY Near Key Breakout Resistance - TradingPedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "JPY"
+      ]
+    },
+    {
+      "title": "EUR/USD Update: Is the euro still struggling to recover strength? - FOREX.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8941,
+      "currencies": [
+        "EUR",
         "USD"
       ]
     },
@@ -95,59 +105,59 @@
       "currencies": []
     },
     {
-      "title": "Form S-3ASR ILLINOIS TOOL WORKS INC. For: 9 July",
+      "title": "Form 4 Pennant Group Inc For: 9 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Palantir partnership fails to save Rackspace stock after brutal guidance slash",
+      "title": "Horizon Kinetics Asset Management buys $2,283 of RENN Fund stock",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.932,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Volkswagen board faces crunch talks over plant closures, job cuts",
+      "title": "Larimar Therapeutics stock jumps on insider purchase",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9649,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Kenya economy to grow 4.3% in 2026, 4.4% in 2027 - World Bank",
+      "title": "Arch Insurance launches U.S. transactional liability team",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Pennant group CEO Brent Guerisoli sells $128,214 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "PepsiCo warns of higher commodity costs amid faltering North American food sales",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9041,
+      "currencies": []
+    },
+    {
+      "title": "Poland stocks higher at close of trade; WIG30 up 0.32%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8662,
+      "score": 0.9316,
       "currencies": []
     },
     {
-      "title": "Stifel reiterates Buy on Quanta Services stock, $784 target",
+      "title": "Form 4 Trio-Tech International For: 9 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Stifel reiterates Everus stock Buy rating on data center growth",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Stifel reiterates Buy on Custom Truck One Source stock at $11 target",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Dollar drifts with oil; Gulf tensions, Fed minutes in focus",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8223,
       "currencies": []
     }
   ],
