@@ -52,6 +52,22 @@
       "currencies": []
     },
     {
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "A warning for the U.S. dollar: The historic bond-market buffer that protected the currency is fading - Forex Factory",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7873,
+      "currencies": []
+    },
+    {
       "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
       "source": "Google News",
       "label": "neutral",
@@ -59,13 +75,11 @@
       "currencies": []
     },
     {
-      "title": "Government Issues Record EUR 1.7 Billion Forex Stabilization Bonds at All-Time Low Spread - \uc544\uc2dc\uc544\uacbd\uc81c",
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR"
-      ]
+      "label": "bullish",
+      "score": 0.9371,
+      "currencies": []
     },
     {
       "title": "EUR/USD Analysis 09/07:Will Sellers Maintain Control or is a Strong Rebound Nearing? (chart) - DailyForex",
@@ -88,73 +102,56 @@
       ]
     },
     {
-      "title": "EUR/USD Update: Is the euro still struggling to recover strength? - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8941,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "Institutional investors weakening shekel - Globes - Israel Business News",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Pennant Group Inc For: 9 July",
+      "title": "Form 4 Celsius Holdings Inc For: 9 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Horizon Kinetics Asset Management buys $2,283 of RENN Fund stock",
+      "title": "Bank of France raises Q2 growth forecast after June rebound",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Larimar Therapeutics stock jumps on insider purchase",
+      "title": "UK\u2019s likely next PM, Andy Burnham, says he wants to put more pressure on Israel",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Arch Insurance launches U.S. transactional liability team",
+      "title": "New York Times-led group asks court to sanction OpenAI in US copyright dispute",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Pennant group CEO Brent Guerisoli sells $128,214 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "PepsiCo warns of higher commodity costs amid faltering North American food sales",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9041,
-      "currencies": []
-    },
-    {
-      "title": "Poland stocks higher at close of trade; WIG30 up 0.32%",
+      "title": "Urogen Pharma stock hits 52-week high at $39.59",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9316,
+      "score": 0.8574,
       "currencies": []
     },
     {
-      "title": "Form 4 Trio-Tech International For: 9 July",
+      "title": "Energy reports and commodity positioning data highlight Friday\u2019s calendar",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 JFB Construction Holdings For: 9 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "American Express breaks ground on 2 World Trade Center tower",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

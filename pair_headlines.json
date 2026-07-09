@@ -13,6 +13,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "US Dollar Price Forecast: DXY Nears $101 Ahead of FOMC Meeting Minutes \u2014 Can GBP/USD and EUR/USD Recover?",
+        "source": "Yahoo Finance",
+        "label": "bullish",
+        "score": 0.4241
       }
     ],
     "USD/JPY": [
@@ -29,6 +35,12 @@
         "score": 0.0
       },
       {
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.6676
+      },
+      {
         "title": "EUR/JPY Near Key Breakout Resistance - TradingPedia",
         "source": "Google News",
         "label": "neutral",
@@ -39,27 +51,9 @@
         "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD remains stuck in a bearish channel",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9509
-      },
-      {
-        "title": "Singapore Dollar: Upside risks building as USD stays firm \u2013 DBS",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.5001
       }
     ],
     "EUR/USD": [
-      {
-        "title": "Government Issues Record EUR 1.7 Billion Forex Stabilization Bonds at All-Time Low Spread - \uc544\uc2dc\uc544\uacbd\uc81c",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
       {
         "title": "EUR/USD Analysis 09/07:Will Sellers Maintain Control or is a Strong Rebound Nearing? (chart) - DailyForex",
         "source": "Google News",
@@ -73,10 +67,10 @@
         "score": 0.0
       },
       {
-        "title": "EUR/USD Update: Is the euro still struggling to recover strength? - FOREX.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.8941
+        "title": "US Dollar Price Forecast: DXY Nears $101 Ahead of FOMC Meeting Minutes \u2014 Can GBP/USD and EUR/USD Recover?",
+        "source": "Yahoo Finance",
+        "label": "bullish",
+        "score": 0.4241
       }
     ]
   }
