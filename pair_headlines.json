@@ -9,21 +9,21 @@
         "score": 0.0
       },
       {
-        "title": "GBP/USD Forex Signal 08/07: Eyes Breakout (Chart) - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "EUR/GBP Price Forecast: Languishes below 0.8550 with bullish attempts subdued",
+        "title": "GBP/JPY Price Forecast: Pound consolidates after hitting fresh all-time highs at 218.00",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9294
+        "label": "bullish",
+        "score": 0.8857
       }
     ],
     "USD/JPY": [
       {
         "title": "USD/JPY forecast: Currency Pair of the Week | July 6, 2026 - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "USD/MYR Analysis 09/07 - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -35,10 +35,10 @@
         "score": 0.8993
       },
       {
-        "title": "British Pound extends rally vs JPY; climbs to fresh high since January 2008",
+        "title": "GBP/JPY Price Forecast: Pound consolidates after hitting fresh all-time highs at 218.00",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.9304
+        "score": 0.8857
       }
     ],
     "EUR/USD": [
@@ -47,20 +47,6 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "EUR/GBP Price Forecast: Languishes below 0.8550 with bullish attempts subdued",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9294
-      }
-    ],
-    "USD/CAD": [
-      {
-        "title": "USD/CAD Price Forecast: Hovers above 1.4150 as bullish bias prevails",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.4841
       }
     ]
   }

@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.925,
+      "currencies": []
+    },
+    {
       "title": "GBP/USD: Where Next Following Breakout Above 1.3400? - DailyForex",
       "source": "Google News",
       "label": "neutral",
@@ -9,13 +16,6 @@
         "GBP",
         "USD"
       ]
-    },
-    {
-      "title": "Rupee firms as central bank intervention blunts oil strain, Trump's remark aids - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.465,
-      "currencies": []
     },
     {
       "title": "USD/JPY forecast: Currency Pair of the Week | July 6, 2026 - FOREX.com",
@@ -49,6 +49,13 @@
       "currencies": []
     },
     {
+      "title": "State Bank of India draws over $1.5 billion in forex deposits - BFSI News",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Government Issues Record EUR 1.7 Billion Forex Stabilization Bonds at All-Time Low Spread - \uc544\uc2dc\uc544\uacbd\uc81c",
       "source": "Google News",
       "label": "neutral",
@@ -72,83 +79,75 @@
       "currencies": []
     },
     {
-      "title": "AriseAlpha Launches AI Forex Trading Bot as Automated Currency Trading Demand Surges in 2026 - The National Law Review",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "GBP/USD Forex Signal 08/07: Eyes Breakout (Chart) - DailyForex",
+      "title": "USD/MYR Analysis 09/07 - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
-        "GBP",
         "USD"
       ]
     },
     {
-      "title": "AFRICA-FX-Ugandan and Kenyan currencies could climb, Zambia's may slide - Reuters",
+      "title": "Institutional investors weakening shekel - Globes - Israel Business News",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.6939,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Indonesia stocks higher at close of trade; IDX Composite Index up 0.14%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9391,
-      "currencies": []
-    },
-    {
-      "title": "Why is Pepco stock rallying today?",
+      "title": "Form S-3ASR ILLINOIS TOOL WORKS INC. For: 9 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Gentian Q2 2026 slides: record sales, margins recover to target range",
+      "title": "Palantir partnership fails to save Rackspace stock after brutal guidance slash",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.932,
+      "currencies": []
+    },
+    {
+      "title": "Volkswagen board faces crunch talks over plant closures, job cuts",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9649,
+      "currencies": []
+    },
+    {
+      "title": "Kenya economy to grow 4.3% in 2026, 4.4% in 2027 - World Bank",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9254,
+      "score": 0.8662,
       "currencies": []
     },
     {
-      "title": "Czech unemployment holds steady at 4.8% in June",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7781,
-      "currencies": []
-    },
-    {
-      "title": "SK Hynix\u2019s US listing more than seven times oversubscribed, source says",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9098,
-      "currencies": []
-    },
-    {
-      "title": "Why is Levi Strauss stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9114,
-      "currencies": []
-    },
-    {
-      "title": "Why is Hostelworld stock holding steady today?",
+      "title": "Stifel reiterates Buy on Quanta Services stock, $784 target",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Gentian Diagnostics posts record Q2 2026 sales",
+      "title": "Stifel reiterates Everus stock Buy rating on data center growth",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.4794,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Stifel reiterates Buy on Custom Truck One Source stock at $11 target",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Dollar drifts with oil; Gulf tensions, Fed minutes in focus",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8223,
       "currencies": []
     }
   ],
