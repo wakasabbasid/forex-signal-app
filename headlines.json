@@ -1,6 +1,23 @@
 {
   "headlines": [
     {
+      "title": "GBP/USD: Where Next Following Breakout Above 1.3400? - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
+      "title": "Rupee firms as central bank intervention blunts oil strain, Trump's remark aids - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.465,
+      "currencies": []
+    },
+    {
       "title": "USD/JPY forecast: Currency Pair of the Week | July 6, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -11,20 +28,24 @@
       ]
     },
     {
-      "title": "GBP/USD Forex Signal 08/07: Eyes Breakout (Chart) - DailyForex",
+      "title": "Rupiah Weakens Ahead of Key Retail Data - TradingPedia",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
+      "label": "bearish",
+      "score": -0.9585,
+      "currencies": []
     },
     {
       "title": "India banks slash short-term debt sales on cheaper forex funding - Yahoo Finance Singapore",
       "source": "Google News",
       "label": "bearish",
       "score": -0.9588,
+      "currencies": []
+    },
+    {
+      "title": "Bank of Israel intervenes in forex trading again - Globes - Israel Business News",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -37,38 +58,10 @@
       ]
     },
     {
-      "title": "Bank of Israel intervenes in forex trading again - Globes - Israel Business News",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Canadian Dollar Gains as Oil Rally Boosts Loonie - TradingPedia",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8064,
-      "currencies": []
-    },
-    {
-      "title": "ED searches money changers\u2019 premises over alleged FEMA violations - The Hindu",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7846,
-      "currencies": []
-    },
-    {
-      "title": "AFRICA-FX-Ugandan and Kenyan currencies could climb, Zambia's may slide - Reuters",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6939,
       "currencies": []
     },
     {
@@ -86,66 +79,76 @@
       "currencies": []
     },
     {
-      "title": "South Korea issues record \u20ac1.7b forex bonds at lowest spreads - CHOSUNBIZ - Chosunbiz",
+      "title": "GBP/USD Forex Signal 08/07: Eyes Breakout (Chart) - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
+      "title": "AFRICA-FX-Ugandan and Kenyan currencies could climb, Zambia's may slide - Reuters",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6939,
       "currencies": []
     },
     {
-      "title": "Oil rises after US launches fresh strikes on Iran",
+      "title": "Indonesia stocks higher at close of trade; IDX Composite Index up 0.14%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.4645,
+      "score": 0.9391,
       "currencies": []
     },
     {
-      "title": "SK Hynix ADR sale over 7 times covered ahead of pricing: Reuters",
+      "title": "Why is Pepco stock rallying today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "A lot of buyout opportunities in Japan, South Korea and Australia, Goldman Sachs says",
+      "title": "Gentian Q2 2026 slides: record sales, margins recover to target range",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9254,
       "currencies": []
     },
     {
-      "title": "Top Agriculture & Infrastructure Stock Pick From Oppenheimer",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Back-to-School spending to dip 6% amid economic worries, Deloitte forecasts",
+      "title": "Czech unemployment holds steady at 4.8% in June",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9735,
+      "score": -0.7781,
       "currencies": []
     },
     {
-      "title": "Gulf companies are set to reveal the unequal toll of Iran war",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is Shanghai Iluvatar CoreX SemiCon stock surging today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US military carries out fresh strikes on Iran, prompting Iran attacks on Kuwait and Bahrain",
+      "title": "SK Hynix\u2019s US listing more than seven times oversubscribed, source says",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8538,
+      "score": -0.9098,
+      "currencies": []
+    },
+    {
+      "title": "Why is Levi Strauss stock sliding today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9114,
+      "currencies": []
+    },
+    {
+      "title": "Why is Hostelworld stock holding steady today?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Gentian Diagnostics posts record Q2 2026 sales",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.4794,
       "currencies": []
     }
   ],

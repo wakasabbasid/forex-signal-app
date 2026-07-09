@@ -1,6 +1,26 @@
 {
   "run_id": 1,
   "pairs": {
+    "GBP/USD": [
+      {
+        "title": "GBP/USD: Where Next Following Breakout Above 1.3400? - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "GBP/USD Forex Signal 08/07: Eyes Breakout (Chart) - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "EUR/GBP Price Forecast: Languishes below 0.8550 with bullish attempts subdued",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9294
+      }
+    ],
     "USD/JPY": [
       {
         "title": "USD/JPY forecast: Currency Pair of the Week | July 6, 2026 - FOREX.com",
@@ -9,48 +29,16 @@
         "score": 0.0
       },
       {
-        "title": "PBOC sets USD/ CNY reference rate for today at 6.8036 (vs. estimate at 6.7978)",
+        "title": "USD/JPY continues to edge higher amid persistent negative yen backdrop, heightened US-Iran risks",
         "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bullish",
+        "score": 0.8993
       },
       {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7978 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Gold struggles to lure buyers as Hormuz risks and Fed hike bets counter softer USD",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.7471
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Tests symmetrical triangle top above 185.50",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD rebounds above $58.00 despite inflation fears",
+        "title": "British Pound extends rally vs JPY; climbs to fresh high since January 2008",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.8559
-      },
-      {
-        "title": "Euro sticks to positive bias above 1.1400 vs USD; Mideast tensions cap gains",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.6778
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "GBP/USD Forex Signal 08/07: Eyes Breakout (Chart) - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "score": 0.9304
       }
     ],
     "EUR/USD": [
@@ -61,10 +49,18 @@
         "score": 0.0
       },
       {
-        "title": "EUR/JPY Price Forecast: Tests symmetrical triangle top above 185.50",
+        "title": "EUR/GBP Price Forecast: Languishes below 0.8550 with bullish attempts subdued",
         "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bearish",
+        "score": -0.9294
+      }
+    ],
+    "USD/CAD": [
+      {
+        "title": "USD/CAD Price Forecast: Hovers above 1.4150 as bullish bias prevails",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.4841
       }
     ]
   }
