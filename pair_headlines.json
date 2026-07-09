@@ -1,14 +1,6 @@
 {
   "run_id": 1,
   "pairs": {
-    "GBP/USD": [
-      {
-        "title": "GBP/USD Forex Signal 08/07: Eyes Breakout (Chart) - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
     "USD/JPY": [
       {
         "title": "USD/JPY forecast: Currency Pair of the Week | July 6, 2026 - FOREX.com",
@@ -17,24 +9,62 @@
         "score": 0.0
       },
       {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.6676
+        "title": "PBOC sets USD/ CNY reference rate for today at 6.8036 (vs. estimate at 6.7978)",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
       },
       {
-        "title": "USD/SGD Analysis 08/07: Speculative Realm Holds Tight - DailyForex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.5762
-      }
-    ],
-    "USD/CHF": [
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7978 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
       {
-        "title": "USD/CHF Price Forecast: False breakout at 0.8100 triggers pullback",
+        "title": "Gold struggles to lure buyers as Hormuz risks and Fed hike bets counter softer USD",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9599
+        "score": -0.7471
+      },
+      {
+        "title": "EUR/JPY Price Forecast: Tests symmetrical triangle top above 185.50",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD rebounds above $58.00 despite inflation fears",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8559
+      },
+      {
+        "title": "Euro sticks to positive bias above 1.1400 vs USD; Mideast tensions cap gains",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.6778
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Forex Signal 08/07: Eyes Breakout (Chart) - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "Government Issues Record EUR 1.7 Billion Forex Stabilization Bonds at All-Time Low Spread - \uc544\uc2dc\uc544\uacbd\uc81c",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "EUR/JPY Price Forecast: Tests symmetrical triangle top above 185.50",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }
