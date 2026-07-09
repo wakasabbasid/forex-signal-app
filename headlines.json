@@ -8,24 +8,31 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD: Where Next Following Breakout Above 1.3400? - DailyForex",
+      "title": "AUD/USD Outlook: Two-part rates play, one-part risk proxy - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
-        "GBP",
+        "AUD",
         "USD"
       ]
     },
     {
-      "title": "USD/JPY forecast: Currency Pair of the Week | July 6, 2026 - FOREX.com",
+      "title": "USD/CHF Forecast 09/07: Dollar Tests Breakout (Chart) - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
         "USD",
-        "JPY"
+        "CHF"
       ]
+    },
+    {
+      "title": "India banks slash short-term debt sales on cheaper forex funding - Yahoo Finance Singapore",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9588,
+      "currencies": []
     },
     {
       "title": "GBP/JPY Reaches 2008 Highs as Sterling Rallies - TradingPedia",
@@ -36,13 +43,6 @@
         "GBP",
         "JPY"
       ]
-    },
-    {
-      "title": "India banks slash short-term debt sales on cheaper forex funding - Yahoo Finance Singapore",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9588,
-      "currencies": []
     },
     {
       "title": "Bank of Israel intervenes in forex trading again - Globes - Israel Business News",
@@ -61,13 +61,6 @@
       ]
     },
     {
-      "title": "A warning for the U.S. dollar: The historic bond-market buffer that protected the currency is fading - Forex Factory",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7873,
-      "currencies": []
-    },
-    {
       "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
       "source": "Google News",
       "label": "neutral",
@@ -75,14 +68,7 @@
       "currencies": []
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD Analysis 09/07:Will Sellers Maintain Control or is a Strong Rebound Nearing? (chart) - DailyForex",
+      "title": "EUR/USD forecast: Dollar holds the upper hand as traders await Fed minutes - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -92,66 +78,80 @@
       ]
     },
     {
-      "title": "EUR/JPY Near Key Breakout Resistance - TradingPedia",
+      "title": "A warning for the U.S. dollar: The historic bond-market buffer that protected the currency is fading - Forex Factory",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7873,
+      "currencies": []
+    },
+    {
+      "title": "GBP/USD: Where Next Following Breakout Above 1.3400? - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
-        "EUR",
-        "JPY"
+        "GBP",
+        "USD"
       ]
     },
     {
-      "title": "Form 4 Celsius Holdings Inc For: 9 July",
+      "title": "Rupiah Weakens Ahead of Key Retail Data - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9585,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Energizer Holdings Inc For: 9 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Bank of France raises Q2 growth forecast after June rebound",
+      "title": "SailPoint general counsel Christopher Schmitt sells $681,137 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "UK\u2019s likely next PM, Andy Burnham, says he wants to put more pressure on Israel",
+      "title": "Toast CRO Jonathan Vassil sells $94,591 in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "New York Times-led group asks court to sanction OpenAI in US copyright dispute",
+      "title": "Form 4 Virco Manufacturing Corporation For: 9 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Urogen Pharma stock hits 52-week high at $39.59",
+      "title": "Form 4 Privia Health Group Inc For: 9 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Petco CHRO May Holly sells $637,500 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Gold rebounds over 1% from one-week low as dollar eases, oil prices slip",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8574,
+      "score": 0.8417,
       "currencies": []
     },
     {
-      "title": "Energy reports and commodity positioning data highlight Friday\u2019s calendar",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 JFB Construction Holdings For: 9 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "American Express breaks ground on 2 World Trade Center tower",
+      "title": "Form 4 GBank Financial Holdings Inc For: 9 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

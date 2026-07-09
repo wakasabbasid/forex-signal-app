@@ -1,13 +1,23 @@
 {
   "run_id": 1,
   "pairs": {
-    "GBP/USD": [
+    "AUD/USD": [
       {
-        "title": "GBP/USD: Where Next Following Breakout Above 1.3400? - DailyForex",
+        "title": "AUD/USD Outlook: Two-part rates play, one-part risk proxy - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
+      }
+    ],
+    "USD/CHF": [
+      {
+        "title": "USD/CHF Forecast 09/07: Dollar Tests Breakout (Chart) - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "GBP/USD": [
       {
         "title": "GBP/JPY Reaches 2008 Highs as Sterling Rallies - TradingPedia",
         "source": "Google News",
@@ -15,19 +25,13 @@
         "score": 0.0
       },
       {
-        "title": "US Dollar Price Forecast: DXY Nears $101 Ahead of FOMC Meeting Minutes \u2014 Can GBP/USD and EUR/USD Recover?",
-        "source": "Yahoo Finance",
-        "label": "bullish",
-        "score": 0.4241
-      }
-    ],
-    "USD/JPY": [
-      {
-        "title": "USD/JPY forecast: Currency Pair of the Week | July 6, 2026 - FOREX.com",
+        "title": "GBP/USD: Where Next Following Breakout Above 1.3400? - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
+      }
+    ],
+    "USD/JPY": [
       {
         "title": "GBP/JPY Reaches 2008 Highs as Sterling Rallies - TradingPedia",
         "source": "Google News",
@@ -41,36 +45,24 @@
         "score": 0.6676
       },
       {
-        "title": "EUR/JPY Near Key Breakout Resistance - TradingPedia",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "title": "South Korean Won: Rally versus sustained USD strength \u2013 TD Securities",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9372
       },
       {
-        "title": "The USD is little changed.  What are the technical telling traders for the EURUSD, USDJPY & GBPUSD",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
+        "title": "Mexican Peso gains as risk appetite improves, weighs on USD",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9242
       }
     ],
     "EUR/USD": [
       {
-        "title": "EUR/USD Analysis 09/07:Will Sellers Maintain Control or is a Strong Rebound Nearing? (chart) - DailyForex",
+        "title": "EUR/USD forecast: Dollar holds the upper hand as traders await Fed minutes - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "EUR/JPY Near Key Breakout Resistance - TradingPedia",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "US Dollar Price Forecast: DXY Nears $101 Ahead of FOMC Meeting Minutes \u2014 Can GBP/USD and EUR/USD Recover?",
-        "source": "Yahoo Finance",
-        "label": "bullish",
-        "score": 0.4241
       }
     ]
   }
