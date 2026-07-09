@@ -56,14 +56,6 @@
         "label": "bullish",
         "score": 0.9242
       }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/USD forecast: Dollar holds the upper hand as traders await Fed minutes - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
     ]
   }
 }

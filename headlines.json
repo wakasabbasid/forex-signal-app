@@ -68,20 +68,10 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD forecast: Dollar holds the upper hand as traders await Fed minutes - FOREX.com",
+      "title": "Why the Dollar Keeps Winning the Battle Against the Euro - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "A warning for the U.S. dollar: The historic bond-market buffer that protected the currency is fading - Forex Factory",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7873,
       "currencies": []
     },
     {
@@ -102,59 +92,66 @@
       "currencies": []
     },
     {
-      "title": "Form 4 Energizer Holdings Inc For: 9 July",
+      "title": "AFRICA-FX-Ugandan and Kenyan currencies could climb, Zambia's may slide - Reuters",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6939,
+      "currencies": []
+    },
+    {
+      "title": "Universal Safety Products director Ault buys $2,398 in common stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "SailPoint general counsel Christopher Schmitt sells $681,137 in stock",
+      "title": "HRT Financial LP sells $53,229 in Edible Garden AG stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Toast CRO Jonathan Vassil sells $94,591 in company stock",
+      "title": "Coinbase\u2019s top attorney who has led crypto\u2019s Washington fight to step down",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 Virco Manufacturing Corporation For: 9 July",
+      "title": "Form 4 Jewett-Cameron Trading Company Ltd For: 9 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 Privia Health Group Inc For: 9 July",
+      "title": "Overcrowded shelters, poor water access pose health risks after Venezuela quakes, PAHO says",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9571,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Shuttle Pharmaceuticals Inc For: 9 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Petco CHRO May Holly sells $637,500 in company stock",
+      "title": "Oregon community foundation sells $13,670 in Jewett Cameron stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Gold rebounds over 1% from one-week low as dollar eases, oil prices slip",
+      "title": "Coinbase legal chief Paul Grewal resigns after regulatory wins",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8417,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 GBank Financial Holdings Inc For: 9 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.7784,
       "currencies": []
     }
   ],
