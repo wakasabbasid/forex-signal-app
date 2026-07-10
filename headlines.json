@@ -15,24 +15,20 @@
       "currencies": []
     },
     {
-      "title": "EURUSD Update Is the euro still struggling to recover strength - FOREX.com",
+      "title": "USD/JPY forecast: Currency Pair of the Week | July 6, 2026 - FOREX.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.7557,
-      "currencies": []
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
     },
     {
       "title": "India's forex reserves jump $7.26 billion to $674.19 billion as foreign currency assets, gold rebound - Firstpost",
       "source": "Google News",
       "label": "bullish",
       "score": 0.9236,
-      "currencies": []
-    },
-    {
-      "title": "Forex reserves rise by $7.3 billion in week ended July 3 - The Times of India",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9033,
       "currencies": []
     },
     {
@@ -43,20 +39,17 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Forecast 10/07: Chaos Triggers Range (Video) - DailyForex",
+      "title": "Forex reserves rise by $7.3 billion in week ended July 3 - The Times of India",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9033,
+      "currencies": []
+    },
+    {
+      "title": "Only one thing has driven FX markets this year - Deutche Bank - investingLive",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "Yen Jumps as Markets See Katayama's Pension Fund Push as Structural Fix for Currency Weakness - Action Forex",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6816,
       "currencies": []
     },
     {
@@ -67,11 +60,21 @@
       "currencies": []
     },
     {
-      "title": "FM Nirmala Sitharaman to meets heads of PSU banks on Mon, review foreign currency deposit mobilisation - The Economic Times",
+      "title": "Yen Jumps as Markets See Katayama's Pension Fund Push as Structural Fix for Currency Weakness - Action Forex",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6816,
+      "currencies": []
+    },
+    {
+      "title": "GBP/USD Forex Signal 08/07: Eyes Breakout (Chart) - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
     },
     {
       "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
@@ -81,68 +84,69 @@
       "currencies": []
     },
     {
-      "title": "Yield drives currency markets in 2026, Deutsche Bank says - Investing.com",
+      "title": "India's forex reserves rise by USD 7.26 Bn to USD 674.19 Bn in week ended July 3, led by foreign currency assets and gold - ANI News",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Wall St flat as SK Hynix\u2019s stellar debut limits losses in chip stocks",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8192,
-      "currencies": []
-    },
-    {
-      "title": "Baird reiterates Nurix stock Outperform rating at $33 target",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.4352,
-      "currencies": []
-    },
-    {
-      "title": "SK Hynix shares jump in marquee US debut as AI euphoria persists",
-      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5103,
-      "currencies": []
-    },
-    {
-      "title": "Park Aerospace names John Jamieson as senior VP, GM",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Barings Corporate Investors For: 10 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "CoStar Group stock hits 52-week low at 28.18 USD",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9548,
+      "score": 0.9428,
       "currencies": [
+        "USD",
         "USD"
       ]
     },
     {
-      "title": "BETA completes first electric aircraft flights under FAA program",
+      "title": "Form 4 Urogen Pharma Ltd For: 10 July",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6419,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Novavax options trading jumps to highest in months",
+      "title": "Witnesses to fatal Houston ICE shooting challenge agency\u2019s account, lawyer says",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8956,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "SK Hynix CEO sees worst-ever memory supply shortage in 2027, says demand to outstrip supply beyond 2030",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9377,
+      "currencies": []
+    },
+    {
+      "title": "UroGen Pharma CMO Mark Schoenberg sells $400,000 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 GlobalFoundries Inc For: 10 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Peapack-Gladstone hires Paul Kotronis for commercial real estate",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Globalfoundries CSO Hogan sells $180,430 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Meta, Moderna among market cap stock movers on Friday",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

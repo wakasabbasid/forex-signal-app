@@ -1,20 +1,18 @@
 {
   "run_id": 1,
   "pairs": {
-    "GBP/USD": [
+    "USD/JPY": [
       {
-        "title": "GBP/USD Forecast 10/07: Chaos Triggers Range (Video) - DailyForex",
+        "title": "USD/JPY forecast: Currency Pair of the Week | July 6, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      }
-    ],
-    "USD/JPY": [
+      },
       {
-        "title": "CoStar Group stock hits 52-week low at 28.18 USD",
-        "source": "Investing.com",
-        "label": "bearish",
-        "score": -0.9548
+        "title": "India's forex reserves rise by USD 7.26 Bn to USD 674.19 Bn in week ended July 3, led by foreign currency assets and gold - ANI News",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.9428
       },
       {
         "title": "USD moves higher as traders react to Trump comments",
@@ -23,10 +21,24 @@
         "score": 0.879
       },
       {
-        "title": "Kickstart July 10. The USD is mostly lower with the USDJPY leading the way",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.9273
+        "title": "British Pound holds firm as Trump ceasefire shock tests USD",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.4921
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Forex Signal 08/07: Eyes Breakout (Chart) - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "US Dollar Price Forecast: Dollar Reacts to FOMC Minutes on Policy Divergence \u2014 GBP/USD and EUR/USD Next Move?",
+        "source": "Yahoo Finance",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "NZD/USD": [
@@ -43,6 +55,14 @@
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.9086
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "US Dollar Price Forecast: Dollar Reacts to FOMC Minutes on Policy Divergence \u2014 GBP/USD and EUR/USD Next Move?",
+        "source": "Yahoo Finance",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }
