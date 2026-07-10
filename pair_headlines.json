@@ -1,26 +1,26 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/CAD": [
+    "EUR/USD": [
       {
-        "title": "USD/CAD Price Forecast: Recovers from three-week low; flat above 1.4150 ahead of jobs data",
-        "source": "FXStreet",
+        "title": "EUR/USD stays rangebound as US-Iran tensions ease and traders await the US CPI report",
+        "source": "ForexLive",
         "label": "bearish",
-        "score": -0.5385
+        "score": -0.445
       }
     ],
     "USD/JPY": [
       {
-        "title": "Japanese Yen: Policy shift talk supports JPY \u2013 MUFG",
+        "title": "Australian Dollar rises on hawkish RBA, Iran diplomacy pressures USD",
         "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8599
+        "label": "bearish",
+        "score": -0.8498
       },
       {
-        "title": "Gold sticks to modest losses; eyes $4,100 as Fed hike bets and Iran risks support USD",
+        "title": "Gold Price Forecast: XAU/USD wavers around $4,100 with the bearish trend intact",
         "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.7156
+        "label": "bearish",
+        "score": -0.9093
       }
     ]
   }

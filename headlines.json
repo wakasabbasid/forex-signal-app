@@ -1,73 +1,111 @@
 {
   "headlines": [
     {
-      "title": "Chariot sets AGM for September, proposes 25-for-1 share consolidation",
+      "title": "Canaccord reiterates Niagen Bioscience stock rating on drug launch",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is M J Gleeson stock rising today?",
+      "title": "Nurix stock price target raised to $34 by H.C. Wainwright",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8468,
+      "currencies": []
+    },
+    {
+      "title": "Rosenblatt raises PDF Solutions stock price target on growth outlook",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "E& Group shares jump on $5.95 billion Vodafone stake sale",
+      "title": "Canaccord cuts Ionis stock price target on trial miss to $95",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is St. James\u2019s Place stock sliding today?",
+      "title": "Fed officials fret over inflation risk, weigh rate hikes",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.933,
+      "score": -0.7382,
       "currencies": []
     },
     {
-      "title": "Coca-Cola HBC to release half-year results on August 5",
+      "title": "Form 144 RADWARE LTD For: 10 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Hays rallies 11% after forecasting annual profit at top end of expectations",
+      "title": "Canada futures edge up ahead of June jobs data",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9083,
+      "score": 0.914,
       "currencies": []
     },
     {
-      "title": "Why is Porr stock dropping today?",
+      "title": "The real reason Meta shares are surging has nothing to do with its new AI model",
       "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Omnia Training wins \u00a32bn UK Army training contract",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.919,
+      "currencies": []
+    },
+    {
+      "title": "H.C. Wainwright reiterates MetaVia stock rating on dose milestone",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US earnings season is just around the corner",
+      "source": "ForexLive",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "How have interest rate expectations changed after this week's events?",
+      "source": "ForexLive",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "EUR/USD stays rangebound as US-Iran tensions ease and traders await the US CPI report",
+      "source": "ForexLive",
       "label": "bearish",
-      "score": -0.9416,
-      "currencies": []
+      "score": -0.445,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
     },
     {
-      "title": "UKey unveils the Seed Ring: Bringing hardware signing into everyday life",
-      "source": "Investing.com",
+      "title": "Bank of Japan is set to keep interest rates unchanged at the July meeting, maintain tightening guidance",
+      "source": "ForexLive",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Stifel upgrades Twilio stock rating to Buy on AI growth potential",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7732,
-      "currencies": []
-    },
-    {
-      "title": "Bernstein upgrades J.B. Hunt stock on improving truck rates",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7296,
+      "title": "One more rate hike to go for the ECB?",
+      "source": "ForexLive",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -103,41 +141,6 @@
       "source": "ForexLive",
       "label": "bullish",
       "score": 0.449,
-      "currencies": []
-    },
-    {
-      "title": "FX option expiries for 10 July 10am New York cut",
-      "source": "ForexLive",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Iran's strategy in leveraging on control over the Strait of Hormuz looks to be working",
-      "source": "ForexLive",
-      "label": "bullish",
-      "score": 0.7521,
-      "currencies": []
-    },
-    {
-      "title": "A calmer end to the week for markets?",
-      "source": "ForexLive",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "investingLive Asia-Pacific market news wrap: Oil-Iran-US steady, yen jumped, stocks too",
-      "source": "ForexLive",
-      "label": "bullish",
-      "score": 0.9204,
-      "currencies": []
-    },
-    {
-      "title": "Asia rallies on chip rebound and Japan pension-flow hopes as Iran risk fades",
-      "source": "ForexLive",
-      "label": "bullish",
-      "score": 0.5372,
       "currencies": []
     }
   ],
