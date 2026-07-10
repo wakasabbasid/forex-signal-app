@@ -8,6 +8,20 @@
       "currencies": []
     },
     {
+      "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0431\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Rupee finds breathing room on oil pullback, soft dollar; Middle East risks linger - Yahoo Finance UK",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "AUD/USD Outlook: Two-part rates play, one-part risk proxy - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -16,6 +30,13 @@
         "AUD",
         "USD"
       ]
+    },
+    {
+      "title": "Yen Jumps as Markets See Katayama's Pension Fund Push as Structural Fix for Currency Weakness - Action Forex",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6816,
+      "currencies": []
     },
     {
       "title": "GBP/USD: Where Next Following Breakout Above 1.3400? - DailyForex",
@@ -35,16 +56,6 @@
       "currencies": []
     },
     {
-      "title": "GBP/JPY Reaches 2008 Highs as Sterling Rallies - TradingPedia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "JPY"
-      ]
-    },
-    {
       "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
       "source": "Google News",
       "label": "neutral",
@@ -52,12 +63,13 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "title": "GBP/JPY Reaches 2008 Highs as Sterling Rallies - TradingPedia",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.6676,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
-        "USD"
+        "GBP",
+        "JPY"
       ]
     },
     {
@@ -85,70 +97,56 @@
       ]
     },
     {
-      "title": "Rupiah Weakens Ahead of Key Retail Data - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9585,
-      "currencies": []
-    },
-    {
-      "title": "AFRICA-FX-Ugandan and Kenyan currencies could climb, Zambia's may slide - Reuters",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6939,
-      "currencies": []
-    },
-    {
-      "title": "US House to vote on bill to make daylight saving time permanent",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Neurocrine Biosciences chief regulatory officer sells $2.6m stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "SK Hynix raises $26.5 billion in US offering after pricing ADRs at $149",
+      "title": "SK Hynix edges higher after pricing $26.5 billion U.S. ADR offering",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8765,
+      "score": 0.9476,
       "currencies": []
     },
     {
-      "title": "Form 144 Arcus Biosciences For: 9 July",
+      "title": "Morning Bid: Japan calling capital home",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 EverCommerce Inc For: 9 July",
+      "title": "Why is Fast Retailing stock sliding today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9234,
+      "currencies": []
+    },
+    {
+      "title": "Slain Iranian leader buried as successor remains out of sight",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Two Hands completes CSE delisting, seeks name change to Quantum X",
+      "title": "Tencent in talks to become largest shareholder in China\u2019s Manus- FT",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "EverCommerce CEO Eric Remer sells $199,734 in EVCM stock",
+      "title": "Turkey\u2019s Erdogan gives NATO leaders revolver conundrum after summit",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.4874,
+      "currencies": []
+    },
+    {
+      "title": "US reiterates backing for Tibetan aspirations to preserve culture",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 Samsara Inc For: 9 July",
+      "title": "Disney weighs free Disney+ tier as YouTube gains TV viewers - Business Insider",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

@@ -21,12 +21,6 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "GBP/JPY Price Forecast: Bullish amid respected higher-high structure",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8028
       }
     ],
     "USD/JPY": [
@@ -37,28 +31,34 @@
         "score": 0.0
       },
       {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.6676
+        "title": "PBOC sets USD/ CNY reference rate for today at 6.7989 (vs. estimate at 6.7931)",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
       },
       {
-        "title": "GBP/JPY Price Forecast: Bullish amid respected higher-high structure",
+        "title": "Gold flat lines above $4,100 as weaker USD clashes with Fed hike bets and Iran risks",
         "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8028
+        "label": "bearish",
+        "score": -0.6839
       },
       {
-        "title": "South Korean Won: Rally versus sustained USD strength \u2013 TD Securities",
+        "title": "New Zealand Dollar extends hawkish RBNZ-inspired rally; hits three-week high vs weaker USD",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.9372
+        "score": 0.8848
       },
       {
-        "title": "Mexican Peso gains as risk appetite improves, weighs on USD",
+        "title": "Japanese Yen rallies against weaker USD amid looming intervention risks",
         "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9242
+        "label": "bearish",
+        "score": -0.6017
+      },
+      {
+        "title": "PBOC sets USD/CNY reference rate at 6.7989 vs. 6.8036 previous",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "EUR/USD": [
@@ -67,6 +67,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "EUR/USD Price Forecast: Sits near weekly top around 1.1450 as bulls flirt with 23.6% Fibo.",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.83
       }
     ]
   }
