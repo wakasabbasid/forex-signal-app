@@ -1,26 +1,52 @@
 {
   "run_id": 1,
   "pairs": {
+    "USD/JPY": [
+      {
+        "title": "Indias forex reserves rise by USD 7.26 Bn to USD 674.19 Bn in week ended July 3, led by foreign currency assets and gold - The Tribune",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.9455
+      },
+      {
+        "title": "USD/JPY forecast: Currency Pair of the Week | July 6, 2026 - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Kickstart July 10. The USD is mostly lower with the USDJPY leading the way",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.9273
+      },
+      {
+        "title": "GBP/JPY Price Forecast: Bulls remain in control with RSI and MACD in positive territory",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9183
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Forecast 10/07: Chaos Triggers Range (Video) - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "GBP/JPY Price Forecast: Bulls remain in control with RSI and MACD in positive territory",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9183
+      }
+    ],
     "EUR/USD": [
       {
         "title": "EUR/USD stays rangebound as US-Iran tensions ease and traders await the US CPI report",
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.445
-      }
-    ],
-    "USD/JPY": [
-      {
-        "title": "Australian Dollar rises on hawkish RBA, Iran diplomacy pressures USD",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8498
-      },
-      {
-        "title": "Gold Price Forecast: XAU/USD wavers around $4,100 with the bearish trend intact",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9093
       }
     ]
   }

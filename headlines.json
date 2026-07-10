@@ -1,146 +1,152 @@
 {
   "headlines": [
     {
-      "title": "Canaccord reiterates Niagen Bioscience stock rating on drug launch",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Nurix stock price target raised to $34 by H.C. Wainwright",
-      "source": "Investing.com",
+      "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
+      "source": "Google News",
       "label": "bullish",
-      "score": 0.8468,
+      "score": 0.925,
       "currencies": []
     },
     {
-      "title": "Rosenblatt raises PDF Solutions stock price target on growth outlook",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Canaccord cuts Ionis stock price target on trial miss to $95",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Fed officials fret over inflation risk, weigh rate hikes",
-      "source": "Investing.com",
+      "title": "EURUSD Update Is the euro still struggling to recover strength - FOREX.com",
+      "source": "Google News",
       "label": "bearish",
-      "score": -0.7382,
+      "score": -0.7557,
       "currencies": []
     },
     {
-      "title": "Form 144 RADWARE LTD For: 10 July",
-      "source": "Investing.com",
+      "title": "Yield drives currency markets in 2026, Deutsche Bank says - Investing.com",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Canada futures edge up ahead of June jobs data",
-      "source": "Investing.com",
+      "title": "India's forex reserves jump $7.26 billion to $674.19 billion as foreign currency assets, gold rebound - Firstpost",
+      "source": "Google News",
       "label": "bullish",
-      "score": 0.914,
+      "score": 0.9236,
       "currencies": []
     },
     {
-      "title": "The real reason Meta shares are surging has nothing to do with its new AI model",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Omnia Training wins \u00a32bn UK Army training contract",
-      "source": "Investing.com",
+      "title": "Indias forex reserves rise by USD 7.26 Bn to USD 674.19 Bn in week ended July 3, led by foreign currency assets and gold - The Tribune",
+      "source": "Google News",
       "label": "bullish",
-      "score": 0.919,
-      "currencies": []
-    },
-    {
-      "title": "H.C. Wainwright reiterates MetaVia stock rating on dose milestone",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US earnings season is just around the corner",
-      "source": "ForexLive",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "How have interest rate expectations changed after this week's events?",
-      "source": "ForexLive",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD stays rangebound as US-Iran tensions ease and traders await the US CPI report",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.445,
+      "score": 0.9455,
       "currencies": [
-        "EUR",
+        "USD",
         "USD"
       ]
     },
     {
-      "title": "Bank of Japan is set to keep interest rates unchanged at the July meeting, maintain tightening guidance",
-      "source": "ForexLive",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "One more rate hike to go for the ECB?",
-      "source": "ForexLive",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Global oil supply rose 4.1 million bpd in June as flows through Hormuz resumed, but remained 9.4 million bpd behind pre-war levels - IEA",
-      "source": "ForexLive",
+      "title": "Forex reserves rise by $7.3 billion in week ended July 3 - The Times of India",
+      "source": "Google News",
       "label": "bullish",
-      "score": 0.9372,
+      "score": 0.9033,
       "currencies": []
     },
     {
-      "title": "Gold erases the losses and goes back to rangebound mode as traders await the US CPI report",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.6693,
-      "currencies": []
-    },
-    {
-      "title": "French inflation confirmed to fall in June, easing pressure on the ECB",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.7882,
-      "currencies": []
-    },
-    {
-      "title": "What are the main events for today?",
-      "source": "ForexLive",
+      "title": "Yen Climbs as Dollar Softens, Tokyo in Focus - TradingPedia",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "German headline annual inflation confirmed at 2.3% in June, core prices also hold steady",
-      "source": "ForexLive",
+      "title": "Yen Jumps as Markets See Katayama's Pension Fund Push as Structural Fix for Currency Weakness - Action Forex",
+      "source": "Google News",
       "label": "bullish",
-      "score": 0.449,
+      "score": 0.6816,
+      "currencies": []
+    },
+    {
+      "title": "GBP/USD Forecast 10/07: Chaos Triggers Range (Video) - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
+      "title": "Bank of Israel intervenes in forex trading again - Globes - Israel Business News",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "USD/JPY forecast: Currency Pair of the Week | July 6, 2026 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "Canada\u2019s economy posts modest job gains in June, unemployment rate dips",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7945,
+      "currencies": []
+    },
+    {
+      "title": "TD Cowen reiterates Hold on Simply Good Foods stock, $13 target",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "DA Davidson reiterates Euronet Worldwide stock Buy rating at $102",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "BMO reiterates Allstate stock Outperform on New York insurance reforms",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9456,
+      "currencies": []
+    },
+    {
+      "title": "DA Davidson cuts Simply Goods Group stock price target on turnaround uncertainty",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5361,
+      "currencies": []
+    },
+    {
+      "title": "Bank of Canada to hold rates steady in 2026 as inflation risks appear contained: Reuters Poll",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 144 Wayfair Inc. For: 10 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 144 Pennant Group For: 10 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
