@@ -8,13 +8,6 @@
       "currencies": []
     },
     {
-      "title": "Angola adds yuan to approved reserve currencies for banks - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "USD/JPY forecast: Currency Pair of the Week | July 6, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -22,6 +15,37 @@
       "currencies": [
         "USD",
         "JPY"
+      ]
+    },
+    {
+      "title": "Angola adds yuan to approved reserve currencies for banks - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "15 Best Forex Pairs to Trade - TMGM",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5058,
+      "currencies": []
+    },
+    {
+      "title": "Only one thing has driven FX markets this year - Deutche Bank - investingLive",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "GBP/USD Forecast 10/07: Chaos Triggers Range (Video) - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
       ]
     },
     {
@@ -46,13 +70,6 @@
       "currencies": []
     },
     {
-      "title": "Only one thing has driven FX markets this year - Deutche Bank - investingLive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Forex reserves rise by $7.3 billion in week ended July 3 - The Times of India",
       "source": "Google News",
       "label": "bullish",
@@ -67,81 +84,66 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Forex Signal 08/07: Eyes Breakout (Chart) - DailyForex",
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.6676,
       "currencies": [
-        "GBP",
         "USD"
       ]
     },
     {
-      "title": "Yen Jumps as Markets See Katayama's Pension Fund Push as Structural Fix for Currency Weakness - Action Forex",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6816,
-      "currencies": []
-    },
-    {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Insmed Inc For: 10 July",
+      "title": "Form 4 Alamo Group Inc For: 10 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 United Therapeutics Corporation For: 10 July",
+      "title": "Form 4 Village Farms International Inc For: 10 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Hormel Foods director Gary Bhojwani sells $495,158 in shares",
+      "title": "Form 4 Kilroy Realty Corp For: 10 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Mama\u2019s creations COO Tappan Moore III sells $8,801 in stock",
+      "title": "Form 4 Pure Storage Inc For: 10 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 144 UNITED THERAPEUTICS CORPORATION For: 10 July",
+      "title": "Holtec Nuclear Corporation files for US IPO",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 144 NETAPP For: 10 July",
-      "source": "Investing.com",
+      "title": "investingLive Americas FX news wrap 10 Jul",
+      "source": "ForexLive",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form S-1/A PELICAN ACQUISITION II CORPORATION For: 10 July",
-      "source": "Investing.com",
+      "title": "Why lower oil prices won't lead to lower inflation just yet",
+      "source": "ForexLive",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 CH Robinson Worldwide Inc For: 10 July",
-      "source": "Investing.com",
+      "title": "The earnings bar is high and Wall Street thinks it gets cleared anyway \u2014 a look at the week ahead",
+      "source": "ForexLive",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
