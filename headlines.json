@@ -25,6 +25,13 @@
       ]
     },
     {
+      "title": "Forex reserves rise $7.3 billion as FCNR & ECB flows pick up - The Economic Times",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8986,
+      "currencies": []
+    },
+    {
       "title": "India's forex reserves jump $7.26 billion to $674.19 billion as foreign currency assets, gold rebound - Firstpost",
       "source": "Google News",
       "label": "bullish",
@@ -32,7 +39,14 @@
       "currencies": []
     },
     {
-      "title": "Yen Climbs as Dollar Softens, Tokyo in Focus - TradingPedia",
+      "title": "Dollar Slips as Yen Gains on Pension Shift, Easing Tensions - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5225,
+      "currencies": []
+    },
+    {
+      "title": "Only one thing has driven FX markets this year - Deutche Bank - investingLive",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -46,24 +60,10 @@
       "currencies": []
     },
     {
-      "title": "Only one thing has driven FX markets this year - Deutche Bank - investingLive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Bank of Israel intervenes in forex trading again - Globes - Israel Business News",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Yen Jumps as Markets See Katayama's Pension Fund Push as Structural Fix for Currency Weakness - Action Forex",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6816,
       "currencies": []
     },
     {
@@ -77,6 +77,13 @@
       ]
     },
     {
+      "title": "Yen Jumps as Markets See Katayama's Pension Fund Push as Structural Fix for Currency Weakness - Action Forex",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6816,
+      "currencies": []
+    },
+    {
       "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
       "source": "Google News",
       "label": "neutral",
@@ -84,66 +91,56 @@
       "currencies": []
     },
     {
-      "title": "India's forex reserves rise by USD 7.26 Bn to USD 674.19 Bn in week ended July 3, led by foreign currency assets and gold - ANI News",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9428,
-      "currencies": [
-        "USD",
-        "USD"
-      ]
-    },
-    {
-      "title": "Form 4 Urogen Pharma Ltd For: 10 July",
+      "title": "Form 4 Insmed Inc For: 10 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Witnesses to fatal Houston ICE shooting challenge agency\u2019s account, lawyer says",
+      "title": "Form 4 United Therapeutics Corporation For: 10 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "SK Hynix CEO sees worst-ever memory supply shortage in 2027, says demand to outstrip supply beyond 2030",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9377,
-      "currencies": []
-    },
-    {
-      "title": "UroGen Pharma CMO Mark Schoenberg sells $400,000 in shares",
+      "title": "Hormel Foods director Gary Bhojwani sells $495,158 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 GlobalFoundries Inc For: 10 July",
+      "title": "Mama\u2019s creations COO Tappan Moore III sells $8,801 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Peapack-Gladstone hires Paul Kotronis for commercial real estate",
+      "title": "Form 144 UNITED THERAPEUTICS CORPORATION For: 10 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Globalfoundries CSO Hogan sells $180,430 in shares",
+      "title": "Form 144 NETAPP For: 10 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Meta, Moderna among market cap stock movers on Friday",
+      "title": "Form S-1/A PELICAN ACQUISITION II CORPORATION For: 10 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 CH Robinson Worldwide Inc For: 10 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

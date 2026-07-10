@@ -9,12 +9,6 @@
         "score": 0.0
       },
       {
-        "title": "India's forex reserves rise by USD 7.26 Bn to USD 674.19 Bn in week ended July 3, led by foreign currency assets and gold - ANI News",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.9428
-      },
-      {
         "title": "USD moves higher as traders react to Trump comments",
         "source": "ForexLive",
         "label": "bullish",
@@ -31,36 +25,6 @@
       {
         "title": "GBP/USD Forex Signal 08/07: Eyes Breakout (Chart) - DailyForex",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "US Dollar Price Forecast: Dollar Reacts to FOMC Minutes on Policy Divergence \u2014 GBP/USD and EUR/USD Next Move?",
-        "source": "Yahoo Finance",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "NZD/USD": [
-      {
-        "title": "NZD/USD Price Forecast: Recovery extends, but overhead SMAs cap upside",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.6692
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "AUD/USD climbs as Chinese Yuan strength supports the Aussie",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9086
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "US Dollar Price Forecast: Dollar Reacts to FOMC Minutes on Policy Divergence \u2014 GBP/USD and EUR/USD Next Move?",
-        "source": "Yahoo Finance",
         "label": "neutral",
         "score": 0.0
       }
