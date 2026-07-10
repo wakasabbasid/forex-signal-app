@@ -8,17 +8,17 @@
       "currencies": []
     },
     {
+      "title": "Angola adds yuan to approved reserve currencies for banks - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "EURUSD Update Is the euro still struggling to recover strength - FOREX.com",
       "source": "Google News",
       "label": "bearish",
       "score": -0.7557,
-      "currencies": []
-    },
-    {
-      "title": "Yield drives currency markets in 2026, Deutsche Bank says - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -27,16 +27,6 @@
       "label": "bullish",
       "score": 0.9236,
       "currencies": []
-    },
-    {
-      "title": "Indias forex reserves rise by USD 7.26 Bn to USD 674.19 Bn in week ended July 3, led by foreign currency assets and gold - The Tribune",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9455,
-      "currencies": [
-        "USD",
-        "USD"
-      ]
     },
     {
       "title": "Forex reserves rise by $7.3 billion in week ended July 3 - The Times of India",
@@ -53,13 +43,6 @@
       "currencies": []
     },
     {
-      "title": "Yen Jumps as Markets See Katayama's Pension Fund Push as Structural Fix for Currency Weakness - Action Forex",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6816,
-      "currencies": []
-    },
-    {
       "title": "GBP/USD Forecast 10/07: Chaos Triggers Range (Video) - DailyForex",
       "source": "Google News",
       "label": "neutral",
@@ -70,7 +53,21 @@
       ]
     },
     {
+      "title": "Yen Jumps as Markets See Katayama's Pension Fund Push as Structural Fix for Currency Weakness - Action Forex",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6816,
+      "currencies": []
+    },
+    {
       "title": "Bank of Israel intervenes in forex trading again - Globes - Israel Business News",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "FM Nirmala Sitharaman to meets heads of PSU banks on Mon, review foreign currency deposit mobilisation - The Economic Times",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -84,69 +81,68 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY forecast: Currency Pair of the Week | July 6, 2026 - FOREX.com",
+      "title": "Yield drives currency markets in 2026, Deutsche Bank says - Investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Wall St flat as SK Hynix\u2019s stellar debut limits losses in chip stocks",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8192,
+      "currencies": []
+    },
+    {
+      "title": "Baird reiterates Nurix stock Outperform rating at $33 target",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.4352,
+      "currencies": []
+    },
+    {
+      "title": "SK Hynix shares jump in marquee US debut as AI euphoria persists",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5103,
+      "currencies": []
+    },
+    {
+      "title": "Park Aerospace names John Jamieson as senior VP, GM",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Barings Corporate Investors For: 10 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "CoStar Group stock hits 52-week low at 28.18 USD",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9548,
       "currencies": [
-        "USD",
-        "JPY"
+        "USD"
       ]
     },
     {
-      "title": "Canada\u2019s economy posts modest job gains in June, unemployment rate dips",
+      "title": "BETA completes first electric aircraft flights under FAA program",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7945,
+      "label": "bullish",
+      "score": 0.6419,
       "currencies": []
     },
     {
-      "title": "TD Cowen reiterates Hold on Simply Good Foods stock, $13 target",
+      "title": "Novavax options trading jumps to highest in months",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "DA Davidson reiterates Euronet Worldwide stock Buy rating at $102",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "BMO reiterates Allstate stock Outperform on New York insurance reforms",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9456,
-      "currencies": []
-    },
-    {
-      "title": "DA Davidson cuts Simply Goods Group stock price target on turnaround uncertainty",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5361,
-      "currencies": []
-    },
-    {
-      "title": "Bank of Canada to hold rates steady in 2026 as inflation risks appear contained: Reuters Poll",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 144 Wayfair Inc. For: 10 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 144 Pennant Group For: 10 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.8956,
       "currencies": []
     }
   ],
