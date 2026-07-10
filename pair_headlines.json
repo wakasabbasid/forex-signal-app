@@ -9,15 +9,13 @@
         "score": 0.0
       }
     ],
-    "USD/CHF": [
+    "GBP/USD": [
       {
-        "title": "USD/CHF Forecast 09/07: Dollar Tests Breakout (Chart) - DailyForex",
+        "title": "GBP/USD: Where Next Following Breakout Above 1.3400? - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      }
-    ],
-    "GBP/USD": [
+      },
       {
         "title": "GBP/JPY Reaches 2008 Highs as Sterling Rallies - TradingPedia",
         "source": "Google News",
@@ -25,10 +23,10 @@
         "score": 0.0
       },
       {
-        "title": "GBP/USD: Where Next Following Breakout Above 1.3400? - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "title": "GBP/JPY Price Forecast: Bullish amid respected higher-high structure",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8028
       }
     ],
     "USD/JPY": [
@@ -45,6 +43,12 @@
         "score": 0.6676
       },
       {
+        "title": "GBP/JPY Price Forecast: Bullish amid respected higher-high structure",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8028
+      },
+      {
         "title": "South Korean Won: Rally versus sustained USD strength \u2013 TD Securities",
         "source": "FXStreet",
         "label": "bullish",
@@ -55,6 +59,14 @@
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.9242
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/USD Analysis 09/07:Will Sellers Maintain Control or is a Strong Rebound Nearing? (chart) - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }

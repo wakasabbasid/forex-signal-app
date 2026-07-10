@@ -18,20 +18,20 @@
       ]
     },
     {
-      "title": "USD/CHF Forecast 09/07: Dollar Tests Breakout (Chart) - DailyForex",
+      "title": "GBP/USD: Where Next Following Breakout Above 1.3400? - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
-        "USD",
-        "CHF"
+        "GBP",
+        "USD"
       ]
     },
     {
-      "title": "India banks slash short-term debt sales on cheaper forex funding - Yahoo Finance Singapore",
+      "title": "Bank of Israel intervenes in forex trading again - Globes - Israel Business News",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9588,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "title": "Bank of Israel intervenes in forex trading again - Globes - Israel Business News",
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -61,10 +61,10 @@
       ]
     },
     {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9371,
       "currencies": []
     },
     {
@@ -75,12 +75,12 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD: Where Next Following Breakout Above 1.3400? - DailyForex",
+      "title": "EUR/USD Analysis 09/07:Will Sellers Maintain Control or is a Strong Rebound Nearing? (chart) - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
-        "GBP",
+        "EUR",
         "USD"
       ]
     },
@@ -99,59 +99,59 @@
       "currencies": []
     },
     {
-      "title": "Universal Safety Products director Ault buys $2,398 in common stock",
+      "title": "US House to vote on bill to make daylight saving time permanent",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "HRT Financial LP sells $53,229 in Edible Garden AG stock",
+      "title": "Neurocrine Biosciences chief regulatory officer sells $2.6m stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Coinbase\u2019s top attorney who has led crypto\u2019s Washington fight to step down",
+      "title": "SK Hynix raises $26.5 billion in US offering after pricing ADRs at $149",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8765,
+      "currencies": []
+    },
+    {
+      "title": "Form 144 Arcus Biosciences For: 9 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 Jewett-Cameron Trading Company Ltd For: 9 July",
+      "title": "Form 4 EverCommerce Inc For: 9 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Overcrowded shelters, poor water access pose health risks after Venezuela quakes, PAHO says",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9571,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Shuttle Pharmaceuticals Inc For: 9 July",
+      "title": "Two Hands completes CSE delisting, seeks name change to Quantum X",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Oregon community foundation sells $13,670 in Jewett Cameron stock",
+      "title": "EverCommerce CEO Eric Remer sells $199,734 in EVCM stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Coinbase legal chief Paul Grewal resigns after regulatory wins",
+      "title": "Form 4 Samsara Inc For: 9 July",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7784,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
