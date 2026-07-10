@@ -1,155 +1,143 @@
 {
   "headlines": [
     {
-      "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.925,
-      "currencies": []
-    },
-    {
-      "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0431\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Rupee finds breathing room on oil pullback, soft dollar; Middle East risks linger - Yahoo Finance UK",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "AUD/USD Outlook: Two-part rates play, one-part risk proxy - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
-    },
-    {
-      "title": "Yen Jumps as Markets See Katayama's Pension Fund Push as Structural Fix for Currency Weakness - Action Forex",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6816,
-      "currencies": []
-    },
-    {
-      "title": "GBP/USD: Where Next Following Breakout Above 1.3400? - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "Bank of Israel intervenes in forex trading again - Globes - Israel Business News",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "GBP/JPY Reaches 2008 Highs as Sterling Rallies - TradingPedia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "JPY"
-      ]
-    },
-    {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
-      "currencies": []
-    },
-    {
-      "title": "Why the Dollar Keeps Winning the Battle Against the Euro - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD Analysis 09/07:Will Sellers Maintain Control or is a Strong Rebound Nearing? (chart) - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "SK Hynix edges higher after pricing $26.5 billion U.S. ADR offering",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9476,
-      "currencies": []
-    },
-    {
-      "title": "Morning Bid: Japan calling capital home",
+      "title": "Chariot sets AGM for September, proposes 25-for-1 share consolidation",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is Fast Retailing stock sliding today?",
+      "title": "Why is M J Gleeson stock rising today?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "E& Group shares jump on $5.95 billion Vodafone stake sale",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why is St. James\u2019s Place stock sliding today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9234,
+      "score": -0.933,
       "currencies": []
     },
     {
-      "title": "Slain Iranian leader buried as successor remains out of sight",
+      "title": "Coca-Cola HBC to release half-year results on August 5",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Tencent in talks to become largest shareholder in China\u2019s Manus- FT",
+      "title": "Hays rallies 11% after forecasting annual profit at top end of expectations",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9083,
       "currencies": []
     },
     {
-      "title": "Turkey\u2019s Erdogan gives NATO leaders revolver conundrum after summit",
+      "title": "Why is Porr stock dropping today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.4874,
+      "score": -0.9416,
       "currencies": []
     },
     {
-      "title": "US reiterates backing for Tibetan aspirations to preserve culture",
+      "title": "UKey unveils the Seed Ring: Bringing hardware signing into everyday life",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Disney weighs free Disney+ tier as YouTube gains TV viewers - Business Insider",
+      "title": "Stifel upgrades Twilio stock rating to Buy on AI growth potential",
       "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7732,
+      "currencies": []
+    },
+    {
+      "title": "Bernstein upgrades J.B. Hunt stock on improving truck rates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7296,
+      "currencies": []
+    },
+    {
+      "title": "Global oil supply rose 4.1 million bpd in June as flows through Hormuz resumed, but remained 9.4 million bpd behind pre-war levels - IEA",
+      "source": "ForexLive",
+      "label": "bullish",
+      "score": 0.9372,
+      "currencies": []
+    },
+    {
+      "title": "Gold erases the losses and goes back to rangebound mode as traders await the US CPI report",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.6693,
+      "currencies": []
+    },
+    {
+      "title": "French inflation confirmed to fall in June, easing pressure on the ECB",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.7882,
+      "currencies": []
+    },
+    {
+      "title": "What are the main events for today?",
+      "source": "ForexLive",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "German headline annual inflation confirmed at 2.3% in June, core prices also hold steady",
+      "source": "ForexLive",
+      "label": "bullish",
+      "score": 0.449,
+      "currencies": []
+    },
+    {
+      "title": "FX option expiries for 10 July 10am New York cut",
+      "source": "ForexLive",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Iran's strategy in leveraging on control over the Strait of Hormuz looks to be working",
+      "source": "ForexLive",
+      "label": "bullish",
+      "score": 0.7521,
+      "currencies": []
+    },
+    {
+      "title": "A calmer end to the week for markets?",
+      "source": "ForexLive",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "investingLive Asia-Pacific market news wrap: Oil-Iran-US steady, yen jumped, stocks too",
+      "source": "ForexLive",
+      "label": "bullish",
+      "score": 0.9204,
+      "currencies": []
+    },
+    {
+      "title": "Asia rallies on chip rebound and Japan pension-flow hopes as Iran risk fades",
+      "source": "ForexLive",
+      "label": "bullish",
+      "score": 0.5372,
       "currencies": []
     }
   ],

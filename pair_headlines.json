@@ -1,78 +1,26 @@
 {
   "run_id": 1,
   "pairs": {
-    "AUD/USD": [
+    "USD/CAD": [
       {
-        "title": "AUD/USD Outlook: Two-part rates play, one-part risk proxy - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "GBP/USD: Where Next Following Breakout Above 1.3400? - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "GBP/JPY Reaches 2008 Highs as Sterling Rallies - TradingPedia",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "title": "USD/CAD Price Forecast: Recovers from three-week low; flat above 1.4150 ahead of jobs data",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.5385
       }
     ],
     "USD/JPY": [
       {
-        "title": "GBP/JPY Reaches 2008 Highs as Sterling Rallies - TradingPedia",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "PBOC sets USD/ CNY reference rate for today at 6.7989 (vs. estimate at 6.7931)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Gold flat lines above $4,100 as weaker USD clashes with Fed hike bets and Iran risks",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.6839
-      },
-      {
-        "title": "New Zealand Dollar extends hawkish RBNZ-inspired rally; hits three-week high vs weaker USD",
+        "title": "Japanese Yen: Policy shift talk supports JPY \u2013 MUFG",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.8848
+        "score": 0.8599
       },
       {
-        "title": "Japanese Yen rallies against weaker USD amid looming intervention risks",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.6017
-      },
-      {
-        "title": "PBOC sets USD/CNY reference rate at 6.7989 vs. 6.8036 previous",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/USD Analysis 09/07:Will Sellers Maintain Control or is a Strong Rebound Nearing? (chart) - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "EUR/USD Price Forecast: Sits near weekly top around 1.1450 as bulls flirt with 23.6% Fibo.",
+        "title": "Gold sticks to modest losses; eyes $4,100 as Fed hike bets and Iran risks support USD",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.83
+        "score": 0.7156
       }
     ]
   }
