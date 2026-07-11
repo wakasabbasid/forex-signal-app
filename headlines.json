@@ -8,6 +8,13 @@
       "currencies": []
     },
     {
+      "title": "Dollar stablecoins could improve FX access but amplify currency runs: IMF paper - TradingView",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "USD/JPY forecast: Currency Pair of the Week | July 6, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -32,13 +39,6 @@
       "currencies": []
     },
     {
-      "title": "Angola adds yuan to approved reserve currencies for banks - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Bank of Israel intervenes in forex trading again - Globes - Israel Business News",
       "source": "Google News",
       "label": "neutral",
@@ -54,6 +54,13 @@
         "GBP",
         "USD"
       ]
+    },
+    {
+      "title": "Angola adds yuan to approved reserve currencies for banks - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
@@ -77,20 +84,32 @@
       "currencies": []
     },
     {
-      "title": "India's forex reserves jump $7.26 billion to $674.19 billion as foreign currency assets, gold rebound - Firstpost",
+      "title": "Former FBI agent Jeffrey Royer pleads guilty in Detroit to forex investment fraud - ClickOnDetroit | WDIV Local 4",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.9236,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-      "source": "Google News",
+      "title": "Iran\u2019s Supreme Leader pledges revenge for slain father and predecessor",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Two dead, 19 wounded as Russia strikes Ukraine with missiles, drones",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8655,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin stays above $64,000 as U.S. crypto policy advances, adoption grows",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
+      "score": 0.81,
+      "currencies": []
     },
     {
       "title": "China evacuates over one million as Typhoon Bavi nears",
@@ -125,27 +144,6 @@
       "source": "Investing.com",
       "label": "bearish",
       "score": -0.9008,
-      "currencies": []
-    },
-    {
-      "title": "Bitcoin coils below $64,700 resistance: Live levels",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Trump threatens to \u2019decimate\u2019 Iran as U.S. steps up military, diplomatic pressure",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7566,
-      "currencies": []
-    },
-    {
-      "title": "Ukraine creates long-range military command to intensify strikes on Russia",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     }
   ],
