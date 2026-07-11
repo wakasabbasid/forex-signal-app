@@ -49,13 +49,6 @@
       ]
     },
     {
-      "title": "Kenyan currency could be boosted by remittances - CNBC Africa",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8714,
-      "currencies": []
-    },
-    {
       "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
       "source": "Google News",
       "label": "neutral",
@@ -63,10 +56,10 @@
       "currencies": []
     },
     {
-      "title": "Angola adds yuan to approved reserve currencies for banks - Investing.com",
+      "title": "Kenyan currency could be boosted by remittances - CNBC Africa",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.8714,
       "currencies": []
     },
     {
@@ -77,6 +70,13 @@
       "currencies": []
     },
     {
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9371,
+      "currencies": []
+    },
+    {
       "title": "Japan's top currency diplomat alert to forex volatility linked to speculative oil trade - Reuters",
       "source": "Google News",
       "label": "neutral",
@@ -84,8 +84,29 @@
       "currencies": []
     },
     {
-      "title": "Only one thing has driven FX markets this year - Deutche Bank - investingLive",
+      "title": "Former FBI agent Jeffrey Royer pleads guilty in Detroit to forex investment fraud - ClickOnDetroit | WDIV Local 4",
       "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "BofA names South Korea, UAE among top AI contenders beyond U.S. and China",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7673,
+      "currencies": []
+    },
+    {
+      "title": "Teen Venezuela quake survivor mourns her \u2019young forever\u2019 friends",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin holds above $64,000 as investors weigh U.S. crypto policy shifts",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
@@ -112,13 +133,6 @@
       "currencies": []
     },
     {
-      "title": "Teen Venezuela quake survivor mourns her \u2019young forever\u2019 friends",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "China tells refiners to keep fuel output high as Iran conflict threatens supply",
       "source": "Investing.com",
       "label": "neutral",
@@ -130,20 +144,6 @@
       "source": "Investing.com",
       "label": "bullish",
       "score": 0.7829,
-      "currencies": []
-    },
-    {
-      "title": "Spanish firefighters turn to the offensive against deadly Almeria blaze",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US Democrat Ro Khanna detained by Israeli settlers during West Bank visit",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7698,
       "currencies": []
     }
   ],
