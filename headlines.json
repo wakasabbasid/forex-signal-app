@@ -32,13 +32,6 @@
       "currencies": []
     },
     {
-      "title": "Bank of Israel intervenes in forex trading again - Globes - Israel Business News",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "GBP/USD Forex Signal 08/07: Eyes Breakout (Chart) - DailyForex",
       "source": "Google News",
       "label": "neutral",
@@ -47,6 +40,13 @@
         "GBP",
         "USD"
       ]
+    },
+    {
+      "title": "Bank of Israel intervenes in forex trading again - Globes - Israel Business News",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
@@ -60,13 +60,6 @@
       "source": "Google News",
       "label": "bullish",
       "score": 0.8714,
-      "currencies": []
-    },
-    {
-      "title": "AriseAlpha Launches AI Forex Trading Bot as Automated Currency Trading Demand Surges in 2026 - The National Law Review",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -91,59 +84,69 @@
       "currencies": []
     },
     {
-      "title": "BofA names South Korea, UAE among top AI contenders beyond U.S. and China",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7673,
-      "currencies": []
+      "title": "USD/CAD Forecast: Canadian dollar shows indecision ahead of employment data - FOREX.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8382,
+      "currencies": [
+        "USD",
+        "CAD"
+      ]
     },
     {
-      "title": "Teen Venezuela quake survivor mourns her \u2019young forever\u2019 friends",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Bitcoin holds above $64,000 as investors weigh U.S. crypto policy shifts",
+      "title": "Trump says he \u2019just finished\u2019 a physical at Walter Reed",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Eni CEO warns oil could break above $100 in 2027 if Middle East tensions persist",
+      "title": "Typhoon Bavi makes landfall in eastern China\u2019s Taizhou after nearly 2 million evacuated",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8527,
+      "score": -0.4841,
       "currencies": []
     },
     {
-      "title": "Iran\u2019s supreme leader pledges revenge for slain father and predecessor",
+      "title": "China\u2019s Q2 slowdown worsened by \u2019de facto\u2019 fiscal austerity, Citi says",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.943,
+      "currencies": []
+    },
+    {
+      "title": "Six dead, dozens wounded as Russia strikes Ukraine with missiles, drones",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8645,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: LTIM Q1 2027 profit, AI momentum lift shares 4.7%",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Corporate America offers stronger proof AI is boosting profits, productivity: MS",
+      "title": "Trump administration subpoenas New York Times journalists over Air Force One story, newspaper says",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8868,
+      "label": "bearish",
+      "score": -0.6492,
       "currencies": []
     },
     {
-      "title": "China tells refiners to keep fuel output high as Iran conflict threatens supply",
+      "title": "BofA says yen bearishness hits four-year extreme as policy fears mount",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.8713,
       "currencies": []
     },
     {
-      "title": "Jefferies flags buying opportunities as Iran conflict reshapes European energy",
+      "title": "US Democrat Ro Khanna detained by Israeli settlers during West Bank visit",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7829,
+      "label": "bearish",
+      "score": -0.7698,
       "currencies": []
     }
   ],

@@ -22,6 +22,14 @@
         "label": "neutral",
         "score": 0.0
       }
+    ],
+    "USD/CAD": [
+      {
+        "title": "USD/CAD Forecast: Canadian dollar shows indecision ahead of employment data - FOREX.com",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.8382
+      }
     ]
   }
 }
