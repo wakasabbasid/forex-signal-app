@@ -3,9 +3,9 @@
     {
       "id": 1,
       "engine": "finbert",
-      "headline_count": 66,
+      "headline_count": 70,
       "source_count": 6,
-      "created_at": "2026-07-11T00:01:40.827161+00:00",
+      "created_at": "2026-07-11T04:20:23.546058+00:00",
       "signals": [
         {
           "pair": "USD/JPY",
