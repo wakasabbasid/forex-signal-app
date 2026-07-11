@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0431\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "USD/JPY forecast: Currency Pair of the Week | July 6, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -25,6 +32,13 @@
       "currencies": []
     },
     {
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9371,
+      "currencies": []
+    },
+    {
       "title": "FM Sitharaman to review PSBs' foreign currency deposit mobilisation - BFSI News",
       "source": "Google News",
       "label": "neutral",
@@ -42,13 +56,6 @@
       ]
     },
     {
-      "title": "Bank of Israel intervenes in forex trading again - Globes - Israel Business News",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
       "source": "Google News",
       "label": "neutral",
@@ -63,13 +70,6 @@
       "currencies": []
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
-      "currencies": []
-    },
-    {
       "title": "Japan's top currency diplomat alert to forex volatility linked to speculative oil trade - Reuters",
       "source": "Google News",
       "label": "neutral",
@@ -77,7 +77,7 @@
       "currencies": []
     },
     {
-      "title": "Former FBI agent Jeffrey Royer pleads guilty in Detroit to forex investment fraud - ClickOnDetroit | WDIV Local 4",
+      "title": "Only one thing has driven FX markets this year - Deutche Bank - investingLive",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -92,6 +92,27 @@
         "USD",
         "CAD"
       ]
+    },
+    {
+      "title": "Venezuela quakes have killed 4,333, injured 16,740, National Assembly president says",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7502,
+      "currencies": []
+    },
+    {
+      "title": "Trump administration subpoenas New York Times journalists over Air Force One story, newspaper says",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6492,
+      "currencies": []
+    },
+    {
+      "title": "Broader AI demand is key for Nvidia investors, Morgan Stanley says",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8713,
+      "currencies": []
     },
     {
       "title": "Trump says he \u2019just finished\u2019 a physical at Walter Reed",
@@ -126,27 +147,6 @@
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Trump administration subpoenas New York Times journalists over Air Force One story, newspaper says",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6492,
-      "currencies": []
-    },
-    {
-      "title": "BofA says yen bearishness hits four-year extreme as policy fears mount",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8713,
-      "currencies": []
-    },
-    {
-      "title": "US Democrat Ro Khanna detained by Israeli settlers during West Bank visit",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7698,
       "currencies": []
     }
   ],
