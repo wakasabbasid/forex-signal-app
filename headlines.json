@@ -18,17 +18,17 @@
       ]
     },
     {
-      "title": "Angola adds yuan to approved reserve currencies for banks - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "15 Best Forex Pairs to Trade - TMGM",
       "source": "Google News",
       "label": "bullish",
       "score": 0.5058,
+      "currencies": []
+    },
+    {
+      "title": "Angola adds yuan to approved reserve currencies for banks - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -70,17 +70,17 @@
       "currencies": []
     },
     {
-      "title": "Forex reserves rise by $7.3 billion in week ended July 3 - The Times of India",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9033,
-      "currencies": []
-    },
-    {
       "title": "Bank of Israel intervenes in forex trading again - Globes - Israel Business News",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex reserves rise by $7.3 billion in week ended July 3 - The Times of India",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9033,
       "currencies": []
     },
     {
@@ -93,35 +93,42 @@
       ]
     },
     {
-      "title": "Form 4 Alamo Group Inc For: 10 July",
+      "title": "Form 4 Netskope Inc For: 10 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 Village Farms International Inc For: 10 July",
+      "title": "Form 4 AN2 Therapeutics Inc For: 10 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 Kilroy Realty Corp For: 10 July",
+      "title": "Why tech investors are reevaluating AI investments",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 Pure Storage Inc For: 10 July",
+      "title": "Iconiq\u2019s Divesh Makan buys $7.2m Netskope (NASDAQ:NTSK) stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Holtec Nuclear Corporation files for US IPO",
+      "title": "Form 4 Cue Biopharma For: 10 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Netskope director Griffith\u2019s fund buys $7.2m in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
@@ -136,13 +143,6 @@
     },
     {
       "title": "Why lower oil prices won't lead to lower inflation just yet",
-      "source": "ForexLive",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "The earnings bar is high and Wall Street thinks it gets cleared anyway \u2014 a look at the week ahead",
       "source": "ForexLive",
       "label": "neutral",
       "score": 0.0,
