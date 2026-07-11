@@ -1,20 +1,6 @@
 {
   "headlines": [
     {
-      "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.925,
-      "currencies": []
-    },
-    {
-      "title": "Dollar stablecoins could improve FX access but amplify currency runs: IMF paper - TradingView",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "USD/JPY forecast: Currency Pair of the Week | July 6, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -29,6 +15,13 @@
       "source": "Google News",
       "label": "bullish",
       "score": 0.5058,
+      "currencies": []
+    },
+    {
+      "title": "Dollar stablecoins could improve FX access but amplify currency runs: IMF paper - TradingView",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -56,6 +49,20 @@
       ]
     },
     {
+      "title": "Kenyan currency could be boosted by remittances - CNBC Africa",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8714,
+      "currencies": []
+    },
+    {
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Angola adds yuan to approved reserve currencies for banks - Investing.com",
       "source": "Google News",
       "label": "neutral",
@@ -63,7 +70,14 @@
       "currencies": []
     },
     {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
+      "title": "AriseAlpha Launches AI Forex Trading Bot as Automated Currency Trading Demand Surges in 2026 - The National Law Review",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japan's top currency diplomat alert to forex volatility linked to speculative oil trade - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -77,73 +91,59 @@
       "currencies": []
     },
     {
-      "title": "Forex reserves rise $7.3 billion as FCNR & ECB flows pick up - The Economic Times",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8986,
-      "currencies": []
-    },
-    {
-      "title": "Former FBI agent Jeffrey Royer pleads guilty in Detroit to forex investment fraud - ClickOnDetroit | WDIV Local 4",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Iran\u2019s Supreme Leader pledges revenge for slain father and predecessor",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Two dead, 19 wounded as Russia strikes Ukraine with missiles, drones",
+      "title": "Eni CEO warns oil could break above $100 in 2027 if Middle East tensions persist",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8655,
+      "score": -0.8527,
       "currencies": []
     },
     {
-      "title": "Bitcoin stays above $64,000 as U.S. crypto policy advances, adoption grows",
+      "title": "Iran\u2019s supreme leader pledges revenge for slain father and predecessor",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Corporate America offers stronger proof AI is boosting profits, productivity: MS",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.81,
+      "score": 0.8868,
       "currencies": []
     },
     {
-      "title": "China evacuates over one million as Typhoon Bavi nears",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9191,
-      "currencies": []
-    },
-    {
-      "title": "Andy Burnham set to become UK PM as policy agenda remains unclear",
+      "title": "Teen Venezuela quake survivor mourns her \u2019young forever\u2019 friends",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Businessman who sold land for Kushner resort in Albania suspected of faking the deeds",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5128,
-      "currencies": []
-    },
-    {
-      "title": "2027 French presidential election: Where do we stand now?",
+      "title": "China tells refiners to keep fuel output high as Iran conflict threatens supply",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "One killed in drone attack on vessels in Taganrog Bay, Russian authorities say",
+      "title": "Jefferies flags buying opportunities as Iran conflict reshapes European energy",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7829,
+      "currencies": []
+    },
+    {
+      "title": "Spanish firefighters turn to the offensive against deadly Almeria blaze",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US Democrat Ro Khanna detained by Israeli settlers during West Bank visit",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9008,
+      "score": -0.7698,
       "currencies": []
     }
   ],
