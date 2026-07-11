@@ -25,6 +25,13 @@
       "currencies": []
     },
     {
+      "title": "FM Sitharaman to review PSBs' foreign currency deposit mobilisation - BFSI News",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Angola adds yuan to approved reserve currencies for banks - Investing.com",
       "source": "Google News",
       "label": "neutral",
@@ -49,13 +56,6 @@
       ]
     },
     {
-      "title": "Only one thing has driven FX markets this year - Deutche Bank - investingLive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
       "source": "Google News",
       "label": "neutral",
@@ -63,10 +63,10 @@
       "currencies": []
     },
     {
-      "title": "India's forex reserves jump $7.26 billion to $674.19 billion as foreign currency assets, gold rebound - Firstpost",
+      "title": "Only one thing has driven FX markets this year - Deutche Bank - investingLive",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.9236,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -74,6 +74,13 @@
       "source": "Google News",
       "label": "bullish",
       "score": 0.8986,
+      "currencies": []
+    },
+    {
+      "title": "India's forex reserves jump $7.26 billion to $674.19 billion as foreign currency assets, gold rebound - Firstpost",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9236,
       "currencies": []
     },
     {
@@ -86,10 +93,38 @@
       ]
     },
     {
-      "title": "Forex reserves rise by $7.3 billion in week ended July 3 - The Times of India",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9033,
+      "title": "China evacuates over one million as Typhoon Bavi nears",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9191,
+      "currencies": []
+    },
+    {
+      "title": "Andy Burnham set to become UK PM as policy agenda remains unclear",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Businessman who sold land for Kushner resort in Albania suspected of faking the deeds",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5128,
+      "currencies": []
+    },
+    {
+      "title": "2027 French presidential election: Where do we stand now?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "One killed in drone attack on vessels in Taganrog Bay, Russian authorities say",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9008,
       "currencies": []
     },
     {
@@ -108,41 +143,6 @@
     },
     {
       "title": "Ukraine creates long-range military command to intensify strikes on Russia",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Volkswagen restructuring faces resistance after board setback",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9121,
-      "currencies": []
-    },
-    {
-      "title": "China temporarily bans helium exports as US-Iran tensions flare again",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9408,
-      "currencies": []
-    },
-    {
-      "title": "Trump says US, Iran agree to continue talks but ceasefire over",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US, Canada strike deal on tolls to let new bridge open on July 27",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6195,
-      "currencies": []
-    },
-    {
-      "title": "BlackRock lists top 10 geopolitical risks",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
