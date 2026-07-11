@@ -1,13 +1,6 @@
 {
   "headlines": [
     {
-      "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0431\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -39,7 +32,14 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Forecast 10/07: Chaos Triggers Range (Video) - DailyForex",
+      "title": "Bank of Israel intervenes in forex trading again - Globes - Israel Business News",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "GBP/USD Forex Signal 08/07: Eyes Breakout (Chart) - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -49,13 +49,6 @@
       ]
     },
     {
-      "title": "India's forex reserves jump $7.26 billion to $674.19 billion as foreign currency assets, gold rebound - Firstpost",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9236,
-      "currencies": []
-    },
-    {
       "title": "Only one thing has driven FX markets this year - Deutche Bank - investingLive",
       "source": "Google News",
       "label": "neutral",
@@ -63,17 +56,24 @@
       "currencies": []
     },
     {
-      "title": "India banks slash short-term debt sales on cheaper forex funding - Yahoo Finance Singapore",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9588,
-      "currencies": []
-    },
-    {
-      "title": "Bank of Israel intervenes in forex trading again - Globes - Israel Business News",
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "India's forex reserves jump $7.26 billion to $674.19 billion as foreign currency assets, gold rebound - Firstpost",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9236,
+      "currencies": []
+    },
+    {
+      "title": "Forex reserves rise $7.3 billion as FCNR & ECB flows pick up - The Economic Times",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8986,
       "currencies": []
     },
     {
@@ -93,59 +93,59 @@
       "currencies": []
     },
     {
-      "title": "Oregon drops motion to delay Paramount-Warner Bros deal",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7939,
-      "currencies": []
-    },
-    {
-      "title": "Trump says missiles aimed at Iran if Tehran targets US president",
+      "title": "Bitcoin coils below $64,700 resistance: Live levels",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "North Korea condemns US, allies after NATO summit, vows to safeguard sovereignty",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5944,
-      "currencies": []
-    },
-    {
-      "title": "OpenAI safety chief Heidecke to leave after leadership reshuffle, says Wired",
+      "title": "Trump threatens to \u2019decimate\u2019 Iran as U.S. steps up military, diplomatic pressure",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6154,
+      "score": -0.7566,
       "currencies": []
     },
     {
-      "title": "US issues fresh Iran-related sanctions as conflict flares",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8115,
-      "currencies": []
-    },
-    {
-      "title": "Soccer-England\u2019s Kane confirms golf outing with Trump, praises president\u2019s game",
+      "title": "Ukraine creates long-range military command to intensify strikes on Russia",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Flash flooding traps hundreds of people in rural Missouri",
+      "title": "Volkswagen restructuring faces resistance after board setback",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9065,
+      "score": -0.9121,
       "currencies": []
     },
     {
-      "title": "Trump administration backs Intel turnaround with customer push",
+      "title": "China temporarily bans helium exports as US-Iran tensions flare again",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9408,
+      "currencies": []
+    },
+    {
+      "title": "Trump says US, Iran agree to continue talks but ceasefire over",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US, Canada strike deal on tolls to let new bridge open on July 27",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9098,
+      "score": 0.6195,
+      "currencies": []
+    },
+    {
+      "title": "BlackRock lists top 10 geopolitical risks",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
