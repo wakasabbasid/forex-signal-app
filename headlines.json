@@ -1,10 +1,10 @@
 {
   "headlines": [
     {
-      "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0431\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438",
+      "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.925,
       "currencies": []
     },
     {
@@ -32,20 +32,6 @@
       "currencies": []
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
-      "currencies": []
-    },
-    {
-      "title": "FM Sitharaman to review PSBs' foreign currency deposit mobilisation - BFSI News",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "GBP/USD Forex Signal 08/07: Eyes Breakout (Chart) - DailyForex",
       "source": "Google News",
       "label": "neutral",
@@ -56,6 +42,13 @@
       ]
     },
     {
+      "title": "Bank of Israel intervenes in forex trading again - Globes - Israel Business News",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
       "source": "Google News",
       "label": "neutral",
@@ -63,21 +56,21 @@
       "currencies": []
     },
     {
-      "title": "Kenyan currency could be boosted by remittances - CNBC Africa",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8714,
-      "currencies": []
-    },
-    {
-      "title": "Japan's top currency diplomat alert to forex volatility linked to speculative oil trade - Reuters",
+      "title": "FM Sitharaman to review PSBs' foreign currency deposit mobilisation - BFSI News",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Only one thing has driven FX markets this year - Deutche Bank - investingLive",
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9371,
+      "currencies": []
+    },
+    {
+      "title": "Former FBI agent Jeffrey Royer pleads guilty in Detroit to forex investment fraud - ClickOnDetroit | WDIV Local 4",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -94,10 +87,27 @@
       ]
     },
     {
-      "title": "Venezuela quakes have killed 4,333, injured 16,740, National Assembly president says",
+      "title": "GBP/USD: Where Next Following Breakout Above 1.3400? - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
+      "title": "Family demands answers in death of young Black man in Mississippi",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7502,
+      "score": -0.6704,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin holds gains above $64,000 as U.S. crypto policy remains in focus",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9146,
       "currencies": []
     },
     {
@@ -108,45 +118,38 @@
       "currencies": []
     },
     {
-      "title": "Broader AI demand is key for Nvidia investors, Morgan Stanley says",
+      "title": "US, Canada strike deal on tolls to let new bridge open on July 27",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8713,
+      "score": 0.6195,
       "currencies": []
     },
     {
-      "title": "Trump says he \u2019just finished\u2019 a physical at Walter Reed",
+      "title": "US Postal Service raises stamp price to 82 cents",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Typhoon Bavi makes landfall in eastern China\u2019s Taizhou after nearly 2 million evacuated",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.4841,
-      "currencies": []
-    },
-    {
-      "title": "China\u2019s Q2 slowdown worsened by \u2019de facto\u2019 fiscal austerity, Citi says",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.943,
-      "currencies": []
-    },
-    {
-      "title": "Six dead, dozens wounded as Russia strikes Ukraine with missiles, drones",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8645,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: LTIM Q1 2027 profit, AI momentum lift shares 4.7%",
+      "title": "Russian strikes kill seven, wound dozens, Ukraine\u2019s Zelenskiy seeks faster weapons deliveries",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Iran\u2019s Khamenei vows revenge as Trump warns of devastating U.S. response",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7262,
+      "currencies": []
+    },
+    {
+      "title": "Ukraine says drone strikes damage 21 Russian oil tankers in Sea of Azov attack",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9524,
       "currencies": []
     }
   ],
