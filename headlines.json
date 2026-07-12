@@ -1,13 +1,6 @@
 {
   "headlines": [
     {
-      "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0431\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -15,14 +8,38 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY forecast: Currency Pair of the Week | July 6, 2026 - FOREX.com",
+      "title": "XAU USD Chart & Rate - XAU USD Trading - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
         "USD",
-        "JPY"
+        "USD"
       ]
+    },
+    {
+      "title": "FM Sitharaman to meet PSB chiefs to review foreign currency deposit drive - ETLegalWorld.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "AUD/USD Forecast 12/07: Faces a Quiet Test Between (Chart) - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
+    },
+    {
+      "title": "Sudan central bank penalizes banks, staff over forex violations - Sudan Tribune",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9471,
+      "currencies": []
     },
     {
       "title": "15 Best Forex Pairs to Trade - TMGM",
@@ -32,18 +49,42 @@
       "currencies": []
     },
     {
-      "title": "Dollar stablecoins could improve FX access but amplify currency runs: IMF paper - TradingView",
+      "title": "Earning a sizeable income in foreign currency? Here\u2019s a more efficient, cost-effective way to receive it in SA - Moneyweb",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
+    },
+    {
+      "title": "Bank of Israel intervenes in forex trading again - Globes - Israel Business News",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Former FBI agent Jeffrey Royer pleads guilty in Detroit to forex investment fraud - ClickOnDetroit | WDIV Local 4",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Australian Dollar Outlook: AUD/USD Bounce Losing Steam Ahead of US CPI - FOREX.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9693,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
     },
     {
       "title": "GBP/USD Forex Signal 08/07: Eyes Breakout (Chart) - DailyForex",
@@ -56,45 +97,39 @@
       ]
     },
     {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
-      "source": "Google News",
+      "title": "Oil jumps more than 3% after US, Iran launch strikes in Mideast",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7788,
+      "currencies": []
+    },
+    {
+      "title": "What do investors need to be watching in DC in 2026H2?",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "FM Sitharaman to review PSBs' foreign currency deposit mobilisation - BFSI News",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan's top currency diplomat alert to forex volatility linked to speculative oil trade - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "USD/CAD Forecast: Canadian dollar shows indecision ahead of employment data - FOREX.com",
-      "source": "Google News",
+      "title": "Iran expands attacks on Gulf states after US strikes, says Strait of Hormuz closed",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8382,
-      "currencies": [
-        "USD",
-        "CAD"
-      ]
+      "score": -0.3836,
+      "currencies": []
     },
     {
-      "title": "GBP/USD: Where Next Following Breakout Above 1.3400? - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
+      "title": "What\u2019s driving the sell-off in AI-related stocks?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7763,
+      "currencies": []
+    },
+    {
+      "title": "McConnell says he won\u2019t be able to return to U.S. Senate yet",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5737,
+      "currencies": []
     },
     {
       "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
@@ -104,52 +139,17 @@
       "currencies": []
     },
     {
-      "title": "Family demands answers in death of young Black man in Mississippi",
+      "title": "Death toll from Venezuela earthquakes rises to 4,490",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6704,
+      "score": -0.6076,
       "currencies": []
     },
     {
-      "title": "Bitcoin holds gains above $64,000 as U.S. crypto policy remains in focus",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9146,
-      "currencies": []
-    },
-    {
-      "title": "Trump administration subpoenas New York Times journalists over Air Force One story, newspaper says",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6492,
-      "currencies": []
-    },
-    {
-      "title": "US, Canada strike deal on tolls to let new bridge open on July 27",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6195,
-      "currencies": []
-    },
-    {
-      "title": "US Postal Service raises stamp price to 82 cents",
+      "title": "Teen Venezuela quake survivor mourns her \u2019young forever\u2019 friends",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Russian strikes kill seven, wound dozens, Ukraine\u2019s Zelenskiy seeks faster weapons deliveries",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Iran\u2019s Khamenei vows revenge as Trump warns of devastating U.S. response",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7262,
       "currencies": []
     }
   ],

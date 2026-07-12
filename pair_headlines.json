@@ -3,16 +3,24 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "USD/JPY forecast: Currency Pair of the Week | July 6, 2026 - FOREX.com",
+        "title": "XAU USD Chart & Rate - XAU USD Trading - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "AUD/USD Forecast 12/07: Faces a Quiet Test Between (Chart) - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "USD moves higher as traders react to Trump comments",
-        "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.879
+        "title": "Australian Dollar Outlook: AUD/USD Bounce Losing Steam Ahead of US CPI - FOREX.com",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9693
       }
     ],
     "GBP/USD": [
@@ -21,20 +29,6 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "GBP/USD: Where Next Following Breakout Above 1.3400? - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "USD/CAD": [
-      {
-        "title": "USD/CAD Forecast: Canadian dollar shows indecision ahead of employment data - FOREX.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.8382
       }
     ]
   }
