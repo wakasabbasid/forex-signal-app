@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "Major Forex pairs: Outlook for the end of 2026 - Augusta Free Press",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -41,6 +48,13 @@
       "currencies": []
     },
     {
+      "title": "Nirmala Sitharaman calls for greater NRI outreach to boost foreign currency inflows - The Economic Times",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7324,
+      "currencies": []
+    },
+    {
       "title": "Bank of Thailand targets USDT and cash flows in gray money crackdown - TradingView",
       "source": "Google News",
       "label": "neutral",
@@ -55,13 +69,6 @@
       "currencies": []
     },
     {
-      "title": "Thomas Cook India Launches Zero Markup Forex Card to Help Travellers Cut Overseas Payment Costs and Manage Currency Risk: What are the Other Playing in the Market - Travel And Tour World",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "15 Best Forex Pairs to Trade - TMGM trading",
       "source": "Google News",
       "label": "neutral",
@@ -69,10 +76,10 @@
       "currencies": []
     },
     {
-      "title": "Nirmala Sitharaman calls for greater NRI outreach to boost foreign currency inflows - The Economic Times",
+      "title": "Thomas Cook India Launches Zero Markup Forex Card to Help Travellers Cut Overseas Payment Costs and Manage Currency Risk: What are the Other Playing in the Market - Travel And Tour World",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.7324,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -85,64 +92,57 @@
       ]
     },
     {
-      "title": "The FX carry trade looks poised to continue shining in the second half of the year - Goldman Sachs - investingLive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Dell Technologies Inc For: 13 July",
+      "title": "Form 4 Amphastar P For: 13 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Silver Lake, director Egon Durban sell $26.98m in Dell shares",
+      "title": "Form 4 Laird Superfood\u00a0Inc For: 13 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Jack Daniel\u2019s maker Brown-Forman CEO Lawson Whiting to retire",
+      "title": "Form 144 Rubrik For: 13 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 Aehr Test Systems For: 13 July",
+      "title": "Development banks\u2019 climate funding hits record, but World Bank pullback looms",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5308,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Iridium Communications Inc For: 13 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Silver Lake affiliates, Dell director Egon Durban sell $272,578 Dell stock",
+      "title": "HCLTech Q1 FY27 slides: record bookings fuel stock surge",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.486,
       "currencies": []
     },
     {
-      "title": "Egon Durban-affiliated Silver Lake sells $31.1m Dell stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "title": "Yen Katayama bounce fully unwinds as GPIF shift doubts emerge",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.3968,
       "currencies": []
     },
     {
-      "title": "Top REITs to Watch: BofA Analyst Names Seven Best Picks",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form S-1/A USBC For: 13 July",
-      "source": "Investing.com",
+      "title": "UK consumers spend on heat and football even as risks build",
+      "source": "ForexLive",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
