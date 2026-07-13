@@ -3,16 +3,10 @@
   "pairs": {
     "AUD/USD": [
       {
-        "title": "Australian Dollar Outlook: AUD/USD Bounce Losing Steam Ahead of US CPI - FOREX.com",
+        "title": "AUD/USD Signal 13/07: Finding a Bottom at Last? - DailyForex",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.9693
-      },
-      {
-        "title": "AUD/USD Forecast 12/07: Faces a Quiet Test Between (Chart) - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "score": -0.6519
       }
     ],
     "USD/JPY": [
@@ -23,24 +17,24 @@
         "score": 0.6676
       },
       {
-        "title": "Silver Price Forecast: XAG/USD falls to near $58.00 due to prevailing bearish bias",
-        "source": "FXStreet",
+        "title": "USD/JPY remains rangebound above the 160.50 support as traders await the US CPI report",
+        "source": "ForexLive",
         "label": "bearish",
-        "score": -0.9724
+        "score": -0.7504
       },
       {
-        "title": "Gold struggles near daily low as energy-driven inflation fears lift Fed hike bets and USD",
+        "title": "Gold Price Forecast: XAU/USD drifts below $4,100, but bears start to look exhausted",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.4747
+        "score": -0.6528
       }
     ],
-    "USD/CAD": [
+    "GBP/USD": [
       {
-        "title": "USD/CAD Price Forecast: Higher Oil prices strengthen Canadian Dollar",
+        "title": "GBP/USD Price Forecast: Bounces back to near 1.3400 as US Dollar turns upside down",
         "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9343
+        "label": "bearish",
+        "score": -0.8481
       }
     ]
   }

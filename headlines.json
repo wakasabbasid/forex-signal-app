@@ -1,6 +1,23 @@
 {
   "headlines": [
     {
+      "title": "Low Volatility Is Changing Forex Trading Setups - StoneX",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "AUD/USD Signal 13/07: Finding a Bottom at Last? - DailyForex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6519,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
+    },
+    {
       "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -22,17 +39,17 @@
       "currencies": []
     },
     {
-      "title": "FM Sitharaman to meet PSB chiefs to review foreign currency deposit drive - ETLegalWorld.com",
+      "title": "15 Best Forex Pairs to Trade - TMGM trading",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "15 Best Forex Pairs to Trade - TMGM",
+      "title": "FM Sitharaman to meet PSB chiefs to review foreign currency deposit drive - ETCFO.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.5058,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -40,47 +57,6 @@
       "source": "Google News",
       "label": "bearish",
       "score": -0.9471,
-      "currencies": []
-    },
-    {
-      "title": "Which Asian country holds the world's largest foreign exchange reserves? - VnExpress International",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "FX option expiries for 13 July 10am New York cut - investingLive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Australian Dollar Outlook: AUD/USD Bounce Losing Steam Ahead of US CPI - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9693,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
-    },
-    {
-      "title": "AUD/USD Forecast 12/07: Faces a Quiet Test Between (Chart) - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
-    },
-    {
-      "title": "Renminbi Recovers Amid Forex Volatility - BusinessToday Malaysia",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9185,
       "currencies": []
     },
     {
@@ -93,59 +69,80 @@
       ]
     },
     {
-      "title": "Samsung Electronics grants treasury shares to executives",
-      "source": "Investing.com",
+      "title": "The FX carry trade looks poised to continue shining in the second half of the year - Goldman Sachs - investingLive",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "JPMorgan resumes Legend Biotech stock coverage with neutral rating",
-      "source": "Investing.com",
+      "title": "AriseAlpha Launches AI Forex Trading Bot as Automated Currency Trading Demand Surges in 2026 - The National Law Review",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "JPMorgan resumes Alkermes stock coverage with neutral rating",
-      "source": "Investing.com",
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "JPMorgan resumes Denali Therapeutics stock coverage with Overweight rating",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Analysis-Japan pension pivot seen as a slow burn, not a bond market fire sale",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Gjensidade posts strong Q2 2026 profit, stock rises",
+      "title": "India\u2019s retail inflation accelerates to 4.38%, raising rate hike expectations",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9425,
+      "score": 0.9485,
       "currencies": []
     },
     {
-      "title": "ME Group jumps 13% after reaffirming annual outlook despite April weakness",
+      "title": "Alto Neuroscience prices $100M stock offering at $26.48",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9284,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "PageGroup holds guidance as Q2 demand improves, shares surge",
+      "title": "Global yields steady as markets weigh Hormuz closure and inflationary pressures",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6964,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Elecon Engineering posts steady Q1 FY 2027 growth",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8888,
+      "score": 0.9374,
+      "currencies": []
+    },
+    {
+      "title": "Wildfire rages near Paris as heatwave scorches Europe",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6453,
+      "currencies": []
+    },
+    {
+      "title": "BofA starts Ionos bullish on sovereign cloud demand, 17% EPS path",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7809,
+      "currencies": []
+    },
+    {
+      "title": "Macron calls for more EU defense projects after fighter jet deal fails",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7574,
+      "currencies": []
+    },
+    {
+      "title": "Ukraine strikes more Russian tankers and cargo ships in Sea of Azov",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9491,
       "currencies": []
     }
   ],
