@@ -41,10 +41,24 @@
       "currencies": []
     },
     {
+      "title": "Forex Today: US Dollar surges as Hormuz tensions send Oil to one-month high - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6971,
+      "currencies": []
+    },
+    {
       "title": "Bank of Thailand targets USDT and cash flows in gray money crackdown - TradingView",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Nirmala Sitharaman calls for greater NRI outreach to boost foreign currency inflows - The Economic Times",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7324,
       "currencies": []
     },
     {
@@ -69,20 +83,6 @@
       "currencies": []
     },
     {
-      "title": "Dollar Index Edges Up Amidst Rate Cues, War Cries - RTTNews",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7158,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: US Dollar benefits from risk aversion as Middle East situation heats up - FXStreet",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9058,
-      "currencies": []
-    },
-    {
       "title": "The FX carry trade looks poised to continue shining in the second half of the year - Goldman Sachs - investingLive",
       "source": "Google News",
       "label": "neutral",
@@ -90,56 +90,56 @@
       "currencies": []
     },
     {
-      "title": "Cosmos Health repurchases 215,000 shares at $0.325 average",
+      "title": "Form 4 Energizer Holdings Inc For: 13 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is Invesco QQQ Trust sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8773,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Leggett & Platt  For: 13 July",
+      "title": "Form 4 BillionToOne Inc For: 13 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Robinhood explores first credit card-backed bond sale - report",
+      "title": "BridgeBio Pharma director Andrea Ellis sells $1.44m in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is Oracle stock sliding to a new 52-week low today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9548,
-      "currencies": []
-    },
-    {
-      "title": "Microsoft tests $393-$400 resistance zone: Live hourly levels",
+      "title": "Lsi industries director O\u2019Gara sells $249,789 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Silver tests $57.60 support with RSI near oversold: Live levels",
+      "title": "Hippo Holdings CEO Richard McCathron sells $142,650 in stock",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.604,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Canada regulator cited Anthropic\u2019s Claude Mythos in warning to banks on cyber risks, email shows",
+      "title": "BridgeBio Pharma director Jennifer E. Cook sells $13.16m in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 The Trade Desk For: 13 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 LSI Industries Inc For: 13 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

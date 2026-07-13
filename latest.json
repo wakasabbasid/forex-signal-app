@@ -3,8 +3,14 @@
   "engine": "finbert",
   "headline_count": 69,
   "source_count": 6,
-  "created_at": "2026-07-13T19:38:45.524300+00:00",
+  "created_at": "2026-07-13T20:59:54.536365+00:00",
   "signals": [
+    {
+      "pair": "NZD/USD",
+      "signal": "SELL",
+      "avg_score": -0.5596,
+      "headline_count": 1
+    },
     {
       "pair": "EUR/USD",
       "signal": "HOLD",

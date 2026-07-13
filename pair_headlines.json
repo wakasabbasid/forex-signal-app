@@ -16,6 +16,14 @@
         "label": "neutral",
         "score": 0.0
       }
+    ],
+    "NZD/USD": [
+      {
+        "title": "NZD/USD Price Forecast: Kiwi holds below 200-day as bears target 0.5700",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.5596
+      }
     ]
   }
 }
