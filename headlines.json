@@ -41,24 +41,10 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar surges as Hormuz tensions send Oil to one-month high - FXStreet",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6971,
-      "currencies": []
-    },
-    {
       "title": "Bank of Thailand targets USDT and cash flows in gray money crackdown - TradingView",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Nirmala Sitharaman calls for greater NRI outreach to boost foreign currency inflows - The Economic Times",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7324,
       "currencies": []
     },
     {
@@ -83,6 +69,22 @@
       "currencies": []
     },
     {
+      "title": "Nirmala Sitharaman calls for greater NRI outreach to boost foreign currency inflows - The Economic Times",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7324,
+      "currencies": []
+    },
+    {
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "The FX carry trade looks poised to continue shining in the second half of the year - Goldman Sachs - investingLive",
       "source": "Google News",
       "label": "neutral",
@@ -90,56 +92,56 @@
       "currencies": []
     },
     {
-      "title": "Form 4 Energizer Holdings Inc For: 13 July",
+      "title": "Form 4 Dell Technologies Inc For: 13 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 BillionToOne Inc For: 13 July",
+      "title": "Silver Lake, director Egon Durban sell $26.98m in Dell shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "BridgeBio Pharma director Andrea Ellis sells $1.44m in stock",
+      "title": "Jack Daniel\u2019s maker Brown-Forman CEO Lawson Whiting to retire",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Lsi industries director O\u2019Gara sells $249,789 in shares",
+      "title": "Form 4 Aehr Test Systems For: 13 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Hippo Holdings CEO Richard McCathron sells $142,650 in stock",
+      "title": "Silver Lake affiliates, Dell director Egon Durban sell $272,578 Dell stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "BridgeBio Pharma director Jennifer E. Cook sells $13.16m in shares",
+      "title": "Egon Durban-affiliated Silver Lake sells $31.1m Dell stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 The Trade Desk For: 13 July",
+      "title": "Top REITs to Watch: BofA Analyst Names Seven Best Picks",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 LSI Industries Inc For: 13 July",
+      "title": "Form S-1/A USBC For: 13 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
