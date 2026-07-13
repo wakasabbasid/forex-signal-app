@@ -1,10 +1,27 @@
 {
   "headlines": [
     {
+      "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
       "title": "Low Volatility Is Changing Forex Trading Setups - StoneX",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.925,
       "currencies": []
     },
     {
@@ -18,14 +35,28 @@
       ]
     },
     {
-      "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
+      "title": "Bank of Thailand targets USDT and cash flows in gray money crackdown - TradingView",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.925,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Bank of Thailand targets USDT and cash flows in gray money crackdown - TradingView",
+      "title": "Thomas Cook India Launches Zero Markup Forex Card to Help Travellers Cut Overseas Payment Costs and Manage Currency Risk: What are the Other Playing in the Market - Travel And Tour World",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Forecasts \u2013 Greenback Momentum Tests Key Support and Moving Averages - FXEmpire",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "The FX carry trade looks poised to continue shining in the second half of the year - Goldman Sachs - investingLive",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -53,29 +84,6 @@
       "currencies": []
     },
     {
-      "title": "Sudan central bank penalizes banks, staff over forex violations - Sudan Tribune",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9471,
-      "currencies": []
-    },
-    {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "The FX carry trade looks poised to continue shining in the second half of the year - Goldman Sachs - investingLive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "AriseAlpha Launches AI Forex Trading Bot as Automated Currency Trading Demand Surges in 2026 - The National Law Review",
       "source": "Google News",
       "label": "neutral",
@@ -83,66 +91,59 @@
       "currencies": []
     },
     {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "India\u2019s retail inflation accelerates to 4.38%, raising rate hike expectations",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9485,
-      "currencies": []
-    },
-    {
-      "title": "Alto Neuroscience prices $100M stock offering at $26.48",
+      "title": "Form 4 Oncology Institute Inc For: 13 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Global yields steady as markets weigh Hormuz closure and inflationary pressures",
+      "title": "Explainer-Venezuela\u2019s complex and contested debt puzzle",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6964,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Elecon Engineering posts steady Q1 FY 2027 growth",
+      "title": "CT Global Managed Portfolio Trust issues 150,000 income shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Oncology institute: 10% owner Jorey Chernett buys $87,750 stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Par Pacific Holdings stock hits all-time high at $70.45",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9374,
+      "score": 0.5785,
       "currencies": []
     },
     {
-      "title": "Wildfire rages near Paris as heatwave scorches Europe",
+      "title": "Bosch begins sample production at its first US semiconductor plant",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6453,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "BofA starts Ionos bullish on sovereign cloud demand, 17% EPS path",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7809,
-      "currencies": []
-    },
-    {
-      "title": "Macron calls for more EU defense projects after fighter jet deal fails",
+      "title": "White House to rally utilities, data centers for AI power cost pledge, sources say",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7574,
+      "score": 0.7591,
       "currencies": []
     },
     {
-      "title": "Ukraine strikes more Russian tankers and cargo ships in Sea of Azov",
+      "title": "Poland stocks higher at close of trade; WIG30 up 0.15%",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9491,
+      "label": "bullish",
+      "score": 0.9315,
       "currencies": []
     }
   ],
