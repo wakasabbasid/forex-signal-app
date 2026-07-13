@@ -7,6 +7,54 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.6676
+      },
+      {
+        "title": "PBOC sets USD/ CNY reference rate for today at 6.7972 (vs. estimate at 6.7850)",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7850 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Gold slides back closer to $4,050 as Iran risks and Fed hike bets boost USD",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8093
+      },
+      {
+        "title": "EUR/JPY Price Forecast: Edges higher above 184.50, but stays capped by clustered resistance",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.766
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD falls to near $59.00 amid rising US-Iran strikes",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9714
+      },
+      {
+        "title": "Japanese Yen weakens vs USD as Iran tensions and rate gap counter intervention risks",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9572
+      },
+      {
+        "title": "PBOC sets USD/CNY reference rate at 6.7972 vs. 6.7989 previous",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "AUD/USD": [
@@ -17,18 +65,24 @@
         "score": 0.0
       },
       {
-        "title": "Australian Dollar Outlook: AUD/USD Bounce Losing Steam Ahead of US CPI - FOREX.com",
-        "source": "Google News",
+        "title": "AUD/USD Price Forecast: Retreats further from multi-week top but holds above 0.6900",
+        "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9693
+        "score": -0.9615
       }
     ],
-    "GBP/USD": [
+    "EUR/USD": [
       {
-        "title": "GBP/USD Forex Signal 08/07: Eyes Breakout (Chart) - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "title": "EUR/USD Price Forecast: Flag breakdown supports more downside towards 1.1325",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.3932
+      },
+      {
+        "title": "EUR/JPY Price Forecast: Edges higher above 184.50, but stays capped by clustered resistance",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.766
       }
     ]
   }
