@@ -8,20 +8,38 @@
       "currencies": []
     },
     {
-      "title": "XAU USD Chart & Rate - XAU USD Trading - FOREX.com",
+      "title": "Bank of Thailand targets USDT and cash flows in gray money crackdown - TradingView",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "USD",
-        "USD"
-      ]
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: US Dollar benefits from risk aversion as Middle East situation heats up - FXStreet",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9058,
+      "currencies": []
     },
     {
       "title": "FM Sitharaman to meet PSB chiefs to review foreign currency deposit drive - ETLegalWorld.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "15 Best Forex Pairs to Trade - TMGM",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5058,
+      "currencies": []
+    },
+    {
+      "title": "Sudan central bank penalizes banks, staff over forex violations - Sudan Tribune",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9471,
       "currencies": []
     },
     {
@@ -32,11 +50,21 @@
       "currencies": []
     },
     {
-      "title": "Sudan central bank penalizes banks, staff over forex violations - Sudan Tribune",
+      "title": "FX option expiries for 13 July 10am New York cut - investingLive",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Australian Dollar Outlook: AUD/USD Bounce Losing Steam Ahead of US CPI - FOREX.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9471,
-      "currencies": []
+      "score": -0.9693,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
     },
     {
       "title": "AUD/USD Forecast 12/07: Faces a Quiet Test Between (Chart) - DailyForex",
@@ -49,38 +77,10 @@
       ]
     },
     {
-      "title": "15 Best Forex Pairs to Trade - TMGM",
+      "title": "Renminbi Recovers Amid Forex Volatility - BusinessToday Malaysia",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.5058,
-      "currencies": []
-    },
-    {
-      "title": "Yield drives currency markets in 2026, Deutsche Bank says - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "AriseAlpha Launches AI Forex Trading Bot as Automated Currency Trading Demand Surges in 2026 - The National Law Review",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earning a sizeable income in foreign currency? Here\u2019s a more efficient, cost-effective way to receive it in SA - Moneyweb",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "score": 0.9185,
       "currencies": []
     },
     {
@@ -93,59 +93,59 @@
       ]
     },
     {
-      "title": "Oil prices jump over 3% after Iran declares Strait of Hormuz closed",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.4464,
-      "currencies": []
-    },
-    {
-      "title": "US stock futures fall amid more Iran strikes; Q2 earnings on tap",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9575,
-      "currencies": []
-    },
-    {
-      "title": "EU ministers to debate curbing trade with Israeli settlements",
+      "title": "Samsung Electronics grants treasury shares to executives",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Traffic accident in Mexico leaves 9 dead and 10 injured, four of them Americans",
+      "title": "JPMorgan resumes Legend Biotech stock coverage with neutral rating",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9524,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Iran expands attacks on Gulf states after US strikes, says Strait of Hormuz closed",
+      "title": "JPMorgan resumes Alkermes stock coverage with neutral rating",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.3836,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Europe recorded 10,000 excess deaths during late-June heatwave, data show",
+      "title": "JPMorgan resumes Denali Therapeutics stock coverage with Overweight rating",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9402,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "BOJ may raise growth forecast, maintain vigilance to inflation risk, sources say",
+      "title": "Analysis-Japan pension pivot seen as a slow burn, not a bond market fire sale",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Gjensidade posts strong Q2 2026 profit, stock rises",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.843,
+      "score": 0.9425,
       "currencies": []
     },
     {
-      "title": "Spanish wildfires claim 13th victim as British woman, 93, dies of injuries",
+      "title": "ME Group jumps 13% after reaffirming annual outlook despite April weakness",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7177,
+      "label": "bullish",
+      "score": 0.9284,
+      "currencies": []
+    },
+    {
+      "title": "PageGroup holds guidance as Q2 demand improves, shares surge",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8888,
       "currencies": []
     }
   ],
