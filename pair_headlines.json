@@ -9,32 +9,12 @@
         "score": 0.0
       }
     ],
-    "AUD/USD": [
-      {
-        "title": "AUD/USD Signal 13/07: Finding a Bottom at Last? - DailyForex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.6519
-      }
-    ],
     "USD/JPY": [
       {
-        "title": "The USD is mixed to start the NA session. What are the technicals telling traders?",
-        "source": "ForexLive",
+        "title": "USD/MXN 13/07: Is This Nervous Range Hiding a Larger Shift - DailyForex",
+        "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "Japanese Yen: Higher energy prices pressure JPY \u2013 MUFG",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8899
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD remains range-bound with a bearish bias",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8586
       }
     ]
   }

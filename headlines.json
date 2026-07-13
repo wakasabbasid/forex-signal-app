@@ -18,6 +18,15 @@
       "currencies": []
     },
     {
+      "title": "USD/MXN 13/07: Is This Nervous Range Hiding a Larger Shift - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -25,20 +34,17 @@
       "currencies": []
     },
     {
-      "title": "AUD/USD Signal 13/07: Finding a Bottom at Last? - DailyForex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6519,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
-    },
-    {
       "title": "Bank of Thailand targets USDT and cash flows in gray money crackdown - TradingView",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "RBI\u2019s Foreign Currency Swap schemes receive positive response from NRIs in Singapore, HK, West Asia, U.K., U.S.: PSB chiefs - The Hindu",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9487,
       "currencies": []
     },
     {
@@ -56,10 +62,10 @@
       "currencies": []
     },
     {
-      "title": "The FX carry trade looks poised to continue shining in the second half of the year - Goldman Sachs - investingLive",
+      "title": "Dollar Index Edges Up Amidst Rate Cues, War Cries - RTTNews",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.7158,
       "currencies": []
     },
     {
@@ -70,6 +76,13 @@
       "currencies": []
     },
     {
+      "title": "The FX carry trade looks poised to continue shining in the second half of the year - Goldman Sachs - investingLive",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "15 Best Forex Pairs to Trade - TMGM trading",
       "source": "Google News",
       "label": "neutral",
@@ -77,73 +90,59 @@
       "currencies": []
     },
     {
-      "title": "FM Sitharaman to meet PSB chiefs to review foreign currency deposit drive - ETCFO.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "title": "Ship traffic through Hormuz drops 60% amid renewed fighting, Kpler says",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9729,
       "currencies": []
     },
     {
-      "title": "AriseAlpha Launches AI Forex Trading Bot as Automated Currency Trading Demand Surges in 2026 - The National Law Review",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "title": "Vossloh cuts 2026 sales and earnings guidance on demand shifts",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9152,
       "currencies": []
     },
     {
-      "title": "Form 4 Oncology Institute Inc For: 13 July",
+      "title": "Fed\u2019s Waller says another high inflation reading would be \"signal\"",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Explainer-Venezuela\u2019s complex and contested debt puzzle",
+      "title": "Pentagon invests $25 million into rare earths startup ReElement Technologies",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "CT Global Managed Portfolio Trust issues 150,000 income shares",
+      "title": "Form 144 FULTON FINANCIAL CORP For: 13 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Oncology institute: 10% owner Jorey Chernett buys $87,750 stock",
+      "title": "Form 144 California Resources Corp For: 13 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Par Pacific Holdings stock hits all-time high at $70.45",
+      "title": "BofA Names Top Pick on AI Memory Demand",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5785,
+      "score": 0.5503,
       "currencies": []
     },
     {
-      "title": "Bosch begins sample production at its first US semiconductor plant",
+      "title": "Ukraine and allies set up coalition to tackle Russia ballistic missile threat",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "White House to rally utilities, data centers for AI power cost pledge, sources say",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7591,
-      "currencies": []
-    },
-    {
-      "title": "Poland stocks higher at close of trade; WIG30 up 0.15%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9315,
       "currencies": []
     }
   ],
