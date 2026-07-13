@@ -1,9 +1,9 @@
 {
   "id": 1,
   "engine": "finbert",
-  "headline_count": 70,
+  "headline_count": 69,
   "source_count": 6,
-  "created_at": "2026-07-13T17:58:07.624847+00:00",
+  "created_at": "2026-07-13T19:38:45.524300+00:00",
   "signals": [
     {
       "pair": "EUR/USD",
