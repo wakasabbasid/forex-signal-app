@@ -17,18 +17,50 @@
         "score": 0.0
       },
       {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+        "title": "Japanese Yen Short Covering Raises the Stakes for USD/JPY - FOREX.com",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.6676
+        "score": 0.6026
+      },
+      {
+        "title": "PBOC sets USD/ CNY central rate at 6.7990 (vs. estimate at 6.7927)",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Gold bounces off two-week low as USD bulls turn cautious ahead of US CPI, Fed's Warsh",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.6541
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD dips as oil surge lifts Fed hike odds",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.965
+      },
+      {
+        "title": "Japanese Yen consolidates as USD bulls look to US CPI and Fed's Warsh",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.7502
       }
     ],
     "NZD/USD": [
       {
-        "title": "NZD/USD Price Forecast: Kiwi holds below 200-day as bears target 0.5700",
-        "source": "FXStreet",
+        "title": "NZD firms as Conway reinforces RBNZ hawkish tilt on inflation risk",
+        "source": "ForexLive",
         "label": "bearish",
-        "score": -0.5596
+        "score": -0.7613
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "AUD/USD Price Forecast: Tests nine-day EMA barrier near 0.6950",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }

@@ -25,6 +25,13 @@
       "currencies": []
     },
     {
+      "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.925,
+      "currencies": []
+    },
+    {
       "title": "USD/MXN 13/07: Is This Nervous Range Hiding a Larger Shift - DailyForex",
       "source": "Google News",
       "label": "neutral",
@@ -41,21 +48,7 @@
       "currencies": []
     },
     {
-      "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.925,
-      "currencies": []
-    },
-    {
-      "title": "Nirmala Sitharaman calls for greater NRI outreach to boost foreign currency inflows - The Economic Times",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7324,
-      "currencies": []
-    },
-    {
-      "title": "Bank of Thailand targets USDT and cash flows in gray money crackdown - TradingView",
+      "title": "15 Best Forex Pairs to Trade - TMGM trading",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -69,13 +62,6 @@
       "currencies": []
     },
     {
-      "title": "15 Best Forex Pairs to Trade - TMGM trading",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Thomas Cook India Launches Zero Markup Forex Card to Help Travellers Cut Overseas Payment Costs and Manage Currency Risk: What are the Other Playing in the Market - Travel And Tour World",
       "source": "Google News",
       "label": "neutral",
@@ -83,68 +69,83 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "title": "AriseAlpha Launches AI Forex Trading Bot as Automated Currency Trading Demand Surges in 2026 - The National Law Review",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.6676,
+      "score": 0.9371,
+      "currencies": []
+    },
+    {
+      "title": "Japanese Yen Short Covering Raises the Stakes for USD/JPY - FOREX.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6026,
       "currencies": [
-        "USD"
+        "USD",
+        "JPY"
       ]
     },
     {
-      "title": "Form 4 Amphastar P For: 13 July",
+      "title": "Why is SK Hynix stock sliding today?",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Laird Superfood\u00a0Inc For: 13 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 144 Rubrik For: 13 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Development banks\u2019 climate funding hits record, but World Bank pullback looms",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5308,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Iridium Communications Inc For: 13 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "HCLTech Q1 FY27 slides: record bookings fuel stock surge",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.486,
-      "currencies": []
-    },
-    {
-      "title": "Yen Katayama bounce fully unwinds as GPIF shift doubts emerge",
-      "source": "ForexLive",
       "label": "bearish",
-      "score": -0.3968,
+      "score": -0.9299,
       "currencies": []
     },
     {
-      "title": "UK consumers spend on heat and football even as risks build",
-      "source": "ForexLive",
+      "title": "Nvidia halves Asia buyer list in China chip crackdown, FT reports",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6497,
+      "currencies": []
+    },
+    {
+      "title": "Softbank Corp partners with AI firm Sierra for agentic customer support",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7231,
+      "currencies": []
+    },
+    {
+      "title": "China\u2019s June trade tops forecasts buoyed by AI boom",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9231,
+      "currencies": []
+    },
+    {
+      "title": "Erasca prices $550 million stock offering at $17.50 per share",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Analysis-Inside South Korea\u2019s world-beating bear market",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Australia finds serious gaps in Big Tech response to online child sexual abuse",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9468,
+      "currencies": []
+    },
+    {
+      "title": "TSMC seen riding AI boom to fifth straight quarter of record profit",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8777,
       "currencies": []
     }
   ],
