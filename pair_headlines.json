@@ -17,34 +17,10 @@
     ],
     "USD/JPY": [
       {
-        "title": "Procept Biorobotics Corp stock hits 52-week low at 19.2 USD",
-        "source": "Investing.com",
-        "label": "bearish",
-        "score": -0.9555
-      },
-      {
-        "title": "Genworth Financial stock hits 52-week high at 9.69 USD",
-        "source": "Investing.com",
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+        "source": "Google News",
         "label": "bullish",
-        "score": 0.6827
-      },
-      {
-        "title": "Principal Financial Group stock hits all-time high at 114.2 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.6357
-      },
-      {
-        "title": "Oppenheimer Holdings Inc stock hits all-time high at 123.24 USD",
-        "source": "Investing.com",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "HF Sinclair stock hits 52-week high at 82.92 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.5919
+        "score": 0.6676
       },
       {
         "title": "The USD is sharply lower after tame CPI inflation. What are the charts telling traders?",
@@ -57,20 +33,6 @@
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.9434
-      },
-      {
-        "title": "GBP/JPY Price Forecast: Buyers defend 216.50 as bullish trend continues",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.6483
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "GBP/JPY Price Forecast: Buyers defend 216.50 as bullish trend continues",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.6483
       }
     ]
   }

@@ -70,6 +70,15 @@
       "currencies": []
     },
     {
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "15 Best Forex Pairs to Trade - TMGM trading",
       "source": "Google News",
       "label": "neutral",
@@ -84,77 +93,60 @@
       "currencies": []
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
-      "currencies": []
-    },
-    {
-      "title": "Conagra earnings set to test new CEO amid dividend cut fears",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.4415,
-      "currencies": []
-    },
-    {
-      "title": "CPI comes in cool, soothing markets",
+      "title": "Markel Canada names Marc Copland property line leader",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Procept Biorobotics Corp stock hits 52-week low at 19.2 USD",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9555,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Genworth Financial stock hits 52-week high at 9.69 USD",
+      "title": "Goldman Sachs Q2 2026 slides: record results across all major businesses",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6827,
-      "currencies": [
-        "USD"
-      ]
+      "score": 0.8412,
+      "currencies": []
     },
     {
-      "title": "Principal Financial Group stock hits all-time high at 114.2 USD",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6357,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "India\u2019s central bank proposes easing bank stake rules",
+      "title": "Warsh says markets to get ample notice to any Fed balance sheet changes",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Oppenheimer Holdings Inc stock hits all-time high at 123.24 USD",
+      "title": "Russia launches American and two cosmonauts on space station mission",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
+      "currencies": []
     },
     {
-      "title": "HF Sinclair stock hits 52-week high at 82.92 USD",
+      "title": "Boeing records highest first-half deliveries since 2018",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5919,
-      "currencies": [
-        "USD"
-      ]
+      "score": 0.858,
+      "currencies": []
+    },
+    {
+      "title": "WATCH LIVE: Fed Chair Kevin Warsh testifies before House",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Tata Elxsi Q1 FY27 slides: revenue tops INR 1,000 Cr milestone",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8615,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Progressive Corp For: 14 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     }
   ],
   "run_id": 1
