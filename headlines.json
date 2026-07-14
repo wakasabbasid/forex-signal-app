@@ -18,10 +18,20 @@
       ]
     },
     {
-      "title": "Low Volatility Is Changing Forex Trading Setups - StoneX",
+      "title": "EUR/USD Forex Signal 14/07: Ready for a Bearish Breakout - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "Rupee back in red! Impact of RBI\u2019s forex boost fades; currency breaches 96 versus dollar on rising crude - The Times of India",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7284,
       "currencies": []
     },
     {
@@ -32,13 +42,18 @@
       "currencies": []
     },
     {
-      "title": "USD/MXN 13/07: Is This Nervous Range Hiding a Larger Shift - DailyForex",
+      "title": "Low Volatility Is Changing Forex Trading Setups - StoneX",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
+      "currencies": []
+    },
+    {
+      "title": "India seeks diaspora dollars to strengthen forex reserves amid rupee weakness: Report - Firstpost",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7693,
+      "currencies": []
     },
     {
       "title": "Forex Forecasts \u2013 Greenback Momentum Tests Key Support and Moving Averages - Yahoo Finance",
@@ -62,13 +77,6 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar surges as Hormuz tensions send Oil to one-month high - FXStreet",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6971,
-      "currencies": []
-    },
-    {
       "title": "Rupee falls 48 paise to 96.16 against US dollar in early trade - The New Indian Express",
       "source": "Google News",
       "label": "bearish",
@@ -76,73 +84,69 @@
       "currencies": []
     },
     {
-      "title": "RBI\u2019s Foreign Currency Swap schemes receive positive response from NRIs in Singapore, HK, West Asia, U.K., U.S.: PSB chiefs - The Hindu",
+      "title": "GBP/USD Signal 14/07: Bearish Turn in the Trend - DailyForex",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.9487,
-      "currencies": []
+      "label": "bearish",
+      "score": -0.8657,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
     },
     {
-      "title": "AriseAlpha Launches AI Forex Trading Bot as Automated Currency Trading Demand Surges in 2026 - The National Law Review",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "AstraZeneca pays $600m for Chinese lung cancer drug rights",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "California-led states sue to block Paramount\u2019s $110 billion Warner Bros Discovery deal",
+      "title": "BP sees weaker upstream output, slightly stronger oil trading in Q2; stock up",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8765,
+      "score": -0.6472,
       "currencies": []
     },
     {
-      "title": "Angus Energy appoints Ross Pearson as COO and director",
+      "title": "Bufab Q2 2026 slides: margins hit 14.7% on organic growth",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9457,
+      "currencies": []
+    },
+    {
+      "title": "Bufab Q2 2026 slides: margins expand as organic growth accelerates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9505,
+      "currencies": []
+    },
+    {
+      "title": "Piper Sandler upgrades Patterson-UTI stock rating on fundamentals",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Japan to clarify central bank independence in final economic blueprint, media says",
+      "title": "Piper Sandler upgrades Halliburton stock rating on fundamentals",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Spire Healthcare announces chair succession as Cheshire steps down",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Aker Solutions raises 2026 revenue outlook after H1 profit jumps 74%, backlog grow",
+      "title": "German retailers warn of worsening business conditions as costs rise",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8655,
+      "score": -0.9659,
       "currencies": []
     },
     {
-      "title": "AQ Group raises profit target after Q2 sales beat estimates",
+      "title": "Why is AP Moeller - Maersk stock climbing today?",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8023,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Vitec Software reports 15% revenue growth in second quarter",
+      "title": "Earnings call transcript: DNB posts strong Q2 2026 results as stock barely moves",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9442,
+      "score": 0.9398,
       "currencies": []
     }
   ],

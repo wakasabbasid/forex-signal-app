@@ -9,36 +9,18 @@
         "score": 0.0
       },
       {
-        "title": "EUR/JPY Price Forecast: Gains ground to near 185.00, holding modest bullish bias above key support",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9378
-      }
-    ],
-    "USD/JPY": [
-      {
-        "title": "USD/MXN 13/07: Is This Nervous Range Hiding a Larger Shift - DailyForex",
+        "title": "EUR/USD Forex Signal 14/07: Ready for a Bearish Breakout - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
+      }
+    ],
+    "GBP/USD": [
       {
-        "title": "AUD/JPY Price Forecast: Grinds higher above 112.50, yet stays constrained by mildly bearish bias",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8717
-      },
-      {
-        "title": "Gold recovers further beyond $4,000 amid softer USD; focus remains on US CPI, Fed's Warsh",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.5995
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Gains ground to near 185.00, holding modest bullish bias above key support",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9378
+        "title": "GBP/USD Signal 14/07: Bearish Turn in the Trend - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.8657
       }
     ],
     "NZD/USD": [
@@ -47,26 +29,14 @@
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.7613
-      },
-      {
-        "title": "NZD/USD Price Forecast: Hits four-week top on hawkish RBNZ; eyes 0.5810-0.5820 confluence",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.4812
       }
     ],
-    "AUD/USD": [
+    "USD/CHF": [
       {
-        "title": "AUD/JPY Price Forecast: Grinds higher above 112.50, yet stays constrained by mildly bearish bias",
+        "title": "USD/CHF Price Forecast: Consolidates gains above 0.8130 with US CPI, Fed Warsh in focus",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.8717
-      },
-      {
-        "title": "AUD/USD Price Forecast: Tests nine-day EMA barrier near 0.6950",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
+        "score": 0.8211
       }
     ]
   }
