@@ -3,16 +3,16 @@
   "pairs": {
     "EUR/USD": [
       {
-        "title": "EUR/USD Signal: Ready for a Bearish Breakout as the US Dollar Jumps - DailyForex",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.5608
-      },
-      {
         "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "EUR/USD Signal: Ready for a Bearish Breakout as the US Dollar Jumps - DailyForex",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.5608
       }
     ],
     "USD/JPY": [
@@ -23,10 +23,10 @@
         "score": 0.6676
       },
       {
-        "title": "The USD is sharply lower after tame CPI inflation. What are the charts telling traders?",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.8893
+        "title": "CrowdStrike stock hits all-time high at 209.67 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.4894
       },
       {
         "title": "Silver Price Forecast: Soft US inflation lifts XAG/USD, but downside bias remains",

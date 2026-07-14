@@ -1,6 +1,16 @@
 {
   "headlines": [
     {
+      "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
       "title": "Major Forex pairs: Outlook for the end of 2026 - Augusta Free Press",
       "source": "Google News",
       "label": "neutral",
@@ -18,27 +28,17 @@
       ]
     },
     {
-      "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
+      "title": "Low Volatility Is Changing Forex Trading Setups - StoneX",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
+      "currencies": []
     },
     {
       "title": "Rupee back in red! Impact of RBI\u2019s forex boost fades; currency breaches 96 versus dollar on rising crude - The Times of India",
       "source": "Google News",
       "label": "bearish",
       "score": -0.7284,
-      "currencies": []
-    },
-    {
-      "title": "Low Volatility Is Changing Forex Trading Setups - StoneX",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -50,6 +50,13 @@
     },
     {
       "title": "15 Best Forex Pairs to Trade - TMGM trading",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Forecasts \u2013 Greenback Momentum Tests Key Support and Moving Averages - Yahoo Finance",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -70,13 +77,6 @@
       "currencies": []
     },
     {
-      "title": "Forex Forecasts \u2013 Greenback Momentum Tests Key Support and Moving Averages - Yahoo Finance",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
       "source": "Google News",
       "label": "bullish",
@@ -93,60 +93,62 @@
       "currencies": []
     },
     {
-      "title": "Jefferies raises AAR stock price target on software growth visibility",
+      "title": "Oil prices rise 2% to one-month high as US-Iran attacks deepen supply disruption",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7762,
+      "currencies": []
+    },
+    {
+      "title": "US judge blocks Trump administration\u2019s visa limits for social media researchers",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7778,
+      "currencies": []
+    },
+    {
+      "title": "Lawmaker questions Paramount CEO on Trump content pressure",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5775,
+      "currencies": []
+    },
+    {
+      "title": "US cyclosporiasis cases top 1,600 with more cases likely, health officials say",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5986,
+      "currencies": []
+    },
+    {
+      "title": "Form 144 PTC THERAPEUTICS For: 14 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Dave stock hits 52-week high at $416.75",
+      "title": "Form 4 Fulton Financial Corporation For: 14 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "CVS settles with FTC, agrees to drug pricing changes",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "CrowdStrike stock hits all-time high at 209.67 USD",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5715,
-      "currencies": []
-    },
-    {
-      "title": "3 reasons why Netflix shares are down 20% in 2026",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.959,
-      "currencies": []
-    },
-    {
-      "title": "Goldman Sachs profit tops estimates on trading boom, corporate deal spree",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6074,
-      "currencies": []
-    },
-    {
-      "title": "New York becomes the first state to impose a data center moratorium",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8295,
-      "currencies": []
-    },
-    {
-      "title": "Brent oil structure changes to reflect mounting supply risk as Iran tensions flare",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9162,
-      "currencies": []
-    },
-    {
-      "title": "Iraq PM seeks fair OPEC share amid U.S. investment talks",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9254,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Citigroup tops Q2 2026 estimates, shares fall",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9462,
-      "currencies": []
+      "score": 0.4894,
+      "currencies": [
+        "USD"
+      ]
     }
   ],
   "run_id": 1
