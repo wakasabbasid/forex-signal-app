@@ -28,6 +28,13 @@
       ]
     },
     {
+      "title": "Rupee back in red! Impact of RBI\u2019s forex boost fades; currency breaches 96 versus dollar on rising crude - The Times of India",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7284,
+      "currencies": []
+    },
+    {
       "title": "Low Volatility Is Changing Forex Trading Setups - StoneX",
       "source": "Google News",
       "label": "neutral",
@@ -42,10 +49,10 @@
       "currencies": []
     },
     {
-      "title": "Rupee back in red! Impact of RBI\u2019s forex boost fades; currency breaches 96 versus dollar on rising crude - The Times of India",
+      "title": "15 Best Forex Pairs to Trade - TMGM trading",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.7284,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -79,73 +86,66 @@
       ]
     },
     {
-      "title": "15 Best Forex Pairs to Trade - TMGM trading",
+      "title": "Tamil Nadu: Foreign Currency Inflows Help Bank Deposit Accretion Of Rs 7 Lakh Cr In Last Fortnight - Deccan Chronicle",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9141,
       "currencies": []
     },
     {
-      "title": "AriseAlpha Launches AI Forex Trading Bot as Automated Currency Trading Demand Surges in 2026 - The National Law Review",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Markel Canada names Marc Copland property line leader",
+      "title": "Jefferies raises AAR stock price target on software growth visibility",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Goldman Sachs Q2 2026 slides: record results across all major businesses",
+      "title": "Dave stock hits 52-week high at $416.75",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8412,
+      "score": 0.5715,
       "currencies": []
     },
     {
-      "title": "Warsh says markets to get ample notice to any Fed balance sheet changes",
+      "title": "3 reasons why Netflix shares are down 20% in 2026",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.959,
       "currencies": []
     },
     {
-      "title": "Russia launches American and two cosmonauts on space station mission",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Boeing records highest first-half deliveries since 2018",
+      "title": "Goldman Sachs profit tops estimates on trading boom, corporate deal spree",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.858,
+      "score": 0.6074,
       "currencies": []
     },
     {
-      "title": "WATCH LIVE: Fed Chair Kevin Warsh testifies before House",
+      "title": "New York becomes the first state to impose a data center moratorium",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.8295,
       "currencies": []
     },
     {
-      "title": "Tata Elxsi Q1 FY27 slides: revenue tops INR 1,000 Cr milestone",
+      "title": "Brent oil structure changes to reflect mounting supply risk as Iran tensions flare",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9162,
+      "currencies": []
+    },
+    {
+      "title": "Iraq PM seeks fair OPEC share amid U.S. investment talks",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8615,
+      "score": 0.9254,
       "currencies": []
     },
     {
-      "title": "Form 4 Progressive Corp For: 14 July",
+      "title": "Earnings call transcript: Citigroup tops Q2 2026 estimates, shares fall",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9462,
       "currencies": []
     }
   ],
