@@ -3,40 +3,44 @@
   "pairs": {
     "EUR/USD": [
       {
-        "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
+        "title": "EUR/USD Forex Signal 14/07: Ready for a Bearish Breakout - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "EUR/USD Forex Signal 14/07: Ready for a Bearish Breakout - DailyForex",
+        "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       }
     ],
-    "GBP/USD": [
+    "USD/JPY": [
       {
-        "title": "GBP/USD Signal 14/07: Bearish Turn in the Trend - DailyForex",
-        "source": "Google News",
+        "title": "Gold Price Forecast: XAU/USD rebounds above $4,000 with US CPI in focus",
+        "source": "FXStreet",
         "label": "bearish",
-        "score": -0.8657
-      }
-    ],
-    "NZD/USD": [
+        "score": -0.5623
+      },
       {
-        "title": "NZD firms as Conway reinforces RBNZ hawkish tilt on inflation risk",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.7613
-      }
-    ],
-    "USD/CHF": [
-      {
-        "title": "USD/CHF Price Forecast: Consolidates gains above 0.8130 with US CPI, Fed Warsh in focus",
+        "title": "Japanese Yen: Domestic savings shift aids JGBs and JPY \u2013 MUFG",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.8211
+        "score": 0.6451
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD holds above $58.00 despite ongoing bearish bias",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9346
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Price Forecast: Pound holds above 1.3350 with the 200-day SMA capping gains",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8157
       }
     ]
   }

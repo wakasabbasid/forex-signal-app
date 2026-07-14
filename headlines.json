@@ -8,6 +8,16 @@
       "currencies": []
     },
     {
+      "title": "EUR/USD Forex Signal 14/07: Ready for a Bearish Breakout - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
       "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -18,14 +28,11 @@
       ]
     },
     {
-      "title": "EUR/USD Forex Signal 14/07: Ready for a Bearish Breakout - DailyForex",
+      "title": "S. Korea's forex trading grows in Q2 - Xinhua",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
+      "label": "bullish",
+      "score": 0.944,
+      "currencies": []
     },
     {
       "title": "Rupee back in red! Impact of RBI\u2019s forex boost fades; currency breaches 96 versus dollar on rising crude - The Times of India",
@@ -56,17 +63,17 @@
       "currencies": []
     },
     {
-      "title": "Forex Forecasts \u2013 Greenback Momentum Tests Key Support and Moving Averages - Yahoo Finance",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Kiwi Gains as Hawkish RBNZ Offsets Strong U.S. Dollar - TradingPedia",
       "source": "Google News",
       "label": "bullish",
       "score": 0.709,
+      "currencies": []
+    },
+    {
+      "title": "Forex Forecasts \u2013 Greenback Momentum Tests Key Support and Moving Averages - Yahoo Finance",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -77,76 +84,66 @@
       "currencies": []
     },
     {
-      "title": "Rupee falls 48 paise to 96.16 against US dollar in early trade - The New Indian Express",
+      "title": "The FX carry trade looks poised to continue shining in the second half of the year - Goldman Sachs - investingLive",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.8665,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "GBP/USD Signal 14/07: Bearish Turn in the Trend - DailyForex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8657,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "BP sees weaker upstream output, slightly stronger oil trading in Q2; stock up",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6472,
-      "currencies": []
-    },
-    {
-      "title": "Bufab Q2 2026 slides: margins hit 14.7% on organic growth",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9457,
-      "currencies": []
-    },
-    {
-      "title": "Bufab Q2 2026 slides: margins expand as organic growth accelerates",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9505,
-      "currencies": []
-    },
-    {
-      "title": "Piper Sandler upgrades Patterson-UTI stock rating on fundamentals",
+      "title": "Stellantis\u2019 Alfa Romeo plans launch of new mid-sized SUV by end 2027",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Piper Sandler upgrades Halliburton stock rating on fundamentals",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "German retailers warn of worsening business conditions as costs rise",
+      "title": "Russia bombards Kyiv with missiles in fifth attack this month",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9659,
+      "score": -0.5766,
       "currencies": []
     },
     {
-      "title": "Why is AP Moeller - Maersk stock climbing today?",
+      "title": "Bernstein initiates Wuxi Biologics stock coverage at Market Perform",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: DNB posts strong Q2 2026 results as stock barely moves",
+      "title": "Bank of America profit rises on record trading boost",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9398,
+      "score": 0.821,
+      "currencies": []
+    },
+    {
+      "title": "Keefe Bruyette raises TriCo Bancshares stock price target on FHB deal",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Keefe Bruyette reiterates FB Financial stock rating on costs",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Axis Bank subsidiary completes stake sale to Kedaara funds",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "AI startup Reflection signs over $1 billion computing deal with Nebius",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.629,
       "currencies": []
     }
   ],
