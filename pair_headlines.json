@@ -3,10 +3,10 @@
   "pairs": {
     "EUR/USD": [
       {
-        "title": "EUR/USD Forex Signal 14/07: Ready for a Bearish Breakout - DailyForex",
+        "title": "EUR/USD Signal: Ready for a Bearish Breakout as the US Dollar Jumps - DailyForex",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bullish",
+        "score": 0.5608
       },
       {
         "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
@@ -17,30 +17,60 @@
     ],
     "USD/JPY": [
       {
-        "title": "Gold Price Forecast: XAU/USD rebounds above $4,000 with US CPI in focus",
-        "source": "FXStreet",
+        "title": "Procept Biorobotics Corp stock hits 52-week low at 19.2 USD",
+        "source": "Investing.com",
         "label": "bearish",
-        "score": -0.5623
+        "score": -0.9555
       },
       {
-        "title": "Japanese Yen: Domestic savings shift aids JGBs and JPY \u2013 MUFG",
-        "source": "FXStreet",
+        "title": "Genworth Financial stock hits 52-week high at 9.69 USD",
+        "source": "Investing.com",
         "label": "bullish",
-        "score": 0.6451
+        "score": 0.6827
       },
       {
-        "title": "Silver Price Forecast: XAG/USD holds above $58.00 despite ongoing bearish bias",
+        "title": "Principal Financial Group stock hits all-time high at 114.2 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.6357
+      },
+      {
+        "title": "Oppenheimer Holdings Inc stock hits all-time high at 123.24 USD",
+        "source": "Investing.com",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "HF Sinclair stock hits 52-week high at 82.92 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.5919
+      },
+      {
+        "title": "The USD is sharply lower after tame CPI inflation. What are the charts telling traders?",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.8893
+      },
+      {
+        "title": "The USD is lower to start the NA session and ahead of the CPI and Warsh testimony.",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.9434
+      },
+      {
+        "title": "GBP/JPY Price Forecast: Buyers defend 216.50 as bullish trend continues",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.9346
+        "score": 0.6483
       }
     ],
     "GBP/USD": [
       {
-        "title": "GBP/USD Price Forecast: Pound holds above 1.3350 with the 200-day SMA capping gains",
+        "title": "GBP/JPY Price Forecast: Buyers defend 216.50 as bullish trend continues",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.8157
+        "score": 0.6483
       }
     ]
   }
