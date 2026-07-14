@@ -15,12 +15,28 @@
         "score": 0.5608
       }
     ],
+    "NZD/USD": [
+      {
+        "title": "NZD/USD Price Forecast: Advance stalls at SMA clusters, bulls eye 0.59",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.4279
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/JPY Price Forecast: Hold above 217.00, next target is 218.00",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
     "USD/JPY": [
       {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.6676
+        "title": "GBP/JPY Price Forecast: Hold above 217.00, next target is 218.00",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "USD/CHF": [

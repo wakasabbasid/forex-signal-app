@@ -28,13 +28,6 @@
       ]
     },
     {
-      "title": "Low Volatility Is Changing Forex Trading Setups - StoneX",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -77,6 +70,13 @@
       "currencies": []
     },
     {
+      "title": "AriseAlpha Launches AI Forex Trading Bot as Automated Currency Trading Demand Surges in 2026 - The National Law Review",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
       "source": "Google News",
       "label": "bullish",
@@ -84,66 +84,64 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
       "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Sera Prognostics Inc For: 14 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Duolingo Inc For: 14 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Nauticus Robotics Inc For: 14 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Emerald Expositions Events Inc For: 14 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Hee's the key test for next Bank of Japan (BoJ) rate hike: Whether price rises stick",
+      "source": "ForexLive",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Trump confirms US held talks with Iran, urged Tehran to reach a deal",
+      "source": "ForexLive",
       "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
+      "score": 0.8625,
+      "currencies": []
     },
     {
-      "title": "US to launch AI and cybersecurity coordination group, White House says",
-      "source": "Investing.com",
+      "title": "ICYMI - China targets 60tn yuan (~US$8.84tn) retail sales by 2030 under new consumption plan",
+      "source": "ForexLive",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Writers Guild sues to block Paramount deal, saying it would hurt writers",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.947,
-      "currencies": []
-    },
-    {
-      "title": "Dar\u00e9 Bioscience at Virtual Investor Closing Bell: shift to sales",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "FDA approves Celcuity\u2019s Revtorpyk for breast cancer treatment",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6364,
-      "currencies": []
-    },
-    {
-      "title": "Jefferies raises JPMorgan stock price target on deposit growth",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 144 W&T OFFSHORE For: 14 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 144 FIGMA For: 14 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 PriceSmart Inc For: 14 July",
-      "source": "Investing.com",
+      "title": "Heads up for Lucid funded traders, the talk about Lucid bankruptcy is a completely different firm",
+      "source": "ForexLive",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
