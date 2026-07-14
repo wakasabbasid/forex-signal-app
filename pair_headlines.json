@@ -21,18 +21,14 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.6676
-      },
+      }
+    ],
+    "USD/CHF": [
       {
-        "title": "CrowdStrike stock hits all-time high at 209.67 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.4894
-      },
-      {
-        "title": "Silver Price Forecast: Soft US inflation lifts XAG/USD, but downside bias remains",
+        "title": "USD/CHF Price Forecast: Pair pulls below 0.8100 but remains bullish",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.9188
+        "score": 0.5895
       }
     ]
   }

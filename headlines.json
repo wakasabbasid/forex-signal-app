@@ -35,17 +35,17 @@
       "currencies": []
     },
     {
-      "title": "Rupee back in red! Impact of RBI\u2019s forex boost fades; currency breaches 96 versus dollar on rising crude - The Times of India",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7284,
-      "currencies": []
-    },
-    {
       "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
       "source": "Google News",
       "label": "bullish",
       "score": 0.925,
+      "currencies": []
+    },
+    {
+      "title": "Rupee back in red! Impact of RBI\u2019s forex boost fades; currency breaches 96 versus dollar on rising crude - The Times of India",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7284,
       "currencies": []
     },
     {
@@ -77,6 +77,13 @@
       "currencies": []
     },
     {
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9371,
+      "currencies": []
+    },
+    {
       "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
       "source": "Google News",
       "label": "bullish",
@@ -86,69 +93,60 @@
       ]
     },
     {
-      "title": "Tamil Nadu: Foreign Currency Inflows Help Bank Deposit Accretion Of Rs 7 Lakh Cr In Last Fortnight - Deccan Chronicle",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9141,
-      "currencies": []
-    },
-    {
-      "title": "Oil prices rise 2% to one-month high as US-Iran attacks deepen supply disruption",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7762,
-      "currencies": []
-    },
-    {
-      "title": "US judge blocks Trump administration\u2019s visa limits for social media researchers",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7778,
-      "currencies": []
-    },
-    {
-      "title": "Lawmaker questions Paramount CEO on Trump content pressure",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5775,
-      "currencies": []
-    },
-    {
-      "title": "US cyclosporiasis cases top 1,600 with more cases likely, health officials say",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5986,
-      "currencies": []
-    },
-    {
-      "title": "Form 144 PTC THERAPEUTICS For: 14 July",
+      "title": "US to launch AI and cybersecurity coordination group, White House says",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 Fulton Financial Corporation For: 14 July",
+      "title": "Writers Guild sues to block Paramount deal, saying it would hurt writers",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.947,
+      "currencies": []
+    },
+    {
+      "title": "Dar\u00e9 Bioscience at Virtual Investor Closing Bell: shift to sales",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "CVS settles with FTC, agrees to drug pricing changes",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "CrowdStrike stock hits all-time high at 209.67 USD",
+      "title": "FDA approves Celcuity\u2019s Revtorpyk for breast cancer treatment",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.4894,
-      "currencies": [
-        "USD"
-      ]
+      "score": 0.6364,
+      "currencies": []
+    },
+    {
+      "title": "Jefferies raises JPMorgan stock price target on deposit growth",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 144 W&T OFFSHORE For: 14 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 144 FIGMA For: 14 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 PriceSmart Inc For: 14 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     }
   ],
   "run_id": 1
