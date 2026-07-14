@@ -7,6 +7,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "EUR/JPY Price Forecast: Gains ground to near 185.00, holding modest bullish bias above key support",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9378
       }
     ],
     "USD/JPY": [
@@ -17,34 +23,22 @@
         "score": 0.0
       },
       {
-        "title": "Japanese Yen Short Covering Raises the Stakes for USD/JPY - FOREX.com",
-        "source": "Google News",
+        "title": "AUD/JPY Price Forecast: Grinds higher above 112.50, yet stays constrained by mildly bearish bias",
+        "source": "FXStreet",
         "label": "bullish",
-        "score": 0.6026
+        "score": 0.8717
       },
       {
-        "title": "PBOC sets USD/ CNY central rate at 6.7990 (vs. estimate at 6.7927)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Gold bounces off two-week low as USD bulls turn cautious ahead of US CPI, Fed's Warsh",
+        "title": "Gold recovers further beyond $4,000 amid softer USD; focus remains on US CPI, Fed's Warsh",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.6541
+        "label": "bullish",
+        "score": 0.5995
       },
       {
-        "title": "Silver Price Forecast: XAG/USD dips as oil surge lifts Fed hike odds",
+        "title": "EUR/JPY Price Forecast: Gains ground to near 185.00, holding modest bullish bias above key support",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.965
-      },
-      {
-        "title": "Japanese Yen consolidates as USD bulls look to US CPI and Fed's Warsh",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.7502
+        "label": "bullish",
+        "score": 0.9378
       }
     ],
     "NZD/USD": [
@@ -53,9 +47,21 @@
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.7613
+      },
+      {
+        "title": "NZD/USD Price Forecast: Hits four-week top on hawkish RBNZ; eyes 0.5810-0.5820 confluence",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.4812
       }
     ],
     "AUD/USD": [
+      {
+        "title": "AUD/JPY Price Forecast: Grinds higher above 112.50, yet stays constrained by mildly bearish bias",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8717
+      },
       {
         "title": "AUD/USD Price Forecast: Tests nine-day EMA barrier near 0.6950",
         "source": "FXStreet",
