@@ -25,13 +25,6 @@
       ]
     },
     {
-      "title": "Forex Expo Dubai Adds New Features for Verified Traders and Introducing Brokers - Yahoo Finance",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -40,6 +33,13 @@
         "EUR",
         "USD"
       ]
+    },
+    {
+      "title": "Forex Expo Dubai Adds New Features for Verified Traders and Introducing Brokers - Yahoo Finance",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "Antipodean Currencies Rise Amid Oil Price Surges - RTTNews",
@@ -63,17 +63,17 @@
       "currencies": []
     },
     {
-      "title": "Rupiah Gains as S&P Affirms Indonesia Investment Grade - TradingPedia",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7329,
-      "currencies": []
-    },
-    {
       "title": "Track market-moving events with Forex Factory's trusted economic calendar and breaking forex news - eciks.org",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Rupiah Gains as S&P Affirms Indonesia Investment Grade - TradingPedia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7329,
       "currencies": []
     },
     {
@@ -94,59 +94,59 @@
       ]
     },
     {
-      "title": "United Airlines Holdings earnings beat by $0.14, revenue topped estimates",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9231,
-      "currencies": []
-    },
-    {
-      "title": "BayFirst Financial to restate results, book $40.1M in charges",
+      "title": "Form 4 Ribbon Communications Inc For: 15 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "AST SpaceMobile plans $1 billion convertible notes offering",
+      "title": "Airbnb director Joseph Gebbia sells $38.5 million in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Erasca closes $632.5 million public stock offering",
+      "title": "Form 144 Cricut For: 15 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Acme United secures new $65 million credit facility",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9421,
-      "currencies": []
-    },
-    {
-      "title": "Celldex CFO Sam Martin to retire in March 2027",
+      "title": "Form 144 Butterfly Network For: 15 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "MetroCity Bankshares declares $0.29 quarterly dividend",
+      "title": "Form 144 Clover Health Investments For: 15 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Port of Los Angeles sets June cargo record on tariff concerns",
+      "title": "Form 13D/A Metalla Royalty & Streaming Ltd. For: 15 July",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6613,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 144 GOLDMAN SACHS GROUP INC For: 15 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Dollar slips for a second straight day as cooling PPI data eases rate hike bets",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8933,
       "currencies": []
     }
   ],

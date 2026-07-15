@@ -25,20 +25,26 @@
         "score": 0.0
       }
     ],
+    "USD/JPY": [
+      {
+        "title": "Mexican Peso surges as inflation data weighs on the USD",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.5522
+      },
+      {
+        "title": "Asia FX: Softer USD offset by high Oil \u2013 OCBC",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.4869
+      }
+    ],
     "USD/CHF": [
       {
         "title": "USD/CHF Price Forecast: Swissie breaks below rising wedge, bears eye 0.8000",
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.6221
-      }
-    ],
-    "USD/JPY": [
-      {
-        "title": "Asia FX: Softer USD offset by high Oil \u2013 OCBC",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.4869
       }
     ]
   }
