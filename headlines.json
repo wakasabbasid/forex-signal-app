@@ -8,6 +8,16 @@
       "currencies": []
     },
     {
+      "title": "AUD/USD Signal: Bearish Flag Forms Ahead of US PPI, Kevin Warsh Testimony - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
+    },
+    {
       "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -18,7 +28,42 @@
       ]
     },
     {
-      "title": "Major Forex pairs: Outlook for the end of 2026 - Augusta Free Press",
+      "title": "Thomas Cook India relaunches One Currency Card with zero markup for overseas travellers - ET TravelWorld",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.925,
+      "currencies": []
+    },
+    {
+      "title": "Rupiah Gains as S&P Affirms Indonesia Investment Grade - TradingPedia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7329,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: US Dollar retreats after soft inflation data, focus shifts to BoC rate decision - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9469,
+      "currencies": []
+    },
+    {
+      "title": "Track market-moving events with Forex Factory's trusted economic calendar and breaking forex news - eciks.org",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "15 Best Forex Pairs to Trade - TMGM trading",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -35,57 +80,6 @@
       ]
     },
     {
-      "title": "Thomas Cook India relaunches One Currency Card with zero markup for overseas travellers - ET TravelWorld",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Rupiah Gains as S&P Affirms Indonesia Investment Grade - TradingPedia",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7329,
-      "currencies": []
-    },
-    {
-      "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.925,
-      "currencies": []
-    },
-    {
-      "title": "Track market-moving events with Forex Factory's trusted economic calendar and breaking forex news - eciks.org",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: US Dollar retreats after soft inflation data, focus shifts to BoC rate decision - FXStreet",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9469,
-      "currencies": []
-    },
-    {
-      "title": "15 Best Forex Pairs to Trade - TMGM trading",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "BTC/USD Signal 15/07: Bottoming Signs Emerge - DailyForex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8447,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
       "title": "Rupee back in red! Impact of RBI\u2019s forex boost fades; currency breaches 96 versus dollar on rising crude - The Times of India",
       "source": "Google News",
       "label": "bearish",
@@ -93,59 +87,66 @@
       "currencies": []
     },
     {
-      "title": "U.S. futures rise on cooling CPI, bank beats; tech earnings to test rally",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6982,
-      "currencies": []
-    },
-    {
-      "title": "Canaccord initiates Deep Fission stock coverage with buy rating",
-      "source": "Investing.com",
+      "title": "Forex Forecasts \u2013 Greenback Momentum Tests Key Support and Moving Averages - Yahoo Finance",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "UBS initiates Crescent Energy stock with buy rating on portfolio improvement",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Wells Fargo initiates Pharvaris stock with Overweight rating",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "UBS initiates SM Energy stock with buy rating on valuation gap",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Piper Sandler upgrades Arthur J. Gallagher stock rating on growth",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Piper Sandler cuts American International Group stock rating on pricing concerns",
+      "title": "ADM Energy receives winding up petition from UK tax authority",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8078,
+      "score": -0.5705,
       "currencies": []
     },
     {
-      "title": "Wells Fargo raises JPMorgan stock price target on strong growth",
+      "title": "Morgan Stanley shares gain as equities trading, dealmaking fuel Q2 earnings beat",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8129,
+      "score": 0.6459,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: TomTom Q2 2026 profit improves, but stock drops 14%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9705,
+      "currencies": []
+    },
+    {
+      "title": "Cellectar publishes phase 1 data on multiple myeloma treatment",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "AgPlenus launches AI model to predict antifungal potency",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Rekor narrows Q2 adjusted EBITDA loss to $1.3 million",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9406,
+      "currencies": []
+    },
+    {
+      "title": "Senti Biosciences to spin off gene therapy unit for CVR",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Dollar steadies as Middle East escalation counters soft US inflation",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6813,
       "currencies": []
     }
   ],
