@@ -15,22 +15,22 @@
       "currencies": []
     },
     {
-      "title": "AUD/USD Signal: Bearish Flag Forms Ahead of US PPI, Kevin Warsh Testimony - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
-    },
-    {
       "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
         "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "AUD/USD Signal: Bearish Flag Forms Ahead of US PPI, Kevin Warsh Testimony - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "AUD",
         "USD"
       ]
     },
@@ -42,17 +42,17 @@
       "currencies": []
     },
     {
-      "title": "Thomas Cook India relaunches One Currency Card with zero markup for overseas travellers - ET TravelWorld",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
       "source": "Google News",
       "label": "bullish",
       "score": 0.925,
+      "currencies": []
+    },
+    {
+      "title": "Thomas Cook India relaunches One Currency Card with zero markup for overseas travellers - ET TravelWorld",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -70,6 +70,13 @@
       "currencies": []
     },
     {
+      "title": "Sterling today: Pound firms as soft U.S. CPI dents dollar broadly - Investing.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.924,
+      "currencies": []
+    },
+    {
       "title": "Track market-moving events with Forex Factory's trusted economic calendar and breaking forex news - eciks.org",
       "source": "Google News",
       "label": "neutral",
@@ -77,78 +84,66 @@
       "currencies": []
     },
     {
-      "title": "15 Best Forex Pairs to Trade - TMGM trading",
+      "title": "Forex Forecasts \u2013 US Dollar Fights Back as Dynamic Support Holds - FXEmpire",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.4763,
       "currencies": []
     },
     {
-      "title": "GBP/USD Signal: Bearish Divergence Forms Ahead of US PPI Data - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "FDA examines produce items in US cyclosporiasis outbreak as cases rise",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Home BancShares earnings up next: Can margins sustain premium?",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8155,
-      "currencies": []
-    },
-    {
-      "title": "Truist Financial earnings loom Thursday as CEO transition clouds outlook",
+      "title": "Portugal stocks lower at close of trade; PSI down 0.46%",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8574,
+      "score": -0.966,
       "currencies": []
     },
     {
-      "title": "Marathon Petroleum stock hits all-time high at 303.67 USD",
+      "title": "Delta, Shell expand sustainable aviation fuel partnership across major U.S. hubs",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6627,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Getty Realty stock hits 52-week high at $34.93",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6985,
+      "score": 0.912,
       "currencies": []
     },
     {
-      "title": "Commerce Bancshares set to report earnings amid NIM headwinds",
+      "title": "Netherlands stocks higher at close of trade; AEX up 0.74%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9399,
+      "currencies": []
+    },
+    {
+      "title": "Italy stocks lower at close of trade; Investing.com Italy 40 down 0.79%",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7335,
+      "score": -0.9645,
       "currencies": []
     },
     {
-      "title": "Nexstar Media stock rises 5% on FCC broadcast cap repeal report",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9227,
-      "currencies": []
-    },
-    {
-      "title": "Karooooo earnings in focus: Can South Africa offset macro drag?",
+      "title": "DCC extends takeover deadline for consortium to Wednesday",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "U.S. burrito chain Chipotle opens first eatery in Mexico",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Germany stocks lower at close of trade; DAX down 0.51%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9672,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Atea posts strong Q2 2026 profit growth as stock rises",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.952,
       "currencies": []
     }
   ],

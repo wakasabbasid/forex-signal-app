@@ -1,14 +1,6 @@
 {
   "run_id": 1,
   "pairs": {
-    "AUD/USD": [
-      {
-        "title": "AUD/USD Signal: Bearish Flag Forms Ahead of US PPI, Kevin Warsh Testimony - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
     "EUR/USD": [
       {
         "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
@@ -17,32 +9,12 @@
         "score": 0.0
       }
     ],
-    "GBP/USD": [
+    "AUD/USD": [
       {
-        "title": "GBP/USD Signal: Bearish Divergence Forms Ahead of US PPI Data - DailyForex",
+        "title": "AUD/USD Signal: Bearish Flag Forms Ahead of US PPI, Kevin Warsh Testimony - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      }
-    ],
-    "USD/JPY": [
-      {
-        "title": "Marathon Petroleum stock hits all-time high at 303.67 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.6627
-      },
-      {
-        "title": "Unifirst Corp stock hits all-time high at 283.96 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.5235
-      },
-      {
-        "title": "Kickstart the North American session: The USD is little changed versus the major currencies.",
-        "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.8778
       }
     ]
   }
