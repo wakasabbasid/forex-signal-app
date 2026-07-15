@@ -38,14 +38,6 @@
         "label": "neutral",
         "score": 0.0
       }
-    ],
-    "USD/CHF": [
-      {
-        "title": "USD/CHF Price Forecast: Pair pulls below 0.8100 but remains bullish",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.5895
-      }
     ]
   }
 }
