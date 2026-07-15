@@ -15,54 +15,34 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
+      }
+    ],
+    "GBP/USD": [
       {
-        "title": "EUR/USD Signal: First Higher Low Suggests the Bearish Trend May Be Losing Strength - DailyForex",
+        "title": "GBP/USD Signal: Bearish Divergence Forms Ahead of US PPI Data - DailyForex",
         "source": "Google News",
-        "label": "bearish",
-        "score": -0.9455
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "USD/JPY": [
+      {
+        "title": "Marathon Petroleum stock hits all-time high at 303.67 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.6627
+      },
+      {
+        "title": "Unifirst Corp stock hits all-time high at 283.96 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.5235
+      },
       {
         "title": "Kickstart the North American session: The USD is little changed versus the major currencies.",
         "source": "ForexLive",
         "label": "bullish",
         "score": 0.8778
-      },
-      {
-        "title": "USD/JPY shrugs off the surprisingly soft US CPI as Middle East crisis keeps inflation risks alive",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.5827
-      },
-      {
-        "title": "Gold Price Forecast: XAU/USD hovers above $4,000, weighed by risk-off markets",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8065
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD drops to near $58 even as traders scale back hawkish Fed bets",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9721
-      }
-    ],
-    "NZD/USD": [
-      {
-        "title": "NZD/USD Price Forecast: Holds onto Tuesday\u2019s gains amid risk-on mood",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.7936
-      }
-    ],
-    "USD/CAD": [
-      {
-        "title": "Canadian Dollar: BoC caution limits CAD losses against US Dollar \u2013 MUFG",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.5898
       }
     ]
   }
