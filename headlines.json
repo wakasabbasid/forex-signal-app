@@ -35,13 +35,6 @@
       ]
     },
     {
-      "title": "Antipodean Currencies Rise Amid Oil Price Surges - RTTNews",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5969,
-      "currencies": []
-    },
-    {
       "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -63,10 +56,10 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar retreats after soft inflation data, focus shifts to BoC rate decision - FXStreet",
+      "title": "Track market-moving events with Forex Factory's trusted economic calendar and breaking forex news - eciks.org",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9469,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -77,73 +70,83 @@
       "currencies": []
     },
     {
-      "title": "Track market-moving events with Forex Factory's trusted economic calendar and breaking forex news - eciks.org",
+      "title": "15 Best Forex Pairs to Trade - TMGM trading",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Forex Forecasts \u2013 US Dollar Fights Back as Dynamic Support Holds - FXEmpire",
+      "title": "EUR/USD Signal: First Higher Low Suggests the Bearish Trend May Be Losing Strength - DailyForex",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.4763,
+      "score": -0.9455,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "Forex Forecasts \u2013 Greenback Momentum Tests Key Support and Moving Averages - Yahoo Finance",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Portugal stocks lower at close of trade; PSI down 0.46%",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.966,
-      "currencies": []
-    },
-    {
-      "title": "Delta, Shell expand sustainable aviation fuel partnership across major U.S. hubs",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.912,
-      "currencies": []
-    },
-    {
-      "title": "Netherlands stocks higher at close of trade; AEX up 0.74%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9399,
-      "currencies": []
-    },
-    {
-      "title": "Italy stocks lower at close of trade; Investing.com Italy 40 down 0.79%",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9645,
-      "currencies": []
-    },
-    {
-      "title": "DCC extends takeover deadline for consortium to Wednesday",
+      "title": "Form 4 AeroVironment Inc For: 15 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "U.S. burrito chain Chipotle opens first eatery in Mexico",
+      "title": "Chile\u2019s Codelco expects flat copper output in coming years, chairman says",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9547,
+      "currencies": []
+    },
+    {
+      "title": "Musk\u2019s xAI sues Grok user over sexualized \u2019deepfakes\u2019",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8924,
+      "currencies": []
+    },
+    {
+      "title": "Trump spy nominee Clayton will not directly say Biden won 2020 election",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Germany stocks lower at close of trade; DAX down 0.51%",
+      "title": "Regions Financial stock hits 52-week high at $31.54",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9672,
+      "label": "bullish",
+      "score": 0.8272,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Atea posts strong Q2 2026 profit growth as stock rises",
+      "title": "Blanche says he\u2019s not a \u2019yes man\u2019 as he faces criticism over Trump loyalty",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.952,
+      "label": "bearish",
+      "score": -0.7346,
+      "currencies": []
+    },
+    {
+      "title": "Amazon AWS executive and CEO advisor Dave Brown to leave after 19 years",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 144 CSW INDUSTRIALS For: 15 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

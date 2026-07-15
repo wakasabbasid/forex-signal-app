@@ -7,6 +7,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "EUR/USD Signal: First Higher Low Suggests the Bearish Trend May Be Losing Strength - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9455
       }
     ],
     "AUD/USD": [
