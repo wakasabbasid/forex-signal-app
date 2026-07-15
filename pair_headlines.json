@@ -9,30 +9,32 @@
         "score": 0.0
       },
       {
-        "title": "EUR/USD Price Forecast: Bulls remain cautious below 23.6% Fibo. and 1.1470 hurdle",
-        "source": "FXStreet",
+        "title": "EUR/USD Signal: First Higher Low Suggests the Bearish Trend May Be Losing Strength - DailyForex",
+        "source": "Google News",
         "label": "bearish",
-        "score": -0.8875
+        "score": -0.9455
       }
     ],
     "USD/JPY": [
       {
-        "title": "USD/MXN 13/07: Is This Nervous Range Hiding a Larger Shift - DailyForex",
+        "title": "BTC/USD Signal 15/07: Bottoming Signs Emerge - DailyForex",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bearish",
+        "score": -0.8447
       },
       {
-        "title": "USD/JPY Price Forecast: Reflects volatility contraction amid triangle formation",
+        "title": "Silver Price Forecast: XAG/USD drops to near $58 even as traders scale back hawkish Fed bets",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9604
-      },
+        "score": -0.9721
+      }
+    ],
+    "USD/CAD": [
       {
-        "title": "Gold remains depressed as bears shrug off weaker USD amid Fed hike bets",
+        "title": "USD/CAD Price Forecast: Reaches nearly monthly lows below 1.4050",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9334
+        "score": -0.9675
       }
     ]
   }

@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "Forex Expo Dubai Adds New Features for Verified Traders and Introducing Brokers - Yahoo Finance",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -18,10 +25,27 @@
       "currencies": []
     },
     {
-      "title": "Track market-moving events with Forex Factory's trusted economic calendar and breaking forex news - eciks.org",
+      "title": "EUR/USD Signal: First Higher Low Suggests the Bearish Trend May Be Losing Strength - DailyForex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9455,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "Thomas Cook India relaunches One Currency Card with zero markup for overseas travellers - ET TravelWorld",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Rupiah Gains as S&P Affirms Indonesia Investment Grade - TradingPedia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7329,
       "currencies": []
     },
     {
@@ -32,19 +56,17 @@
       "currencies": []
     },
     {
-      "title": "USD/MXN 13/07: Is This Nervous Range Hiding a Larger Shift - DailyForex",
+      "title": "Track market-moving events with Forex Factory's trusted economic calendar and breaking forex news - eciks.org",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
+      "currencies": []
     },
     {
-      "title": "Forex Forecasts \u2013 Greenback Momentum Tests Key Support and Moving Averages - Yahoo Finance",
+      "title": "Forex Today: US Dollar retreats after soft inflation data, focus shifts to BoC rate decision - FXStreet",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9469,
       "currencies": []
     },
     {
@@ -55,11 +77,13 @@
       "currencies": []
     },
     {
-      "title": "FX option expiries for 15 July 10am New York cut - investingLive",
+      "title": "BTC/USD Signal 15/07: Bottoming Signs Emerge - DailyForex",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
+      "label": "bearish",
+      "score": -0.8447,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "Rupee back in red! Impact of RBI\u2019s forex boost fades; currency breaches 96 versus dollar on rising crude - The Times of India",
@@ -69,80 +93,59 @@
       "currencies": []
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
-      "currencies": []
-    },
-    {
-      "title": "AriseAlpha Launches AI Forex Trading Bot as Automated Currency Trading Demand Surges in 2026 - The National Law Review",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Castellum Q2 property earnings rise, profit jumps as asset sales reshape portfolio",
+      "title": "U.S. futures rise on cooling CPI, bank beats; tech earnings to test rally",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8741,
+      "score": 0.6982,
       "currencies": []
     },
     {
-      "title": "B.Riley initiates Veradermics stock coverage with Buy on hair loss drug",
+      "title": "Canaccord initiates Deep Fission stock coverage with buy rating",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "CT3 Announces Dedicated Storage Contracts to Expand Decentralized Storage Infrastructure",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8809,
-      "currencies": []
-    },
-    {
-      "title": "Nel Q2 2026 slides: new alkaline tech cuts costs 60%, revenue falls",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9071,
-      "currencies": []
-    },
-    {
-      "title": "Top U.S. Technology Stocks to Watch, According to Mizuho",
+      "title": "UBS initiates Crescent Energy stock with buy rating on portfolio improvement",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "SEGRO signs leases for 540,000 sq ft at Coventry park",
+      "title": "Wells Fargo initiates Pharvaris stock with Overweight rating",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Zenith Energy signs MoU to sell Italian solar projects for \u20ac12m",
+      "title": "UBS initiates SM Energy stock with buy rating on valuation gap",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Nel Q2 2026 loss, lower revenue weigh on shares",
+      "title": "Piper Sandler upgrades Arthur J. Gallagher stock rating on growth",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Piper Sandler cuts American International Group stock rating on pricing concerns",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9709,
+      "score": -0.8078,
+      "currencies": []
+    },
+    {
+      "title": "Wells Fargo raises JPMorgan stock price target on strong growth",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8129,
       "currencies": []
     }
   ],
