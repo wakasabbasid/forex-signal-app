@@ -9,66 +9,30 @@
         "score": 0.0
       },
       {
-        "title": "EUR/USD Signal: Ready for a Bearish Breakout as the US Dollar Jumps - DailyForex",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.5608
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Remains near the symmetrical triangle top around 185.50",
+        "title": "EUR/USD Price Forecast: Bulls remain cautious below 23.6% Fibo. and 1.1470 hurdle",
         "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bearish",
+        "score": -0.8875
       }
     ],
     "USD/JPY": [
       {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.6676
-      },
-      {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7695 \u2013 Reuters estimate - investingLive",
+        "title": "USD/MXN 13/07: Is This Nervous Range Hiding a Larger Shift - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "PBOC sets USD/ CNY mid-point today at 6.7910 (vs. estimate at 6.7965)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7695 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Gold edges lower as elevated oil prices bolster Fed hike prospects and offset soft USD",
+        "title": "USD/JPY Price Forecast: Reflects volatility contraction amid triangle formation",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.5265
+        "score": -0.9604
       },
       {
-        "title": "EUR/JPY Price Forecast: Remains near the symmetrical triangle top around 185.50",
+        "title": "Gold remains depressed as bears shrug off weaker USD amid Fed hike bets",
         "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Canadian Dollar climbs to four-week top vs USD amid rising Oil prices; focus shifts to BoC",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.7784
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD hovers near $58.50 amid market caution",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.6196
+        "label": "bearish",
+        "score": -0.9334
       }
     ]
   }
