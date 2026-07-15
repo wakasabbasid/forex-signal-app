@@ -8,6 +8,23 @@
       "currencies": []
     },
     {
+      "title": "Forex Today: US Dollar extends decline as softer PPI lifts major currencies and Gold - Mitrade",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9423,
+      "currencies": []
+    },
+    {
+      "title": "GBP/USD Signal: Bearish Divergence Forms Ahead of US PPI Data - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
       "title": "Forex Expo Dubai Adds New Features for Verified Traders and Introducing Brokers - Yahoo Finance",
       "source": "Google News",
       "label": "neutral",
@@ -25,14 +42,11 @@
       ]
     },
     {
-      "title": "AUD/USD Signal: Bearish Flag Forms Ahead of US PPI, Kevin Warsh Testimony - DailyForex",
+      "title": "Antipodean Currencies Rise Amid Oil Price Surges - RTTNews",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
+      "label": "bullish",
+      "score": 0.5969,
+      "currencies": []
     },
     {
       "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
@@ -63,13 +77,6 @@
       "currencies": []
     },
     {
-      "title": "Sterling today: Pound firms as soft U.S. CPI dents dollar broadly - Investing.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.924,
-      "currencies": []
-    },
-    {
       "title": "15 Best Forex Pairs to Trade - TMGM trading",
       "source": "Google News",
       "label": "neutral",
@@ -77,76 +84,69 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD Signal: First Higher Low Suggests the Bearish Trend May Be Losing Strength - DailyForex",
+      "title": "AUD/USD Signal: Bearish Flag Forms Ahead of US PPI, Kevin Warsh Testimony - DailyForex",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9455,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
-        "EUR",
+        "AUD",
         "USD"
       ]
     },
     {
-      "title": "Forex Forecasts \u2013 Greenback Momentum Tests Key Support and Moving Averages - Yahoo Finance",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 AeroVironment Inc For: 15 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Chile\u2019s Codelco expects flat copper output in coming years, chairman says",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9547,
-      "currencies": []
-    },
-    {
-      "title": "Musk\u2019s xAI sues Grok user over sexualized \u2019deepfakes\u2019",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8924,
-      "currencies": []
-    },
-    {
-      "title": "Trump spy nominee Clayton will not directly say Biden won 2020 election",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Regions Financial stock hits 52-week high at $31.54",
+      "title": "United Airlines Holdings earnings beat by $0.14, revenue topped estimates",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8272,
+      "score": 0.9231,
       "currencies": []
     },
     {
-      "title": "Blanche says he\u2019s not a \u2019yes man\u2019 as he faces criticism over Trump loyalty",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7346,
-      "currencies": []
-    },
-    {
-      "title": "Amazon AWS executive and CEO advisor Dave Brown to leave after 19 years",
+      "title": "BayFirst Financial to restate results, book $40.1M in charges",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 144 CSW INDUSTRIALS For: 15 July",
+      "title": "AST SpaceMobile plans $1 billion convertible notes offering",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Erasca closes $632.5 million public stock offering",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Acme United secures new $65 million credit facility",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9421,
+      "currencies": []
+    },
+    {
+      "title": "Celldex CFO Sam Martin to retire in March 2027",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "MetroCity Bankshares declares $0.29 quarterly dividend",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Port of Los Angeles sets June cargo record on tariff concerns",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6613,
       "currencies": []
     }
   ],
