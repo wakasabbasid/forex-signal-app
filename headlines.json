@@ -11,6 +11,13 @@
       ]
     },
     {
+      "title": "Track market-moving events with Forex Factory's trusted economic calendar and breaking forex news - eciks.org",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Major Forex pairs: Outlook for the end of 2026 - Augusta Free Press",
       "source": "Google News",
       "label": "neutral",
@@ -35,6 +42,13 @@
       ]
     },
     {
+      "title": "Which is the world's second most widely held reserve currency? - VnExpress International",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Rupee back in red! Impact of RBI\u2019s forex boost fades; currency breaches 96 versus dollar on rising crude - The Times of India",
       "source": "Google News",
       "label": "bearish",
@@ -56,25 +70,22 @@
       "currencies": []
     },
     {
-      "title": "India seeks diaspora dollars to strengthen forex reserves amid rupee weakness: Report - Firstpost",
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.7693,
-      "currencies": []
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
     },
     {
-      "title": "Kiwi Gains as Hawkish RBNZ Offsets Strong U.S. Dollar - TradingPedia",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.709,
-      "currencies": []
-    },
-    {
-      "title": "AriseAlpha Launches AI Forex Trading Bot as Automated Currency Trading Demand Surges in 2026 - The National Law Review",
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.7695 \u2013 Reuters estimate - investingLive",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
@@ -84,66 +95,59 @@
       "currencies": []
     },
     {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 13D/A Phunware For: 14 July",
+      "title": "Exclusive-Stripe, Advent offer to buy PayPal for more than $53 billion, sources say",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 Butler National Corp For: 14 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Exclusive-AI cloud company CoreWeave explores Wall Street playbook to hedge memory-chip price risk",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Zeff Capital sells $238,624 of Butler National (BUKS) stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Accel Entertainment Inc For: 14 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Maine Democrats, rattled by Platner\u2019s downfall, protest fatal ICE shooting",
+      "title": "China\u2019s Q2 GDP growth cools to 3-1/2-year low, structural imbalances complicate policy",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9129,
+      "score": -0.9643,
       "currencies": []
     },
     {
-      "title": "Form 4 American Vanguard Corp For: 14 July",
+      "title": "Stripe, Advent offer to buy PayPal for over $53 bln- Reuters",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 Doximity Inc For: 14 July",
+      "title": "Asian FX subdued as Middle East tensions overshadow China data, softer dollar",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.4982,
+      "currencies": []
+    },
+    {
+      "title": "Taiwan\u2019s premium mangoes wing their way to Europe for the first time",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7634,
+      "currencies": []
+    },
+    {
+      "title": "Asia stocks rise on soft US CPI; traders weigh Iran tensions, China GDP miss",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.4917,
+      "currencies": []
+    },
+    {
+      "title": "Iran-linked vessels pass through Hormuz ahead of US blockade",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Appeals court ends US oversight of Louisiana school system related to desegregation mandate",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8322,
       "currencies": []
     }
   ],
