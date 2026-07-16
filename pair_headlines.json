@@ -33,20 +33,20 @@
         "score": -0.8163
       }
     ],
+    "USD/CHF": [
+      {
+        "title": "USD/CHF Price Forecast: Swissie rebounds at 0.8042 support",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8039
+      }
+    ],
     "USD/JPY": [
       {
         "title": "Silver Price Forecast: XAG/USD tests the $55 floor as sellers retain control",
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.7787
-      }
-    ],
-    "NZD/USD": [
-      {
-        "title": "NZD/USD Price Forecast: Buyers retain upper hand near one-month highs",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8873
       }
     ]
   }
