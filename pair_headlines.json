@@ -9,10 +9,10 @@
         "score": 0.0
       },
       {
-        "title": "EUR/USD Price Forecast: Approaches 1.1600 as RSI shifts bullish",
+        "title": "EUR/JPY Price Forecast: Positions near ascending triangle top around 186.00",
         "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.5365
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "GBP/USD": [
@@ -25,10 +25,34 @@
     ],
     "USD/JPY": [
       {
-        "title": "Mexican Peso surges as inflation data weighs on the USD",
+        "title": "PBOC sets USD/ CNY reference rate for today at 6.7909 (vs. estimate at 6.7577)",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "EUR/JPY Price Forecast: Positions near ascending triangle top around 186.00",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD falls to near $57.00 amid Middle East tensions",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9656
+      },
+      {
+        "title": "Canadian Dollar consolidates near four-week top vs USD; elevated oil prices favor bulls",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.5522
+        "score": 0.8764
+      },
+      {
+        "title": "PBOC sets USD/CNY reference rate at 6.7909 vs. 6.7910 previous",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }
