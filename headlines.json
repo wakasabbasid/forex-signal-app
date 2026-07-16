@@ -8,6 +8,16 @@
       "currencies": []
     },
     {
+      "title": "GBP/USD Above 1.3500 as Pound Strength Builds - DailyForex",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5547,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
       "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -16,6 +26,23 @@
         "EUR",
         "USD"
       ]
+    },
+    {
+      "title": "Loonie Near Monthly Peak as USD/CAD Weakens - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8698,
+      "currencies": [
+        "USD",
+        "CAD"
+      ]
+    },
+    {
+      "title": "Japan finance minister repeats FX warning as yen hovers around 162 - investingLive",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5624,
+      "currencies": []
     },
     {
       "title": "Choosing the Right Forex Currency Pairs - Intellectia AI",
@@ -32,16 +59,6 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Signal: Bearish Divergence Forms Ahead of US PPI Data - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
       "title": "Yen options suggest a slide to 165 level before Japan intervenes - The Japan Times",
       "source": "Google News",
       "label": "bearish",
@@ -49,17 +66,10 @@
       "currencies": []
     },
     {
-      "title": "Forex Expo Dubai Adds New Features for Verified Traders and Introducing Brokers - Yahoo Finance",
+      "title": "Forex Forecasts \u2013 Greenback Momentum Tests Key Support and Moving Averages - Yahoo Finance",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Antipodean Currencies Rise Amid Oil Price Surges - RTTNews",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5969,
       "currencies": []
     },
     {
@@ -77,70 +87,63 @@
       "currencies": []
     },
     {
-      "title": "Track market-moving events with Forex Factory's trusted economic calendar and breaking forex news - eciks.org",
+      "title": "Antipodean Currencies Rise Amid Oil Price Surges - RTTNews",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.5969,
       "currencies": []
     },
     {
-      "title": "15 Best Forex Pairs to Trade - TMGM trading",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "BOK hikes rates for first time in 3-1/2 years, signals more",
+      "title": "Hexagon Purus Q2 2026 slides: hydrogen infrastructure surges amid restructuring",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6876,
+      "score": 0.9008,
       "currencies": []
     },
     {
-      "title": "United warns of nearly $6 billion fuel hit as oil-price surge weighs on outlook",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9309,
-      "currencies": []
-    },
-    {
-      "title": "China\u2019s Xi to outline AI diplomacy vision at key Shanghai forum",
+      "title": "Hexagon Purus Q2 2026 slides: hydrogen pivot amid 50% workforce cut",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US imposes 25% tariff on some goods from Brazil",
+      "title": "Earnings call transcript: PowerCell Group sinks on weak Q2 2026 results",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9718,
+      "currencies": []
+    },
+    {
+      "title": "AddLife Q2 profit jumps 30% as acquisitions, margin gains lift earnings",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.94,
+      "currencies": []
+    },
+    {
+      "title": "MS International appoints new chairman, CEO in board reshuffle",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is BHP stock sliding today?",
+      "title": "Goldman Sachs downgrades American Electric Power stock rating to neutral",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8843,
+      "score": -0.8806,
       "currencies": []
     },
     {
-      "title": "Asian FX muted as weaker dollar offsets Iran jitters; yuan, won in focus",
+      "title": "European shares stall in cautious trade as markets weigh geopolitical conflict",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5871,
+      "score": -0.9558,
       "currencies": []
     },
     {
-      "title": "TRX Gold earnings missed, revenue fell short of estimates",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9725,
-      "currencies": []
-    },
-    {
-      "title": "US Senate undecided on bill to make daylight saving time permanent",
+      "title": "Kingfisher launches second tranche of share buyback program",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

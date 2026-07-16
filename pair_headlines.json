@@ -1,58 +1,48 @@
 {
   "run_id": 1,
   "pairs": {
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Above 1.3500 as Pound Strength Builds - DailyForex",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.5547
+      }
+    ],
     "EUR/USD": [
       {
         "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Positions near ascending triangle top around 186.00",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
       }
     ],
-    "GBP/USD": [
+    "USD/CAD": [
       {
-        "title": "GBP/USD Signal: Bearish Divergence Forms Ahead of US PPI Data - DailyForex",
+        "title": "Loonie Near Monthly Peak as USD/CAD Weakens - TradingPedia",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bearish",
+        "score": -0.8698
       }
     ],
     "USD/JPY": [
       {
-        "title": "PBOC sets USD/ CNY reference rate for today at 6.7909 (vs. estimate at 6.7577)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Positions near ascending triangle top around 186.00",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD falls to near $57.00 amid Middle East tensions",
+        "title": "Forex Today: Majors stabilize as USD selloff loses steam",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9656
+        "score": -0.5545
       },
       {
-        "title": "Canadian Dollar consolidates near four-week top vs USD; elevated oil prices favor bulls",
+        "title": "Silver Price Forecast: XAG/USD tumbles to near $57 as inflation projections remain de-anchored",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.974
+      },
+      {
+        "title": "USD/JPY Price Forecast: Dollar eases to 162.00, forming a triangle pattern",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.8764
-      },
-      {
-        "title": "PBOC sets USD/CNY reference rate at 6.7909 vs. 6.7910 previous",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
+        "score": 0.9069
       }
     ]
   }
