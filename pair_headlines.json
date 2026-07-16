@@ -1,12 +1,12 @@
 {
   "run_id": 1,
   "pairs": {
-    "AUD/USD": [
+    "GBP/USD": [
       {
-        "title": "AUD/USD Signal: Aussie Rally to Fade Ahead of US Retail Sales Data - DailyForex",
+        "title": "GBP/USD Signal 16/07: Sterling Ahead of UK Leadership Change - DailyForex",
         "source": "Google News",
-        "label": "bearish",
-        "score": -0.8163
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "EUR/USD": [
@@ -25,48 +25,20 @@
         "score": -0.8698
       }
     ],
+    "AUD/USD": [
+      {
+        "title": "AUD/USD Signal: Aussie Rally to Fade Ahead of US Retail Sales Data - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.8163
+      }
+    ],
     "USD/JPY": [
       {
-        "title": "East West Bancorp stock hits all-time high at 136.0 USD",
-        "source": "Investing.com",
+        "title": "Silver Price Forecast: XAG/USD tests the $55 floor as sellers retain control",
+        "source": "FXStreet",
         "label": "bullish",
-        "score": 0.7397
-      },
-      {
-        "title": "Enovix stock hits 52-week low at 4.61 USD",
-        "source": "Investing.com",
-        "label": "bearish",
-        "score": -0.9552
-      },
-      {
-        "title": "Enact Holdings stock hits all-time high at 46.37 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.5397
-      },
-      {
-        "title": "Home BancShares stock hits 52-week high at 30.83 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.5831
-      },
-      {
-        "title": "Byline Bancorp stock hits all-time high at 38.84 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.6795
-      },
-      {
-        "title": "FNB stock hits 52-week high at 19.59 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.4707
-      },
-      {
-        "title": "The USD is mixed and little changed to kickstart the new trading day",
-        "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.5402
+        "score": 0.7787
       }
     ],
     "NZD/USD": [
