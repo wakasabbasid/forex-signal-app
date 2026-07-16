@@ -15,12 +15,6 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "EUR/USD extends gains after the soft US inflation data but the focus remains on US-Iran crisis",
-        "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.8116
       }
     ],
     "USD/CAD": [
@@ -33,22 +27,54 @@
     ],
     "USD/JPY": [
       {
-        "title": "Ventas Inc stock hits all-time high at 94.84 USD",
+        "title": "East West Bancorp stock hits all-time high at 136.0 USD",
         "source": "Investing.com",
         "label": "bullish",
-        "score": 0.5649
+        "score": 0.7397
       },
       {
-        "title": "Alexanders Inc stock hits 52-week high at 281.74 USD",
+        "title": "Enovix stock hits 52-week low at 4.61 USD",
+        "source": "Investing.com",
+        "label": "bearish",
+        "score": -0.9552
+      },
+      {
+        "title": "Enact Holdings stock hits all-time high at 46.37 USD",
         "source": "Investing.com",
         "label": "bullish",
-        "score": 0.5392
+        "score": 0.5397
+      },
+      {
+        "title": "Home BancShares stock hits 52-week high at 30.83 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.5831
+      },
+      {
+        "title": "Byline Bancorp stock hits all-time high at 38.84 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.6795
+      },
+      {
+        "title": "FNB stock hits 52-week high at 19.59 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.4707
       },
       {
         "title": "The USD is mixed and little changed to kickstart the new trading day",
         "source": "ForexLive",
         "label": "bullish",
         "score": 0.5402
+      }
+    ],
+    "NZD/USD": [
+      {
+        "title": "NZD/USD Price Forecast: Buyers retain upper hand near one-month highs",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8873
       }
     ]
   }

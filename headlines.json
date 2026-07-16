@@ -18,6 +18,13 @@
       ]
     },
     {
+      "title": "Traveling Abroad? Order Currency Before You Go - NerdWallet",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -28,14 +35,14 @@
       ]
     },
     {
-      "title": "US would be unwise to designate China currency manipulators - Forex Factory",
+      "title": "Major Forex pairs: Outlook for the end of 2026 - Augusta Free Press",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Major Forex pairs: Outlook for the end of 2026 - Augusta Free Press",
+      "title": "US would be unwise to designate China currency manipulators - Forex Factory",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -66,24 +73,10 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar extends decline as softer PPI lifts major currencies and Gold - Mitrade",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9423,
-      "currencies": []
-    },
-    {
       "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
       "source": "Google News",
       "label": "bullish",
       "score": 0.925,
-      "currencies": []
-    },
-    {
-      "title": "Track market-moving events with Forex Factory's trusted economic calendar and breaking forex news - eciks.org",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -94,62 +87,77 @@
       "currencies": []
     },
     {
-      "title": "Nasdaq drops as TSMC\u2019s spending plans offset stellar results; Dow boosted by UNH",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7492,
+      "title": "Track market-moving events with Forex Factory's trusted economic calendar and breaking forex news - eciks.org",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Ventas Inc stock hits all-time high at 94.84 USD",
+      "title": "East West Bancorp stock hits all-time high at 136.0 USD",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5649,
+      "score": 0.7397,
       "currencies": [
         "USD"
       ]
     },
     {
-      "title": "Norway stocks lower at close of trade; Oslo OBX down 1.13%",
+      "title": "Verizon to cut 3,000 jobs as it shifts stores to franchises",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9693,
+      "score": -0.96,
       "currencies": []
     },
     {
-      "title": "Israel stocks lower at close of trade; TA 35 down 0.95%",
+      "title": "Key Republican says he won\u2019t vote for Blanche unless he meets with Epstein survivors",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Thomas Kean Jr. makes series of stock transactions in June",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Enovix stock hits 52-week low at 4.61 USD",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.966,
-      "currencies": []
+      "score": -0.9552,
+      "currencies": [
+        "USD"
+      ]
     },
     {
-      "title": "Nike bull vs bear debate: turnaround story or falling knife?",
+      "title": "Enact Holdings stock hits all-time high at 46.37 USD",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
+      "label": "bullish",
+      "score": 0.5397,
+      "currencies": [
+        "USD"
+      ]
     },
     {
-      "title": "Benchmark reaffirms Equity Bancshares stock rating on earnings outlook",
+      "title": "Home BancShares stock hits 52-week high at 30.83 USD",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
+      "label": "bullish",
+      "score": 0.5831,
+      "currencies": [
+        "USD"
+      ]
     },
     {
-      "title": "Lionsgate Studios stock gets Buy rating reaffirmed at Benchmark",
+      "title": "Byline Bancorp stock hits all-time high at 38.84 USD",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Benchmark reiterates Aqua Metals stock Speculative Buy on recycling progress",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
+      "label": "bullish",
+      "score": 0.6795,
+      "currencies": [
+        "USD"
+      ]
     }
   ],
   "run_id": 1
