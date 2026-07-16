@@ -1,21 +1,21 @@
 {
   "headlines": [
     {
+      "title": "AUD/USD Forex Signal 16/07: Aussie Rally to Fade - DailyForex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.4483,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
+    },
+    {
       "title": "US would be unwise to designate China currency manipulators - Forex Factory",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
-    },
-    {
-      "title": "GBP/USD Above 1.3500 as Pound Strength Builds - DailyForex",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5547,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
     },
     {
       "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
@@ -45,24 +45,10 @@
       "currencies": []
     },
     {
-      "title": "Choosing the Right Forex Currency Pairs - Intellectia AI",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Forex Today: US Dollar extends decline as softer PPI lifts major currencies and Gold - Mitrade",
       "source": "Google News",
       "label": "bearish",
       "score": -0.9423,
-      "currencies": []
-    },
-    {
-      "title": "Yen options suggest a slide to 165 level before Japan intervenes - The Japan Times",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9183,
       "currencies": []
     },
     {
@@ -73,10 +59,10 @@
       "currencies": []
     },
     {
-      "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
+      "title": "Yen options suggest a slide to 165 level before Japan intervenes - The Japan Times",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.925,
+      "label": "bearish",
+      "score": -0.9183,
       "currencies": []
     },
     {
@@ -87,66 +73,80 @@
       "currencies": []
     },
     {
-      "title": "Antipodean Currencies Rise Amid Oil Price Surges - RTTNews",
+      "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.5969,
+      "score": 0.925,
       "currencies": []
     },
     {
-      "title": "Hexagon Purus Q2 2026 slides: hydrogen infrastructure surges amid restructuring",
+      "title": "15 Best Forex Pairs to Trade - TMGM trading",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Track market-moving events with Forex Factory's trusted economic calendar and breaking forex news - eciks.org",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Stifel cuts Wynn Resorts stock price target on Macau exposure",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Jefferies downgrades Nutrien stock rating on demand, supply risks",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8442,
+      "currencies": []
+    },
+    {
+      "title": "Wall St futures pause after two-day rally as investors await data, earnings",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "U.S. stock futures steady amid cooling rate hike fears; Iran tensions persist",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7724,
+      "currencies": []
+    },
+    {
+      "title": "Pound, euro steady as soft U.S. inflation counters Middle East conflict premium",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9008,
+      "score": 0.782,
       "currencies": []
     },
     {
-      "title": "Hexagon Purus Q2 2026 slides: hydrogen pivot amid 50% workforce cut",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: PowerCell Group sinks on weak Q2 2026 results",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9718,
-      "currencies": []
-    },
-    {
-      "title": "AddLife Q2 profit jumps 30% as acquisitions, margin gains lift earnings",
+      "title": "Fujifilm CFO says semiconductor materials demand extremely strong",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.94,
+      "score": 0.9343,
       "currencies": []
     },
     {
-      "title": "MS International appoints new chairman, CEO in board reshuffle",
+      "title": "Citi raises South Korea GDP forecast, now sees consecutive rate hikes",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.8333,
       "currencies": []
     },
     {
-      "title": "Goldman Sachs downgrades American Electric Power stock rating to neutral",
+      "title": "Earnings call transcript: Alm. Brand lifts 2026 outlook after strong Q2",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8806,
-      "currencies": []
-    },
-    {
-      "title": "European shares stall in cautious trade as markets weigh geopolitical conflict",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9558,
-      "currencies": []
-    },
-    {
-      "title": "Kingfisher launches second tranche of share buyback program",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9365,
       "currencies": []
     }
   ],

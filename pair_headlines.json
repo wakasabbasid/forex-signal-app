@@ -1,12 +1,12 @@
 {
   "run_id": 1,
   "pairs": {
-    "GBP/USD": [
+    "AUD/USD": [
       {
-        "title": "GBP/USD Above 1.3500 as Pound Strength Builds - DailyForex",
+        "title": "AUD/USD Forex Signal 16/07: Aussie Rally to Fade - DailyForex",
         "source": "Google News",
-        "label": "bullish",
-        "score": 0.5547
+        "label": "bearish",
+        "score": -0.4483
       }
     ],
     "EUR/USD": [
@@ -25,24 +25,12 @@
         "score": -0.8698
       }
     ],
-    "USD/JPY": [
+    "GBP/USD": [
       {
-        "title": "Forex Today: Majors stabilize as USD selloff loses steam",
+        "title": "GBP/USD Price Forecast: Dip-buying favored on pullbacks below 1.3500",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.5545
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD tumbles to near $57 as inflation projections remain de-anchored",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.974
-      },
-      {
-        "title": "USD/JPY Price Forecast: Dollar eases to 162.00, forming a triangle pattern",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9069
+        "score": -0.8058
       }
     ]
   }
