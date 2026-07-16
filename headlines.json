@@ -1,28 +1,21 @@
 {
   "headlines": [
     {
-      "title": "MultiBank Group Named Forex Broker of the Year 2026 at Money Expo Abu Dhabi - Yahoo Finance Singapore",
+      "title": "MultiBank Group Named Forex Broker of the Year 2026 at Money Expo Abu Dhabi - Yahoo Finance",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "AUD/USD Forex Signal 16/07: Aussie Rally to Fade - DailyForex",
+      "title": "AUD/USD Signal: Aussie Rally to Fade Ahead of US Retail Sales Data - DailyForex",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.4483,
+      "score": -0.8163,
       "currencies": [
         "AUD",
         "USD"
       ]
-    },
-    {
-      "title": "US would be unwise to designate China currency manipulators - Forex Factory",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
     },
     {
       "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
@@ -33,6 +26,13 @@
         "EUR",
         "USD"
       ]
+    },
+    {
+      "title": "US would be unwise to designate China currency manipulators - Forex Factory",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "Major Forex pairs: Outlook for the end of 2026 - Augusta Free Press",
@@ -59,17 +59,17 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar extends decline as softer PPI lifts major currencies and Gold - Mitrade",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9423,
-      "currencies": []
-    },
-    {
       "title": "Rupee back in red! Impact of RBI\u2019s forex boost fades; currency breaches 96 versus dollar on rising crude - The Times of India",
       "source": "Google News",
       "label": "bearish",
       "score": -0.7284,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: US Dollar extends decline as softer PPI lifts major currencies and Gold - Mitrade",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9423,
       "currencies": []
     },
     {
@@ -80,13 +80,6 @@
       "currencies": []
     },
     {
-      "title": "15 Best Forex Pairs to Trade - TMGM trading",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Track market-moving events with Forex Factory's trusted economic calendar and breaking forex news - eciks.org",
       "source": "Google News",
       "label": "neutral",
@@ -94,59 +87,68 @@
       "currencies": []
     },
     {
-      "title": "Kalshi expands into biotech with clinical trial wagers",
-      "source": "Investing.com",
+      "title": "15 Best Forex Pairs to Trade - TMGM trading",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Morgan Stanley\u2019s Q2 CIO survey shows these names are winning the race",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Cantor Fitzgerald maintains Neutral on Progressive stock amid weak June data",
+      "title": "Nasdaq drops as TSMC\u2019s spending plans offset stellar results; Dow boosted by UNH",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.929,
+      "score": -0.7492,
       "currencies": []
     },
     {
-      "title": "Cantor Fitzgerald maintains Neutral on PayPal stock amid bid talks",
+      "title": "Ventas Inc stock hits all-time high at 94.84 USD",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5649,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Norway stocks lower at close of trade; Oslo OBX down 1.13%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9693,
+      "currencies": []
+    },
+    {
+      "title": "Israel stocks lower at close of trade; TA 35 down 0.95%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.966,
+      "currencies": []
+    },
+    {
+      "title": "Nike bull vs bear debate: turnaround story or falling knife?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Cantor Fitzgerald reiterates DigitalOcean stock rating on debt plan",
+      "title": "Benchmark reaffirms Equity Bancshares stock rating on earnings outlook",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Prologis earnings beat by $0.38, revenue topped estimates",
+      "title": "Lionsgate Studios stock gets Buy rating reaffirmed at Benchmark",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9465,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Boeing nears approval of 737 MAX anti-ice fix, paving way for deliveries",
+      "title": "Benchmark reiterates Aqua Metals stock Speculative Buy on recycling progress",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9192,
-      "currencies": []
-    },
-    {
-      "title": "UnitedHealth reassures investors with annual profit forecast raise",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9256,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

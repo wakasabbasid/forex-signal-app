@@ -3,10 +3,10 @@
   "pairs": {
     "AUD/USD": [
       {
-        "title": "AUD/USD Forex Signal 16/07: Aussie Rally to Fade - DailyForex",
+        "title": "AUD/USD Signal: Aussie Rally to Fade Ahead of US Retail Sales Data - DailyForex",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.4483
+        "score": -0.8163
       }
     ],
     "EUR/USD": [
@@ -33,16 +33,22 @@
     ],
     "USD/JPY": [
       {
+        "title": "Ventas Inc stock hits all-time high at 94.84 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.5649
+      },
+      {
+        "title": "Alexanders Inc stock hits 52-week high at 281.74 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.5392
+      },
+      {
         "title": "The USD is mixed and little changed to kickstart the new trading day",
         "source": "ForexLive",
         "label": "bullish",
         "score": 0.5402
-      },
-      {
-        "title": "Gold Price Forecast: XAU/USD stays below 20-day EMA, sees further downside below $3,940",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9511
       }
     ]
   }
