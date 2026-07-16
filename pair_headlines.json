@@ -1,25 +1,23 @@
 {
   "run_id": 1,
   "pairs": {
-    "GBP/USD": [
-      {
-        "title": "GBP/USD Signal: Bearish Divergence Forms Ahead of US PPI Data - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
     "EUR/USD": [
       {
         "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "EUR/USD Price Forecast: Approaches 1.1600 as RSI shifts bullish",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.5365
       }
     ],
-    "AUD/USD": [
+    "GBP/USD": [
       {
-        "title": "AUD/USD Signal: Bearish Flag Forms Ahead of US PPI, Kevin Warsh Testimony - DailyForex",
+        "title": "GBP/USD Signal: Bearish Divergence Forms Ahead of US PPI Data - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -31,20 +29,6 @@
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.5522
-      },
-      {
-        "title": "Asia FX: Softer USD offset by high Oil \u2013 OCBC",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.4869
-      }
-    ],
-    "USD/CHF": [
-      {
-        "title": "USD/CHF Price Forecast: Swissie breaks below rising wedge, bears eye 0.8000",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.6221
       }
     ]
   }
