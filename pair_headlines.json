@@ -15,6 +15,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "EUR/USD extends gains after the soft US inflation data but the focus remains on US-Iran crisis",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.8116
       }
     ],
     "USD/CAD": [
@@ -25,12 +31,18 @@
         "score": -0.8698
       }
     ],
-    "GBP/USD": [
+    "USD/JPY": [
       {
-        "title": "GBP/USD Price Forecast: Dip-buying favored on pullbacks below 1.3500",
+        "title": "The USD is mixed and little changed to kickstart the new trading day",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.5402
+      },
+      {
+        "title": "Gold Price Forecast: XAU/USD stays below 20-day EMA, sees further downside below $3,940",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.8058
+        "score": -0.9511
       }
     ]
   }

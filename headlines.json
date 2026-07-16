@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "MultiBank Group Named Forex Broker of the Year 2026 at Money Expo Abu Dhabi - Yahoo Finance Singapore",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "AUD/USD Forex Signal 16/07: Aussie Rally to Fade - DailyForex",
       "source": "Google News",
       "label": "bearish",
@@ -28,6 +35,13 @@
       ]
     },
     {
+      "title": "Major Forex pairs: Outlook for the end of 2026 - Augusta Free Press",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Loonie Near Monthly Peak as USD/CAD Weakens - TradingPedia",
       "source": "Google News",
       "label": "bearish",
@@ -49,20 +63,6 @@
       "source": "Google News",
       "label": "bearish",
       "score": -0.9423,
-      "currencies": []
-    },
-    {
-      "title": "Forex Forecasts \u2013 Greenback Momentum Tests Key Support and Moving Averages - Yahoo Finance",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Yen options suggest a slide to 165 level before Japan intervenes - The Japan Times",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9183,
       "currencies": []
     },
     {
@@ -94,59 +94,59 @@
       "currencies": []
     },
     {
-      "title": "Stifel cuts Wynn Resorts stock price target on Macau exposure",
+      "title": "Kalshi expands into biotech with clinical trial wagers",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Jefferies downgrades Nutrien stock rating on demand, supply risks",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8442,
-      "currencies": []
-    },
-    {
-      "title": "Wall St futures pause after two-day rally as investors await data, earnings",
+      "title": "Morgan Stanley\u2019s Q2 CIO survey shows these names are winning the race",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "U.S. stock futures steady amid cooling rate hike fears; Iran tensions persist",
+      "title": "Cantor Fitzgerald maintains Neutral on Progressive stock amid weak June data",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7724,
+      "score": -0.929,
       "currencies": []
     },
     {
-      "title": "Pound, euro steady as soft U.S. inflation counters Middle East conflict premium",
+      "title": "Cantor Fitzgerald maintains Neutral on PayPal stock amid bid talks",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.782,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Fujifilm CFO says semiconductor materials demand extremely strong",
+      "title": "Cantor Fitzgerald reiterates DigitalOcean stock rating on debt plan",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9343,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Citi raises South Korea GDP forecast, now sees consecutive rate hikes",
+      "title": "Prologis earnings beat by $0.38, revenue topped estimates",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8333,
+      "score": 0.9465,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Alm. Brand lifts 2026 outlook after strong Q2",
+      "title": "Boeing nears approval of 737 MAX anti-ice fix, paving way for deliveries",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9365,
+      "score": 0.9192,
+      "currencies": []
+    },
+    {
+      "title": "UnitedHealth reassures investors with annual profit forecast raise",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9256,
       "currencies": []
     }
   ],
