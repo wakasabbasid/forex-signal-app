@@ -76,6 +76,13 @@
       "currencies": []
     },
     {
+      "title": "Forex Today: US Dollar extends decline as softer PPI lifts major currencies and Gold - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.946,
+      "currencies": []
+    },
+    {
       "title": "GBP/USD Signal 16/07: Sterling Ahead of UK Leadership Change - DailyForex",
       "source": "Google News",
       "label": "neutral",
@@ -86,66 +93,59 @@
       ]
     },
     {
-      "title": "China's SAFE says FX market stable, resilient amid complex global backdrop - investingLive",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9385,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Acconeer posts record Q2 2026 revenue as shares tumble",
+      "title": "Earnings call transcript: Sweco posts solid Q2 2026 growth as margin improves",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6462,
+      "score": 0.9508,
       "currencies": []
     },
     {
-      "title": "Sweco stock turns positive after Q2 revenue beats estimates",
+      "title": "Goldman sees central bank demand providing a floor for gold prices",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9335,
+      "score": 0.5022,
       "currencies": []
     },
     {
-      "title": "Factbox-US companies face rise in cyber attacks",
+      "title": "European stocks drop on Middle East flare-up; robust earnings limit weekly loss",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9568,
+      "score": -0.9665,
       "currencies": []
     },
     {
-      "title": "Shein secures nod from Hong Kong listing committee for IPO, sources say",
+      "title": "Mizuho raises Tango Therapeutics stock price target on combo data",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Danske Bank falls as much as 3.5% as NII miss tempers profit beat",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9658,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Midsona posts margin gains in Q2 2026 as sales lag",
+      "title": "Mizuho raises Twilio stock price target on strong growth outlook",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9315,
+      "score": 0.936,
       "currencies": []
     },
     {
-      "title": "Lindab Q2 2026 slides: organic growth returns amid margin squeeze",
+      "title": "Fifth Third reports rise in quarterly profit on higher interest income",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8791,
+      "score": 0.9434,
       "currencies": []
     },
     {
-      "title": "Why is Netflix stock sliding today?",
+      "title": "Mizuho raises Boyd Gaming stock price target to $101 on valuation",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Intuitive Surgical falls as Obamacare concerns rekindle medtech demand debate",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9246,
+      "score": -0.9525,
       "currencies": []
     }
   ],
