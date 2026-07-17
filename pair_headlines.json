@@ -13,20 +13,12 @@
         "source": "ForexLive",
         "label": "bullish",
         "score": 0.909
-      }
-    ],
-    "USD/JPY": [
-      {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.6676
       },
       {
-        "title": "The AUDUSD and NZDUSD are moving lower as risk-off/USD buying/technicals.",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.9673
+        "title": "EUR/GBP Price Forecast: RSI flirts with oversold territory as bears defend key resistance",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.4875
       }
     ],
     "EUR/USD": [
@@ -37,10 +29,18 @@
         "score": 0.0
       },
       {
-        "title": "EUR/USD Price Forecast: Sideways trading extends with 1.1480 holding bulls",
+        "title": "EUR/GBP Price Forecast: RSI flirts with oversold territory as bears defend key resistance",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.7601
+        "score": 0.4875
+      }
+    ],
+    "USD/JPY": [
+      {
+        "title": "The AUDUSD and NZDUSD are moving lower as risk-off/USD buying/technicals.",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.9673
       }
     ],
     "AUD/USD": [
@@ -49,14 +49,6 @@
         "source": "ForexLive",
         "label": "bullish",
         "score": 0.909
-      }
-    ],
-    "USD/CAD": [
-      {
-        "title": "Canadian Dollar gains on surging Oil prices, USD/CAD eyes second weekly loss",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.5245
       }
     ]
   }

@@ -22,13 +22,6 @@
       "currencies": []
     },
     {
-      "title": "Rupiah Advances as Capital Inflows Boost Sentiment - TradingPedia",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.939,
-      "currencies": []
-    },
-    {
       "title": "GBP/USD Signal 16/07: Sterling Ahead of UK Leadership Change - DailyForex",
       "source": "Google News",
       "label": "neutral",
@@ -39,10 +32,10 @@
       ]
     },
     {
-      "title": "What forex traders should expect from the US Dollar in Q3 - The Armchair Trader",
+      "title": "Rupiah Advances as Capital Inflows Boost Sentiment - TradingPedia",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.939,
       "currencies": []
     },
     {
@@ -67,13 +60,18 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "title": "Forex Today: US Dollar extends decline as softer PPI lifts major currencies and Gold - FXStreet",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
+      "label": "bearish",
+      "score": -0.946,
+      "currencies": []
+    },
+    {
+      "title": "Rupee back in red! Impact of RBI\u2019s forex boost fades; currency breaches 96 versus dollar on rising crude - The Times of India",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7284,
+      "currencies": []
     },
     {
       "title": "MultiBank Group Named Forex Broker of the Year 2026 at Money Expo Abu Dhabi - Yahoo Finance",
@@ -93,59 +91,59 @@
       ]
     },
     {
-      "title": "Autoliv Q2 2026 slides: record sales, China gains amid margin timing",
+      "title": "As life expectancy rises, talks start on a UN treaty to protect older persons",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9338,
+      "score": 0.8062,
       "currencies": []
     },
     {
-      "title": "South Plains Financial Q2 2026 slides: Houston deal lifts growth",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9395,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Choice Hotels International Inc For: 17 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Truist Q2 2026 presentation: profitability surge, NII outlook cut",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9334,
-      "currencies": []
-    },
-    {
-      "title": "Autoliv Q2\u201926 slides: record cash flow, China gains amid margin timing",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.93,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Federal Bank Q1 2026 profit jumps as shares rally 6.9%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8448,
-      "currencies": []
-    },
-    {
-      "title": "Aston Martin seeks new funding backed by company assets - Bloomberg",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Boule Diagnostics Q2 2026 shares fall on weak sales",
+      "title": "US single-family housing starts fall; building permits lowest in 10 months",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9724,
+      "score": -0.9703,
+      "currencies": []
+    },
+    {
+      "title": "JPMorgan sexual harassment lawsuit dismissed, refiling expected",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "CT Global Managed Portfolio Trust issues 100,000 income shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US regional banks brush off war jitters with lending surge, fee boost",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7543,
+      "currencies": []
+    },
+    {
+      "title": "U.S. Treasury yields fall as rate hike odds decline",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9652,
+      "currencies": []
+    },
+    {
+      "title": "DB cautious on cruise stocks as fundamentals \u201cnot as clear as bulls believe\u201d",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5159,
+      "currencies": []
+    },
+    {
+      "title": "Nolan\u2019s \u2019The Odyssey\u2019 eyes $200M global debut, benefiting IMAX and theater stocks",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.936,
       "currencies": []
     }
   ],
