@@ -8,12 +8,11 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Signal 16/07: Sterling Ahead of UK Leadership Change - DailyForex",
+      "title": "USD/BRL Faces Tariff Shock and Volatile Trading - DailyForex",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9667,
       "currencies": [
-        "GBP",
         "USD"
       ]
     },
@@ -25,10 +24,10 @@
       "currencies": []
     },
     {
-      "title": "Major Forex pairs: Outlook for the end of 2026 - Augusta Free Press",
+      "title": "China's SAFE says FX market stable, resilient amid complex global backdrop - investingLive",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9385,
       "currencies": []
     },
     {
@@ -42,24 +41,10 @@
       ]
     },
     {
-      "title": "US would be unwise to designate China currency manipulators - Forex Factory",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
       "source": "Google News",
       "label": "bullish",
       "score": 0.925,
-      "currencies": []
-    },
-    {
-      "title": "Rupee back in red! Impact of RBI\u2019s forex boost fades; currency breaches 96 versus dollar on rising crude - The Times of India",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7284,
       "currencies": []
     },
     {
@@ -70,11 +55,20 @@
       "currencies": []
     },
     {
-      "title": "FX option expiries for 16 July 10am New York cut - investingLive",
+      "title": "Rupee back in red! Impact of RBI\u2019s forex boost fades; currency breaches 96 versus dollar on rising crude - The Times of India",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.7284,
       "currencies": []
+    },
+    {
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "Forex Today: US Dollar extends decline as softer PPI lifts major currencies and Gold - FXStreet",
@@ -84,69 +78,76 @@
       "currencies": []
     },
     {
-      "title": "Loonie Near Monthly Peak as USD/CAD Weakens - TradingPedia",
+      "title": "GBP/USD Signal 16/07: Sterling Ahead of UK Leadership Change - DailyForex",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.8698,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
-        "USD",
-        "CAD"
+        "GBP",
+        "USD"
       ]
     },
     {
-      "title": "Form 144 GrabAGun Digital Holdings Inc. For: 16 July",
-      "source": "Investing.com",
+      "title": "Forex Forecasts \u2013 Greenback Momentum Tests Key Support and Moving Averages - Yahoo Finance",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Analysis-China bets on faster state-backed projects to shore up growth, avoid broad stimulus",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8962,
-      "currencies": []
-    },
-    {
-      "title": "Brazil readies \u2019tough\u2019 response to new Trump tariffs, sources say",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8214,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Butler National Corp For: 16 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Cohu Inc For: 16 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Butler national director Joseph Daly buys $9,907 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Taco Bell lettuce supplied by Taylor Farms linked to US cyclosporiasis outbreak, Washington Post reports",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Quiet U.S. pullback in Eastern Europe sparks wider allied worries",
+      "title": "Iran launches fresh attacks after sixth day of US strikes",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.752,
+      "score": -0.5534,
+      "currencies": []
+    },
+    {
+      "title": "Exclusive-JERA begins study on US listing as it steps up overseas expansion, sources say",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japan to leave monetary policy tools to BOJ in economic blueprint, document shows",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Oil rises on intensifying US-Iran hostilities, threat of Red Sea closure",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5999,
+      "currencies": []
+    },
+    {
+      "title": "Trump accuses China of 2020 election interference, contradicting U.S. intel",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7988,
+      "currencies": []
+    },
+    {
+      "title": "Yen likely to weaken past 170 before Japan\u2019s growth bet pays off, RSM\u2019s Brusuelas says",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8498,
+      "currencies": []
+    },
+    {
+      "title": "North Korea calls Seoul a \u2019puppet\u2019 for its role in US maritime exercise",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5978,
+      "currencies": []
+    },
+    {
+      "title": "Three things to know about Trump\u2019s election fraud allegations",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

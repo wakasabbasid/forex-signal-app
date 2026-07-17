@@ -1,18 +1,48 @@
 {
   "run_id": 1,
   "pairs": {
-    "GBP/USD": [
+    "USD/JPY": [
       {
-        "title": "GBP/USD Signal 16/07: Sterling Ahead of UK Leadership Change - DailyForex",
+        "title": "USD/BRL Faces Tariff Shock and Volatile Trading - DailyForex",
         "source": "Google News",
+        "label": "bearish",
+        "score": -0.9667
+      },
+      {
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.6676
+      },
+      {
+        "title": "PBOC sets USD/ CNY reference rate for today at 6.7934 (vs. estimate at 6.7734)",
+        "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "GBP/JPY Price Forecast: Retreats from 18-year high, struggles at 220",
+        "title": "EUR/JPY Price Forecast: Remains below ascending triangle top near 186.00",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9686
+        "score": -0.8311
+      },
+      {
+        "title": "Australian Dollar moves away from three-week top as geopolitics and Fed hike bets lift USD",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9245
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD falls to near $55.50 amid interest rate concerns",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9737
+      },
+      {
+        "title": "PBOC sets USD/CNY reference rate at 6.7934 vs. 6.7909 previous",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       },
       {
         "title": "U.S. Dollar Retreats As Producer Prices Drop: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
@@ -29,6 +59,26 @@
         "score": 0.0
       },
       {
+        "title": "EUR/JPY Price Forecast: Remains below ascending triangle top near 186.00",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8311
+      },
+      {
+        "title": "U.S. Dollar Retreats As Producer Prices Drop: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
+        "source": "Yahoo Finance",
+        "label": "bearish",
+        "score": -0.9084
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Signal 16/07: Sterling Ahead of UK Leadership Change - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
         "title": "U.S. Dollar Retreats As Producer Prices Drop: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
         "source": "Yahoo Finance",
         "label": "bearish",
@@ -36,26 +86,6 @@
       }
     ],
     "USD/CAD": [
-      {
-        "title": "Loonie Near Monthly Peak as USD/CAD Weakens - TradingPedia",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.8698
-      },
-      {
-        "title": "U.S. Dollar Retreats As Producer Prices Drop: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
-        "source": "Yahoo Finance",
-        "label": "bearish",
-        "score": -0.9084
-      }
-    ],
-    "USD/JPY": [
-      {
-        "title": "GBP/JPY Price Forecast: Retreats from 18-year high, struggles at 220",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9686
-      },
       {
         "title": "U.S. Dollar Retreats As Producer Prices Drop: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
         "source": "Yahoo Finance",
