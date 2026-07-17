@@ -32,10 +32,10 @@
       ]
     },
     {
-      "title": "FX option expiries for 17 July 10am New York cut - investingLive",
+      "title": "Hungarian Markets Slip, but ING Keeps Bullish Outlook - TradingPedia",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9492,
       "currencies": []
     },
     {
@@ -46,14 +46,14 @@
       "currencies": []
     },
     {
-      "title": "Rupiah Advances as Capital Inflows Boost Sentiment - TradingPedia",
+      "title": "15 Best Forex Pairs to Trade - TMGM trading",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.939,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "15 Best Forex Pairs to Trade - TMGM trading",
+      "title": "FX option expiries for 17 July 10am New York cut - investingLive",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -67,18 +67,14 @@
       "currencies": []
     },
     {
-      "title": "Rupee back in red! Impact of RBI\u2019s forex boost fades; currency breaches 96 versus dollar on rising crude - The Times of India",
+      "title": "USD/CAD & Forex Forecasts \u2013 Rising Oil Prices Threaten to Break US Dollar Uptrend - Yahoo Finance",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.7284,
-      "currencies": []
-    },
-    {
-      "title": "MultiBank Group Named Forex Broker of the Year 2026 at Money Expo Abu Dhabi - Yahoo Finance",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
+      "score": -0.5756,
+      "currencies": [
+        "USD",
+        "CAD"
+      ]
     },
     {
       "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
@@ -91,56 +87,66 @@
       ]
     },
     {
-      "title": "US regional banks brush off war jitters with lending surge, fee boost",
+      "title": "AUD/USD Signal: Aussie Rally to Fade Ahead of US Retail Sales Data - DailyForex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8163,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
+    },
+    {
+      "title": "Form 4 Verizon Communications  For: 17 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 144 Barnes & Noble Education For: 17 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "China set to leave benchmark lending rates unchanged for 14th month in July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US judge won\u2019t block Meta from laying off workers who filed AI discrimination lawsuit",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9411,
+      "currencies": []
+    },
+    {
+      "title": "Oil heads for weekly gain on renewed US-Iran hostilities and threat of Red Sea closure",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7543,
+      "score": 0.557,
       "currencies": []
     },
     {
-      "title": "Zoox recalls self-driving cars because they may not detect smoke",
+      "title": "Green Plains stock jumps 10% on UBS price target hike",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5035,
+      "label": "bullish",
+      "score": 0.872,
       "currencies": []
     },
     {
-      "title": "Form 4 NGL Energy Partners LP For: 17 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Ciena Corp For: 17 July",
+      "title": "Form 4 Pennant Group Inc For: 17 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Top US tax lawyer forced out after White House clash over tax audits",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8813,
-      "currencies": []
-    },
-    {
-      "title": "Meta, Anthropic in talks for potential $10 billion compute lease deal, NYT reports",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Tech selloff weighs on European shares ahead of ECB meeting next week",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9018,
-      "currencies": []
-    },
-    {
-      "title": "Ciena SVP David Rothenstein sells $1.05 million in stock",
+      "title": "Form 4 Ennis Inc For: 17 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

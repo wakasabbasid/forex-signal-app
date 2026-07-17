@@ -9,6 +9,14 @@
         "score": 0.0
       }
     ],
+    "USD/CAD": [
+      {
+        "title": "USD/CAD & Forex Forecasts \u2013 Rising Oil Prices Threaten to Break US Dollar Uptrend - Yahoo Finance",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.5756
+      }
+    ],
     "EUR/USD": [
       {
         "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
@@ -17,12 +25,28 @@
         "score": 0.0
       }
     ],
+    "AUD/USD": [
+      {
+        "title": "AUD/USD Signal: Aussie Rally to Fade Ahead of US Retail Sales Data - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.8163
+      }
+    ],
     "USD/JPY": [
       {
         "title": "The AUDUSD and NZDUSD are moving lower as risk-off/USD buying/technicals.",
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.9673
+      }
+    ],
+    "USD/CHF": [
+      {
+        "title": "USD/CHF Price Forecast: Bulls pause below 0.8150 as momentum fades",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }
