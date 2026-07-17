@@ -13,12 +13,6 @@
         "source": "ForexLive",
         "label": "bullish",
         "score": 0.8015
-      },
-      {
-        "title": "USD/JPY Price Forecast: Trades near 162.50 after breaking above nine-day EMA",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9013
       }
     ],
     "EUR/USD": [
@@ -35,14 +29,28 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "GBP/USD technical analysis for beginners",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
-    "AUD/USD": [
+    "USD/CAD": [
       {
-        "title": "AUD/USD Price Forecast: More upside likely amid stabilization above 20-day EMA",
+        "title": "USD/CAD Price Forecast: More downside likely towards 1.3970",
         "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8373
+        "label": "bearish",
+        "score": -0.8545
+      }
+    ],
+    "USD/CHF": [
+      {
+        "title": "USD/CHF Price Forecast: Rejection at 0.8100 keeps the US Dollar on the back foot",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }

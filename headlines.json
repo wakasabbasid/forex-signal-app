@@ -15,6 +15,20 @@
       "currencies": []
     },
     {
+      "title": "FX option expiries for 17 July 10am New York cut - investingLive",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Rupiah Advances as Capital Inflows Boost Sentiment - TradingPedia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.939,
+      "currencies": []
+    },
+    {
       "title": "USD/BRL Faces Tariff Shock and Volatile Trading - DailyForex",
       "source": "Google News",
       "label": "bearish",
@@ -34,10 +48,10 @@
       ]
     },
     {
-      "title": "China's SAFE says FX market stable, resilient amid complex global backdrop - investingLive",
+      "title": "What forex traders should expect from the US Dollar in Q3 - The Armchair Trader",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.9385,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -62,20 +76,6 @@
       "currencies": []
     },
     {
-      "title": "FCNR scheme could bring $70-80 billion from NRIs to boost India's forex reserves - BusinessLine",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8678,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: US Dollar extends decline as softer PPI lifts major currencies and Gold - FXStreet",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.946,
-      "currencies": []
-    },
-    {
       "title": "GBP/USD Signal 16/07: Sterling Ahead of UK Leadership Change - DailyForex",
       "source": "Google News",
       "label": "neutral",
@@ -86,66 +86,66 @@
       ]
     },
     {
-      "title": "FX option expiries for 17 July 10am New York cut - investingLive",
+      "title": "China's SAFE says FX market stable, resilient amid complex global backdrop - investingLive",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9385,
       "currencies": []
     },
     {
-      "title": "Silver in steep downtrend, RSI at 27: Hourly levels",
+      "title": "Earnings call transcript: Acconeer posts record Q2 2026 revenue as shares tumble",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6462,
+      "currencies": []
+    },
+    {
+      "title": "Sweco stock turns positive after Q2 revenue beats estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9335,
+      "currencies": []
+    },
+    {
+      "title": "Factbox-US companies face rise in cyber attacks",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5592,
+      "score": -0.9568,
       "currencies": []
     },
     {
-      "title": "Oil rises on intensifying US-Iran hostilities, threat of Red Sea closure",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5999,
-      "currencies": []
-    },
-    {
-      "title": "Trump puts election security at center of Republicans\u2019 midterm fight",
+      "title": "Shein secures nod from Hong Kong listing committee for IPO, sources say",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Burberry\u2019s strong US sales offset Iran war impact in Europe",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9486,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Karnell posts record Q2 2026 margin, shares jump 15%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9383,
-      "currencies": []
-    },
-    {
-      "title": "Bitcoin breaks below Ichimoku Cloud: Live bearish levels",
+      "title": "Danske Bank falls as much as 3.5% as NII miss tempers profit beat",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8228,
+      "score": -0.9658,
       "currencies": []
     },
     {
-      "title": "Gold bear flag below $4,087 resistance: Live levels",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Saab order surge lifts Q2 profit as defense demand drives strong sales growth",
+      "title": "Earnings call transcript: Midsona posts margin gains in Q2 2026 as sales lag",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9404,
+      "score": 0.9315,
+      "currencies": []
+    },
+    {
+      "title": "Lindab Q2 2026 slides: organic growth returns amid margin squeeze",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8791,
+      "currencies": []
+    },
+    {
+      "title": "Why is Netflix stock sliding today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9246,
       "currencies": []
     }
   ],
