@@ -1,34 +1,6 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/JPY": [
-      {
-        "title": "USD/BRL Faces Tariff Shock and Volatile Trading - DailyForex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9667
-      },
-      {
-        "title": "USD/JPY extends the consolidation near cycle highs amid US-Iran crisis, stealth interventions risks",
-        "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.8015
-      },
-      {
-        "title": "Gold Price Forecast: XAU/USD hovers below $4,000 with the YTD low at hand",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9565
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
     "GBP/USD": [
       {
         "title": "GBP/USD Signal 16/07: Sterling Ahead of UK Leadership Change - DailyForex",
@@ -37,10 +9,54 @@
         "score": 0.0
       },
       {
-        "title": "GBP/USD technical analysis for beginners",
+        "title": "The USD mixed to start the North American session. USD is strongest vs GBP and AUD.",
         "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.909
+      }
+    ],
+    "USD/JPY": [
+      {
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.6676
+      },
+      {
+        "title": "The AUDUSD and NZDUSD are moving lower as risk-off/USD buying/technicals.",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.9673
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/USD & Nasdaq Forecast: Breakout Scenarios Ahead - FOREX.com",
+        "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "EUR/USD Price Forecast: Sideways trading extends with 1.1480 holding bulls",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.7601
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "The USD mixed to start the North American session. USD is strongest vs GBP and AUD.",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.909
+      }
+    ],
+    "USD/CAD": [
+      {
+        "title": "Canadian Dollar gains on surging Oil prices, USD/CAD eyes second weekly loss",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.5245
       }
     ]
   }

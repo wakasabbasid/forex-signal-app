@@ -1,10 +1,10 @@
 {
   "headlines": [
     {
-      "title": "MultiBank Group Named Forex Broker of the Year 2026 at Money Expo Abu Dhabi - Yahoo Finance",
+      "title": "Aurra Markets Named 'Top Low Spread Forex Broker 2026' at Money Expo Abu Dhabi - Yahoo Finance",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.6655,
       "currencies": []
     },
     {
@@ -15,7 +15,7 @@
       "currencies": []
     },
     {
-      "title": "FX option expiries for 17 July 10am New York cut - investingLive",
+      "title": "EURUSD Forecast Dollar strength keeps euro recovery limited - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -29,26 +29,24 @@
       "currencies": []
     },
     {
-      "title": "USD/BRL Faces Tariff Shock and Volatile Trading - DailyForex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9667,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
+      "title": "GBP/USD Signal 16/07: Sterling Ahead of UK Leadership Change - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
-        "EUR",
+        "GBP",
         "USD"
       ]
     },
     {
       "title": "What forex traders should expect from the US Dollar in Q3 - The Armchair Trader",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "FX option expiries for 17 July 10am New York cut - investingLive",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -69,83 +67,85 @@
       "currencies": []
     },
     {
-      "title": "Rupee back in red! Impact of RBI\u2019s forex boost fades; currency breaches 96 versus dollar on rising crude - The Times of India",
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.7284,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: US Dollar extends decline as softer PPI lifts major currencies and Gold - FXStreet",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.946,
-      "currencies": []
-    },
-    {
-      "title": "GBP/USD Signal 16/07: Sterling Ahead of UK Leadership Change - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.6676,
       "currencies": [
-        "GBP",
         "USD"
       ]
     },
     {
-      "title": "Earnings call transcript: Sweco posts solid Q2 2026 growth as margin improves",
+      "title": "MultiBank Group Named Forex Broker of the Year 2026 at Money Expo Abu Dhabi - Yahoo Finance",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "EUR/USD & Nasdaq Forecast: Breakout Scenarios Ahead - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "Autoliv Q2 2026 slides: record sales, China gains amid margin timing",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9508,
+      "score": 0.9338,
       "currencies": []
     },
     {
-      "title": "Goldman sees central bank demand providing a floor for gold prices",
+      "title": "South Plains Financial Q2 2026 slides: Houston deal lifts growth",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5022,
+      "score": 0.9395,
       "currencies": []
     },
     {
-      "title": "European stocks drop on Middle East flare-up; robust earnings limit weekly loss",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9665,
-      "currencies": []
-    },
-    {
-      "title": "Mizuho raises Tango Therapeutics stock price target on combo data",
+      "title": "Form 4 Choice Hotels International Inc For: 17 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Mizuho raises Twilio stock price target on strong growth outlook",
+      "title": "Truist Q2 2026 presentation: profitability surge, NII outlook cut",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.936,
+      "score": 0.9334,
       "currencies": []
     },
     {
-      "title": "Fifth Third reports rise in quarterly profit on higher interest income",
+      "title": "Autoliv Q2\u201926 slides: record cash flow, China gains amid margin timing",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9434,
+      "score": 0.93,
       "currencies": []
     },
     {
-      "title": "Mizuho raises Boyd Gaming stock price target to $101 on valuation",
+      "title": "Earnings call transcript: Federal Bank Q1 2026 profit jumps as shares rally 6.9%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8448,
+      "currencies": []
+    },
+    {
+      "title": "Aston Martin seeks new funding backed by company assets - Bloomberg",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Intuitive Surgical falls as Obamacare concerns rekindle medtech demand debate",
+      "title": "Earnings call transcript: Boule Diagnostics Q2 2026 shares fall on weak sales",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9525,
+      "score": -0.9724,
       "currencies": []
     }
   ],
