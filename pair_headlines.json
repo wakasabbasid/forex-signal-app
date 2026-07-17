@@ -9,46 +9,16 @@
         "score": -0.9667
       },
       {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.6676
-      },
-      {
-        "title": "PBOC sets USD/ CNY reference rate for today at 6.7934 (vs. estimate at 6.7734)",
+        "title": "USD/JPY extends the consolidation near cycle highs amid US-Iran crisis, stealth interventions risks",
         "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bullish",
+        "score": 0.8015
       },
       {
-        "title": "EUR/JPY Price Forecast: Remains below ascending triangle top near 186.00",
+        "title": "USD/JPY Price Forecast: Trades near 162.50 after breaking above nine-day EMA",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8311
-      },
-      {
-        "title": "Australian Dollar moves away from three-week top as geopolitics and Fed hike bets lift USD",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9245
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD falls to near $55.50 amid interest rate concerns",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9737
-      },
-      {
-        "title": "PBOC sets USD/CNY reference rate at 6.7934 vs. 6.7909 previous",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "U.S. Dollar Retreats As Producer Prices Drop: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
-        "source": "Yahoo Finance",
-        "label": "bearish",
-        "score": -0.9084
+        "label": "bullish",
+        "score": 0.9013
       }
     ],
     "EUR/USD": [
@@ -57,18 +27,6 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Remains below ascending triangle top near 186.00",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8311
-      },
-      {
-        "title": "U.S. Dollar Retreats As Producer Prices Drop: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
-        "source": "Yahoo Finance",
-        "label": "bearish",
-        "score": -0.9084
       }
     ],
     "GBP/USD": [
@@ -77,20 +35,14 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "U.S. Dollar Retreats As Producer Prices Drop: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
-        "source": "Yahoo Finance",
-        "label": "bearish",
-        "score": -0.9084
       }
     ],
-    "USD/CAD": [
+    "AUD/USD": [
       {
-        "title": "U.S. Dollar Retreats As Producer Prices Drop: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
-        "source": "Yahoo Finance",
-        "label": "bearish",
-        "score": -0.9084
+        "title": "AUD/USD Price Forecast: More upside likely amid stabilization above 20-day EMA",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8373
       }
     ]
   }

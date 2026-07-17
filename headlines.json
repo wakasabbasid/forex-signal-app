@@ -8,15 +8,6 @@
       "currencies": []
     },
     {
-      "title": "USD/BRL Faces Tariff Shock and Volatile Trading - DailyForex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9667,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
       "title": "Traveling Abroad? Order Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
@@ -24,11 +15,13 @@
       "currencies": []
     },
     {
-      "title": "China's SAFE says FX market stable, resilient amid complex global backdrop - investingLive",
+      "title": "USD/BRL Faces Tariff Shock and Volatile Trading - DailyForex",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.9385,
-      "currencies": []
+      "label": "bearish",
+      "score": -0.9667,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
@@ -39,6 +32,13 @@
         "EUR",
         "USD"
       ]
+    },
+    {
+      "title": "China's SAFE says FX market stable, resilient amid complex global backdrop - investingLive",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9385,
+      "currencies": []
     },
     {
       "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
@@ -62,13 +62,11 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "title": "FCNR scheme could bring $70-80 billion from NRIs to boost India's forex reserves - BusinessLine",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
+      "score": 0.8678,
+      "currencies": []
     },
     {
       "title": "Forex Today: US Dollar extends decline as softer PPI lifts major currencies and Gold - FXStreet",
@@ -88,31 +86,17 @@
       ]
     },
     {
-      "title": "Forex Forecasts \u2013 Greenback Momentum Tests Key Support and Moving Averages - Yahoo Finance",
+      "title": "FX option expiries for 17 July 10am New York cut - investingLive",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Iran launches fresh attacks after sixth day of US strikes",
+      "title": "Silver in steep downtrend, RSI at 27: Hourly levels",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5534,
-      "currencies": []
-    },
-    {
-      "title": "Exclusive-JERA begins study on US listing as it steps up overseas expansion, sources say",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan to leave monetary policy tools to BOJ in economic blueprint, document shows",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "score": -0.5592,
       "currencies": []
     },
     {
@@ -123,31 +107,45 @@
       "currencies": []
     },
     {
-      "title": "Trump accuses China of 2020 election interference, contradicting U.S. intel",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7988,
-      "currencies": []
-    },
-    {
-      "title": "Yen likely to weaken past 170 before Japan\u2019s growth bet pays off, RSM\u2019s Brusuelas says",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8498,
-      "currencies": []
-    },
-    {
-      "title": "North Korea calls Seoul a \u2019puppet\u2019 for its role in US maritime exercise",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5978,
-      "currencies": []
-    },
-    {
-      "title": "Three things to know about Trump\u2019s election fraud allegations",
+      "title": "Trump puts election security at center of Republicans\u2019 midterm fight",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Burberry\u2019s strong US sales offset Iran war impact in Europe",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9486,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Karnell posts record Q2 2026 margin, shares jump 15%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9383,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin breaks below Ichimoku Cloud: Live bearish levels",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8228,
+      "currencies": []
+    },
+    {
+      "title": "Gold bear flag below $4,087 resistance: Live levels",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Saab order surge lifts Q2 profit as defense demand drives strong sales growth",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9404,
       "currencies": []
     }
   ],
