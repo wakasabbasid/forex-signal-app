@@ -7,32 +7,14 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "The USD mixed to start the North American session. USD is strongest vs GBP and AUD.",
-        "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.909
-      },
-      {
-        "title": "EUR/GBP Price Forecast: RSI flirts with oversold territory as bears defend key resistance",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.4875
       }
     ],
     "EUR/USD": [
       {
-        "title": "EUR/USD & Nasdaq Forecast: Breakout Scenarios Ahead - FOREX.com",
+        "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "EUR/GBP Price Forecast: RSI flirts with oversold territory as bears defend key resistance",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.4875
       }
     ],
     "USD/JPY": [
@@ -41,14 +23,6 @@
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.9673
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "The USD mixed to start the North American session. USD is strongest vs GBP and AUD.",
-        "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.909
       }
     ]
   }

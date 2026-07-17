@@ -32,13 +32,6 @@
       ]
     },
     {
-      "title": "Rupiah Advances as Capital Inflows Boost Sentiment - TradingPedia",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.939,
-      "currencies": []
-    },
-    {
       "title": "FX option expiries for 17 July 10am New York cut - investingLive",
       "source": "Google News",
       "label": "neutral",
@@ -50,6 +43,13 @@
       "source": "Google News",
       "label": "bullish",
       "score": 0.925,
+      "currencies": []
+    },
+    {
+      "title": "Rupiah Advances as Capital Inflows Boost Sentiment - TradingPedia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.939,
       "currencies": []
     },
     {
@@ -81,7 +81,7 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD & Nasdaq Forecast: Breakout Scenarios Ahead - FOREX.com",
+      "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -91,34 +91,6 @@
       ]
     },
     {
-      "title": "As life expectancy rises, talks start on a UN treaty to protect older persons",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8062,
-      "currencies": []
-    },
-    {
-      "title": "US single-family housing starts fall; building permits lowest in 10 months",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9703,
-      "currencies": []
-    },
-    {
-      "title": "JPMorgan sexual harassment lawsuit dismissed, refiling expected",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "CT Global Managed Portfolio Trust issues 100,000 income shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "US regional banks brush off war jitters with lending surge, fee boost",
       "source": "Investing.com",
       "label": "bullish",
@@ -126,24 +98,52 @@
       "currencies": []
     },
     {
-      "title": "U.S. Treasury yields fall as rate hike odds decline",
+      "title": "Zoox recalls self-driving cars because they may not detect smoke",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9652,
+      "score": -0.5035,
       "currencies": []
     },
     {
-      "title": "DB cautious on cruise stocks as fundamentals \u201cnot as clear as bulls believe\u201d",
+      "title": "Form 4 NGL Energy Partners LP For: 17 July",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5159,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Nolan\u2019s \u2019The Odyssey\u2019 eyes $200M global debut, benefiting IMAX and theater stocks",
+      "title": "Form 4 Ciena Corp For: 17 July",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.936,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Top US tax lawyer forced out after White House clash over tax audits",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8813,
+      "currencies": []
+    },
+    {
+      "title": "Meta, Anthropic in talks for potential $10 billion compute lease deal, NYT reports",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Tech selloff weighs on European shares ahead of ECB meeting next week",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9018,
+      "currencies": []
+    },
+    {
+      "title": "Ciena SVP David Rothenstein sells $1.05 million in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
