@@ -23,20 +23,26 @@
         "score": 0.0
       }
     ],
+    "USD/JPY": [
+      {
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.6676
+      },
+      {
+        "title": "Japanese Yen: Verbal intervention fails to move JPY against US Dollar \u2013 Scotiabank",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8849
+      }
+    ],
     "USD/CAD": [
       {
         "title": "USD/CAD & Forex Forecasts \u2013 Rising Oil Prices Threaten to Break US Dollar Uptrend - Yahoo Finance",
         "source": "Google News",
         "label": "bearish",
         "score": -0.5756
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "AUD/USD Signal: Aussie Rally to Fade Ahead of US Retail Sales Data - DailyForex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.8163
       }
     ],
     "USD/CHF": [

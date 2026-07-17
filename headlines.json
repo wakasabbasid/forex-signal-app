@@ -49,6 +49,22 @@
       "currencies": []
     },
     {
+      "title": "Dollar set for weekly loss as softer U.S. inflation tempers Fed hike bets - Investing.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8992,
+      "currencies": []
+    },
+    {
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "Forex Today: US Dollar extends decline as softer PPI lifts major currencies and Gold - FXStreet",
       "source": "Google News",
       "label": "bearish",
@@ -60,13 +76,6 @@
       "source": "Google News",
       "label": "bearish",
       "score": -0.7284,
-      "currencies": []
-    },
-    {
-      "title": "There is a roadmap for the dollar if the Fed tightens money supply - investingLive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -90,66 +99,56 @@
       ]
     },
     {
-      "title": "AUD/USD Signal: Aussie Rally to Fade Ahead of US Retail Sales Data - DailyForex",
-      "source": "Google News",
+      "title": "Alphabet, Intel results in focus for AI trade as US earnings rev up",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8077,
+      "currencies": []
+    },
+    {
+      "title": "US and Iran attack infrastructure, raising fears of escalation",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8163,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
+      "score": -0.8895,
+      "currencies": []
     },
     {
-      "title": "Jensen Huang\u2019s key statements shaping NVIDIA\u2019s AI narrative",
+      "title": "Cadence design systems Sr. VP Paul Cunningham sells $766k in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 Colony Bankcorp Inc For: 17 July",
+      "title": "Williams Sonoma CEO Laura Alber sells $7.7m in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 Copart Inc For: 17 July",
+      "title": "Form 144 ECOVYST INC. For: 17 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 Paramount Skydance Corp For: 17 July",
+      "title": "Form 4 Republic Services Inc For: 17 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 Microvision Inc For: 17 July",
+      "title": "Form 4 Veralto Corp For: 17 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 144 Paychex INC For: 17 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 144 DAKTRONICS For: 17 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Alexandria Real Estate Equities For: 17 July",
+      "title": "DBGI announces 1-for-40 reverse stock split effective July 24",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
