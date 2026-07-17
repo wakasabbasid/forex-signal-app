@@ -77,6 +77,13 @@
       "currencies": []
     },
     {
+      "title": "Forex Today: US Dollar extends decline as softer PPI lifts major currencies and Gold - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.946,
+      "currencies": []
+    },
+    {
       "title": "Loonie Near Monthly Peak as USD/CAD Weakens - TradingPedia",
       "source": "Google News",
       "label": "bearish",
@@ -87,69 +94,59 @@
       ]
     },
     {
-      "title": "AUD/USD Signal: Aussie Rally to Fade Ahead of US Retail Sales Data - DailyForex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8163,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
-    },
-    {
-      "title": "Form 4 Acres Commercial Realty Corp For: 16 July",
+      "title": "Form 144 GrabAGun Digital Holdings Inc. For: 16 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Judge rules US government\u2019s 2024 phone searches of Palestinian American violated his rights",
+      "title": "Analysis-China bets on faster state-backed projects to shore up growth, avoid broad stimulus",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6233,
+      "label": "bullish",
+      "score": 0.8962,
       "currencies": []
     },
     {
-      "title": "Eagle Point sells $33,025 in Acres Commercial Realty preferred stock",
+      "title": "Brazil readies \u2019tough\u2019 response to new Trump tariffs, sources say",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.8214,
       "currencies": []
     },
     {
-      "title": "Form 144 Lovesac Co For: 16 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Exclusive-PayPal board sees Stripe-Advent offer as inadequate, sources say",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9363,
-      "currencies": []
-    },
-    {
-      "title": "Credit Suisse High Yield Credit Fund to rebrand as UBS fund",
+      "title": "Form 4 Butler National Corp For: 16 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Netflix earnings forecast disappoints Wall Street, shares tumble",
+      "title": "Form 4 Cohu Inc For: 16 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Butler national director Joseph Daly buys $9,907 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Taco Bell lettuce supplied by Taylor Farms linked to US cyclosporiasis outbreak, Washington Post reports",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Quiet U.S. pullback in Eastern Europe sparks wider allied worries",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9587,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Pfizer  For: 16 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "score": -0.752,
       "currencies": []
     }
   ],

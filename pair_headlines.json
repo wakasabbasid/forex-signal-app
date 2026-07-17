@@ -13,6 +13,12 @@
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.9686
+      },
+      {
+        "title": "U.S. Dollar Retreats As Producer Prices Drop: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
+        "source": "Yahoo Finance",
+        "label": "bearish",
+        "score": -0.9084
       }
     ],
     "EUR/USD": [
@@ -21,6 +27,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "U.S. Dollar Retreats As Producer Prices Drop: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
+        "source": "Yahoo Finance",
+        "label": "bearish",
+        "score": -0.9084
       }
     ],
     "USD/CAD": [
@@ -29,14 +41,12 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.8698
-      }
-    ],
-    "AUD/USD": [
+      },
       {
-        "title": "AUD/USD Signal: Aussie Rally to Fade Ahead of US Retail Sales Data - DailyForex",
-        "source": "Google News",
+        "title": "U.S. Dollar Retreats As Producer Prices Drop: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
+        "source": "Yahoo Finance",
         "label": "bearish",
-        "score": -0.8163
+        "score": -0.9084
       }
     ],
     "USD/JPY": [
@@ -47,18 +57,10 @@
         "score": -0.9686
       },
       {
-        "title": "Silver Price Forecast: XAG/USD tests the $55 floor as sellers retain control",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.7787
-      }
-    ],
-    "USD/CHF": [
-      {
-        "title": "USD/CHF Price Forecast: Swissie rebounds at 0.8042 support",
-        "source": "FXStreet",
+        "title": "U.S. Dollar Retreats As Producer Prices Drop: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
+        "source": "Yahoo Finance",
         "label": "bearish",
-        "score": -0.8039
+        "score": -0.9084
       }
     ]
   }
