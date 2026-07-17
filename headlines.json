@@ -15,11 +15,14 @@
       "currencies": []
     },
     {
-      "title": "EURUSD Forecast Dollar strength keeps euro recovery limited - FOREX.com",
+      "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
     },
     {
       "title": "GBP/USD Signal 16/07: Sterling Ahead of UK Leadership Change - DailyForex",
@@ -32,28 +35,14 @@
       ]
     },
     {
-      "title": "Hungarian Markets Slip, but ING Keeps Bullish Outlook - TradingPedia",
+      "title": "Dollar firms as US-Iran tensions renew oil price risk - Reuters",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9492,
-      "currencies": []
-    },
-    {
-      "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.925,
+      "score": -0.7183,
       "currencies": []
     },
     {
       "title": "15 Best Forex Pairs to Trade - TMGM trading",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "FX option expiries for 17 July 10am New York cut - investingLive",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -67,6 +56,20 @@
       "currencies": []
     },
     {
+      "title": "Rupee back in red! Impact of RBI\u2019s forex boost fades; currency breaches 96 versus dollar on rising crude - The Times of India",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7284,
+      "currencies": []
+    },
+    {
+      "title": "There is a roadmap for the dollar if the Fed tightens money supply - investingLive",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "USD/CAD & Forex Forecasts \u2013 Rising Oil Prices Threaten to Break US Dollar Uptrend - Yahoo Finance",
       "source": "Google News",
       "label": "bearish",
@@ -77,7 +80,7 @@
       ]
     },
     {
-      "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
+      "title": "EUR/USD & Nasdaq Forecast: Breakout Scenarios Ahead - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -97,56 +100,56 @@
       ]
     },
     {
-      "title": "Form 4 Verizon Communications  For: 17 July",
+      "title": "Jensen Huang\u2019s key statements shaping NVIDIA\u2019s AI narrative",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 144 Barnes & Noble Education For: 17 July",
+      "title": "Form 4 Colony Bankcorp Inc For: 17 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "China set to leave benchmark lending rates unchanged for 14th month in July",
+      "title": "Form 4 Copart Inc For: 17 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US judge won\u2019t block Meta from laying off workers who filed AI discrimination lawsuit",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9411,
-      "currencies": []
-    },
-    {
-      "title": "Oil heads for weekly gain on renewed US-Iran hostilities and threat of Red Sea closure",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.557,
-      "currencies": []
-    },
-    {
-      "title": "Green Plains stock jumps 10% on UBS price target hike",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.872,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Pennant Group Inc For: 17 July",
+      "title": "Form 4 Paramount Skydance Corp For: 17 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 Ennis Inc For: 17 July",
+      "title": "Form 4 Microvision Inc For: 17 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 144 Paychex INC For: 17 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 144 DAKTRONICS For: 17 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Alexandria Real Estate Equities For: 17 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
