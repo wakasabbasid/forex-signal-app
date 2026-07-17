@@ -15,16 +15,6 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
       "title": "GBP/USD Signal 16/07: Sterling Ahead of UK Leadership Change - DailyForex",
       "source": "Google News",
       "label": "neutral",
@@ -35,10 +25,20 @@
       ]
     },
     {
-      "title": "Dollar firms as US-Iran tensions renew oil price risk - Reuters",
+      "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.7183,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.925,
       "currencies": []
     },
     {
@@ -47,22 +47,6 @@
       "label": "neutral",
       "score": 0.0,
       "currencies": []
-    },
-    {
-      "title": "Dollar set for weekly loss as softer U.S. inflation tempers Fed hike bets - Investing.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8992,
-      "currencies": []
-    },
-    {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
     },
     {
       "title": "Forex Today: US Dollar extends decline as softer PPI lifts major currencies and Gold - FXStreet",
@@ -77,6 +61,15 @@
       "label": "bearish",
       "score": -0.7284,
       "currencies": []
+    },
+    {
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "USD/CAD & Forex Forecasts \u2013 Rising Oil Prices Threaten to Break US Dollar Uptrend - Yahoo Finance",
@@ -99,56 +92,66 @@
       ]
     },
     {
-      "title": "Alphabet, Intel results in focus for AI trade as US earnings rev up",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8077,
-      "currencies": []
-    },
-    {
-      "title": "US and Iran attack infrastructure, raising fears of escalation",
-      "source": "Investing.com",
+      "title": "AUD/USD Signal: Aussie Rally to Fade Ahead of US Retail Sales Data - DailyForex",
+      "source": "Google News",
       "label": "bearish",
-      "score": -0.8895,
-      "currencies": []
+      "score": -0.8163,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
     },
     {
-      "title": "Cadence design systems Sr. VP Paul Cunningham sells $766k in stock",
+      "title": "Form 144 Toppoint Holdings Inc. For: 17 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Williams Sonoma CEO Laura Alber sells $7.7m in stock",
+      "title": "Federal employees can download TikTok on government devices, DOJ says",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 144 ECOVYST INC. For: 17 July",
+      "title": "Is AI now the main driver of China\u2019s growth?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 Republic Services Inc For: 17 July",
+      "title": "Form 4 Remitly Global Inc For: 17 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 Veralto Corp For: 17 July",
+      "title": "Form 4 Exponent Inc For: 17 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "DBGI announces 1-for-40 reverse stock split effective July 24",
+      "title": "Form 4 Adaptive Biotechnologies Corp For: 17 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Remitly global director Joshua Hug sells $17.2 million of common stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Exponent CEO Corrigan sells $109,044 in EXPO common stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
