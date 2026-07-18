@@ -7,12 +7,6 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "U.S. Dollar Moves Higher As Retail Sales Meet Estimates: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
-        "source": "Yahoo Finance",
-        "label": "bullish",
-        "score": 0.937
       }
     ],
     "EUR/USD": [
@@ -21,18 +15,6 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "EUR/USD & Nasdaq Forecast: Breakout Scenarios Ahead - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "U.S. Dollar Moves Higher As Retail Sales Meet Estimates: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
-        "source": "Yahoo Finance",
-        "label": "bullish",
-        "score": 0.937
       }
     ],
     "USD/JPY": [
@@ -47,12 +29,6 @@
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.8849
-      },
-      {
-        "title": "U.S. Dollar Moves Higher As Retail Sales Meet Estimates: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
-        "source": "Yahoo Finance",
-        "label": "bullish",
-        "score": 0.937
       }
     ],
     "USD/CAD": [
@@ -61,20 +37,6 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.5756
-      },
-      {
-        "title": "U.S. Dollar Moves Higher As Retail Sales Meet Estimates: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
-        "source": "Yahoo Finance",
-        "label": "bullish",
-        "score": 0.937
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "AUD/USD Signal: Aussie Rally to Fade Ahead of US Retail Sales Data - DailyForex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.8163
       }
     ],
     "USD/CHF": [

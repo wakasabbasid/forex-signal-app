@@ -35,10 +35,10 @@
       ]
     },
     {
-      "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
+      "title": "Malayalis in Gulf lead the way as forex deposit scheme strikes chord - The New Indian Express",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.925,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -47,6 +47,22 @@
       "label": "neutral",
       "score": 0.0,
       "currencies": []
+    },
+    {
+      "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.925,
+      "currencies": []
+    },
+    {
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "Forex Today: US Dollar extends decline as softer PPI lifts major currencies and Gold - FXStreet",
@@ -63,13 +79,11 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "title": "Hungarian Markets Slip, but ING Keeps Bullish Outlook - TradingPedia",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
+      "label": "bearish",
+      "score": -0.9492,
+      "currencies": []
     },
     {
       "title": "USD/CAD & Forex Forecasts \u2013 Rising Oil Prices Threaten to Break US Dollar Uptrend - Yahoo Finance",
@@ -82,76 +96,56 @@
       ]
     },
     {
-      "title": "EUR/USD & Nasdaq Forecast: Breakout Scenarios Ahead - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
+      "title": "US military says it completed latest strikes on Iran, marking 7th consecutive night of attacks",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7464,
+      "currencies": []
     },
     {
-      "title": "AUD/USD Signal: Aussie Rally to Fade Ahead of US Retail Sales Data - DailyForex",
-      "source": "Google News",
+      "title": "US widens Iran strikes as Tehran targets Gulf bases, Hormuz traffic falls",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Prosecutors file attempted aggravated murder charges in stabbing of Muslim man in Utah",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8163,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
+      "score": -0.8328,
+      "currencies": []
     },
     {
-      "title": "Form 144 Toppoint Holdings Inc. For: 17 July",
+      "title": "Who pays for Electrification and Artificial Intelligence?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Federal employees can download TikTok on government devices, DOJ says",
+      "title": "GEO Group worker arrested in shooting of protester at Colorado ICE facility",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8456,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 BJs Restaurants Inc For: 17 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Is AI now the main driver of China\u2019s growth?",
+      "title": "Form 4 MannKind Corp For: 17 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 Remitly Global Inc For: 17 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Exponent Inc For: 17 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Adaptive Biotechnologies Corp For: 17 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Remitly global director Joshua Hug sells $17.2 million of common stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Exponent CEO Corrigan sells $109,044 in EXPO common stock",
+      "title": "Form 4 MapLight Therapeutics Inc For: 17 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
