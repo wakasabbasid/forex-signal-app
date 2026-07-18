@@ -42,13 +42,6 @@
       ]
     },
     {
-      "title": "15 Best Forex Pairs to Trade - TMGM trading",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
       "source": "Google News",
       "label": "bullish",
@@ -96,6 +89,34 @@
       ]
     },
     {
+      "title": "AFRICA-FX-Currencies expected to be steady or under mild pressure - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6623,
+      "currencies": []
+    },
+    {
+      "title": "US says two military personnel killed by Iranian attack in Jordan",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.861,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin recovers toward $65k after sliding on AI shock, crypto bill doubts",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.915,
+      "currencies": []
+    },
+    {
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9603,
+      "currencies": []
+    },
+    {
       "title": "What\u2019s next for the ECB? Key expectations for next week",
       "source": "Investing.com",
       "label": "neutral",
@@ -117,13 +138,6 @@
       "currencies": []
     },
     {
-      "title": "US says two military personnel killed in Jordan",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8829,
-      "currencies": []
-    },
-    {
       "title": "Goldman lists 3 non-AI investment themes",
       "source": "Investing.com",
       "label": "neutral",
@@ -135,20 +149,6 @@
       "source": "Investing.com",
       "label": "bullish",
       "score": 0.5344,
-      "currencies": []
-    },
-    {
-      "title": "Two US service members killed in Jordan as Iran steps up attacks",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7894,
-      "currencies": []
-    },
-    {
-      "title": "Hungary\u2019s president signs law change ending his term in office",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5543,
       "currencies": []
     }
   ],
