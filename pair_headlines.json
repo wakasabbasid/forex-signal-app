@@ -7,6 +7,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "Goldman Sachs recommends shorting GBP/USD on rally concerns",
+        "source": "Investing.com",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "EUR/USD": [
