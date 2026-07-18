@@ -15,6 +15,13 @@
       "currencies": []
     },
     {
+      "title": "Chinese Exporters Pile Into Currency Hedges as Yuan Volatility Rises - Caixin Global",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6721,
+      "currencies": []
+    },
+    {
       "title": "GBP/USD Signal 16/07: Sterling Ahead of UK Leadership Change - DailyForex",
       "source": "Google News",
       "label": "neutral",
@@ -42,13 +49,6 @@
       "currencies": []
     },
     {
-      "title": "15 Best Forex Pairs to Trade - TMGM trading",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -56,13 +56,11 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "title": "15 Best Forex Pairs to Trade - TMGM trading",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "Forex Today: US Dollar extends decline as softer PPI lifts major currencies and Gold - FXStreet",
@@ -79,76 +77,75 @@
       "currencies": []
     },
     {
-      "title": "Hungarian Markets Slip, but ING Keeps Bullish Outlook - TradingPedia",
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9492,
+      "label": "bullish",
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "MultiBank Group Named Forex Broker of the Year 2026 at Money Expo Abu Dhabi - Yahoo Finance",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "USD/CAD & Forex Forecasts \u2013 Rising Oil Prices Threaten to Break US Dollar Uptrend - Yahoo Finance",
-      "source": "Google News",
+      "title": "Iran attacks Gulf infrastructure as US widens strikes, Hormuz tensions rise",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5756,
-      "currencies": [
-        "USD",
-        "CAD"
-      ]
+      "score": -0.8046,
+      "currencies": []
+    },
+    {
+      "title": "Trump says China obtained 220 million US voter files ahead of 2020 election",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Soccer-Trump back in World Cup spotlight after starring role in tournament\u2019s controversies",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.4981,
+      "currencies": []
+    },
+    {
+      "title": "CXMT IPO: Here\u2019s everything you need to know",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Trump blames Canada for wildfire smoke, says he will add cost to tariffs",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Iran renews attacks on Gulf states after another night of US strikes",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8441,
+      "currencies": []
+    },
+    {
+      "title": "Etched seeks $20 billion valuation in new AI chip funding round - WSJ reports",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "US military says it completed latest strikes on Iran, marking 7th consecutive night of attacks",
       "source": "Investing.com",
       "label": "bullish",
       "score": 0.7464,
-      "currencies": []
-    },
-    {
-      "title": "US widens Iran strikes as Tehran targets Gulf bases, Hormuz traffic falls",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Prosecutors file attempted aggravated murder charges in stabbing of Muslim man in Utah",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8328,
-      "currencies": []
-    },
-    {
-      "title": "Who pays for Electrification and Artificial Intelligence?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "GEO Group worker arrested in shooting of protester at Colorado ICE facility",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8456,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 BJs Restaurants Inc For: 17 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 MannKind Corp For: 17 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 MapLight Therapeutics Inc For: 17 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     }
   ],

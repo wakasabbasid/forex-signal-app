@@ -3,16 +3,10 @@
     {
       "id": 1,
       "engine": "finbert",
-      "headline_count": 69,
+      "headline_count": 70,
       "source_count": 6,
-      "created_at": "2026-07-18T04:07:58.899894+00:00",
+      "created_at": "2026-07-18T07:04:54.420100+00:00",
       "signals": [
-        {
-          "pair": "USD/CAD",
-          "signal": "SELL",
-          "avg_score": -0.5756,
-          "headline_count": 1
-        },
         {
           "pair": "USD/JPY",
           "signal": "HOLD",
