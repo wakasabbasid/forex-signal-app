@@ -15,12 +15,6 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
       }
     ],
     "USD/JPY": [
@@ -35,6 +29,14 @@
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.8849
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "AUD/USD Signal: Aussie Rally to Fade Ahead of US Retail Sales Data - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.8163
       }
     ],
     "USD/CHF": [

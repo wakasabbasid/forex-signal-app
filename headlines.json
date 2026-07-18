@@ -25,6 +25,13 @@
       ]
     },
     {
+      "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.925,
+      "currencies": []
+    },
+    {
       "title": "EUR/USD & Nasdaq Forecast: Breakout Scenarios Ahead - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -33,13 +40,6 @@
         "EUR",
         "USD"
       ]
-    },
-    {
-      "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.925,
-      "currencies": []
     },
     {
       "title": "15 Best Forex Pairs to Trade - TMGM trading",
@@ -86,14 +86,28 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
+      "title": "AUD/USD Signal: Aussie Rally to Fade Ahead of US Retail Sales Data - DailyForex",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.8163,
       "currencies": [
-        "EUR",
+        "AUD",
         "USD"
       ]
+    },
+    {
+      "title": "What\u2019s next for the ECB? Key expectations for next week",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US data center protests go national as backlash grows",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8991,
+      "currencies": []
     },
     {
       "title": "Bitcoin squeezes below $65,556 resistance: Live levels",
@@ -135,20 +149,6 @@
       "source": "Investing.com",
       "label": "bearish",
       "score": -0.5543,
-      "currencies": []
-    },
-    {
-      "title": "Two US service members in Jordan killed in Iranian attack, US says",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7925,
-      "currencies": []
-    },
-    {
-      "title": "Ontario premier says Trump\u2019s criticism of Canada\u2019s efforts to stop wildfires is \u2019absolutely unacceptable\u2019",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8791,
       "currencies": []
     }
   ],
