@@ -7,23 +7,17 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "Goldman Sachs recommends shorting GBP/USD on rally concerns",
-        "source": "Investing.com",
-        "label": "neutral",
-        "score": 0.0
       }
     ],
     "EUR/USD": [
       {
-        "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
+        "title": "EUR/USD & Nasdaq Forecast: Breakout Scenarios Ahead - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "EUR/USD & Nasdaq Forecast: Breakout Scenarios Ahead - FOREX.com",
+        "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0

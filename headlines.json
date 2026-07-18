@@ -25,7 +25,7 @@
       ]
     },
     {
-      "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
+      "title": "EUR/USD & Nasdaq Forecast: Breakout Scenarios Ahead - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -49,17 +49,17 @@
       "currencies": []
     },
     {
-      "title": "FX option expiries for 17 July 10am New York cut - investingLive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Chinese Exporters Pile Into Currency Hedges as Yuan Volatility Rises - Caixin Global",
       "source": "Google News",
       "label": "bearish",
       "score": -0.6721,
+      "currencies": []
+    },
+    {
+      "title": "FX option expiries for 17 July 10am New York cut - investingLive",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -84,7 +84,7 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD & Nasdaq Forecast: Breakout Scenarios Ahead - FOREX.com",
+      "title": "EUR/USD Forecast Weighed by Crude Oil, Dollar Upsurge - Currency Pair of The Week - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -94,31 +94,17 @@
       ]
     },
     {
-      "title": "Has Europe quietly taken the lead in the earnings race? Barclays weighs in",
+      "title": "Mexico ministries investigate cyclospora linked to Mexican farm",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Axis Bank Q1 2026 profit rises as margins tighten",
+      "title": "US Representative Ralph Norman to run for Senate in South Carolina following Lindsey Graham\u2019s death",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9347,
-      "currencies": []
-    },
-    {
-      "title": "GEO Group worker arrested in shooting of protester at Colorado ICE facility",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8456,
-      "currencies": []
-    },
-    {
-      "title": "Iran hits Gulf states and Jordan after seventh night of US strikes",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6413,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -129,24 +115,38 @@
       "currencies": []
     },
     {
-      "title": "Trump Media pitched $100,000 monthly fee for fastest feed of US president\u2019s posts, sources say",
+      "title": "Goldman lists 3 non-AI investment themes",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "ICICI Bank Q1 2027 slides: profit surges 21%, loan growth accelerates",
+      "title": "Iran hits Gulf states and Jordan after seventh night of US strikes",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6413,
+      "currencies": []
+    },
+    {
+      "title": "CFM wins approval for jet engine durability boost",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.946,
+      "score": 0.9357,
       "currencies": []
     },
     {
-      "title": "Micron\u2019s sharp pullback: Is short-term pain a buying opportunity?",
+      "title": "Reliance Q1 FY27 slides: record EBITDA amid energy volatility",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.58,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Reliance Industries posts strong Q1 2026 results",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9425,
       "currencies": []
     }
   ],
