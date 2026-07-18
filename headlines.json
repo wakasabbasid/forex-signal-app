@@ -1,10 +1,10 @@
 {
   "headlines": [
     {
-      "title": "Aurra Markets Named 'Top Low Spread Forex Broker 2026' at Money Expo Abu Dhabi - Yahoo Finance",
+      "title": "MultiBank Group Named Forex Broker of the Year 2026 at Money Expo Abu Dhabi - Yahoo Finance",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.6655,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -56,13 +56,6 @@
       "currencies": []
     },
     {
-      "title": "Malayalis in Gulf lead the way as forex deposit scheme strikes chord - The New Indian Express",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Forex Today: US Dollar extends decline as softer PPI lifts major currencies and Gold - FXStreet",
       "source": "Google News",
       "label": "bearish",
@@ -77,10 +70,10 @@
       "currencies": []
     },
     {
-      "title": "MultiBank Group Named Forex Broker of the Year 2026 at Money Expo Abu Dhabi - Yahoo Finance",
+      "title": "Aurra Markets Named 'Top Low Spread Forex Broker 2026' at Money Expo Abu Dhabi - Yahoo Finance",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.6655,
       "currencies": []
     },
     {
@@ -94,17 +87,48 @@
       ]
     },
     {
-      "title": "Bitcoin rebounds toward $64,000 as AI shock and crypto bill doubts weigh",
-      "source": "Investing.com",
+      "title": "AUD/USD Signal: Aussie Rally to Fade Ahead of US Retail Sales Data - DailyForex",
+      "source": "Google News",
       "label": "bearish",
-      "score": -0.8996,
-      "currencies": []
+      "score": -0.8163,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
     },
     {
       "title": "Iran renews attacks on Gulf states after another night of US strikes",
       "source": "Investing.com",
       "label": "bearish",
       "score": -0.8441,
+      "currencies": []
+    },
+    {
+      "title": "US data center protests go national as backlash grows",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8991,
+      "currencies": []
+    },
+    {
+      "title": "Doctors question evidence behind Pentagon plan for testosterone screening",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.732,
+      "currencies": []
+    },
+    {
+      "title": "What are the implications of rebalancing by Japan\u2019s public pension funds?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin rebounds toward $64,000 as AI shock and crypto bill doubts weigh",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8996,
       "currencies": []
     },
     {
@@ -126,27 +150,6 @@
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Skyroot launches India\u2019s first privately developed orbital rocket",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Trump blames Canada for wildfire smoke, says he will add cost to tariffs",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Bitcoin trapped in $62.5K-$65.5K range: Live levels",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5198,
       "currencies": []
     }
   ],

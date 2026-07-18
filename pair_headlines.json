@@ -7,12 +7,6 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "US Dollar Price Forecast: Retail Sales Boost DXY \u2013 What\u2019s Next for GBP/USD and EUR/USD?",
-        "source": "Yahoo Finance",
-        "label": "neutral",
-        "score": 0.0
       }
     ],
     "EUR/USD": [
@@ -27,12 +21,14 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
+      }
+    ],
+    "AUD/USD": [
       {
-        "title": "US Dollar Price Forecast: Retail Sales Boost DXY \u2013 What\u2019s Next for GBP/USD and EUR/USD?",
-        "source": "Yahoo Finance",
-        "label": "neutral",
-        "score": 0.0
+        "title": "AUD/USD Signal: Aussie Rally to Fade Ahead of US Retail Sales Data - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.8163
       }
     ],
     "USD/JPY": [
