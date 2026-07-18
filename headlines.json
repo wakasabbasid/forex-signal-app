@@ -49,17 +49,19 @@
       "currencies": []
     },
     {
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "Chinese Exporters Pile Into Currency Hedges as Yuan Volatility Rises - Caixin Global",
       "source": "Google News",
       "label": "bearish",
       "score": -0.6721,
-      "currencies": []
-    },
-    {
-      "title": "FX option expiries for 17 July 10am New York cut - investingLive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -94,24 +96,17 @@
       ]
     },
     {
-      "title": "Mexico ministries investigate cyclospora linked to Mexican farm",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US Representative Ralph Norman to run for Senate in South Carolina following Lindsey Graham\u2019s death",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Canada prepares to evacuate Ontario community as wildfire smoke chokes US",
+      "title": "Bitcoin squeezes below $65,556 resistance: Live levels",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7298,
+      "score": -0.4275,
+      "currencies": []
+    },
+    {
+      "title": "US says two military personnel killed in Jordan",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8829,
       "currencies": []
     },
     {
@@ -122,31 +117,38 @@
       "currencies": []
     },
     {
-      "title": "Iran hits Gulf states and Jordan after seventh night of US strikes",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6413,
-      "currencies": []
-    },
-    {
-      "title": "CFM wins approval for jet engine durability boost",
+      "title": "Trump administration\u00a0to fund Maga-aligned projects in Europe as he reorders US aid, FT reports",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9357,
+      "score": 0.5344,
       "currencies": []
     },
     {
-      "title": "Reliance Q1 FY27 slides: record EBITDA amid energy volatility",
+      "title": "Two US service members killed in Jordan as Iran steps up attacks",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.58,
+      "score": -0.7894,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Reliance Industries posts strong Q1 2026 results",
+      "title": "Hungary\u2019s president signs law change ending his term in office",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9425,
+      "label": "bearish",
+      "score": -0.5543,
+      "currencies": []
+    },
+    {
+      "title": "Two US service members in Jordan killed in Iranian attack, US says",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7925,
+      "currencies": []
+    },
+    {
+      "title": "Ontario premier says Trump\u2019s criticism of Canada\u2019s efforts to stop wildfires is \u2019absolutely unacceptable\u2019",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8791,
       "currencies": []
     }
   ],
