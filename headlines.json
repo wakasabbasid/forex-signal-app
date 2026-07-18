@@ -49,13 +49,6 @@
       "currencies": []
     },
     {
-      "title": "Chinese Exporters Pile Into Currency Hedges as Yuan Volatility Rises - Caixin Global",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6721,
-      "currencies": []
-    },
-    {
       "title": "FX option expiries for 17 July 10am New York cut - investingLive",
       "source": "Google News",
       "label": "neutral",
@@ -63,10 +56,24 @@
       "currencies": []
     },
     {
+      "title": "Chinese Exporters Pile Into Currency Hedges as Yuan Volatility Rises - Caixin Global",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6721,
+      "currencies": []
+    },
+    {
       "title": "Forex Today: US Dollar extends decline as softer PPI lifts major currencies and Gold - FXStreet",
       "source": "Google News",
       "label": "bearish",
       "score": -0.946,
+      "currencies": []
+    },
+    {
+      "title": "Rupee back in red! Impact of RBI\u2019s forex boost fades; currency breaches 96 versus dollar on rising crude - The Times of India",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7284,
       "currencies": []
     },
     {
@@ -87,14 +94,32 @@
       ]
     },
     {
-      "title": "AUD/USD Signal: Aussie Rally to Fade Ahead of US Retail Sales Data - DailyForex",
-      "source": "Google News",
+      "title": "Has Europe quietly taken the lead in the earnings race? Barclays weighs in",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Axis Bank Q1 2026 profit rises as margins tighten",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9347,
+      "currencies": []
+    },
+    {
+      "title": "GEO Group worker arrested in shooting of protester at Colorado ICE facility",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8163,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
+      "score": -0.8456,
+      "currencies": []
+    },
+    {
+      "title": "Iran hits Gulf states and Jordan after seventh night of US strikes",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6413,
+      "currencies": []
     },
     {
       "title": "Canada prepares to evacuate Ontario community as wildfire smoke chokes US",
@@ -122,37 +147,6 @@
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: ICICI Bank posts strong Q1 2026 growth, shares slip after hours",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.967,
-      "currencies": []
-    },
-    {
-      "title": "Goldman Sachs recommends shorting GBP/USD on rally concerns",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "China is SpaceX\u2019s biggest long-term competitive threat, Bernstein says",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6994,
-      "currencies": []
-    },
-    {
-      "title": "HDFC Bank Q1 FY27 slides: deposit growth strong, margins under pressure",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9463,
       "currencies": []
     }
   ],
