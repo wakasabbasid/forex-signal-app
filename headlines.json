@@ -42,13 +42,6 @@
       ]
     },
     {
-      "title": "Malayalis in Gulf lead the way as forex deposit scheme strikes chord - The New Indian Express",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -57,6 +50,13 @@
     },
     {
       "title": "15 Best Forex Pairs to Trade - TMGM trading",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Malayalis in Gulf lead the way as forex deposit scheme strikes chord - The New Indian Express",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -77,15 +77,6 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
       "title": "MultiBank Group Named Forex Broker of the Year 2026 at Money Expo Abu Dhabi - Yahoo Finance",
       "source": "Google News",
       "label": "neutral",
@@ -93,28 +84,52 @@
       "currencies": []
     },
     {
-      "title": "Iran attacks Gulf infrastructure as US widens strikes, Hormuz tensions rise",
+      "title": "EUR/USD & Nasdaq Forecast: Breakout Scenarios Ahead - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "Bitcoin rebounds toward $64,000 as AI shock and crypto bill doubts weigh",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8046,
+      "score": -0.8996,
       "currencies": []
     },
     {
-      "title": "Trump says China obtained 220 million US voter files ahead of 2020 election",
+      "title": "Iran renews attacks on Gulf states after another night of US strikes",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8441,
+      "currencies": []
+    },
+    {
+      "title": "Analysis-Trump threatens new Iran escalation and risks repeating old mistakes",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8389,
+      "currencies": []
+    },
+    {
+      "title": "China\u2019s DeepSeek to raise fresh capital at $74 billion valuation ahead of onshore IPO, sources say",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7552,
+      "currencies": []
+    },
+    {
+      "title": "China smartphone makers turn to agentic AI as device sales slow",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Soccer-Trump back in World Cup spotlight after starring role in tournament\u2019s controversies",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.4981,
-      "currencies": []
-    },
-    {
-      "title": "CXMT IPO: Here\u2019s everything you need to know",
+      "title": "Skyroot launches India\u2019s first privately developed orbital rocket",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
@@ -128,24 +143,10 @@
       "currencies": []
     },
     {
-      "title": "Iran renews attacks on Gulf states after another night of US strikes",
+      "title": "Bitcoin trapped in $62.5K-$65.5K range: Live levels",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8441,
-      "currencies": []
-    },
-    {
-      "title": "Etched seeks $20 billion valuation in new AI chip funding round - WSJ reports",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US military says it completed latest strikes on Iran, marking 7th consecutive night of attacks",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7464,
+      "score": -0.5198,
       "currencies": []
     }
   ],

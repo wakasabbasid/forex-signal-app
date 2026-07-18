@@ -7,6 +7,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "US Dollar Price Forecast: Retail Sales Boost DXY \u2013 What\u2019s Next for GBP/USD and EUR/USD?",
+        "source": "Yahoo Finance",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "EUR/USD": [
@@ -15,15 +21,21 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "EUR/USD & Nasdaq Forecast: Breakout Scenarios Ahead - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "US Dollar Price Forecast: Retail Sales Boost DXY \u2013 What\u2019s Next for GBP/USD and EUR/USD?",
+        "source": "Yahoo Finance",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "USD/JPY": [
-      {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.6676
-      },
       {
         "title": "Japanese Yen: Verbal intervention fails to move JPY against US Dollar \u2013 Scotiabank",
         "source": "FXStreet",
