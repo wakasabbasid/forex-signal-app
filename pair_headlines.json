@@ -1,14 +1,6 @@
 {
   "run_id": 1,
   "pairs": {
-    "GBP/USD": [
-      {
-        "title": "GBP/USD Signal 16/07: Sterling Ahead of UK Leadership Change - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
     "EUR/USD": [
       {
         "title": "EUR/USD & Nasdaq Forecast: Breakout Scenarios Ahead - FOREX.com",
@@ -31,12 +23,12 @@
         "score": -0.8849
       }
     ],
-    "AUD/USD": [
+    "NZD/USD": [
       {
-        "title": "AUD/USD Signal: Aussie Rally to Fade Ahead of US Retail Sales Data - DailyForex",
-        "source": "Google News",
+        "title": "NZD slips despite June trade surplus as US dollar strength bites",
+        "source": "ForexLive",
         "label": "bearish",
-        "score": -0.8163
+        "score": -0.8338
       }
     ],
     "USD/CHF": [

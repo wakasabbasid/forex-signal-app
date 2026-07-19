@@ -1,10 +1,38 @@
 {
   "headlines": [
     {
-      "title": "MultiBank Group Named Forex Broker of the Year 2026 at Money Expo Abu Dhabi - Yahoo Finance",
+      "title": "Weekly Forex Forecast: Dollar, Yen, Gold, and Oil in Focus - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "South Korea to ease won access, aims for freely convertible currency - investingLive",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6147,
+      "currencies": []
+    },
+    {
+      "title": "Zhang Ming: A Chinese model for currency internationalisation is taking shape - The East is Read",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Aurra Markets Named 'Top Low Spread Forex Broker 2026' at Money Expo Abu Dhabi - Yahoo Finance",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6655,
+      "currencies": []
+    },
+    {
+      "title": "South Korea to ease forex rules for foreigners to trade won in push to liberalise market - The Business Times",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5672,
       "currencies": []
     },
     {
@@ -15,20 +43,17 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Signal 16/07: Sterling Ahead of UK Leadership Change - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
       "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
       "source": "Google News",
       "label": "bullish",
       "score": 0.925,
+      "currencies": []
+    },
+    {
+      "title": "15 Best Forex Pairs to Trade - TMGM trading",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -42,6 +67,13 @@
       ]
     },
     {
+      "title": "Currencies: an unusually steady FOREX market, despite the geopolitical headlines - marketscreener.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
       "source": "Google News",
       "label": "bullish",
@@ -51,62 +83,59 @@
       ]
     },
     {
-      "title": "Chinese Exporters Pile Into Currency Hedges as Yuan Volatility Rises - Caixin Global",
+      "title": "MultiBank Group Named Forex Broker of the Year 2026 at Money Expo Abu Dhabi - Yahoo Finance",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.6721,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar extends decline as softer PPI lifts major currencies and Gold - FXStreet",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.946,
+      "title": "Soccer-Madonna, BTS and Bieber bring star power to World Cup halftime show",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Rupee back in red! Impact of RBI\u2019s forex boost fades; currency breaches 96 versus dollar on rising crude - The Times of India",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7284,
+      "title": "SpaceX moves Starship launch attempt to Thursday",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Aurra Markets Named 'Top Low Spread Forex Broker 2026' at Money Expo Abu Dhabi - Yahoo Finance",
-      "source": "Google News",
+      "title": "Soccer-Spain battle past 10-man Argentina 1-0 in extra time to win World\u00a0Cup",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6655,
+      "score": 0.6243,
       "currencies": []
     },
     {
-      "title": "AUD/USD Signal: Aussie Rally to Fade Ahead of US Retail Sales Data - DailyForex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8163,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
-    },
-    {
-      "title": "AFRICA-FX-Currencies expected to be steady or under mild pressure - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6623,
+      "title": "US Vice President JD Vance announces birth of son",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US says two military personnel killed by Iranian attack in Jordan",
+      "title": "Shooting in Tucson, Arizona, leaves 10 people wounded, including suspect",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.861,
+      "score": -0.9393,
       "currencies": []
     },
     {
-      "title": "Bitcoin recovers toward $65k after sliding on AI shock, crypto bill doubts",
+      "title": "How Korean stocks turned from trusty bellwether to AI frenzy",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin eyes $72,000 as governance and mining concentration concerns grow",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.915,
+      "score": -0.6565,
       "currencies": []
     },
     {
@@ -114,41 +143,6 @@
       "source": "Investing.com",
       "label": "bearish",
       "score": -0.9603,
-      "currencies": []
-    },
-    {
-      "title": "What\u2019s next for the ECB? Key expectations for next week",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US data center protests go national as backlash grows",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8991,
-      "currencies": []
-    },
-    {
-      "title": "Bitcoin squeezes below $65,556 resistance: Live levels",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.4275,
-      "currencies": []
-    },
-    {
-      "title": "Goldman lists 3 non-AI investment themes",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Trump administration\u00a0to fund Maga-aligned projects in Europe as he reorders US aid, FT reports",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5344,
       "currencies": []
     }
   ],
