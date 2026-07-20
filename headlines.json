@@ -17,6 +17,13 @@
       ]
     },
     {
+      "title": "India\u2019s forex deposit program attracts $17.4 billion - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Our forex playbook for the trading community - FXStreet",
       "source": "Google News",
       "label": "neutral",
@@ -38,6 +45,13 @@
       "currencies": []
     },
     {
+      "title": "India\u2019s central bank says forex deposits net US$17.4 bil - The Edge Malaysia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "South Korea to ease won access, aims for freely convertible currency - investingLive",
       "source": "Google News",
       "label": "bullish",
@@ -54,10 +68,10 @@
       ]
     },
     {
-      "title": "India\u2019s forex deposit program attracts $17.4 billion By Investing.com - Investing.com Canada",
+      "title": "India's forex boost: RBI's swap scheme raises $20.72 billion so far - The Times of India",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.8877,
       "currencies": []
     },
     {
@@ -75,73 +89,63 @@
       "currencies": []
     },
     {
-      "title": "Traveling Abroad? Order Currency Before You Go - NerdWallet",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "A modern forex law or a more powerful state? - Nepalnews.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Knightscope Preliminary Q2 Revenue Triples to Approximately $9M",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9387,
-      "currencies": []
-    },
-    {
-      "title": "HSBC sees \"some proper warnings signs emerging\" in risk assets",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8527,
-      "currencies": []
-    },
-    {
-      "title": "CNB Financial earnings ahead: Integration momentum faces test",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5301,
-      "currencies": []
-    },
-    {
-      "title": "Northrop Grumman earnings in focus as Sentinel margins weigh",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6183,
-      "currencies": []
-    },
-    {
-      "title": "Tractor Supply stock holds Buy rating at DA Davidson ahead of results",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "TD Cowen lowers Autoliv stock price target on updated estimates",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "BMO cuts NextEra Energy stock price target on valuation concerns",
+      "title": "Why is Chipotle Mexican Grill stock sliding today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7647,
+      "score": -0.907,
       "currencies": []
     },
     {
-      "title": "TD Cowen raises Valvoline stock price target on margin strength",
+      "title": "Cyclosporiasis cases in Michigan climb to over 6,000, state health officials say",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9329,
+      "currencies": []
+    },
+    {
+      "title": "Ziff Davis stock hits 52-week high at 54.87 USD",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.4921,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.73%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9632,
+      "currencies": []
+    },
+    {
+      "title": "Spain stocks lower at close of trade; IBEX 35 down 0.05%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9697,
+      "currencies": []
+    },
+    {
+      "title": "Portugal stocks higher at close of trade; PSI up 0.09%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9427,
+      "currencies": []
+    },
+    {
+      "title": "PepsiCo stock hits 52-week low at 134.65 USD",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9572,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Netherlands stocks lower at close of trade; AEX down 0.13%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9652,
       "currencies": []
     }
   ],

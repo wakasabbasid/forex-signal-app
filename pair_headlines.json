@@ -9,10 +9,28 @@
         "score": 0.8524
       },
       {
+        "title": "Ziff Davis stock hits 52-week high at 54.87 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.4921
+      },
+      {
+        "title": "PepsiCo stock hits 52-week low at 134.65 USD",
+        "source": "Investing.com",
+        "label": "bearish",
+        "score": -0.9572
+      },
+      {
         "title": "The USD is mixed to kickstart the North American session",
         "source": "ForexLive",
         "label": "bullish",
         "score": 0.5757
+      },
+      {
+        "title": "INR/USD: HSBC Offers Indian Diaspora 19x Leverage on FCNR(B) Deposits",
+        "source": "Bloomberg",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "AUD/USD": [
@@ -21,6 +39,14 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.4983
+      }
+    ],
+    "USD/CAD": [
+      {
+        "title": "Canadian Dollar: Rate divergence weighs CAD against US Dollar \u2013 TD Securities",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }
