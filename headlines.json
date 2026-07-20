@@ -8,10 +8,10 @@
       "currencies": []
     },
     {
-      "title": "Our forex playbook for the trading community - FXStreet",
+      "title": "Forex Forecasts \u2013 US Dollar Defends Key 50-Day EMA Across Major Pairs - Yahoo Finance",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.6216,
       "currencies": []
     },
     {
@@ -22,12 +22,19 @@
       "currencies": []
     },
     {
-      "title": "AUD/USD Signal 20/07: Bearish Flag Points to a Drop - DailyForex",
+      "title": "Our forex playbook for the trading community - FXStreet",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "EUR/USD Signal: On the Verge of a Bearish Breakout Ahead of ECB Decision - DailyForex",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9345,
+      "score": -0.9168,
       "currencies": [
-        "AUD",
+        "EUR",
         "USD"
       ]
     },
@@ -36,6 +43,13 @@
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "South Korea to ease won access, aims for freely convertible currency - investingLive",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6147,
       "currencies": []
     },
     {
@@ -53,13 +67,6 @@
       "currencies": []
     },
     {
-      "title": "Aurra Markets Named 'Top Low Spread Forex Broker 2026' at Money Expo Abu Dhabi - Yahoo Finance",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6655,
-      "currencies": []
-    },
-    {
       "title": "South Korea to ease forex rules for foreigners to trade won in push to liberalise market - The Business Times",
       "source": "Google News",
       "label": "bullish",
@@ -67,20 +74,11 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s central bank says forex deposits net US$17.4 bil - The Edge Malaysia",
+      "title": "15 Best Forex Pairs to Trade - TMGM trading",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
-    },
-    {
-      "title": "AUD Rises as Rate Gap Offsets Yen Intervention Fears - TradingPedia",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.4983,
-      "currencies": [
-        "AUD"
-      ]
     },
     {
       "title": "exchange rate - Encyclopedia Britannica",
@@ -90,61 +88,59 @@
       "currencies": []
     },
     {
-      "title": "Why is KKR & Co stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.933,
-      "currencies": []
-    },
-    {
-      "title": "Why is Blackstone stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9257,
-      "currencies": []
-    },
-    {
-      "title": "SGHC stock hits all-time high at 15.73 USD",
+      "title": "Washington Trust earnings beat by $0.06, revenue topped estimates",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6754,
-      "currencies": [
-        "USD"
-      ]
+      "score": 0.9371,
+      "currencies": []
     },
     {
-      "title": "JetBlue wins auction for Spirit\u2019s LaGuardia flight slots",
+      "title": "Trump signs proclamation adjusting imports of aluminum into US, White House says",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7031,
+      "score": 0.4761,
       "currencies": []
     },
     {
-      "title": "BofA raises UnitedHealth stock price target to $512 on strong earnings",
+      "title": "S&P 500 edges down with Iran and earnings season in focus",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9605,
+      "currencies": []
+    },
+    {
+      "title": "Generation Income Properties addresses Nasdaq compliance",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Gentherm receives FDA clearance for surgical warming device",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8453,
+      "score": 0.8747,
       "currencies": []
     },
     {
-      "title": "Iranian missile hit housing at Jordan base last week - WSJ",
+      "title": "Ross Stores opens 47 locations, on track for 110 this year",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7271,
+      "label": "bullish",
+      "score": 0.7537,
       "currencies": []
     },
     {
-      "title": "Explainer-How a Houthi blockade in the Red Sea tightens Iran\u2019s grip on global energy supplies",
+      "title": "Freenome to begin trading on Nasdaq following SPAC merger",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7447,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Paramount Skydance ordered to pause Warner Bros acquisition through August 3",
+      "title": "Hanover Bancorp names Kevin O\u2019Connor as president",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6363,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

@@ -1,46 +1,26 @@
 {
   "run_id": 1,
   "pairs": {
-    "AUD/USD": [
+    "EUR/USD": [
       {
-        "title": "AUD/USD Signal 20/07: Bearish Flag Points to a Drop - DailyForex",
+        "title": "EUR/USD Signal: On the Verge of a Bearish Breakout Ahead of ECB Decision - DailyForex",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.9345
-      },
-      {
-        "title": "AUD Rises as Rate Gap Offsets Yen Intervention Fears - TradingPedia",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.4983
+        "score": -0.9168
       }
     ],
     "USD/JPY": [
       {
-        "title": "SGHC stock hits all-time high at 15.73 USD",
+        "title": "Rush Street Interactive stock hits all-time high at 34.51 USD",
         "source": "Investing.com",
         "label": "bullish",
-        "score": 0.6754
-      },
-      {
-        "title": "The USD is mixed to kickstart the North American session",
-        "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.5757
+        "score": 0.5549
       },
       {
         "title": "Silver Price Forecast: XAG/USD attempts to stabilize above $55.00",
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.946
-      }
-    ],
-    "USD/CAD": [
-      {
-        "title": "Canadian Dollar: Rate divergence weighs CAD against US Dollar \u2013 TD Securities",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
       }
     ]
   }
