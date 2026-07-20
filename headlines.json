@@ -1,11 +1,14 @@
 {
   "headlines": [
     {
-      "title": "Weekly Forex Forecast: Dollar, Yen, Gold, and Oil in Focus - DailyForex",
+      "title": "EUR/USD Signal 20/07: On the Verge of a Bearish Breakown - DailyForex",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
+      "label": "bearish",
+      "score": -0.9582,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
     },
     {
       "title": "South Korea to ease won access, aims for freely convertible currency - investingLive",
@@ -19,6 +22,13 @@
       "source": "Google News",
       "label": "bullish",
       "score": 0.6655,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: Oil prices rise further, keeping markets on edge - FXStreet",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8349,
       "currencies": []
     },
     {
@@ -36,6 +46,13 @@
       "currencies": []
     },
     {
+      "title": "South Korea to ease forex rules for foreigners to trade won in push to liberalise market - The Business Times",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5672,
+      "currencies": []
+    },
+    {
       "title": "Rupee falls 12 paise to 96.42 against US dollar in early trade - The New Indian Express",
       "source": "Google News",
       "label": "bearish",
@@ -47,13 +64,6 @@
       "source": "Google News",
       "label": "bullish",
       "score": 0.925,
-      "currencies": []
-    },
-    {
-      "title": "South Korea to ease forex rules for foreigners to trade won in push to liberalise market - The Business Times",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5672,
       "currencies": []
     },
     {
@@ -81,66 +91,59 @@
       "currencies": []
     },
     {
-      "title": "[Won Internationalization, Breaking a 30-Year Taboo]\u2462 \"Issuance of Won ETFs and Easing Regulations on Won Export-Import Accounts\"...Challenges Beyond the Roadmap - \uc544\uc2dc\uc544\uacbd\uc81c",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6357,
-      "currencies": []
-    },
-    {
-      "title": "TSMC expects \u2019strong, multi-year\u2019 demand for AI chips as it ramps up Arizona investment",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9434,
-      "currencies": []
-    },
-    {
-      "title": "South Korea unveils plan to allow free won trading for foreigners",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Trump says new Air Force One from Qatar will get \u2019maxed out\u2019 upgrades",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Eva Live to acquire 51% stake in Airbeam Wireless for $16M",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Conflicts, aircraft orders in focus as Farnborough Airshow kicks off",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "European chemical earnings to test demand recovery after conflict-led pricing boost",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9488,
-      "currencies": []
-    },
-    {
-      "title": "S.Korea\u2019s KOSPI slides in catch-up trade as memory chip stocks slide",
+      "title": "Why is Big Yellow stock sliding today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9578,
+      "score": -0.8859,
       "currencies": []
     },
     {
-      "title": "Samsung Biologics bids $1.8 bln for PolyPeptide, shares fall 3%",
+      "title": "PolyPeptide rallies over 5% as Samsung Biologics strikes $1.8 billion deal",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8556,
+      "currencies": []
+    },
+    {
+      "title": "Prologis says Segro rejects sweetened $18.2 billion takeover proposal",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "BMO downgrades Charles Schwab stock rating on valuation concerns",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9572,
+      "score": -0.6719,
+      "currencies": []
+    },
+    {
+      "title": "Guggenheim initiates AN2 Therapeutics stock with buy on PV drug",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Guggenheim initiates Eloxx Pharma stock with buy on kidney data",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Beyond AI: Citi sees China driving the next phase of the EM rally",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Poland\u2019s industrial output rises 7.6% in June, beating forecasts",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9487,
       "currencies": []
     }
   ],

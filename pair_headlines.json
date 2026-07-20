@@ -3,64 +3,38 @@
   "pairs": {
     "EUR/USD": [
       {
+        "title": "EUR/USD Signal 20/07: On the Verge of a Bearish Breakown - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9582
+      },
+      {
         "title": "EUR/USD & Nasdaq Forecast: Breakout Scenarios Ahead - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "EUR/JPY Price Forecast: Holds above nine-day EMA support at 185.50",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9263
-      }
-    ],
-    "USD/JPY": [
-      {
-        "title": "PBOC sets USD/ CNY reference rate for today at 6.7948 (vs. estimate at 6.7821)",
+        "title": "What's the next play for EUR/USD?",
         "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7821 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Holds above nine-day EMA support at 185.50",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9263
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD rises toward $57.00 despite Fed hike bets",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9417
-      },
-      {
-        "title": "PBOC sets USD/CNY reference rate at 6.7948 vs. 6.7934 previous",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "AUD/USD Price Forecast: Recovers to near 0.7000 amid US Dollar\u2019s weakness",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.4929
       }
     ],
     "NZD/USD": [
       {
-        "title": "NZD: Hedge Funds Amass Biggest New Zealand Dollar Net Short Since 2006",
-        "source": "Bloomberg",
+        "title": "NZD/USD Price Forecast: Resumes the bullish trend and tests monthly highs around 0.5860",
+        "source": "FXStreet",
         "label": "bullish",
-        "score": 0.6125
+        "score": 0.5359
+      }
+    ],
+    "USD/JPY": [
+      {
+        "title": "Silver Price Forecast: XAG/USD bulls await breakout through trend-line hurdle near $57.25",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9074
       }
     ]
   }
