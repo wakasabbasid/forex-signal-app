@@ -15,13 +15,6 @@
       "currencies": []
     },
     {
-      "title": "Zhang Ming: A Chinese model for currency internationalisation is taking shape - The East is Read",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Aurra Markets Named 'Top Low Spread Forex Broker 2026' at Money Expo Abu Dhabi - Yahoo Finance",
       "source": "Google News",
       "label": "bullish",
@@ -29,10 +22,10 @@
       "currencies": []
     },
     {
-      "title": "South Korea to ease forex rules for foreigners to trade won in push to liberalise market - The Business Times",
+      "title": "Zhang Ming: A Chinese model for currency internationalisation is taking shape - The East is Read",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.5672,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -43,10 +36,24 @@
       "currencies": []
     },
     {
+      "title": "Rupee falls 12 paise to 96.42 against US dollar in early trade - The New Indian Express",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8706,
+      "currencies": []
+    },
+    {
       "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
       "source": "Google News",
       "label": "bullish",
       "score": 0.925,
+      "currencies": []
+    },
+    {
+      "title": "South Korea to ease forex rules for foreigners to trade won in push to liberalise market - The Business Times",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5672,
       "currencies": []
     },
     {
@@ -74,75 +81,66 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "title": "[Won Internationalization, Breaking a 30-Year Taboo]\u2462 \"Issuance of Won ETFs and Easing Regulations on Won Export-Import Accounts\"...Challenges Beyond the Roadmap - \uc544\uc2dc\uc544\uacbd\uc81c",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "MultiBank Group Named Forex Broker of the Year 2026 at Money Expo Abu Dhabi - Yahoo Finance",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "score": 0.6357,
       "currencies": []
     },
     {
-      "title": "Soccer-Madonna, BTS and Bieber bring star power to World Cup halftime show",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "SpaceX moves Starship launch attempt to Thursday",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Soccer-Spain battle past 10-man Argentina 1-0 in extra time to win World\u00a0Cup",
+      "title": "TSMC expects \u2019strong, multi-year\u2019 demand for AI chips as it ramps up Arizona investment",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6243,
+      "score": 0.9434,
       "currencies": []
     },
     {
-      "title": "US Vice President JD Vance announces birth of son",
+      "title": "South Korea unveils plan to allow free won trading for foreigners",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Shooting in Tucson, Arizona, leaves 10 people wounded, including suspect",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9393,
-      "currencies": []
-    },
-    {
-      "title": "How Korean stocks turned from trusty bellwether to AI frenzy",
+      "title": "Trump says new Air Force One from Qatar will get \u2019maxed out\u2019 upgrades",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Bitcoin eyes $72,000 as governance and mining concentration concerns grow",
+      "title": "Eva Live to acquire 51% stake in Airbeam Wireless for $16M",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6565,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "title": "Conflicts, aircraft orders in focus as Farnborough Airshow kicks off",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "European chemical earnings to test demand recovery after conflict-led pricing boost",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9488,
+      "currencies": []
+    },
+    {
+      "title": "S.Korea\u2019s KOSPI slides in catch-up trade as memory chip stocks slide",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9603,
+      "score": -0.9578,
+      "currencies": []
+    },
+    {
+      "title": "Samsung Biologics bids $1.8 bln for PolyPeptide, shares fall 3%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9572,
       "currencies": []
     }
   ],
