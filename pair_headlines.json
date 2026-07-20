@@ -1,19 +1,41 @@
 {
   "run_id": 1,
   "pairs": {
-    "EUR/USD": [
+    "USD/JPY": [
       {
-        "title": "EUR/USD Signal 20/07: On the Verge of a Bearish Breakown - DailyForex",
+        "title": "USD/MXN Edges Higher as Middle East Risk Lingers - DailyForex",
         "source": "Google News",
-        "label": "bearish",
-        "score": -0.9582
+        "label": "bullish",
+        "score": 0.8524
       },
       {
-        "title": "EUR/USD & Nasdaq Forecast: Breakout Scenarios Ahead - FOREX.com",
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - Newsonair",
         "source": "Google News",
+        "label": "bullish",
+        "score": 0.8971
+      },
+      {
+        "title": "Gold Price Forecast: XAU/USD nears the tip of a triangle formation at the $4,000 area",
+        "source": "FXStreet",
         "label": "neutral",
         "score": 0.0
       },
+      {
+        "title": "GBP/JPY Price Forecast: Flatlines around 218.50 with long-term highs at hand",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.6558
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "AUD Rises as Rate Gap Offsets Yen Intervention Fears - TradingPedia",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.4983
+      }
+    ],
+    "EUR/USD": [
       {
         "title": "What's the next play for EUR/USD?",
         "source": "ForexLive",
@@ -21,20 +43,12 @@
         "score": 0.0
       }
     ],
-    "NZD/USD": [
+    "GBP/USD": [
       {
-        "title": "NZD/USD Price Forecast: Resumes the bullish trend and tests monthly highs around 0.5860",
+        "title": "GBP/JPY Price Forecast: Flatlines around 218.50 with long-term highs at hand",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.5359
-      }
-    ],
-    "USD/JPY": [
-      {
-        "title": "Silver Price Forecast: XAG/USD bulls await breakout through trend-line hurdle near $57.25",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9074
+        "score": 0.6558
       }
     ]
   }

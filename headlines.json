@@ -1,20 +1,19 @@
 {
   "headlines": [
     {
-      "title": "EUR/USD Signal 20/07: On the Verge of a Bearish Breakown - DailyForex",
+      "title": "USD/MXN Edges Higher as Middle East Risk Lingers - DailyForex",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9582,
+      "label": "bullish",
+      "score": 0.8524,
       "currencies": [
-        "EUR",
         "USD"
       ]
     },
     {
-      "title": "South Korea to ease won access, aims for freely convertible currency - investingLive",
+      "title": "GlobalPay Launches Forex Card Partner Platform - IBS Intelligence",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.6147,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -25,18 +24,20 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: Oil prices rise further, keeping markets on edge - FXStreet",
+      "title": "South Korea to ease won access, aims for freely convertible currency - investingLive",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8349,
+      "score": 0.6147,
       "currencies": []
     },
     {
-      "title": "Zhang Ming: A Chinese model for currency internationalisation is taking shape - The East is Read",
+      "title": "AUD Rises as Rate Gap Offsets Yen Intervention Fears - TradingPedia",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
+      "label": "bullish",
+      "score": 0.4983,
+      "currencies": [
+        "AUD"
+      ]
     },
     {
       "title": "Traveling Abroad? Order Currency Before You Go - NerdWallet",
@@ -53,10 +54,17 @@
       "currencies": []
     },
     {
-      "title": "Rupee falls 12 paise to 96.42 against US dollar in early trade - The New Indian Express",
+      "title": "Forex Today: Oil prices rise further, keeping markets on edge - FXStreet",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.8706,
+      "label": "bullish",
+      "score": 0.8349,
+      "currencies": []
+    },
+    {
+      "title": "exchange rate - Encyclopedia Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -67,6 +75,15 @@
       "currencies": []
     },
     {
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - Newsonair",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8971,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "15 Best Forex Pairs to Trade - TMGM trading",
       "source": "Google News",
       "label": "neutral",
@@ -74,76 +91,59 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD & Nasdaq Forecast: Breakout Scenarios Ahead - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "Currencies: an unusually steady FOREX market, despite the geopolitical headlines - marketscreener.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is Big Yellow stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8859,
-      "currencies": []
-    },
-    {
-      "title": "PolyPeptide rallies over 5% as Samsung Biologics strikes $1.8 billion deal",
+      "title": "RBC turns bullish on Atalaya Mining as Touro permit outlook brightens",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8556,
+      "score": 0.8612,
       "currencies": []
     },
     {
-      "title": "Prologis says Segro rejects sweetened $18.2 billion takeover proposal",
+      "title": "H.C. Wainwright reiterates Harmony Biosciences stock rating on demand beat",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "BMO downgrades Charles Schwab stock rating on valuation concerns",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6719,
-      "currencies": []
-    },
-    {
-      "title": "Guggenheim initiates AN2 Therapeutics stock with buy on PV drug",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Guggenheim initiates Eloxx Pharma stock with buy on kidney data",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Beyond AI: Citi sees China driving the next phase of the EM rally",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Poland\u2019s industrial output rises 7.6% in June, beating forecasts",
+      "title": "BTQ partners with TIDAL PWR on quantum data center architecture",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9487,
+      "score": 0.5003,
+      "currencies": []
+    },
+    {
+      "title": "BrainsWay invests $3 million in Radial Health network",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Standard BioTools files merger registration with Treeline",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Trevi Therapeutics stock price target raised to $24 by H.C. Wainwright",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8204,
+      "currencies": []
+    },
+    {
+      "title": "Anduril and Archer unveil hybrid-electric VTOL aircraft platform",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Immunome doses first patient in IM-3050 cancer therapy trial",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
