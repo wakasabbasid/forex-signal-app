@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "India\u2019s Central Bank Says Forex Deposits Net $17.4 Billion - Bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "USD/MXN Edges Higher as Middle East Risk Lingers - DailyForex",
       "source": "Google News",
       "label": "bullish",
@@ -8,6 +15,13 @@
       "currencies": [
         "USD"
       ]
+    },
+    {
+      "title": "Our forex playbook for the trading community - FXStreet",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "GlobalPay Launches Forex Card Partner Platform - IBS Intelligence",
@@ -40,10 +54,17 @@
       ]
     },
     {
-      "title": "Traveling Abroad? Order Currency Before You Go - NerdWallet",
+      "title": "India\u2019s forex deposit program attracts $17.4 billion By Investing.com - Investing.com Canada",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Forecasts \u2013 US Dollar Defends Key 50-Day EMA Across Major Pairs - FXEmpire",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.713,
       "currencies": []
     },
     {
@@ -54,93 +75,70 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: Oil prices rise further, keeping markets on edge - FXStreet",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8349,
-      "currencies": []
-    },
-    {
-      "title": "exchange rate - Encyclopedia Britannica",
+      "title": "Traveling Abroad? Order Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.925,
-      "currencies": []
-    },
-    {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - Newsonair",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8971,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "15 Best Forex Pairs to Trade - TMGM trading",
+      "title": "A modern forex law or a more powerful state? - Nepalnews.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "RBC turns bullish on Atalaya Mining as Touro permit outlook brightens",
+      "title": "Knightscope Preliminary Q2 Revenue Triples to Approximately $9M",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8612,
+      "score": 0.9387,
       "currencies": []
     },
     {
-      "title": "H.C. Wainwright reiterates Harmony Biosciences stock rating on demand beat",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "BTQ partners with TIDAL PWR on quantum data center architecture",
+      "title": "HSBC sees \"some proper warnings signs emerging\" in risk assets",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5003,
+      "score": 0.8527,
       "currencies": []
     },
     {
-      "title": "BrainsWay invests $3 million in Radial Health network",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Standard BioTools files merger registration with Treeline",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Trevi Therapeutics stock price target raised to $24 by H.C. Wainwright",
+      "title": "CNB Financial earnings ahead: Integration momentum faces test",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8204,
+      "score": 0.5301,
       "currencies": []
     },
     {
-      "title": "Anduril and Archer unveil hybrid-electric VTOL aircraft platform",
+      "title": "Northrop Grumman earnings in focus as Sentinel margins weigh",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6183,
+      "currencies": []
+    },
+    {
+      "title": "Tractor Supply stock holds Buy rating at DA Davidson ahead of results",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Immunome doses first patient in IM-3050 cancer therapy trial",
+      "title": "TD Cowen lowers Autoliv stock price target on updated estimates",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "BMO cuts NextEra Energy stock price target on valuation concerns",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7647,
+      "currencies": []
+    },
+    {
+      "title": "TD Cowen raises Valvoline stock price target on margin strength",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

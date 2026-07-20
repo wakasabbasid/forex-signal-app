@@ -9,22 +9,10 @@
         "score": 0.8524
       },
       {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - Newsonair",
-        "source": "Google News",
+        "title": "The USD is mixed to kickstart the North American session",
+        "source": "ForexLive",
         "label": "bullish",
-        "score": 0.8971
-      },
-      {
-        "title": "Gold Price Forecast: XAU/USD nears the tip of a triangle formation at the $4,000 area",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "GBP/JPY Price Forecast: Flatlines around 218.50 with long-term highs at hand",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.6558
+        "score": 0.5757
       }
     ],
     "AUD/USD": [
@@ -33,22 +21,6 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.4983
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "What's the next play for EUR/USD?",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "GBP/JPY Price Forecast: Flatlines around 218.50 with long-term highs at hand",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.6558
       }
     ]
   }
