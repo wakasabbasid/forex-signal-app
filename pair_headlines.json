@@ -9,18 +9,28 @@
         "score": -0.9168
       }
     ],
+    "GBP/USD": [
+      {
+        "title": "GBP/JPY Price Forecast: Uptrend pauses, bulls eye 219 breakout",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.5344
+      }
+    ],
     "USD/JPY": [
       {
-        "title": "Mexican Peso gains as risk appetite boosts Peso, weighs on USD",
+        "title": "GBP/JPY Price Forecast: Uptrend pauses, bulls eye 219 breakout",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.8153
-      },
+        "score": 0.5344
+      }
+    ],
+    "USD/CHF": [
       {
-        "title": "Silver Price Forecast: XAG/USD attempts to stabilize above $55.00",
+        "title": "USD/CHF Price Forecast: Reclaims 0.8100 as market structure is bullish",
         "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.946
+        "label": "bearish",
+        "score": -0.7329
       }
     ]
   }

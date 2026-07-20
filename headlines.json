@@ -15,7 +15,14 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s forex deposit program attracts $17.4 billion - Investing.com",
+      "title": "Major FX options set to expire Tuesday across currency pairs - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Our forex playbook for the trading community - FXStreet",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -30,13 +37,6 @@
         "EUR",
         "USD"
       ]
-    },
-    {
-      "title": "Our forex playbook for the trading community - FXStreet",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
     },
     {
       "title": "GlobalPay Launches Forex Card Partner Platform - IBS Intelligence",
@@ -60,24 +60,17 @@
       "currencies": []
     },
     {
-      "title": "India's forex boost: RBI's swap scheme raises $20.72 billion so far - The Times of India",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8877,
-      "currencies": []
-    },
-    {
-      "title": "India\u2019s central bank says forex deposits net US$17.4 bil - The Edge Malaysia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "South Korea to ease forex rules for foreigners to trade won in push to liberalise market - The Business Times",
       "source": "Google News",
       "label": "bullish",
       "score": 0.5672,
+      "currencies": []
+    },
+    {
+      "title": "India's forex boost: RBI's swap scheme raises $20.72 billion so far - The Times of India",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8877,
       "currencies": []
     },
     {
@@ -88,59 +81,66 @@
       "currencies": []
     },
     {
-      "title": "Raytheon wins $1.8B Navy radar contract modification",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8936,
-      "currencies": []
-    },
-    {
-      "title": "Jefferies reiterates Tempus AI stock rating on acquisition concerns",
-      "source": "Investing.com",
+      "title": "exchange rate - Encyclopedia Britannica",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Compass Point reiterates eToro stock rating on strong June metrics",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Oil rises about 1% as Trump says Iran will \u2019pay\u2019 for death of U.S. service members",
+      "title": "Diplomatic efforts seek to avert Trump split with UN refugee agency, sources say",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.4444,
+      "score": -0.6424,
       "currencies": []
     },
     {
-      "title": "Capital One defeats lawsuit alleging excessive credit card rates",
+      "title": "Twenty-seven bodies recovered after ferry capsizes off Guyana",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9453,
+      "score": -0.7617,
       "currencies": []
     },
     {
-      "title": "Netanyahu will not be arrested in US, Trump says, as New York mayor mulls options",
+      "title": "US condemns China actions against Philippine navy in South China Sea",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.8256,
       "currencies": []
     },
     {
-      "title": "US senators at airshow to reassure foreign defense contractors, urge tariff-free trade",
+      "title": "Airbus H1 deliveries up 15%, on track to meet FY goal- CEO to CNBC",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6839,
+      "score": 0.9492,
       "currencies": []
     },
     {
-      "title": "US imposes 50% tariffs on wide range of Canadian products",
+      "title": "Trump says he had \u2019very good conversation\u2019 with new British PM Burnham",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7802,
+      "currencies": []
+    },
+    {
+      "title": "US DOJ says it is probing Harvard over financial aid programs",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7449,
+      "currencies": []
+    },
+    {
+      "title": "US judge approves Anthropic\u2019s $1.5 billion settlement of copyright lawsuit",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "New Zealand Q2 inflation rises more than expected at 4.1%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.923,
       "currencies": []
     }
   ],
