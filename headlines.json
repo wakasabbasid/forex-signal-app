@@ -8,13 +8,11 @@
       "currencies": []
     },
     {
-      "title": "USD/MXN Edges Higher as Middle East Risk Lingers - DailyForex",
+      "title": "Our forex playbook for the trading community - FXStreet",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.8524,
-      "currencies": [
-        "USD"
-      ]
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "India\u2019s forex deposit program attracts $17.4 billion - Investing.com",
@@ -24,17 +22,34 @@
       "currencies": []
     },
     {
-      "title": "Our forex playbook for the trading community - FXStreet",
+      "title": "AUD/USD Signal 20/07: Bearish Flag Points to a Drop - DailyForex",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
+      "label": "bearish",
+      "score": -0.9345,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
     },
     {
       "title": "GlobalPay Launches Forex Card Partner Platform - IBS Intelligence",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Banks garner $20.7 billion via RBI's special forex swap window - The New Indian Express",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "India's forex boost: RBI's swap scheme raises $20.72 billion so far - The Times of India",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8877,
       "currencies": []
     },
     {
@@ -45,17 +60,17 @@
       "currencies": []
     },
     {
+      "title": "South Korea to ease forex rules for foreigners to trade won in push to liberalise market - The Business Times",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5672,
+      "currencies": []
+    },
+    {
       "title": "India\u2019s central bank says forex deposits net US$17.4 bil - The Edge Malaysia",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "South Korea to ease won access, aims for freely convertible currency - investingLive",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6147,
       "currencies": []
     },
     {
@@ -68,84 +83,68 @@
       ]
     },
     {
-      "title": "India's forex boost: RBI's swap scheme raises $20.72 billion so far - The Times of India",
+      "title": "exchange rate - Encyclopedia Britannica",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.8877,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Forex Forecasts \u2013 US Dollar Defends Key 50-Day EMA Across Major Pairs - FXEmpire",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.713,
-      "currencies": []
-    },
-    {
-      "title": "South Korea to ease forex rules for foreigners to trade won in push to liberalise market - The Business Times",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5672,
-      "currencies": []
-    },
-    {
-      "title": "Why is Chipotle Mexican Grill stock sliding today?",
+      "title": "Why is KKR & Co stock sliding today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.907,
+      "score": -0.933,
       "currencies": []
     },
     {
-      "title": "Cyclosporiasis cases in Michigan climb to over 6,000, state health officials say",
+      "title": "Why is Blackstone stock sliding today?",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9329,
+      "label": "bearish",
+      "score": -0.9257,
       "currencies": []
     },
     {
-      "title": "Ziff Davis stock hits 52-week high at 54.87 USD",
+      "title": "SGHC stock hits all-time high at 15.73 USD",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.4921,
+      "score": 0.6754,
       "currencies": [
         "USD"
       ]
     },
     {
-      "title": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.73%",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9632,
-      "currencies": []
-    },
-    {
-      "title": "Spain stocks lower at close of trade; IBEX 35 down 0.05%",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9697,
-      "currencies": []
-    },
-    {
-      "title": "Portugal stocks higher at close of trade; PSI up 0.09%",
+      "title": "JetBlue wins auction for Spirit\u2019s LaGuardia flight slots",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9427,
+      "score": 0.7031,
       "currencies": []
     },
     {
-      "title": "PepsiCo stock hits 52-week low at 134.65 USD",
+      "title": "BofA raises UnitedHealth stock price target to $512 on strong earnings",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9572,
-      "currencies": [
-        "USD"
-      ]
+      "label": "bullish",
+      "score": 0.8453,
+      "currencies": []
     },
     {
-      "title": "Netherlands stocks lower at close of trade; AEX down 0.13%",
+      "title": "Iranian missile hit housing at Jordan base last week - WSJ",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9652,
+      "score": -0.7271,
+      "currencies": []
+    },
+    {
+      "title": "Explainer-How a Houthi blockade in the Red Sea tightens Iran\u2019s grip on global energy supplies",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7447,
+      "currencies": []
+    },
+    {
+      "title": "Paramount Skydance ordered to pause Warner Bros acquisition through August 3",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6363,
       "currencies": []
     }
   ],

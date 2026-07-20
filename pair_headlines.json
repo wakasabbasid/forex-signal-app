@@ -1,24 +1,26 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/JPY": [
+    "AUD/USD": [
       {
-        "title": "USD/MXN Edges Higher as Middle East Risk Lingers - DailyForex",
+        "title": "AUD/USD Signal 20/07: Bearish Flag Points to a Drop - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9345
+      },
+      {
+        "title": "AUD Rises as Rate Gap Offsets Yen Intervention Fears - TradingPedia",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.8524
-      },
+        "score": 0.4983
+      }
+    ],
+    "USD/JPY": [
       {
-        "title": "Ziff Davis stock hits 52-week high at 54.87 USD",
+        "title": "SGHC stock hits all-time high at 15.73 USD",
         "source": "Investing.com",
         "label": "bullish",
-        "score": 0.4921
-      },
-      {
-        "title": "PepsiCo stock hits 52-week low at 134.65 USD",
-        "source": "Investing.com",
-        "label": "bearish",
-        "score": -0.9572
+        "score": 0.6754
       },
       {
         "title": "The USD is mixed to kickstart the North American session",
@@ -27,18 +29,10 @@
         "score": 0.5757
       },
       {
-        "title": "INR/USD: HSBC Offers Indian Diaspora 19x Leverage on FCNR(B) Deposits",
-        "source": "Bloomberg",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "AUD Rises as Rate Gap Offsets Yen Intervention Fears - TradingPedia",
-        "source": "Google News",
+        "title": "Silver Price Forecast: XAG/USD attempts to stabilize above $55.00",
+        "source": "FXStreet",
         "label": "bullish",
-        "score": 0.4983
+        "score": 0.946
       }
     ],
     "USD/CAD": [
