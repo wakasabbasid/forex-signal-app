@@ -17,22 +17,10 @@
         "score": 0.6676
       },
       {
-        "title": "The USD is mixed vs the major currencies. In the kickstart video, I outline the key technical levels in play",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
         "title": "British Pound drops as geopolitical risk premium revives USD",
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.7921
-      },
-      {
-        "title": "USD/JPY climbs above 163.00 for the first time since 1986",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9171
       }
     ],
     "USD/CHF": [

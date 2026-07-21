@@ -11,17 +11,17 @@
       ]
     },
     {
-      "title": "Belarusian ruble faces volatility amid Russian currency shifts and rate decisions - Belsat",
+      "title": "Large currency options set to expire Wednesday - Investing.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.7003,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Dollar hovers near one-week high as Mideast tensions keep markets wary - Investing.com",
+      "title": "Yen carry trade weathers storms as investors still rank currency highly - Nikkei Asia",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.6368,
+      "score": -0.5036,
       "currencies": []
     },
     {
@@ -46,13 +46,11 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "title": "Forex Today: US Dollar struggles to extend rebound as focus remains on Middle East - FXStreet",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
+      "label": "bearish",
+      "score": -0.9568,
+      "currencies": []
     },
     {
       "title": "exchange rate - Encyclopedia Britannica",
@@ -76,11 +74,13 @@
       "currencies": []
     },
     {
-      "title": "Rupee gains 12 paise to close at 96.24 against US dollar - ET EnergyWorld",
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.7684,
-      "currencies": []
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
@@ -90,59 +90,59 @@
       "currencies": []
     },
     {
-      "title": "OpenAI launches ChatGPT program for small businesses",
+      "title": "Amaroq announces chairman transition ahead of London listing",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "William R. Timmons IV invests in SpaceX via SCH Invest account",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Gold miners rally as bullion prices climb",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.4734,
-      "currencies": []
-    },
-    {
-      "title": "Intel (INTC) technical analysis: short-term surge meets daily breakdown and weekly base",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Analysis-India student protests give opposition a rare opening against Modi",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5109,
-      "currencies": []
-    },
-    {
-      "title": "Amgen settles shareholder lawsuit claiming it hid $10.7 billion tax bill",
+      "title": "Treasury yields hit two-month high on Iran tensions, oil surge",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9006,
+      "score": -0.658,
       "currencies": []
     },
     {
-      "title": "James A. Himes Sells Stocks in Bank of America, ExxonMobil, and Home Depot",
+      "title": "Databricks CEO said they are \u2019running out of GPUs everywhere\u2019",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9256,
+      "currencies": []
+    },
+    {
+      "title": "US appeals court raises prospect of re-arrest of pro-Palestinian advocate Mahdawi",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8185,
+      "currencies": []
+    },
+    {
+      "title": "Canadian dollar falls to one-week low on tariff concerns",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9612,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: RBB Bancorp tops Q2 2026 EPS forecast",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Alsea\u2019s Q2 2026 profit falls as guidance is cut",
+      "title": "Rubio meets China\u2019s Wang as US, China prepare for possible Xi visit",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Judge blocks Trump work permit restrictions for asylum seekers",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9733,
+      "score": -0.783,
       "currencies": []
     }
   ],
