@@ -1,18 +1,28 @@
 {
   "headlines": [
     {
-      "title": "India\u2019s Central Bank Says Forex Deposits Net $17.4 Billion - Bloomberg.com",
+      "title": "Rupee firms as oil retreats, traders gauge flow momentum under RBI measures - Reuters",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.3795,
       "currencies": []
     },
     {
-      "title": "Forex Forecasts \u2013 US Dollar Defends Key 50-Day EMA Across Major Pairs - Yahoo Finance",
+      "title": "RBI's inflow push gets off to strong start, fortifying India's balance of payments - Yahoo Finance Singapore",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.6216,
+      "score": 0.7187,
       "currencies": []
+    },
+    {
+      "title": "AUD/USD Breakout: Can Bulls Target 0.7030? - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
     },
     {
       "title": "India\u2019s forex deposit program attracts $17.4 billion - Investing.com",
@@ -26,30 +36,6 @@
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD Signal: On the Verge of a Bearish Breakout Ahead of ECB Decision - DailyForex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9168,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "GlobalPay Launches Forex Card Partner Platform - IBS Intelligence",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "South Korea to ease won access, aims for freely convertible currency - investingLive",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6147,
       "currencies": []
     },
     {
@@ -74,6 +60,15 @@
       "currencies": []
     },
     {
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.7706 \u2013 Reuters estimate - investingLive",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "Banks garner $20.7 billion via RBI's special forex swap window - The New Indian Express",
       "source": "Google News",
       "label": "neutral",
@@ -81,66 +76,73 @@
       "currencies": []
     },
     {
-      "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
+      "title": "Forex Forecasts \u2013 US Dollar Defends Key 50-Day EMA Across Major Pairs - Yahoo Finance",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.925,
+      "score": 0.6216,
       "currencies": []
     },
     {
-      "title": "Oracle may face $7bn collateral bill for Wisconsin data center- FT",
+      "title": "Major FX options set to expire Tuesday across currency pairs - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Novartis ADR earnings beat by $0.23, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9413,
+      "currencies": []
+    },
+    {
+      "title": "Morgan Stanley downgrades Intuit stock rating on tax concerns",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5456,
+      "score": -0.8402,
       "currencies": []
     },
     {
-      "title": "Why is QBE Insurance stock slipping today?",
+      "title": "Morgan Stanley downgrades Rapid7 stock rating on AI competition concerns",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9411,
+      "score": -0.865,
       "currencies": []
     },
     {
-      "title": "Asia stocks climb as easing oil rally supports risk appetite",
+      "title": "Barclays cuts Fraport stock rating on weak traffic momentum",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.4525,
+      "score": -0.964,
       "currencies": []
     },
     {
-      "title": "Japan bond jitters overshadow Takaichi\u2019s debut economic blueprint",
+      "title": "Morgan Stanley downgrades PagerDuty stock rating on AI threats",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6072,
+      "currencies": []
+    },
+    {
+      "title": "Morgan Stanley cuts SPS Commerce stock rating on EDI concerns",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8804,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Kinder Morgan Inc For: 21 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "KPMG Australia taps insider as CEO in wake of audit leak scandal",
+      "title": "Quantum dynamics CFO sells $50,399 in company stock",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.762,
-      "currencies": []
-    },
-    {
-      "title": "Asia FX: Dollar firms as Mideast tensions weigh on Asian currencies",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8542,
-      "currencies": []
-    },
-    {
-      "title": "Trump-aligned MAGA Inc builds stockpile of more than $400 million",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6347,
-      "currencies": []
-    },
-    {
-      "title": "US concludes 10th straight day of strikes on Iran, Tehran retaliates",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9092,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

@@ -1,52 +1,52 @@
 {
   "run_id": 1,
   "pairs": {
-    "EUR/USD": [
+    "AUD/USD": [
       {
-        "title": "EUR/USD Signal: On the Verge of a Bearish Breakout Ahead of ECB Decision - DailyForex",
+        "title": "AUD/USD Breakout: Can Bulls Target 0.7030? - DailyForex",
         "source": "Google News",
-        "label": "bearish",
-        "score": -0.9168
-      }
-    ],
-    "NZD/USD": [
-      {
-        "title": "NZD is solidly higher after higher than expected CPI. Be aware there is RBNZ inflation data due soon.",
-        "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.8205
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "USD/JPY": [
       {
-        "title": "PBOC sets USD/ CNY central rate at 6.7917 (vs. estimate at 6.7706)",
-        "source": "ForexLive",
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7706 \u2013 Reuters estimate - investingLive",
+        "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7706 \u2013 Reuters estimate",
+        "title": "USD/JPY is almost back to four-decade high as the US-Iran crisis, slow BoJ keep weighing on the yen",
         "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bearish",
+        "score": -0.8318
       },
       {
-        "title": "Gold rises cautiously as Fed hike bets, US\u2011Iran tensions and bullish USD cap gains",
+        "title": "Gold jumps to nearly one-week top as Iran diplomacy hopes undermine USD despite Fed bets",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.629
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD surges to near $58.20 as oil price rally hits pause",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.6603
+        "score": 0.937
       },
       {
-        "title": "Silver Price Forecast: XAG/USD bulls flirt with descending trend-line hurdle, above $57.00",
+        "title": "EUR/JPY Price Forecast: Holds gains above 185.50 near nine-day EMA support",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.9262
-      },
+        "score": 0.9379
+      }
+    ],
+    "EUR/USD": [
       {
-        "title": "PBOC sets USD/CNY reference rate at 6.7917 vs. 6.7948 previous",
+        "title": "EUR/JPY Price Forecast: Holds gains above 185.50 near nine-day EMA support",
         "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bullish",
+        "score": 0.9379
       }
     ]
   }
