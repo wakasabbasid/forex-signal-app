@@ -11,17 +11,10 @@
       ]
     },
     {
-      "title": "RBI forex window draws $20.7 billion in five weeks - PRESS Insider",
+      "title": "Counterfeit Currency Warning Issued in Pennington County - kotaradio.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Rupee firms as oil retreats, traders gauge flow momentum under RBI measures - Reuters",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.3795,
       "currencies": []
     },
     {
@@ -39,10 +32,17 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar struggles to extend rebound as focus remains on Middle East - FXStreet",
+      "title": "exchange rate - Encyclopedia Britannica",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9568,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "15 Best Forex Pairs to Trade - TMGM trading",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -53,7 +53,28 @@
       "currencies": []
     },
     {
-      "title": "15 Best Forex Pairs to Trade - TMGM trading",
+      "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.925,
+      "currencies": []
+    },
+    {
+      "title": "Rupee gains 12 paise to close at 96.24 against US dollar - ET Government",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7349,
+      "currencies": []
+    },
+    {
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9371,
+      "currencies": []
+    },
+    {
+      "title": "Our forex playbook for the trading community - FXStreet",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -69,77 +90,56 @@
       ]
     },
     {
-      "title": "Aurra Markets Named 'Top Low Spread Forex Broker 2026' at Money Expo Abu Dhabi - Yahoo Finance",
-      "source": "Google News",
+      "title": "Oil prices rise nearly 2% on fresh attacks by US and Iran",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6655,
+      "score": 0.6904,
       "currencies": []
     },
     {
-      "title": "Major FX options set to expire Tuesday across currency pairs - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Our forex playbook for the trading community - FXStreet",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Iranian forces target Bahrain and Kuwait after US hits Iran\u2019s south",
+      "title": "Novo Nordisk sues Eli Lilly, accusing it of false advertising",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7276,
+      "score": -0.9402,
       "currencies": []
     },
     {
-      "title": "Kraft Heinz stock rises on multiyear Disney supply partnership",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8892,
-      "currencies": []
-    },
-    {
-      "title": "Trump prepares fresh tariffs on dozens of countries, FT reports",
+      "title": "Advanced chipmaking tool arrives at New York state innovation hub",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Russia\u2019s fuel market shows partial recovery, deputy PM says",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9536,
-      "currencies": []
-    },
-    {
-      "title": "Why is Hacksaw stock sliding today?",
+      "title": "FTSE 100 today: Stocks reverse course as defense rally offsets Iran tensions",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8834,
-      "currencies": []
-    },
-    {
-      "title": "Trump to impose new tariffs on dozens of countries this week, FT reports",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "William Blair sees cybersecurity benefiting from AI amid Mythos concerns",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7604,
+      "score": -0.7959,
       "currencies": []
     },
     {
       "title": "US, Mexico resume USMCA trade talks as Trump hits Canada with new tariffs",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "ACE Q1 FY27 slides: 20.5% EBITDA margin marks best-ever quarter",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9491,
+      "currencies": []
+    },
+    {
+      "title": "Intersnack to acquire Utz Brands for $14.25 per share in cash",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Propel Industries selects ELECTRA AI battery analytics platform",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

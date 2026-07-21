@@ -7,6 +7,12 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.4675
+      },
+      {
+        "title": "EUR/USD stays rangebound ahead of ECB policy announcement as traders await Trump's decision on Iran",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.6356
       }
     ],
     "USD/JPY": [
@@ -17,18 +23,22 @@
         "score": -0.8252
       },
       {
+        "title": "The USD is mixed vs the major currencies. In the kickstart video, I outline the key technical levels in play",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
         "title": "USD/JPY is almost back to four-decade high as the US-Iran crisis, slow BoJ keep weighing on the yen",
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.8318
-      }
-    ],
-    "GBP/USD": [
+      },
       {
-        "title": "GBP/USD Price Forecast: Tests nine-day EMA support near 1.3400",
+        "title": "Gold Price Forecast: XAU/USD attempts Descending Triangle breakout near $4,070",
         "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bullish",
+        "score": 0.841
       }
     ]
   }
