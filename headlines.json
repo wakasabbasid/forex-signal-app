@@ -1,6 +1,23 @@
 {
   "headlines": [
     {
+      "title": "EUR/USD Forex Signal 21/07: Eyes a Bearish Breakout - DailyForex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.4675,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "RBI forex window draws $20.7 billion in five weeks - PRESS Insider",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Rupee firms as oil retreats, traders gauge flow momentum under RBI measures - Reuters",
       "source": "Google News",
       "label": "bearish",
@@ -8,24 +25,58 @@
       "currencies": []
     },
     {
-      "title": "RBI's inflow push gets off to strong start, fortifying India's balance of payments - Yahoo Finance Singapore",
+      "title": "Dollar hovers near one-week high as Mideast tensions keep markets wary - Investing.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.7187,
+      "label": "bearish",
+      "score": -0.6368,
       "currencies": []
     },
     {
-      "title": "AUD/USD Breakout: Can Bulls Target 0.7030? - DailyForex",
+      "title": "Forex Forecasts \u2013 US Dollar Defends Key 50-Day EMA Across Major Pairs - Yahoo Finance",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6216,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: US Dollar struggles to extend rebound as focus remains on Middle East - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9568,
+      "currencies": []
+    },
+    {
+      "title": "South Korea to ease forex rules for foreigners to trade won in push to liberalise market - The Business Times",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5672,
+      "currencies": []
+    },
+    {
+      "title": "15 Best Forex Pairs to Trade - TMGM trading",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "USD/ZAR Faces a Sentiment Test as Volatility Persists - DailyForex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8252,
       "currencies": [
-        "AUD",
         "USD"
       ]
     },
     {
-      "title": "India\u2019s forex deposit program attracts $17.4 billion - Investing.com",
+      "title": "Aurra Markets Named 'Top Low Spread Forex Broker 2026' at Money Expo Abu Dhabi - Yahoo Finance",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6655,
+      "currencies": []
+    },
+    {
+      "title": "Major FX options set to expire Tuesday across currency pairs - Investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -39,107 +90,56 @@
       "currencies": []
     },
     {
-      "title": "South Korea to ease forex rules for foreigners to trade won in push to liberalise market - The Business Times",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5672,
+      "title": "Iranian forces target Bahrain and Kuwait after US hits Iran\u2019s south",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7276,
       "currencies": []
     },
     {
-      "title": "exchange rate - Encyclopedia Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "15 Best Forex Pairs to Trade - TMGM trading",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.7706 \u2013 Reuters estimate - investingLive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Banks garner $20.7 billion via RBI's special forex swap window - The New Indian Express",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Forecasts \u2013 US Dollar Defends Key 50-Day EMA Across Major Pairs - Yahoo Finance",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6216,
-      "currencies": []
-    },
-    {
-      "title": "Major FX options set to expire Tuesday across currency pairs - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Novartis ADR earnings beat by $0.23, revenue topped estimates",
+      "title": "Kraft Heinz stock rises on multiyear Disney supply partnership",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9413,
+      "score": 0.8892,
       "currencies": []
     },
     {
-      "title": "Morgan Stanley downgrades Intuit stock rating on tax concerns",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8402,
-      "currencies": []
-    },
-    {
-      "title": "Morgan Stanley downgrades Rapid7 stock rating on AI competition concerns",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.865,
-      "currencies": []
-    },
-    {
-      "title": "Barclays cuts Fraport stock rating on weak traffic momentum",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.964,
-      "currencies": []
-    },
-    {
-      "title": "Morgan Stanley downgrades PagerDuty stock rating on AI threats",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6072,
-      "currencies": []
-    },
-    {
-      "title": "Morgan Stanley cuts SPS Commerce stock rating on EDI concerns",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8804,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Kinder Morgan Inc For: 21 July",
+      "title": "Trump prepares fresh tariffs on dozens of countries, FT reports",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Quantum dynamics CFO sells $50,399 in company stock",
+      "title": "Russia\u2019s fuel market shows partial recovery, deputy PM says",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9536,
+      "currencies": []
+    },
+    {
+      "title": "Why is Hacksaw stock sliding today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8834,
+      "currencies": []
+    },
+    {
+      "title": "Trump to impose new tariffs on dozens of countries this week, FT reports",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "William Blair sees cybersecurity benefiting from AI amid Mythos concerns",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7604,
+      "currencies": []
+    },
+    {
+      "title": "US, Mexico resume USMCA trade talks as Trump hits Canada with new tariffs",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

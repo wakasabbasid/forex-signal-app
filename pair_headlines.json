@@ -1,52 +1,34 @@
 {
   "run_id": 1,
   "pairs": {
-    "AUD/USD": [
+    "EUR/USD": [
       {
-        "title": "AUD/USD Breakout: Can Bulls Target 0.7030? - DailyForex",
+        "title": "EUR/USD Forex Signal 21/07: Eyes a Bearish Breakout - DailyForex",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bearish",
+        "score": -0.4675
       }
     ],
     "USD/JPY": [
       {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7706 \u2013 Reuters estimate - investingLive",
+        "title": "USD/ZAR Faces a Sentiment Test as Volatility Persists - DailyForex",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bearish",
+        "score": -0.8252
       },
       {
         "title": "USD/JPY is almost back to four-decade high as the US-Iran crisis, slow BoJ keep weighing on the yen",
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.8318
-      },
-      {
-        "title": "Gold jumps to nearly one-week top as Iran diplomacy hopes undermine USD despite Fed bets",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.629
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD surges to near $58.20 as oil price rally hits pause",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.937
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Holds gains above 185.50 near nine-day EMA support",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9379
       }
     ],
-    "EUR/USD": [
+    "GBP/USD": [
       {
-        "title": "EUR/JPY Price Forecast: Holds gains above 185.50 near nine-day EMA support",
+        "title": "GBP/USD Price Forecast: Tests nine-day EMA support near 1.3400",
         "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9379
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }
