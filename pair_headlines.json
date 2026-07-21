@@ -3,10 +3,10 @@
   "pairs": {
     "EUR/USD": [
       {
-        "title": "EUR/USD Forex Signal 21/07: Eyes a Bearish Breakout - DailyForex",
+        "title": "EUR/USD Signal: Eyes a Bearish Breakout as the US Dollar Jumps on Inflation Fears - DailyForex",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.4675
+        "score": -0.4892
       }
     ],
     "USD/JPY": [
@@ -15,20 +15,6 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.6676
-      },
-      {
-        "title": "British Pound drops as geopolitical risk premium revives USD",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.7921
-      }
-    ],
-    "USD/CHF": [
-      {
-        "title": "USD/CHF Price Forecast: Buyers hold the upper hand above 0.8000",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.5803
       }
     ]
   }

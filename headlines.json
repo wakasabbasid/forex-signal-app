@@ -1,10 +1,10 @@
 {
   "headlines": [
     {
-      "title": "EUR/USD Forex Signal 21/07: Eyes a Bearish Breakout - DailyForex",
+      "title": "EUR/USD Signal: Eyes a Bearish Breakout as the US Dollar Jumps on Inflation Fears - DailyForex",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.4675,
+      "score": -0.4892,
       "currencies": [
         "EUR",
         "USD"
@@ -25,13 +25,6 @@
       "currencies": []
     },
     {
-      "title": "Bitget Launches Industry-First Quanto Perpetual Futures for TradFi Assets - PA Media",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Aurra Markets Named 'Top Low Spread Forex Broker 2026' at Money Expo Abu Dhabi - Yahoo Finance",
       "source": "Google News",
       "label": "bullish",
@@ -46,10 +39,10 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar struggles to extend rebound as focus remains on Middle East - FXStreet",
+      "title": "Bitget Launches Industry-First Quanto Perpetual Futures for TradFi Assets - PA Media",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9568,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -90,59 +83,66 @@
       "currencies": []
     },
     {
-      "title": "Amaroq announces chairman transition ahead of London listing",
+      "title": "GlobalPay Launches Forex Card Partner Platform - IBS Intelligence",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US war in Iran has cost $37.5 billion so far, Pentagon says",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7345,
+      "currencies": []
+    },
+    {
+      "title": "Snap-on Sr VP Timothy Chambers disposes of $163,156 in company stock",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5287,
+      "currencies": []
+    },
+    {
+      "title": "United Therapeutics CEO Rothblatt sells $5.05m in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Treasury yields hit two-month high on Iran tensions, oil surge",
+      "title": "Alaska Air forecasts quarterly profit below estimates as jet fuel prices stay high",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.658,
+      "score": -0.8567,
       "currencies": []
     },
     {
-      "title": "Databricks CEO said they are \u2019running out of GPUs everywhere\u2019",
+      "title": "EQT raises 2026 production guidance on strong well performance, shares edge higher",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9256,
+      "label": "bullish",
+      "score": 0.9428,
       "currencies": []
     },
     {
-      "title": "US appeals court raises prospect of re-arrest of pro-Palestinian advocate Mahdawi",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8185,
-      "currencies": []
-    },
-    {
-      "title": "Canadian dollar falls to one-week low on tariff concerns",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9612,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: RBB Bancorp tops Q2 2026 EPS forecast",
+      "title": "Form 144 EverCommerce Inc. For: 21 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Rubio meets China\u2019s Wang as US, China prepare for possible Xi visit",
+      "title": "Raymond James initiates Coinbase stock coverage with Market Perform",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Judge blocks Trump work permit restrictions for asylum seekers",
+      "title": "BTIG initiates Altria stock coverage with neutral rating",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.783,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
