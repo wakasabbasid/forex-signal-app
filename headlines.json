@@ -18,17 +18,31 @@
       "currencies": []
     },
     {
-      "title": "Dollar hovers near one-week high as Mideast tensions keep markets wary - Investing.com",
+      "title": "Dollar holds near one-week high as yen sinks to 40-year low amid Middle East woes - Investing.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.6368,
+      "score": -0.7996,
       "currencies": []
     },
     {
-      "title": "Forex Forecasts \u2013 US Dollar Defends Key 50-Day EMA Across Major Pairs - Yahoo Finance",
+      "title": "Bitget Launches Industry-First Quanto Perpetual Futures for TradFi Assets - PA Media",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Aurra Markets Named 'Top Low Spread Forex Broker 2026' at Money Expo Abu Dhabi - Yahoo Finance",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.6216,
+      "score": 0.6655,
+      "currencies": []
+    },
+    {
+      "title": "South Korea to ease forex rules for foreigners to trade won in push to liberalise market - The Business Times",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5672,
       "currencies": []
     },
     {
@@ -46,10 +60,10 @@
       "currencies": []
     },
     {
-      "title": "South Korea to ease forex rules for foreigners to trade won in push to liberalise market - The Business Times",
+      "title": "Rupee gains 12 paise to close at 96.24 against US dollar - ET Government",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.5672,
+      "score": 0.7349,
       "currencies": []
     },
     {
@@ -60,10 +74,10 @@
       "currencies": []
     },
     {
-      "title": "Rupee gains 12 paise to close at 96.24 against US dollar - ET Government",
+      "title": "Yen Support Measures Face Market Skepticism. Forecast as of 21.07.2026 - LiteFinance",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.7349,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -74,72 +88,56 @@
       "currencies": []
     },
     {
-      "title": "Our forex playbook for the trading community - FXStreet",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "title": "Jefferies downgrades Datadog after 94% YTD rally",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9031,
       "currencies": []
     },
     {
-      "title": "USD/ZAR Faces a Sentiment Test as Volatility Persists - DailyForex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8252,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Oil prices rise nearly 2% on fresh attacks by US and Iran",
+      "title": "GM boosts profit outlook, cites \u2019resilient\u2019 consumer demand",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6904,
+      "score": 0.9435,
       "currencies": []
     },
     {
-      "title": "Novo Nordisk sues Eli Lilly, accusing it of false advertising",
+      "title": "Velo3D stock rises on Livermore manufacturing campus opening",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9402,
+      "score": -0.7177,
       "currencies": []
     },
     {
-      "title": "Advanced chipmaking tool arrives at New York state innovation hub",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "FTSE 100 today: Stocks reverse course as defense rally offsets Iran tensions",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7959,
-      "currencies": []
-    },
-    {
-      "title": "US, Mexico resume USMCA trade talks as Trump hits Canada with new tariffs",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "ACE Q1 FY27 slides: 20.5% EBITDA margin marks best-ever quarter",
+      "title": "Sidus Space stock jumps on $170M capital raise, Russell inclusion",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9491,
+      "score": 0.8109,
       "currencies": []
     },
     {
-      "title": "Intersnack to acquire Utz Brands for $14.25 per share in cash",
+      "title": "Form 144 Snowflake Inc. For: 21 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Propel Industries selects ELECTRA AI battery analytics platform",
+      "title": "Earnings call transcript: Northrop Grumman beats Q2 2026 estimates, raises outlook",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7997,
+      "currencies": []
+    },
+    {
+      "title": "Trump administration to unveil forced labor trade action soon, says Greer",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Moonshot AI eyes $50 billion valuation, Hong Kong IPO after Kimi K3 breakthrough",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
