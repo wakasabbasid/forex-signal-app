@@ -9,28 +9,44 @@
         "score": -0.9168
       }
     ],
-    "GBP/USD": [
+    "NZD/USD": [
       {
-        "title": "GBP/JPY Price Forecast: Uptrend pauses, bulls eye 219 breakout",
-        "source": "FXStreet",
+        "title": "NZD is solidly higher after higher than expected CPI. Be aware there is RBNZ inflation data due soon.",
+        "source": "ForexLive",
         "label": "bullish",
-        "score": 0.5344
+        "score": 0.8205
       }
     ],
     "USD/JPY": [
       {
-        "title": "GBP/JPY Price Forecast: Uptrend pauses, bulls eye 219 breakout",
+        "title": "PBOC sets USD/ CNY central rate at 6.7917 (vs. estimate at 6.7706)",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7706 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Gold rises cautiously as Fed hike bets, US\u2011Iran tensions and bullish USD cap gains",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.5344
-      }
-    ],
-    "USD/CHF": [
+        "score": 0.6603
+      },
       {
-        "title": "USD/CHF Price Forecast: Reclaims 0.8100 as market structure is bullish",
+        "title": "Silver Price Forecast: XAG/USD bulls flirt with descending trend-line hurdle, above $57.00",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.7329
+        "label": "bullish",
+        "score": 0.9262
+      },
+      {
+        "title": "PBOC sets USD/CNY reference rate at 6.7917 vs. 6.7948 previous",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }

@@ -15,7 +15,7 @@
       "currencies": []
     },
     {
-      "title": "Major FX options set to expire Tuesday across currency pairs - Investing.com",
+      "title": "India\u2019s forex deposit program attracts $17.4 billion - Investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -53,31 +53,10 @@
       "currencies": []
     },
     {
-      "title": "Banks garner $20.7 billion via RBI's special forex swap window - The New Indian Express",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "South Korea to ease forex rules for foreigners to trade won in push to liberalise market - The Business Times",
       "source": "Google News",
       "label": "bullish",
       "score": 0.5672,
-      "currencies": []
-    },
-    {
-      "title": "India's forex boost: RBI's swap scheme raises $20.72 billion so far - The Times of India",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8877,
-      "currencies": []
-    },
-    {
-      "title": "15 Best Forex Pairs to Trade - TMGM trading",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -88,59 +67,80 @@
       "currencies": []
     },
     {
-      "title": "Diplomatic efforts seek to avert Trump split with UN refugee agency, sources say",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6424,
+      "title": "15 Best Forex Pairs to Trade - TMGM trading",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Twenty-seven bodies recovered after ferry capsizes off Guyana",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7617,
+      "title": "Banks garner $20.7 billion via RBI's special forex swap window - The New Indian Express",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US condemns China actions against Philippine navy in South China Sea",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8256,
-      "currencies": []
-    },
-    {
-      "title": "Airbus H1 deliveries up 15%, on track to meet FY goal- CEO to CNBC",
-      "source": "Investing.com",
+      "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
+      "source": "Google News",
       "label": "bullish",
-      "score": 0.9492,
+      "score": 0.925,
       "currencies": []
     },
     {
-      "title": "Trump says he had \u2019very good conversation\u2019 with new British PM Burnham",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7802,
-      "currencies": []
-    },
-    {
-      "title": "US DOJ says it is probing Harvard over financial aid programs",
+      "title": "Oracle may face $7bn collateral bill for Wisconsin data center- FT",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7449,
+      "score": -0.5456,
       "currencies": []
     },
     {
-      "title": "US judge approves Anthropic\u2019s $1.5 billion settlement of copyright lawsuit",
+      "title": "Why is QBE Insurance stock slipping today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9411,
+      "currencies": []
+    },
+    {
+      "title": "Asia stocks climb as easing oil rally supports risk appetite",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.4525,
+      "currencies": []
+    },
+    {
+      "title": "Japan bond jitters overshadow Takaichi\u2019s debut economic blueprint",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "New Zealand Q2 inflation rises more than expected at 4.1%",
+      "title": "KPMG Australia taps insider as CEO in wake of audit leak scandal",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.762,
+      "currencies": []
+    },
+    {
+      "title": "Asia FX: Dollar firms as Mideast tensions weigh on Asian currencies",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8542,
+      "currencies": []
+    },
+    {
+      "title": "Trump-aligned MAGA Inc builds stockpile of more than $400 million",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.923,
+      "score": 0.6347,
+      "currencies": []
+    },
+    {
+      "title": "US concludes 10th straight day of strikes on Iran, Tehran retaliates",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9092,
       "currencies": []
     }
   ],
