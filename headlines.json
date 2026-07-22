@@ -1,6 +1,20 @@
 {
   "headlines": [
     {
+      "title": "Vice Minister Huh Urges Exporters to Convert Currency as Forex Eases - \uc870\uc120\uc77c\ubcf4",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "EUR/USD Signal: Eyes a Bearish Breakout as the US Dollar Jumps on Inflation Fears - DailyForex",
       "source": "Google News",
       "label": "bearish",
@@ -18,6 +32,13 @@
       "currencies": []
     },
     {
+      "title": "Yen breaks \u00a5163 and trades at levels last seen in 1986 - The Japan Times",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6399,
+      "currencies": []
+    },
+    {
       "title": "Large currency options set to expire Wednesday - Investing.com",
       "source": "Google News",
       "label": "neutral",
@@ -25,17 +46,10 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar rises as Middle East tensions lift Oil - Mitrade",
+      "title": "Japan finmin flags Iran crisis as yen hits 40-year low, ambush risk builds - investingLive",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.9199,
-      "currencies": []
-    },
-    {
-      "title": "Aurra Markets Named 'Top Low Spread Forex Broker 2026' at Money Expo Abu Dhabi - Yahoo Finance",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6655,
+      "label": "bearish",
+      "score": -0.4635,
       "currencies": []
     },
     {
@@ -46,10 +60,10 @@
       "currencies": []
     },
     {
-      "title": "exchange rate - Encyclopedia Britannica",
+      "title": "Forex Forecasts \u2013 US Dollar Defends Key 50-Day EMA Across Major Pairs - Yahoo Finance",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.6216,
       "currencies": []
     },
     {
@@ -60,87 +74,75 @@
       "currencies": []
     },
     {
-      "title": "AFRICA-FX-Kenyan currency could be boosted by remittances - Reuters",
+      "title": "exchange rate - Encyclopedia Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.925,
-      "currencies": []
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
     },
     {
-      "title": "Bitget Launches Industry-First Quanto Perpetual Futures for TradFi Assets - PA Media",
-      "source": "Google News",
+      "title": "Zhongji Innolight targets $7bn in Hong Kong share sale",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
+      "title": "Asia stocks climb on tech gains, KOSPI surges 5%; Middle East tensions simmer",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9371,
+      "score": 0.9033,
       "currencies": []
     },
     {
-      "title": "GlobalPay Launches Forex Card Partner Platform - IBS Intelligence",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US, Mexico resume USMCA trade talks as Trump hits Canada with new tariffs",
+      "title": "BCI Minerals at Noosa Mining Conference 2026: salt project nears finish",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "STEM CFO Brian Musfeldt sells $6,085 in company stock",
+      "title": "Ex-NFL player Feely projected to win Arizona\u2019s first district U.S. House primary",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Saba Capital sells $1.3m in BlackRock ESG Capital Trust shares",
+      "title": "Pakistan seeks $10 billion in US backstop facility to boost reserves, source says",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9257,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Enliven Therapeutics Inc For: 21 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form DEF 14A Check\nthe appropriate box: For: 21 July",
+      "title": "Enliven Therapeutics CFO Hohl sells $316,780 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 Rani Therapeutics Holdings Inc For: 21 July",
+      "title": "Form 4 Satellogic Inc For: 21 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Trump says generic drugs to face no US tariffs for 2 years, then 100% and 200% tariffs later",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "War in Iran has cost the US $37.5 billion so far, Pentagon says",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9504,
-      "currencies": []
-    },
-    {
-      "title": "Fuel costs cloud Alaska Air\u2019s outlook even as demand remains strong",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8268,
       "currencies": []
     }
   ],

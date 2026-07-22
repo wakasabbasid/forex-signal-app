@@ -7,28 +7,58 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.4892
+      },
+      {
+        "title": "EUR/JPY Price Forecast: Tests ascending triangle top above 186.00",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "USD/JPY": [
       {
-        "title": "USD/JPY hits fresh 40-year high above 163 as equities, yields and oil all gain",
-        "source": "ForexLive",
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+        "source": "Google News",
         "label": "bullish",
-        "score": 0.8962
+        "score": 0.6676
       },
       {
-        "title": "GBP/JPY Price Forecast: Holds above 218.00 bulls eye YTD peak",
+        "title": "PBOC sets USD/ CNY mid-point today at 6.7933 (vs. estimate at 6.7737)",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7737 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "EUR/JPY Price Forecast: Tests ascending triangle top above 186.00",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD rises to near $60.00 despite surging inflation fears",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.9069
+        "score": 0.9466
+      },
+      {
+        "title": "PHP/USD: Philippine Peso Declines to Match Record Low on Higher Oil Prices",
+        "source": "Bloomberg",
+        "label": "bearish",
+        "score": -0.9722
       }
     ],
     "GBP/USD": [
       {
-        "title": "GBP/JPY Price Forecast: Holds above 218.00 bulls eye YTD peak",
+        "title": "UK CPI set to show receding inflation in June as GBP/USD fails at May highs",
         "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9069
+        "label": "bearish",
+        "score": -0.9184
       }
     ]
   }
