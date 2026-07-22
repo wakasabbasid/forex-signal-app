@@ -11,16 +11,10 @@
     ],
     "USD/JPY": [
       {
-        "title": "Gold Price Forecast: XAU/USD holds gains above $4,100 undaunted by risk-off markets",
-        "source": "FXStreet",
+        "title": "The USD is little changed to kickstart the North American trading day",
+        "source": "ForexLive",
         "label": "bullish",
-        "score": 0.9482
-      },
-      {
-        "title": "British Pound sticks to post-UK inflation losses as faster BoJ rate hike bets lift JPY",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.6815
+        "score": 0.789
       }
     ]
   }

@@ -8,13 +8,6 @@
       "currencies": []
     },
     {
-      "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Vice Minister Huh Urges Exporters to Convert Currency as Forex Eases - \uc870\uc120\uc77c\ubcf4",
       "source": "Google News",
       "label": "neutral",
@@ -30,6 +23,13 @@
         "EUR",
         "USD"
       ]
+    },
+    {
+      "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "Large currency options set to expire Wednesday - Investing.com",
@@ -74,13 +74,6 @@
       "currencies": []
     },
     {
-      "title": "Yen breaks \u00a5163 and trades at levels last seen in 1986 - The Japan Times",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6399,
-      "currencies": []
-    },
-    {
       "title": "Forex Forecasts \u2013 US Dollar Defends Key 50-Day EMA Across Major Pairs - Yahoo Finance",
       "source": "Google News",
       "label": "bullish",
@@ -88,59 +81,66 @@
       "currencies": []
     },
     {
-      "title": "Too many trucks, too many zeros: Army audit drive exposes flaws as Pentagon nears 2028 goal",
+      "title": "Yen breaks \u00a5163 and trades at levels last seen in 1986 - The Japan Times",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6399,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: KPN posts slight Q2 2026 beat as guidance stays cautious",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8839,
+      "currencies": []
+    },
+    {
+      "title": "Moody\u2019s quarterly profit jumps on bond issuance activity strength",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5739,
+      "score": -0.7415,
       "currencies": []
     },
     {
-      "title": "Analysis-Separate US talks with Canada, Mexico test North America\u2019s trilateral trade pact",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7762,
-      "currencies": []
-    },
-    {
-      "title": "TE Connectivity earnings beat by $0.10, revenue topped estimates",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9439,
-      "currencies": []
-    },
-    {
-      "title": "UBS upgrades Sonova on valuation discount, product cycle",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5828,
-      "currencies": []
-    },
-    {
-      "title": "Oil climbs over 4% to near six-week high as conflict threatens key oil transit routes",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8374,
-      "currencies": []
-    },
-    {
-      "title": "UK\u2019s BAE enters uncrewed fighter competition with \u2019Brontanax\u2019",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8127,
-      "currencies": []
-    },
-    {
-      "title": "Exclusive-Marco Rubio tells diplomats to play down talk of American tech \u2019kill switch\u2019",
+      "title": "Deutsche Bank reiterates Buy on Celanese stock ahead of Q2 earnings",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "New US 25% tariff hits billions of dollars in Brazilian exports",
+      "title": "Rubio meets Wang, discusses laying groundwork for Chinese president\u2019s US visit",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Stifel cuts DraftKings stock price target on June outcomes",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.4446,
+      "score": -0.5109,
+      "currencies": []
+    },
+    {
+      "title": "Explainer-Why is a proposed US-Saudi nuclear pact causing alarm in Washington and the Middle East?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7869,
+      "currencies": []
+    },
+    {
+      "title": "OneSpan launches unified authentication platform DigipassONE",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Glass Lewis backs two Radoff-JEC nominees for Seer board",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
