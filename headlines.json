@@ -8,13 +8,6 @@
       "currencies": []
     },
     {
-      "title": "Vice Minister Huh Urges Exporters to Convert Currency as Forex Eases - \uc870\uc120\uc77c\ubcf4",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "EUR/USD Signal: Hits Lower Side of Bearish Flag Ahead of ECB Decision - DailyForex",
       "source": "Google News",
       "label": "bearish",
@@ -23,6 +16,13 @@
         "EUR",
         "USD"
       ]
+    },
+    {
+      "title": "Vice Minister Huh Urges Exporters to Convert Currency as Forex Eases - \uc870\uc120\uc77c\ubcf4",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
@@ -39,6 +39,13 @@
       "currencies": []
     },
     {
+      "title": "Yen Hits Fresh 40-Year Low. Can Japan Still Defend Its Currency? - ActionForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "USD/MXN Forecast: Mexican peso stays neutral as uncertainty persists - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -48,10 +55,10 @@
       ]
     },
     {
-      "title": "Yen Hits Fresh 40-Year Low. Can Japan Still Defend Its Currency? - ActionForex",
+      "title": "Yen Hovers Near Multi-Decade Low on Intervention - TradingPedia",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.8778,
       "currencies": []
     },
     {
@@ -62,10 +69,10 @@
       "currencies": []
     },
     {
-      "title": "Yen Hovers Near Multi-Decade Low on Intervention - TradingPedia",
+      "title": "Forex Forecasts \u2013 US Dollar Defends Key 50-Day EMA Across Major Pairs - Yahoo Finance",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.8778,
+      "label": "bullish",
+      "score": 0.6216,
       "currencies": []
     },
     {
@@ -85,63 +92,56 @@
       ]
     },
     {
-      "title": "Forex Forecasts \u2013 US Dollar Defends Key 50-Day EMA Across Major Pairs - Yahoo Finance",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6216,
-      "currencies": []
-    },
-    {
-      "title": "Deutsche Boerse reports 12% profit rise in second quarter",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9486,
-      "currencies": []
-    },
-    {
-      "title": "Deutsche B\u00f6rse tops Q2 consensus revenue expectations",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8826,
-      "currencies": []
-    },
-    {
-      "title": "Groupe SEB H1 2026 slides: profit jumps 44% as Rebound plan delivers",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.537,
-      "currencies": []
-    },
-    {
-      "title": "US trade chief Greer aiming for \u2019interim arrangements\u2019 on USMCA by year end",
+      "title": "Nexstar to launch nightly newscasts in Dallas, Phoenix markets",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Chinese AI\u2019s role in stopping rogue OpenAI agent shows cost of US guardrails",
+      "title": "French modelling scout linked to Epstein found dead",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5744,
+      "label": "bearish",
+      "score": -0.731,
       "currencies": []
     },
     {
-      "title": "Canadian dollar gains as oil prices climb",
+      "title": "CME profit tops estimates, CEO says \u2019perps\u2019 chatter overshadows results",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8622,
+      "score": 0.5544,
       "currencies": []
     },
     {
-      "title": "Air Products declares $1.81 quarterly dividend",
+      "title": "Spain, France battle wildfires as intense heat grips Southern Europe",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US FDA continues investigating Taylor Farms as cyclosporiasis cases mount (July 20)",
+      "title": "Form 4 Clarion Partners Real Estate Income Fund Inc. For: 22 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form DEF 14A Credit Acceptance Corporation For: 22 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Sterling Real Estate Trust For: 22 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Top paper & packaging stocks to watch this earnings season, per Citi",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
