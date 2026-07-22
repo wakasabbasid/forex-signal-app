@@ -8,6 +8,13 @@
       "currencies": []
     },
     {
+      "title": "Vice Minister Huh Urges Exporters to Convert Currency as Forex Eases - \uc870\uc120\uc77c\ubcf4",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "EUR/USD Signal: Hits Lower Side of Bearish Flag Ahead of ECB Decision - DailyForex",
       "source": "Google News",
       "label": "bearish",
@@ -18,17 +25,17 @@
       ]
     },
     {
-      "title": "Vice Minister Huh Urges Exporters to Convert Currency as Forex Eases - \uc870\uc120\uc77c\ubcf4",
+      "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
+      "title": "US fund managers shy away from 'significantly undervalued' yen - Nikkei Asia",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9323,
       "currencies": []
     },
     {
@@ -69,13 +76,12 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY stays in focus after run to fresh 40-year high - investingLive",
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8833,
+      "score": 0.6676,
       "currencies": [
-        "USD",
-        "JPY"
+        "USD"
       ]
     },
     {
@@ -86,63 +92,56 @@
       "currencies": []
     },
     {
-      "title": "Yen carry trade weathers storms as investors still rank currency highly - Nikkei Asia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5036,
-      "currencies": []
-    },
-    {
-      "title": "Greece stocks higher at close of trade; Athens General Composite up 0.24%",
+      "title": "Deutsche Boerse reports 12% profit rise in second quarter",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9413,
+      "score": 0.9486,
       "currencies": []
     },
     {
-      "title": "Packaging Corp earnings set to report amid freight cost headwinds",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9549,
-      "currencies": []
-    },
-    {
-      "title": "Norwood Q2 2026 slides: record profit amid integration completion",
+      "title": "Deutsche B\u00f6rse tops Q2 consensus revenue expectations",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9323,
+      "score": 0.8826,
       "currencies": []
     },
     {
-      "title": "Chemours earnings on deck as investors eye margin recovery",
+      "title": "Groupe SEB H1 2026 slides: profit jumps 44% as Rebound plan delivers",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6234,
+      "score": 0.537,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Northpointe Bancshares misses Q2 2026 estimates",
+      "title": "US trade chief Greer aiming for \u2019interim arrangements\u2019 on USMCA by year end",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Huntington Bancshares set to report earnings as analysts eye NIM",
+      "title": "Chinese AI\u2019s role in stopping rogue OpenAI agent shows cost of US guardrails",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.518,
+      "score": 0.5744,
       "currencies": []
     },
     {
-      "title": "Reliance Steel earnings in focus as growth momentum builds",
+      "title": "Canadian dollar gains as oil prices climb",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8886,
+      "score": 0.8622,
       "currencies": []
     },
     {
-      "title": "NFL raises $600M via private bonds backed by team assessments - Bloomberg",
+      "title": "Air Products declares $1.81 quarterly dividend",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US FDA continues investigating Taylor Farms as cyclosporiasis cases mount (July 20)",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
