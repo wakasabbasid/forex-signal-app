@@ -17,16 +17,24 @@
         "score": 0.0
       },
       {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.6676
+        "title": "GBP/JPY Price Forecast: Breaks support trendline, eyes on 217.50",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       },
       {
         "title": "Silver Price Forecast: XAG/USD struggles to build momentum above $60.00",
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.8874
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/JPY Price Forecast: Breaks support trendline, eyes on 217.50",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "USD/CHF": [

@@ -32,13 +32,6 @@
       "currencies": []
     },
     {
-      "title": "US fund managers shy away from 'significantly undervalued' yen - Nikkei Asia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9323,
-      "currencies": []
-    },
-    {
       "title": "Yen Hits Fresh 40-Year Low. Can Japan Still Defend Its Currency? - ActionForex",
       "source": "Google News",
       "label": "neutral",
@@ -76,6 +69,20 @@
       "currencies": []
     },
     {
+      "title": "South Korea to ease forex rules for foreigners to trade won in push to liberalise market - The Business Times",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5672,
+      "currencies": []
+    },
+    {
+      "title": "15 Best Forex Pairs to Trade - TMGM trading",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Japan ready to take decisive action on forex if needed, finance minister says - The Standard (HK)",
       "source": "Google News",
       "label": "bullish",
@@ -83,68 +90,59 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Nexstar to launch nightly newscasts in Dallas, Phoenix markets",
+      "title": "Form 4 Rivian Automotive Inc For: 22 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "French modelling scout linked to Epstein found dead",
+      "title": "Form 4 AvalonBay Communities Inc For: 22 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Chemung earnings beat by $0.05, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9457,
+      "currencies": []
+    },
+    {
+      "title": "Kalanick\u2019s Atoms raises $1.7B in a16z-led round for industrial AI",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.864,
+      "currencies": []
+    },
+    {
+      "title": "Graco shares rise on earnings beat despite revenue miss",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8312,
+      "currencies": []
+    },
+    {
+      "title": "Google beats quarterly revenue expectations off of enterprise AI surge",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.91,
+      "currencies": []
+    },
+    {
+      "title": "Goosehead Insurance earnings beat by $0.16, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.941,
+      "currencies": []
+    },
+    {
+      "title": "Sigma Lithium faces $540,000 in fines from Brazil regulator",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.731,
-      "currencies": []
-    },
-    {
-      "title": "CME profit tops estimates, CEO says \u2019perps\u2019 chatter overshadows results",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5544,
-      "currencies": []
-    },
-    {
-      "title": "Spain, France battle wildfires as intense heat grips Southern Europe",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Clarion Partners Real Estate Income Fund Inc. For: 22 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form DEF 14A Credit Acceptance Corporation For: 22 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Sterling Real Estate Trust For: 22 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Top paper & packaging stocks to watch this earnings season, per Citi",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "score": -0.9558,
       "currencies": []
     }
   ],
