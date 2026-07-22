@@ -11,17 +11,17 @@
       ]
     },
     {
-      "title": "Large currency options set to expire Wednesday - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Yen carry trade weathers storms as investors still rank currency highly - Nikkei Asia",
       "source": "Google News",
       "label": "bearish",
       "score": -0.5036,
+      "currencies": []
+    },
+    {
+      "title": "Large currency options set to expire Wednesday - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -46,14 +46,14 @@
       "currencies": []
     },
     {
-      "title": "15 Best Forex Pairs to Trade - TMGM trading",
+      "title": "exchange rate - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "exchange rate - Encyclopedia Britannica",
+      "title": "15 Best Forex Pairs to Trade - TMGM trading",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -88,59 +88,59 @@
       "currencies": []
     },
     {
-      "title": "Airbus targets near-doubling of earnings by 2029, launches buyback",
+      "title": "US, Mexico resume USMCA trade talks as Trump hits Canada with new tariffs",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.884,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "KPMG Australia taps insider as CEO in wake of audit leak scandal",
+      "title": "STEM CFO Brian Musfeldt sells $6,085 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Saba Capital sells $1.3m in BlackRock ESG Capital Trust shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form DEF 14A Check\nthe appropriate box: For: 21 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Rani Therapeutics Holdings Inc For: 21 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Trump says generic drugs to face no US tariffs for 2 years, then 100% and 200% tariffs later",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "War in Iran has cost the US $37.5 billion so far, Pentagon says",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.762,
+      "score": -0.9504,
       "currencies": []
     },
     {
-      "title": "Canada cancels joint bridge celebration with US, citing Trump trade threats",
+      "title": "Fuel costs cloud Alaska Air\u2019s outlook even as demand remains strong",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9361,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Capital One beats Q2 2026 profit estimates as stock edges higher",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9267,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Phillips 66 Ltd For: 21 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 D Wave Quantum Inc For: 21 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Jack In The Box Inc For: 21 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "D-Wave quantum CHRO Sophie Ames sells $52,041 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "score": -0.8268,
       "currencies": []
     }
   ],

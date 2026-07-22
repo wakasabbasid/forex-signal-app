@@ -15,6 +15,20 @@
         "source": "ForexLive",
         "label": "bullish",
         "score": 0.8962
+      },
+      {
+        "title": "GBP/JPY Price Forecast: Holds above 218.00 bulls eye YTD peak",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9069
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/JPY Price Forecast: Holds above 218.00 bulls eye YTD peak",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9069
       }
     ]
   }
