@@ -11,6 +11,18 @@
     ],
     "USD/JPY": [
       {
+        "title": "USD/MXN Forecast: Mexican peso stays neutral as uncertainty persists - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "USD/JPY stays in focus after run to fresh 40-year high - investingLive",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.8833
+      },
+      {
         "title": "The USD is little changed to kickstart the North American trading day",
         "source": "ForexLive",
         "label": "bullish",

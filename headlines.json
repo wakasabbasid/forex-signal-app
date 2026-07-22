@@ -8,13 +8,6 @@
       "currencies": []
     },
     {
-      "title": "Vice Minister Huh Urges Exporters to Convert Currency as Forex Eases - \uc870\uc120\uc77c\ubcf4",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "EUR/USD Signal: Hits Lower Side of Bearish Flag Ahead of ECB Decision - DailyForex",
       "source": "Google News",
       "label": "bearish",
@@ -25,6 +18,13 @@
       ]
     },
     {
+      "title": "Vice Minister Huh Urges Exporters to Convert Currency as Forex Eases - \uc870\uc120\uc77c\ubcf4",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
       "source": "Google News",
       "label": "neutral",
@@ -32,14 +32,23 @@
       "currencies": []
     },
     {
-      "title": "Large currency options set to expire Wednesday - Investing.com",
+      "title": "USD/MXN Forecast: Mexican peso stays neutral as uncertainty persists - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Yen Hits Fresh 40-Year Low. Can Japan Still Defend Its Currency? - ActionForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Yen Hits Fresh 40-Year Low. Can Japan Still Defend Its Currency? - ActionForex",
+      "title": "Large currency options set to expire Wednesday - Investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -60,18 +69,14 @@
       "currencies": []
     },
     {
-      "title": "Yen carry trade weathers storms as investors still rank currency highly - Nikkei Asia",
+      "title": "USD/JPY stays in focus after run to fresh 40-year high - investingLive",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.5036,
-      "currencies": []
-    },
-    {
-      "title": "Forex daily: The Yen breaks 163 as Japan runs out of easy answers - FXStreet",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8034,
-      "currencies": []
+      "label": "bullish",
+      "score": 0.8833,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
     },
     {
       "title": "Forex Forecasts \u2013 US Dollar Defends Key 50-Day EMA Across Major Pairs - Yahoo Finance",
@@ -81,63 +86,63 @@
       "currencies": []
     },
     {
-      "title": "Yen breaks \u00a5163 and trades at levels last seen in 1986 - The Japan Times",
+      "title": "Yen carry trade weathers storms as investors still rank currency highly - Nikkei Asia",
       "source": "Google News",
+      "label": "bearish",
+      "score": -0.5036,
+      "currencies": []
+    },
+    {
+      "title": "Greece stocks higher at close of trade; Athens General Composite up 0.24%",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6399,
+      "score": 0.9413,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: KPN posts slight Q2 2026 beat as guidance stays cautious",
+      "title": "Packaging Corp earnings set to report amid freight cost headwinds",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9549,
+      "currencies": []
+    },
+    {
+      "title": "Norwood Q2 2026 slides: record profit amid integration completion",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8839,
+      "score": 0.9323,
       "currencies": []
     },
     {
-      "title": "Moody\u2019s quarterly profit jumps on bond issuance activity strength",
+      "title": "Chemours earnings on deck as investors eye margin recovery",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7415,
+      "label": "bullish",
+      "score": 0.6234,
       "currencies": []
     },
     {
-      "title": "Deutsche Bank reiterates Buy on Celanese stock ahead of Q2 earnings",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Rubio meets Wang, discusses laying groundwork for Chinese president\u2019s US visit",
+      "title": "Earnings call transcript: Northpointe Bancshares misses Q2 2026 estimates",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Stifel cuts DraftKings stock price target on June outcomes",
+      "title": "Huntington Bancshares set to report earnings as analysts eye NIM",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5109,
+      "label": "bullish",
+      "score": 0.518,
       "currencies": []
     },
     {
-      "title": "Explainer-Why is a proposed US-Saudi nuclear pact causing alarm in Washington and the Middle East?",
+      "title": "Reliance Steel earnings in focus as growth momentum builds",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7869,
+      "label": "bullish",
+      "score": 0.8886,
       "currencies": []
     },
     {
-      "title": "OneSpan launches unified authentication platform DigipassONE",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Glass Lewis backs two Radoff-JEC nominees for Seer board",
+      "title": "NFL raises $600M via private bonds backed by team assessments - Bloomberg",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
