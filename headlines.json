@@ -1,10 +1,10 @@
 {
   "headlines": [
     {
-      "title": "Vice Minister Huh Urges Exporters to Convert Currency as Forex Eases - \uc870\uc120\uc77c\ubcf4",
+      "title": "After currency headwinds, Israeli tech welcomes a forex rebound (WIX:NASDAQ) - Seeking Alpha",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9451,
       "currencies": []
     },
     {
@@ -15,7 +15,31 @@
       "currencies": []
     },
     {
+      "title": "Vice Minister Huh Urges Exporters to Convert Currency as Forex Eases - \uc870\uc120\uc77c\ubcf4",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "EUR/USD Signal: Hits Lower Side of Bearish Flag Ahead of ECB Decision - DailyForex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6758,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
       "title": "Large currency options set to expire Wednesday - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Yen Hits Fresh 40-Year Low. Can Japan Still Defend Its Currency? - ActionForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -50,16 +74,6 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD Signal: Eyes a Bearish Breakout as the US Dollar Jumps on Inflation Fears - DailyForex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.4892,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
       "title": "Yen breaks \u00a5163 and trades at levels last seen in 1986 - The Japan Times",
       "source": "Google News",
       "label": "bullish",
@@ -74,73 +88,59 @@
       "currencies": []
     },
     {
-      "title": "South Korea to ease forex rules for foreigners to trade won in push to liberalise market - The Business Times",
-      "source": "Google News",
+      "title": "Too many trucks, too many zeros: Army audit drive exposes flaws as Pentagon nears 2028 goal",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5739,
+      "currencies": []
+    },
+    {
+      "title": "Analysis-Separate US talks with Canada, Mexico test North America\u2019s trilateral trade pact",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5672,
+      "score": 0.7762,
       "currencies": []
     },
     {
-      "title": "exchange rate - Encyclopedia Britannica",
-      "source": "Google News",
+      "title": "TE Connectivity earnings beat by $0.10, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9439,
+      "currencies": []
+    },
+    {
+      "title": "UBS upgrades Sonova on valuation discount, product cycle",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5828,
+      "currencies": []
+    },
+    {
+      "title": "Oil climbs over 4% to near six-week high as conflict threatens key oil transit routes",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8374,
+      "currencies": []
+    },
+    {
+      "title": "UK\u2019s BAE enters uncrewed fighter competition with \u2019Brontanax\u2019",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8127,
+      "currencies": []
+    },
+    {
+      "title": "Exclusive-Marco Rubio tells diplomats to play down talk of American tech \u2019kill switch\u2019",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Morgan Stanley downgrades Vornado Realty stock rating on valuation",
+      "title": "New US 25% tariff hits billions of dollars in Brazilian exports",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5504,
-      "currencies": []
-    },
-    {
-      "title": "Iberdrola shares slip after H1 earnings, Caruna acquisition",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9626,
-      "currencies": []
-    },
-    {
-      "title": "Anthem Biosciences Q1 FY27 slides: margins hold at 40% despite revenue dip",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6175,
-      "currencies": []
-    },
-    {
-      "title": "Trump backed candidates win closely watched Arizona primary races",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "European shares fall as tech weighs ahead of US big tech earnings; Mideast in focus",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9562,
-      "currencies": []
-    },
-    {
-      "title": "European stocks slip as Houthi strikes lift oil ahead of US tech guidance",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9154,
-      "currencies": []
-    },
-    {
-      "title": "FTSE 100 today: Stocks slip as higher oil prices offset softer UK inflation",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9709,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Anthem Biosciences Q1 2027 revenue slips as stock falls 2.2%",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.974,
+      "score": -0.4446,
       "currencies": []
     }
   ],

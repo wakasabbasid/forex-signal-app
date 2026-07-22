@@ -3,38 +3,24 @@
   "pairs": {
     "EUR/USD": [
       {
-        "title": "EUR/USD Signal: Eyes a Bearish Breakout as the US Dollar Jumps on Inflation Fears - DailyForex",
+        "title": "EUR/USD Signal: Hits Lower Side of Bearish Flag Ahead of ECB Decision - DailyForex",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.4892
+        "score": -0.6758
       }
     ],
     "USD/JPY": [
       {
-        "title": "USD/JPY stays in focus after run to fresh 40-year high",
-        "source": "ForexLive",
+        "title": "Gold Price Forecast: XAU/USD holds gains above $4,100 undaunted by risk-off markets",
+        "source": "FXStreet",
         "label": "bullish",
-        "score": 0.8439
+        "score": 0.9482
       },
       {
-        "title": "Gold stands firm near two-week high as USD bulls remain on sidelines amid US-Iran hopes",
+        "title": "British Pound sticks to post-UK inflation losses as faster BoJ rate hike bets lift JPY",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.4543
-      },
-      {
-        "title": "JPY/USD: Why Is Japan Yen So Weak? Can Government Intervention Help Currency?",
-        "source": "Bloomberg",
-        "label": "bearish",
-        "score": -0.661
-      }
-    ],
-    "USD/CAD": [
-      {
-        "title": "USD/CAD Price Forecast: Consolidates near 1.4100 as bulls await 200-SMA breakout on H4",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.5852
+        "label": "bullish",
+        "score": 0.6815
       }
     ]
   }
