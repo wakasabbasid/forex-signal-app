@@ -7,58 +7,34 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.4892
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Tests ascending triangle top above 186.00",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
       }
     ],
     "USD/JPY": [
       {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.6676
-      },
-      {
-        "title": "PBOC sets USD/ CNY mid-point today at 6.7933 (vs. estimate at 6.7737)",
+        "title": "USD/JPY stays in focus after run to fresh 40-year high",
         "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7737 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Tests ascending triangle top above 186.00",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD rises to near $60.00 despite surging inflation fears",
-        "source": "FXStreet",
         "label": "bullish",
-        "score": 0.9466
+        "score": 0.8439
       },
       {
-        "title": "PHP/USD: Philippine Peso Declines to Match Record Low on Higher Oil Prices",
+        "title": "Gold stands firm near two-week high as USD bulls remain on sidelines amid US-Iran hopes",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.4543
+      },
+      {
+        "title": "JPY/USD: Why Is Japan Yen So Weak? Can Government Intervention Help Currency?",
         "source": "Bloomberg",
         "label": "bearish",
-        "score": -0.9722
+        "score": -0.661
       }
     ],
-    "GBP/USD": [
+    "USD/CAD": [
       {
-        "title": "UK CPI set to show receding inflation in June as GBP/USD fails at May highs",
+        "title": "USD/CAD Price Forecast: Consolidates near 1.4100 as bulls await 200-SMA breakout on H4",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9184
+        "score": -0.5852
       }
     ]
   }

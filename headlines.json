@@ -15,6 +15,41 @@
       "currencies": []
     },
     {
+      "title": "Large currency options set to expire Wednesday - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Yen Hovers Near Multi-Decade Low on Intervention - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8778,
+      "currencies": []
+    },
+    {
+      "title": "Japan ready to take decisive action on forex if needed, finance minister says - The Standard (HK)",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5701,
+      "currencies": []
+    },
+    {
+      "title": "Yen carry trade weathers storms as investors still rank currency highly - Nikkei Asia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5036,
+      "currencies": []
+    },
+    {
+      "title": "Forex daily: The Yen breaks 163 as Japan runs out of easy answers - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8034,
+      "currencies": []
+    },
+    {
       "title": "EUR/USD Signal: Eyes a Bearish Breakout as the US Dollar Jumps on Inflation Fears - DailyForex",
       "source": "Google News",
       "label": "bearish",
@@ -25,38 +60,10 @@
       ]
     },
     {
-      "title": "Yen carry trade weathers storms as investors still rank currency highly - Nikkei Asia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5036,
-      "currencies": []
-    },
-    {
       "title": "Yen breaks \u00a5163 and trades at levels last seen in 1986 - The Japan Times",
       "source": "Google News",
       "label": "bullish",
       "score": 0.6399,
-      "currencies": []
-    },
-    {
-      "title": "Large currency options set to expire Wednesday - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan finmin flags Iran crisis as yen hits 40-year low, ambush risk builds - investingLive",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.4635,
-      "currencies": []
-    },
-    {
-      "title": "South Korea to ease forex rules for foreigners to trade won in push to liberalise market - The Business Times",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5672,
       "currencies": []
     },
     {
@@ -67,10 +74,10 @@
       "currencies": []
     },
     {
-      "title": "15 Best Forex Pairs to Trade - TMGM trading",
+      "title": "South Korea to ease forex rules for foreigners to trade won in push to liberalise market - The Business Times",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.5672,
       "currencies": []
     },
     {
@@ -81,68 +88,59 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
+      "title": "Morgan Stanley downgrades Vornado Realty stock rating on valuation",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5504,
+      "currencies": []
     },
     {
-      "title": "Zhongji Innolight targets $7bn in Hong Kong share sale",
+      "title": "Iberdrola shares slip after H1 earnings, Caruna acquisition",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9626,
+      "currencies": []
+    },
+    {
+      "title": "Anthem Biosciences Q1 FY27 slides: margins hold at 40% despite revenue dip",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6175,
+      "currencies": []
+    },
+    {
+      "title": "Trump backed candidates win closely watched Arizona primary races",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Asia stocks climb on tech gains, KOSPI surges 5%; Middle East tensions simmer",
+      "title": "European shares fall as tech weighs ahead of US big tech earnings; Mideast in focus",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9033,
+      "label": "bearish",
+      "score": -0.9562,
       "currencies": []
     },
     {
-      "title": "BCI Minerals at Noosa Mining Conference 2026: salt project nears finish",
+      "title": "European stocks slip as Houthi strikes lift oil ahead of US tech guidance",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9154,
       "currencies": []
     },
     {
-      "title": "Ex-NFL player Feely projected to win Arizona\u2019s first district U.S. House primary",
+      "title": "FTSE 100 today: Stocks slip as higher oil prices offset softer UK inflation",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9709,
       "currencies": []
     },
     {
-      "title": "Pakistan seeks $10 billion in US backstop facility to boost reserves, source says",
+      "title": "Earnings call transcript: Anthem Biosciences Q1 2027 revenue slips as stock falls 2.2%",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9257,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Enliven Therapeutics Inc For: 21 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Enliven Therapeutics CFO Hohl sells $316,780 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Satellogic Inc For: 21 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.974,
       "currencies": []
     }
   ],
