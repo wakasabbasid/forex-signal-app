@@ -21,12 +21,6 @@
         "source": "FXStreet",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD struggles to build momentum above $60.00",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8874
       }
     ],
     "GBP/USD": [
@@ -35,14 +29,6 @@
         "source": "FXStreet",
         "label": "neutral",
         "score": 0.0
-      }
-    ],
-    "USD/CHF": [
-      {
-        "title": "USD/CHF Price Forecast: Swissy reclaims 0.81 as pair nears one-year high",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.5483
       }
     ]
   }
