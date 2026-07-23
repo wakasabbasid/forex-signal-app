@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
+      "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -17,17 +17,10 @@
       ]
     },
     {
-      "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
+      "title": "US Treasury finds no trading partner manipulated currency for trade advantage in 2025 By Reuters - Investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Foreign M&A in Japan adding to yen weakness, analysts say - Nikkei Asia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8917,
       "currencies": []
     },
     {
@@ -42,6 +35,13 @@
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Foreign M&A in Japan adding to yen weakness, analysts say - Nikkei Asia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8917,
       "currencies": []
     },
     {
@@ -61,17 +61,24 @@
       "currencies": []
     },
     {
-      "title": "UBS adds Norwegian krone to top FX picks as oil rally seen capped - Investing.com",
+      "title": "exchange rate - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "exchange rate - Encyclopedia Britannica",
+      "title": "Forex Forecasts \u2013 US Dollar Defends Key 50-Day EMA Across Major Pairs - Yahoo Finance",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.6216,
+      "currencies": []
+    },
+    {
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9371,
       "currencies": []
     },
     {
@@ -85,66 +92,59 @@
       ]
     },
     {
-      "title": "Forex Forecasts \u2013 US Dollar Defends Key 50-Day EMA Across Major Pairs - Yahoo Finance",
-      "source": "Google News",
+      "title": "AMD, Arm gain after hours following blowout results from Intel",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6216,
+      "score": 0.4882,
       "currencies": []
     },
     {
-      "title": "Swiss chocolate maker Lindt misleads consumers about child labor, US lawsuit claims",
+      "title": "Chime Financial stock initiated at Buy by Freedom Capital on growth outlook",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "1st Source earnings beat by $0.24, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9334,
+      "currencies": []
+    },
+    {
+      "title": "Egan-Jones recommends against XAI fund sub-adviser change",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "First Western Financial earnings beat, revenue fell short of estimates",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.914,
+      "score": -0.9651,
       "currencies": []
     },
     {
-      "title": "US states sue Trump administration for conditioning disaster funds on election changes",
+      "title": "Hillgrove operator at Noosa Mining Conference 2026: push into antimony",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Stocks sink on Big Tech cash burn; oil hits $100 for first time since May",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9337,
+      "score": -0.9487,
       "currencies": []
     },
     {
-      "title": "William R. Timmons IV buys SpaceX shares valued between $50,001 and $100,000",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Inter&Co Stadium rebranded as Inter.co Stadium in Orlando",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Schneider Electric and AMD unveil AI data center reference design",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Duke Energy says data centers will provide customer savings",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US Senator Warren accuses AI firms of trying to curb oversight in trade accord",
+      "title": "Columbia Banking System stock down 5% on top-line miss",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8911,
-      "currencies": []
-    },
-    {
-      "title": "CoinRabbit and GoMining Report: Managing Bitcoin Matters More Than Mining Volume",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "score": -0.9683,
       "currencies": []
     }
   ],

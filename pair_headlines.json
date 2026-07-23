@@ -15,10 +15,10 @@
         "score": 0.0
       },
       {
-        "title": "USD is moving higher as yields move higher, stocks lower and oil higher",
-        "source": "ForexLive",
+        "title": "GBP/JPY Price Forecast: Holds 218 floor as bulls eye 219 breakout",
+        "source": "FXStreet",
         "label": "bullish",
-        "score": 0.9129
+        "score": 0.4743
       }
     ],
     "AUD/USD": [
@@ -35,12 +35,12 @@
         "score": -0.9104
       }
     ],
-    "EUR/USD": [
+    "GBP/USD": [
       {
-        "title": "EUR/USD Price Forecast: Bears target a break below 1.1350 support",
+        "title": "GBP/JPY Price Forecast: Holds 218 floor as bulls eye 219 breakout",
         "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bullish",
+        "score": 0.4743
       }
     ]
   }
