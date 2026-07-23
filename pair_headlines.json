@@ -1,12 +1,24 @@
 {
   "run_id": 1,
   "pairs": {
-    "EUR/USD": [
+    "GBP/USD": [
       {
-        "title": "EUR/USD Signal: Hits Lower Side of Bearish Flag Ahead of ECB Decision - DailyForex",
+        "title": "GBP/USD Signal 23/07: Slumps as US Dollar Index Jumps - DailyForex",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.6758
+        "score": -0.9623
+      },
+      {
+        "title": "Why GBP/USD Is Starting to Look More Directional Again - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "GBP/USD Price Forecast: Struggles to return above 20-day EMA",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9471
       }
     ],
     "USD/JPY": [
@@ -17,48 +29,32 @@
         "score": 0.0
       },
       {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.6676
-      },
-      {
-        "title": "PBOC sets USD/ CNY reference rate for today at 6.7906 (vs. estimate at 6.7712)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7712 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Gold holds above $4,100 as weak USD counters Fed hike bets amid US-Iran escalation",
+        "title": "Gold flat lines above $4,100 as Fed hike bets cap gains while weak USD lends support",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.5375
+        "score": -0.7061
       },
       {
-        "title": "Silver Price Forecast: XAG/USD bulls have the upper hand above $59.00 confluence",
+        "title": "Silver Price Forecasts: XAG/USD stalls below $60 as US yields rally",
         "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "PBOC sets USD/CNY reference rate at 6.7906 vs. 6.7933 previous",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bearish",
+        "score": -0.9445
       }
     ],
     "AUD/USD": [
       {
-        "title": "AUD/USD has jumped higher after the strong jobs report, biggest job gain in a year",
-        "source": "ForexLive",
+        "title": "AUD/NZD Climbs as Rate-Hike Bets Strengthen - TradingPedia",
+        "source": "Google News",
         "label": "bullish",
-        "score": 0.9462
+        "score": 0.5501
+      }
+    ],
+    "NZD/USD": [
+      {
+        "title": "AUD/NZD Climbs as Rate-Hike Bets Strengthen - TradingPedia",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.5501
       }
     ]
   }

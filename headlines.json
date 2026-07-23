@@ -1,10 +1,20 @@
 {
   "headlines": [
     {
-      "title": "After currency headwinds, Israeli tech welcomes a forex rebound (WIX:NASDAQ) - Seeking Alpha",
+      "title": "GBP/USD Signal 23/07: Slumps as US Dollar Index Jumps - DailyForex",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.9451,
+      "label": "bearish",
+      "score": -0.9623,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
+      "title": "Asia FX: Yen steadies near 40-year low; regional currencies mixed on oil strength - Investing.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7167,
       "currencies": []
     },
     {
@@ -15,14 +25,11 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD Signal: Hits Lower Side of Bearish Flag Ahead of ECB Decision - DailyForex",
+      "title": "After currency headwinds, Israeli tech welcomes a forex rebound (WIX:NASDAQ) - Seeking Alpha",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.6758,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
+      "label": "bullish",
+      "score": 0.9451,
+      "currencies": []
     },
     {
       "title": "Vice Minister Huh Urges Exporters to Convert Currency as Forex Eases - \uc870\uc120\uc77c\ubcf4",
@@ -41,18 +48,14 @@
       ]
     },
     {
-      "title": "Large currency options set to expire Wednesday - Investing.com",
+      "title": "AUD/NZD Climbs as Rate-Hike Bets Strengthen - TradingPedia",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "afc2026072205 - Action Forex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
+      "label": "bullish",
+      "score": 0.5501,
+      "currencies": [
+        "AUD",
+        "NZD"
+      ]
     },
     {
       "title": "Forex Forecasts \u2013 US Dollar Defends Key 50-Day EMA Across Major Pairs - Yahoo Finance",
@@ -69,13 +72,11 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "title": "afc2026072205 - Action Forex",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
@@ -85,59 +86,55 @@
       "currencies": []
     },
     {
-      "title": "Yen Hovers Near Multi-Decade Low on Intervention - TradingPedia",
+      "title": "Why GBP/USD Is Starting to Look More Directional Again - DailyForex",
       "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
+      "title": "European stocks slide as rising yields and ECB rate call weigh on sentiment",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8778,
+      "score": -0.9262,
       "currencies": []
     },
     {
-      "title": "BOJ to raise rates again by December as weak yen revives inflation risks: Reuters poll",
+      "title": "Arkle reports zinc-lead discovery at Ireland\u2019s Stonepark project",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Intel, AMD sign long-term CPU deals with Chinese buyers- Reuters",
+      "title": "European shares slip after STMicro, Alphabet results weigh on tech stocks",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9516,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin steady at $65k with Clarity Act progress in focus",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5234,
+      "score": 0.8503,
       "currencies": []
     },
     {
-      "title": "Asia FX: Yen steadies near 40-year low; won hits 2-1/2 month high",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5581,
-      "currencies": []
-    },
-    {
-      "title": "Houthis claim attacks on Saudi tankers in Red Sea, raising risk of new chokepoint in Iran war",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9275,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 AvalonBay Communities Inc For: 22 July",
+      "title": "Waratah at Noosa Mining Conference 2026: drilling fuels growth story",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 Parabilis Medicines For: 22 July",
+      "title": "Vietnam reaffirms trade talks, urges US to conclude trade investigation",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Eagle Materials Inc For: 22 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.7012,
       "currencies": []
     },
     {
@@ -145,6 +142,13 @@
       "source": "Investing.com",
       "label": "bullish",
       "score": 0.8925,
+      "currencies": []
+    },
+    {
+      "title": "Krka reports first half results with 6.7% revenue growth",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8626,
       "currencies": []
     }
   ],
