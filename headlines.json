@@ -8,6 +8,13 @@
       "currencies": []
     },
     {
+      "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "EUR/USD Signal: Hits Lower Side of Bearish Flag Ahead of ECB Decision - DailyForex",
       "source": "Google News",
       "label": "bearish",
@@ -25,13 +32,6 @@
       "currencies": []
     },
     {
-      "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "USD/MXN Forecast: Mexican peso stays neutral as uncertainty persists - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -41,13 +41,6 @@
       ]
     },
     {
-      "title": "Yen Hovers Near Multi-Decade Low on Intervention - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8778,
-      "currencies": []
-    },
-    {
       "title": "Large currency options set to expire Wednesday - Investing.com",
       "source": "Google News",
       "label": "neutral",
@@ -55,7 +48,7 @@
       "currencies": []
     },
     {
-      "title": "Yen Hits Fresh 40-Year Low. Can Japan Still Defend Its Currency? - ActionForex",
+      "title": "afc2026072205 - Action Forex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -76,11 +69,13 @@
       "currencies": []
     },
     {
-      "title": "15 Best Forex Pairs to Trade - TMGM trading",
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
+      "label": "bullish",
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
@@ -90,59 +85,66 @@
       "currencies": []
     },
     {
-      "title": "Penguin solutions SVP Anne Kuykendall sells $41,472 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Meta COO Javier Olivan sells $946,816 of company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Adam Bradley, director, buys $3,307 in Jewett Cameron Trading Co. stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Penguin Solutions Inc For: 22 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Celsius Holdings Inc For: 22 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 13D/A Velos Acquisition I Corp. For: 22 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Oil: Houthis ferocious strikes on two Saudi oil tankers, close Bab el-Mandeb to Saudi ships",
-      "source": "ForexLive",
+      "title": "Yen Hovers Near Multi-Decade Low on Intervention - TradingPedia",
+      "source": "Google News",
       "label": "bearish",
-      "score": -0.8836,
+      "score": -0.8778,
       "currencies": []
     },
     {
-      "title": "US surges forces to Middle East as Iran war options widen. Extra $73bln in funding for Iran war",
-      "source": "ForexLive",
+      "title": "BOJ to raise rates again by December as weak yen revives inflation risks: Reuters poll",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Intel, AMD sign long-term CPU deals with Chinese buyers- Reuters",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9147,
+      "score": 0.5234,
+      "currencies": []
+    },
+    {
+      "title": "Asia FX: Yen steadies near 40-year low; won hits 2-1/2 month high",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5581,
+      "currencies": []
+    },
+    {
+      "title": "Houthis claim attacks on Saudi tankers in Red Sea, raising risk of new chokepoint in Iran war",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9275,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 AvalonBay Communities Inc For: 22 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Parabilis Medicines For: 22 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Eagle Materials Inc For: 22 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Asia stocks rise on Alphabet AI spending boost; oil rally caps gains",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8925,
       "currencies": []
     }
   ],

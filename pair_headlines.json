@@ -17,18 +17,48 @@
         "score": 0.0
       },
       {
-        "title": "GBP/JPY Price Forecast: Breaks support trendline, eyes on 217.50",
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.6676
+      },
+      {
+        "title": "PBOC sets USD/ CNY reference rate for today at 6.7906 (vs. estimate at 6.7712)",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7712 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Gold holds above $4,100 as weak USD counters Fed hike bets amid US-Iran escalation",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.5375
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD bulls have the upper hand above $59.00 confluence",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC sets USD/CNY reference rate at 6.7906 vs. 6.7933 previous",
         "source": "FXStreet",
         "label": "neutral",
         "score": 0.0
       }
     ],
-    "GBP/USD": [
+    "AUD/USD": [
       {
-        "title": "GBP/JPY Price Forecast: Breaks support trendline, eyes on 217.50",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
+        "title": "AUD/USD has jumped higher after the strong jobs report, biggest job gain in a year",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.9462
       }
     ]
   }
