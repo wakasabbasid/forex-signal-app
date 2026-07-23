@@ -1,27 +1,41 @@
 {
   "headlines": [
     {
-      "title": "GBP/USD Signal 23/07: Slumps as US Dollar Index Jumps - DailyForex",
+      "title": "AUD/USD Signal 23/07: Will July\u2019s Bullish Trend Survive - DailyForex",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9623,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
-        "GBP",
+        "AUD",
         "USD"
       ]
-    },
-    {
-      "title": "Asia FX: Yen steadies near 40-year low; regional currencies mixed on oil strength - Investing.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7167,
-      "currencies": []
     },
     {
       "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japanese Yen Weakness is More than a Short-Term Currency Theme - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Rupiah Outlook Improves After Indonesia Policy Decision - TradingPedia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9317,
+      "currencies": []
+    },
+    {
+      "title": "Argentina\u2019s Third Credit Upgrade: Why Hasn\u2019t the Peso Rallied? - EBC Financial Group",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8854,
       "currencies": []
     },
     {
@@ -36,6 +50,30 @@
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Dollar eases, euro nears one-week high ahead of ECB; yen hovers near 1986 low - Investing.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6944,
+      "currencies": []
+    },
+    {
+      "title": "GBP/USD Signal: Slumps as US Dollar Index Jumps on Geopolitical Risks - DailyForex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9451,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
+      "title": "Forex Forecasts \u2013 US Dollar Defends Key 50-Day EMA Across Major Pairs - Yahoo Finance",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6216,
       "currencies": []
     },
     {
@@ -58,97 +96,59 @@
       ]
     },
     {
-      "title": "Forex Forecasts \u2013 US Dollar Defends Key 50-Day EMA Across Major Pairs - Yahoo Finance",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6216,
-      "currencies": []
-    },
-    {
-      "title": "South Korea to ease forex rules for foreigners to trade won in push to liberalise market - The Business Times",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5672,
-      "currencies": []
-    },
-    {
-      "title": "afc2026072205 - Action Forex",
-      "source": "Google News",
+      "title": "Why is Pool stock rallying today?",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
-      "currencies": []
-    },
-    {
-      "title": "Why GBP/USD Is Starting to Look More Directional Again - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "European stocks slide as rising yields and ECB rate call weigh on sentiment",
+      "title": "Berenberg downgrades Boliden stock rating on execution concerns",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9262,
+      "score": -0.7803,
       "currencies": []
     },
     {
-      "title": "Arkle reports zinc-lead discovery at Ireland\u2019s Stonepark project",
+      "title": "ConnectOne earnings beat by $0.02, revenue topped estimates",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.947,
       "currencies": []
     },
     {
-      "title": "European shares slip after STMicro, Alphabet results weigh on tech stocks",
+      "title": "Popular earnings beat by $0.64, revenue fell short of estimates",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9516,
+      "score": -0.902,
       "currencies": []
     },
     {
-      "title": "Bitcoin steady at $65k with Clarity Act progress in focus",
+      "title": "First Citizens BancShares earnings beat by $16.40, revenue topped estimates",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8503,
+      "score": 0.9421,
       "currencies": []
     },
     {
-      "title": "Waratah at Noosa Mining Conference 2026: drilling fuels growth story",
+      "title": "Huntington Bancshares earnings beat by $0.03, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9425,
+      "currencies": []
+    },
+    {
+      "title": "Why is United Rentals stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Vietnam reaffirms trade talks, urges US to conclude trade investigation",
+      "title": "Freeport-McMoRan beats quarterly profit estimates on higher copper prices",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7012,
-      "currencies": []
-    },
-    {
-      "title": "Asia stocks rise on Alphabet AI spending boost; oil rally caps gains",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8925,
-      "currencies": []
-    },
-    {
-      "title": "Krka reports first half results with 6.7% revenue growth",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8626,
+      "score": 0.8856,
       "currencies": []
     }
   ],

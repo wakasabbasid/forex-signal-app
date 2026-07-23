@@ -1,24 +1,26 @@
 {
   "run_id": 1,
   "pairs": {
-    "GBP/USD": [
+    "AUD/USD": [
       {
-        "title": "GBP/USD Signal 23/07: Slumps as US Dollar Index Jumps - DailyForex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9623
-      },
-      {
-        "title": "Why GBP/USD Is Starting to Look More Directional Again - DailyForex",
+        "title": "AUD/USD Signal 23/07: Will July\u2019s Bullish Trend Survive - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "GBP/USD Price Forecast: Struggles to return above 20-day EMA",
-        "source": "FXStreet",
+        "title": "AUD/NZD Climbs as Rate-Hike Bets Strengthen - TradingPedia",
+        "source": "Google News",
         "label": "bullish",
-        "score": 0.9471
+        "score": 0.5501
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Signal: Slumps as US Dollar Index Jumps on Geopolitical Risks - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9451
       }
     ],
     "USD/JPY": [
@@ -29,24 +31,16 @@
         "score": 0.0
       },
       {
-        "title": "Gold flat lines above $4,100 as Fed hike bets cap gains while weak USD lends support",
-        "source": "FXStreet",
+        "title": "USD/JPY at 40-year high as Middle East tensions and hawkish Fed bets drive breakout",
+        "source": "ForexLive",
         "label": "bearish",
-        "score": -0.7061
+        "score": -0.6378
       },
       {
-        "title": "Silver Price Forecasts: XAG/USD stalls below $60 as US yields rally",
+        "title": "Gold Price Forecast: XAU/USD pulls back below $4,100 weighed by higher US yields",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9445
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "AUD/NZD Climbs as Rate-Hike Bets Strengthen - TradingPedia",
-        "source": "Google News",
         "label": "bullish",
-        "score": 0.5501
+        "score": 0.7252
       }
     ],
     "NZD/USD": [
@@ -55,6 +49,14 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.5501
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/USD close to a major breakout as traders await the ECB decision, US-Iran developments",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.4039
       }
     ]
   }
