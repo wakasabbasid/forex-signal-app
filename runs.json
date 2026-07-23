@@ -5,7 +5,7 @@
       "engine": "finbert",
       "headline_count": 70,
       "source_count": 6,
-      "created_at": "2026-07-23T12:26:08.918048+00:00",
+      "created_at": "2026-07-23T15:11:40.748225+00:00",
       "signals": [
         {
           "pair": "GBP/USD",
@@ -14,28 +14,16 @@
           "headline_count": 1
         },
         {
-          "pair": "NZD/USD",
-          "signal": "BUY",
-          "avg_score": 0.5501,
-          "headline_count": 1
-        },
-        {
-          "pair": "EUR/USD",
-          "signal": "BUY",
-          "avg_score": 0.4039,
-          "headline_count": 1
+          "pair": "USD/JPY",
+          "signal": "HOLD",
+          "avg_score": -0.0007,
+          "headline_count": 3
         },
         {
           "pair": "AUD/USD",
-          "signal": "BUY",
-          "avg_score": 0.2751,
-          "headline_count": 2
-        },
-        {
-          "pair": "USD/JPY",
           "signal": "HOLD",
-          "avg_score": 0.0291,
-          "headline_count": 3
+          "avg_score": 0.0,
+          "headline_count": 1
         }
       ]
     }

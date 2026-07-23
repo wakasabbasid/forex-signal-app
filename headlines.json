@@ -25,24 +25,17 @@
       "currencies": []
     },
     {
-      "title": "Rupiah Outlook Improves After Indonesia Policy Decision - TradingPedia",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9317,
-      "currencies": []
-    },
-    {
-      "title": "Argentina\u2019s Third Credit Upgrade: Why Hasn\u2019t the Peso Rallied? - EBC Financial Group",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8854,
-      "currencies": []
-    },
-    {
       "title": "After currency headwinds, Israeli tech welcomes a forex rebound (WIX:NASDAQ) - Seeking Alpha",
       "source": "Google News",
       "label": "bullish",
       "score": 0.9451,
+      "currencies": []
+    },
+    {
+      "title": "Rupiah Outlook Improves After Indonesia Policy Decision - TradingPedia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9317,
       "currencies": []
     },
     {
@@ -53,19 +46,18 @@
       "currencies": []
     },
     {
-      "title": "Dollar eases, euro nears one-week high ahead of ECB; yen hovers near 1986 low - Investing.com",
+      "title": "UBS adds Norwegian krone to top FX picks as oil rally seen capped - Investing.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.6944,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "GBP/USD Signal: Slumps as US Dollar Index Jumps on Geopolitical Risks - DailyForex",
+      "title": "Why USD/BRL Is Falling While the Dollar Stays Strong 23/07 - DailyForex",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9451,
+      "score": -0.9149,
       "currencies": [
-        "GBP",
         "USD"
       ]
     },
@@ -74,6 +66,13 @@
       "source": "Google News",
       "label": "bullish",
       "score": 0.6216,
+      "currencies": []
+    },
+    {
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9371,
       "currencies": []
     },
     {
@@ -86,69 +85,69 @@
       ]
     },
     {
-      "title": "AUD/NZD Climbs as Rate-Hike Bets Strengthen - TradingPedia",
+      "title": "GBP/USD Signal: Slumps as US Dollar Index Jumps on Geopolitical Risks - DailyForex",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.5501,
+      "label": "bearish",
+      "score": -0.9451,
       "currencies": [
-        "AUD",
-        "NZD"
+        "GBP",
+        "USD"
       ]
     },
     {
-      "title": "Why is Pool stock rallying today?",
+      "title": "UBS adds Norwegian krone to top FX picks as oil rally seen capped",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7778,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Kaiser Aluminum posts Q2 2026 beat, shares jump 10.6%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9026,
+      "currencies": []
+    },
+    {
+      "title": "Jyong Biotech pursues global licensing partnerships for BPH drug",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7767,
+      "currencies": []
+    },
+    {
+      "title": "Warren accuses AI firms of trying to curb oversight in trade accord",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8745,
+      "currencies": []
+    },
+    {
+      "title": "Trump pegs nuclear deal to Saudi\u00a0Arabia joining Abraham Accords",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Berenberg downgrades Boliden stock rating on execution concerns",
+      "title": "Earnings call transcript: Union Pacific beats Q2 2026 forecasts, shares rise",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8647,
+      "currencies": []
+    },
+    {
+      "title": "Norway stocks higher at close of trade; Oslo OBX up 1.08%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9464,
+      "currencies": []
+    },
+    {
+      "title": "US announces visa restriction policy for people complicit in cybercrime",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7803,
-      "currencies": []
-    },
-    {
-      "title": "ConnectOne earnings beat by $0.02, revenue topped estimates",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.947,
-      "currencies": []
-    },
-    {
-      "title": "Popular earnings beat by $0.64, revenue fell short of estimates",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.902,
-      "currencies": []
-    },
-    {
-      "title": "First Citizens BancShares earnings beat by $16.40, revenue topped estimates",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9421,
-      "currencies": []
-    },
-    {
-      "title": "Huntington Bancshares earnings beat by $0.03, revenue topped estimates",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9425,
-      "currencies": []
-    },
-    {
-      "title": "Why is United Rentals stock surging today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Freeport-McMoRan beats quarterly profit estimates on higher copper prices",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8856,
+      "score": -0.5934,
       "currencies": []
     }
   ],

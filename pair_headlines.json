@@ -7,12 +7,26 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      }
+    ],
+    "USD/JPY": [
+      {
+        "title": "Why USD/BRL Is Falling While the Dollar Stays Strong 23/07 - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9149
       },
       {
-        "title": "AUD/NZD Climbs as Rate-Hike Bets Strengthen - TradingPedia",
+        "title": "USD/MXN Forecast: Mexican peso stays neutral as uncertainty persists - FOREX.com",
         "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "USD is moving higher as yields move higher, stocks lower and oil higher",
+        "source": "ForexLive",
         "label": "bullish",
-        "score": 0.5501
+        "score": 0.9129
       }
     ],
     "GBP/USD": [
@@ -21,42 +35,6 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.9451
-      }
-    ],
-    "USD/JPY": [
-      {
-        "title": "USD/MXN Forecast: Mexican peso stays neutral as uncertainty persists - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "USD/JPY at 40-year high as Middle East tensions and hawkish Fed bets drive breakout",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.6378
-      },
-      {
-        "title": "Gold Price Forecast: XAU/USD pulls back below $4,100 weighed by higher US yields",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.7252
-      }
-    ],
-    "NZD/USD": [
-      {
-        "title": "AUD/NZD Climbs as Rate-Hike Bets Strengthen - TradingPedia",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.5501
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/USD close to a major breakout as traders await the ECB decision, US-Iran developments",
-        "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.4039
       }
     ]
   }
