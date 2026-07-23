@@ -8,12 +8,11 @@
       "currencies": []
     },
     {
-      "title": "AUD/USD Signal 23/07: Will July\u2019s Bullish Trend Survive - DailyForex",
+      "title": "Why USD/BRL Is Falling While the Dollar Stays Strong 23/07 - DailyForex",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9149,
       "currencies": [
-        "AUD",
         "USD"
       ]
     },
@@ -25,17 +24,10 @@
       "currencies": []
     },
     {
-      "title": "Japanese Yen Weakness is More than a Short-Term Currency Theme - FOREX.com",
+      "title": "Foreign M&A in Japan adding to yen weakness, analysts say - Nikkei Asia",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "FCNR(B) turns litmus test | Explainer - The Hindu",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.8917,
       "currencies": []
     },
     {
@@ -53,11 +45,13 @@
       "currencies": []
     },
     {
-      "title": "Foreign M&A in Japan adding to yen weakness, analysts say - Nikkei Asia",
+      "title": "USD/MXN Forecast: Mexican peso stays neutral as uncertainty persists - FOREX.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.8917,
-      "currencies": []
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "Rupiah Outlook Improves After Indonesia Policy Decision - TradingPedia",
@@ -74,77 +68,83 @@
       "currencies": []
     },
     {
-      "title": "Why USD/BRL Is Falling While the Dollar Stays Strong 23/07 - DailyForex",
+      "title": "exchange rate - Encyclopedia Britannica",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9149,
-      "currencies": [
-        "USD"
-      ]
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
-      "title": "USD/MXN Forecast: Mexican peso stays neutral as uncertainty persists - FOREX.com",
+      "title": "AUD/USD Signal 23/07: Will July\u2019s Bullish Trend Survive - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
+        "AUD",
         "USD"
       ]
     },
     {
-      "title": "William R. Timmons IV acquires SpaceX shares worth between $50,001 and $100,000",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Alpek Q2 2026 slides: EBITDA surges 300%, guidance raised sharply",
-      "source": "Investing.com",
+      "title": "Forex Forecasts \u2013 US Dollar Defends Key 50-Day EMA Across Major Pairs - Yahoo Finance",
+      "source": "Google News",
       "label": "bullish",
-      "score": 0.9492,
+      "score": 0.6216,
       "currencies": []
     },
     {
-      "title": "Heritage Financial Q2 2026 slides: strong margins offset deposit pressures",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9454,
-      "currencies": []
-    },
-    {
-      "title": "Tessera Therapeutics names Joseph Romanelli as new CEO",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 RENN Fund Inc For: 23 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Freeport-McMoRan\u2019s Q2 profit beats expectations, helped by rising copper prices",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9485,
-      "currencies": []
-    },
-    {
-      "title": "Lockheed Martin, RTX lift 2026 forecasts as Pentagon looks to restock weapons",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8622,
-      "currencies": []
-    },
-    {
-      "title": "US House votes to curb Trump\u2019s Iran war powers but Senate backs president",
+      "title": "Swiss chocolate maker Lindt misleads consumers about child labor, US lawsuit claims",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6027,
+      "score": -0.914,
+      "currencies": []
+    },
+    {
+      "title": "US states sue Trump administration for conditioning disaster funds on election changes",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9337,
+      "currencies": []
+    },
+    {
+      "title": "William R. Timmons IV buys SpaceX shares valued between $50,001 and $100,000",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Inter&Co Stadium rebranded as Inter.co Stadium in Orlando",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Schneider Electric and AMD unveil AI data center reference design",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Duke Energy says data centers will provide customer savings",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US Senator Warren accuses AI firms of trying to curb oversight in trade accord",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8911,
+      "currencies": []
+    },
+    {
+      "title": "CoinRabbit and GoMining Report: Managing Bitcoin Matters More Than Mining Volume",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
