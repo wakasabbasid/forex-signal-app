@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "AUD/USD Signal 23/07: Will July\u2019s Bullish Trend Survive - DailyForex",
       "source": "Google News",
       "label": "neutral",
@@ -25,6 +32,13 @@
       "currencies": []
     },
     {
+      "title": "FCNR(B) turns litmus test | Explainer - The Hindu",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "After currency headwinds, Israeli tech welcomes a forex rebound (WIX:NASDAQ) - Seeking Alpha",
       "source": "Google News",
       "label": "bullish",
@@ -32,17 +46,24 @@
       "currencies": []
     },
     {
-      "title": "Rupiah Outlook Improves After Indonesia Policy Decision - TradingPedia",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9317,
-      "currencies": []
-    },
-    {
       "title": "Vice Minister Huh Urges Exporters to Convert Currency as Forex Eases - \uc870\uc120\uc77c\ubcf4",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Foreign M&A in Japan adding to yen weakness, analysts say - Nikkei Asia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8917,
+      "currencies": []
+    },
+    {
+      "title": "Rupiah Outlook Improves After Indonesia Policy Decision - TradingPedia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9317,
       "currencies": []
     },
     {
@@ -62,20 +83,6 @@
       ]
     },
     {
-      "title": "Forex Forecasts \u2013 US Dollar Defends Key 50-Day EMA Across Major Pairs - Yahoo Finance",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6216,
-      "currencies": []
-    },
-    {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
-      "currencies": []
-    },
-    {
       "title": "USD/MXN Forecast: Mexican peso stays neutral as uncertainty persists - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -85,69 +92,59 @@
       ]
     },
     {
-      "title": "GBP/USD Signal: Slumps as US Dollar Index Jumps on Geopolitical Risks - DailyForex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9451,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "UBS adds Norwegian krone to top FX picks as oil rally seen capped",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7778,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Kaiser Aluminum posts Q2 2026 beat, shares jump 10.6%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9026,
-      "currencies": []
-    },
-    {
-      "title": "Jyong Biotech pursues global licensing partnerships for BPH drug",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7767,
-      "currencies": []
-    },
-    {
-      "title": "Warren accuses AI firms of trying to curb oversight in trade accord",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8745,
-      "currencies": []
-    },
-    {
-      "title": "Trump pegs nuclear deal to Saudi\u00a0Arabia joining Abraham Accords",
+      "title": "William R. Timmons IV acquires SpaceX shares worth between $50,001 and $100,000",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Union Pacific beats Q2 2026 forecasts, shares rise",
+      "title": "Alpek Q2 2026 slides: EBITDA surges 300%, guidance raised sharply",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8647,
+      "score": 0.9492,
       "currencies": []
     },
     {
-      "title": "Norway stocks higher at close of trade; Oslo OBX up 1.08%",
+      "title": "Heritage Financial Q2 2026 slides: strong margins offset deposit pressures",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9464,
+      "score": 0.9454,
       "currencies": []
     },
     {
-      "title": "US announces visa restriction policy for people complicit in cybercrime",
+      "title": "Tessera Therapeutics names Joseph Romanelli as new CEO",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 RENN Fund Inc For: 23 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Freeport-McMoRan\u2019s Q2 profit beats expectations, helped by rising copper prices",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9485,
+      "currencies": []
+    },
+    {
+      "title": "Lockheed Martin, RTX lift 2026 forecasts as Pentagon looks to restock weapons",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8622,
+      "currencies": []
+    },
+    {
+      "title": "US House votes to curb Trump\u2019s Iran war powers but Senate backs president",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5934,
+      "score": -0.6027,
       "currencies": []
     }
   ],

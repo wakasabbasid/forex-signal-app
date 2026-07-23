@@ -29,12 +29,12 @@
         "score": 0.9129
       }
     ],
-    "GBP/USD": [
+    "EUR/USD": [
       {
-        "title": "GBP/USD Signal: Slumps as US Dollar Index Jumps on Geopolitical Risks - DailyForex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9451
+        "title": "EUR/USD Price Forecast: Bears target a break below 1.1350 support",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }
