@@ -15,6 +15,12 @@
         "score": 0.0
       },
       {
+        "title": "EUR/JPY extends rally as ECB hike buzz tests Yen risks",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.6084
+      },
+      {
         "title": "GBP/JPY Price Forecast: Holds 218 floor as bulls eye 219 breakout",
         "source": "FXStreet",
         "label": "bullish",
@@ -33,6 +39,14 @@
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.9104
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/JPY extends rally as ECB hike buzz tests Yen risks",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.6084
       }
     ],
     "GBP/USD": [

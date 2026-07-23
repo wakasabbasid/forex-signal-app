@@ -38,10 +38,10 @@
       "currencies": []
     },
     {
-      "title": "Foreign M&A in Japan adding to yen weakness, analysts say - Nikkei Asia",
+      "title": "US presses BOJ on rate hikes as yen hits 40-year low ... intervention threat looms - investingLive",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.8917,
+      "score": -0.8756,
       "currencies": []
     },
     {
@@ -52,6 +52,13 @@
       "currencies": [
         "USD"
       ]
+    },
+    {
+      "title": "Foreign M&A in Japan adding to yen weakness, analysts say - Nikkei Asia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8917,
+      "currencies": []
     },
     {
       "title": "Rupiah Outlook Improves After Indonesia Policy Decision - TradingPedia",
@@ -75,13 +82,6 @@
       "currencies": []
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
-      "currencies": []
-    },
-    {
       "title": "AUD/USD Signal 23/07: Will July\u2019s Bullish Trend Survive - DailyForex",
       "source": "Google News",
       "label": "neutral",
@@ -92,59 +92,59 @@
       ]
     },
     {
-      "title": "AMD, Arm gain after hours following blowout results from Intel",
+      "title": "China Pharma closes $5 million registered direct offering",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US Education Department removes key rules against discrimination",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Mexico to see no change from new US tariffs, economy minister says",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Brazil says US tariffs related to forced labor are \u2019arbitrary\u2019 and \u2019unjustified\u2019",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7988,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Newmont misses Q2 2026 estimates as shares slip",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Samsara Inc For: 23 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Trive Capital-backed Lyntris reveals revenue jump in US IPO filing",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.4882,
+      "score": 0.8365,
       "currencies": []
     },
     {
-      "title": "Chime Financial stock initiated at Buy by Freedom Capital on growth outlook",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "1st Source earnings beat by $0.24, revenue topped estimates",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9334,
-      "currencies": []
-    },
-    {
-      "title": "Egan-Jones recommends against XAI fund sub-adviser change",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "First Western Financial earnings beat, revenue fell short of estimates",
+      "title": "US warns against excessive yen volatility, calls for BOJ rate hikes",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9651,
-      "currencies": []
-    },
-    {
-      "title": "Hillgrove operator at Noosa Mining Conference 2026: push into antimony",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Stocks sink on Big Tech cash burn; oil hits $100 for first time since May",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9487,
-      "currencies": []
-    },
-    {
-      "title": "Columbia Banking System stock down 5% on top-line miss",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9683,
+      "score": -0.4951,
       "currencies": []
     }
   ],
