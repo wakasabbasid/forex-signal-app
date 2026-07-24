@@ -9,30 +9,30 @@
         "score": 0.0
       },
       {
-        "title": "Why USD/BRL Is Falling While the Dollar Stays Strong 23/07 - DailyForex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9149
-      },
-      {
         "title": "India's forex reserves rise to USD 676.24 billion as foreign currency assets increase - BusinessLine",
         "source": "Google News",
         "label": "bullish",
         "score": 0.9292
       },
       {
-        "title": "Silver Price Forecast: XAG/USD recovers as the US Dollar eases",
+        "title": "COPT Defense Properties stock hits 52-week high at 38.07 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.6744
+      },
+      {
+        "title": "Japanese Yen: BoJ repricing may limit JPY losses against US Dollar - BBH",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.9074
+        "score": 0.6455
       }
     ],
-    "EUR/USD": [
+    "GBP/USD": [
       {
-        "title": "Euro: ECB hawkish but EUR still disadvantaged against US Dollar \u2013 OCBC",
-        "source": "FXStreet",
+        "title": "GBP/USD Signal 23/07: Slumps as US Dollar Index Jumps - DailyForex",
+        "source": "Google News",
         "label": "bearish",
-        "score": -0.5184
+        "score": -0.9623
       }
     ]
   }

@@ -8,6 +8,13 @@
       "currencies": []
     },
     {
+      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Japan's Katayama Reiterates Readiness for Forex Intervention - nippon.com",
       "source": "Google News",
       "label": "neutral",
@@ -15,10 +22,10 @@
       "currencies": []
     },
     {
-      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
+      "title": "Japan finmin Katayama signals readiness for decisive forex action on yen - investingLive",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.8829,
       "currencies": []
     },
     {
@@ -32,40 +39,10 @@
       ]
     },
     {
-      "title": "Japan finmin Katayama signals readiness for decisive forex action on yen - investingLive",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8829,
-      "currencies": []
-    },
-    {
-      "title": "Japan ready to take decisive action on forex, finance minister says - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Rupiah Retreats Amid BI Decision and Dollar Moves - TradingPedia",
       "source": "Google News",
       "label": "bearish",
       "score": -0.9354,
-      "currencies": []
-    },
-    {
-      "title": "Why USD/BRL Is Falling While the Dollar Stays Strong 23/07 - DailyForex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9149,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Japan ready to take decisive action on forex, finance minister says - The Business Times",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -92,59 +69,85 @@
       ]
     },
     {
-      "title": "Lamb Weston Holdings earnings beat by $0.25, revenue topped estimates",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9425,
+      "title": "US Treasury finds no trading partner manipulated currency for trade advantage in 2025 By Reuters - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Cantor Fitzgerald cuts Intel stock price target on server share losses",
+      "title": "Japan ready to take decisive action on forex, finance minister says - The Business Times",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "GBP/USD Signal 23/07: Slumps as US Dollar Index Jumps - DailyForex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9623,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
+      "title": "Physical oil prices jump to two-month highs amid supply disruptions",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7287,
+      "score": -0.933,
       "currencies": []
     },
     {
-      "title": "KeyBanc reiterates Intel stock rating on strong data center growth",
+      "title": "Israel stocks higher at close of trade; TA 35 up 0.62%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8702,
+      "score": 0.9367,
       "currencies": []
     },
     {
-      "title": "CN Railway beats Q2 estimates, raises 2026 guidance",
+      "title": "Greece stocks higher at close of trade; Athens General Composite up 1.49%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9414,
+      "currencies": []
+    },
+    {
+      "title": "Why is Travelers Companies stock rallying today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "GOOGL technical analysis: oversold on daily frame after earnings-day drop",
+      "title": "Analysis-Investors fret that spiking oil prices and rising yields could threaten stock\u00a0rally",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9637,
+      "score": -0.9624,
       "currencies": []
     },
     {
-      "title": "Estrella doses first patient in EB103 trial expansion phase",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "CHMP backs obicetrapib for cholesterol treatment in Europe",
+      "title": "COPT Defense Properties stock hits 52-week high at 38.07 USD",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5001,
+      "score": 0.6744,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "FDA clears first over-the-counter acetaminophen-naproxen combo",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5331,
       "currencies": []
     },
     {
-      "title": "Silicon Motion confirms quarterly dividend payment",
+      "title": "South African rand nears 17 per dollar after rate decision",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.5739,
       "currencies": []
     }
   ],
