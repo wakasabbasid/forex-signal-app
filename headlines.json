@@ -22,13 +22,6 @@
       "currencies": []
     },
     {
-      "title": "Japan finmin Katayama signals readiness for decisive forex action on yen - investingLive",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8829,
-      "currencies": []
-    },
-    {
       "title": "USD/JPY, Gold Outlook: Rising Yields Favor the Dollar Over Gold - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -39,10 +32,10 @@
       ]
     },
     {
-      "title": "Rupiah Retreats Amid BI Decision and Dollar Moves - TradingPedia",
+      "title": "Japan finmin Katayama signals readiness for decisive forex action on yen - investingLive",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9354,
+      "label": "bullish",
+      "score": 0.8829,
       "currencies": []
     },
     {
@@ -60,13 +53,11 @@
       "currencies": []
     },
     {
-      "title": "India's forex reserves rise to USD 676.24 billion as foreign currency assets increase - BusinessLine",
+      "title": "Rupiah Retreats Amid BI Decision and Dollar Moves - TradingPedia",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.9292,
-      "currencies": [
-        "USD"
-      ]
+      "label": "bearish",
+      "score": -0.9354,
+      "currencies": []
     },
     {
       "title": "GBP/USD Signal 23/07: Slumps as US Dollar Index Jumps - DailyForex",
@@ -79,11 +70,13 @@
       ]
     },
     {
-      "title": "US Treasury finds no trading partner manipulated currency for trade advantage in 2025 By Reuters - Investing.com",
+      "title": "India's forex reserves rise to USD 676.24 billion as foreign currency assets increase - BusinessLine",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
+      "label": "bullish",
+      "score": 0.9292,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "Japan ready to take decisive action on forex, finance minister says - The Business Times",
@@ -93,61 +86,66 @@
       "currencies": []
     },
     {
-      "title": "Form S-1/A CTT Pharmaceutical Holdings Inc For: 24 July",
-      "source": "Investing.com",
+      "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 144 BRADY CORP For: 24 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: First Western Financial tops Q2 2026 EPS, revenue slips",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Three DWS funds extend share buyback programs through 2027",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Diebold Nixdorf stock hits all-time high at 89.13 USD",
+      "title": "IEX Q1 FY27 slides: RTM surge drives 12% profit growth amid coupling risk",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6783,
-      "currencies": [
-        "USD"
-      ]
+      "score": 0.9416,
+      "currencies": []
     },
     {
-      "title": "US judge says Biden-era restrictions on prescribing abortion drug are unlawful",
+      "title": "Fed Chairman Warsh faces cruel summer as bond yields spike",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8874,
+      "currencies": []
+    },
+    {
+      "title": "SanDisk, American Express among market cap stock movers on Friday",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Ovintiv Q2 2026 slides: debt slashed, shareholder returns boosted",
+      "title": "Judge rules Biden-era abortion pill restrictions illegal",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8099,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "ECB facing mid-sized inflation shock, will get to 2% in year or so, Lane says",
+      "title": "Canada opens bridge to Detroit without U.S. officials present",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Canada marks Gordie Howe bridge opening without US after trade war deepens",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "WSFS Q2 2026 slides: strong results drive raised outlook",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8349,
+      "score": 0.9477,
+      "currencies": []
+    },
+    {
+      "title": "US FDA widens investigation into cyclosporiasis cases to four more states",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
