@@ -22,6 +22,13 @@
       "currencies": []
     },
     {
+      "title": "After currency headwinds, Israeli tech welcomes a forex rebound (WIX:NASDAQ) - Seeking Alpha",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9451,
+      "currencies": []
+    },
+    {
       "title": "USD/JPY, Gold Outlook: Rising Yields Favor the Dollar Over Gold - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -32,24 +39,17 @@
       ]
     },
     {
-      "title": "Japan finmin Katayama signals readiness for decisive forex action on yen - investingLive",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8829,
-      "currencies": []
-    },
-    {
-      "title": "After currency headwinds, Israeli tech welcomes a forex rebound (WIX:NASDAQ) - Seeking Alpha",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9451,
-      "currencies": []
-    },
-    {
       "title": "Vice Minister Huh Urges Exporters to Convert Currency as Forex Eases - \uc870\uc120\uc77c\ubcf4",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japan finmin Katayama signals readiness for decisive forex action on yen - investingLive",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8829,
       "currencies": []
     },
     {
@@ -95,59 +95,59 @@
       ]
     },
     {
-      "title": "Northeast Community earnings missed by $0.05, revenue fell short of estimates",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.966,
-      "currencies": []
-    },
-    {
-      "title": "Oil falls on report China pushing for end US-Iran war",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8648,
-      "currencies": []
-    },
-    {
-      "title": "Trump signs executive order related to Smithsonian Institution, White House says",
+      "title": "Eagle Point Credit Management sells $201,147 in Acres preferred stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "McChip Resources appoints new CFO and director",
+      "title": "United Rentals EVP, CFO William Grace sells $1.7m in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Russian missile strike kills 10 at Ukrainian defence event",
+      "title": "Mink Brook Asset Management buys $2,396 in DLHC stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Trump orders signs outside history museum to correct what he calls \u2019inaccurate information\u2019",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8884,
+      "score": -0.8639,
       "currencies": []
     },
     {
-      "title": "Form 144 VERMILION ENERGY INC. For: 24 July",
+      "title": "Form 4 Southern Cross Acquisition I Corp. For: 24 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is DigitalOcean stock sliding today?",
+      "title": "Form 4 Udr For: 24 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form S-1 Powerdyne\nInternational Inc. For: 24 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US missiles hit Iran as path towards de-escalation uncertain",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.944,
-      "currencies": []
-    },
-    {
-      "title": "Why is Lightspeed Commerce stock climbing today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "score": -0.3848,
       "currencies": []
     }
   ],

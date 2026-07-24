@@ -21,6 +21,12 @@
         "score": 0.9292
       },
       {
+        "title": "EUR/JPY Price Forecast: Cross consolidates under 187.00, bulls target 188.00",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
         "title": "Silver Price Forecast: XAG/USD consolidates as bulls struggle to clear the 21-day SMA",
         "source": "FXStreet",
         "label": "bearish",
@@ -35,12 +41,20 @@
         "score": -0.9623
       }
     ],
+    "EUR/USD": [
+      {
+        "title": "EUR/JPY Price Forecast: Cross consolidates under 187.00, bulls target 188.00",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
     "NZD/USD": [
       {
-        "title": "NZD/USD Price Forecast: Tests 0.5800 as bullish momentum fades",
+        "title": "NZD/USD Price Forecast: Kiwi tests 0.5800 as bullish momentum fades",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.4477
+        "score": 0.6417
       }
     ]
   }
