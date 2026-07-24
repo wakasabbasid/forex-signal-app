@@ -15,10 +15,24 @@
         "score": -0.9149
       },
       {
-        "title": "Gold climbs above $4,050 on retreating USD; upside seems limited amid Fed hike bets",
+        "title": "India's forex reserves rise to USD 676.24 billion as foreign currency assets increase - BusinessLine",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.9292
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD recovers as the US Dollar eases",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.7975
+        "score": 0.9074
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "Euro: ECB hawkish but EUR still disadvantaged against US Dollar \u2013 OCBC",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.5184
       }
     ]
   }

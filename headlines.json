@@ -22,13 +22,6 @@
       "currencies": []
     },
     {
-      "title": "Japan finmin Katayama signals readiness for decisive forex action on yen - investingLive",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8829,
-      "currencies": []
-    },
-    {
       "title": "USD/JPY, Gold Outlook: Rising Yields Favor the Dollar Over Gold - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -37,6 +30,20 @@
         "USD",
         "JPY"
       ]
+    },
+    {
+      "title": "Japan finmin Katayama signals readiness for decisive forex action on yen - investingLive",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8829,
+      "currencies": []
+    },
+    {
+      "title": "Japan ready to take decisive action on forex, finance minister says - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "Rupiah Retreats Amid BI Decision and Dollar Moves - TradingPedia",
@@ -55,7 +62,7 @@
       ]
     },
     {
-      "title": "Japan ready to take decisive action on forex, finance minister says - Reuters",
+      "title": "Japan ready to take decisive action on forex, finance minister says - The Business Times",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -69,13 +76,6 @@
       "currencies": []
     },
     {
-      "title": "US Treasury finds no trading partner manipulated currency for trade advantage in 2025 By Reuters - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Vice Minister Huh Urges Exporters to Convert Currency as Forex Eases - \uc870\uc120\uc77c\ubcf4",
       "source": "Google News",
       "label": "neutral",
@@ -83,63 +83,65 @@
       "currencies": []
     },
     {
-      "title": "UAE\u2019s top bank to offer $1.5 billion for NRIs investing in RBI's forex deposit program - The Economic Times",
+      "title": "India's forex reserves rise to USD 676.24 billion as foreign currency assets increase - BusinessLine",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.5628,
-      "currencies": []
+      "score": 0.9292,
+      "currencies": [
+        "USD"
+      ]
     },
     {
-      "title": "Wall Street sees only two paths for Trump in the Middle East",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Exclusive-Defense tech company Anduril in talks to raise funding at about $100 billion valuation",
+      "title": "Lamb Weston Holdings earnings beat by $0.25, revenue topped estimates",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.697,
+      "score": 0.9425,
       "currencies": []
     },
     {
-      "title": "U.S. stock futures advance as investors look to rebound from oil-driven wipeout",
+      "title": "Cantor Fitzgerald cuts Intel stock price target on server share losses",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7287,
+      "currencies": []
+    },
+    {
+      "title": "KeyBanc reiterates Intel stock rating on strong data center growth",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7355,
+      "score": 0.8702,
       "currencies": []
     },
     {
-      "title": "Trump returns to White House correspondents\u2019 dinner after April attack halted gala",
+      "title": "CN Railway beats Q2 estimates, raises 2026 guidance",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US stocks face tests from Fed decision, tech-led earnings deluge",
+      "title": "GOOGL technical analysis: oversold on daily frame after earnings-day drop",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9501,
+      "score": -0.9637,
       "currencies": []
     },
     {
-      "title": "World Cup boom, Middle East gloom could split earnings for US travel firms",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9571,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Nova Minerals Corp For: 24 July",
+      "title": "Estrella doses first patient in EB103 trial expansion phase",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form DEF 14A HAMILTON LANE INC For: 24 July",
+      "title": "CHMP backs obicetrapib for cholesterol treatment in Europe",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5001,
+      "currencies": []
+    },
+    {
+      "title": "Silicon Motion confirms quarterly dividend payment",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
