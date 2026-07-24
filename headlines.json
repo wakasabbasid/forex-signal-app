@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
       "source": "Google News",
       "label": "neutral",
@@ -8,17 +15,30 @@
       "currencies": []
     },
     {
-      "title": "AUD/USD Signal 23/07: Will July\u2019s Bullish Trend Survive - DailyForex",
+      "title": "Japan finmin Katayama signals readiness for decisive forex action on yen - investingLive",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.8829,
+      "currencies": []
+    },
+    {
+      "title": "Why USD/BRL Is Falling While the Dollar Stays Strong 23/07 - DailyForex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9149,
       "currencies": [
-        "AUD",
         "USD"
       ]
     },
     {
       "title": "US Treasury finds no trading partner manipulated currency for trade advantage in 2025 By Reuters - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japan ready to take decisive action on forex, finance minister says - The Business Times",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -39,13 +59,6 @@
       "currencies": []
     },
     {
-      "title": "US presses BOJ on rate hikes as yen hits 40-year low ... intervention threat looms - investingLive",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8756,
-      "currencies": []
-    },
-    {
       "title": "USD/MXN Forecast: Mexican peso stays neutral as uncertainty persists - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -62,25 +75,13 @@
       "currencies": []
     },
     {
-      "title": "Rupiah Outlook Improves After Indonesia Policy Decision - TradingPedia",
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9317,
-      "currencies": []
-    },
-    {
-      "title": "exchange rate - Encyclopedia Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Forecasts \u2013 US Dollar Defends Key 50-Day EMA Across Major Pairs - Yahoo Finance",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6216,
-      "currencies": []
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
@@ -90,56 +91,56 @@
       "currencies": []
     },
     {
-      "title": "Brazil report cites icing, pilot actions, safety culture in deadly Voepass crash",
+      "title": "Trump vows to punish Iran and Houthis for attacks in Red Sea",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 Samsara Inc For: 23 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Byrna Technologies Inc For: 23 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Provident Financial declares $0.14 quarterly dividend",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan June core inflation accelerates, stays below BOJ target",
+      "title": "US, Mexico set more USMCA talks for September amid differences over autos content",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.4729,
+      "score": -0.4926,
       "currencies": []
     },
     {
-      "title": "Samsara EVP, CTO John Bicket sells $9.5m in stock in July",
+      "title": "Trump imposes forced labor duties on 60 trading partners as\u00a0 10% US tariffs expire",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.611,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Fractal Analytics posts strong Q1 2027 growth as shares fall",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9435,
+      "currencies": []
+    },
+    {
+      "title": "Brent hovers above $100/bbl, set for weekly rise on Middle East escalation",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8938,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Perceptive Capital Solutions Corp For: 23 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Byrna Technologies chairman TJ Kennedy: $102,285 share purchase",
+      "title": "Galaxy Digital prices $3.5 billion debt offering for Texas project",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 13D/A ALLURION TECHNOLOGIES For: 23 July",
+      "title": "Why is Oshidori International stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

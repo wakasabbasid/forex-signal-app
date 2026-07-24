@@ -1,15 +1,13 @@
 {
   "run_id": 1,
   "pairs": {
-    "AUD/USD": [
-      {
-        "title": "AUD/USD Signal 23/07: Will July\u2019s Bullish Trend Survive - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
     "USD/JPY": [
+      {
+        "title": "Why USD/BRL Is Falling While the Dollar Stays Strong 23/07 - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9149
+      },
       {
         "title": "USD/MXN Forecast: Mexican peso stays neutral as uncertainty persists - FOREX.com",
         "source": "Google News",
@@ -17,32 +15,86 @@
         "score": 0.0
       },
       {
-        "title": "EUR/JPY extends rally as ECB hike buzz tests Yen risks",
-        "source": "FXStreet",
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+        "source": "Google News",
         "label": "bullish",
-        "score": 0.6084
+        "score": 0.6676
       },
       {
-        "title": "GBP/JPY Price Forecast: Holds 218 floor as bulls eye 219 breakout",
+        "title": "PBOC sets USD/ CNY reference rate for today at 6.7939 (vs. estimate at 6.7795)",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Japan core CPI rises 1.6% in June, matching forecast, USD/JPY little changed",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.9269
+      },
+      {
+        "title": "AUD/JPY Price Forecast: Holds gains above 114.00, bullish vibe remains intact above 100-day SMA",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.4743
+        "score": 0.9369
+      },
+      {
+        "title": "Gold extends slide as inflation fears lift Fed hike bets and USD amid Trump's tariffs",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.7037
+      },
+      {
+        "title": "EUR/JPY Price Forecast: Eyes rising wedge top near 187.00",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9326
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD holds gains above $57.50 despite rising Fed rate hike odds",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9482
+      },
+      {
+        "title": "Canadian Dollar edges higher vs soft USD; bulls seem hesitant amid mixed cues",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8904
+      },
+      {
+        "title": "Australian Dollar rebounds vs USD; Trump's tariffs and US-Iran tensions cap gains",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.5347
+      },
+      {
+        "title": "PBOC sets USD/CNY reference rate at 6.7939 vs. 6.7906 previous",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PHP/USD: Philippine Peso Falls to Fresh Record Low as Oil Advances",
+        "source": "Bloomberg",
+        "label": "bearish",
+        "score": -0.9693
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "AUD/JPY Price Forecast: Holds gains above 114.00, bullish vibe remains intact above 100-day SMA",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9369
       }
     ],
     "EUR/USD": [
       {
-        "title": "EUR/JPY extends rally as ECB hike buzz tests Yen risks",
+        "title": "EUR/JPY Price Forecast: Eyes rising wedge top near 187.00",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.6084
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "GBP/JPY Price Forecast: Holds 218 floor as bulls eye 219 breakout",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.4743
+        "score": 0.9326
       }
     ]
   }
