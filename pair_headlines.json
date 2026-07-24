@@ -9,6 +9,12 @@
         "score": 0.0
       },
       {
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.6676
+      },
+      {
         "title": "India's forex reserves rise to USD 676.24 billion as foreign currency assets increase - BusinessLine",
         "source": "Google News",
         "label": "bullish",
@@ -19,12 +25,6 @@
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.9714
-      },
-      {
-        "title": "British Pound rises as Oil slide softens USD, Fed hike bets increase",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.5051
       }
     ],
     "GBP/USD": [
@@ -33,12 +33,14 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.9623
-      },
+      }
+    ],
+    "NZD/USD": [
       {
-        "title": "British Pound: Strong UK data fail to lift GBP against US Dollar \u2013 Scotiabank",
+        "title": "NZD/USD Price Forecast: Tests 0.5800 as bullish momentum fades",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.5076
+        "label": "bullish",
+        "score": 0.4477
       }
     ]
   }

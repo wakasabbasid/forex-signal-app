@@ -70,6 +70,22 @@
       ]
     },
     {
+      "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "India's forex reserves rise to USD 676.24 billion as foreign currency assets increase - BusinessLine",
       "source": "Google News",
       "label": "bullish",
@@ -79,70 +95,56 @@
       ]
     },
     {
-      "title": "Japan ready to take decisive action on forex, finance minister says - The Business Times",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "IEX Q1 FY27 slides: RTM surge drives 12% profit growth amid coupling risk",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9416,
-      "currencies": []
-    },
-    {
-      "title": "Fed Chairman Warsh faces cruel summer as bond yields spike",
+      "title": "Northeast Community earnings missed by $0.05, revenue fell short of estimates",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8874,
+      "score": -0.966,
       "currencies": []
     },
     {
-      "title": "SanDisk, American Express among market cap stock movers on Friday",
+      "title": "Oil falls on report China pushing for end US-Iran war",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8648,
+      "currencies": []
+    },
+    {
+      "title": "Trump signs executive order related to Smithsonian Institution, White House says",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Judge rules Biden-era abortion pill restrictions illegal",
+      "title": "McChip Resources appoints new CFO and director",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Canada opens bridge to Detroit without U.S. officials present",
+      "title": "Russian missile strike kills 10 at Ukrainian defence event",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8884,
+      "currencies": []
+    },
+    {
+      "title": "Form 144 VERMILION ENERGY INC. For: 24 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Canada marks Gordie Howe bridge opening without US after trade war deepens",
+      "title": "Why is DigitalOcean stock sliding today?",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.944,
       "currencies": []
     },
     {
-      "title": "WSFS Q2 2026 slides: strong results drive raised outlook",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9477,
-      "currencies": []
-    },
-    {
-      "title": "US FDA widens investigation into cyclosporiasis cases to four more states",
+      "title": "Why is Lightspeed Commerce stock climbing today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
