@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "Japan ready to take decisive action on forex, finance minister says - Reuters",
+      "title": "Japan finance minister repeats readiness for decisive action on forex - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -39,6 +39,13 @@
       ]
     },
     {
+      "title": "Rupiah Retreats Amid BI Decision and Dollar Moves - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9354,
+      "currencies": []
+    },
+    {
       "title": "Why USD/BRL Is Falling While the Dollar Stays Strong 23/07 - DailyForex",
       "source": "Google News",
       "label": "bearish",
@@ -48,14 +55,7 @@
       ]
     },
     {
-      "title": "Japan ready to take decisive action on forex, finance minister says - The Business Times",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US Treasury finds no trading partner manipulated currency for trade advantage in 2025 By Reuters - Investing.com",
+      "title": "Japan ready to take decisive action on forex, finance minister says - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -66,6 +66,13 @@
       "source": "Google News",
       "label": "bullish",
       "score": 0.9451,
+      "currencies": []
+    },
+    {
+      "title": "US Treasury finds no trading partner manipulated currency for trade advantage in 2025 By Reuters - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -83,66 +90,59 @@
       "currencies": []
     },
     {
-      "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "European shares steady as markets assess earnings, Middle East tensions",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5086,
-      "currencies": []
-    },
-    {
-      "title": "In India, Iran war forces Diet Coke to roll out a bigger can, heftier price tag",
+      "title": "Wall Street sees only two paths for Trump in the Middle East",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "French private sector contraction eased in July, flash PMIs show",
+      "title": "Exclusive-Defense tech company Anduril in talks to raise funding at about $100 billion valuation",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.756,
+      "label": "bullish",
+      "score": 0.697,
       "currencies": []
     },
     {
-      "title": "Berenberg lowers ICG stock price target on valuation review",
+      "title": "U.S. stock futures advance as investors look to rebound from oil-driven wipeout",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7355,
+      "currencies": []
+    },
+    {
+      "title": "Trump returns to White House correspondents\u2019 dinner after April attack halted gala",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Analysis-As AI grows more powerful, a US-China feud threatens safety efforts",
+      "title": "US stocks face tests from Fed decision, tech-led earnings deluge",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8783,
+      "score": -0.9501,
       "currencies": []
     },
     {
-      "title": "Argan stock surges on merger agreement with WDP",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7044,
-      "currencies": []
-    },
-    {
-      "title": "Securitas sinks to 2-year low as weak organic growth dents outlook optimism",
+      "title": "World Cup boom, Middle East gloom could split earnings for US travel firms",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9668,
+      "score": -0.9571,
       "currencies": []
     },
     {
-      "title": "SGS confirms outlook as H1 sales rise 7.6% on stronger organic growth",
+      "title": "Form 4 Nova Minerals Corp For: 24 July",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9531,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form DEF 14A HAMILTON LANE INC For: 24 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
