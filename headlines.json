@@ -8,11 +8,12 @@
       "currencies": []
     },
     {
-      "title": "Why USD/BRL Is Falling While the Dollar Stays Strong 23/07 - DailyForex",
+      "title": "AUD/USD Signal 23/07: Will July\u2019s Bullish Trend Survive - DailyForex",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9149,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
+        "AUD",
         "USD"
       ]
     },
@@ -82,45 +83,14 @@
       "currencies": []
     },
     {
-      "title": "AUD/USD Signal 23/07: Will July\u2019s Bullish Trend Survive - DailyForex",
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
-    },
-    {
-      "title": "China Pharma closes $5 million registered direct offering",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9371,
       "currencies": []
     },
     {
-      "title": "US Education Department removes key rules against discrimination",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Mexico to see no change from new US tariffs, economy minister says",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Brazil says US tariffs related to forced labor are \u2019arbitrary\u2019 and \u2019unjustified\u2019",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7988,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Newmont misses Q2 2026 estimates as shares slip",
+      "title": "Brazil report cites icing, pilot actions, safety culture in deadly Voepass crash",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
@@ -134,17 +104,45 @@
       "currencies": []
     },
     {
-      "title": "Trive Capital-backed Lyntris reveals revenue jump in US IPO filing",
+      "title": "Form 4 Byrna Technologies Inc For: 23 July",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8365,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US warns against excessive yen volatility, calls for BOJ rate hikes",
+      "title": "Provident Financial declares $0.14 quarterly dividend",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japan June core inflation accelerates, stays below BOJ target",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.4951,
+      "score": -0.4729,
+      "currencies": []
+    },
+    {
+      "title": "Samsara EVP, CTO John Bicket sells $9.5m in stock in July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Byrna Technologies chairman TJ Kennedy: $102,285 share purchase",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 13D/A ALLURION TECHNOLOGIES For: 23 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

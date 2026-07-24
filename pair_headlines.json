@@ -1,13 +1,15 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/JPY": [
+    "AUD/USD": [
       {
-        "title": "Why USD/BRL Is Falling While the Dollar Stays Strong 23/07 - DailyForex",
+        "title": "AUD/USD Signal 23/07: Will July\u2019s Bullish Trend Survive - DailyForex",
         "source": "Google News",
-        "label": "bearish",
-        "score": -0.9149
-      },
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "USD/JPY": [
       {
         "title": "USD/MXN Forecast: Mexican peso stays neutral as uncertainty persists - FOREX.com",
         "source": "Google News",
@@ -25,20 +27,6 @@
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.4743
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "AUD/USD Signal 23/07: Will July\u2019s Bullish Trend Survive - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "AUD/USD Price Forecast: Bulls struggle below the 50-day SMA",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9104
       }
     ],
     "EUR/USD": [
