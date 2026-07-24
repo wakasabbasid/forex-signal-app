@@ -69,6 +69,16 @@
       ]
     },
     {
+      "title": "GBP/USD Signal 23/07: Slumps as US Dollar Index Jumps - DailyForex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9623,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
       "title": "US Treasury finds no trading partner manipulated currency for trade advantage in 2025 By Reuters - Investing.com",
       "source": "Google News",
       "label": "neutral",
@@ -83,71 +93,61 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Signal 23/07: Slumps as US Dollar Index Jumps - DailyForex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9623,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "Physical oil prices jump to two-month highs amid supply disruptions",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.933,
-      "currencies": []
-    },
-    {
-      "title": "Israel stocks higher at close of trade; TA 35 up 0.62%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9367,
-      "currencies": []
-    },
-    {
-      "title": "Greece stocks higher at close of trade; Athens General Composite up 1.49%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9414,
-      "currencies": []
-    },
-    {
-      "title": "Why is Travelers Companies stock rallying today?",
+      "title": "Form S-1/A CTT Pharmaceutical Holdings Inc For: 24 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Analysis-Investors fret that spiking oil prices and rising yields could threaten stock\u00a0rally",
+      "title": "Form 144 BRADY CORP For: 24 July",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9624,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "COPT Defense Properties stock hits 52-week high at 38.07 USD",
+      "title": "Earnings call transcript: First Western Financial tops Q2 2026 EPS, revenue slips",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Three DWS funds extend share buyback programs through 2027",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Diebold Nixdorf stock hits all-time high at 89.13 USD",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6744,
+      "score": 0.6783,
       "currencies": [
         "USD"
       ]
     },
     {
-      "title": "FDA clears first over-the-counter acetaminophen-naproxen combo",
+      "title": "US judge says Biden-era restrictions on prescribing abortion drug are unlawful",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5331,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "South African rand nears 17 per dollar after rate decision",
+      "title": "Ovintiv Q2 2026 slides: debt slashed, shareholder returns boosted",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5739,
+      "label": "bullish",
+      "score": 0.8099,
+      "currencies": []
+    },
+    {
+      "title": "ECB facing mid-sized inflation shock, will get to 2% in year or so, Lane says",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8349,
       "currencies": []
     }
   ],

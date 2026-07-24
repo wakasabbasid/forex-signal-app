@@ -15,16 +15,22 @@
         "score": 0.9292
       },
       {
-        "title": "COPT Defense Properties stock hits 52-week high at 38.07 USD",
+        "title": "Diebold Nixdorf stock hits all-time high at 89.13 USD",
         "source": "Investing.com",
         "label": "bullish",
-        "score": 0.6744
+        "score": 0.6783
       },
       {
-        "title": "Japanese Yen: BoJ repricing may limit JPY losses against US Dollar - BBH",
+        "title": "Republic Bancorp stock hits all-time high at 93.88 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.6564
+      },
+      {
+        "title": "British Pound rises as Oil slide softens USD, Fed hike bets increase",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.6455
+        "score": 0.5051
       }
     ],
     "GBP/USD": [
@@ -33,6 +39,12 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.9623
+      },
+      {
+        "title": "British Pound: Strong UK data fail to lift GBP against US Dollar \u2013 Scotiabank",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.5076
       }
     ]
   }
