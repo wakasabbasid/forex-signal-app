@@ -1,143 +1,151 @@
 {
   "headlines": [
     {
-      "title": "Galaxy Digital stock delivers 77% return after Fair Value alert",
+      "title": "Japan finance minister repeats readiness for decisive action on forex - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "After currency headwinds, Israeli tech welcomes a forex rebound (WIX:NASDAQ) - Seeking Alpha",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9451,
+      "currencies": []
+    },
+    {
+      "title": "Vice Minister Huh Urges Exporters to Convert Currency as Forex Eases - \uc870\uc120\uc77c\ubcf4",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japan's Katayama Reiterates Readiness for Forex Intervention - nippon.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Swiss Franc Short-term Outlook: USD/CHF Rally Presses Yearly Trend Resistance - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "CHF"
+      ]
+    },
+    {
+      "title": "GBP/USD Signal 23/07: Slumps as US Dollar Index Jumps - DailyForex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9623,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
+      "title": "Japan finmin Katayama signals readiness for decisive forex action on yen - TradingView",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7815,
+      "currencies": []
+    },
+    {
+      "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Dollar set for biggest weekly gain in over a month; yen eyes worst week since May - Investing.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8683,
+      "currencies": []
+    },
+    {
+      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: OneSource Specialty Pharma posts strong Q1 2027 growth",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9215,
+      "score": 0.9502,
       "currencies": []
     },
     {
-      "title": "Two decades of mass protests in India",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7267,
-      "currencies": []
-    },
-    {
-      "title": "InvestingPro\u2019s Fair Value nailed MP Materials\u2019 50% decline",
+      "title": "Earnings call transcript: IDFC FIRST Bank posts record Q1 2026 profit",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5154,
+      "score": 0.4491,
       "currencies": []
     },
     {
-      "title": "Palestinians hope UNESCO designation halts Israeli push at West Bank site",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7888,
-      "currencies": []
-    },
-    {
-      "title": "Citi brush off memory \"peak-out\" fears, reiterates Buy on Samsung and SK Hynix",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.4923,
-      "currencies": []
-    },
-    {
-      "title": "\u2019The fear killed her\u2019: How an exam scandal in India sparked a student uprising",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5589,
-      "currencies": []
-    },
-    {
-      "title": "Tens of thousands flee fires in France, blazes merge outside Madrid",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8482,
-      "currencies": []
-    },
-    {
-      "title": "Michigan battles massive outbreak as state reels from Trump cuts",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7187,
-      "currencies": []
-    },
-    {
-      "title": "Swiss cheesemakers try to fill hole in sales from US tariffs",
+      "title": "India to press U.S. for trade pact despite new 10% forced labor tariff",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.577,
+      "score": 0.9086,
       "currencies": []
     },
     {
-      "title": "This wave of Trump tariffs is likely here to stay; more are coming",
+      "title": "India to keep engaging with US on trade deal after new tariff measures",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.8332,
       "currencies": []
     },
     {
-      "title": "What is tradeCompass at investingLive.com: Trading methodolgy explained and how traders can utilize it",
-      "source": "ForexLive",
-      "label": "neutral",
-      "score": 0.0,
+      "title": "SBFC Finance Q1 FY27 slides: 27% AUM growth, margins expand",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9465,
       "currencies": []
     },
     {
-      "title": "investingLive Americas FX news wrap 24 Jul: Geopolitics remain the focus for traders.",
-      "source": "ForexLive",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US indices close mixed. Dow up. S&P unchanged. Nasdaq down",
-      "source": "ForexLive",
+      "title": "Israel kills senior Hamas-led police official in Gaza, medics and police officials say",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9265,
+      "score": -0.8293,
       "currencies": []
     },
     {
-      "title": "Next week's earnings calendar heats up",
-      "source": "ForexLive",
-      "label": "neutral",
-      "score": 0.0,
+      "title": "Earnings call transcript: SBFC Finance posts steady Q1 2026 growth, shares rise",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9478,
       "currencies": []
     },
     {
-      "title": "Trump: Iran not ready to make a deal.",
-      "source": "ForexLive",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Crude oil futures settled at $89.31",
-      "source": "ForexLive",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "NY Times: Trump meets with top advisors to decide whether to increase military pressure on Iran",
-      "source": "ForexLive",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "EU fines today, Trump 301 tariffs tomorrow?",
-      "source": "ForexLive",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "AUDUSD stuck in the mud.  Looking for a break from the non-trend.",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.8539,
-      "currencies": []
-    },
-    {
-      "title": "US and the UK planning on having a meeting on protecting shipping in the Strait of Hormuz",
-      "source": "ForexLive",
-      "label": "neutral",
-      "score": 0.0,
+      "title": "AU Small Finance Bank Q1 FY27 slides: 37% profit growth, AI push",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9249,
       "currencies": []
     }
   ],

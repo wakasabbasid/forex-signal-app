@@ -1,15 +1,29 @@
 {
   "run_id": 1,
   "pairs": {
-    "EUR/USD": [
+    "USD/CHF": [
       {
-        "title": "EUR/JPY Price Forecast: Cross consolidates under 187.00, bulls target 188.00",
-        "source": "FXStreet",
+        "title": "Swiss Franc Short-term Outlook: USD/CHF Rally Presses Yearly Trend Resistance - FOREX.com",
+        "source": "Google News",
         "label": "neutral",
         "score": 0.0
       }
     ],
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Signal 23/07: Slumps as US Dollar Index Jumps - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9623
+      }
+    ],
     "USD/JPY": [
+      {
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.6676
+      },
       {
         "title": "EUR/JPY Price Forecast: Cross consolidates under 187.00, bulls target 188.00",
         "source": "FXStreet",
@@ -21,6 +35,14 @@
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.9714
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/JPY Price Forecast: Cross consolidates under 187.00, bulls target 188.00",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "NZD/USD": [
