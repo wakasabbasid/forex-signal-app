@@ -1,22 +1,6 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/CHF": [
-      {
-        "title": "Swiss Franc Short-term Outlook: USD/CHF Rally Presses Yearly Trend Resistance - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "GBP/USD Signal 23/07: Slumps as US Dollar Index Jumps - DailyForex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9623
-      }
-    ],
     "EUR/USD": [
       {
         "title": "EUR/JPY Price Forecast: Cross consolidates under 187.00, bulls target 188.00",
