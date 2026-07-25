@@ -15,11 +15,14 @@
       "currencies": []
     },
     {
-      "title": "Japan's Katayama Reiterates Readiness for Forex Intervention - nippon.com",
+      "title": "Swiss Franc Short-term Outlook: USD/CHF Rally Presses Yearly Trend Resistance - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "USD",
+        "CHF"
+      ]
     },
     {
       "title": "After currency headwinds, Israeli tech welcomes a forex rebound (WIX:NASDAQ) - Seeking Alpha",
@@ -36,14 +39,11 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY, Gold Outlook: Rising Yields Favor the Dollar Over Gold - FOREX.com",
+      "title": "Japan's Katayama Reiterates Readiness for Forex Intervention - nippon.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
+      "currencies": []
     },
     {
       "title": "GBP/USD Signal 23/07: Slumps as US Dollar Index Jumps - DailyForex",
@@ -56,10 +56,17 @@
       ]
     },
     {
-      "title": "Rupiah Retreats Amid BI Decision and Dollar Moves - TradingPedia",
+      "title": "Japan finmin Katayama signals readiness for decisive forex action on yen - TradingView",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9354,
+      "label": "bullish",
+      "score": 0.7815,
+      "currencies": []
+    },
+    {
+      "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -72,78 +79,73 @@
       ]
     },
     {
-      "title": "Japan finmin Katayama signals readiness for decisive forex action on yen - investingLive",
+      "title": "Rupiah Retreats Amid BI Decision and Dollar Moves - TradingPedia",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.8829,
-      "currencies": []
-    },
-    {
-      "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Bitmine Immersion Technologies Inc For: 24 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form DEF 14A ENvue Medical Inc For: 24 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Samsara Inc For: 24 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Hilltop Holdings Inc For: 24 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 DNP Select Income Closed Fund For: 24 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "investingLive Americas FX news wrap 24 Jul: Geopolitics remain the focus for traders.",
-      "source": "ForexLive",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US indices close mixed. Dow up. S&P unchanged. Nasdaq down",
-      "source": "ForexLive",
       "label": "bearish",
-      "score": -0.9265,
+      "score": -0.9354,
       "currencies": []
     },
     {
-      "title": "Next week's earnings calendar heats up",
-      "source": "ForexLive",
+      "title": "USD/MXN Forecast: Mexican peso stays neutral as uncertainty persists - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Form 4 Insmed Inc For: 24 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Insmed chair and CEO William Lewis sells over $1.1m in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US missiles hit Iran as path towards de-escalation uncertain",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.3848,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Corpay Inc For: 24 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 144 First American Financial Corp For: 24 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Ryan Specialty Group Holdings Inc For: 24 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Elon Musk\u2019s Boring Company seeks $20 billion valuation in funding talks",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Trump says Israeli PM Netanyahu will visit US next week",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []

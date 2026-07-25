@@ -1,18 +1,34 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/JPY": [
+    "USD/CHF": [
       {
-        "title": "USD/JPY, Gold Outlook: Rising Yields Favor the Dollar Over Gold - FOREX.com",
+        "title": "Swiss Franc Short-term Outlook: USD/CHF Rally Presses Yearly Trend Resistance - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Signal 23/07: Slumps as US Dollar Index Jumps - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9623
+      }
+    ],
+    "USD/JPY": [
       {
         "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
         "source": "Google News",
         "label": "bullish",
         "score": 0.6676
+      },
+      {
+        "title": "USD/MXN Forecast: Mexican peso stays neutral as uncertainty persists - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       },
       {
         "title": "EUR/JPY Price Forecast: Cross consolidates under 187.00, bulls target 188.00",
@@ -25,26 +41,6 @@
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.9714
-      },
-      {
-        "title": "U.S. Dollar Gains Ground As Brent Oil Hits $100: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
-        "source": "Yahoo Finance",
-        "label": "bullish",
-        "score": 0.743
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "GBP/USD Signal 23/07: Slumps as US Dollar Index Jumps - DailyForex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9623
-      },
-      {
-        "title": "U.S. Dollar Gains Ground As Brent Oil Hits $100: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
-        "source": "Yahoo Finance",
-        "label": "bullish",
-        "score": 0.743
       }
     ],
     "EUR/USD": [
@@ -53,12 +49,6 @@
         "source": "FXStreet",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "U.S. Dollar Gains Ground As Brent Oil Hits $100: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
-        "source": "Yahoo Finance",
-        "label": "bullish",
-        "score": 0.743
       }
     ],
     "NZD/USD": [
@@ -67,14 +57,6 @@
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.6417
-      }
-    ],
-    "USD/CAD": [
-      {
-        "title": "U.S. Dollar Gains Ground As Brent Oil Hits $100: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
-        "source": "Yahoo Finance",
-        "label": "bullish",
-        "score": 0.743
       }
     ]
   }
