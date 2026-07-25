@@ -17,19 +17,15 @@
         "score": -0.9623
       }
     ],
-    "USD/JPY": [
+    "EUR/USD": [
       {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.6676
-      },
-      {
-        "title": "USD/MXN Forecast: Mexican peso stays neutral as uncertainty persists - FOREX.com",
-        "source": "Google News",
+        "title": "EUR/JPY Price Forecast: Cross consolidates under 187.00, bulls target 188.00",
+        "source": "FXStreet",
         "label": "neutral",
         "score": 0.0
-      },
+      }
+    ],
+    "USD/JPY": [
       {
         "title": "EUR/JPY Price Forecast: Cross consolidates under 187.00, bulls target 188.00",
         "source": "FXStreet",
@@ -41,14 +37,6 @@
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.9714
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/JPY Price Forecast: Cross consolidates under 187.00, bulls target 188.00",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
       }
     ],
     "NZD/USD": [

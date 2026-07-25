@@ -70,81 +70,77 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "title": "How One Geopolitical Event Moves Oil, Gold, Forex, and Indices, and How PrimeXBT Helps You Trade the Ripple - investingLive",
       "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US Treasury finds no trading partner manipulated currency for trade advantage in 2025 By Reuters - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Kuwait signs $16 billion oil pipeline deal with Blackstone, KKR and Brookfield",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Rupiah Retreats Amid BI Decision and Dollar Moves - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9354,
+      "score": 0.9251,
       "currencies": []
     },
     {
-      "title": "USD/MXN Forecast: Mexican peso stays neutral as uncertainty persists - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Form 4 Insmed Inc For: 24 July",
+      "title": "Kuwait\u2019s KPC signs $16 billion lease and leaseback deal with Blackstone, KKR, Brookfield for oil pipeline network",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.887,
       "currencies": []
     },
     {
-      "title": "Insmed chair and CEO William Lewis sells over $1.1m in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US missiles hit Iran as path towards de-escalation uncertain",
+      "title": "India\u2019s Modi under pressure as youth protest leaders set for more talks",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.3848,
+      "score": -0.7992,
       "currencies": []
     },
     {
-      "title": "Form 4 Corpay Inc For: 24 July",
+      "title": "Form 4 Heartbeam Inc For: 25 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 144 First American Financial Corp For: 24 July",
+      "title": "Form 4 BROWN FORMAN CORP For: 25 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 Ryan Specialty Group Holdings Inc For: 24 July",
+      "title": "SpaceX Starship deploys upgraded Starlink satellites during 13th test flight",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6255,
+      "currencies": []
+    },
+    {
+      "title": "Form 13D/A Stablecoin Development Corp For: 25 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Elon Musk\u2019s Boring Company seeks $20 billion valuation in funding talks",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Trump says Israeli PM Netanyahu will visit US next week",
+      "title": "Form 144 WESTAMERICA BANCORPORATION For: 25 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
