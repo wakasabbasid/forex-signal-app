@@ -69,6 +69,20 @@
       "currencies": []
     },
     {
+      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US Treasury finds no trading partner manipulated currency for trade advantage in 2025 By Reuters - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
       "source": "Google News",
       "label": "bullish",
@@ -78,73 +92,59 @@
       ]
     },
     {
-      "title": "Dollar set for biggest weekly gain in over a month; yen eyes worst week since May - Investing.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8683,
-      "currencies": []
-    },
-    {
-      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Attack on holiday camp kills 11, says governor of Russian-held territory in Ukraine",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8926,
-      "currencies": []
-    },
-    {
-      "title": "Houthis fire on Saudi oil sites; no US strike on Iran for first time in two weeks",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8532,
-      "currencies": []
-    },
-    {
-      "title": "NOS Q2 2026 slides: AI drives margins as revenue holds flat",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8256,
-      "currencies": []
-    },
-    {
-      "title": "U.S. aimed to send envoys to Brazil to question its electoral system - sources",
+      "title": "LSEG\u2019s Lipper reviews transaction affecting fixed-income fund flow data",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Russia says Ukraine killed 11 in tourist camp; Ukraine strikes Russian refinery",
+      "title": "Maine Democrats nominate Troy Jackson to replace Platner in US Senate race",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9366,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Israeli troops round up Palestinians in West Bank village after shootout involving settlers",
+      "title": "US aimed to send envoys to Brazil to question its electoral system - sources",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7025,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "IDFC FIRST Bank Q1 FY27 slides: profit crosses Rs. 1,000 crore milestone",
+      "title": "Fourth firefighter dies following June wildland fire in Colorado",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7934,
+      "currencies": []
+    },
+    {
+      "title": "DeepSeek halts follow-on funding weeks after record $7 bln round - report",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9529,
+      "currencies": []
+    },
+    {
+      "title": "DeepSeek tells prospective investors of funding pause, Bloomberg News reports",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Rotate to China: BCA tips 3-month reversion trade away from South Korea stocks",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8687,
+      "score": 0.7044,
       "currencies": []
     },
     {
-      "title": "Israel kills senior Hamas-led police official in Gaza, medics and police officials say",
+      "title": "Israel kills senior Hamas-led police official in Gaza, medics say",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8293,
+      "score": -0.8603,
       "currencies": []
     }
   ],
