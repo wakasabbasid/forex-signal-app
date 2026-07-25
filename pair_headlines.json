@@ -1,14 +1,6 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/CHF": [
-      {
-        "title": "Swiss Franc Short-term Outlook: USD/CHF Rally Presses Yearly Trend Resistance - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
     "GBP/USD": [
       {
         "title": "GBP/USD Signal 23/07: Slumps as US Dollar Index Jumps - DailyForex",
@@ -18,6 +10,12 @@
       }
     ],
     "USD/JPY": [
+      {
+        "title": "USD/MXN Forecast: Mexican peso stays neutral as uncertainty persists - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
       {
         "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
         "source": "Google News",

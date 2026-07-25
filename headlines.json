@@ -36,22 +36,21 @@
       "currencies": []
     },
     {
-      "title": "Swiss Franc Short-term Outlook: USD/CHF Rally Presses Yearly Trend Resistance - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "CHF"
-      ]
-    },
-    {
       "title": "GBP/USD Signal 23/07: Slumps as US Dollar Index Jumps - DailyForex",
       "source": "Google News",
       "label": "bearish",
       "score": -0.9623,
       "currencies": [
         "GBP",
+        "USD"
+      ]
+    },
+    {
+      "title": "USD/MXN Forecast: Mexican peso stays neutral as uncertainty persists - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
         "USD"
       ]
     },
@@ -93,38 +92,52 @@
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: OneSource Specialty Pharma posts strong Q1 2027 growth",
+      "title": "Attack on holiday camp kills 11, says governor of Russian-held territory in Ukraine",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9502,
+      "label": "bearish",
+      "score": -0.8926,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: IDFC FIRST Bank posts record Q1 2026 profit",
+      "title": "Houthis fire on Saudi oil sites; no US strike on Iran for first time in two weeks",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.4491,
+      "label": "bearish",
+      "score": -0.8532,
       "currencies": []
     },
     {
-      "title": "India to press U.S. for trade pact despite new 10% forced labor tariff",
+      "title": "NOS Q2 2026 slides: AI drives margins as revenue holds flat",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9086,
+      "score": 0.8256,
       "currencies": []
     },
     {
-      "title": "India to keep engaging with US on trade deal after new tariff measures",
+      "title": "U.S. aimed to send envoys to Brazil to question its electoral system - sources",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8332,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "SBFC Finance Q1 FY27 slides: 27% AUM growth, margins expand",
+      "title": "Russia says Ukraine killed 11 in tourist camp; Ukraine strikes Russian refinery",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9366,
+      "currencies": []
+    },
+    {
+      "title": "Israeli troops round up Palestinians in West Bank village after shootout involving settlers",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7025,
+      "currencies": []
+    },
+    {
+      "title": "IDFC FIRST Bank Q1 FY27 slides: profit crosses Rs. 1,000 crore milestone",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9465,
+      "score": 0.8687,
       "currencies": []
     },
     {
@@ -132,20 +145,6 @@
       "source": "Investing.com",
       "label": "bearish",
       "score": -0.8293,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: SBFC Finance posts steady Q1 2026 growth, shares rise",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9478,
-      "currencies": []
-    },
-    {
-      "title": "AU Small Finance Bank Q1 FY27 slides: 37% profit growth, AI push",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9249,
       "currencies": []
     }
   ],
