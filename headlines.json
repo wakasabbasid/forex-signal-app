@@ -83,68 +83,66 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
+      "score": 0.9371,
+      "currencies": []
+    },
+    {
+      "title": "At least 21 people injured in New York City fire",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9251,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin coils in $63,800-$65,500 range: Live levels",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "BofA warns oil volatility could force c. banks to abandon look-through\u2019 policy",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9498,
+      "currencies": []
+    },
+    {
+      "title": "Twelve dead in attack on holiday camp in Russian-held part of Ukraine, officials say",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9053,
+      "currencies": []
+    },
+    {
+      "title": "U.S. pauses Iran air strikes as Trump signals push for deal",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Michigan battles massive outbreak as state reels from Trump cuts",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7187,
+      "currencies": []
+    },
+    {
+      "title": "Kuwait\u2019s KPC signs $16 billion lease and leaseback deal for oil pipeline network",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8124,
+      "currencies": []
     },
     {
       "title": "LSEG\u2019s Lipper reviews transaction affecting fixed-income fund flow data",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Maine Democrats nominate Troy Jackson to replace Platner in US Senate race",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US aimed to send envoys to Brazil to question its electoral system - sources",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Fourth firefighter dies following June wildland fire in Colorado",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7934,
-      "currencies": []
-    },
-    {
-      "title": "DeepSeek halts follow-on funding weeks after record $7 bln round - report",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9529,
-      "currencies": []
-    },
-    {
-      "title": "DeepSeek tells prospective investors of funding pause, Bloomberg News reports",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Rotate to China: BCA tips 3-month reversion trade away from South Korea stocks",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7044,
-      "currencies": []
-    },
-    {
-      "title": "Israel kills senior Hamas-led police official in Gaza, medics say",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8603,
       "currencies": []
     }
   ],
