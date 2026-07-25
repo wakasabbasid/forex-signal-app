@@ -62,6 +62,20 @@
       "currencies": []
     },
     {
+      "title": "Yen\u2019s worst week since May brings it close to \u00a5165 vs. dollar - The Japan Times",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9532,
+      "currencies": []
+    },
+    {
+      "title": "Forex schemes: BoB, BoI target over $6bn mop-up - The Times of India",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
       "source": "Google News",
       "label": "neutral",
@@ -76,17 +90,38 @@
       "currencies": []
     },
     {
-      "title": "US Treasury finds no trading partner manipulated currency for trade advantage in 2025 By Reuters - Investing.com",
-      "source": "Google News",
+      "title": "U.S. pauses Iran air strikes as Trump signals push for deal",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
+      "title": "Houthis fire on Saudi oil sites; no US strike on Iran for first time in two weeks",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8532,
+      "currencies": []
+    },
+    {
+      "title": "Flavio Bolsonaro launches Brazil presidential campaign, touts support from Milei, Netanyahu",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9371,
+      "score": 0.5085,
+      "currencies": []
+    },
+    {
+      "title": "US appeals court rules Trump cannot implement mail-in voting order",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Goldman Sachs raises TOPIX 12-month target to 4,500 on weaker yen outlook",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5769,
       "currencies": []
     },
     {
@@ -108,41 +143,6 @@
       "source": "Investing.com",
       "label": "bearish",
       "score": -0.9498,
-      "currencies": []
-    },
-    {
-      "title": "Twelve dead in attack on holiday camp in Russian-held part of Ukraine, officials say",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9053,
-      "currencies": []
-    },
-    {
-      "title": "U.S. pauses Iran air strikes as Trump signals push for deal",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Michigan battles massive outbreak as state reels from Trump cuts",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7187,
-      "currencies": []
-    },
-    {
-      "title": "Kuwait\u2019s KPC signs $16 billion lease and leaseback deal for oil pipeline network",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8124,
-      "currencies": []
-    },
-    {
-      "title": "LSEG\u2019s Lipper reviews transaction affecting fixed-income fund flow data",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     }
   ],
