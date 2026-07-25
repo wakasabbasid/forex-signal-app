@@ -29,6 +29,13 @@
       "currencies": []
     },
     {
+      "title": "Vice Minister Huh Urges Exporters to Convert Currency as Forex Eases - \uc870\uc120\uc77c\ubcf4",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "USD/JPY, Gold Outlook: Rising Yields Favor the Dollar Over Gold - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -37,27 +44,6 @@
         "USD",
         "JPY"
       ]
-    },
-    {
-      "title": "Vice Minister Huh Urges Exporters to Convert Currency as Forex Eases - \uc870\uc120\uc77c\ubcf4",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan finmin Katayama signals readiness for decisive forex action on yen - investingLive",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8829,
-      "currencies": []
-    },
-    {
-      "title": "Rupiah Retreats Amid BI Decision and Dollar Moves - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9354,
-      "currencies": []
     },
     {
       "title": "GBP/USD Signal 23/07: Slumps as US Dollar Index Jumps - DailyForex",
@@ -70,10 +56,10 @@
       ]
     },
     {
-      "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
+      "title": "Rupiah Retreats Amid BI Decision and Dollar Moves - TradingPedia",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9354,
       "currencies": []
     },
     {
@@ -86,68 +72,80 @@
       ]
     },
     {
-      "title": "India's forex reserves rise to USD 676.24 billion as foreign currency assets increase - BusinessLine",
+      "title": "Japan finmin Katayama signals readiness for decisive forex action on yen - investingLive",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9292,
-      "currencies": [
-        "USD"
-      ]
+      "score": 0.8829,
+      "currencies": []
     },
     {
-      "title": "Eagle Point Credit Management sells $201,147 in Acres preferred stock",
+      "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9371,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Bitmine Immersion Technologies Inc For: 24 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "United Rentals EVP, CFO William Grace sells $1.7m in stock",
+      "title": "Form DEF 14A ENvue Medical Inc For: 24 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Mink Brook Asset Management buys $2,396 in DLHC stock",
+      "title": "Form 4 Samsara Inc For: 24 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Trump orders signs outside history museum to correct what he calls \u2019inaccurate information\u2019",
+      "title": "Form 4 Hilltop Holdings Inc For: 24 July",
       "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 DNP Select Income Closed Fund For: 24 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "investingLive Americas FX news wrap 24 Jul: Geopolitics remain the focus for traders.",
+      "source": "ForexLive",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US indices close mixed. Dow up. S&P unchanged. Nasdaq down",
+      "source": "ForexLive",
       "label": "bearish",
-      "score": -0.8639,
+      "score": -0.9265,
       "currencies": []
     },
     {
-      "title": "Form 4 Southern Cross Acquisition I Corp. For: 24 July",
-      "source": "Investing.com",
+      "title": "Next week's earnings calendar heats up",
+      "source": "ForexLive",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Udr For: 24 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form S-1 Powerdyne\nInternational Inc. For: 24 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US missiles hit Iran as path towards de-escalation uncertain",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.3848,
       "currencies": []
     }
   ],

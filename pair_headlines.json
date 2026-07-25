@@ -15,12 +15,6 @@
         "score": 0.6676
       },
       {
-        "title": "India's forex reserves rise to USD 676.24 billion as foreign currency assets increase - BusinessLine",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.9292
-      },
-      {
         "title": "EUR/JPY Price Forecast: Cross consolidates under 187.00, bulls target 188.00",
         "source": "FXStreet",
         "label": "neutral",
@@ -31,6 +25,12 @@
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.9714
+      },
+      {
+        "title": "U.S. Dollar Gains Ground As Brent Oil Hits $100: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
+        "source": "Yahoo Finance",
+        "label": "bullish",
+        "score": 0.743
       }
     ],
     "GBP/USD": [
@@ -39,6 +39,12 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.9623
+      },
+      {
+        "title": "U.S. Dollar Gains Ground As Brent Oil Hits $100: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
+        "source": "Yahoo Finance",
+        "label": "bullish",
+        "score": 0.743
       }
     ],
     "EUR/USD": [
@@ -47,6 +53,12 @@
         "source": "FXStreet",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "U.S. Dollar Gains Ground As Brent Oil Hits $100: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
+        "source": "Yahoo Finance",
+        "label": "bullish",
+        "score": 0.743
       }
     ],
     "NZD/USD": [
@@ -55,6 +67,14 @@
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.6417
+      }
+    ],
+    "USD/CAD": [
+      {
+        "title": "U.S. Dollar Gains Ground As Brent Oil Hits $100: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
+        "source": "Yahoo Finance",
+        "label": "bullish",
+        "score": 0.743
       }
     ]
   }
