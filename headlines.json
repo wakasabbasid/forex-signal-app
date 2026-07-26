@@ -8,10 +8,24 @@
       "currencies": []
     },
     {
+      "title": "Weekly Forex Forecast 27 to 31/07: Dollar, Yen, Gold & Oil - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "LINK FOREX Deepens Its Strategic Expansion in Latin America With Major Initiatives to Build a More Professional and Resilient Investment Ecosystem - Yahoo Finance",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9306,
       "currencies": []
     },
     {
@@ -36,25 +50,6 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Signal 23/07: Slumps as US Dollar Index Jumps - DailyForex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9623,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "USD/MXN Forecast: Mexican peso stays neutral as uncertainty persists - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
       "title": "Japan finmin Katayama signals readiness for decisive forex action on yen - TradingView",
       "source": "Google News",
       "label": "bullish",
@@ -62,21 +57,14 @@
       "currencies": []
     },
     {
-      "title": "Yen\u2019s worst week since May brings it close to \u00a5165 vs. dollar - The Japan Times",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9532,
-      "currencies": []
-    },
-    {
-      "title": "Forex schemes: BoB, BoI target over $6bn mop-up - The Times of India",
+      "title": "Japan ready to take decisive action on forex, finance minister says - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
+      "title": "Early indications for the FX market this week - investingLive",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -90,59 +78,68 @@
       "currencies": []
     },
     {
-      "title": "U.S. pauses Iran air strikes as Trump signals push for deal",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Houthis fire on Saudi oil sites; no US strike on Iran for first time in two weeks",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8532,
-      "currencies": []
-    },
-    {
-      "title": "Flavio Bolsonaro launches Brazil presidential campaign, touts support from Milei, Netanyahu",
-      "source": "Investing.com",
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "source": "Google News",
       "label": "bullish",
-      "score": 0.5085,
-      "currencies": []
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
     },
     {
-      "title": "US appeals court rules Trump cannot implement mail-in voting order",
+      "title": "Brown-Forman board says Sazerac unsolicited proposal not actionable",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Goldman Sachs raises TOPIX 12-month target to 4,500 on weaker yen outlook",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5769,
-      "currencies": []
-    },
-    {
-      "title": "At least 21 people injured in New York City fire",
+      "title": "Suspect in Berlin Pride attack shot dead by police",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9251,
+      "score": -0.7263,
       "currencies": []
     },
     {
-      "title": "Bitcoin coils in $63,800-$65,500 range: Live levels",
+      "title": "Oil slips more than 5% after US pauses strikes on Iran",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9511,
+      "currencies": []
+    },
+    {
+      "title": "Missile strikes kill civilians in Kyiv, other Ukraine cities; Russian-held areas also hit",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9364,
+      "currencies": []
+    },
+    {
+      "title": "Iran says it will halt strikes as long as US bombing pause holds",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "BofA warns oil volatility could force c. banks to abandon look-through\u2019 policy",
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9498,
+      "score": -0.9603,
+      "currencies": []
+    },
+    {
+      "title": "Are Midterm Elections a headwind for stocks?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8745,
+      "currencies": []
+    },
+    {
+      "title": "Why this analyst says Reconciliation 3.0 is still a long shot even as it shrinks",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

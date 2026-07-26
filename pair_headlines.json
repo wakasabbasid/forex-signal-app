@@ -1,20 +1,12 @@
 {
   "run_id": 1,
   "pairs": {
-    "GBP/USD": [
-      {
-        "title": "GBP/USD Signal 23/07: Slumps as US Dollar Index Jumps - DailyForex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9623
-      }
-    ],
     "USD/JPY": [
       {
-        "title": "USD/MXN Forecast: Mexican peso stays neutral as uncertainty persists - FOREX.com",
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bullish",
+        "score": 0.6676
       },
       {
         "title": "EUR/JPY Price Forecast: Cross consolidates under 187.00, bulls target 188.00",
