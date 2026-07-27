@@ -18,6 +18,13 @@
       "currencies": []
     },
     {
+      "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "EUR/USD the Key for USD Trends into FOMC - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -27,13 +34,6 @@
         "USD",
         "USD"
       ]
-    },
-    {
-      "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
     },
     {
       "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
@@ -60,17 +60,10 @@
       ]
     },
     {
-      "title": "US broadens scrutiny of forex policies; India stays off currency watch list - Business Standard",
+      "title": "iFOREX Revenue Holds Near $27 Million as Currency Costs Weigh on Profit - Forex Factory",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.3995,
-      "currencies": []
-    },
-    {
-      "title": "A single company moves the forex market! SK Hynix's $26.5 billion fundraising in the U.S. triggers ripple effects, driving the Korean won to appreciate by 6% in July\u2014the strongest gain in Asia. - Moomoo",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7625,
+      "label": "bearish",
+      "score": -0.8837,
       "currencies": []
     },
     {
@@ -81,6 +74,13 @@
       "currencies": []
     },
     {
+      "title": "A single company moves the forex market! SK Hynix's $26.5 billion fundraising in the U.S. triggers ripple effects, driving the Korean won to appreciate by 6% in July\u2014the strongest gain in Asia. - Moomoo",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7625,
+      "currencies": []
+    },
+    {
       "title": "Customs agency uncovers almost $5 billion worth of illegal foreign exchange trading in first half of year - Korea JoongAng Daily",
       "source": "Google News",
       "label": "bearish",
@@ -88,66 +88,63 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD: Ready to Fall to New Lows? - DailyForex",
+      "title": "Japan finmin Katayama signals readiness for decisive forex action on yen - TradingView",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.6931,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "Form 4 Stifel Financial Corp For: 27 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Gold prices rise slightly as pause in Middle East fighting weighs on oil",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7345,
-      "currencies": []
-    },
-    {
-      "title": "Celestica soars 9% on strong Q2 results, raised outlook",
-      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9463,
+      "score": 0.7815,
       "currencies": []
     },
     {
-      "title": "Cytokinetics president & CEO Robert Blum sells $606,525 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Stifel Financial director Maryam Brown sells $372,233 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Pentagon says US industry still years from matching Ukraine\u2019s wartime drone output",
+      "title": "Wall Street ends mixed as investors focus on tech earnings",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8633,
+      "score": -0.7655,
       "currencies": []
     },
     {
-      "title": "Form 4 Quest Diagnostics orporated For: 27 July",
+      "title": "Form 4 FT Vest Total Return Income Fund: Series A2 For: 27 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 144 Cactus Inc For: 27 July",
+      "title": "Form 13D/A RADCOM LTD For: 27 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 13D/A YY Group Holding Ltd. For: 27 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 TechnipFMC PLC For: 27 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Kymera Therapeutics Inc For: 27 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Palestinians say settler violence and military raids are bringing them to breaking point",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8012,
+      "currencies": []
+    },
+    {
+      "title": "US advances nomination of Trump top spy nominee Clayton",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

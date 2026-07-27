@@ -23,12 +23,6 @@
         "score": 0.0
       },
       {
-        "title": "EUR/USD: Ready to Fall to New Lows? - DailyForex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.6931
-      },
-      {
         "title": "EUR/JPY Price Forecast: Range holds as intervention fears bite",
         "source": "FXStreet",
         "label": "bearish",
@@ -59,14 +53,6 @@
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.8766
-      }
-    ],
-    "USD/CHF": [
-      {
-        "title": "USD/CHF Price Forecast: Bulls eye 0.8200 as rally extends",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.5791
       }
     ]
   }
