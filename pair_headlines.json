@@ -1,36 +1,26 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/JPY": [
+    "GBP/USD": [
       {
-        "title": "Silver Price Forecast: XAG/USD jumps over 2% to near $60 on renewed US-Iran diplomacy hopes",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9316
-      },
-      {
-        "title": "New Zealand Dollar bulls seem hesitant; downside seems limited amid weak USD",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.5044
-      },
-      {
-        "title": "British Pound strengthens beyond mid-1.3300s vs weak USD amid fresh Iran diplomacy hopes",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9252
-      },
-      {
-        "title": "Euro climbs beyond 1.1400 as renewed Iran diplomacy hopes undermine safe-haven USD",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9282
-      },
-      {
-        "title": "PBOC sets USD/CNY reference rate at 6.7911 vs. 6.7939 previous",
-        "source": "FXStreet",
+        "title": "GBP/USD Signal 27/07: Forecast Ahead of BoE and Fed Decision - DailyForex",
+        "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "GBP/USD Price Forecast: VCP breakout likely after Fed-BoE policy announcements",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.6779
+      }
+    ],
+    "USD/JPY": [
+      {
+        "title": "Japanese Yen: Hawkish shift needed to aid JPY against US Dollar \u2013 BNY",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.6195
       }
     ]
   }
