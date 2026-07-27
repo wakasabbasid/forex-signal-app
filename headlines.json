@@ -8,14 +8,14 @@
       "currencies": []
     },
     {
-      "title": "Weekly Forex Forecast 27 to 31/07: Dollar, Yen, Gold & Oil - DailyForex",
+      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
+      "title": "Weekly Forex Forecast 27 to 31/07: Dollar, Yen, Gold & Oil - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -36,14 +36,14 @@
       "currencies": []
     },
     {
-      "title": "Vice Minister Huh Urges Exporters to Convert Currency as Forex Eases - \uc870\uc120\uc77c\ubcf4",
+      "title": "Japan's Katayama Reiterates Readiness for Forex Intervention - nippon.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Japan's Katayama Reiterates Readiness for Forex Intervention - nippon.com",
+      "title": "Vice Minister Huh Urges Exporters to Convert Currency as Forex Eases - \uc870\uc120\uc77c\ubcf4",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -57,6 +57,13 @@
       "currencies": []
     },
     {
+      "title": "RBI\u2019s forex measures draw nearly $32 billion, largely via FCNR(B): Governor Sanjay Malhotra - Moneycontrol.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Japan ready to take decisive action on forex, finance minister says - Reuters",
       "source": "Google News",
       "label": "neutral",
@@ -64,82 +71,73 @@
       "currencies": []
     },
     {
-      "title": "Early indications for the FX market this week - investingLive",
+      "title": "India may see up to $85 billion in forex inflows after RBI's FCNR move: Report - The Economic Times",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
+      "title": "exchange rate - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-      "source": "Google News",
+      "title": "Myanmar military escalates civilian killings, monitor warns, amid diplomatic push",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9349,
+      "currencies": []
+    },
+    {
+      "title": "AMREP earnings missed by $0.33, revenue fell short of estimates",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.969,
+      "currencies": []
+    },
+    {
+      "title": "The9 names George Lai as chief executive officer",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "South Korea\u2019s Naver jumps 10% on Nvidia\u2019s $1 billion investment plan",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Brown-Forman board says Sazerac unsolicited proposal not actionable",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "score": 0.936,
       "currencies": []
     },
     {
-      "title": "Suspect in Berlin Pride attack shot dead by police",
+      "title": "China\u2019s CXMT surges over 500% in Shanghai debut, tops Intel in market value",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.931,
+      "currencies": []
+    },
+    {
+      "title": "Asia stocks advance amid pause in U.S.-Iran attacks; CXMT soars in market debut",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8776,
+      "currencies": []
+    },
+    {
+      "title": "Russia strikes Kyiv, other Ukraine cities; Russian-held areas also hit",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7263,
+      "score": -0.8962,
       "currencies": []
     },
     {
-      "title": "Oil slips more than 5% after US pauses strikes on Iran",
+      "title": "Seattle shooting leaves 2 dead, 5 injured, according to reports",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9511,
-      "currencies": []
-    },
-    {
-      "title": "Missile strikes kill civilians in Kyiv, other Ukraine cities; Russian-held areas also hit",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9364,
-      "currencies": []
-    },
-    {
-      "title": "Iran says it will halt strikes as long as US bombing pause holds",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9603,
-      "currencies": []
-    },
-    {
-      "title": "Are Midterm Elections a headwind for stocks?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8745,
-      "currencies": []
-    },
-    {
-      "title": "Why this analyst says Reconciliation 3.0 is still a long shot even as it shrinks",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "score": -0.9487,
       "currencies": []
     }
   ],
