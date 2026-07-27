@@ -7,6 +7,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "GBP/USD Outlook Before Wednesday\u2019s Fed Decision - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "USD/JPY": [
@@ -17,24 +23,18 @@
         "score": -0.9378
       },
       {
-        "title": "US Dollar: Fed uncertainty tempers USD strength \u2013 MUFG",
+        "title": "US Dollar: Policy uncertainty supports USD \u2013 BNY",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.8924
-      },
-      {
-        "title": "Gold Price Forecast: XAU/USD is looking for direction around $4,100",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
+        "score": -0.8162
       }
     ],
-    "EUR/USD": [
+    "USD/CAD": [
       {
-        "title": "EUR/USD Price Forecast: Resumes decline after testing Bearish Flag breakdown",
+        "title": "USD/CAD Price Forecast: Technical outlook remains constructive above 1.4000",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9629
+        "label": "bullish",
+        "score": 0.4466
       }
     ]
   }

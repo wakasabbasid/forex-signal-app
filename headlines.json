@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "Japan ready to take decisive action on forex, finance minister says - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "GBP/USD Signal 27/07: Forecast Ahead of BoE and Fed Decision - DailyForex",
       "source": "Google News",
       "label": "neutral",
@@ -11,7 +18,7 @@
       ]
     },
     {
-      "title": "Japan ready to take decisive action on forex, finance minister says - Reuters",
+      "title": "XM Partner Code PY8GQ Launched By VistaForex - Yahoo Finance",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -32,10 +39,10 @@
       "currencies": []
     },
     {
-      "title": "LINK FOREX Deepens Its Strategic Expansion in Latin America With Major Initiatives to Build a More Professional and Resilient Investment Ecosystem - Yahoo Finance",
+      "title": "US broadens scrutiny of forex policies; India stays off currency watch list - Business Standard",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9306,
+      "score": 0.3995,
       "currencies": []
     },
     {
@@ -46,10 +53,10 @@
       "currencies": []
     },
     {
-      "title": "Gold Gains as Oil Slump Eases Policy Jitters - TradingPedia",
+      "title": "Dollar slips as oil plunge cools rate-hike bets ahead of Fed, BOE and BOJ meetings - Investing.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.7515,
       "currencies": []
     },
     {
@@ -60,6 +67,13 @@
       "currencies": []
     },
     {
+      "title": "Gold Gains as Oil Slump Eases Policy Jitters - TradingPedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Korea Customs Uncovers 7.2 Trillion Won in Illegal Forex Deals in H1 - Seoul Economic Daily",
       "source": "Google News",
       "label": "bearish",
@@ -67,80 +81,69 @@
       "currencies": []
     },
     {
-      "title": "Dollar slips as oil plunge cools rate-hike bets ahead of Fed, BOE and BOJ meetings - Investing.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7515,
-      "currencies": []
-    },
-    {
-      "title": "Vice Minister Huh Urges Exporters to Convert Currency as Forex Eases - \uc870\uc120\uc77c\ubcf4",
+      "title": "GBP/USD Outlook Before Wednesday\u2019s Fed Decision - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
     },
     {
-      "title": "Japan finmin Katayama signals readiness for decisive forex action on yen - TradingView",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7815,
-      "currencies": []
-    },
-    {
-      "title": "Saab wins $1 billion order for surveillance aircraft in Middle East",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.942,
-      "currencies": []
-    },
-    {
-      "title": "Wildfires threaten Bordeaux as Spain battles more blazes",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7513,
-      "currencies": []
-    },
-    {
-      "title": "Guggenheim cuts Cognizant stock price target on macro concerns",
+      "title": "Apollo Global to invest $1.5 billion in Keppel oil rig fund",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Guggenheim cuts United Parks stock price target on tourism headwinds",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8474,
-      "currencies": []
-    },
-    {
-      "title": "Stifel raises Lamb Weston stock price target to $52 on Q4 beat",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Stifel reiterates Buy on Ambarella stock, cites chip roadmap",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Guggenheim cuts Zevra stock price target to $24 on EU setback",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7118,
-      "currencies": []
-    },
-    {
-      "title": "Haoxin Holdings names directors, gets Nasdaq extension to Dec. 14",
+      "title": "Expand Energy to beef up gas marketing business with $1.25 billion Twin Eagle deal",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6376,
+      "score": 0.8107,
+      "currencies": []
+    },
+    {
+      "title": "Poland stocks higher at close of trade; WIG30 up 0.51%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9324,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Vicor Corporation For: 27 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "U.S. Treasury yields fall as oil drops on Iran pause",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9455,
+      "currencies": []
+    },
+    {
+      "title": "Vicor director Lavie Zmira sells $273,259 of common stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Gold X2 Announces Share Consolidation Effective Date",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Michigan battles massive cyclosporiasis outbreak as state reels from Trump cuts",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.865,
       "currencies": []
     }
   ],
