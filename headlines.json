@@ -18,13 +18,6 @@
       "currencies": []
     },
     {
-      "title": "A single company moves the forex market! SK Hynix's $26.5 billion fundraising in the U.S. triggers ripple effects, driving the Korean won to appreciate by 6% in July\u2014the strongest gain in Asia. - Moomoo",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7625,
-      "currencies": []
-    },
-    {
       "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
       "source": "Google News",
       "label": "neutral",
@@ -32,17 +25,10 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: US and Iran halt strikes, boosting mood to start Fed week - FXStreet",
+      "title": "A single company moves the forex market! SK Hynix's $26.5 billion fundraising in the U.S. triggers ripple effects, driving the Korean won to appreciate by 6% in July\u2014the strongest gain in Asia. - Moomoo",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.7076,
-      "currencies": []
-    },
-    {
-      "title": "Customs agency uncovers almost $5 billion worth of illegal foreign exchange trading in first half of year - Korea JoongAng Daily",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8752,
+      "score": 0.7625,
       "currencies": []
     },
     {
@@ -53,10 +39,17 @@
       "currencies": []
     },
     {
-      "title": "Pound Extends Rally on Softer Dollar, Iran Truce Hopes - TradingPedia",
+      "title": "Customs agency uncovers almost $5 billion worth of illegal foreign exchange trading in first half of year - Korea JoongAng Daily",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.4644,
+      "label": "bearish",
+      "score": -0.8752,
+      "currencies": []
+    },
+    {
+      "title": "Gold Gains as Oil Slump Eases Policy Jitters - TradingPedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -67,10 +60,17 @@
       "currencies": []
     },
     {
-      "title": "iFOREX registers 25% Y/Y increase in revenue in H1 2026 - FX News Group",
+      "title": "Korea Customs Uncovers 7.2 Trillion Won in Illegal Forex Deals in H1 - Seoul Economic Daily",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.9264,
+      "label": "bearish",
+      "score": -0.8294,
+      "currencies": []
+    },
+    {
+      "title": "Dollar slips as oil plunge cools rate-hike bets ahead of Fed, BOE and BOJ meetings - Investing.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7515,
       "currencies": []
     },
     {
@@ -88,59 +88,59 @@
       "currencies": []
     },
     {
-      "title": "Why is Forte Biosciences stock surging nearly 40% today?",
+      "title": "Saab wins $1 billion order for surveillance aircraft in Middle East",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.942,
+      "currencies": []
+    },
+    {
+      "title": "Wildfires threaten Bordeaux as Spain battles more blazes",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7513,
+      "currencies": []
+    },
+    {
+      "title": "Guggenheim cuts Cognizant stock price target on macro concerns",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Welspun Corp posts record Q1 2026 results",
+      "title": "Guggenheim cuts United Parks stock price target on tourism headwinds",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6242,
+      "label": "bearish",
+      "score": -0.8474,
       "currencies": []
     },
     {
-      "title": "L\u00ednea Directa H1 2026 slides: profit jumps 19% on efficiency gains",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9417,
-      "currencies": []
-    },
-    {
-      "title": "German business sentiment rises more than expected in July, Ifo survey finds",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9447,
-      "currencies": []
-    },
-    {
-      "title": "Phillip Securities upgrades Alphabet stock rating on AI growth",
+      "title": "Stifel raises Lamb Weston stock price target to $52 on Q4 beat",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is Fuchs stock sliding today?",
+      "title": "Stifel reiterates Buy on Ambarella stock, cites chip roadmap",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8245,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Suspect in Berlin Pride attack shot dead by police",
+      "title": "Guggenheim cuts Zevra stock price target to $24 on EU setback",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7263,
+      "score": -0.7118,
       "currencies": []
     },
     {
-      "title": "ECB\u2019s Kazimir: September rate hike likely needed even if outlook improves",
+      "title": "Haoxin Holdings names directors, gets Nasdaq extension to Dec. 14",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.3631,
+      "label": "bullish",
+      "score": 0.6376,
       "currencies": []
     }
   ],

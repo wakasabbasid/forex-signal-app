@@ -7,20 +7,34 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "GBP/USD Price Forecast: VCP breakout likely after Fed-BoE policy announcements",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.6779
       }
     ],
     "USD/JPY": [
       {
-        "title": "Japanese Yen: Hawkish shift needed to aid JPY against US Dollar \u2013 BNY",
+        "title": "The USD is mostly lower to kickstart the new trading week in North America",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.9378
+      },
+      {
+        "title": "US Dollar: Fed uncertainty tempers USD strength \u2013 MUFG",
         "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.6195
+        "label": "bearish",
+        "score": -0.8924
+      },
+      {
+        "title": "Gold Price Forecast: XAU/USD is looking for direction around $4,100",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/USD Price Forecast: Resumes decline after testing Bearish Flag breakdown",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9629
       }
     ]
   }
