@@ -7,20 +7,34 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "GBP/JPY Eases Ahead of BoE and BoJ Policy Decisions - TradingPedia",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.5936
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/USD the Key for USD Trends into FOMC - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "USD/JPY": [
       {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+        "title": "GBP/JPY Eases Ahead of BoE and BoJ Policy Decisions - TradingPedia",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.6676
+        "score": 0.5936
       },
       {
-        "title": "The USD is mostly lower to kickstart the new trading week in North America",
-        "source": "ForexLive",
+        "title": "USD/JPY and USD/CAD lead G10 FX volatility as yen hits 40-year low",
+        "source": "Investing.com",
         "label": "bearish",
-        "score": -0.9378
+        "score": -0.8772
       },
       {
         "title": "Japanese Yen firms as easing tensions weigh on USD before Fed, BoJ",
@@ -31,10 +45,18 @@
     ],
     "USD/CAD": [
       {
-        "title": "USD/CAD Price Forecast: Technical outlook remains constructive above 1.4000",
+        "title": "USD/JPY and USD/CAD lead G10 FX volatility as yen hits 40-year low",
+        "source": "Investing.com",
+        "label": "bearish",
+        "score": -0.8772
+      }
+    ],
+    "USD/CHF": [
+      {
+        "title": "USD/CHF Price Forecast: Bulls eye 0.8200 as rally extends",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.4466
+        "score": 0.5791
       }
     ]
   }

@@ -25,11 +25,32 @@
       ]
     },
     {
+      "title": "EUR/USD the Key for USD Trends into FOMC - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD",
+        "USD"
+      ]
+    },
+    {
       "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
+    },
+    {
+      "title": "GBP/JPY Eases Ahead of BoE and BoJ Policy Decisions - TradingPedia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5936,
+      "currencies": [
+        "GBP",
+        "JPY"
+      ]
     },
     {
       "title": "US broadens scrutiny of forex policies; India stays off currency watch list - Business Standard",
@@ -67,82 +88,71 @@
       "currencies": []
     },
     {
-      "title": "Gold Gains as Oil Slump Eases Policy Jitters - TradingPedia",
+      "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6676,
+      "title": "US, France trade barbs in fight over UN rights chief\u2019s second term",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8445,
+      "currencies": []
+    },
+    {
+      "title": "Bristol-Myers Squibb stock rating held at Market Perform by Raymond James",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "USD/JPY and USD/CAD lead G10 FX volatility as yen hits 40-year low",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8772,
       "currencies": [
-        "USD"
+        "USD",
+        "JPY",
+        "USD",
+        "CAD"
       ]
     },
     {
-      "title": "Korea Customs Uncovers 7.2 Trillion Won in Illegal Forex Deals in H1 - Seoul Economic Daily",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8294,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Truist Financial Corp For: 27 July",
+      "title": "Form 4 Caterpillar For: 27 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Gewu Asset Management PTE LTD Announces Strategic Expansion of AI-Driven Investment Solutions to Meet Growing Institutional Demand",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9271,
-      "currencies": []
-    },
-    {
-      "title": "LVMH H1 2026 slides: organic growth accelerates to 3% in Q2",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9514,
-      "currencies": []
-    },
-    {
-      "title": "Truist Financial director Boyer disposes of $202,090 in stock",
+      "title": "Why is Biohaven Pharmaceutical stock gaining today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Massachusetts mother goes on trial for killing her three children",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7421,
-      "currencies": []
-    },
-    {
-      "title": "Trump says US and Tehran having \u2019good talks\u2019 as drones hit Iran\u2019s neighbours",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9102,
-      "currencies": []
-    },
-    {
-      "title": "Rexel H1 2026 slides: data centers drive growth, guidance raised",
+      "title": "France and Spain race to curb wildfires before new heatwave arrives",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US Treasury trims 84 people, firms from its sanctions list as review continues",
+      "title": "Ponce Bank appoints two directors to board",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Africa facing up to $20 billion economic hit from \u2019super\u2019 El Ni\u00f1o, AfDB climate chief warns",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8354,
+      "score": -0.6343,
       "currencies": []
     }
   ],
