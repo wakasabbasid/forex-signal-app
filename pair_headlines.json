@@ -3,13 +3,7 @@
   "pairs": {
     "GBP/USD": [
       {
-        "title": "GBP/USD Signal 27/07: Forecast Ahead of BoE and Fed Decision - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "GBP/USD Outlook Before Wednesday\u2019s Fed Decision - DailyForex",
+        "title": "GBP/USD Signal: Forecast Ahead of BoE and Fed Decisions - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -17,16 +11,22 @@
     ],
     "USD/JPY": [
       {
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.6676
+      },
+      {
         "title": "The USD is mostly lower to kickstart the new trading week in North America",
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.9378
       },
       {
-        "title": "US Dollar: Policy uncertainty supports USD \u2013 BNY",
+        "title": "Japanese Yen firms as easing tensions weigh on USD before Fed, BoJ",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.8162
+        "score": -0.8055
       }
     ],
     "USD/CAD": [

@@ -8,7 +8,14 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Signal 27/07: Forecast Ahead of BoE and Fed Decision - DailyForex",
+      "title": "XM Partner Code PY8GQ Launched By VistaForex - Yahoo Finance",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "GBP/USD Signal: Forecast Ahead of BoE and Fed Decisions - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -18,24 +25,10 @@
       ]
     },
     {
-      "title": "XM Partner Code PY8GQ Launched By VistaForex - Yahoo Finance",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "A single company moves the forex market! SK Hynix's $26.5 billion fundraising in the U.S. triggers ripple effects, driving the Korean won to appreciate by 6% in July\u2014the strongest gain in Asia. - Moomoo",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7625,
       "currencies": []
     },
     {
@@ -46,17 +39,17 @@
       "currencies": []
     },
     {
+      "title": "A single company moves the forex market! SK Hynix's $26.5 billion fundraising in the U.S. triggers ripple effects, driving the Korean won to appreciate by 6% in July\u2014the strongest gain in Asia. - Moomoo",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7625,
+      "currencies": []
+    },
+    {
       "title": "Customs agency uncovers almost $5 billion worth of illegal foreign exchange trading in first half of year - Korea JoongAng Daily",
       "source": "Google News",
       "label": "bearish",
       "score": -0.8752,
-      "currencies": []
-    },
-    {
-      "title": "Dollar slips as oil plunge cools rate-hike bets ahead of Fed, BOE and BOJ meetings - Investing.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7515,
       "currencies": []
     },
     {
@@ -67,11 +60,27 @@
       "currencies": []
     },
     {
+      "title": "Dollar edges lower as falling oil prices dent safe-haven demand - Investing.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.945,
+      "currencies": []
+    },
+    {
       "title": "Gold Gains as Oil Slump Eases Policy Jitters - TradingPedia",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
+    },
+    {
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "Korea Customs Uncovers 7.2 Trillion Won in Illegal Forex Deals in H1 - Seoul Economic Daily",
@@ -81,69 +90,59 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Outlook Before Wednesday\u2019s Fed Decision - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "Apollo Global to invest $1.5 billion in Keppel oil rig fund",
+      "title": "Form 4 Truist Financial Corp For: 27 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Expand Energy to beef up gas marketing business with $1.25 billion Twin Eagle deal",
+      "title": "Gewu Asset Management PTE LTD Announces Strategic Expansion of AI-Driven Investment Solutions to Meet Growing Institutional Demand",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8107,
+      "score": 0.9271,
       "currencies": []
     },
     {
-      "title": "Poland stocks higher at close of trade; WIG30 up 0.51%",
+      "title": "LVMH H1 2026 slides: organic growth accelerates to 3% in Q2",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9324,
+      "score": 0.9514,
       "currencies": []
     },
     {
-      "title": "Form 4 Vicor Corporation For: 27 July",
+      "title": "Truist Financial director Boyer disposes of $202,090 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "U.S. Treasury yields fall as oil drops on Iran pause",
+      "title": "Massachusetts mother goes on trial for killing her three children",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9455,
+      "score": -0.7421,
       "currencies": []
     },
     {
-      "title": "Vicor director Lavie Zmira sells $273,259 of common stock",
+      "title": "Trump says US and Tehran having \u2019good talks\u2019 as drones hit Iran\u2019s neighbours",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9102,
+      "currencies": []
+    },
+    {
+      "title": "Rexel H1 2026 slides: data centers drive growth, guidance raised",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Gold X2 Announces Share Consolidation Effective Date",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Michigan battles massive cyclosporiasis outbreak as state reels from Trump cuts",
+      "title": "US Treasury trims 84 people, firms from its sanctions list as review continues",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.865,
+      "score": -0.8354,
       "currencies": []
     }
   ],
