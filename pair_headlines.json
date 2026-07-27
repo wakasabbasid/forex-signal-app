@@ -21,6 +21,18 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "EUR/USD: Ready to Fall to New Lows? - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.6931
+      },
+      {
+        "title": "EUR/JPY Price Forecast: Range holds as intervention fears bite",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8766
       }
     ],
     "USD/JPY": [
@@ -31,24 +43,22 @@
         "score": 0.5936
       },
       {
-        "title": "USD/JPY and USD/CAD lead G10 FX volatility as yen hits 40-year low",
-        "source": "Investing.com",
+        "title": "investingLive Americas FX news wrap 27 Jul: Oil was down sharply but the stocks, bonds, USD did not fully follow.",
+        "source": "ForexLive",
         "label": "bearish",
-        "score": -0.8772
+        "score": -0.9096
       },
       {
-        "title": "Japanese Yen firms as easing tensions weigh on USD before Fed, BoJ",
+        "title": "Japanese Yen: BoJ tightening yet weaker JPY against US Dollar \u2013 BNP Paribas",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.8055
-      }
-    ],
-    "USD/CAD": [
+        "score": -0.8369
+      },
       {
-        "title": "USD/JPY and USD/CAD lead G10 FX volatility as yen hits 40-year low",
-        "source": "Investing.com",
+        "title": "EUR/JPY Price Forecast: Range holds as intervention fears bite",
+        "source": "FXStreet",
         "label": "bearish",
-        "score": -0.8772
+        "score": -0.8766
       }
     ],
     "USD/CHF": [
