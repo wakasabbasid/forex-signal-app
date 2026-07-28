@@ -1,32 +1,6 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/JPY": [
-      {
-        "title": "USD/INR: HSBC Uses Leverage to Win $5.5 Billion in India Forex Deposits - Bloomberg.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.6676
-      },
-      {
-        "title": "The USD Is modestly higher to kickstart the NA trading for July 28. What are the charts saying?",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "USD/JPY consolidates around four-decade high as traders await the Fed and BoJ decisions",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.5532
-      }
-    ],
     "GBP/USD": [
       {
         "title": "GBP/USD Signal: Bearish Outlook Ahead of Fed, BoE Decisions - DailyForex",
@@ -41,28 +15,32 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      }
+    ],
+    "USD/JPY": [
+      {
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.6676
       },
       {
-        "title": "EUR/USD Price Forecast: Under pressure with YTD lows at 1.1324 coming closer",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9481
-      }
-    ],
-    "USD/CHF": [
+        "title": "T. Rowe Price Group stock hits 52-week high at 121.18 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.6756
+      },
       {
-        "title": "USD/CHF breaks the August 2025 high after reports the SNB will stay on hold until the end of 2027",
+        "title": "The USD Is modestly higher to kickstart the NA trading for July 28. What are the charts saying?",
         "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.6307
-      }
-    ],
-    "NZD/USD": [
+        "label": "neutral",
+        "score": 0.0
+      },
       {
-        "title": "New Zealand Dollar struggles as firm US Dollar keeps NZD/USD pinned",
+        "title": "Gold Price Forecast: XAU/USD sits out the panic it was built for",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9392
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }

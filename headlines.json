@@ -1,15 +1,6 @@
 {
   "headlines": [
     {
-      "title": "USD/INR: HSBC Uses Leverage to Win $5.5 Billion in India Forex Deposits - Bloomberg.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
       "title": "GBP/USD Signal: Bearish Outlook Ahead of Fed, BoE Decisions - DailyForex",
       "source": "Google News",
       "label": "neutral",
@@ -52,10 +43,10 @@
       ]
     },
     {
-      "title": "XM Partner Code PY8GQ Launched By VistaForex - Yahoo Finance",
+      "title": "After currency headwinds, Israeli tech welcomes a forex rebound (WIX:NASDAQ) - Seeking Alpha",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9451,
       "currencies": []
     },
     {
@@ -68,24 +59,10 @@
       ]
     },
     {
-      "title": "After currency headwinds, Israeli tech welcomes a forex rebound (WIX:NASDAQ) - Seeking Alpha",
+      "title": "XM Partner Code PY8GQ Launched By VistaForex - Yahoo Finance",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.9451,
-      "currencies": []
-    },
-    {
-      "title": "Dollar holds at multi-week highs as \u2019higher-for-longer\u2019 rate bets offset oil fall - Investing.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5813,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: US Dollar softens as Oil plunges on Middle East pause - FXStreet",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9124,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -96,59 +73,80 @@
       "currencies": []
     },
     {
-      "title": "Why is Pentair stock sliding today?",
+      "title": "Forex Today: US Dollar softens as Oil plunges on Middle East pause - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9124,
+      "currencies": []
+    },
+    {
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9371,
+      "currencies": []
+    },
+    {
+      "title": "A single company moves the forex market! SK Hynix's $26.5 billion fundraising in the U.S. triggers ripple effects, driving the Korean won to appreciate by 6% in July\u2014the strongest gain in Asia. - Moomoo",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7625,
+      "currencies": []
+    },
+    {
+      "title": "Apple briefly becomes second company ever to notch $5 trillion market value",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5634,
+      "currencies": []
+    },
+    {
+      "title": "Clean Harbors earnings on deck as oil prices, growth tested",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5757,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Tata Capital posts strong Q1 2027 growth, shares rise",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9475,
+      "currencies": []
+    },
+    {
+      "title": "Why is Amkor Technology stock crashing today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9394,
+      "score": -0.7583,
       "currencies": []
     },
     {
-      "title": "Top EU Utilities & Clean Energy Stocks to Own For the 2026 Electric Revolution: Bernstein",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Mizuho lowers Amazon stock price target on valuation, keeps Outperform",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Micware forms alliance with Aisan Technology for mapping tech",
+      "title": "Chemed earnings up next: Can VITAS momentum sustain premium?",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7238,
+      "score": 0.7498,
       "currencies": []
     },
     {
-      "title": "Atossa study shows preclinical activity in breast cancer models",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "OneMedNet secures $11.5M deal to supply AI training data",
+      "title": "NBT Bancorp Q2 2026 slides: margin expansion drives operating leverage",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8743,
+      "score": 0.8945,
       "currencies": []
     },
     {
-      "title": "QT Imaging receives Israeli regulatory approval for scanner",
+      "title": "Earnings call transcript: Hubbell tops Q2 2026 estimates, but shares slip",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8929,
+      "label": "bearish",
+      "score": -0.6836,
       "currencies": []
     },
     {
-      "title": "RenX Enterprises launches land clearing division in Florida",
+      "title": "Stanley Black & Decker faces earnings test near 52-week high",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.8347,
       "currencies": []
     }
   ],
