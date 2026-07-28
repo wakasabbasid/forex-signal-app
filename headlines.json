@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "GBP/USD Signal: Forecast Ahead of BoE and Fed Decisions - DailyForex",
+      "title": "GBP/USD Forex Signal 28/07: Bearish Outlook Ahead - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -25,6 +25,13 @@
       "currencies": []
     },
     {
+      "title": "Forex Today: US Dollar shows resilience ahead of Fed meeting - FXStreet",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9366,
+      "currencies": []
+    },
+    {
       "title": "XM Partner Code PY8GQ Launched By VistaForex - Yahoo Finance",
       "source": "Google News",
       "label": "neutral",
@@ -43,10 +50,10 @@
       ]
     },
     {
-      "title": "Forex Today: US Dollar softens as Oil plunges on Middle East pause - FXStreet",
+      "title": "After currency headwinds, Israeli tech welcomes a forex rebound (WIX:NASDAQ) - Seeking Alpha",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9124,
+      "label": "bullish",
+      "score": 0.9451,
       "currencies": []
     },
     {
@@ -60,10 +67,10 @@
       ]
     },
     {
-      "title": "After currency headwinds, Israeli tech welcomes a forex rebound (WIX:NASDAQ) - Seeking Alpha",
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9451,
+      "score": 0.9371,
       "currencies": []
     },
     {
@@ -74,22 +81,6 @@
       "currencies": []
     },
     {
-      "title": "US widens foreign exchange review, keeps India off currency watch list - Business Standard",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
       "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
       "source": "Google News",
       "label": "neutral",
@@ -97,59 +88,69 @@
       "currencies": []
     },
     {
-      "title": "Asia FX muted as dollar steadies near one-month high",
+      "title": "EUR/USD Forex Signal 28/07: Brace for Volatility Ahead - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "Earnings call transcript: Mercedes-Benz posts solid Q2 as China pressure weighs, stock stays near lows",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8434,
+      "currencies": []
+    },
+    {
+      "title": "European stocks steady as healthy results offset oil-induced yield pressure",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8524,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Palfinger H1 2026 profit slips as recovery is delayed",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5994,
+      "score": -0.9702,
       "currencies": []
     },
     {
-      "title": "Form 4 Safety Insurance Group Inc For: 27 July",
+      "title": "Trump to host Netanyahu, Zelenskiy as Ukraine, Iran wars reach critical stages",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 Datadog Inc For: 27 July",
+      "title": "A day in the life of Congo\u2019s overstretched Ebola surveillance teams",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "India economic growth to slow sharply as weak investment, oil shock weigh: Reuters poll",
+      "title": "TotalEnergies cancels 100.5 million treasury shares",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9573,
+      "score": -0.9469,
       "currencies": []
     },
     {
-      "title": "SRB Corp sells $4.0 million of Safety Insurance Group stock",
+      "title": "France braces for fourth major heatwave as crews tackle Bordeaux blaze",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.4492,
       "currencies": []
     },
     {
-      "title": "Datadog director Amit Agarwal sells $4.9m of Datadog stock",
+      "title": "Earnings call transcript: BSF posts record H1 2026 profit, shares rise 3.8%",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Datadog CEO Olivier Pomel sells $11.5m of DDOG stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 FT Vest Total Return Income Fund: Series A2 For: 27 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9332,
       "currencies": []
     }
   ],

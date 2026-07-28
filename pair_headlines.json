@@ -3,7 +3,7 @@
   "pairs": {
     "GBP/USD": [
       {
-        "title": "GBP/USD Signal: Forecast Ahead of BoE and Fed Decisions - DailyForex",
+        "title": "GBP/USD Forex Signal 28/07: Bearish Outlook Ahead - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -13,11 +13,23 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.5936
+      },
+      {
+        "title": "GBP/USD Price Forecast: Trades vulnerably near 1.3300 ahead of Fed-BoE policy",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.794
       }
     ],
     "EUR/USD": [
       {
         "title": "EUR/USD the Key for USD Trends into FOMC - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "EUR/USD Forex Signal 28/07: Brace for Volatility Ahead - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -29,48 +41,6 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.5936
-      },
-      {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.6676
-      },
-      {
-        "title": "investingLive Americas FX news wrap 27 Jul: Oil was down sharply but the stocks, bonds, USD did not fully follow.",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.9096
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD falls to near $57.50 despite easing Fed hike bets",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9666
-      },
-      {
-        "title": "Canadian Dollar struggles near two-week low vs USD amid bearish oil prices, ahead of FOMC",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9611
-      },
-      {
-        "title": "Euro hangs near monthly low, holds above 1.1350 as USD bulls pause ahead of FOMC meeting",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8741
-      },
-      {
-        "title": "PBOC sets USD/CNY reference rate at 6.7928 vs. 6.7911 previous",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "USD/PHP: Philippines Intervened in Small Way to Defend Peso, BSP Governor Says",
-        "source": "Bloomberg",
-        "label": "bullish",
-        "score": 0.9002
       }
     ]
   }
