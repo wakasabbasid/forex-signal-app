@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "Best bank for Dollar account in South Asia [2026] - WorldFirst",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "GBP/USD Forex Signal 28/07: Bearish Outlook Ahead - DailyForex",
       "source": "Google News",
       "label": "neutral",
@@ -11,6 +18,13 @@
       ]
     },
     {
+      "title": "AU Small Finance Bank Raises FCNR Deposit Rates to 7.40% and NRE Fixed Deposit Rates to 7.60% - PA Media",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5584,
+      "currencies": []
+    },
+    {
       "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
       "source": "Google News",
       "label": "neutral",
@@ -19,20 +33,6 @@
     },
     {
       "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: US Dollar shows resilience ahead of Fed meeting - FXStreet",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9366,
-      "currencies": []
-    },
-    {
-      "title": "XM Partner Code PY8GQ Launched By VistaForex - Yahoo Finance",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -50,10 +50,38 @@
       ]
     },
     {
+      "title": "XM Partner Code PY8GQ Launched By VistaForex - Yahoo Finance",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "After currency headwinds, Israeli tech welcomes a forex rebound (WIX:NASDAQ) - Seeking Alpha",
       "source": "Google News",
       "label": "bullish",
       "score": 0.9451,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: US Dollar softens as Oil plunges on Middle East pause - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9124,
+      "currencies": []
+    },
+    {
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9371,
+      "currencies": []
+    },
+    {
+      "title": "Dollar holds at multi-week highs as \u2019higher-for-longer\u2019 rate bets offset oil fall - Investing.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5813,
       "currencies": []
     },
     {
@@ -67,90 +95,59 @@
       ]
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
-      "currencies": []
-    },
-    {
-      "title": "iFOREX Revenue Holds Near $27 Million as Currency Costs Weigh on Profit - Forex Factory",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8837,
-      "currencies": []
-    },
-    {
-      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD Forex Signal 28/07: Brace for Volatility Ahead - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "Earnings call transcript: Mercedes-Benz posts solid Q2 as China pressure weighs, stock stays near lows",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8434,
-      "currencies": []
-    },
-    {
-      "title": "European stocks steady as healthy results offset oil-induced yield pressure",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8524,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Palfinger H1 2026 profit slips as recovery is delayed",
+      "title": "Bitcoin drops to 10-day low near $63k as tech sell-off, Fed uncertainty weigh",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9702,
+      "score": -0.9339,
       "currencies": []
     },
     {
-      "title": "Trump to host Netanyahu, Zelenskiy as Ukraine, Iran wars reach critical stages",
+      "title": "AllianceBernstein earnings meet estimates as revenue falls short",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9564,
+      "currencies": []
+    },
+    {
+      "title": "Wall St futures mixed as investors weigh AI concerns, upcoming Fed decision",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.851,
+      "currencies": []
+    },
+    {
+      "title": "Citi sees China stock positioning improve while KOSPI weakens",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9245,
+      "currencies": []
+    },
+    {
+      "title": "Centene shares gain 3% on beating estimates, raising guidance",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9486,
+      "currencies": []
+    },
+    {
+      "title": "Will this be the quarter Big Tech breaks out?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "A day in the life of Congo\u2019s overstretched Ebola surveillance teams",
+      "title": "Axalta Coating Systems earnings beat by $0.07, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9463,
+      "currencies": []
+    },
+    {
+      "title": "Needham reiterates Applied Digital stock rating on strong margins",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "TotalEnergies cancels 100.5 million treasury shares",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9469,
-      "currencies": []
-    },
-    {
-      "title": "France braces for fourth major heatwave as crews tackle Bordeaux blaze",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.4492,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: BSF posts record H1 2026 profit, shares rise 3.8%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9332,
       "currencies": []
     }
   ],

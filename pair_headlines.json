@@ -13,23 +13,11 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.5936
-      },
-      {
-        "title": "GBP/USD Price Forecast: Trades vulnerably near 1.3300 ahead of Fed-BoE policy",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.794
       }
     ],
     "EUR/USD": [
       {
         "title": "EUR/USD the Key for USD Trends into FOMC - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "EUR/USD Forex Signal 28/07: Brace for Volatility Ahead - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -41,6 +29,28 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.5936
+      },
+      {
+        "title": "USD/JPY consolidates around four-decade high as traders await the Fed and BoJ decisions",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.5532
+      }
+    ],
+    "USD/CHF": [
+      {
+        "title": "USD/CHF breaks the August 2025 high after reports the SNB will stay on hold until the end of 2027",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.6307
+      }
+    ],
+    "USD/CAD": [
+      {
+        "title": "USD/CAD Price Forecast: Lower oil prices ensure further weakness for Canadian Dollar",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.4888
       }
     ]
   }
