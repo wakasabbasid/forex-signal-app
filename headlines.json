@@ -15,6 +15,22 @@
       ]
     },
     {
+      "title": "USD/INR: HSBC Uses Leverage to Win $5.5 Billion in India Forex Deposits - Bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "FX Daily: Swiss franc becomes favourite funding currency - Forex Factory",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "GBP/USD Signal: Bearish Outlook Ahead of Fed, BoE Decisions - DailyForex",
       "source": "Google News",
       "label": "neutral",
@@ -25,7 +41,7 @@
       ]
     },
     {
-      "title": "The U.S. Dollar Is Rising Again and Nasdaq Is Feeling It - FOREX.com",
+      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -39,14 +55,7 @@
       "currencies": []
     },
     {
-      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex traders face four major US tests over the next week - Mitrade",
+      "title": "The U.S. Dollar Is Rising Again and Nasdaq Is Feeling It - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -57,6 +66,20 @@
       "source": "Google News",
       "label": "bullish",
       "score": 0.5584,
+      "currencies": []
+    },
+    {
+      "title": "Forex traders face four major US tests over the next week - Mitrade",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9371,
       "currencies": []
     },
     {
@@ -74,80 +97,59 @@
       "currencies": []
     },
     {
-      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "India\u2019s forex reserves fall by $7.7 billion to $690 billion: RBI - News On AIR",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9552,
-      "currencies": []
-    },
-    {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
-      "currencies": []
-    },
-    {
-      "title": "Goldman Sachs downgrades Gemini Space Station stock rating to sell on profitability concerns",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9643,
-      "currencies": []
-    },
-    {
-      "title": "Visa posts double-digit revenue growth on resilient consumer spending",
+      "title": "Michigan cyclosporiasis cases increase to 9,680 in ongoing outbreak",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.956,
+      "score": 0.917,
       "currencies": []
     },
     {
-      "title": "FirstEnergy earnings matched, revenue topped estimates",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9544,
-      "currencies": []
-    },
-    {
-      "title": "CoStar Group falls 12% on disappointing revenue guidance",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9729,
-      "currencies": []
-    },
-    {
-      "title": "Why is Bloom Energy stock surging today?",
+      "title": "Trump says he does not care about USMCA as US, Canada plan trade talks",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is Visa stock sliding today?",
+      "title": "Form 4 United Therapeutics Corporation For: 28 July",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9125,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US stocks mixed ahead key tech earnings, Fed",
+      "title": "Form 4 Park Aerospace Corp For: 28 July",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.696,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Guatemalan man deported from US and wife found dead in sugar field, baby alive beside them",
+      "title": "Oman presents Iran with Gulf-backed plan for voluntary fees to use Hormuz",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7506,
+      "label": "bullish",
+      "score": 0.7729,
+      "currencies": []
+    },
+    {
+      "title": "CoStar Q2 2026 slides: profitability doubles despite revenue miss",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9273,
+      "currencies": []
+    },
+    {
+      "title": "United Therapeutics CEO Rothblatt sells $5 million in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Constantine Petropoulos, Park Aerospace SVP, sells $90,000 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

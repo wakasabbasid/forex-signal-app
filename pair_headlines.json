@@ -33,10 +33,18 @@
     ],
     "USD/JPY": [
       {
-        "title": "USD  moves lower as markets flip. Crude oil lower.",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.9249
+        "title": "USD/INR: HSBC Uses Leverage to Win $5.5 Billion in India Forex Deposits - Bloomberg.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "NZD/USD": [
+      {
+        "title": "NZD/USD holds ahead of the Fed's decision",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.6285
       }
     ]
   }
