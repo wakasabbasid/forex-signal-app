@@ -1,18 +1,38 @@
 {
   "run_id": 1,
   "pairs": {
-    "GBP/USD": [
+    "USD/JPY": [
       {
-        "title": "GBP/USD Forex Signal 28/07: Bearish Outlook Ahead - DailyForex",
+        "title": "USD/INR: HSBC Uses Leverage to Win $5.5 Billion in India Forex Deposits - Bloomberg.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "GBP/JPY Eases Ahead of BoE and BoJ Policy Decisions - TradingPedia",
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.5936
+        "score": 0.6676
+      },
+      {
+        "title": "The USD Is modestly higher to kickstart the NA trading for July 28. What are the charts saying?",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "USD/JPY consolidates around four-decade high as traders await the Fed and BoJ decisions",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.5532
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Signal: Bearish Outlook Ahead of Fed, BoE Decisions - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "EUR/USD": [
@@ -21,20 +41,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      }
-    ],
-    "USD/JPY": [
-      {
-        "title": "GBP/JPY Eases Ahead of BoE and BoJ Policy Decisions - TradingPedia",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.5936
       },
       {
-        "title": "USD/JPY consolidates around four-decade high as traders await the Fed and BoJ decisions",
-        "source": "ForexLive",
+        "title": "EUR/USD Price Forecast: Under pressure with YTD lows at 1.1324 coming closer",
+        "source": "FXStreet",
         "label": "bearish",
-        "score": -0.5532
+        "score": -0.9481
       }
     ],
     "USD/CHF": [
@@ -45,12 +57,12 @@
         "score": -0.6307
       }
     ],
-    "USD/CAD": [
+    "NZD/USD": [
       {
-        "title": "USD/CAD Price Forecast: Lower oil prices ensure further weakness for Canadian Dollar",
+        "title": "New Zealand Dollar struggles as firm US Dollar keeps NZD/USD pinned",
         "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.4888
+        "label": "bearish",
+        "score": -0.9392
       }
     ]
   }

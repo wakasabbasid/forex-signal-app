@@ -1,14 +1,16 @@
 {
   "headlines": [
     {
-      "title": "Best bank for Dollar account in South Asia [2026] - WorldFirst",
+      "title": "USD/INR: HSBC Uses Leverage to Win $5.5 Billion in India Forex Deposits - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "USD"
+      ]
     },
     {
-      "title": "GBP/USD Forex Signal 28/07: Bearish Outlook Ahead - DailyForex",
+      "title": "GBP/USD Signal: Bearish Outlook Ahead of Fed, BoE Decisions - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -57,24 +59,19 @@
       "currencies": []
     },
     {
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "After currency headwinds, Israeli tech welcomes a forex rebound (WIX:NASDAQ) - Seeking Alpha",
       "source": "Google News",
       "label": "bullish",
       "score": 0.9451,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: US Dollar softens as Oil plunges on Middle East pause - FXStreet",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9124,
-      "currencies": []
-    },
-    {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
       "currencies": []
     },
     {
@@ -85,66 +82,70 @@
       "currencies": []
     },
     {
-      "title": "GBP/JPY Eases Ahead of BoE and BoJ Policy Decisions - TradingPedia",
+      "title": "Forex Today: US Dollar softens as Oil plunges on Middle East pause - FXStreet",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.5936,
-      "currencies": [
-        "GBP",
-        "JPY"
-      ]
+      "label": "bearish",
+      "score": -0.9124,
+      "currencies": []
     },
     {
-      "title": "Bitcoin drops to 10-day low near $63k as tech sell-off, Fed uncertainty weigh",
+      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why is Pentair stock sliding today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9339,
+      "score": -0.9394,
       "currencies": []
     },
     {
-      "title": "AllianceBernstein earnings meet estimates as revenue falls short",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9564,
-      "currencies": []
-    },
-    {
-      "title": "Wall St futures mixed as investors weigh AI concerns, upcoming Fed decision",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.851,
-      "currencies": []
-    },
-    {
-      "title": "Citi sees China stock positioning improve while KOSPI weakens",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9245,
-      "currencies": []
-    },
-    {
-      "title": "Centene shares gain 3% on beating estimates, raising guidance",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9486,
-      "currencies": []
-    },
-    {
-      "title": "Will this be the quarter Big Tech breaks out?",
+      "title": "Top EU Utilities & Clean Energy Stocks to Own For the 2026 Electric Revolution: Bernstein",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Axalta Coating Systems earnings beat by $0.07, revenue topped estimates",
+      "title": "Mizuho lowers Amazon stock price target on valuation, keeps Outperform",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9463,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Needham reiterates Applied Digital stock rating on strong margins",
+      "title": "Micware forms alliance with Aisan Technology for mapping tech",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7238,
+      "currencies": []
+    },
+    {
+      "title": "Atossa study shows preclinical activity in breast cancer models",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "OneMedNet secures $11.5M deal to supply AI training data",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8743,
+      "currencies": []
+    },
+    {
+      "title": "QT Imaging receives Israeli regulatory approval for scanner",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8929,
+      "currencies": []
+    },
+    {
+      "title": "RenX Enterprises launches land clearing division in Florida",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
