@@ -1,6 +1,29 @@
 {
   "headlines": [
     {
+      "title": "Forex Forecasts \u2013 US Dollar Flexes Strength Across EUR/USD, GBP/USD, and USD/CHF - Yahoo Finance Singapore",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.935,
+      "currencies": [
+        "EUR",
+        "USD",
+        "GBP",
+        "USD",
+        "USD",
+        "CHF"
+      ]
+    },
+    {
+      "title": "USD/INR: HSBC Uses Leverage to Win $5.5 Billion in India Forex Deposits - Bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "GBP/USD Signal: Bearish Outlook Ahead of Fed, BoE Decisions - DailyForex",
       "source": "Google News",
       "label": "neutral",
@@ -25,13 +48,6 @@
       "currencies": []
     },
     {
-      "title": "AU Small Finance Bank Raises FCNR Deposit Rates to 7.40% and NRE Fixed Deposit Rates to 7.60% - PA Media",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5584,
-      "currencies": []
-    },
-    {
       "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
       "source": "Google News",
       "label": "neutral",
@@ -39,10 +55,10 @@
       "currencies": []
     },
     {
-      "title": "After currency headwinds, Israeli tech welcomes a forex rebound (WIX:NASDAQ) - Seeking Alpha",
+      "title": "AU Small Finance Bank Raises FCNR Deposit Rates to 7.40% and NRE Fixed Deposit Rates to 7.60% - PA Media",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9451,
+      "score": 0.5584,
       "currencies": []
     },
     {
@@ -53,13 +69,25 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "title": "After currency headwinds, Israeli tech welcomes a forex rebound (WIX:NASDAQ) - Seeking Alpha",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
+      "score": 0.9451,
+      "currencies": []
+    },
+    {
+      "title": "India\u2019s forex reserves fall by $7.7 billion to $690 billion: RBI - News On AIR",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9552,
+      "currencies": []
+    },
+    {
+      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "EUR/USD the Key for USD Trends into FOMC - FOREX.com",
@@ -73,80 +101,59 @@
       ]
     },
     {
-      "title": "XM Partner Code PY8GQ Launched By VistaForex - Yahoo Finance",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "A single company moves the forex market! SK Hynix's $26.5 billion fundraising in the U.S. triggers ripple effects, driving the Korean won to appreciate by 6% in July\u2014the strongest gain in Asia. - Moomoo",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7625,
-      "currencies": []
-    },
-    {
-      "title": "M6 H1 2026 slides: World Cup drives record audience, margins fall",
+      "title": "Evercore ISI raises UPS stock price target on strong earnings beat",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.617,
+      "score": 0.8527,
       "currencies": []
     },
     {
-      "title": "Progress Software stock gains on AI agent integration news",
+      "title": "loanDepot to open Miami corporate center in September",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Ashland nears settlement with activist Ancora Holdings - Bloomberg",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8096,
+      "currencies": []
+    },
+    {
+      "title": "Trump, Zelenskiy discussed Patriot deal and reviving talks with Russia",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9397,
+      "score": 0.5874,
       "currencies": []
     },
     {
-      "title": "Guggenheim reiterates Buy on CommVault stock, keeps $175 target",
+      "title": "Jefferies cuts Hertz stock price target on lower used car values",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9203,
       "currencies": []
     },
     {
-      "title": "Royal Caribbean raises annual profit forecast, flags modest booking hit from Middle East",
+      "title": "EBay, former executives to pay $56 million to settle couple\u2019s harassment case",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5831,
+      "currencies": []
+    },
+    {
+      "title": "Nasdaq cuts most of its losses, Dow surges on extended oil slide, solid earnings",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9203,
+      "score": 0.8364,
       "currencies": []
     },
     {
-      "title": "China in touch with Yemen\u2019s Houthis to allow ships to sail through Red Sea, sources say",
+      "title": "Gold locked below $4,066 resistance: Live bearish levels",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8036,
-      "currencies": []
-    },
-    {
-      "title": "Form 144 ASSOCIATED BANC-CORP For: 28 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Stock Yards Bancorp Inc For: 28 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Koch said to explore sale of data center firm Edged for over $15B",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.7345,
       "currencies": []
     }
   ],

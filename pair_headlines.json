@@ -1,7 +1,27 @@
 {
   "run_id": 1,
   "pairs": {
+    "EUR/USD": [
+      {
+        "title": "Forex Forecasts \u2013 US Dollar Flexes Strength Across EUR/USD, GBP/USD, and USD/CHF - Yahoo Finance Singapore",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.935
+      },
+      {
+        "title": "EUR/USD the Key for USD Trends into FOMC - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
     "GBP/USD": [
+      {
+        "title": "Forex Forecasts \u2013 US Dollar Flexes Strength Across EUR/USD, GBP/USD, and USD/CHF - Yahoo Finance Singapore",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.935
+      },
       {
         "title": "GBP/USD Signal: Bearish Outlook Ahead of Fed, BoE Decisions - DailyForex",
         "source": "Google News",
@@ -9,32 +29,26 @@
         "score": 0.0
       }
     ],
-    "USD/JPY": [
+    "USD/CHF": [
       {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+        "title": "Forex Forecasts \u2013 US Dollar Flexes Strength Across EUR/USD, GBP/USD, and USD/CHF - Yahoo Finance Singapore",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.6676
+        "score": 0.935
+      }
+    ],
+    "USD/JPY": [
+      {
+        "title": "USD/INR: HSBC Uses Leverage to Win $5.5 Billion in India Forex Deposits - Bloomberg.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       },
       {
         "title": "USD  moves lower as markets flip. Crude oil lower.",
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.9249
-      },
-      {
-        "title": "Gold Price Forecast: XAU/USD sits out the panic it was built for",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/USD the Key for USD Trends into FOMC - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
       }
     ]
   }
