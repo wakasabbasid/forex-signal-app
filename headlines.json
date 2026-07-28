@@ -15,15 +15,6 @@
       ]
     },
     {
-      "title": "USD/INR: HSBC Uses Leverage to Win $5.5 Billion in India Forex Deposits - Bloomberg.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
       "title": "GBP/USD Signal: Bearish Outlook Ahead of Fed, BoE Decisions - DailyForex",
       "source": "Google News",
       "label": "neutral",
@@ -34,14 +25,7 @@
       ]
     },
     {
-      "title": "Forex traders face four major US tests over the next week - Mitrade",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
+      "title": "The U.S. Dollar Is Rising Again and Nasdaq Is Feeling It - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -55,17 +39,24 @@
       "currencies": []
     },
     {
+      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex traders face four major US tests over the next week - Mitrade",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "AU Small Finance Bank Raises FCNR Deposit Rates to 7.40% and NRE Fixed Deposit Rates to 7.60% - PA Media",
       "source": "Google News",
       "label": "bullish",
       "score": 0.5584,
-      "currencies": []
-    },
-    {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
       "currencies": []
     },
     {
@@ -76,10 +67,10 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s forex reserves fall by $7.7 billion to $690 billion: RBI - News On AIR",
+      "title": "exchange rate - Encyclopedia Britannica",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9552,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -90,70 +81,73 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD the Key for USD Trends into FOMC - FOREX.com",
+      "title": "India\u2019s forex reserves fall by $7.7 billion to $690 billion: RBI - News On AIR",
       "source": "Google News",
+      "label": "bearish",
+      "score": -0.9552,
+      "currencies": []
+    },
+    {
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9371,
+      "currencies": []
+    },
+    {
+      "title": "Goldman Sachs downgrades Gemini Space Station stock rating to sell on profitability concerns",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9643,
+      "currencies": []
+    },
+    {
+      "title": "Visa posts double-digit revenue growth on resilient consumer spending",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.956,
+      "currencies": []
+    },
+    {
+      "title": "FirstEnergy earnings matched, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9544,
+      "currencies": []
+    },
+    {
+      "title": "CoStar Group falls 12% on disappointing revenue guidance",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9729,
+      "currencies": []
+    },
+    {
+      "title": "Why is Bloom Energy stock surging today?",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD",
-        "USD"
-      ]
-    },
-    {
-      "title": "Evercore ISI raises UPS stock price target on strong earnings beat",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8527,
       "currencies": []
     },
     {
-      "title": "loanDepot to open Miami corporate center in September",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Ashland nears settlement with activist Ancora Holdings - Bloomberg",
+      "title": "Why is Visa stock sliding today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8096,
+      "score": -0.9125,
       "currencies": []
     },
     {
-      "title": "Trump, Zelenskiy discussed Patriot deal and reviving talks with Russia",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5874,
-      "currencies": []
-    },
-    {
-      "title": "Jefferies cuts Hertz stock price target on lower used car values",
+      "title": "US stocks mixed ahead key tech earnings, Fed",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9203,
+      "score": -0.696,
       "currencies": []
     },
     {
-      "title": "EBay, former executives to pay $56 million to settle couple\u2019s harassment case",
+      "title": "Guatemalan man deported from US and wife found dead in sugar field, baby alive beside them",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5831,
-      "currencies": []
-    },
-    {
-      "title": "Nasdaq cuts most of its losses, Dow surges on extended oil slide, solid earnings",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8364,
-      "currencies": []
-    },
-    {
-      "title": "Gold locked below $4,066 resistance: Live bearish levels",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7345,
+      "score": -0.7506,
       "currencies": []
     }
   ],

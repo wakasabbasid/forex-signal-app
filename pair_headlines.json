@@ -7,12 +7,6 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.935
-      },
-      {
-        "title": "EUR/USD the Key for USD Trends into FOMC - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
       }
     ],
     "GBP/USD": [
@@ -38,12 +32,6 @@
       }
     ],
     "USD/JPY": [
-      {
-        "title": "USD/INR: HSBC Uses Leverage to Win $5.5 Billion in India Forex Deposits - Bloomberg.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
       {
         "title": "USD  moves lower as markets flip. Crude oil lower.",
         "source": "ForexLive",
