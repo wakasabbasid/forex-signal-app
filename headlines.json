@@ -11,14 +11,21 @@
       ]
     },
     {
-      "title": "XM Partner Code PY8GQ Launched By VistaForex - Yahoo Finance",
+      "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
+      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "XM Partner Code PY8GQ Launched By VistaForex - Yahoo Finance",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -34,13 +41,6 @@
         "USD",
         "USD"
       ]
-    },
-    {
-      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
     },
     {
       "title": "Forex Today: US Dollar softens as Oil plunges on Middle East pause - FXStreet",
@@ -60,13 +60,6 @@
       ]
     },
     {
-      "title": "iFOREX Revenue Holds Near $27 Million as Currency Costs Weigh on Profit - Forex Factory",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8837,
-      "currencies": []
-    },
-    {
       "title": "After currency headwinds, Israeli tech welcomes a forex rebound (WIX:NASDAQ) - Seeking Alpha",
       "source": "Google News",
       "label": "bullish",
@@ -74,77 +67,86 @@
       "currencies": []
     },
     {
-      "title": "A single company moves the forex market! SK Hynix's $26.5 billion fundraising in the U.S. triggers ripple effects, driving the Korean won to appreciate by 6% in July\u2014the strongest gain in Asia. - Moomoo",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7625,
-      "currencies": []
-    },
-    {
-      "title": "Customs agency uncovers almost $5 billion worth of illegal foreign exchange trading in first half of year - Korea JoongAng Daily",
+      "title": "iFOREX Revenue Holds Near $27 Million as Currency Costs Weigh on Profit - Forex Factory",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.8752,
+      "score": -0.8837,
       "currencies": []
     },
     {
-      "title": "Japan finmin Katayama signals readiness for decisive forex action on yen - TradingView",
+      "title": "US widens foreign exchange review, keeps India off currency watch list - Business Standard",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.7815,
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Wall Street ends mixed as investors focus on tech earnings",
+      "title": "Asia FX muted as dollar steadies near one-month high",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7655,
+      "score": -0.5994,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Safety Insurance Group Inc For: 27 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Datadog Inc For: 27 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "India economic growth to slow sharply as weak investment, oil shock weigh: Reuters poll",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9573,
+      "currencies": []
+    },
+    {
+      "title": "SRB Corp sells $4.0 million of Safety Insurance Group stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Datadog director Amit Agarwal sells $4.9m of Datadog stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Datadog CEO Olivier Pomel sells $11.5m of DDOG stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
       "title": "Form 4 FT Vest Total Return Income Fund: Series A2 For: 27 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 13D/A RADCOM LTD For: 27 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 13D/A YY Group Holding Ltd. For: 27 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 TechnipFMC PLC For: 27 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Kymera Therapeutics Inc For: 27 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Palestinians say settler violence and military raids are bringing them to breaking point",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8012,
-      "currencies": []
-    },
-    {
-      "title": "US advances nomination of Trump top spy nominee Clayton",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

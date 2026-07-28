@@ -21,12 +21,6 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Range holds as intervention fears bite",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8766
       }
     ],
     "USD/JPY": [
@@ -37,22 +31,46 @@
         "score": 0.5936
       },
       {
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.6676
+      },
+      {
         "title": "investingLive Americas FX news wrap 27 Jul: Oil was down sharply but the stocks, bonds, USD did not fully follow.",
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.9096
       },
       {
-        "title": "Japanese Yen: BoJ tightening yet weaker JPY against US Dollar \u2013 BNP Paribas",
+        "title": "Silver Price Forecast: XAG/USD falls to near $57.50 despite easing Fed hike bets",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.8369
+        "score": -0.9666
       },
       {
-        "title": "EUR/JPY Price Forecast: Range holds as intervention fears bite",
+        "title": "Canadian Dollar struggles near two-week low vs USD amid bearish oil prices, ahead of FOMC",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.8766
+        "score": -0.9611
+      },
+      {
+        "title": "Euro hangs near monthly low, holds above 1.1350 as USD bulls pause ahead of FOMC meeting",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8741
+      },
+      {
+        "title": "PBOC sets USD/CNY reference rate at 6.7928 vs. 6.7911 previous",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "USD/PHP: Philippines Intervened in Small Way to Defend Peso, BSP Governor Says",
+        "source": "Bloomberg",
+        "label": "bullish",
+        "score": 0.9002
       }
     ]
   }
