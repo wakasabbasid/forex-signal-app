@@ -3,15 +3,15 @@
     {
       "id": 1,
       "engine": "finbert",
-      "headline_count": 70,
+      "headline_count": 69,
       "source_count": 6,
-      "created_at": "2026-07-28T15:24:58.728040+00:00",
+      "created_at": "2026-07-28T17:38:22.553264+00:00",
       "signals": [
         {
           "pair": "USD/JPY",
-          "signal": "BUY",
-          "avg_score": 0.3358,
-          "headline_count": 4
+          "signal": "HOLD",
+          "avg_score": -0.0858,
+          "headline_count": 3
         },
         {
           "pair": "GBP/USD",

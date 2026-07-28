@@ -9,14 +9,6 @@
         "score": 0.0
       }
     ],
-    "EUR/USD": [
-      {
-        "title": "EUR/USD the Key for USD Trends into FOMC - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
     "USD/JPY": [
       {
         "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
@@ -25,20 +17,22 @@
         "score": 0.6676
       },
       {
-        "title": "T. Rowe Price Group stock hits 52-week high at 121.18 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.6756
-      },
-      {
-        "title": "The USD Is modestly higher to kickstart the NA trading for July 28. What are the charts saying?",
+        "title": "USD  moves lower as markets flip. Crude oil lower.",
         "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bearish",
+        "score": -0.9249
       },
       {
         "title": "Gold Price Forecast: XAU/USD sits out the panic it was built for",
         "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/USD the Key for USD Trends into FOMC - FOREX.com",
+        "source": "Google News",
         "label": "neutral",
         "score": 0.0
       }

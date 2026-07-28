@@ -11,6 +11,20 @@
       ]
     },
     {
+      "title": "Forex traders face four major US tests over the next week - Mitrade",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "AU Small Finance Bank Raises FCNR Deposit Rates to 7.40% and NRE Fixed Deposit Rates to 7.60% - PA Media",
       "source": "Google News",
       "label": "bullish",
@@ -25,11 +39,27 @@
       "currencies": []
     },
     {
-      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
+      "title": "After currency headwinds, Israeli tech welcomes a forex rebound (WIX:NASDAQ) - Seeking Alpha",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9451,
       "currencies": []
+    },
+    {
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9371,
+      "currencies": []
+    },
+    {
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "EUR/USD the Key for USD Trends into FOMC - FOREX.com",
@@ -39,22 +69,6 @@
       "currencies": [
         "EUR",
         "USD",
-        "USD"
-      ]
-    },
-    {
-      "title": "After currency headwinds, Israeli tech welcomes a forex rebound (WIX:NASDAQ) - Seeking Alpha",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9451,
-      "currencies": []
-    },
-    {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
         "USD"
       ]
     },
@@ -73,20 +87,6 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar softens as Oil plunges on Middle East pause - FXStreet",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9124,
-      "currencies": []
-    },
-    {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
-      "currencies": []
-    },
-    {
       "title": "A single company moves the forex market! SK Hynix's $26.5 billion fundraising in the U.S. triggers ripple effects, driving the Korean won to appreciate by 6% in July\u2014the strongest gain in Asia. - Moomoo",
       "source": "Google News",
       "label": "bullish",
@@ -94,59 +94,59 @@
       "currencies": []
     },
     {
-      "title": "Apple briefly becomes second company ever to notch $5 trillion market value",
+      "title": "M6 H1 2026 slides: World Cup drives record audience, margins fall",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5634,
+      "score": 0.617,
       "currencies": []
     },
     {
-      "title": "Clean Harbors earnings on deck as oil prices, growth tested",
+      "title": "Progress Software stock gains on AI agent integration news",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5757,
+      "score": 0.9397,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Tata Capital posts strong Q1 2027 growth, shares rise",
+      "title": "Guggenheim reiterates Buy on CommVault stock, keeps $175 target",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Royal Caribbean raises annual profit forecast, flags modest booking hit from Middle East",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9475,
+      "score": 0.9203,
       "currencies": []
     },
     {
-      "title": "Why is Amkor Technology stock crashing today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7583,
-      "currencies": []
-    },
-    {
-      "title": "Chemed earnings up next: Can VITAS momentum sustain premium?",
+      "title": "China in touch with Yemen\u2019s Houthis to allow ships to sail through Red Sea, sources say",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7498,
+      "score": 0.8036,
       "currencies": []
     },
     {
-      "title": "NBT Bancorp Q2 2026 slides: margin expansion drives operating leverage",
+      "title": "Form 144 ASSOCIATED BANC-CORP For: 28 July",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8945,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Hubbell tops Q2 2026 estimates, but shares slip",
+      "title": "Form 4 Stock Yards Bancorp Inc For: 28 July",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6836,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Stanley Black & Decker faces earnings test near 52-week high",
+      "title": "Koch said to explore sale of data center firm Edged for over $15B",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8347,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
