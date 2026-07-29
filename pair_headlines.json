@@ -9,10 +9,10 @@
         "score": 0.935
       },
       {
-        "title": "EUR/JPY Price Forecast: Eyes rising wedge top at 187.00",
+        "title": "Euro: Softer Fed signals may lift EUR against US Dollar \u2013 Commerzbank",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.9132
+        "score": 0.6429
       }
     ],
     "GBP/USD": [
@@ -21,12 +21,6 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.935
-      },
-      {
-        "title": "GBP/USD Signal: Forecast Ahead of BoE and Fed Decisions - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
       }
     ],
     "USD/CHF": [
@@ -39,40 +33,28 @@
     ],
     "USD/JPY": [
       {
+        "title": "BTC/USD Forex Signal 29/07: Bitcoin Showing Bottoming Signs - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9498
+      },
+      {
         "title": "USD/INR: HSBC Uses Leverage to Win $5.5 Billion in India Forex Deposits - Bloomberg.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.6676
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Eyes rising wedge top at 187.00",
+        "title": "Gold extends recovery to $4,050 amid softer USD; upside seems limited ahead of FOMC",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.9132
+        "score": 0.8329
       },
       {
-        "title": "Silver Price Forecast: XAG/USD gains even as oil prices rebound, Fed policy awaited",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.94
-      },
-      {
-        "title": "Canadian Dollar remains on the front foot as USD bulls turn cautious ahead of Fed decision",
+        "title": "US Dollar: Hawkish Fed hold may support USD \u2013 MUFG",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.6775
-      },
-      {
-        "title": "PBOC sets USD/CNY reference rate at 6.7899 vs. 6.7928 previous",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
+        "score": -0.6204
       }
     ]
   }

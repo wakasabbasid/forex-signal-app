@@ -15,6 +15,15 @@
       ]
     },
     {
+      "title": "BTC/USD Forex Signal 29/07: Bitcoin Showing Bottoming Signs - DailyForex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9498,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "Forex Economic Calendar Overview: Key Events for the Next Trading Week (03.08.2026\u201309.08.2026) - LiteFinance",
       "source": "Google News",
       "label": "neutral",
@@ -31,14 +40,14 @@
       ]
     },
     {
-      "title": "FX Daily: Swiss franc becomes favourite funding currency - Forex Factory",
+      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
+      "title": "FX Daily: Swiss franc becomes favourite funding currency - Forex Factory",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -52,27 +61,17 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Signal: Forecast Ahead of BoE and Fed Decisions - DailyForex",
+      "title": "RBI Forex Measures Bring in Nearly $32 Billion; Governor Says Rupee Is Undervalued - Liquide Blog",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
+      "label": "bullish",
+      "score": 0.8325,
+      "currencies": []
     },
     {
       "title": "The U.S. Dollar Is Rising Again and Nasdaq Is Feeling It - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "AU Small Finance Bank Raises FCNR Deposit Rates to 7.40% and NRE Fixed Deposit Rates to 7.60% - PA Media",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5584,
       "currencies": []
     },
     {
@@ -83,15 +82,6 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
       "title": "Forex traders face four major US tests over the next week - Mitrade",
       "source": "Google News",
       "label": "neutral",
@@ -99,59 +89,66 @@
       "currencies": []
     },
     {
-      "title": "Australia Q2 CPI undershoots forecasts, easing RBA hike bets",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.566,
+      "title": "exchange rate - Encyclopedia Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Pine Labs posts solid Q1 2027 growth, shares edge up",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9512,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Mitchell Services posts strong Q4 2026 as rig count rises",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9446,
-      "currencies": []
-    },
-    {
-      "title": "GSK raises margin outlook, plots $2.5 billion restructuring to fast-track new drugs",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8938,
-      "currencies": []
-    },
-    {
-      "title": "Iran fires missiles at U.S. forces in Middle East, ending ceasefire lull",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7628,
-      "currencies": []
-    },
-    {
-      "title": "Gold prices steady ahead of Fed decision; oil rebound revives inflation concerns",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9093,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Artiva Biotherapeutics Inc For: 28 July",
+      "title": "Fed decision ahead; Meta, Microsoft to report - what\u2019s moving markets",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Ra capital management director buys $412,776 in Artiva Biotherapeutics",
+      "title": "Kering shares surge after results show signs of Gucci recovery",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9082,
+      "currencies": []
+    },
+    {
+      "title": "Aena posts second quarter results in line with estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9365,
+      "currencies": []
+    },
+    {
+      "title": "Russia\u2019s FSB charges Telegram founder Durov with facilitating terrorism",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7577,
+      "currencies": []
+    },
+    {
+      "title": "Krones reports Q2 results, confirms full-year guidance",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Baird cuts Caterpillar stock rating on data center headwinds",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8136,
+      "currencies": []
+    },
+    {
+      "title": "Citizens upgrades UWM Holdings stock rating on valuation",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "IPF H1 2026 slides: growth accelerates as profit dips on investment",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.493,
       "currencies": []
     }
   ],
