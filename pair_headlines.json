@@ -27,6 +27,12 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.935
+      },
+      {
+        "title": "Forex Forecasts \u2013 US Dollar Flexes Strength Across EUR/USD, GBP/USD, and USD/CHF",
+        "source": "Yahoo Finance",
+        "label": "bullish",
+        "score": 0.9376
       }
     ],
     "EUR/USD": [
@@ -35,6 +41,12 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.935
+      },
+      {
+        "title": "Forex Forecasts \u2013 US Dollar Flexes Strength Across EUR/USD, GBP/USD, and USD/CHF",
+        "source": "Yahoo Finance",
+        "label": "bullish",
+        "score": 0.9376
       }
     ],
     "USD/CHF": [
@@ -43,6 +55,12 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.935
+      },
+      {
+        "title": "Forex Forecasts \u2013 US Dollar Flexes Strength Across EUR/USD, GBP/USD, and USD/CHF",
+        "source": "Yahoo Finance",
+        "label": "bullish",
+        "score": 0.9376
       }
     ]
   }

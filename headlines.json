@@ -27,7 +27,7 @@
       ]
     },
     {
-      "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
+      "title": "Japan ready to take decisive currency action as yen hits 40-year low - reuters.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -71,7 +71,7 @@
       "currencies": []
     },
     {
-      "title": "exchange rate - britannica.com",
+      "title": "exchange rate - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -99,59 +99,59 @@
       ]
     },
     {
-      "title": "Better Home & Finance appoints Orange Capital founder to board",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Hawthorn Bancshares declares $0.21 quarterly dividend",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Qualcomm forecasts weak quarterly profit, expects Apple revenue drop to accelerate",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9747,
-      "currencies": []
-    },
-    {
-      "title": "PTC earnings meet estimates but revenue falls short",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.974,
-      "currencies": []
-    },
-    {
-      "title": "Trump unveils $22 billion plan to remake Washington Dulles airport",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "FTAI Aviation earnings missed by $0.55, revenue topped estimates",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9727,
-      "currencies": []
-    },
-    {
-      "title": "MGM Resorts tops Q2 estimates on Las Vegas Strip Resorts strength",
+      "title": "MediaAlpha Q2 2026 slides: P&C surge drives 26% revenue growth",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8974,
+      "score": 0.9269,
       "currencies": []
     },
     {
-      "title": "Aurora Innovation earnings missed by $0.02, revenue topped estimates",
+      "title": "Earnings call transcript: Align Technology tops Q2 2026 estimates, shares fall after hours",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.97,
+      "score": -0.9676,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Waystar posts strong Q2 2026 results, raises outlook",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9406,
+      "currencies": []
+    },
+    {
+      "title": "CONMED Q2 2026 slides: organic growth strong despite GI exit drag",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9488,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Tenable tops Q2 2026 estimates, but shares fall after hours",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9592,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Houlihan Lokey misses Q1 2026 estimates, shares fall",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.954,
+      "currencies": []
+    },
+    {
+      "title": "Qualcomm Q3 FY26 slides: diversification accelerates amid headwinds",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9503,
+      "currencies": []
+    },
+    {
+      "title": "Q2 Holdings earnings beat by $0.02, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9391,
       "currencies": []
     }
   ],
