@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "USD/INR: HSBC Uses Leverage to Win $5.5 Billion in India Forex Deposits - Bloomberg",
+      "title": "USD/INR: HSBC Uses Leverage to Win $5.5 Billion in India Forex Deposits - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -17,21 +17,14 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD Signal 29/07: Steady as Iran Fires Against the US - DailyForex",
+      "title": "EUR/USD Signal: Steady as Iran Fires Against the US Ahead of Fed - DailyForex",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.729,
+      "score": 0.8682,
       "currencies": [
         "EUR",
         "USD"
       ]
-    },
-    {
-      "title": "Forex Economic Calendar Overview: Key Events for the Next Trading Week (03.08.2026\u201309.08.2026) - LiteFinance",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
     },
     {
       "title": "Forex Forecasts \u2013 US Dollar Flexes Strength Across EUR/USD, GBP/USD, and USD/CHF - Yahoo Finance Singapore",
@@ -55,22 +48,6 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "FX Daily: Swiss franc becomes favourite funding currency - Forex Factory",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
       "source": "Google News",
       "label": "bullish",
@@ -85,13 +62,6 @@
       "currencies": []
     },
     {
-      "title": "RBI Forex Measures Bring in Nearly $32 Billion; Governor Says Rupee Is Undervalued - Liquide Blog",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8325,
-      "currencies": []
-    },
-    {
       "title": "Forex traders face four major US tests over the next week - Mitrade",
       "source": "Google News",
       "label": "neutral",
@@ -99,59 +69,89 @@
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Asian Paints posts strong Q1 2026 growth, shares rise 0.8%",
-      "source": "Investing.com",
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "source": "Google News",
       "label": "bullish",
-      "score": 0.9522,
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "exchange rate - Encyclopedia Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is The Cheesecake Factory stock surging today?",
+      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "FX Daily: Swiss franc becomes favourite funding currency - Forex Factory",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Canadian Utilities posts 16% Q2 2026 earnings gain",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6274,
+      "currencies": []
+    },
+    {
+      "title": "Will they or won\u2019t they? The case for and against a Fed rate hike",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Cullen/Frost Bankers earnings on deck as valuation concerns mount",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.4803,
+      "score": -0.802,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Amarin Q2 2026 revenue falls, but cash flow improves",
+      "title": "Sprouts Farmers Market faces earnings test as comps weaken",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9396,
+      "score": -0.8851,
       "currencies": []
     },
     {
-      "title": "3 EU Insurance Stocks That Morgan Stanley Favors as Sector Reforms Near",
+      "title": "Life Time earnings up next: Can pricing power sustain rally?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Direxion unveils options income ETF suite tied to Nvidia, Tesla and other megacap",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "JPMorgan maps Fed decision scenarios as Wall Street braces for surprise rate hike",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Greif Q3 2026 slides: margin expansion accelerates on cost cuts",
+      "title": "Poland stocks higher at close of trade; WIG30 up 0.54%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9447,
+      "score": 0.9327,
       "currencies": []
     },
     {
-      "title": "Upstart secures $4 billion loan purchase deal with Castlelake",
+      "title": "Earnings call transcript: Boston Properties tops Q2 2026 forecasts, shares rise",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8517,
+      "score": 0.924,
+      "currencies": []
+    },
+    {
+      "title": "Rush Street Interactive earnings in focus as iCasino gains accelerate",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8722,
       "currencies": []
     }
   ],

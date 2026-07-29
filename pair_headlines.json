@@ -3,7 +3,7 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "USD/INR: HSBC Uses Leverage to Win $5.5 Billion in India Forex Deposits - Bloomberg",
+        "title": "USD/INR: HSBC Uses Leverage to Win $5.5 Billion in India Forex Deposits - Bloomberg.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -19,14 +19,20 @@
         "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "Canadian Dollar: Range holds against USD with Fed and BoC in focus \u2013 Scotiabank",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "EUR/USD": [
       {
-        "title": "EUR/USD Signal 29/07: Steady as Iran Fires Against the US - DailyForex",
+        "title": "EUR/USD Signal: Steady as Iran Fires Against the US Ahead of Fed - DailyForex",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.729
+        "score": 0.8682
       },
       {
         "title": "Forex Forecasts \u2013 US Dollar Flexes Strength Across EUR/USD, GBP/USD, and USD/CHF - Yahoo Finance Singapore",
@@ -55,12 +61,6 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.935
-      },
-      {
-        "title": "Swiss Franc: Moderate pass-through weigh on CHF against Euro \u2013 Commerzbank",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.532
       }
     ]
   }
