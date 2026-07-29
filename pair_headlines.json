@@ -7,6 +7,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.6676
       }
     ],
     "GBP/USD": [
@@ -29,12 +35,6 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.935
-      },
-      {
-        "title": "EUR/USD Signal: Steady as Iran Fires Against the US Ahead of Fed - DailyForex",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.8682
       }
     ],
     "USD/CHF": [
