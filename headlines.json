@@ -1,6 +1,31 @@
 {
   "headlines": [
     {
+      "title": "BTC/USD Signal: Bitcoin Showing Bottoming Signs Ahead of FOMC - DailyForex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9191,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Euro Steadies Ahead of Fed Policy Decision - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5522,
+      "currencies": []
+    },
+    {
+      "title": "USD/INR: HSBC Uses Leverage to Win $5.5 Billion in India Forex Deposits - Bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "Forex Forecasts \u2013 US Dollar Flexes Strength Across EUR/USD, GBP/USD, and USD/CHF - Yahoo Finance Singapore",
       "source": "Google News",
       "label": "bullish",
@@ -15,15 +40,6 @@
       ]
     },
     {
-      "title": "BTC/USD Forex Signal 29/07: Bitcoin Showing Bottoming Signs - DailyForex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9498,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
       "title": "Forex Economic Calendar Overview: Key Events for the Next Trading Week (03.08.2026\u201309.08.2026) - LiteFinance",
       "source": "Google News",
       "label": "neutral",
@@ -31,23 +47,7 @@
       "currencies": []
     },
     {
-      "title": "USD/INR: HSBC Uses Leverage to Win $5.5 Billion in India Forex Deposits - Bloomberg.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
       "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "FX Daily: Swiss franc becomes favourite funding currency - Forex Factory",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -61,17 +61,17 @@
       "currencies": []
     },
     {
+      "title": "FX Daily: Swiss franc becomes favourite funding currency - Forex Factory",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "RBI Forex Measures Bring in Nearly $32 Billion; Governor Says Rupee Is Undervalued - Liquide Blog",
       "source": "Google News",
       "label": "bullish",
       "score": 0.8325,
-      "currencies": []
-    },
-    {
-      "title": "The U.S. Dollar Is Rising Again and Nasdaq Is Feeling It - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -96,59 +96,59 @@
       "currencies": []
     },
     {
-      "title": "Fed decision ahead; Meta, Microsoft to report - what\u2019s moving markets",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Kering shares surge after results show signs of Gucci recovery",
+      "title": "Constellium Nv earnings beat by \u20ac0.33, revenue topped estimates",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9082,
+      "score": 0.9521,
       "currencies": []
     },
     {
-      "title": "Aena posts second quarter results in line with estimates",
+      "title": "OCBC seeks to accelerate wealth client onboarding with agentic AI",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9365,
+      "score": 0.8509,
       "currencies": []
     },
     {
-      "title": "Russia\u2019s FSB charges Telegram founder Durov with facilitating terrorism",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7577,
-      "currencies": []
-    },
-    {
-      "title": "Krones reports Q2 results, confirms full-year guidance",
+      "title": "Lula leads Bolsonaro in Brazil presidential poll ahead of October",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Baird cuts Caterpillar stock rating on data center headwinds",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8136,
-      "currencies": []
-    },
-    {
-      "title": "Citizens upgrades UWM Holdings stock rating on valuation",
+      "title": "After the quake came the blast: Inside Japan\u2019s shopping mall disaster",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "IPF H1 2026 slides: growth accelerates as profit dips on investment",
+      "title": "Santander Brasil\u2019s net profit down 17.6% in Q2, missing estimates",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.493,
+      "score": -0.9753,
+      "currencies": []
+    },
+    {
+      "title": "Porsche expects cost-cutting plan to save up to \u20ac5.7 billion, Handelsblatt reported",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9015,
+      "currencies": []
+    },
+    {
+      "title": "Lemonade earnings matched, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.953,
+      "currencies": []
+    },
+    {
+      "title": "Lemonade shares tumble 7% on guidance concerns, despite revenue beat",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9724,
       "currencies": []
     }
   ],
