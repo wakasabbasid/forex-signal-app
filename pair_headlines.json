@@ -1,6 +1,28 @@
 {
   "run_id": 1,
   "pairs": {
+    "USD/JPY": [
+      {
+        "title": "Forex Forecasts \u2013 Fed Decision Threatens Volatility Across USD Pairs - Yahoo Finance",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Signal: Forecast Ahead of BoE and Fed Decisions - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Forex Forecasts \u2013 US Dollar Flexes Strength Across EUR/USD, GBP/USD, and USD/CHF - Yahoo Finance Singapore",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.935
+      }
+    ],
     "EUR/USD": [
       {
         "title": "Forex Forecasts \u2013 US Dollar Flexes Strength Across EUR/USD, GBP/USD, and USD/CHF - Yahoo Finance Singapore",
@@ -9,30 +31,10 @@
         "score": 0.935
       },
       {
-        "title": "EUR/USD the Key for USD Trends into FOMC - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
         "title": "EUR/USD Signal: Steady as Iran Fires Against the US Ahead of Fed - DailyForex",
         "source": "Google News",
         "label": "bullish",
         "score": 0.8682
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "Forex Forecasts \u2013 US Dollar Flexes Strength Across EUR/USD, GBP/USD, and USD/CHF - Yahoo Finance Singapore",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.935
-      },
-      {
-        "title": "GBP/USD Signal: Forecast Ahead of BoE and Fed Decisions - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
       }
     ],
     "USD/CHF": [
@@ -41,20 +43,6 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.935
-      }
-    ],
-    "USD/JPY": [
-      {
-        "title": "The USD is little changed vs the EURUSD, USDJPY and GBPUSD ahead of the Fed rate decision",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "US Dollar: Hedging pressure builds on USD \u2013 BNY",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.7135
       }
     ]
   }
