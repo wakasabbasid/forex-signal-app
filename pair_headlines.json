@@ -7,6 +7,12 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.935
+      },
+      {
+        "title": "EUR/JPY Price Forecast: Eyes rising wedge top at 187.00",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9132
       }
     ],
     "GBP/USD": [
@@ -17,7 +23,7 @@
         "score": 0.935
       },
       {
-        "title": "GBP/USD Signal: Bearish Outlook Ahead of Fed, BoE Decisions - DailyForex",
+        "title": "GBP/USD Signal: Forecast Ahead of BoE and Fed Decisions - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -37,14 +43,36 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      }
-    ],
-    "NZD/USD": [
+      },
       {
-        "title": "NZD/USD holds ahead of the Fed's decision",
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.6676
+      },
+      {
+        "title": "EUR/JPY Price Forecast: Eyes rising wedge top at 187.00",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.6285
+        "score": 0.9132
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD gains even as oil prices rebound, Fed policy awaited",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.94
+      },
+      {
+        "title": "Canadian Dollar remains on the front foot as USD bulls turn cautious ahead of Fed decision",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.6775
+      },
+      {
+        "title": "PBOC sets USD/CNY reference rate at 6.7899 vs. 6.7928 previous",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }

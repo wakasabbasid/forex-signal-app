@@ -15,6 +15,13 @@
       ]
     },
     {
+      "title": "Forex Economic Calendar Overview: Key Events for the Next Trading Week (03.08.2026\u201309.08.2026) - LiteFinance",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "USD/INR: HSBC Uses Leverage to Win $5.5 Billion in India Forex Deposits - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
@@ -31,16 +38,6 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Signal: Bearish Outlook Ahead of Fed, BoE Decisions - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
       "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
       "source": "Google News",
       "label": "neutral",
@@ -53,6 +50,16 @@
       "label": "neutral",
       "score": 0.0,
       "currencies": []
+    },
+    {
+      "title": "GBP/USD Signal: Forecast Ahead of BoE and Fed Decisions - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
     },
     {
       "title": "The U.S. Dollar Is Rising Again and Nasdaq Is Feeling It - FOREX.com",
@@ -69,13 +76,6 @@
       "currencies": []
     },
     {
-      "title": "Forex traders face four major US tests over the next week - Mitrade",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
       "source": "Google News",
       "label": "bullish",
@@ -83,70 +83,72 @@
       "currencies": []
     },
     {
-      "title": "After currency headwinds, Israeli tech welcomes a forex rebound (WIX:NASDAQ) - Seeking Alpha",
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9451,
-      "currencies": []
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
     },
     {
-      "title": "exchange rate - Encyclopedia Britannica",
+      "title": "Forex traders face four major US tests over the next week - Mitrade",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Michigan cyclosporiasis cases increase to 9,680 in ongoing outbreak",
+      "title": "Australia Q2 CPI undershoots forecasts, easing RBA hike bets",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.566,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Pine Labs posts solid Q1 2027 growth, shares edge up",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.917,
+      "score": 0.9512,
       "currencies": []
     },
     {
-      "title": "Trump says he does not care about USMCA as US, Canada plan trade talks",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 United Therapeutics Corporation For: 28 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Park Aerospace Corp For: 28 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Oman presents Iran with Gulf-backed plan for voluntary fees to use Hormuz",
+      "title": "Earnings call transcript: Mitchell Services posts strong Q4 2026 as rig count rises",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7729,
+      "score": 0.9446,
       "currencies": []
     },
     {
-      "title": "CoStar Q2 2026 slides: profitability doubles despite revenue miss",
+      "title": "GSK raises margin outlook, plots $2.5 billion restructuring to fast-track new drugs",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9273,
+      "score": 0.8938,
       "currencies": []
     },
     {
-      "title": "United Therapeutics CEO Rothblatt sells $5 million in shares",
+      "title": "Iran fires missiles at U.S. forces in Middle East, ending ceasefire lull",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7628,
+      "currencies": []
+    },
+    {
+      "title": "Gold prices steady ahead of Fed decision; oil rebound revives inflation concerns",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9093,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Artiva Biotherapeutics Inc For: 28 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Constantine Petropoulos, Park Aerospace SVP, sells $90,000 in stock",
+      "title": "Ra capital management director buys $412,776 in Artiva Biotherapeutics",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
