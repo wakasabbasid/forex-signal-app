@@ -3,19 +3,31 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "BTC/USD Signal: Bitcoin Showing Bottoming Signs Ahead of FOMC - DailyForex",
+        "title": "USD/INR: HSBC Uses Leverage to Win $5.5 Billion in India Forex Deposits - Bloomberg",
         "source": "Google News",
-        "label": "bearish",
-        "score": -0.9191
+        "label": "neutral",
+        "score": 0.0
       },
       {
-        "title": "USD/INR: HSBC Uses Leverage to Win $5.5 Billion in India Forex Deposits - Bloomberg.com",
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
         "source": "Google News",
+        "label": "bullish",
+        "score": 0.6676
+      },
+      {
+        "title": "The USD is little changed vs the EURUSD, USDJPY and GBPUSD ahead of the Fed rate decision",
+        "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
       }
     ],
     "EUR/USD": [
+      {
+        "title": "EUR/USD Signal 29/07: Steady as Iran Fires Against the US - DailyForex",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.729
+      },
       {
         "title": "Forex Forecasts \u2013 US Dollar Flexes Strength Across EUR/USD, GBP/USD, and USD/CHF - Yahoo Finance Singapore",
         "source": "Google News",
@@ -27,12 +39,6 @@
         "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "EUR/GBP Price Forecast: Eases from 0.8575 resistance with the bullish bias intact",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8725
       }
     ],
     "GBP/USD": [
@@ -41,18 +47,6 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.935
-      },
-      {
-        "title": "EUR/GBP Price Forecast: Eases from 0.8575 resistance with the bullish bias intact",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8725
-      },
-      {
-        "title": "GBP/USD Price Forecast: Near-term bias remains bearish ahead of Fed-BoE policy",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.7502
       }
     ],
     "USD/CHF": [
@@ -61,6 +55,12 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.935
+      },
+      {
+        "title": "Swiss Franc: Moderate pass-through weigh on CHF against Euro \u2013 Commerzbank",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.532
       }
     ]
   }
