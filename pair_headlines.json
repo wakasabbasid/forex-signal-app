@@ -9,16 +9,10 @@
         "score": 0.0
       },
       {
-        "title": "USD/JPY, GBP/JPY Outlook: US Dollar Slides Despite Fed Dissent, BOJ Up Next - FOREX.com",
-        "source": "Google News",
+        "title": "The USD is mostly lower to kickstart July 30 trading in the NA session",
+        "source": "ForexLive",
         "label": "bearish",
-        "score": -0.7096
-      },
-      {
-        "title": "USD/INR: HSBC Uses Leverage to Win $5.5 Billion in India Forex Deposits - Bloomberg.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "score": -0.9227
       },
       {
         "title": "USD/JPY stumbles lower in quick drop before slight bounce back",
@@ -27,30 +21,10 @@
         "score": -0.9198
       },
       {
-        "title": "USD/JPY spikes to the downside after the FOMC decision, but dollar losses are set to be short-lived",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.83
-      },
-      {
-        "title": "Japanese Yen: BoJ tone could lift JPY against US Dollar \u2013 Commerzbank",
+        "title": "US Dollar: Hawkish hold tempers USD strength \u2013 ING",
         "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9051
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "GBP/USD Signal: Forecast Ahead of BoE and Fed Decisions - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "USD/JPY, GBP/JPY Outlook: US Dollar Slides Despite Fed Dissent, BOJ Up Next - FOREX.com",
-        "source": "Google News",
         "label": "bearish",
-        "score": -0.7096
+        "score": -0.868
       }
     ]
   }

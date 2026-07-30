@@ -1,7 +1,35 @@
 {
   "headlines": [
     {
-      "title": "$32 Billion Inflows From India\u2019s Forex Drive Yet to Boost Rupee: In Charts - Bloomberg.com",
+      "title": "$32 Billion Inflows From India\u2019s Forex Drive Yet to Boost Rupee: In Charts - Bloomberg",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8807,
+      "currencies": []
+    },
+    {
+      "title": "USDINR analysis 30/07 : Short-Term Upside and key Levels - dailyforex.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Microsoft Climbs as Cloud Business Powers Earnings - TradingPedia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.4947,
+      "currencies": []
+    },
+    {
+      "title": "Forex card vs currency notes: Key differences every traveller should know - Planning an international trip? BookMyForex card now offers cashback, hotel booking discounts and airport transfer voucher - The Economic Times",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -17,30 +45,6 @@
       ]
     },
     {
-      "title": "Euro Eases as Markets Brace for BoE, Eurozone Data - TradingPedia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "GBP/USD Signal: Forecast Ahead of BoE and Fed Decisions - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
       "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
       "source": "Google News",
       "label": "bullish",
@@ -48,26 +52,14 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY, GBP/JPY Outlook: US Dollar Slides Despite Fed Dissent, BOJ Up Next - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7096,
-      "currencies": [
-        "USD",
-        "JPY",
-        "GBP",
-        "JPY"
-      ]
-    },
-    {
-      "title": "Forex traders face four major US tests over the next week - mitrade.com",
+      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
+      "title": "Forex traders face four major US tests over the next week - Mitrade",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -88,68 +80,66 @@
       "currencies": []
     },
     {
-      "title": "USD/INR: HSBC Uses Leverage to Win $5.5 Billion in India Forex Deposits - Bloomberg.com",
+      "title": "Euro Eases as Markets Brace for BoE, Eurozone Data - TradingPedia",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
+      "currencies": []
     },
     {
-      "title": "Why Americans are leasing fewer cars",
+      "title": "Pharming Q2 2026 slides: Joenja growth offsets RUCONEST pressure",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9379,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 VTEX For: 30 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Trump\u2019s DOJ charged hundreds with assaulting officers. Many cases were dropped, but the damage was done",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8471,
-      "currencies": []
-    },
-    {
-      "title": "Why is JC Decaux stock rallying today?",
+      "title": "Form 144 JACK HENRY & ASSOCIATES INC For: 30 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Cigna beats Q2 estimates, lifts earnings guidance",
+      "title": "Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.43%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9243,
+      "score": 0.9431,
       "currencies": []
     },
     {
-      "title": "Magnum Ice Cream tops earnings forecast as cost cuts kick in",
+      "title": "AvalonBay and Equity Residential name merged firm Vivmark",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9005,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "WESCO earnings beat by $0.59, revenue topped estimates",
+      "title": "Cingulate publishes phase 3 ADHD drug trial results in journal",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9405,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Dollar steady as Fed ambiguity, rate hike fears weigh; euro, pound digest policy",
+      "title": "Vicon secures $900,000 order for U.S. corrections facility",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6473,
+      "score": 0.9306,
       "currencies": []
     },
     {
-      "title": "DSM-Firmenich surges 12% on strong Q2 beat, upbeat outlook",
+      "title": "SAIC wins $70M Navy contract for radar system support",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9448,
+      "score": 0.9281,
       "currencies": []
     }
   ],
