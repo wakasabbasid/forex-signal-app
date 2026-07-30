@@ -10,13 +10,6 @@
       ]
     },
     {
-      "title": "Russian rouble falls past 80 per dollar for first time since April - Investing.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6639,
-      "currencies": []
-    },
-    {
       "title": "GBP/USD Signal: Forecast Ahead of BoE and Fed Decisions - DailyForex",
       "source": "Google News",
       "label": "neutral",
@@ -27,10 +20,17 @@
       ]
     },
     {
-      "title": "Japan ready to take decisive currency action as yen hits 40-year low - reuters.com",
+      "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Russian rouble falls past 80 per dollar for first time since April - Investing.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6639,
       "currencies": []
     },
     {
@@ -43,17 +43,17 @@
       ]
     },
     {
-      "title": "Euro Steadies Ahead of Fed Policy Decision - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5522,
-      "currencies": []
-    },
-    {
       "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Euro Steadies Ahead of Fed Policy Decision - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5522,
       "currencies": []
     },
     {
@@ -99,59 +99,59 @@
       ]
     },
     {
-      "title": "MediaAlpha Q2 2026 slides: P&C surge drives 26% revenue growth",
+      "title": "Perseus Mining June 2026 slides: record cashflow, Nyanzaga on track",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9269,
+      "score": 0.8126,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Align Technology tops Q2 2026 estimates, shares fall after hours",
+      "title": "Form 4 American Airlines Group For: 29 July",
       "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "American Airlines vice chair Stephen Johnson sells $1.34m in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Saluda Medical tops FY 2026 revenue guidance as growth accelerates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9037,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Scribe Therapeutics For: 29 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Oncology Institute Inc For: 29 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Trump is weighing another two-week campaign of strikes against Iran",
+      "source": "ForexLive",
       "label": "bearish",
-      "score": -0.9676,
+      "score": -0.4841,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Waystar posts strong Q2 2026 results, raises outlook",
-      "source": "Investing.com",
+      "title": "Shares of Microsoft extend gains to 7% after hours on capex guide",
+      "source": "ForexLive",
       "label": "bullish",
-      "score": 0.9406,
-      "currencies": []
-    },
-    {
-      "title": "CONMED Q2 2026 slides: organic growth strong despite GI exit drag",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9488,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Tenable tops Q2 2026 estimates, but shares fall after hours",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9592,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Houlihan Lokey misses Q1 2026 estimates, shares fall",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.954,
-      "currencies": []
-    },
-    {
-      "title": "Qualcomm Q3 FY26 slides: diversification accelerates amid headwinds",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9503,
-      "currencies": []
-    },
-    {
-      "title": "Q2 Holdings earnings beat by $0.02, revenue topped estimates",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9391,
+      "score": 0.9317,
       "currencies": []
     }
   ],
