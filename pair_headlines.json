@@ -3,10 +3,10 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "Forex Forecasts \u2013 Fed Decision Threatens Volatility Across USD Pairs - Yahoo Finance",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "title": "The USD is moving sharply lower led by the USDJPY. What are the charts telling traders NOW?",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.8867
       },
       {
         "title": "The USD is mostly lower to kickstart July 30 trading in the NA session",
@@ -15,16 +15,24 @@
         "score": -0.9227
       },
       {
-        "title": "USD/JPY stumbles lower in quick drop before slight bounce back",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.9198
-      },
-      {
-        "title": "US Dollar: Hawkish hold tempers USD strength \u2013 ING",
+        "title": "Japanese Yen surges on suspected intervention, EUR/JPY tumbles 400 pips in minutes",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.868
+        "score": -0.9038
+      },
+      {
+        "title": "Breaking: Japanese Yen surges on suspected intervention, USD/JPY plunges below 160.00",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.946
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "Japanese Yen surges on suspected intervention, EUR/JPY tumbles 400 pips in minutes",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9038
       }
     ]
   }

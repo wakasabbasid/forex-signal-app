@@ -1,145 +1,147 @@
 {
   "headlines": [
     {
-      "title": "$32 Billion Inflows From India\u2019s Forex Drive Yet to Boost Rupee: In Charts - Bloomberg",
-      "source": "Google News",
+      "title": "Greece stocks higher at close of trade; Athens General Composite up 1.25%",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8807,
+      "score": 0.9421,
       "currencies": []
     },
     {
-      "title": "USDINR analysis 30/07 : Short-Term Upside and key Levels - dailyforex.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Microsoft Climbs as Cloud Business Powers Earnings - TradingPedia",
-      "source": "Google News",
+      "title": "Microchip Technology stock may move 12% on earnings release",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.4947,
+      "score": 0.7893,
       "currencies": []
     },
     {
-      "title": "Forex card vs currency notes: Key differences every traveller should know - Planning an international trip? BookMyForex card now offers cashback, hotel booking discounts and airport transfer voucher - The Economic Times",
-      "source": "Google News",
+      "title": "Braveheart Bio targets $1.2 billion valuation in US IPO",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
-      "source": "Google News",
+      "title": "Zoox gets approval to deploy robotaxis after safety review",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9123,
+      "currencies": []
+    },
+    {
+      "title": "Yen soars, markets suspect Japan intervention",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7954,
+      "currencies": []
+    },
+    {
+      "title": "China\u2019s Xiaomi launches SkyNomad SUV series offering space and reconfigurable interiors",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7783,
+      "currencies": []
+    },
+    {
+      "title": "Alnylam Q2 2026 slides show strong growth amid guidance cut, stock plunge",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8943,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Wendel lifts H1 2026 NAV and FRE as asset platform grows",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8645,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: KKR posts record Q2 2026 results, beats estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8659,
+      "currencies": []
+    },
+    {
+      "title": "Adamas Q2 2026 slides: EAD jumps 36%, book value rises for 4th quarter",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9241,
+      "currencies": []
+    },
+    {
+      "title": "Atlanta Fed GDPNow initial estimate for Q3 is set at 5.0%.",
+      "source": "ForexLive",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Forex Forecasts \u2013 Fed Decision Threatens Volatility Across USD Pairs - Yahoo Finance",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "title": "The USD is moving sharply lower led by the USDJPY. What are the charts telling traders NOW?",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.8867,
       "currencies": [
         "USD"
       ]
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
+      "title": "Rebound. Nasdaq indices are leading the way higher",
+      "source": "ForexLive",
       "label": "bullish",
-      "score": 0.9371,
+      "score": 0.8395,
       "currencies": []
     },
     {
-      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "title": "USDJPY moves sharply lower",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.6996,
       "currencies": []
     },
     {
-      "title": "Forex traders face four major US tests over the next week - Mitrade",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "exchange rate - Encyclopedia Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Euro Eases as Markets Brace for BoE, Eurozone Data - TradingPedia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Pharming Q2 2026 slides: Joenja growth offsets RUCONEST pressure",
-      "source": "Investing.com",
+      "title": "WH Advisor Hassett: Inflation is continuing to ease",
+      "source": "ForexLive",
       "label": "bullish",
-      "score": 0.9379,
+      "score": 0.9249,
       "currencies": []
     },
     {
-      "title": "Form 4 VTEX For: 30 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "title": "US June PCE inflation 3.7% vs 3.7%% expected. Core 3.3% vs 3.3% expected",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.6697,
       "currencies": []
     },
     {
-      "title": "Form 144 JACK HENRY & ASSOCIATES INC For: 30 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "title": "US initial jobless claims 197K versus 200K expected",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.9503,
       "currencies": []
     },
     {
-      "title": "Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.43%",
-      "source": "Investing.com",
+      "title": "The USD is mostly lower to kickstart July 30 trading in the NA session",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.9227,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "US Q2 advance GDP +1.5% vs +2.1% expected",
+      "source": "ForexLive",
       "label": "bullish",
-      "score": 0.9431,
+      "score": 0.4868,
       "currencies": []
     },
     {
-      "title": "AvalonBay and Equity Residential name merged firm Vivmark",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Cingulate publishes phase 3 ADHD drug trial results in journal",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Vicon secures $900,000 order for U.S. corrections facility",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9306,
-      "currencies": []
-    },
-    {
-      "title": "SAIC wins $70M Navy contract for radar system support",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9281,
+      "title": "investingLive European markets wrap: Dollar extends post-Fed drop, BOE keeps bank rate unchanged",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.7685,
       "currencies": []
     }
   ],
