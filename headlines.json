@@ -1,11 +1,21 @@
 {
   "headlines": [
     {
-      "title": "$32 Billion Inflows From India\u2019s Forex Drive Yet to Boost Rupee: In Charts - Bloomberg",
+      "title": "$32 Billion Inflows From India\u2019s Forex Drive Yet to Boost Rupee: In Charts - Bloomberg.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.8807,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
+    },
+    {
+      "title": "GBP/USD Jumps After Hawkish Fed Hold as $1.3400 Nears - DailyForex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5047,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
     },
     {
       "title": "Forex Forecasts \u2013 Fed Decision Threatens Volatility Across USD Pairs - Yahoo Finance",
@@ -17,21 +27,11 @@
       ]
     },
     {
-      "title": "Gold, Silver Price Forecast: Fed Decision, Long-Term & Short-Term Outlook - FOREX.com",
+      "title": "Gold, Silver Price Forecast: Fed Decision, Long-Term & Short-Term Outlook - forex.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
-    },
-    {
-      "title": "GBP/USD Signal: Forecast Ahead of BoE and Fed Decisions - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
     },
     {
       "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
@@ -48,10 +48,10 @@
       "currencies": []
     },
     {
-      "title": "Russian rouble falls past 80 per dollar for first time since April - Investing.com",
+      "title": "Forex traders face four major US tests over the next week - Mitrade",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.6639,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -62,22 +62,6 @@
       "currencies": []
     },
     {
-      "title": "Forex traders face four major US tests over the next week - Mitrade",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
       "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
       "source": "Google News",
       "label": "neutral",
@@ -85,66 +69,90 @@
       "currencies": []
     },
     {
-      "title": "Euro Steadies Ahead of Fed Policy Decision - TradingPedia",
+      "title": "USD/INR: HSBC Uses Leverage to Win $5.5 Billion in India Forex Deposits - Bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "GBP/USD Signal: Forecast Ahead of BoE and Fed Decisions - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
+      "title": "USD/JPY, GBP/JPY Outlook: US Dollar Slides Despite Fed Dissent, BOJ Up Next - forex.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.5522,
-      "currencies": []
+      "score": -0.7096,
+      "currencies": [
+        "USD",
+        "JPY",
+        "GBP",
+        "JPY"
+      ]
     },
     {
-      "title": "Asian stocks stutters after rout, Fed leaves markets guessing on rates",
+      "title": "Earnings call transcript: Euroapi H1 2026 loss widens as stock sinks 26%",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8106,
+      "score": -0.9612,
       "currencies": []
     },
     {
-      "title": "Hexaware Q2 2026 presentation: revenue rises but outlook trimmed to 6-7%",
+      "title": "POSCO Q2 2026 slides: lithium turns profitable, operating margin expands",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6377,
+      "score": 0.9512,
       "currencies": []
     },
     {
-      "title": "Form 4 Achieve Life Sciences Inc For: 29 July",
+      "title": "Form 4 Newmont Goldcorp Corp For: 30 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 IMC Rare Earths Ltd For: 29 July",
+      "title": "Mizuho Q1 profit jumps 45%, hikes annual forecast",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.876,
       "currencies": []
     },
     {
-      "title": "Form 4 Brookfield Asset Management Inc For: 29 July",
+      "title": "Spain\u2019s economic growth accelerates to 0.7% in second quarter",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9557,
       "currencies": []
     },
     {
-      "title": "Fed interest rate hikes: These three stocks are seen as best positioned",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Hexaware cuts 2026 outlook after solid Q2 growth",
+      "title": "Ayvens reports Q2 profit miss on used car weakness",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9477,
+      "score": -0.9626,
       "currencies": []
     },
     {
-      "title": "Pantoro June Q4 2026 slides: production rises, costs elevated",
+      "title": "With fields destroyed and hives lost, Gaza\u2019s beekeepers struggle to start over",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7263,
+      "label": "bearish",
+      "score": -0.8111,
+      "currencies": []
+    },
+    {
+      "title": "Drax confirms 2026 EBITDA outlook, sets 2029 target range",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

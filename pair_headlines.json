@@ -1,6 +1,26 @@
 {
   "run_id": 1,
   "pairs": {
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Jumps After Hawkish Fed Hold as $1.3400 Nears - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.5047
+      },
+      {
+        "title": "GBP/USD Signal: Forecast Ahead of BoE and Fed Decisions - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "USD/JPY, GBP/JPY Outlook: US Dollar Slides Despite Fed Dissent, BOJ Up Next - forex.com",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.7096
+      }
+    ],
     "USD/JPY": [
       {
         "title": "Forex Forecasts \u2013 Fed Decision Threatens Volatility Across USD Pairs - Yahoo Finance",
@@ -9,58 +29,44 @@
         "score": 0.0
       },
       {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.6676
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Trades near 187.00 after pulling back from ascending channel top",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.5858
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD remains below $58.00 amid Fed hawkish pause",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9567
-      },
-      {
-        "title": "$4,100: Gold fails near a key hurdle as Mideast tensions and Fed hike bets support USD",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.4861
-      },
-      {
-        "title": "Canadian Dollar consolidates as Mideast crisis supports oil and USD ahead of US data",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.6911
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "GBP/USD Signal: Forecast Ahead of BoE and Fed Decisions - DailyForex",
+        "title": "USD/INR: HSBC Uses Leverage to Win $5.5 Billion in India Forex Deposits - Bloomberg.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "USD/JPY, GBP/JPY Outlook: US Dollar Slides Despite Fed Dissent, BOJ Up Next - forex.com",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.7096
+      },
+      {
+        "title": "USD/JPY Price Forecast: Rising 20-day EMA backs bullish bias",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8333
       }
     ],
     "EUR/USD": [
       {
-        "title": "EUR/JPY Price Forecast: Trades near 187.00 after pulling back from ascending channel top",
+        "title": "Euro: Fed split supports EUR against US Dollar \u2013 Commerzbank",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.5858
+        "label": "bullish",
+        "score": 0.6637
+      },
+      {
+        "title": "EUR/USD Price Forecast: A bullish comeback seems underway",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9302
       }
     ],
-    "AUD/USD": [
+    "USD/CAD": [
       {
-        "title": "AUD/USD Price Forecast: Struggles near 0.6950 as bears retain control below 100-EMA on H4",
+        "title": "USD/CAD Price Forecast: Rebounds above 1.4050, constructive outlook prevails above 100-day SMA",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8219
+        "label": "bullish",
+        "score": 0.9201
       }
     ]
   }
