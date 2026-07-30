@@ -3,10 +3,10 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "USD/BRL set to extend gains as risk anxiety builds again - DailyForex",
+        "title": "USD/BRL set to extend gains as risk anxiety builds again - dailyforex.com",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.8393
+        "score": 0.7122
       },
       {
         "title": "USD/JPY stumbles lower in quick drop before slight bounce back - investingLive",
@@ -19,12 +19,6 @@
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.8867
-      },
-      {
-        "title": "British Pound surges on BoE hawkish hold, Yen intervention crushes USD",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8715
       }
     ],
     "EUR/USD": [

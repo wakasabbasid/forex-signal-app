@@ -8,10 +8,10 @@
       "currencies": []
     },
     {
-      "title": "USD/BRL set to extend gains as risk anxiety builds again - DailyForex",
+      "title": "USD/BRL set to extend gains as risk anxiety builds again - dailyforex.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8393,
+      "score": 0.7122,
       "currencies": [
         "USD"
       ]
@@ -24,14 +24,14 @@
       "currencies": []
     },
     {
-      "title": "Forex card vs currency notes: Key differences every traveller should know - Planning an international trip? BookMyForex card now offers cashback, hotel booking discounts and airport transfer voucher - The Economic Times",
+      "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
+      "title": "Forex card vs currency notes: Key differences every traveller should know - Planning an international trip? BookMyForex card now offers cashback, hotel booking discounts and airport transfer voucher - The Economic Times",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -52,13 +52,6 @@
       ]
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
-      "currencies": []
-    },
-    {
       "title": "USD/JPY stumbles lower in quick drop before slight bounce back - investingLive",
       "source": "Google News",
       "label": "bearish",
@@ -69,10 +62,10 @@
       ]
     },
     {
-      "title": "Euro Eases as Markets Brace for BoE, Eurozone Data - TradingPedia",
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9371,
       "currencies": []
     },
     {
@@ -83,70 +76,77 @@
       "currencies": []
     },
     {
-      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - cfr.org",
+      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Forex traders face four major US tests over the next week - Mitrade",
+      "title": "Forex traders face four major US tests over the next week - mitrade.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 144 ASSOCIATED BANC-CORP For: 30 July",
+      "title": "Euro Eases as Markets Brace for BoE, Eurozone Data - TradingPedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Microsoft rally lifts stocks, 30-year Treasury\u00a0yield hits 19-year peak",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5875,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Sonos Inc For: 30 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 Broadway Financial Corporation For: 30 July",
+      "title": "OFS Capital Corp earnings beat by $0.19, revenue fell short of estimates",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.4974,
       "currencies": []
     },
     {
-      "title": "Form 4 Franklin Financial Services Corp For: 30 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "TXNM Energy faces earnings test amid Blackstone merger uncertainty",
+      "title": "Voya Financial declares Q3 dividend of $0.47 per share",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9693,
+      "score": -0.5693,
       "currencies": []
     },
     {
-      "title": "Coinbase earnings ahead: Can new products offset trading slump?",
+      "title": "Apple beats on quarterly profit and revenue, but shares slip after hours",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9602,
+      "currencies": []
+    },
+    {
+      "title": "Sonos director Julius Genachowski sells $665,142 in common stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Leonardo raises 2026 guidance after strong order growth",
+      "title": "Form 4 Bank7 Corp For: 30 July",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9359,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Natwest Group earnings on deck: Can structural hedge sustain momentum?",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7241,
-      "currencies": []
-    },
-    {
-      "title": "Citigroup recommends dollar-yen trade ahead of BOJ decision",
+      "title": "Form 144 CYTOKINETICS For: 30 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
