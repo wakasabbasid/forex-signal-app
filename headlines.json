@@ -8,16 +8,6 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Jumps After Hawkish Fed Hold as $1.3400 Nears - DailyForex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5047,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
       "title": "Forex Forecasts \u2013 Fed Decision Threatens Volatility Across USD Pairs - Yahoo Finance",
       "source": "Google News",
       "label": "neutral",
@@ -27,7 +17,7 @@
       ]
     },
     {
-      "title": "Gold, Silver Price Forecast: Fed Decision, Long-Term & Short-Term Outlook - forex.com",
+      "title": "Euro Eases as Markets Brace for BoE, Eurozone Data - TradingPedia",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -41,6 +31,16 @@
       "currencies": []
     },
     {
+      "title": "GBP/USD Signal: Forecast Ahead of BoE and Fed Decisions - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
       "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
       "source": "Google News",
       "label": "bullish",
@@ -48,7 +48,19 @@
       "currencies": []
     },
     {
-      "title": "Forex traders face four major US tests over the next week - Mitrade",
+      "title": "USD/JPY, GBP/JPY Outlook: US Dollar Slides Despite Fed Dissent, BOJ Up Next - FOREX.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7096,
+      "currencies": [
+        "USD",
+        "JPY",
+        "GBP",
+        "JPY"
+      ]
+    },
+    {
+      "title": "Forex traders face four major US tests over the next week - mitrade.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -69,6 +81,13 @@
       "currencies": []
     },
     {
+      "title": "exchange rate - Encyclopedia Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "USD/INR: HSBC Uses Leverage to Win $5.5 Billion in India Forex Deposits - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
@@ -78,81 +97,59 @@
       ]
     },
     {
-      "title": "GBP/USD Signal: Forecast Ahead of BoE and Fed Decisions - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "USD/JPY, GBP/JPY Outlook: US Dollar Slides Despite Fed Dissent, BOJ Up Next - forex.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7096,
-      "currencies": [
-        "USD",
-        "JPY",
-        "GBP",
-        "JPY"
-      ]
-    },
-    {
-      "title": "Earnings call transcript: Euroapi H1 2026 loss widens as stock sinks 26%",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9612,
-      "currencies": []
-    },
-    {
-      "title": "POSCO Q2 2026 slides: lithium turns profitable, operating margin expands",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9512,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Newmont Goldcorp Corp For: 30 July",
+      "title": "Why Americans are leasing fewer cars",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Mizuho Q1 profit jumps 45%, hikes annual forecast",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.876,
-      "currencies": []
-    },
-    {
-      "title": "Spain\u2019s economic growth accelerates to 0.7% in second quarter",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9557,
-      "currencies": []
-    },
-    {
-      "title": "Ayvens reports Q2 profit miss on used car weakness",
+      "title": "Trump\u2019s DOJ charged hundreds with assaulting officers. Many cases were dropped, but the damage was done",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9626,
+      "score": -0.8471,
       "currencies": []
     },
     {
-      "title": "With fields destroyed and hives lost, Gaza\u2019s beekeepers struggle to start over",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8111,
-      "currencies": []
-    },
-    {
-      "title": "Drax confirms 2026 EBITDA outlook, sets 2029 target range",
+      "title": "Why is JC Decaux stock rallying today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Cigna beats Q2 estimates, lifts earnings guidance",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9243,
+      "currencies": []
+    },
+    {
+      "title": "Magnum Ice Cream tops earnings forecast as cost cuts kick in",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9005,
+      "currencies": []
+    },
+    {
+      "title": "WESCO earnings beat by $0.59, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9405,
+      "currencies": []
+    },
+    {
+      "title": "Dollar steady as Fed ambiguity, rate hike fears weigh; euro, pound digest policy",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6473,
+      "currencies": []
+    },
+    {
+      "title": "DSM-Firmenich surges 12% on strong Q2 beat, upbeat outlook",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9448,
       "currencies": []
     }
   ],

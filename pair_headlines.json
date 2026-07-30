@@ -1,26 +1,6 @@
 {
   "run_id": 1,
   "pairs": {
-    "GBP/USD": [
-      {
-        "title": "GBP/USD Jumps After Hawkish Fed Hold as $1.3400 Nears - DailyForex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.5047
-      },
-      {
-        "title": "GBP/USD Signal: Forecast Ahead of BoE and Fed Decisions - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "USD/JPY, GBP/JPY Outlook: US Dollar Slides Despite Fed Dissent, BOJ Up Next - forex.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.7096
-      }
-    ],
     "USD/JPY": [
       {
         "title": "Forex Forecasts \u2013 Fed Decision Threatens Volatility Across USD Pairs - Yahoo Finance",
@@ -29,44 +9,48 @@
         "score": 0.0
       },
       {
+        "title": "USD/JPY, GBP/JPY Outlook: US Dollar Slides Despite Fed Dissent, BOJ Up Next - FOREX.com",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.7096
+      },
+      {
         "title": "USD/INR: HSBC Uses Leverage to Win $5.5 Billion in India Forex Deposits - Bloomberg.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "USD/JPY, GBP/JPY Outlook: US Dollar Slides Despite Fed Dissent, BOJ Up Next - forex.com",
+        "title": "USD/JPY stumbles lower in quick drop before slight bounce back",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.9198
+      },
+      {
+        "title": "USD/JPY spikes to the downside after the FOMC decision, but dollar losses are set to be short-lived",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.83
+      },
+      {
+        "title": "Japanese Yen: BoJ tone could lift JPY against US Dollar \u2013 Commerzbank",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9051
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Signal: Forecast Ahead of BoE and Fed Decisions - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "USD/JPY, GBP/JPY Outlook: US Dollar Slides Despite Fed Dissent, BOJ Up Next - FOREX.com",
         "source": "Google News",
         "label": "bearish",
         "score": -0.7096
-      },
-      {
-        "title": "USD/JPY Price Forecast: Rising 20-day EMA backs bullish bias",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8333
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "Euro: Fed split supports EUR against US Dollar \u2013 Commerzbank",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.6637
-      },
-      {
-        "title": "EUR/USD Price Forecast: A bullish comeback seems underway",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9302
-      }
-    ],
-    "USD/CAD": [
-      {
-        "title": "USD/CAD Price Forecast: Rebounds above 1.4050, constructive outlook prevails above 100-day SMA",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9201
       }
     ]
   }
