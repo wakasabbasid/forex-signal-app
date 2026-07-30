@@ -1,26 +1,33 @@
 {
   "headlines": [
     {
-      "title": "$32 Billion Inflows From India\u2019s Forex Drive Yet to Boost Rupee: In Charts - Bloomberg.com",
+      "title": "LINK FOREX Advances Its International Growth Strategy to Build a More Professional, Intelligent, and Compliant Global Investment Services Platform - Yahoo Finance",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.8175,
       "currencies": []
     },
     {
-      "title": "USD/BRL set to extend gains as risk anxiety builds again - dailyforex.com",
+      "title": "$32 Billion Inflows From India\u2019s Forex Drive Yet to Boost Rupee: In Charts - Bloomberg",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.7122,
+      "score": 0.8807,
+      "currencies": []
+    },
+    {
+      "title": "USD/BRL set to extend gains as risk anxiety builds again - DailyForex",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8393,
       "currencies": [
         "USD"
       ]
     },
     {
-      "title": "Yen surges, analysts suspect official Japanese intervention By Reuters - Investing.com",
+      "title": "Japanese Yen Surges as MOF Steals the BOJ's Thunder After FOMC - FOREX.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.5511,
       "currencies": []
     },
     {
@@ -31,25 +38,25 @@
       "currencies": []
     },
     {
-      "title": "Forex card vs currency notes: Key differences every traveller should know - Planning an international trip? BookMyForex card now offers cashback, hotel booking discounts and airport transfer voucher - The Economic Times",
+      "title": "Yen surges, analysts suspect official Japanese intervention By Reuters - Investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Forex Forecasts \u2013 US Dollar Flexes Strength Across EUR/USD, GBP/USD, and USD/CHF - Yahoo Finance UK",
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9337,
-      "currencies": [
-        "EUR",
-        "USD",
-        "GBP",
-        "USD",
-        "USD",
-        "CHF"
-      ]
+      "score": 0.9371,
+      "currencies": []
+    },
+    {
+      "title": "Forex card vs currency notes: Key differences every traveller should know - Planning an international trip? BookMyForex card now offers cashback, hotel booking discounts and airport transfer voucher - The Economic Times",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "USD/JPY stumbles lower in quick drop before slight bounce back - investingLive",
@@ -60,13 +67,6 @@
         "USD",
         "JPY"
       ]
-    },
-    {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
-      "currencies": []
     },
     {
       "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
@@ -83,70 +83,63 @@
       "currencies": []
     },
     {
-      "title": "Forex traders face four major US tests over the next week - mitrade.com",
+      "title": "Forex traders face four major US tests over the next week - Mitrade",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Euro Eases as Markets Brace for BoE, Eurozone Data - TradingPedia",
-      "source": "Google News",
+      "title": "Trump says \u2019Board of Peace\u2019 reaches Gaza disarmament deal",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Microsoft rally lifts stocks, 30-year Treasury\u00a0yield hits 19-year peak",
+      "title": "Earnings call transcript: Axos beats Q4 2026 estimates as shares rise after hours",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5875,
+      "score": 0.9062,
       "currencies": []
     },
     {
-      "title": "Form 4 Sonos Inc For: 30 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "OFS Capital Corp earnings beat by $0.19, revenue fell short of estimates",
+      "title": "Gallagher Q2 2026 slides show 6% organic growth, margin expansion",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.4974,
+      "score": 0.8017,
       "currencies": []
     },
     {
-      "title": "Voya Financial declares Q3 dividend of $0.47 per share",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5693,
-      "currencies": []
-    },
-    {
-      "title": "Apple beats on quarterly profit and revenue, but shares slip after hours",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9602,
-      "currencies": []
-    },
-    {
-      "title": "Sonos director Julius Genachowski sells $665,142 in common stock",
+      "title": "Form 4 Globe Life Inc For: 30 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 Bank7 Corp For: 30 July",
+      "title": "Nonprofit groups sue US Agriculture Department over rules on grants",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.937,
+      "currencies": []
+    },
+    {
+      "title": "Globe Life EVP & CFO Kalmbach sells $3.78m in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 144 CYTOKINETICS For: 30 July",
+      "title": "Form 4 Blink Charging Co For: 30 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Cintas Corporation For: 30 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

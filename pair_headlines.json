@@ -3,46 +3,24 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "USD/BRL set to extend gains as risk anxiety builds again - dailyforex.com",
+        "title": "USD/BRL set to extend gains as risk anxiety builds again - DailyForex",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.7122
+        "score": 0.8393
       },
       {
         "title": "USD/JPY stumbles lower in quick drop before slight bounce back - investingLive",
         "source": "Google News",
         "label": "bearish",
         "score": -0.8834
-      },
-      {
-        "title": "The USD is moving sharply lower led by the USDJPY. What are the charts telling traders NOW?",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.8867
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "Forex Forecasts \u2013 US Dollar Flexes Strength Across EUR/USD, GBP/USD, and USD/CHF - Yahoo Finance UK",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.9337
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "Forex Forecasts \u2013 US Dollar Flexes Strength Across EUR/USD, GBP/USD, and USD/CHF - Yahoo Finance UK",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.9337
       }
     ],
     "USD/CHF": [
       {
-        "title": "Forex Forecasts \u2013 US Dollar Flexes Strength Across EUR/USD, GBP/USD, and USD/CHF - Yahoo Finance UK",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.9337
+        "title": "USD/CHF Price Forecast: 50-day SMA guards bullish structure",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.4946
       }
     ]
   }
