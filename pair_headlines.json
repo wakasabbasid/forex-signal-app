@@ -15,10 +15,28 @@
         "score": 0.6676
       },
       {
-        "title": "GBP/JPY Price Forecast: Bulls reclaim 218.00 as RSI improves",
+        "title": "EUR/JPY Price Forecast: Trades near 187.00 after pulling back from ascending channel top",
         "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bearish",
+        "score": -0.5858
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD remains below $58.00 amid Fed hawkish pause",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9567
+      },
+      {
+        "title": "$4,100: Gold fails near a key hurdle as Mideast tensions and Fed hike bets support USD",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.4861
+      },
+      {
+        "title": "Canadian Dollar consolidates as Mideast crisis supports oil and USD ahead of US data",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.6911
       }
     ],
     "GBP/USD": [
@@ -27,34 +45,22 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "Forex Forecasts \u2013 US Dollar Flexes Strength Across EUR/USD, GBP/USD, and USD/CHF - Yahoo Finance Singapore",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.935
-      },
-      {
-        "title": "GBP/JPY Price Forecast: Bulls reclaim 218.00 as RSI improves",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
       }
     ],
     "EUR/USD": [
       {
-        "title": "Forex Forecasts \u2013 US Dollar Flexes Strength Across EUR/USD, GBP/USD, and USD/CHF - Yahoo Finance Singapore",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.935
+        "title": "EUR/JPY Price Forecast: Trades near 187.00 after pulling back from ascending channel top",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.5858
       }
     ],
-    "USD/CHF": [
+    "AUD/USD": [
       {
-        "title": "Forex Forecasts \u2013 US Dollar Flexes Strength Across EUR/USD, GBP/USD, and USD/CHF - Yahoo Finance Singapore",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.935
+        "title": "AUD/USD Price Forecast: Struggles near 0.6950 as bears retain control below 100-EMA on H4",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8219
       }
     ]
   }

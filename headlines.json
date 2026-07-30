@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "$32 Billion Inflows From India\u2019s Forex Drive Yet to Boost Rupee: In Charts - Bloomberg",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8807,
+      "currencies": []
+    },
+    {
       "title": "Forex Forecasts \u2013 Fed Decision Threatens Volatility Across USD Pairs - Yahoo Finance",
       "source": "Google News",
       "label": "neutral",
@@ -8,6 +15,13 @@
       "currencies": [
         "USD"
       ]
+    },
+    {
+      "title": "Gold, Silver Price Forecast: Fed Decision, Long-Term & Short-Term Outlook - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "GBP/USD Signal: Forecast Ahead of BoE and Fed Decisions - DailyForex",
@@ -27,10 +41,31 @@
       "currencies": []
     },
     {
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9371,
+      "currencies": []
+    },
+    {
       "title": "Russian rouble falls past 80 per dollar for first time since April - Investing.com",
       "source": "Google News",
       "label": "bearish",
       "score": -0.6639,
+      "currencies": []
+    },
+    {
+      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex traders face four major US tests over the next week - Mitrade",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -43,7 +78,7 @@
       ]
     },
     {
-      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
+      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -57,101 +92,59 @@
       "currencies": []
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
-      "currencies": []
-    },
-    {
-      "title": "Forex traders face four major US tests over the next week - Mitrade",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "exchange rate - Encyclopedia Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Forecasts \u2013 US Dollar Flexes Strength Across EUR/USD, GBP/USD, and USD/CHF - Yahoo Finance Singapore",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.935,
-      "currencies": [
-        "EUR",
-        "USD",
-        "GBP",
-        "USD",
-        "USD",
-        "CHF"
-      ]
-    },
-    {
-      "title": "Perseus Mining June 2026 slides: record cashflow, Nyanzaga on track",
+      "title": "Asian stocks stutters after rout, Fed leaves markets guessing on rates",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8126,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 American Airlines Group For: 29 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "American Airlines vice chair Stephen Johnson sells $1.34m in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Saluda Medical tops FY 2026 revenue guidance as growth accelerates",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9037,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Scribe Therapeutics For: 29 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Oncology Institute Inc For: 29 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Trump is weighing another two-week campaign of strikes against Iran",
-      "source": "ForexLive",
       "label": "bearish",
-      "score": -0.4841,
+      "score": -0.8106,
       "currencies": []
     },
     {
-      "title": "Shares of Microsoft extend gains to 7% after hours on capex guide",
-      "source": "ForexLive",
+      "title": "Hexaware Q2 2026 presentation: revenue rises but outlook trimmed to 6-7%",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9317,
+      "score": 0.6377,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Achieve Life Sciences Inc For: 29 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 IMC Rare Earths Ltd For: 29 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Brookfield Asset Management Inc For: 29 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Fed interest rate hikes: These three stocks are seen as best positioned",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Hexaware cuts 2026 outlook after solid Q2 growth",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9477,
+      "currencies": []
+    },
+    {
+      "title": "Pantoro June Q4 2026 slides: production rises, costs elevated",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7263,
       "currencies": []
     }
   ],
