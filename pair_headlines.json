@@ -3,6 +3,18 @@
   "pairs": {
     "USD/JPY": [
       {
+        "title": "USD/BRL set to extend gains as risk anxiety builds again - DailyForex",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.8393
+      },
+      {
+        "title": "USD/JPY stumbles lower in quick drop before slight bounce back - investingLive",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.8834
+      },
+      {
         "title": "The USD is moving sharply lower led by the USDJPY. What are the charts telling traders NOW?",
         "source": "ForexLive",
         "label": "bearish",
@@ -15,24 +27,34 @@
         "score": -0.9227
       },
       {
-        "title": "Japanese Yen surges on suspected intervention, EUR/JPY tumbles 400 pips in minutes",
+        "title": "British Pound surges on BoE hawkish hold, Yen intervention crushes USD",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9038
-      },
-      {
-        "title": "Breaking: Japanese Yen surges on suspected intervention, USD/JPY plunges below 160.00",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.946
+        "score": -0.8715
       }
     ],
     "EUR/USD": [
       {
-        "title": "Japanese Yen surges on suspected intervention, EUR/JPY tumbles 400 pips in minutes",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9038
+        "title": "Forex Forecasts \u2013 US Dollar Flexes Strength Across EUR/USD, GBP/USD, and USD/CHF - Yahoo Finance UK",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.9337
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "Forex Forecasts \u2013 US Dollar Flexes Strength Across EUR/USD, GBP/USD, and USD/CHF - Yahoo Finance UK",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.9337
+      }
+    ],
+    "USD/CHF": [
+      {
+        "title": "Forex Forecasts \u2013 US Dollar Flexes Strength Across EUR/USD, GBP/USD, and USD/CHF - Yahoo Finance UK",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.9337
       }
     ]
   }

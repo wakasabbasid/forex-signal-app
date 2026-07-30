@@ -1,147 +1,155 @@
 {
   "headlines": [
     {
-      "title": "Greece stocks higher at close of trade; Athens General Composite up 1.25%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9421,
+      "title": "$32 Billion Inflows From India\u2019s Forex Drive Yet to Boost Rupee: In Charts - Bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Microchip Technology stock may move 12% on earnings release",
-      "source": "Investing.com",
+      "title": "USD/BRL set to extend gains as risk anxiety builds again - DailyForex",
+      "source": "Google News",
       "label": "bullish",
-      "score": 0.7893,
+      "score": 0.8393,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Microsoft Climbs as Cloud Business Powers Earnings - TradingPedia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.4947,
       "currencies": []
     },
     {
-      "title": "Braveheart Bio targets $1.2 billion valuation in US IPO",
+      "title": "Yen surges, analysts suspect official Japanese intervention By Reuters - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex card vs currency notes: Key differences every traveller should know - Planning an international trip? BookMyForex card now offers cashback, hotel booking discounts and airport transfer voucher - The Economic Times",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "USD/JPY stumbles lower in quick drop before slight bounce back - investingLive",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8834,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "Forex Forecasts \u2013 US Dollar Flexes Strength Across EUR/USD, GBP/USD, and USD/CHF - Yahoo Finance UK",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9337,
+      "currencies": [
+        "EUR",
+        "USD",
+        "GBP",
+        "USD",
+        "USD",
+        "CHF"
+      ]
+    },
+    {
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - wsj.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.674,
+      "currencies": []
+    },
+    {
+      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex traders face four major US tests over the next week - Mitrade",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Migrants cross border into Spain\u2019s Ceuta, overwhelming police, Guardia Civil says",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5835,
+      "currencies": []
+    },
+    {
+      "title": "Explainer-What to know about the US outbreak of cyclosporiasis intestinal illness",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Zoox gets approval to deploy robotaxis after safety review",
+      "title": "Earnings call transcript: Viridien H1 2026 cash flow improves as revenue falls",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9123,
+      "score": 0.9554,
       "currencies": []
     },
     {
-      "title": "Yen soars, markets suspect Japan intervention",
+      "title": "Regency Centers Q2 2026 slides: occupancy hits 97%, guidance raised",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7716,
+      "currencies": []
+    },
+    {
+      "title": "Jersey Mike\u2019s shares fall 8.7% in New York debut",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7954,
+      "score": -0.9706,
       "currencies": []
     },
     {
-      "title": "China\u2019s Xiaomi launches SkyNomad SUV series offering space and reconfigurable interiors",
+      "title": "Ivanhoe Mines Q2 2026 slides: record zinc output, copper guidance tightened",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7783,
+      "score": 0.6079,
       "currencies": []
     },
     {
-      "title": "Alnylam Q2 2026 slides show strong growth amid guidance cut, stock plunge",
+      "title": "Cyclosporiasis cases in Michigan rise to 10,386 in ongoing outbreak",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8943,
+      "score": 0.8779,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Wendel lifts H1 2026 NAV and FRE as asset platform grows",
+      "title": "US government map of Africa\u00a0mislabels every country at global conference",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8645,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: KKR posts record Q2 2026 results, beats estimates",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8659,
-      "currencies": []
-    },
-    {
-      "title": "Adamas Q2 2026 slides: EAD jumps 36%, book value rises for 4th quarter",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9241,
-      "currencies": []
-    },
-    {
-      "title": "Atlanta Fed GDPNow initial estimate for Q3 is set at 5.0%.",
-      "source": "ForexLive",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "The USD is moving sharply lower led by the USDJPY. What are the charts telling traders NOW?",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.8867,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Rebound. Nasdaq indices are leading the way higher",
-      "source": "ForexLive",
-      "label": "bullish",
-      "score": 0.8395,
-      "currencies": []
-    },
-    {
-      "title": "USDJPY moves sharply lower",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.6996,
-      "currencies": []
-    },
-    {
-      "title": "WH Advisor Hassett: Inflation is continuing to ease",
-      "source": "ForexLive",
-      "label": "bullish",
-      "score": 0.9249,
-      "currencies": []
-    },
-    {
-      "title": "US June PCE inflation 3.7% vs 3.7%% expected. Core 3.3% vs 3.3% expected",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.6697,
-      "currencies": []
-    },
-    {
-      "title": "US initial jobless claims 197K versus 200K expected",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.9503,
-      "currencies": []
-    },
-    {
-      "title": "The USD is mostly lower to kickstart July 30 trading in the NA session",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.9227,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "US Q2 advance GDP +1.5% vs +2.1% expected",
-      "source": "ForexLive",
-      "label": "bullish",
-      "score": 0.4868,
-      "currencies": []
-    },
-    {
-      "title": "investingLive European markets wrap: Dollar extends post-Fed drop, BOE keeps bank rate unchanged",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.7685,
       "currencies": []
     }
   ],
