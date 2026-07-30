@@ -17,13 +17,6 @@
       ]
     },
     {
-      "title": "Microsoft Climbs as Cloud Business Powers Earnings - TradingPedia",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.4947,
-      "currencies": []
-    },
-    {
       "title": "Yen surges, analysts suspect official Japanese intervention By Reuters - Investing.com",
       "source": "Google News",
       "label": "neutral",
@@ -45,16 +38,6 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY stumbles lower in quick drop before slight bounce back - investingLive",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8834,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
       "title": "Forex Forecasts \u2013 US Dollar Flexes Strength Across EUR/USD, GBP/USD, and USD/CHF - Yahoo Finance UK",
       "source": "Google News",
       "label": "bullish",
@@ -69,10 +52,27 @@
       ]
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - wsj.com",
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.674,
+      "score": 0.9371,
+      "currencies": []
+    },
+    {
+      "title": "USD/JPY stumbles lower in quick drop before slight bounce back - investingLive",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8834,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "Euro Eases as Markets Brace for BoE, Eurozone Data - TradingPedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -83,7 +83,7 @@
       "currencies": []
     },
     {
-      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
+      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - cfr.org",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -97,56 +97,56 @@
       "currencies": []
     },
     {
-      "title": "Migrants cross border into Spain\u2019s Ceuta, overwhelming police, Guardia Civil says",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5835,
-      "currencies": []
-    },
-    {
-      "title": "Explainer-What to know about the US outbreak of cyclosporiasis intestinal illness",
+      "title": "Form 144 ASSOCIATED BANC-CORP For: 30 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Viridien H1 2026 cash flow improves as revenue falls",
+      "title": "Form 4 Broadway Financial Corporation For: 30 July",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9554,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Regency Centers Q2 2026 slides: occupancy hits 97%, guidance raised",
+      "title": "Form 4 Franklin Financial Services Corp For: 30 July",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7716,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Jersey Mike\u2019s shares fall 8.7% in New York debut",
+      "title": "TXNM Energy faces earnings test amid Blackstone merger uncertainty",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9706,
+      "score": -0.9693,
       "currencies": []
     },
     {
-      "title": "Ivanhoe Mines Q2 2026 slides: record zinc output, copper guidance tightened",
+      "title": "Coinbase earnings ahead: Can new products offset trading slump?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Leonardo raises 2026 guidance after strong order growth",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6079,
+      "score": 0.9359,
       "currencies": []
     },
     {
-      "title": "Cyclosporiasis cases in Michigan rise to 10,386 in ongoing outbreak",
+      "title": "Natwest Group earnings on deck: Can structural hedge sustain momentum?",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8779,
+      "score": 0.7241,
       "currencies": []
     },
     {
-      "title": "US government map of Africa\u00a0mislabels every country at global conference",
+      "title": "Citigroup recommends dollar-yen trade ahead of BOJ decision",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
