@@ -15,21 +15,21 @@
       "currencies": []
     },
     {
-      "title": "Yen strengthens on possible intervention - The Japan Times",
+      "title": "Forex Seasonality \u2013 August 2026: GBP/USD\u2019s Most Bearish Month - FOREX.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.8125,
-      "currencies": []
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
     },
     {
-      "title": "USD / CAD - Canadian Dollar ekes out a gain - Baystreet.ca",
+      "title": "$32 Billion Inflows From India\u2019s Forex Drive Yet to Boost Rupee: In Charts - Bloomberg.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.9401,
-      "currencies": [
-        "USD",
-        "CAD"
-      ]
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "India\u2019s forex reserves climb to $682.3 billion two-month high By Investing.com - Investing.com Nigeria",
@@ -39,10 +39,10 @@
       "currencies": []
     },
     {
-      "title": "$32 Billion Inflows From India\u2019s Forex Drive Yet to Boost Rupee: In Charts - Bloomberg.com",
+      "title": "Yen strengthens on possible intervention - The Japan Times",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.8125,
       "currencies": []
     },
     {
@@ -69,20 +69,6 @@
       "currencies": []
     },
     {
-      "title": "India's forex reserves surge by $6.12 billion to $682.35 billion - Firstpost",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9341,
-      "currencies": []
-    },
-    {
-      "title": "South Korean and Japanese shares soar on global semiconductor rally, forex intervention - The Standard (HK)",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5826,
-      "currencies": []
-    },
-    {
       "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
       "source": "Google News",
       "label": "bullish",
@@ -90,59 +76,78 @@
       "currencies": []
     },
     {
-      "title": "Short sellers pile into SpaceX ahead of earnings, lockup expiration",
+      "title": "USD / CAD - Canadian Dollar ekes out a gain - Baystreet.ca",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9401,
+      "currencies": [
+        "USD",
+        "CAD"
+      ]
+    },
+    {
+      "title": "India's forex reserves surge by $6.12 billion to $682.35 billion - Firstpost",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9341,
+      "currencies": []
+    },
+    {
+      "title": "WestJet starts parking Boeing 737 jets ahead of looming labor strike",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Chinese tech stocks: valuation discounts, risks, and cautious entry points",
+      "title": "KKR nearing deal to acquire Integer Holdings, WSJ reports",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7627,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Northwest European gasoline margins drop over $3 on Friday",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9703,
-      "currencies": []
-    },
-    {
-      "title": "Wall Street gains on tech earnings; bond yields hit multi-year highs",
+      "title": "Integer Holdings stock surges 21% on KKR takeover report",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9277,
+      "score": 0.9084,
       "currencies": []
     },
     {
-      "title": "Form 4 Grupo Cibest S.A. For: 31 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Nike stock analysis: deep value or value trap as China gamble unfolds",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Saipem receives US antitrust clearance for Subsea7 merger",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6719,
-      "currencies": []
-    },
-    {
-      "title": "New York sues Kalshi, says its prediction markets are illegal gambling",
+      "title": "Evercore ISI reiterates Outperform on Booking Holdings stock",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8781,
+      "score": -0.8313,
+      "currencies": []
+    },
+    {
+      "title": "Fed dissenters sketch the case for a rate hike",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.4018,
+      "currencies": []
+    },
+    {
+      "title": "Amazon sued by consumers over seafood sustainability claims",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9146,
+      "currencies": []
+    },
+    {
+      "title": "Integer Holdings Corp stock hits 52-week high at 112.01 USD",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.515,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Trump\u2019s powerful but unofficial Venezuela adviser leaves his role",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6913,
       "currencies": []
     }
   ],

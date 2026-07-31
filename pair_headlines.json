@@ -1,12 +1,12 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/CAD": [
+    "GBP/USD": [
       {
-        "title": "USD / CAD - Canadian Dollar ekes out a gain - Baystreet.ca",
+        "title": "Forex Seasonality \u2013 August 2026: GBP/USD\u2019s Most Bearish Month - FOREX.com",
         "source": "Google News",
-        "label": "bullish",
-        "score": 0.9401
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "USD/JPY": [
@@ -15,6 +15,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "Integer Holdings Corp stock hits 52-week high at 112.01 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.515
       },
       {
         "title": "USD moves higher as employee benefits rise and so do yields.",
@@ -33,6 +39,14 @@
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.5914
+      }
+    ],
+    "USD/CAD": [
+      {
+        "title": "USD / CAD - Canadian Dollar ekes out a gain - Baystreet.ca",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.9401
       }
     ]
   }
