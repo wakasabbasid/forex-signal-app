@@ -22,6 +22,23 @@
       "currencies": []
     },
     {
+      "title": "USD / CAD - Canadian Dollar ekes out a gain - Baystreet.ca",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9401,
+      "currencies": [
+        "USD",
+        "CAD"
+      ]
+    },
+    {
+      "title": "India\u2019s forex reserves climb to $682.3 billion two-month high By Investing.com - Investing.com Nigeria",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8708,
+      "currencies": []
+    },
+    {
       "title": "$32 Billion Inflows From India\u2019s Forex Drive Yet to Boost Rupee: In Charts - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
@@ -38,13 +55,6 @@
       ]
     },
     {
-      "title": "LINK FOREX Advances Its International Growth Strategy to Build a More Professional, Intelligent, and Compliant Global Investment Services Platform - Yahoo Finance",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8175,
-      "currencies": []
-    },
-    {
       "title": "Indian rupee posts strongest week since March on central bank support - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -52,10 +62,17 @@
       "currencies": []
     },
     {
-      "title": "Yen spikes as media report says Japanese government intervened in currency markets - Investing.com",
+      "title": "LINK FOREX Advances Its International Growth Strategy to Build a More Professional, Intelligent, and Compliant Global Investment Services Platform - Yahoo Finance",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.8175,
+      "currencies": []
+    },
+    {
+      "title": "India's forex reserves surge by $6.12 billion to $682.35 billion - Firstpost",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9341,
       "currencies": []
     },
     {
@@ -66,25 +83,6 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY extends rebound above 160 after intervention play and BOJ decision - investingLive",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8344,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
       "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
       "source": "Google News",
       "label": "bullish",
@@ -92,61 +90,59 @@
       "currencies": []
     },
     {
-      "title": "GLPI Q2 2026 slides: AFFO guidance raised, dividend up 5%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9519,
-      "currencies": []
-    },
-    {
-      "title": "Gates Q2 2026 slides: record results, raised guidance on recovery",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9225,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Franklin Templeton beats Q3 2026 estimates on revenue",
+      "title": "Short sellers pile into SpaceX ahead of earnings, lockup expiration",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Pembina Pipeline posts stronger Q2 2026 results",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9426,
-      "currencies": []
-    },
-    {
-      "title": "Foresight Enterprise VCT appoints James Barnes as director",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Weyerhaeuser tops Q2 2026 estimates as shares rise 4.4%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9397,
-      "currencies": []
-    },
-    {
-      "title": "Group 1 Automotive stock hits 52-week low at 279.04 USD",
+      "title": "Chinese tech stocks: valuation discounts, risks, and cautious entry points",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9599,
-      "currencies": [
-        "USD"
-      ]
+      "score": -0.7627,
+      "currencies": []
     },
     {
-      "title": "Form 144 Garmin Ltd. For: 31 July",
+      "title": "Northwest European gasoline margins drop over $3 on Friday",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9703,
+      "currencies": []
+    },
+    {
+      "title": "Wall Street gains on tech earnings; bond yields hit multi-year highs",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9277,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Grupo Cibest S.A. For: 31 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Nike stock analysis: deep value or value trap as China gamble unfolds",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Saipem receives US antitrust clearance for Subsea7 merger",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6719,
+      "currencies": []
+    },
+    {
+      "title": "New York sues Kalshi, says its prediction markets are illegal gambling",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8781,
       "currencies": []
     }
   ],

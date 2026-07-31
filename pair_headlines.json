@@ -1,6 +1,14 @@
 {
   "run_id": 1,
   "pairs": {
+    "USD/CAD": [
+      {
+        "title": "USD / CAD - Canadian Dollar ekes out a gain - Baystreet.ca",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.9401
+      }
+    ],
     "USD/JPY": [
       {
         "title": "USD/INR Monthly Forecast: August 2026 - DailyForex",
@@ -9,40 +17,22 @@
         "score": 0.0
       },
       {
-        "title": "USD/JPY extends rebound above 160 after intervention play and BOJ decision - investingLive",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.8344
-      },
-      {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.6676
-      },
-      {
-        "title": "Group 1 Automotive stock hits 52-week low at 279.04 USD",
-        "source": "Investing.com",
-        "label": "bearish",
-        "score": -0.9599
-      },
-      {
         "title": "USD moves higher as employee benefits rise and so do yields.",
         "source": "ForexLive",
         "label": "bullish",
         "score": 0.8669
       },
       {
-        "title": "The USD is higher to start the NA session.  How are the charts impacting trader bias?",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
+        "title": "Silver Price Forecast: XAG/USD consolidates above $55 as downside momentum eases",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9181
       },
       {
-        "title": "investingLive European markets wrap: Eurozone inflation ticks up in July; USD/JPY intervention again?",
-        "source": "ForexLive",
+        "title": "British Pound holds firm as USD rebounds from intervention rout",
+        "source": "FXStreet",
         "label": "bullish",
-        "score": 0.8574
+        "score": 0.5914
       }
     ]
   }
