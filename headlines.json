@@ -8,6 +8,13 @@
       "currencies": []
     },
     {
+      "title": "Esoteric Forex Drama Blasts Bonds, Maybe - Mortgage News Daily",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Bessent Suggests Japan May Have Intervened into Forex Markets - nippon.com",
       "source": "Google News",
       "label": "neutral",
@@ -39,13 +46,6 @@
       "currencies": []
     },
     {
-      "title": "Yen strengthens on possible intervention - The Japan Times",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8125,
-      "currencies": []
-    },
-    {
       "title": "USD/INR Monthly Forecast: August 2026 - DailyForex",
       "source": "Google News",
       "label": "neutral",
@@ -71,11 +71,13 @@
       ]
     },
     {
-      "title": "LINK FOREX Advances Its International Growth Strategy to Build a More Professional, Intelligent, and Compliant Global Investment Services Platform - Yahoo Finance",
+      "title": "Forex Forecasts \u2013 Fed Decision Threatens Volatility Across USD Pairs - Yahoo Finance",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.8175,
-      "currencies": []
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
@@ -85,69 +87,66 @@
       "currencies": []
     },
     {
-      "title": "USD / CAD - Canadian Dollar ekes out a gain - Baystreet.ca",
+      "title": "Yen strengthens on possible intervention - The Japan Times",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9401,
-      "currencies": [
-        "USD",
-        "CAD"
-      ]
+      "score": 0.8125,
+      "currencies": []
     },
     {
-      "title": "Form 4 Mind Technology Inc For: 31 July",
+      "title": "Form 4 DLH Holdings Corp For: 31 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 144 PC CONNECTION For: 31 July",
+      "title": "DLH Holdings director Mink Brook Asset Management buys $2,396 stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 Hanover Insurance Group Inc For: 31 July",
+      "title": "DLH Holdings: Mink Brook Asset Management, 10% owner, buys $77,534 stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "System1 rating upgraded by S&P on debt restructuring",
+      "title": "Form 4 Beyond Air Inc For: 31 July",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9066,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Exclusive-OpenAI finds evidence other AI agents escaped containment as it widens hacking probe",
+      "title": "Form 4 Enphase Energy Inc For: 31 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US Commodity Futures Trading Commission fines George Santos for alleged manipulative trading",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7681,
+      "score": -0.9078,
       "currencies": []
     },
     {
-      "title": "KKR nearing deal to buy medical device firm Integer, WSJ reports",
+      "title": "Trump approves new Iran strikes that could begin this weekend - WSJ",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Broader US stock indices close higher but near key technical levels heading into the weekend",
+      "title": "investingLive Americas FX news wrap 31 Jul; It's a wrap for the month of July",
       "source": "ForexLive",
-      "label": "bullish",
-      "score": 0.8873,
-      "currencies": []
-    },
-    {
-      "title": "GBPUSD buyers push the price above a swing area target.",
-      "source": "ForexLive",
-      "label": "bullish",
-      "score": 0.6703,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

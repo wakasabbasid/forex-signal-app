@@ -23,18 +23,16 @@
         "score": 0.6676
       },
       {
+        "title": "Forex Forecasts \u2013 Fed Decision Threatens Volatility Across USD Pairs - Yahoo Finance",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
         "title": "Silver Price Forecast: XAG/USD consolidates above $55 as downside momentum eases",
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.9181
-      }
-    ],
-    "USD/CAD": [
-      {
-        "title": "USD / CAD - Canadian Dollar ekes out a gain - Baystreet.ca",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.9401
       }
     ],
     "NZD/USD": [
