@@ -17,28 +17,16 @@
         "score": 0.0
       },
       {
-        "title": "Integer Holdings Corp stock hits 52-week high at 112.01 USD",
-        "source": "Investing.com",
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+        "source": "Google News",
         "label": "bullish",
-        "score": 0.515
-      },
-      {
-        "title": "USD moves higher as employee benefits rise and so do yields.",
-        "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.8669
+        "score": 0.6676
       },
       {
         "title": "Silver Price Forecast: XAG/USD consolidates above $55 as downside momentum eases",
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.9181
-      },
-      {
-        "title": "British Pound holds firm as USD rebounds from intervention rout",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.5914
       }
     ],
     "USD/CAD": [
@@ -47,6 +35,22 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.9401
+      }
+    ],
+    "NZD/USD": [
+      {
+        "title": "NZD/USD Price Forecast: Bulls eye 0.6000 after SMA break",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "USD/CHF": [
+      {
+        "title": "USD/CHF Price Forecast: Bulls defend 50-day SMA as rebound builds",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.7774
       }
     ]
   }

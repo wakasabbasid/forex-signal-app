@@ -25,10 +25,10 @@
       ]
     },
     {
-      "title": "$32 Billion Inflows From India\u2019s Forex Drive Yet to Boost Rupee: In Charts - Bloomberg.com",
+      "title": "$32 Billion Inflows From India\u2019s Forex Drive Yet to Boost Rupee: In Charts - Bloomberg",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.8807,
       "currencies": []
     },
     {
@@ -62,6 +62,15 @@
       "currencies": []
     },
     {
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "LINK FOREX Advances Its International Growth Strategy to Build a More Professional, Intelligent, and Compliant Global Investment Services Platform - Yahoo Finance",
       "source": "Google News",
       "label": "bullish",
@@ -86,68 +95,59 @@
       ]
     },
     {
-      "title": "India's forex reserves surge by $6.12 billion to $682.35 billion - Firstpost",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9341,
-      "currencies": []
-    },
-    {
-      "title": "WestJet starts parking Boeing 737 jets ahead of looming labor strike",
+      "title": "Form 4 Mind Technology Inc For: 31 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "KKR nearing deal to acquire Integer Holdings, WSJ reports",
+      "title": "Form 144 PC CONNECTION For: 31 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Integer Holdings stock surges 21% on KKR takeover report",
+      "title": "Form 4 Hanover Insurance Group Inc For: 31 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "System1 rating upgraded by S&P on debt restructuring",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9084,
+      "score": 0.9066,
       "currencies": []
     },
     {
-      "title": "Evercore ISI reiterates Outperform on Booking Holdings stock",
+      "title": "Exclusive-OpenAI finds evidence other AI agents escaped containment as it widens hacking probe",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8313,
+      "score": -0.7681,
       "currencies": []
     },
     {
-      "title": "Fed dissenters sketch the case for a rate hike",
+      "title": "KKR nearing deal to buy medical device firm Integer, WSJ reports",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.4018,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Amazon sued by consumers over seafood sustainability claims",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9146,
-      "currencies": []
-    },
-    {
-      "title": "Integer Holdings Corp stock hits 52-week high at 112.01 USD",
-      "source": "Investing.com",
+      "title": "Broader US stock indices close higher but near key technical levels heading into the weekend",
+      "source": "ForexLive",
       "label": "bullish",
-      "score": 0.515,
-      "currencies": [
-        "USD"
-      ]
+      "score": 0.8873,
+      "currencies": []
     },
     {
-      "title": "Trump\u2019s powerful but unofficial Venezuela adviser leaves his role",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6913,
+      "title": "GBPUSD buyers push the price above a swing area target.",
+      "source": "ForexLive",
+      "label": "bullish",
+      "score": 0.6703,
       "currencies": []
     }
   ],
