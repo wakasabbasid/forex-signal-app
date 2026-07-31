@@ -22,6 +22,13 @@
       "currencies": []
     },
     {
+      "title": "$32 Billion Inflows From India\u2019s Forex Drive Yet to Boost Rupee: In Charts - Bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "USD/INR Monthly Forecast: August 2026 - DailyForex",
       "source": "Google News",
       "label": "neutral",
@@ -31,13 +38,6 @@
       ]
     },
     {
-      "title": "$32 Billion Inflows From India\u2019s Forex Drive Yet to Boost Rupee: In Charts - Bloomberg.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "LINK FOREX Advances Its International Growth Strategy to Build a More Professional, Intelligent, and Compliant Global Investment Services Platform - Yahoo Finance",
       "source": "Google News",
       "label": "bullish",
@@ -45,10 +45,24 @@
       "currencies": []
     },
     {
+      "title": "Indian rupee posts strongest week since March on central bank support - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5884,
+      "currencies": []
+    },
+    {
       "title": "Yen spikes as media report says Japanese government intervened in currency markets - Investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "South Korean and Japanese shares soar on global semiconductor rally, forex intervention - The Standard (HK)",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5826,
       "currencies": []
     },
     {
@@ -62,90 +76,77 @@
       ]
     },
     {
-      "title": "South Korean and Japanese shares soar on global semiconductor rally, forex intervention - The Standard (HK)",
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.5826,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD Slips Toward 1.1500 on Dollar Strength - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9621,
+      "score": 0.6676,
       "currencies": [
-        "EUR",
         "USD"
       ]
     },
     {
-      "title": "Japanese Yen Surges as MOF Steals the BOJ's Thunder After FOMC - FOREX.com",
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
       "source": "Google News",
+      "label": "bullish",
+      "score": 0.9371,
+      "currencies": []
+    },
+    {
+      "title": "GLPI Q2 2026 slides: AFFO guidance raised, dividend up 5%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9519,
+      "currencies": []
+    },
+    {
+      "title": "Gates Q2 2026 slides: record results, raised guidance on recovery",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9225,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Franklin Templeton beats Q3 2026 estimates on revenue",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Pembina Pipeline posts stronger Q2 2026 results",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9426,
+      "currencies": []
+    },
+    {
+      "title": "Foresight Enterprise VCT appoints James Barnes as director",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Weyerhaeuser tops Q2 2026 estimates as shares rise 4.4%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9397,
+      "currencies": []
+    },
+    {
+      "title": "Group 1 Automotive stock hits 52-week low at 279.04 USD",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5511,
-      "currencies": []
+      "score": -0.9599,
+      "currencies": [
+        "USD"
+      ]
     },
     {
-      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Saba Capital, 10% owner, sells $4.6m in BlackRock ECAT shares",
+      "title": "Form 144 Garmin Ltd. For: 31 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Brookdale Senior Living For: 31 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 CorVel Corp For: 31 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 144 Quad/Graphics For: 31 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Nuwellis raises $3.4 million in registered direct offering",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6834,
-      "currencies": []
-    },
-    {
-      "title": "Canadian economy grew by a greater-than-expected 0.3% in May",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9505,
-      "currencies": []
-    },
-    {
-      "title": "Gold prices slide but on track for first monthly gain in five",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7029,
-      "currencies": []
-    },
-    {
-      "title": "Stock futures up a day after big rally on Wall Street; Apple falls, Amazon gains",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5355,
       "currencies": []
     }
   ],

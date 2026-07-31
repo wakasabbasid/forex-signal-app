@@ -15,6 +15,24 @@
         "score": 0.8344
       },
       {
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.6676
+      },
+      {
+        "title": "Group 1 Automotive stock hits 52-week low at 279.04 USD",
+        "source": "Investing.com",
+        "label": "bearish",
+        "score": -0.9599
+      },
+      {
+        "title": "USD moves higher as employee benefits rise and so do yields.",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.8669
+      },
+      {
         "title": "The USD is higher to start the NA session.  How are the charts impacting trader bias?",
         "source": "ForexLive",
         "label": "neutral",
@@ -25,26 +43,6 @@
         "source": "ForexLive",
         "label": "bullish",
         "score": 0.8574
-      },
-      {
-        "title": "Stealth intervention causes wild swings in USD/JPY; focus stays on Middle East and next US CPI",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.7057
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD remains under pressure as bond yields, US Dollar rebound",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9409
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/USD Slips Toward 1.1500 on Dollar Strength - TradingPedia",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9621
       }
     ]
   }
