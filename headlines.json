@@ -22,11 +22,13 @@
       "currencies": []
     },
     {
-      "title": "LINK FOREX Advances Its International Growth Strategy to Build a More Professional, Intelligent, and Compliant Global Investment Services Platform - finance.yahoo.com",
+      "title": "USD/INR Monthly Forecast: August 2026 - DailyForex",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.717,
-      "currencies": []
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "$32 Billion Inflows From India\u2019s Forex Drive Yet to Boost Rupee: In Charts - Bloomberg.com",
@@ -36,13 +38,11 @@
       "currencies": []
     },
     {
-      "title": "USD/BRL set to extend gains as risk anxiety builds again - DailyForex",
+      "title": "LINK FOREX Advances Its International Growth Strategy to Build a More Professional, Intelligent, and Compliant Global Investment Services Platform - Yahoo Finance",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8393,
-      "currencies": [
-        "USD"
-      ]
+      "score": 0.8175,
+      "currencies": []
     },
     {
       "title": "Yen spikes as media report says Japanese government intervened in currency markets - Investing.com",
@@ -62,10 +62,10 @@
       ]
     },
     {
-      "title": "South Korean and Japanese shares soar on global semiconductor rally, forex intervention - thestandard.com.hk",
+      "title": "South Korean and Japanese shares soar on global semiconductor rally, forex intervention - The Standard (HK)",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.5826,
       "currencies": []
     },
     {
@@ -86,66 +86,66 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s forex reserves fall by $7.7 billion to $690 billion: RBI - News On AIR",
+      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9552,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "BrightSpring Health beats Q2 estimates, lifts guidance",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8916,
-      "currencies": []
-    },
-    {
-      "title": "Cr\u00e9dit Agricole Q2 2026 slides: record revenue, AI push, dividend",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8785,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: OMV beats Q2 2026 earnings as Borouge lifts results",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8595,
-      "currencies": []
-    },
-    {
-      "title": "Director buys shares in LSL Property Services",
+      "title": "Saba Capital, 10% owner, sells $4.6m in BlackRock ECAT shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US auto safety regulator probes 1.2 million Tesla vehicles over suspension failures",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9436,
-      "currencies": []
-    },
-    {
-      "title": "France and Spain win some respite, as wildfire battles rage across Europe",
+      "title": "Form 4 Brookdale Senior Living For: 31 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Nuclear company Westinghouse confidentially files for US IPO",
+      "title": "Form 4 CorVel Corp For: 31 July",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6641,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "India stocks higher at close of trade; Nifty 50 up 0.27%",
+      "title": "Form 144 Quad/Graphics For: 31 July",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Nuwellis raises $3.4 million in registered direct offering",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9353,
+      "score": 0.6834,
+      "currencies": []
+    },
+    {
+      "title": "Canadian economy grew by a greater-than-expected 0.3% in May",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9505,
+      "currencies": []
+    },
+    {
+      "title": "Gold prices slide but on track for first monthly gain in five",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7029,
+      "currencies": []
+    },
+    {
+      "title": "Stock futures up a day after big rally on Wall Street; Apple falls, Amazon gains",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5355,
       "currencies": []
     }
   ],
