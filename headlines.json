@@ -1,7 +1,14 @@
 {
   "headlines": [
     {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - reuters.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Bessent Suggests Japan May Have Intervened into Forex Markets - nippon.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -22,27 +29,20 @@
       "currencies": []
     },
     {
-      "title": "USD/BRL set to extend gains as risk anxiety builds again - DailyForex",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8393,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "$32 Billion Inflows From India\u2019s Forex Drive Yet to Boost Rupee: In Charts - Bloomberg",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8807,
-      "currencies": []
-    },
-    {
-      "title": "Yen spikes as media report says Japanese government intervened in currency markets - Investing.com",
+      "title": "$32 Billion Inflows From India\u2019s Forex Drive Yet to Boost Rupee: In Charts - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
+    },
+    {
+      "title": "USD/BRL set to extend gains as risk anxiety builds again - dailyforex.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7122,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "South Korea conducts rare forex intervention alongside Japan, sending won to nine-month high - The Standard (HK)",
@@ -52,20 +52,38 @@
       "currencies": []
     },
     {
-      "title": "Japanese Yen Surges as MOF Steals the BOJ's Thunder After FOMC - FOREX.com",
+      "title": "USD/JPY extends rebound above 160 after intervention play and BOJ decision - investinglive.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6449,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "Yen spikes as media report says Japanese government intervened in currency markets - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "EUR/USD Slips Toward 1.1500 on Dollar Strength - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9621,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "Japanese Yen Surges as MOF Steals the BOJ's Thunder After FOMC - forex.com",
       "source": "Google News",
       "label": "bearish",
       "score": -0.5511,
       "currencies": []
-    },
-    {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
     },
     {
       "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
@@ -75,70 +93,56 @@
       "currencies": []
     },
     {
-      "title": "exchange rate - Encyclopedia Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Russia\u2019s Africa Corps kills Mali civilians in \u2019indiscriminate\u2019 attack, rights group says",
+      "title": "Puma shares dip despite sales beat, narrower-than-expected loss",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8016,
+      "score": -0.9722,
       "currencies": []
     },
     {
-      "title": "Buenaventura Mining ADR earnings beat by $0.17, revenue topped estimates",
+      "title": "JPMorgan reiterates Umicore stock rating on earnings beat",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why is IMI stock rallying today?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "FTSE 100 today: Stocks rise, tracking global tech rally",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9479,
+      "score": 0.761,
       "currencies": []
     },
     {
-      "title": "Asia stocks surge, yen awaits Ueda\u2019s presser after intervention boost",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "China manufacturing PMI unexpectedly slips into contraction in July",
+      "title": "Why is International Consolidated Airlines stock sliding today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9753,
+      "score": -0.9486,
       "currencies": []
     },
     {
-      "title": "Tesla weighs sale of China business to pave way for potential SpaceX merger, WSJ reports",
+      "title": "Tech shares power Europe\u2019s STOXX 600 to record high",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6394,
+      "score": 0.886,
       "currencies": []
     },
     {
-      "title": "Rare Japan-Korea joint intervention shakes up yen and won",
+      "title": "Trump says deal reached to disarm Hamas, Israeli support for plan remains uncertain",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9339,
+      "label": "bullish",
+      "score": 0.6017,
       "currencies": []
     },
     {
-      "title": "Japan quake snarls auto and chip supply chains as toll hits 34",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9213,
-      "currencies": []
-    },
-    {
-      "title": "Explainer-What is US President Donald Trump\u2019s \u2019Board of Peace\u2019?",
+      "title": "Why is NatWest stock climbing today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

@@ -3,42 +3,42 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "USD/BRL set to extend gains as risk anxiety builds again - DailyForex",
+        "title": "USD/BRL set to extend gains as risk anxiety builds again - dailyforex.com",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.8393
+        "score": 0.7122
       },
       {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+        "title": "USD/JPY extends rebound above 160 after intervention play and BOJ decision - investinglive.com",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.6676
+        "score": 0.6449
       },
       {
-        "title": "Gold drifts lower as USD recovers amid Fed hike bets and geopolitical tensions",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8885
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD declines to near $58.40 as US Dollar regains ground",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9721
-      },
-      {
-        "title": "USD/JPY Price Forecast: Climbs back above mid-160.00s as BoJ rate decision looms",
-        "source": "FXStreet",
+        "title": "USD/JPY extends rebound above 160 after intervention play and BOJ decision",
+        "source": "ForexLive",
         "label": "bullish",
-        "score": 0.9091
+        "score": 0.8601
+      },
+      {
+        "title": "USD/JPY Price Forecast: Likely extend decline below 158.00",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9567
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD falls to near $58.00 on hawkish Fed sentiment",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9705
       }
     ],
     "EUR/USD": [
       {
-        "title": "EUR/USD Price Forecast: Weakens to near 1.1500 as 100-day SMA caps upside",
-        "source": "FXStreet",
+        "title": "EUR/USD Slips Toward 1.1500 on Dollar Strength - TradingPedia",
+        "source": "Google News",
         "label": "bearish",
-        "score": -0.9709
+        "score": -0.9621
       }
     ]
   }
