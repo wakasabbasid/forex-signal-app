@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "LINK FOREX Advances Its International Growth Strategy to Build a More Professional, Intelligent, and Compliant Global Investment Services Platform - Yahoo Finance",
       "source": "Google News",
       "label": "bullish",
@@ -8,10 +15,10 @@
       "currencies": []
     },
     {
-      "title": "$32 Billion Inflows From India\u2019s Forex Drive Yet to Boost Rupee: In Charts - Bloomberg",
+      "title": "Yen strengthens on possible intervention - The Japan Times",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8807,
+      "score": 0.8125,
       "currencies": []
     },
     {
@@ -24,6 +31,27 @@
       ]
     },
     {
+      "title": "$32 Billion Inflows From India\u2019s Forex Drive Yet to Boost Rupee: In Charts - Bloomberg",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8807,
+      "currencies": []
+    },
+    {
+      "title": "Yen spikes as media report says Japanese government intervened in currency markets - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "South Korea conducts rare forex intervention alongside Japan, sending won to nine-month high - The Standard (HK)",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9048,
+      "currencies": []
+    },
+    {
       "title": "Japanese Yen Surges as MOF Steals the BOJ's Thunder After FOMC - FOREX.com",
       "source": "Google News",
       "label": "bearish",
@@ -31,18 +59,13 @@
       "currencies": []
     },
     {
-      "title": "Japan ready to take decisive currency action as yen hits 40-year low - Reuters",
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Yen surges, analysts suspect official Japanese intervention By Reuters - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
+      "label": "bullish",
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
@@ -52,21 +75,11 @@
       "currencies": []
     },
     {
-      "title": "Forex card vs currency notes: Key differences every traveller should know - Planning an international trip? BookMyForex card now offers cashback, hotel booking discounts and airport transfer voucher - The Economic Times",
+      "title": "exchange rate - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
-    },
-    {
-      "title": "USD/JPY stumbles lower in quick drop before slight bounce back - investingLive",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8834,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
     },
     {
       "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
@@ -76,70 +89,56 @@
       "currencies": []
     },
     {
-      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex traders face four major US tests over the next week - Mitrade",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Trump says \u2019Board of Peace\u2019 reaches Gaza disarmament deal",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Axos beats Q4 2026 estimates as shares rise after hours",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9062,
-      "currencies": []
-    },
-    {
-      "title": "Gallagher Q2 2026 slides show 6% organic growth, margin expansion",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8017,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Globe Life Inc For: 30 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Nonprofit groups sue US Agriculture Department over rules on grants",
+      "title": "Russia\u2019s Africa Corps kills Mali civilians in \u2019indiscriminate\u2019 attack, rights group says",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.937,
+      "score": -0.8016,
       "currencies": []
     },
     {
-      "title": "Globe Life EVP & CFO Kalmbach sells $3.78m in company stock",
+      "title": "Buenaventura Mining ADR earnings beat by $0.17, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9479,
+      "currencies": []
+    },
+    {
+      "title": "Asia stocks surge, yen awaits Ueda\u2019s presser after intervention boost",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 Blink Charging Co For: 30 July",
+      "title": "China manufacturing PMI unexpectedly slips into contraction in July",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9753,
       "currencies": []
     },
     {
-      "title": "Form 4 Cintas Corporation For: 30 July",
+      "title": "Tesla weighs sale of China business to pave way for potential SpaceX merger, WSJ reports",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6394,
+      "currencies": []
+    },
+    {
+      "title": "Rare Japan-Korea joint intervention shakes up yen and won",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9339,
+      "currencies": []
+    },
+    {
+      "title": "Japan quake snarls auto and chip supply chains as toll hits 34",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9213,
+      "currencies": []
+    },
+    {
+      "title": "Explainer-What is US President Donald Trump\u2019s \u2019Board of Peace\u2019?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

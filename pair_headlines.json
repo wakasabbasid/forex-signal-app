@@ -9,18 +9,36 @@
         "score": 0.8393
       },
       {
-        "title": "USD/JPY stumbles lower in quick drop before slight bounce back - investingLive",
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
         "source": "Google News",
-        "label": "bearish",
-        "score": -0.8834
-      }
-    ],
-    "USD/CHF": [
+        "label": "bullish",
+        "score": 0.6676
+      },
       {
-        "title": "USD/CHF Price Forecast: 50-day SMA guards bullish structure",
+        "title": "Gold drifts lower as USD recovers amid Fed hike bets and geopolitical tensions",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.4946
+        "score": -0.8885
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD declines to near $58.40 as US Dollar regains ground",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9721
+      },
+      {
+        "title": "USD/JPY Price Forecast: Climbs back above mid-160.00s as BoJ rate decision looms",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9091
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/USD Price Forecast: Weakens to near 1.1500 as 100-day SMA caps upside",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9709
       }
     ]
   }

@@ -3,21 +3,21 @@
     {
       "id": 1,
       "engine": "finbert",
-      "headline_count": 68,
-      "source_count": 6,
-      "created_at": "2026-07-30T23:10:56.453532+00:00",
+      "headline_count": 58,
+      "source_count": 5,
+      "created_at": "2026-07-31T04:55:28.618869+00:00",
       "signals": [
         {
-          "pair": "USD/CHF",
+          "pair": "EUR/USD",
           "signal": "SELL",
-          "avg_score": -0.4946,
+          "avg_score": -0.9709,
           "headline_count": 1
         },
         {
           "pair": "USD/JPY",
           "signal": "HOLD",
-          "avg_score": -0.0221,
-          "headline_count": 2
+          "avg_score": 0.1111,
+          "headline_count": 5
         }
       ]
     }
