@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - reuters.com",
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -15,17 +15,17 @@
       "currencies": []
     },
     {
-      "title": "LINK FOREX Advances Its International Growth Strategy to Build a More Professional, Intelligent, and Compliant Global Investment Services Platform - Yahoo Finance",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8175,
-      "currencies": []
-    },
-    {
       "title": "Yen strengthens on possible intervention - The Japan Times",
       "source": "Google News",
       "label": "bullish",
       "score": 0.8125,
+      "currencies": []
+    },
+    {
+      "title": "LINK FOREX Advances Its International Growth Strategy to Build a More Professional, Intelligent, and Compliant Global Investment Services Platform - finance.yahoo.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.717,
       "currencies": []
     },
     {
@@ -36,33 +36,33 @@
       "currencies": []
     },
     {
-      "title": "USD/BRL set to extend gains as risk anxiety builds again - dailyforex.com",
+      "title": "USD/BRL set to extend gains as risk anxiety builds again - DailyForex",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.7122,
+      "score": 0.8393,
       "currencies": [
         "USD"
       ]
     },
     {
-      "title": "South Korea conducts rare forex intervention alongside Japan, sending won to nine-month high - The Standard (HK)",
+      "title": "Yen spikes as media report says Japanese government intervened in currency markets - Investing.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.9048,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "USD/JPY extends rebound above 160 after intervention play and BOJ decision - investinglive.com",
+      "title": "USD/JPY extends rebound above 160 after intervention play and BOJ decision - investingLive",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.6449,
+      "score": 0.8344,
       "currencies": [
         "USD",
         "JPY"
       ]
     },
     {
-      "title": "Yen spikes as media report says Japanese government intervened in currency markets - Investing.com",
+      "title": "South Korean and Japanese shares soar on global semiconductor rally, forex intervention - thestandard.com.hk",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -79,73 +79,73 @@
       ]
     },
     {
-      "title": "Japanese Yen Surges as MOF Steals the BOJ's Thunder After FOMC - forex.com",
+      "title": "Japanese Yen Surges as MOF Steals the BOJ's Thunder After FOMC - FOREX.com",
       "source": "Google News",
       "label": "bearish",
       "score": -0.5511,
       "currencies": []
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
+      "title": "India\u2019s forex reserves fall by $7.7 billion to $690 billion: RBI - News On AIR",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
+      "label": "bearish",
+      "score": -0.9552,
       "currencies": []
     },
     {
-      "title": "Puma shares dip despite sales beat, narrower-than-expected loss",
+      "title": "BrightSpring Health beats Q2 estimates, lifts guidance",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8916,
+      "currencies": []
+    },
+    {
+      "title": "Cr\u00e9dit Agricole Q2 2026 slides: record revenue, AI push, dividend",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8785,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: OMV beats Q2 2026 earnings as Borouge lifts results",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8595,
+      "currencies": []
+    },
+    {
+      "title": "Director buys shares in LSL Property Services",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US auto safety regulator probes 1.2 million Tesla vehicles over suspension failures",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9722,
+      "score": -0.9436,
       "currencies": []
     },
     {
-      "title": "JPMorgan reiterates Umicore stock rating on earnings beat",
+      "title": "France and Spain win some respite, as wildfire battles rage across Europe",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is IMI stock rallying today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "FTSE 100 today: Stocks rise, tracking global tech rally",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.761,
-      "currencies": []
-    },
-    {
-      "title": "Why is International Consolidated Airlines stock sliding today?",
+      "title": "Nuclear company Westinghouse confidentially files for US IPO",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9486,
+      "score": -0.6641,
       "currencies": []
     },
     {
-      "title": "Tech shares power Europe\u2019s STOXX 600 to record high",
+      "title": "India stocks higher at close of trade; Nifty 50 up 0.27%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.886,
-      "currencies": []
-    },
-    {
-      "title": "Trump says deal reached to disarm Hamas, Israeli support for plan remains uncertain",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6017,
-      "currencies": []
-    },
-    {
-      "title": "Why is NatWest stock climbing today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "score": 0.9353,
       "currencies": []
     }
   ],

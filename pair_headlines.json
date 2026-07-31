@@ -3,34 +3,22 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "USD/BRL set to extend gains as risk anxiety builds again - dailyforex.com",
+        "title": "USD/BRL set to extend gains as risk anxiety builds again - DailyForex",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.7122
+        "score": 0.8393
       },
       {
-        "title": "USD/JPY extends rebound above 160 after intervention play and BOJ decision - investinglive.com",
+        "title": "USD/JPY extends rebound above 160 after intervention play and BOJ decision - investingLive",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.6449
+        "score": 0.8344
       },
       {
-        "title": "USD/JPY extends rebound above 160 after intervention play and BOJ decision",
+        "title": "Stealth intervention causes wild swings in USD/JPY; focus stays on Middle East and next US CPI",
         "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.8601
-      },
-      {
-        "title": "USD/JPY Price Forecast: Likely extend decline below 158.00",
-        "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9567
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD falls to near $58.00 on hawkish Fed sentiment",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9705
+        "score": -0.7057
       }
     ],
     "EUR/USD": [
