@@ -7,12 +7,6 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "US Dollar Price Forecast: Dollar Retreats as ECB and BoE Hold Policy Steady; EUR/USD and GBP/USD Rally",
-        "source": "Yahoo Finance",
-        "label": "bearish",
-        "score": -0.966
       }
     ],
     "USD/JPY": [
@@ -49,14 +43,6 @@
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.7774
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "US Dollar Price Forecast: Dollar Retreats as ECB and BoE Hold Policy Steady; EUR/USD and GBP/USD Rally",
-        "source": "Yahoo Finance",
-        "label": "bearish",
-        "score": -0.966
       }
     ]
   }

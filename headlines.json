@@ -15,14 +15,14 @@
       "currencies": []
     },
     {
-      "title": "RBI says $40.82 billion mobilised under forex swap facility till Jul 31 - ETGovernment.com",
+      "title": "$32 Billion Inflows From India\u2019s Forex Drive Yet to Boost Rupee: In Charts - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "$32 Billion Inflows From India\u2019s Forex Drive Yet to Boost Rupee: In Charts - Bloomberg.com",
+      "title": "RBI says $40.82 billion mobilised under forex swap facility till Jul 31 - ETGovernment.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -36,7 +36,7 @@
       "currencies": []
     },
     {
-      "title": "US Treasury intervenes to support yen through purchases - FT - investing.com",
+      "title": "US Treasury intervenes to support yen through purchases - FT - Investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -51,6 +51,13 @@
         "GBP",
         "USD"
       ]
+    },
+    {
+      "title": "US Treasury Informed Banks It May Intervene In Japan's Yen, As Market Laughs At BOJ's Own Attempts To Prop Up Currency - Forex Factory",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8406,
+      "currencies": []
     },
     {
       "title": "USD/MXN Forex Forecast 30/07: August 2026 Monthly - DailyForex",
@@ -78,73 +85,66 @@
       "currencies": []
     },
     {
-      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
+      "title": "RBI forex swap window draws $40.82 billion till July 31, FCNR(B) deposits lead inflows - Moneycontrol.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Indian rupee posts strongest week since March on central bank support - Reuters",
-      "source": "Google News",
+      "title": "Seanergy Q2 2026 slides: record earnings fuel $591M fleet renewal",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5884,
+      "score": 0.8913,
       "currencies": []
     },
     {
-      "title": "Russian barrage kills nine in Kyiv, damages Lithuanian embassy",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8902,
-      "currencies": []
-    },
-    {
-      "title": "EV delivery update: Xpeng deliveries top 38k, NIO falls 11% from June",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.973,
-      "currencies": []
-    },
-    {
-      "title": "Russia pounds Kyiv, kills 9 as Ukraine appeals for Patriot interceptors",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.535,
-      "currencies": []
-    },
-    {
-      "title": "Bitcoin slips to trade above $63,000 but records 7.5% July gain",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9255,
-      "currencies": []
-    },
-    {
-      "title": "Indian Oil Q1 FY27 slides show sharp loss amid crude volatility",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9666,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Indian Oil posts Q1 2026 loss as crude swings bite",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9751,
-      "currencies": []
-    },
-    {
-      "title": "\u2019Le camping\u2019, an egalitarian symbol of French summers, faces a fiery future",
+      "title": "European stocks: Is the AI momentum unwind coming to an end?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Should you invest in the stock market now? UBS weighs in",
+      "title": "Wildfires rage in Greece as firefighters continue battle in France and Spain",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Clean Science Q1 FY2027 slides: record sales, HALS drives growth",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8911,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Muthoot Finance posts strong Q1 2026 growth, shares rise",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9452,
+      "currencies": []
+    },
+    {
+      "title": "Soccer-UEFA says it has lost confidence in Infantino as FIFA faces calls for transparency",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9604,
+      "currencies": []
+    },
+    {
+      "title": "Spain installs floating barrier in Ceuta after calm night following border rush",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Clean Science posts record Q1 2026 sales as HALS gains",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9206,
       "currencies": []
     }
   ],
