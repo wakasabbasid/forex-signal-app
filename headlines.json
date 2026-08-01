@@ -29,13 +29,6 @@
       "currencies": []
     },
     {
-      "title": "RBI says $40.82 billion mobilised under forex swap facility till Jul 31 - ETGovernment.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "USD/MXN Forex Forecast 30/07: August 2026 Monthly - Daily Forex",
       "source": "Google News",
       "label": "neutral",
@@ -45,7 +38,14 @@
       ]
     },
     {
-      "title": "Two Years of the Float: $2.65B in IMF Funding, 24 NBE Auctions, and a Birr That Keeps Sliding - Addis Insight",
+      "title": "RBI says $40.82 billion mobilised under forex swap facility till Jul 31 - government.economictimes.indiatimes.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Two Years of the Float: $2.65B in IMF Funding, 24 NBE Auctions, and a Birr That Keeps Sliding - addisinsight.net",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -68,14 +68,14 @@
       ]
     },
     {
-      "title": "Esoteric Forex Drama Blasts Bonds, Maybe - Mortgage News Daily",
+      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
+      "title": "exchange rate - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -89,17 +89,45 @@
       "currencies": []
     },
     {
-      "title": "Restaurant explosion in central Moscow kills three, injures 15, police say",
+      "title": "Bomb carried by woman kills three, injures 21 near Moscow restaurant, authorities say",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9343,
+      "score": -0.9141,
       "currencies": []
     },
     {
-      "title": "Thirteen die in tourist plane crash over Peru\u2019s Nazca Lines, TVPeru says",
+      "title": "Thirteen die in tourist plane crash over Peru\u2019s Nazca Lines",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8477,
+      "score": -0.7749,
+      "currencies": []
+    },
+    {
+      "title": "U.S. embassies issue evacuation warnings across Middle East amid Iran strikes",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9194,
+      "currencies": []
+    },
+    {
+      "title": "What does the China reset mean for the Nike business?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Banco De Chile earnings beat, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9492,
+      "currencies": []
+    },
+    {
+      "title": "Wildfires spread across Greece, conditions worsen in France and Spain",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9394,
       "currencies": []
     },
     {
@@ -114,34 +142,6 @@
       "source": "Investing.com",
       "label": "bearish",
       "score": -0.5749,
-      "currencies": []
-    },
-    {
-      "title": "U.S. embassies issue evacuation warnings across Middle East amid Iran strikes",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9194,
-      "currencies": []
-    },
-    {
-      "title": "Bitcoin breaks below $63,139 SMA: Live levels",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "WestJet begins flight cancellations ahead of strike",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7683,
-      "currencies": []
-    },
-    {
-      "title": "Soccer-Infantino faces crisis as UEFA, CONCACAF declare lost confidence over scrapped World Cup deal",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9623,
       "currencies": []
     }
   ],
