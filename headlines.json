@@ -15,6 +15,27 @@
       "currencies": []
     },
     {
+      "title": "RBI says $40.82 billion mobilised under forex swap facility till Jul 31 - ETGovernment.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "$32 Billion Inflows From India\u2019s Forex Drive Yet to Boost Rupee: In Charts - bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Bessent Suggests Japan May Have Intervened into Forex Markets - nippon.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Forex Seasonality \u2013 August 2026: GBP/USD\u2019s Most Bearish Month - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -25,14 +46,7 @@
       ]
     },
     {
-      "title": "$32 Billion Inflows From India\u2019s Forex Drive Yet to Boost Rupee: In Charts - Bloomberg.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan Conducts Forex Intervention: Sources - nippon.com",
+      "title": "Why did the Japanese yen collapse in 2026? - Investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -46,13 +60,6 @@
       "currencies": [
         "USD"
       ]
-    },
-    {
-      "title": "Yen spikes as media report says Japanese government intervened in currency markets - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
     },
     {
       "title": "Forex Forecasts \u2013 Fed Decision Threatens Volatility Across USD Pairs - Yahoo Finance",
@@ -78,72 +85,63 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - newsonair.gov.in",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8185,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "exchange rate - Encyclopedia Britannica",
+      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Treasury sell-off shows Fed must reinforce inflation credibility, Musalem says",
+      "title": "US and allies display growing naval cooperation in Pacific drills",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5751,
+      "score": 0.9503,
       "currencies": []
     },
     {
-      "title": "Form 4 ServisFirst Bancshares Inc For: 1 August",
+      "title": "Russia pounds Kyiv with missiles, killing at least nine",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8116,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin bear flag 80% complete near $62,383 support: Live levels",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "ServisFirst director Cashio sells $1.03m in shares",
+      "title": "Commerzbank CEO to hold UniCredit talks as takeover battle enters new phase",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 144 Chemed Corporation For: 1 August",
+      "title": "Aptus Value Q1 FY27 slides: profit jumps 19% but NPAs rise",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9181,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Aptus Value Housing Finance falls on q1 2027 asset-quality concerns",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9722,
+      "currencies": []
+    },
+    {
+      "title": "Houthis deny Red Sea fee plan as Trump prepares new Iran strikes",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 424B5 Healthcare Realty Trust For: 1 August",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US Senate Judiciary Committee to consider Blanche nomination for attorney general on Tuesday",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 4 Knight-Swift Transportation For: 31 July",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Knight-Swift director Reid Dove sells $3.5 million in stock",
+      "title": "UK PM Burnham uses policy blitz to buy time for tougher decisions",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
