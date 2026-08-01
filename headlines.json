@@ -22,7 +22,7 @@
       "currencies": []
     },
     {
-      "title": "$32 Billion Inflows From India\u2019s Forex Drive Yet to Boost Rupee: In Charts - bloomberg.com",
+      "title": "$32 Billion Inflows From India\u2019s Forex Drive Yet to Boost Rupee: In Charts - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -30,6 +30,13 @@
     },
     {
       "title": "Bessent Suggests Japan May Have Intervened into Forex Markets - nippon.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US Treasury intervenes to support yen through purchases - FT - investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -44,13 +51,6 @@
         "GBP",
         "USD"
       ]
-    },
-    {
-      "title": "Why did the Japanese yen collapse in 2026? - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
     },
     {
       "title": "USD/MXN Forex Forecast 30/07: August 2026 Monthly - DailyForex",
@@ -85,63 +85,63 @@
       "currencies": []
     },
     {
-      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
+      "title": "Indian rupee posts strongest week since March on central bank support - Reuters",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US and allies display growing naval cooperation in Pacific drills",
-      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9503,
+      "score": 0.5884,
       "currencies": []
     },
     {
-      "title": "Russia pounds Kyiv with missiles, killing at least nine",
+      "title": "Russian barrage kills nine in Kyiv, damages Lithuanian embassy",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8116,
+      "score": -0.8902,
       "currencies": []
     },
     {
-      "title": "Bitcoin bear flag 80% complete near $62,383 support: Live levels",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Commerzbank CEO to hold UniCredit talks as takeover battle enters new phase",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Aptus Value Q1 FY27 slides: profit jumps 19% but NPAs rise",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9181,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Aptus Value Housing Finance falls on q1 2027 asset-quality concerns",
+      "title": "EV delivery update: Xpeng deliveries top 38k, NIO falls 11% from June",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9722,
+      "score": -0.973,
       "currencies": []
     },
     {
-      "title": "Houthis deny Red Sea fee plan as Trump prepares new Iran strikes",
+      "title": "Russia pounds Kyiv, kills 9 as Ukraine appeals for Patriot interceptors",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.535,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin slips to trade above $63,000 but records 7.5% July gain",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9255,
+      "currencies": []
+    },
+    {
+      "title": "Indian Oil Q1 FY27 slides show sharp loss amid crude volatility",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9666,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Indian Oil posts Q1 2026 loss as crude swings bite",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9751,
+      "currencies": []
+    },
+    {
+      "title": "\u2019Le camping\u2019, an egalitarian symbol of French summers, faces a fiery future",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "UK PM Burnham uses policy blitz to buy time for tougher decisions",
+      "title": "Should you invest in the stock market now? UBS weighs in",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
