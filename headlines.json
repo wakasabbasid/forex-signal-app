@@ -8,21 +8,7 @@
       "currencies": []
     },
     {
-      "title": "Esoteric Forex Drama Blasts Bonds, Maybe - Mortgage News Daily",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "$32 Billion Inflows From India\u2019s Forex Drive Yet to Boost Rupee: In Charts - Bloomberg.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "RBI says $40.82 billion mobilised under forex swap facility till Jul 31 - ETGovernment.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -43,6 +29,29 @@
       "currencies": []
     },
     {
+      "title": "RBI says $40.82 billion mobilised under forex swap facility till Jul 31 - ETGovernment.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Esoteric Forex Drama Blasts Bonds, Maybe - Mortgage News Daily",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "USD/MXN Forex Forecast 30/07: August 2026 Monthly - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "Forex Seasonality \u2013 August 2026: GBP/USD\u2019s Most Bearish Month - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -60,19 +69,10 @@
       "currencies": []
     },
     {
-      "title": "USD/MXN Forex Forecast 30/07: August 2026 Monthly - DailyForex",
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Forex Forecasts \u2013 Fed Decision Threatens Volatility Across USD Pairs - Yahoo Finance",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.6676,
       "currencies": [
         "USD"
       ]
@@ -85,52 +85,47 @@
       "currencies": []
     },
     {
-      "title": "RBI forex swap window draws $40.82 billion till July 31, FCNR(B) deposits lead inflows - Moneycontrol.com",
+      "title": "Forex Forecasts \u2013 Fed Decision Threatens Volatility Across USD Pairs - Yahoo Finance",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "USD"
+      ]
     },
     {
-      "title": "Seanergy Q2 2026 slides: record earnings fuel $591M fleet renewal",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8913,
-      "currencies": []
-    },
-    {
-      "title": "European stocks: Is the AI momentum unwind coming to an end?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Wildfires rage in Greece as firefighters continue battle in France and Spain",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Clean Science Q1 FY2027 slides: record sales, HALS drives growth",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8911,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Muthoot Finance posts strong Q1 2026 growth, shares rise",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9452,
-      "currencies": []
-    },
-    {
-      "title": "Soccer-UEFA says it has lost confidence in Infantino as FIFA faces calls for transparency",
+      "title": "US bars imports from 43 more companies over China\u2019s alleged forced labor involving Uyghurs",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9604,
+      "score": -0.9558,
+      "currencies": []
+    },
+    {
+      "title": "Trump threatens to keep Blanche as acting attorney general, revive \u2019anti-weaponization\u2019 fund",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6499,
+      "currencies": []
+    },
+    {
+      "title": "CTA Nasdaq de-risking appears largely complete: BofA",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Scripps completes acquisition of ABC affiliate in Lexington",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Thousands in Amsterdam for boisterous WorldPride in shadow of Berlin attack",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5151,
       "currencies": []
     },
     {
@@ -141,10 +136,17 @@
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Clean Science posts record Q1 2026 sales as HALS gains",
+      "title": "Kuwait intercepts Iranian drones as Trump weighs fresh strikes",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9206,
+      "label": "bearish",
+      "score": -0.9327,
+      "currencies": []
+    },
+    {
+      "title": "Russia pounds Kyiv, kills 10 as Ukraine appeals for Patriot interceptors",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6013,
       "currencies": []
     }
   ],
