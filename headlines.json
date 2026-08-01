@@ -15,13 +15,6 @@
       "currencies": []
     },
     {
-      "title": "Bessent Suggests Japan May Have Intervened into Forex Markets - nippon.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Forex Seasonality \u2013 August 2026: GBP/USD\u2019s Most Bearish Month - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -32,21 +25,21 @@
       ]
     },
     {
-      "title": "$32 Billion Inflows From India\u2019s Forex Drive Yet to Boost Rupee: In Charts - Bloomberg",
+      "title": "$32 Billion Inflows From India\u2019s Forex Drive Yet to Boost Rupee: In Charts - Bloomberg.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.8807,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "India\u2019s forex reserves climb to $682.3 billion two-month high By Investing.com - Investing.com Nigeria",
+      "title": "Japan Conducts Forex Intervention: Sources - nippon.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.8708,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "USD/INR Monthly Forecast: August 2026 - DailyForex",
+      "title": "USD/MXN Forex Forecast 30/07: August 2026 Monthly - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -55,20 +48,11 @@
       ]
     },
     {
-      "title": "Indian rupee posts strongest week since March on central bank support - Reuters",
+      "title": "Yen spikes as media report says Japanese government intervened in currency markets - Investing.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.5884,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
-    },
-    {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
     },
     {
       "title": "Forex Forecasts \u2013 Fed Decision Threatens Volatility Across USD Pairs - Yahoo Finance",
@@ -87,64 +71,80 @@
       "currencies": []
     },
     {
-      "title": "Yen strengthens on possible intervention - The Japan Times",
+      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - newsonair.gov.in",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8125,
+      "score": 0.8185,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "exchange rate - Encyclopedia Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 DLH Holdings Corp For: 31 July",
+      "title": "Treasury sell-off shows Fed must reinforce inflation credibility, Musalem says",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5751,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 ServisFirst Bancshares Inc For: 1 August",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "DLH Holdings director Mink Brook Asset Management buys $2,396 stock",
+      "title": "ServisFirst director Cashio sells $1.03m in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "DLH Holdings: Mink Brook Asset Management, 10% owner, buys $77,534 stock",
+      "title": "Form 144 Chemed Corporation For: 1 August",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 Beyond Air Inc For: 31 July",
+      "title": "Form 424B5 Healthcare Realty Trust For: 1 August",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 Enphase Energy Inc For: 31 July",
+      "title": "US Senate Judiciary Committee to consider Blanche nomination for attorney general on Tuesday",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US Commodity Futures Trading Commission fines George Santos for alleged manipulative trading",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9078,
-      "currencies": []
-    },
-    {
-      "title": "Trump approves new Iran strikes that could begin this weekend - WSJ",
+      "title": "Form 4 Knight-Swift Transportation For: 31 July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "investingLive Americas FX news wrap 31 Jul; It's a wrap for the month of July",
-      "source": "ForexLive",
+      "title": "Knight-Swift director Reid Dove sells $3.5 million in stock",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
