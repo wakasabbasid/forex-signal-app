@@ -52,17 +52,10 @@
       "currencies": []
     },
     {
-      "title": "Esoteric Forex Drama Blasts Bonds, Maybe - Mortgage News Daily",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - wsj.com",
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.674,
+      "score": 0.9371,
       "currencies": []
     },
     {
@@ -75,6 +68,20 @@
       ]
     },
     {
+      "title": "Esoteric Forex Drama Blasts Bonds, Maybe - Mortgage News Daily",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "US Treasury Informed Banks It May Intervene In Japan's Yen, As Market Laughs At BOJ's Own Attempts To Prop Up Currency - Forex Factory",
       "source": "Google News",
       "label": "bearish",
@@ -82,48 +89,31 @@
       "currencies": []
     },
     {
-      "title": "Forex Seasonality \u2013 August 2026: GBP/USD\u2019s Most Bearish Month - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "Soccer-Infantino faces crisis as UEFA, CONCACAF declare lost confidence over scrapped World Cup deal",
+      "title": "Restaurant explosion in central Moscow kills three, injures 15, police say",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9623,
+      "score": -0.9343,
       "currencies": []
     },
     {
-      "title": "Clayton will take over as US intelligence chief on Monday, Pulte says",
+      "title": "Thirteen die in tourist plane crash over Peru\u2019s Nazca Lines, TVPeru says",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8477,
+      "currencies": []
+    },
+    {
+      "title": "AI spending boom faces two key policy risks",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Trump disputes his own Justice Department\u2019s findings on Reflecting Pool",
+      "title": "US Justice Department subpoenas New York Times freelancer over North Korea story, paper says",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7821,
-      "currencies": []
-    },
-    {
-      "title": "Thousands in Amsterdam for boisterous WorldPride in shadow of Berlin attack",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5151,
-      "currencies": []
-    },
-    {
-      "title": "Spain installs floating barrier in Ceuta after deadly migrant rush",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5037,
+      "score": -0.5749,
       "currencies": []
     },
     {
@@ -134,17 +124,24 @@
       "currencies": []
     },
     {
-      "title": "Israeli strikes kill two in Gaza, destroy medicine storage warehouses",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9257,
-      "currencies": []
-    },
-    {
-      "title": "Wildfires rage in Greece as firefighters continue battle in France and Spain",
+      "title": "Bitcoin breaks below $63,139 SMA: Live levels",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "WestJet begins flight cancellations ahead of strike",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7683,
+      "currencies": []
+    },
+    {
+      "title": "Soccer-Infantino faces crisis as UEFA, CONCACAF declare lost confidence over scrapped World Cup deal",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9623,
       "currencies": []
     }
   ],
