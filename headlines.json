@@ -36,13 +36,20 @@
       "currencies": []
     },
     {
-      "title": "USD/MXN Forex Forecast 30/07: August 2026 Monthly - dailyforex.com",
+      "title": "USD/MXN Forex Forecast 30/07: August 2026 Monthly - Daily Forex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
         "USD"
       ]
+    },
+    {
+      "title": "Two Years of the Float: $2.65B in IMF Funding, 24 NBE Auctions, and a Birr That Keeps Sliding - Addis Insight",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "Esoteric Forex Drama Blasts Bonds, Maybe - Mortgage News Daily",
@@ -52,20 +59,10 @@
       "currencies": []
     },
     {
-      "title": "Forex Seasonality \u2013 August 2026: GBP/USD\u2019s Most Bearish Month - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - wsj.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9371,
+      "score": 0.674,
       "currencies": []
     },
     {
@@ -85,11 +82,12 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "title": "Forex Seasonality \u2013 August 2026: GBP/USD\u2019s Most Bearish Month - FOREX.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.6676,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
+        "GBP",
         "USD"
       ]
     },
@@ -101,10 +99,17 @@
       "currencies": []
     },
     {
-      "title": "U.S. embassies issue evacuation warnings across Middle East amid Iran strikes",
+      "title": "Clayton will take over as US intelligence chief on Monday, Pulte says",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Trump disputes his own Justice Department\u2019s findings on Reflecting Pool",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9194,
+      "score": -0.7821,
       "currencies": []
     },
     {
@@ -115,17 +120,17 @@
       "currencies": []
     },
     {
-      "title": "Wildfires rage in Greece as firefighters continue battle in France and Spain",
+      "title": "Spain installs floating barrier in Ceuta after deadly migrant rush",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.5037,
       "currencies": []
     },
     {
-      "title": "Migrants say hunger and hostility drove them back from Spain\u2019s Ceuta to Morocco",
+      "title": "U.S. embassies issue evacuation warnings across Middle East amid Iran strikes",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8325,
+      "score": -0.9194,
       "currencies": []
     },
     {
@@ -136,17 +141,10 @@
       "currencies": []
     },
     {
-      "title": "US bars imports from 43 more companies over China\u2019s alleged forced labor involving Uyghurs",
+      "title": "Wildfires rage in Greece as firefighters continue battle in France and Spain",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9558,
-      "currencies": []
-    },
-    {
-      "title": "Trump threatens to keep Blanche as acting attorney general, revive \u2019anti-weaponization\u2019 fund",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6499,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
