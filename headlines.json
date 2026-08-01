@@ -36,20 +36,20 @@
       "currencies": []
     },
     {
-      "title": "Esoteric Forex Drama Blasts Bonds, Maybe - Mortgage News Daily",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "USD/MXN Forex Forecast 30/07: August 2026 Monthly - DailyForex",
+      "title": "USD/MXN Forex Forecast 30/07: August 2026 Monthly - dailyforex.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
         "USD"
       ]
+    },
+    {
+      "title": "Esoteric Forex Drama Blasts Bonds, Maybe - Mortgage News Daily",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "Forex Seasonality \u2013 August 2026: GBP/USD\u2019s Most Bearish Month - FOREX.com",
@@ -58,22 +58,6 @@
       "score": 0.0,
       "currencies": [
         "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "US Treasury Informed Banks It May Intervene In Japan's Yen, As Market Laughs At BOJ's Own Attempts To Prop Up Currency - Forex Factory",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8406,
-      "currencies": []
-    },
-    {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
         "USD"
       ]
     },
@@ -94,6 +78,64 @@
       ]
     },
     {
+      "title": "US Treasury Informed Banks It May Intervene In Japan's Yen, As Market Laughs At BOJ's Own Attempts To Prop Up Currency - Forex Factory",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8406,
+      "currencies": []
+    },
+    {
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Soccer-Infantino faces crisis as UEFA, CONCACAF declare lost confidence over scrapped World Cup deal",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9623,
+      "currencies": []
+    },
+    {
+      "title": "U.S. embassies issue evacuation warnings across Middle East amid Iran strikes",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9194,
+      "currencies": []
+    },
+    {
+      "title": "Thousands in Amsterdam for boisterous WorldPride in shadow of Berlin attack",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5151,
+      "currencies": []
+    },
+    {
+      "title": "Wildfires rage in Greece as firefighters continue battle in France and Spain",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Migrants say hunger and hostility drove them back from Spain\u2019s Ceuta to Morocco",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8325,
+      "currencies": []
+    },
+    {
+      "title": "Israeli strikes kill two in Gaza, destroy medicine storage warehouses",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9257,
+      "currencies": []
+    },
+    {
       "title": "US bars imports from 43 more companies over China\u2019s alleged forced labor involving Uyghurs",
       "source": "Investing.com",
       "label": "bearish",
@@ -105,48 +147,6 @@
       "source": "Investing.com",
       "label": "bearish",
       "score": -0.6499,
-      "currencies": []
-    },
-    {
-      "title": "CTA Nasdaq de-risking appears largely complete: BofA",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Scripps completes acquisition of ABC affiliate in Lexington",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Thousands in Amsterdam for boisterous WorldPride in shadow of Berlin attack",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5151,
-      "currencies": []
-    },
-    {
-      "title": "Spain installs floating barrier in Ceuta after calm night following border rush",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Kuwait intercepts Iranian drones as Trump weighs fresh strikes",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9327,
-      "currencies": []
-    },
-    {
-      "title": "Russia pounds Kyiv, kills 10 as Ukraine appeals for Patriot interceptors",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6013,
       "currencies": []
     }
   ],

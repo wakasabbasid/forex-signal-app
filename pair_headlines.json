@@ -3,7 +3,13 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "USD/MXN Forex Forecast 30/07: August 2026 Monthly - DailyForex",
+        "title": "USD/MXN Forex Forecast 30/07: August 2026 Monthly - dailyforex.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Forex Forecasts \u2013 Fed Decision Threatens Volatility Across USD Pairs - Yahoo Finance",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -13,12 +19,6 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.6676
-      },
-      {
-        "title": "Forex Forecasts \u2013 Fed Decision Threatens Volatility Across USD Pairs - Yahoo Finance",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
       },
       {
         "title": "Silver Price Forecast: XAG/USD consolidates above $55 as downside momentum eases",
