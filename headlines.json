@@ -1,7 +1,21 @@
 {
   "headlines": [
     {
+      "title": "Japan, US carried out joint forex intervention Friday for 1st time since 2011 - Nikkei Asia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5069,
+      "currencies": []
+    },
+    {
       "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japan's finance minister will confirm joint (with US) conducted yen intervention on Monday - investingLive",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -22,7 +36,21 @@
       "currencies": []
     },
     {
-      "title": "US Treasury intervenes to support yen through purchases - FT - Investing.com",
+      "title": "China to expand institutional opening-up of forex in H2 - Xinhua",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8859,
+      "currencies": []
+    },
+    {
+      "title": "Japan, U.S. Intervene in Forex Market for 1st Time in 15 Years; Pressure to Sell Yen Remains Strong - The Japan News",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7102,
+      "currencies": []
+    },
+    {
+      "title": "Yen spikes as media report says Japanese government intervened in currency markets - Investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -38,110 +66,80 @@
       ]
     },
     {
-      "title": "RBI says $40.82 billion mobilised under forex swap facility till Jul 31 - government.economictimes.indiatimes.com",
+      "title": "Esoteric Forex Drama Blasts Bonds, Maybe - Mortgage News Daily",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Two Years of the Float: $2.65B in IMF Funding, 24 NBE Auctions, and a Birr That Keeps Sliding - addisinsight.net",
+      "title": "India\u2019s forex reserves fall by $7.7 billion to $690 billion: RBI - newsonair.gov.in",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9516,
       "currencies": []
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
+      "title": "Yen strengthens on possible intervention - The Japan Times",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9371,
+      "score": 0.8125,
       "currencies": []
     },
     {
-      "title": "Forex Forecasts \u2013 Fed Decision Threatens Volatility Across USD Pairs - Yahoo Finance",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "exchange rate - Encyclopedia Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US Treasury Informed Banks It May Intervene In Japan's Yen, As Market Laughs At BOJ's Own Attempts To Prop Up Currency - Forex Factory",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8406,
-      "currencies": []
-    },
-    {
-      "title": "Bomb carried by woman kills three, injures 21 near Moscow restaurant, authorities say",
+      "title": "US Senator Moreno says Ohio\u2019s Miller should not serve in Congress, citing abuse allegations",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9141,
+      "score": -0.7724,
       "currencies": []
     },
     {
-      "title": "Thirteen die in tourist plane crash over Peru\u2019s Nazca Lines",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7749,
-      "currencies": []
-    },
-    {
-      "title": "U.S. embassies issue evacuation warnings across Middle East amid Iran strikes",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9194,
-      "currencies": []
-    },
-    {
-      "title": "What does the China reset mean for the Nike business?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Banco De Chile earnings beat, revenue topped estimates",
+      "title": "Japan to vow coordination with US on weak yen in historic battle",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9492,
+      "score": 0.9213,
       "currencies": []
     },
     {
-      "title": "Wildfires spread across Greece, conditions worsen in France and Spain",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9394,
-      "currencies": []
-    },
-    {
-      "title": "AI spending boom faces two key policy risks",
+      "title": "AstraZeneca holds talks with Bristol Myers Squibb on $400 billion megadeal, FT reports",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US Justice Department subpoenas New York Times freelancer over North Korea story, paper says",
+      "title": "Oman, mediators in final stages of negotiations with Iran on Hormuz - Report",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Ukrainian drones kill eight in Russia and strike Wildberries warehouse, governors say",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5749,
+      "score": -0.9315,
+      "currencies": []
+    },
+    {
+      "title": "Russia stocks higher at close of trade; MOEX Russia Index up 0.75%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9457,
+      "currencies": []
+    },
+    {
+      "title": "Ukrainian drone kills one child, injures two in playground in Russia\u2019s Belgorod region",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9204,
+      "currencies": []
+    },
+    {
+      "title": "Death toll from migrant rush into Spanish enclave in North Africa rises to 72",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8597,
       "currencies": []
     }
   ],
