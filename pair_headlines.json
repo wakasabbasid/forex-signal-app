@@ -3,16 +3,16 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "USD/MXN Slides into Lower Realms as Risk Appetite Waits - dailyforex.com",
+        "title": "USD/MXN Slides into Lower Realms as Risk Appetite Waits - DailyForex",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.7237
+        "score": -0.9247
       },
       {
-        "title": "Amg stock hits all-time high at 382.86 USD",
-        "source": "Investing.com",
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+        "source": "Google News",
         "label": "bullish",
-        "score": 0.5439
+        "score": 0.6676
       },
       {
         "title": "Gold slips as USD rebounds, strong ISM data clouds Fed path",

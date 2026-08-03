@@ -8,23 +8,23 @@
       "currencies": []
     },
     {
-      "title": "USD/MXN Slides into Lower Realms as Risk Appetite Waits - dailyforex.com",
+      "title": "USD/MXN Slides into Lower Realms as Risk Appetite Waits - DailyForex",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.7237,
+      "score": -0.9247,
       "currencies": [
         "USD"
       ]
     },
     {
-      "title": "BREAKING NEWS: Finance chief mum on whether Japan intervened in currency market Mon. - Japan Wire by Kyodo News",
+      "title": "Japan's Mimura says joint yen action culmination of currency alliance - investingLive",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Japan's Mimura says joint yen action culmination of currency alliance - investingLive",
+      "title": "BREAKING NEWS: Finance chief mum on whether Japan intervened in currency market Mon. - Japan Wire by Kyodo News",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -38,10 +38,17 @@
       "currencies": []
     },
     {
-      "title": "Yen leaps after joint US-Japan forex intervention, leaving the US dollar bruised - businesstimes.com.sg",
+      "title": "Yen leaps after joint US-Japan forex intervention, leaving the US dollar bruised - The Business Times",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.6964,
+      "label": "bullish",
+      "score": 0.516,
+      "currencies": []
+    },
+    {
+      "title": "Japan, U.S. intervene in forex market for first time in 15 years; pressure to sell yen remains strong - Asia News Network",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6389,
       "currencies": []
     },
     {
@@ -50,6 +57,15 @@
       "label": "neutral",
       "score": 0.0,
       "currencies": []
+    },
+    {
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "FX Futures Positioning: Yen, Euro Bears Caught Short | COT report - FOREX.com",
@@ -73,76 +89,60 @@
       "currencies": []
     },
     {
-      "title": "Yen extends rally as coordinated intervention by Japan and the US boosts the currency - Economies.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.929,
-      "currencies": []
-    },
-    {
-      "title": "India\u2019s forex reserves fall by $7.7 billion to $690 billion: RBI - News On AIR",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9552,
-      "currencies": []
-    },
-    {
-      "title": "Oil prices slide after massive July gains as Trump calls off attack on Iran",
+      "title": "US oil exports in July fall to lowest level in eight months, data shows",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9067,
+      "score": -0.9689,
       "currencies": []
     },
     {
-      "title": "Guggenheim cuts Sportradar stock price target on guidance reduction",
+      "title": "Democratic US states sue to challenge Trump\u2019s latest tariffs",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.5282,
       "currencies": []
     },
     {
-      "title": "Group of 25 US states challenge Trump\u2019s latest tariffs",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 144 Chewy For: 3 August",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 144 KOHLS Corp For: 3 August",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 144 EAST WEST BANCORP INC For: 3 August",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Form 144 Cactus Inc For: 3 August",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Amg stock hits all-time high at 382.86 USD",
+      "title": "Palantir lifts annual revenue forecast as data analytics spending booms",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5439,
-      "currencies": [
-        "USD"
-      ]
+      "score": 0.9387,
+      "currencies": []
+    },
+    {
+      "title": "Williams posts top-line beat, announces acquisition of Momentum Midstream",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5789,
+      "currencies": []
+    },
+    {
+      "title": "Allison Transmission earnings beat by $0.33, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9469,
+      "currencies": []
+    },
+    {
+      "title": "TD Cowen initiates Summitt Midstream stock with buy rating",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Alamo earnings beat by $0.09, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9406,
+      "currencies": []
+    },
+    {
+      "title": "Danaos earnings beat by $0.82, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9521,
+      "currencies": []
     }
   ],
   "run_id": 1
