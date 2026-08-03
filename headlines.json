@@ -8,11 +8,12 @@
       "currencies": []
     },
     {
-      "title": "USD/MXN Slides into Lower Realms as Risk Appetite Waits - DailyForex",
+      "title": "GBP/USD: Why 1.3500 Matters as Dollar Momentum Shifts - DailyForex",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9247,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
+        "GBP",
         "USD"
       ]
     },
@@ -22,6 +23,16 @@
       "label": "neutral",
       "score": 0.0,
       "currencies": []
+    },
+    {
+      "title": "USD/JPY Slammed to Start the Week, then Gets a Bounce - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
     },
     {
       "title": "BREAKING NEWS: Finance chief mum on whether Japan intervened in currency market Mon. - Japan Wire by Kyodo News",
@@ -68,13 +79,6 @@
       ]
     },
     {
-      "title": "FX Futures Positioning: Yen, Euro Bears Caught Short | COT report - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Yen jumps as Tokyo and Washington confirm joint FX intervention; dollar flattens - Investing.com",
       "source": "Google News",
       "label": "bullish",
@@ -82,66 +86,68 @@
       "currencies": []
     },
     {
-      "title": "Dollar suddenly falls against yen, traders on alert for further intervention - Yahoo Finance UK",
+      "title": "USD/MXN Slides into Lower Realms as Risk Appetite Waits - DailyForex",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.718,
+      "score": -0.9247,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Eli Lilly to offer early access to next-gen obesity drug to some patients",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6647,
       "currencies": []
     },
     {
-      "title": "US oil exports in July fall to lowest level in eight months, data shows",
+      "title": "US State Department to close consulates in Canada, Japan and Indonesia, sources say",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9689,
+      "score": -0.9537,
       "currencies": []
     },
     {
-      "title": "Democratic US states sue to challenge Trump\u2019s latest tariffs",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5282,
-      "currencies": []
-    },
-    {
-      "title": "Palantir lifts annual revenue forecast as data analytics spending booms",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9387,
-      "currencies": []
-    },
-    {
-      "title": "Williams posts top-line beat, announces acquisition of Momentum Midstream",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5789,
-      "currencies": []
-    },
-    {
-      "title": "Allison Transmission earnings beat by $0.33, revenue topped estimates",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9469,
-      "currencies": []
-    },
-    {
-      "title": "TD Cowen initiates Summitt Midstream stock with buy rating",
+      "title": "Form 4 Rush Enterprises A Inc For: 3 August",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Alamo earnings beat by $0.09, revenue topped estimates",
+      "title": "Form 4 F5 Networks Inc For: 3 August",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9406,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Danaos earnings beat by $0.82, revenue topped estimates",
+      "title": "Snap beats revenue estimates on ad boost from World Cup, shares surge",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9521,
+      "score": 0.5559,
+      "currencies": []
+    },
+    {
+      "title": "Exclusive-Mexico\u2019s largest meat exporter SuKarne explores sale, sources say",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "onsemi Q2 2026 slides: margins expand, AI data center revenue doubles",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9505,
+      "currencies": []
+    },
+    {
+      "title": "TikTok settling three teen social media lawsuits ahead of trial",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7248,
       "currencies": []
     }
   ],

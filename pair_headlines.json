@@ -1,18 +1,32 @@
 {
   "run_id": 1,
   "pairs": {
+    "GBP/USD": [
+      {
+        "title": "GBP/USD: Why 1.3500 Matters as Dollar Momentum Shifts - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
     "USD/JPY": [
       {
-        "title": "USD/MXN Slides into Lower Realms as Risk Appetite Waits - DailyForex",
+        "title": "USD/JPY Slammed to Start the Week, then Gets a Bounce - FOREX.com",
         "source": "Google News",
-        "label": "bearish",
-        "score": -0.9247
+        "label": "neutral",
+        "score": 0.0
       },
       {
         "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
         "source": "Google News",
         "label": "bullish",
         "score": 0.6676
+      },
+      {
+        "title": "USD/MXN Slides into Lower Realms as Risk Appetite Waits - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9247
       },
       {
         "title": "Gold slips as USD rebounds, strong ISM data clouds Fed path",
@@ -22,6 +36,12 @@
       }
     ],
     "USD/CHF": [
+      {
+        "title": "USD/CHF Price Forecast: Bulls target 0.8150 after SMA bounce",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      },
       {
         "title": "USD/CHF Price Forecast: Technical outlook stays constructive above 0.8000",
         "source": "FXStreet",
