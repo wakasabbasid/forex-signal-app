@@ -1,12 +1,24 @@
 {
   "run_id": 1,
   "pairs": {
-    "GBP/USD": [
+    "USD/JPY": [
       {
-        "title": "GBP/USD: Why 1.3500 Matters as Dollar Momentum Shifts - dailyforex.com",
+        "title": "USD/MXN Slides into Lower Realms as Risk Appetite Waits - dailyforex.com",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bearish",
+        "score": -0.7237
+      },
+      {
+        "title": "Amg stock hits all-time high at 382.86 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.5439
+      },
+      {
+        "title": "Gold slips as USD rebounds, strong ISM data clouds Fed path",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.5803
       }
     ],
     "USD/CHF": [
