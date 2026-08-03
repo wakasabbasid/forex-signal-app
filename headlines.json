@@ -1,10 +1,17 @@
 {
   "headlines": [
     {
-      "title": "Japan, US carried out joint forex intervention Friday for 1st time since 2011 - Nikkei Asia",
+      "title": "Japan's Mimura says joint yen action culmination of currency alliance - investingLive",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Yen leaps after joint US-Japan forex intervention, leaving the US dollar bruised - The Business Times",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.5069,
+      "score": 0.516,
       "currencies": []
     },
     {
@@ -15,17 +22,17 @@
       "currencies": []
     },
     {
-      "title": "Japan's finance minister will confirm joint (with US) conducted yen intervention on Monday - investingLive",
+      "title": "FX Futures Positioning: Yen, Euro Bears Caught Short | COT report - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "$32 Billion Inflows From India\u2019s Forex Drive Yet to Boost Rupee: In Charts - Bloomberg.com",
+      "title": "Dollar suddenly falls against yen, traders on alert for further intervention - Yahoo Finance UK",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.718,
       "currencies": []
     },
     {
@@ -43,20 +50,6 @@
       "currencies": []
     },
     {
-      "title": "Japan, U.S. Intervene in Forex Market for 1st Time in 15 Years; Pressure to Sell Yen Remains Strong - The Japan News",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7102,
-      "currencies": []
-    },
-    {
-      "title": "Yen spikes as media report says Japanese government intervened in currency markets - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "USD/MXN Forex Forecast 30/07: August 2026 Monthly - Daily Forex",
       "source": "Google News",
       "label": "neutral",
@@ -66,6 +59,13 @@
       ]
     },
     {
+      "title": "Yen spikes as media report says Japanese government intervened in currency markets - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Esoteric Forex Drama Blasts Bonds, Maybe - Mortgage News Daily",
       "source": "Google News",
       "label": "neutral",
@@ -73,73 +73,73 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s forex reserves fall by $7.7 billion to $690 billion: RBI - newsonair.gov.in",
+      "title": "Yen climbs as traders watch for further US-Japan forex intervention - The Business Times",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9516,
+      "score": -0.3948,
       "currencies": []
     },
     {
-      "title": "Yen strengthens on possible intervention - The Japan Times",
+      "title": "Japan, U.S. Intervene in Forex Market for 1st Time in 15 Years; Pressure to Sell Yen Remains Strong - The Japan News",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8125,
+      "score": 0.7102,
       "currencies": []
     },
     {
-      "title": "US Senator Moreno says Ohio\u2019s Miller should not serve in Congress, citing abuse allegations",
+      "title": "Cuba plunges into darkness as electric grid collapses",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7724,
+      "score": -0.5583,
       "currencies": []
     },
     {
-      "title": "Japan to vow coordination with US on weak yen in historic battle",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9213,
-      "currencies": []
-    },
-    {
-      "title": "AstraZeneca holds talks with Bristol Myers Squibb on $400 billion megadeal, FT reports",
+      "title": "Why is Alibaba stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Oman, mediators in final stages of negotiations with Iran on Hormuz - Report",
+      "title": "Why is Kioxia stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Ukrainian drones kill eight in Russia and strike Wildberries warehouse, governors say",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9315,
-      "currencies": []
-    },
-    {
-      "title": "Russia stocks higher at close of trade; MOEX Russia Index up 0.75%",
+      "title": "Vista Group H1 2026 slides: SaaS revenue surges 38%, guidance raised",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9457,
+      "score": 0.9456,
       "currencies": []
     },
     {
-      "title": "Ukrainian drone kills one child, injures two in playground in Russia\u2019s Belgorod region",
+      "title": "Asia stocks retreat as KOSPI sinks 4%; AI selloff outweighs Iran optimism",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9204,
+      "score": -0.9604,
       "currencies": []
     },
     {
-      "title": "Death toll from migrant rush into Spanish enclave in North Africa rises to 72",
+      "title": "Earnings call transcript: Vista Group lifts H1 2026 revenue outlook on SaaS growth",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8597,
+      "label": "bullish",
+      "score": 0.882,
+      "currencies": []
+    },
+    {
+      "title": "Japan, US confirm joint yen-buying intervention, signal more action",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Kay Granger, first Republican woman to lead House Appropriations Committee, dies at 83",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

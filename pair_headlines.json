@@ -9,26 +9,40 @@
         "score": 0.0
       },
       {
-        "title": "Silver Price Forecast: XAG/USD consolidates above $55 as downside momentum eases",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9181
-      }
-    ],
-    "NZD/USD": [
+        "title": "USD/JPY holds lower to start the week as US enters the intervention fray",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.9342
+      },
       {
-        "title": "NZD/USD Price Forecast: Bulls eye 0.6000 after SMA break",
-        "source": "FXStreet",
+        "title": "PBOC sets USD/ CNY reference rate for today at 6.7898 (vs. estimate at 6.7364)",
+        "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
-      }
-    ],
-    "USD/CHF": [
+      },
       {
-        "title": "USD/CHF Price Forecast: Bulls defend 50-day SMA as rebound builds",
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7364 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD rises above $58.00 on renewed US-Iran peace talks",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.7774
+        "score": 0.9413
+      },
+      {
+        "title": "Canadian Dollar drifts lower as falling oil prices counter weak USD amid Iran hopes",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9487
+      },
+      {
+        "title": "Euro holds near mid-1.1500s, highest level since June 17 as receding Fed hike bets hit USD",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.6027
       }
     ]
   }
