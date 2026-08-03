@@ -1,13 +1,15 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/JPY": [
+    "AUD/USD": [
       {
-        "title": "USD/MXN Forex Forecast 30/07: August 2026 Monthly - Daily Forex",
+        "title": "AUD/USD Signal: Forecast as a Fragile Recovery Emerges - Daily Forex",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
+        "label": "bearish",
+        "score": -0.6878
+      }
+    ],
+    "USD/JPY": [
       {
         "title": "USD/JPY holds lower to start the week as US enters the intervention fray",
         "source": "ForexLive",
@@ -15,34 +17,10 @@
         "score": -0.9342
       },
       {
-        "title": "PBOC sets USD/ CNY reference rate for today at 6.7898 (vs. estimate at 6.7364)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7364 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD rises above $58.00 on renewed US-Iran peace talks",
+        "title": "Gold holds above $4,050 amid receding Fed hike bets; USD recovery caps gains",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.9413
-      },
-      {
-        "title": "Canadian Dollar drifts lower as falling oil prices counter weak USD amid Iran hopes",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9487
-      },
-      {
-        "title": "Euro holds near mid-1.1500s, highest level since June 17 as receding Fed hike bets hit USD",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.6027
+        "score": 0.7881
       }
     ]
   }

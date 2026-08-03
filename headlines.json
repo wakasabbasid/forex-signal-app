@@ -1,17 +1,10 @@
 {
   "headlines": [
     {
-      "title": "Japan's Mimura says joint yen action culmination of currency alliance - investingLive",
+      "title": "Japan\u2019s top currency diplomat stays silent on Trump\u2019s forex intervention remarks - Crypto Briefing",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Yen leaps after joint US-Japan forex intervention, leaving the US dollar bruised - The Business Times",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.516,
       "currencies": []
     },
     {
@@ -22,51 +15,38 @@
       "currencies": []
     },
     {
-      "title": "FX Futures Positioning: Yen, Euro Bears Caught Short | COT report - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Dollar suddenly falls against yen, traders on alert for further intervention - Yahoo Finance UK",
+      "title": "AUD/USD Signal: Forecast as a Fragile Recovery Emerges - Daily Forex",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.718,
-      "currencies": []
-    },
-    {
-      "title": "Bessent Suggests Japan May Have Intervened into Forex Markets - nippon.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "China to expand institutional opening-up of forex in H2 - Xinhua",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8859,
-      "currencies": []
-    },
-    {
-      "title": "USD/MXN Forex Forecast 30/07: August 2026 Monthly - Daily Forex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "score": -0.6878,
       "currencies": [
+        "AUD",
         "USD"
       ]
     },
     {
-      "title": "Yen spikes as media report says Japanese government intervened in currency markets - Investing.com",
+      "title": "Dollar falls sharply vs. yen amid warnings of further intervention - Japan Wire by Kyodo News",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9022,
+      "currencies": []
+    },
+    {
+      "title": "Japan's Mimura says joint yen action culmination of currency alliance - investingLive",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Esoteric Forex Drama Blasts Bonds, Maybe - Mortgage News Daily",
+      "title": "China to expand institutional opening-up of forex in H2 - China Daily",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8353,
+      "currencies": []
+    },
+    {
+      "title": "FX Futures Positioning: Yen, Euro Bears Caught Short | COT report - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -80,63 +60,84 @@
       "currencies": []
     },
     {
-      "title": "Japan, U.S. Intervene in Forex Market for 1st Time in 15 Years; Pressure to Sell Yen Remains Strong - The Japan News",
+      "title": "Dollar suddenly falls against yen, traders on alert for further intervention - Yahoo Finance UK",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.718,
+      "currencies": []
+    },
+    {
+      "title": "Yen extends rally as coordinated intervention by Japan and the US boosts the currency - Economies.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.7102,
+      "score": 0.929,
       "currencies": []
     },
     {
-      "title": "Cuba plunges into darkness as electric grid collapses",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5583,
-      "currencies": []
-    },
-    {
-      "title": "Why is Alibaba stock surging today?",
-      "source": "Investing.com",
+      "title": "Bessent Suggests Japan May Have Intervened into Forex Markets - nippon.com",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is Kioxia stock surging today?",
-      "source": "Investing.com",
+      "title": "Japan, US make 1st joint forex intervention in 15 yrs, further moves eyed - \u6bce\u65e5\u65b0\u805e",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Vista Group H1 2026 slides: SaaS revenue surges 38%, guidance raised",
+      "title": "Eurozone manufacturing output rises at fastest pace since March 2022",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9456,
+      "score": 0.9292,
       "currencies": []
     },
     {
-      "title": "Asia stocks retreat as KOSPI sinks 4%; AI selloff outweighs Iran optimism",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9604,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Vista Group lifts H1 2026 revenue outlook on SaaS growth",
+      "title": "RWS shares jump over 11% after Acogroup acquisition deal",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.882,
+      "score": 0.8915,
       "currencies": []
     },
     {
-      "title": "Japan, US confirm joint yen-buying intervention, signal more action",
+      "title": "Why is Eni stock sliding today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9299,
+      "currencies": []
+    },
+    {
+      "title": "Wells Fargo assumes Atmus Filtration stock coverage, sets $56 target",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Kay Granger, first Republican woman to lead House Appropriations Committee, dies at 83",
+      "title": "RBC upgrades Legrand stock rating on valuation opportunity",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Wells Fargo upgrades Solaris Energy Infrastructure stock rating on power execution",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why is TotalEnergies stock slipping today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9152,
+      "currencies": []
+    },
+    {
+      "title": "Why is Bristol-Myers Squibb stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
