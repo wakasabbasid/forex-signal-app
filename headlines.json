@@ -8,7 +8,7 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD: Why 1.3500 Matters as Dollar Momentum Shifts - Daily Forex",
+      "title": "GBP/USD: Why 1.3500 Matters as Dollar Momentum Shifts - dailyforex.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -16,13 +16,6 @@
         "GBP",
         "USD"
       ]
-    },
-    {
-      "title": "Joint U.S.-Japanese intervention boosts the yen \u2014 but will it be enough? - MarketWatch",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7826,
-      "currencies": []
     },
     {
       "title": "Japan's Mimura says joint yen action culmination of currency alliance - investingLive",
@@ -53,17 +46,17 @@
       "currencies": []
     },
     {
-      "title": "Yen jumps as Tokyo and Washington confirm joint FX intervention; dollar flattens - Investing.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5113,
-      "currencies": []
-    },
-    {
       "title": "FX Futures Positioning: Yen, Euro Bears Caught Short | COT report - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Yen jumps as Tokyo and Washington confirm joint FX intervention; dollar flattens - Investing.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5113,
       "currencies": []
     },
     {
@@ -81,66 +74,73 @@
       "currencies": []
     },
     {
-      "title": "Yen climbs for third straight session, euro/dollar awaits US data - Reuters",
+      "title": "Yen extends rally as coordinated intervention by Japan and the US boosts the currency - Economies.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.929,
+      "currencies": []
+    },
+    {
+      "title": "What the market is saying about the U.S. intervention to prop up the yen - Forex Factory",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Mercury General earnings in focus: Can profitability hold?",
+      "title": "Form 144 STANDEX INTERNATIONAL CORP/DE/ For: 3 August",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Cohen & Company posts strong Q2 2026 profit growth",
+      "title": "Form 144 NEWMONT Corp /DE/ For: 3 August",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9496,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Poland stocks higher at close of trade; WIG30 up 0.65%",
+      "title": "Form 144 GENERAC HOLDINGS INC. For: 3 August",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9331,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Jazz Pharma in the spotlight: Can earnings momentum continue?",
+      "title": "Form 144 GREIF For: 3 August",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8276,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "MPLX earnings in focus as distribution growth plan faces test",
+      "title": "Yen holds gains after Japan, US confirm joint intervention, signal more action",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7267,
+      "score": 0.7545,
       "currencies": []
     },
     {
-      "title": "DigitalBridge earnings loom as SoftBank deal nears close",
+      "title": "States sue over Trump policy of sharing benefits data with immigration authorities",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6518,
+      "score": -0.9433,
       "currencies": []
     },
     {
-      "title": "BWXT earnings up next: Nuclear expansion faces profitability test",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8053,
-      "currencies": []
-    },
-    {
-      "title": "Ametek earnings up next: Can acquisitions fuel double-digit growth?",
+      "title": "Trump expected to attend event with mining execs amid critical minerals push",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Ferragamo posts profit as second quarter sales rise 4.6%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9516,
       "currencies": []
     }
   ],
