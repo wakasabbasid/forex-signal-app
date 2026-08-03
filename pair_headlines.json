@@ -1,28 +1,20 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/JPY": [
-      {
-        "title": "USD/MXN Slides into Lower Realms as Risk Appetite Waits - DailyForex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9247
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/GBP Price Forecast: Below the bottom of the bullish channel at 0.8570",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8608
-      }
-    ],
     "GBP/USD": [
       {
-        "title": "EUR/GBP Price Forecast: Below the bottom of the bullish channel at 0.8570",
+        "title": "GBP/USD: Why 1.3500 Matters as Dollar Momentum Shifts - Daily Forex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "USD/CHF": [
+      {
+        "title": "USD/CHF Price Forecast: Technical outlook stays constructive above 0.8000",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8608
+        "label": "bullish",
+        "score": 0.3989
       }
     ]
   }

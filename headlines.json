@@ -8,11 +8,12 @@
       "currencies": []
     },
     {
-      "title": "USD/MXN Slides into Lower Realms as Risk Appetite Waits - DailyForex",
+      "title": "GBP/USD: Why 1.3500 Matters as Dollar Momentum Shifts - Daily Forex",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9247,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
+        "GBP",
         "USD"
       ]
     },
@@ -24,10 +25,17 @@
       "currencies": []
     },
     {
-      "title": "Yen climbs as traders watch for further US-Japan forex intervention - The Business Times",
+      "title": "Japan's Mimura says joint yen action culmination of currency alliance - investingLive",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.3948,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "BREAKING NEWS: Finance chief mum on whether Japan intervened in currency market Mon. - Japan Wire by Kyodo News",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -38,24 +46,17 @@
       "currencies": []
     },
     {
-      "title": "BREAKING NEWS: U.S.-Japan currency actions \"countered disorderly yen movements\": Bessent - Japan Wire by Kyodo News",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan's Mimura says joint yen action culmination of currency alliance - investingLive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "China to expand institutional opening-up of forex in H2 - China Daily",
+      "title": "Yen leaps after joint US-Japan forex intervention, leaving the US dollar bruised - The Business Times",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8353,
+      "score": 0.516,
+      "currencies": []
+    },
+    {
+      "title": "Yen jumps as Tokyo and Washington confirm joint FX intervention; dollar flattens - Investing.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5113,
       "currencies": []
     },
     {
@@ -80,66 +81,66 @@
       "currencies": []
     },
     {
-      "title": "Bessent Suggests Japan May Have Intervened into Forex Markets - nippon.com",
+      "title": "Yen climbs for third straight session, euro/dollar awaits US data - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Agnico Eagle at Diggers & Dealers: growth plan leans on ore bodies",
+      "title": "Mercury General earnings in focus: Can profitability hold?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: UPL posts q1 revenue growth, shares rise 2.6%",
+      "title": "Earnings call transcript: Cohen & Company posts strong Q2 2026 profit growth",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9511,
+      "score": 0.9496,
       "currencies": []
     },
     {
-      "title": "Why is IG stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9127,
-      "currencies": []
-    },
-    {
-      "title": "Bank of Korea to buy gold from local producers",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US shakes up currency markets with talk of unusual yen-buying via selling euros",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5206,
-      "currencies": []
-    },
-    {
-      "title": "TNL Mediagene forms committee to explore strategic options",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Clearmind Medicine to acquire 51% stake in EV charging firm",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Venu secures $25M bridge financing for Oklahoma amphitheater",
+      "title": "Poland stocks higher at close of trade; WIG30 up 0.65%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.926,
+      "score": 0.9331,
+      "currencies": []
+    },
+    {
+      "title": "Jazz Pharma in the spotlight: Can earnings momentum continue?",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8276,
+      "currencies": []
+    },
+    {
+      "title": "MPLX earnings in focus as distribution growth plan faces test",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7267,
+      "currencies": []
+    },
+    {
+      "title": "DigitalBridge earnings loom as SoftBank deal nears close",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6518,
+      "currencies": []
+    },
+    {
+      "title": "BWXT earnings up next: Nuclear expansion faces profitability test",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8053,
+      "currencies": []
+    },
+    {
+      "title": "Ametek earnings up next: Can acquisitions fuel double-digit growth?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
