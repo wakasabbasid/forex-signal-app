@@ -1,26 +1,28 @@
 {
   "run_id": 1,
   "pairs": {
-    "AUD/USD": [
-      {
-        "title": "AUD/USD Signal: Forecast as a Fragile Recovery Emerges - Daily Forex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.6878
-      }
-    ],
     "USD/JPY": [
       {
-        "title": "USD/JPY holds lower to start the week as US enters the intervention fray",
-        "source": "ForexLive",
+        "title": "USD/MXN Slides into Lower Realms as Risk Appetite Waits - DailyForex",
+        "source": "Google News",
         "label": "bearish",
-        "score": -0.9342
-      },
+        "score": -0.9247
+      }
+    ],
+    "EUR/USD": [
       {
-        "title": "Gold holds above $4,050 amid receding Fed hike bets; USD recovery caps gains",
+        "title": "EUR/GBP Price Forecast: Below the bottom of the bullish channel at 0.8570",
         "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.7881
+        "label": "bearish",
+        "score": -0.8608
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "EUR/GBP Price Forecast: Below the bottom of the bullish channel at 0.8570",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8608
       }
     ]
   }

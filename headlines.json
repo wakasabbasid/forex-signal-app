@@ -1,13 +1,6 @@
 {
   "headlines": [
     {
-      "title": "Japan\u2019s top currency diplomat stays silent on Trump\u2019s forex intervention remarks - Crypto Briefing",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
       "label": "neutral",
@@ -15,20 +8,40 @@
       "currencies": []
     },
     {
-      "title": "AUD/USD Signal: Forecast as a Fragile Recovery Emerges - Daily Forex",
+      "title": "USD/MXN Slides into Lower Realms as Risk Appetite Waits - DailyForex",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.6878,
+      "score": -0.9247,
       "currencies": [
-        "AUD",
         "USD"
       ]
     },
     {
-      "title": "Dollar falls sharply vs. yen amid warnings of further intervention - Japan Wire by Kyodo News",
+      "title": "Joint U.S.-Japanese intervention boosts the yen \u2014 but will it be enough? - MarketWatch",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7826,
+      "currencies": []
+    },
+    {
+      "title": "Yen climbs as traders watch for further US-Japan forex intervention - The Business Times",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9022,
+      "score": -0.3948,
+      "currencies": []
+    },
+    {
+      "title": "Why the falling yen forced the U.S. to intervene in global forex markets - Seeking Alpha",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "BREAKING NEWS: U.S.-Japan currency actions \"countered disorderly yen movements\": Bessent - Japan Wire by Kyodo News",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -53,31 +66,10 @@
       "currencies": []
     },
     {
-      "title": "Yen climbs as traders watch for further US-Japan forex intervention - The Business Times",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.3948,
-      "currencies": []
-    },
-    {
       "title": "Dollar suddenly falls against yen, traders on alert for further intervention - Yahoo Finance UK",
       "source": "Google News",
       "label": "bearish",
       "score": -0.718,
-      "currencies": []
-    },
-    {
-      "title": "Yen extends rally as coordinated intervention by Japan and the US boosts the currency - Economies.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.929,
-      "currencies": []
-    },
-    {
-      "title": "Bessent Suggests Japan May Have Intervened into Forex Markets - nippon.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -88,59 +80,66 @@
       "currencies": []
     },
     {
-      "title": "Eurozone manufacturing output rises at fastest pace since March 2022",
+      "title": "Bessent Suggests Japan May Have Intervened into Forex Markets - nippon.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Agnico Eagle at Diggers & Dealers: growth plan leans on ore bodies",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: UPL posts q1 revenue growth, shares rise 2.6%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9292,
+      "score": 0.9511,
       "currencies": []
     },
     {
-      "title": "RWS shares jump over 11% after Acogroup acquisition deal",
+      "title": "Why is IG stock sliding today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9127,
+      "currencies": []
+    },
+    {
+      "title": "Bank of Korea to buy gold from local producers",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US shakes up currency markets with talk of unusual yen-buying via selling euros",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5206,
+      "currencies": []
+    },
+    {
+      "title": "TNL Mediagene forms committee to explore strategic options",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Clearmind Medicine to acquire 51% stake in EV charging firm",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Venu secures $25M bridge financing for Oklahoma amphitheater",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8915,
-      "currencies": []
-    },
-    {
-      "title": "Why is Eni stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9299,
-      "currencies": []
-    },
-    {
-      "title": "Wells Fargo assumes Atmus Filtration stock coverage, sets $56 target",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "RBC upgrades Legrand stock rating on valuation opportunity",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Wells Fargo upgrades Solaris Energy Infrastructure stock rating on power execution",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is TotalEnergies stock slipping today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9152,
-      "currencies": []
-    },
-    {
-      "title": "Why is Bristol-Myers Squibb stock surging today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "score": 0.926,
       "currencies": []
     }
   ],
