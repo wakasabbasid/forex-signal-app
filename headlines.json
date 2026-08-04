@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "title": "Japan Likely Bought 5 T. Yen in Forex Intervention Fri. - nippon.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -25,7 +25,7 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY Slammed to Start the Week, then Gets a Bounce - FOREX.com",
+      "title": "USD/JPY Slammed to Start the Week, then Gets a Bounce - forex.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "title": "BREAKING NEWS: Finance chief mum on whether Japan intervened in currency market Mon. - Japan Wire by Kyodo News",
+      "title": "Japan ready to take decisive action on forex, finance minister says - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -49,10 +49,17 @@
       "currencies": []
     },
     {
-      "title": "Yen leaps after joint US-Japan forex intervention, leaving the US dollar bruised - The Business Times",
+      "title": "XAUUSD Is Quoted Like a Currency Pair and Behaves Like Nothing Else on the Book - Forex Factory",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.516,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "BREAKING NEWS: Finance chief mum on whether Japan intervened in currency market Mon. - Japan Wire by Kyodo News",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -63,10 +70,10 @@
       "currencies": []
     },
     {
-      "title": "Japan, US make 1st joint forex intervention in 15 yrs, further moves eyed - \u6bce\u65e5\u65b0\u805e",
+      "title": "Yen leaps after joint US-Japan forex intervention, leaving the US dollar bruised - businesstimes.com.sg",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.6964,
       "currencies": []
     },
     {
@@ -79,75 +86,66 @@
       ]
     },
     {
-      "title": "Yen jumps as Tokyo and Washington confirm joint FX intervention; dollar flattens - Investing.com",
+      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.5113,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "USD/MXN Slides into Lower Realms as Risk Appetite Waits - DailyForex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9247,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Eli Lilly to offer early access to next-gen obesity drug to some patients",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6647,
-      "currencies": []
-    },
-    {
-      "title": "US State Department to close consulates in Canada, Japan and Indonesia, sources say",
+      "title": "Status of US-Iran talks uncertain as ship struck in Hormuz",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9537,
+      "score": -0.8039,
       "currencies": []
     },
     {
-      "title": "Form 4 Rush Enterprises A Inc For: 3 August",
+      "title": "Guggenheim Names Top Biotechnology Stock Pick",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 F5 Networks Inc For: 3 August",
+      "title": "SK Hynix and South Korean union hold talks over bonus pay",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Snap beats revenue estimates on ad boost from World Cup, shares surge",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5559,
-      "currencies": []
-    },
-    {
-      "title": "Exclusive-Mexico\u2019s largest meat exporter SuKarne explores sale, sources say",
+      "title": "Analysis-How Iran is widening its pressure campaign to force US concessions",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "onsemi Q2 2026 slides: margins expand, AI data center revenue doubles",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9505,
-      "currencies": []
-    },
-    {
-      "title": "TikTok settling three teen social media lawsuits ahead of trial",
+      "title": "Short seller Gotham City Research accuses Sumitomo Pharma of misstating revenue",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7248,
+      "score": -0.9551,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Republic Services Inc For: 3 August",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Celsius Holdings Inc For: 3 August",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Form 4 Super Group (SGHC) Ltd For: 3 August",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

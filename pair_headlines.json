@@ -11,7 +11,7 @@
     ],
     "USD/JPY": [
       {
-        "title": "USD/JPY Slammed to Start the Week, then Gets a Bounce - FOREX.com",
+        "title": "USD/JPY Slammed to Start the Week, then Gets a Bounce - forex.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -23,30 +23,62 @@
         "score": 0.6676
       },
       {
-        "title": "USD/MXN Slides into Lower Realms as Risk Appetite Waits - DailyForex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9247
-      },
-      {
-        "title": "Gold slips as USD rebounds, strong ISM data clouds Fed path",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.5803
-      }
-    ],
-    "USD/CHF": [
-      {
-        "title": "USD/CHF Price Forecast: Bulls target 0.8150 after SMA bounce",
-        "source": "FXStreet",
+        "title": "PBOC sets USD/ CNY central rate at 6.7917 (vs. estimate at 6.7595)",
+        "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "USD/CHF Price Forecast: Technical outlook stays constructive above 0.8000",
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7595 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "AUD/JPY Price Forecast: Rebounds above 110.50, but remains capped below key resistance",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.518
+      },
+      {
+        "title": "USD/JPY Price Forecast: A short-term respite likely to near 160.00",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.3989
+        "score": 0.8405
+      },
+      {
+        "title": "EUR/JPY Price Forecast: Trades near 181.50 after rebounding from eight-month lows",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.5984
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD holds gains above $58.50 on US-Iran talk signals",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9476
+      },
+      {
+        "title": "Canadian Dollar consolidates below 1.4050 vs USD as rebounding oil prices cap upside",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9408
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "AUD/JPY Price Forecast: Rebounds above 110.50, but remains capped below key resistance",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.518
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/JPY Price Forecast: Trades near 181.50 after rebounding from eight-month lows",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.5984
       }
     ]
   }
