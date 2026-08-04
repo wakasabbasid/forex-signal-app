@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "AUD/USD Forex Signal 04/08: Stuck in a Range - Daily Forex",
       "source": "Google News",
       "label": "bearish",
@@ -9,13 +16,6 @@
         "AUD",
         "USD"
       ]
-    },
-    {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
     },
     {
       "title": "Pakistan applies for $10bn US forex facility, leverages Iran mediation - Nikkei Asia",
@@ -29,13 +29,6 @@
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US Dollar Index Holds Its Uptrend While the Yen Cracks First - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.4533,
       "currencies": []
     },
     {
@@ -53,21 +46,18 @@
       "currencies": []
     },
     {
+      "title": "US Dollar Index Holds Its Uptrend While the Yen Cracks First - forex.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.4533,
+      "currencies": []
+    },
+    {
       "title": "Banks mobilise $27.99 billion via FCNR deposits since RBI introduced dollar-rupee forex swap facility - ETGovernment.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
-    },
-    {
-      "title": "USD/CAD Forecast: The Loonie Remains on Shaky Ground - City Index UK",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9469,
-      "currencies": [
-        "USD",
-        "CAD"
-      ]
     },
     {
       "title": "BREAKING NEWS: Finance chief mum on whether Japan intervened in currency market Mon. - Japan Wire by Kyodo News",
@@ -84,6 +74,16 @@
       "currencies": []
     },
     {
+      "title": "USD/CAD Forecast: The Loonie Remains on Shaky Ground - City Index UK",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9469,
+      "currencies": [
+        "USD",
+        "CAD"
+      ]
+    },
+    {
       "title": "Yen leaps after joint US-Japan forex intervention, leaving the US dollar bruised - The Business Times",
       "source": "Google News",
       "label": "bullish",
@@ -91,61 +91,59 @@
       "currencies": []
     },
     {
-      "title": "Materion earnings up next as analysts eye margin expansion",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8664,
-      "currencies": []
-    },
-    {
-      "title": "Fortune Brands earnings on deck: Can new CEO turn tide?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Delek US earnings up next: Can refining boom drive turnaround?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Hinge Health earnings on deck: Can digital health firm sustain momentum?",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6017,
-      "currencies": []
-    },
-    {
-      "title": "Mbx Biosciences stock hits all-time high of 69.5 USD",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7316,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Hagerty earnings up next: Can partnerships offset wider losses?",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6947,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Sabra Health Care REIT misses Q2 2026 EPS, beats revenue",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Credit Acceptance earnings on deck amid subprime loan stress",
+      "title": "Atomera earnings missed by $0.04, revenue topped estimates",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7456,
+      "score": -0.9689,
+      "currencies": []
+    },
+    {
+      "title": "Red Rock Resorts earnings beat by $0.17, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9425,
+      "currencies": []
+    },
+    {
+      "title": "Booking earnings beat by $0.10, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9427,
+      "currencies": []
+    },
+    {
+      "title": "Dow, S&P 500 close at record on AI-linked earnings, Mideast deal hopes",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7904,
+      "currencies": []
+    },
+    {
+      "title": "Judge sets March 2027 trial on Paramount-Warner Bros deal",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Gilead second-quarter sales rise 8%, beating Wall Street estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9479,
+      "currencies": []
+    },
+    {
+      "title": "SpaceX quarterly revenue surges in debut results on strong growth in its Starlink business",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9348,
+      "currencies": []
+    },
+    {
+      "title": "Arrowhead acquires priority review voucher for plozasiran filing",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.501,
       "currencies": []
     }
   ],
