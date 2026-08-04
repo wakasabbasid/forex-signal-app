@@ -1,24 +1,24 @@
 {
   "headlines": [
     {
-      "title": "AUD/USD Forex Signal 04/08: Stuck in a Range - DailyForex",
+      "title": "AUD/USD Forex Signal 04/08: Stuck in a Range - Daily Forex",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9512,
+      "score": -0.9225,
       "currencies": [
         "AUD",
         "USD"
       ]
     },
     {
-      "title": "Scott Bessent\u2019s yen intervention signals new era of US \u2018currency activism\u2019 - Financial Times",
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Japan Likely Bought 5 T. Yen in Forex Intervention Fri. - nippon.com",
+      "title": "Scott Bessent\u2019s yen intervention signals new era of US \u2018currency activism\u2019 - Financial Times",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -32,6 +32,13 @@
       "currencies": []
     },
     {
+      "title": "Japan Likely Bought 5 T. Yen in Forex Intervention Fri. - nippon.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "US Dollar Index Holds Its Uptrend While the Yen Cracks First - FOREX.com",
       "source": "Google News",
       "label": "bearish",
@@ -39,27 +46,18 @@
       "currencies": []
     },
     {
-      "title": "Japan finance minister repeats readiness for decisive action on forex - Reuters",
+      "title": "Banks mobilise $27.99 billion via FCNR deposits since RBI introduced dollar-rupee forex swap facility - ETGovernment.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Japan's Mimura says joint yen action culmination of currency alliance - investingLive",
+      "title": "Japan's Mimura says joint yen action culmination of currency alliance - investinglive.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
-    },
-    {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
     },
     {
       "title": "BREAKING NEWS: Finance chief mum on whether Japan intervened in currency market Mon. - Japan Wire by Kyodo News",
@@ -76,73 +74,75 @@
       "currencies": []
     },
     {
-      "title": "Yen leaps after joint US-Japan forex intervention, leaving the US dollar bruised - The Business Times",
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.516,
-      "currencies": []
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
     },
     {
-      "title": "Japan ready to take decisive action on forex, finance minister says - Reuters",
+      "title": "Japan finance minister repeats readiness for decisive action on forex - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Anthropic secures compute power in multi-billion dollar Norway data center deal",
+      "title": "Gulfport Energy Q2 2026 slides: inventory expansion, FCF growth focus",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.4967,
+      "score": 0.7408,
       "currencies": []
     },
     {
-      "title": "Why is Corvex stock surging today?",
+      "title": "MPLX Q2 2026 slides: 5% EBITDA growth drives near 52-week high",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.937,
       "currencies": []
     },
     {
-      "title": "Cycurion closes acquisition of Kustom video solutions unit",
+      "title": "U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 0.23%",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.924,
       "currencies": []
     },
     {
-      "title": "Spotify forecasts profit and monthly active users below estimates, shares fall",
+      "title": "Spain stocks higher at close of trade; IBEX 35 up 0.21%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.934,
+      "currencies": []
+    },
+    {
+      "title": "Portugal stocks lower at close of trade; PSI down 0.03%",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9579,
+      "score": -0.9652,
       "currencies": []
     },
     {
-      "title": "V2X wins $500M Air Force contract for C-12 aircraft support",
+      "title": "Williams Q2 2026 slides: strategic deals fuel 11%+ growth outlook",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9367,
+      "score": 0.9325,
       "currencies": []
     },
     {
-      "title": "Dollar holds steady with euro as U.S. reaffirms FX intervention commitment",
+      "title": "Netherlands stocks higher at close of trade; AEX up 0.93%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7124,
+      "score": 0.9399,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Pantheon Investments narrows discount in H2 2026",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9171,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Godrej Properties Q1 2026 bookings rise, profit falls",
+      "title": "Italy stocks higher at close of trade; Investing.com Italy 40 up 1.31%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7168,
+      "score": 0.9308,
       "currencies": []
     }
   ],
