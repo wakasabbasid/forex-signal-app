@@ -25,13 +25,6 @@
       "currencies": []
     },
     {
-      "title": "Japan Likely Bought 5 T. Yen in Forex Intervention Fri. - nippon.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Yen climbs for third straight session, euro/dollar awaits US data - CNBC",
       "source": "Google News",
       "label": "neutral",
@@ -46,10 +39,17 @@
       "currencies": []
     },
     {
-      "title": "US Dollar Index Holds Its Uptrend While the Yen Cracks First - forex.com",
+      "title": "US Dollar Index Holds Its Uptrend While the Yen Cracks First - FOREX.com",
       "source": "Google News",
       "label": "bearish",
       "score": -0.4533,
+      "currencies": []
+    },
+    {
+      "title": "Japan Likely Bought 5 T. Yen in Forex Intervention Fri. - nippon.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -60,11 +60,13 @@
       "currencies": []
     },
     {
-      "title": "BREAKING NEWS: Finance chief mum on whether Japan intervened in currency market Mon. - Japan Wire by Kyodo News",
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
+      "label": "bullish",
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "Japan, U.S. intervene in forex market for first time in 15 years; pressure to sell yen remains strong - Asia News Network",
@@ -74,14 +76,11 @@
       "currencies": []
     },
     {
-      "title": "USD/CAD Forecast: The Loonie Remains on Shaky Ground - City Index UK",
+      "title": "BREAKING NEWS: Finance chief mum on whether Japan intervened in currency market Mon. - english.kyodonews.net",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9469,
-      "currencies": [
-        "USD",
-        "CAD"
-      ]
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "Yen leaps after joint US-Japan forex intervention, leaving the US dollar bruised - The Business Times",
@@ -91,59 +90,59 @@
       "currencies": []
     },
     {
-      "title": "Atomera earnings missed by $0.04, revenue topped estimates",
+      "title": "Earnings call transcript: Syndax misses Q2 2026 estimates as shares fall after hours",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9689,
+      "score": -0.962,
       "currencies": []
     },
     {
-      "title": "Red Rock Resorts earnings beat by $0.17, revenue topped estimates",
+      "title": "MasterBrand Q2 2026 slides: merger synergies rise amid margin pressure",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9425,
+      "score": 0.9346,
       "currencies": []
     },
     {
-      "title": "Booking earnings beat by $0.10, revenue topped estimates",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9427,
-      "currencies": []
-    },
-    {
-      "title": "Dow, S&P 500 close at record on AI-linked earnings, Mideast deal hopes",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7904,
-      "currencies": []
-    },
-    {
-      "title": "Judge sets March 2027 trial on Paramount-Warner Bros deal",
+      "title": "EVERTEC Q2 2026 slides: LatAm growth drives earnings beat",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Gilead second-quarter sales rise 8%, beating Wall Street estimates",
+      "title": "Earnings call transcript: Green Thumb tops Q2 2026 revenue forecast as stock rises",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9479,
+      "score": 0.8611,
       "currencies": []
     },
     {
-      "title": "SpaceX quarterly revenue surges in debut results on strong growth in its Starlink business",
+      "title": "DXP Enterprises acquires Mequipco to expand water division",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9348,
+      "score": 0.6644,
       "currencies": []
     },
     {
-      "title": "Arrowhead acquires priority review voucher for plozasiran filing",
+      "title": "Earnings call transcript: Amgen beats Q2 2026 estimates and raises guidance",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.501,
+      "score": 0.9025,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Gilead beats Q2 2026 forecasts, stock eases after hours",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.713,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: ATEC tops Q2 2026 revenue forecast, lifts profit outlook",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9351,
       "currencies": []
     }
   ],

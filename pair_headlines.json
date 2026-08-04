@@ -9,26 +9,18 @@
         "score": -0.9225
       }
     ],
-    "USD/CAD": [
-      {
-        "title": "USD/CAD Forecast: The Loonie Remains on Shaky Ground - City Index UK",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9469
-      }
-    ],
     "USD/JPY": [
+      {
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.6676
+      },
       {
         "title": "USD/JPY Price Forecast: 200-day SMA caps rebound after intervention-led selloff",
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.8051
-      },
-      {
-        "title": "USD And JPY: Trump, Bessent Intervene to Rescue a Weakening Japanese Yen",
-        "source": "Bloomberg",
-        "label": "bullish",
-        "score": 0.9186
       }
     ]
   }
