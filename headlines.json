@@ -25,31 +25,16 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY Slammed to Start the Week, then Gets a Bounce - forex.com",
+      "title": "AUD forecast: Is the Aussie dollar warning of a major Asia FX shift? - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
-        "USD",
-        "JPY"
+        "AUD"
       ]
     },
     {
       "title": "Japan ready to take decisive action on forex, finance minister says - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why the falling yen forced the U.S. to intervene in global forex markets - Seeking Alpha",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "XAUUSD Is Quoted Like a Currency Pair and Behaves Like Nothing Else on the Book - Forex Factory",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -70,10 +55,31 @@
       "currencies": []
     },
     {
-      "title": "Yen leaps after joint US-Japan forex intervention, leaving the US dollar bruised - businesstimes.com.sg",
+      "title": "Why the falling yen forced the U.S. to intervene in global forex markets - Seeking Alpha",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.6964,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Yen leaps after joint US-Japan forex intervention, leaving the US dollar bruised - The Business Times",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.516,
+      "currencies": []
+    },
+    {
+      "title": "XAUUSD Is Quoted Like a Currency Pair and Behaves Like Nothing Else on the Book - Forex Factory",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -86,66 +92,59 @@
       ]
     },
     {
-      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
-      "source": "Google News",
+      "title": "Rox Resources at Diggers & Dealers: growth path widens at Youanmi",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9125,
+      "currencies": []
+    },
+    {
+      "title": "Catheter Precision completes $2.8 million Series C-4 preferred stock sale",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Status of US-Iran talks uncertain as ship struck in Hormuz",
+      "title": "Telegram says Apple suspension followed content norms violation by one user",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8039,
+      "score": -0.9365,
       "currencies": []
     },
     {
-      "title": "Guggenheim Names Top Biotechnology Stock Pick",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "SK Hynix and South Korean union hold talks over bonus pay",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Analysis-How Iran is widening its pressure campaign to force US concessions",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Short seller Gotham City Research accuses Sumitomo Pharma of misstating revenue",
+      "title": "Earnings call transcript: Amadeus FiRe cuts 2026 outlook as H1 profit turns to loss",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9551,
+      "score": -0.9651,
       "currencies": []
     },
     {
-      "title": "Form 4 Republic Services Inc For: 3 August",
+      "title": "Why is Domino\u2019s Pizza stock climbing today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Form 4 Celsius Holdings Inc For: 3 August",
+      "title": "bp Q2 2026 slides: profit surges 78% as trading offsets production decline",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.921,
       "currencies": []
     },
     {
-      "title": "Form 4 Super Group (SGHC) Ltd For: 3 August",
+      "title": "Verbio shares rise 6.5% on stronger earnings forecast",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.953,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: AGC Inc. Q2 2026 profit rises, stock falls 7.9%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9329,
       "currencies": []
     }
   ],
