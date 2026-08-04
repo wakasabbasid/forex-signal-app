@@ -9,24 +9,48 @@
         "score": -0.9225
       }
     ],
+    "USD/CAD": [
+      {
+        "title": "USD/CAD Forecast: The Loonie Remains on Shaky Ground - City Index UK",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9469
+      }
+    ],
     "USD/JPY": [
       {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.6676
-      },
-      {
-        "title": "Nordson Corporation stock hits all-time high at 307.92 USD",
+        "title": "Mbx Biosciences stock hits all-time high of 69.5 USD",
         "source": "Investing.com",
         "label": "bullish",
-        "score": 0.6091
+        "score": 0.7316
       },
       {
-        "title": "British Pound rebounds as soft JOLTS, Oil fall pressures the USD",
+        "title": "USD/JPY Price Forecast: 200-day SMA caps rebound after intervention-led selloff",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8051
+      },
+      {
+        "title": "British Pound rebounds as soft JOLTS and Oil decline pressure USD",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9034
+        "score": -0.8821
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "US Dollar Price Forecast: NFP Week Puts DXY, EUR/USD and GBP/USD in Focus",
+        "source": "Yahoo Finance",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "US Dollar Price Forecast: NFP Week Puts DXY, EUR/USD and GBP/USD in Focus",
+        "source": "Yahoo Finance",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }

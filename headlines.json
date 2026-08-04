@@ -18,13 +18,6 @@
       "currencies": []
     },
     {
-      "title": "Scott Bessent\u2019s yen intervention signals new era of US \u2018currency activism\u2019 - Financial Times",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Pakistan applies for $10bn US forex facility, leverages Iran mediation - Nikkei Asia",
       "source": "Google News",
       "label": "bullish",
@@ -46,6 +39,20 @@
       "currencies": []
     },
     {
+      "title": "Yen climbs for third straight session, euro/dollar awaits US data - CNBC",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japan's Mimura says joint yen action culmination of currency alliance - investingLive",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Banks mobilise $27.99 billion via FCNR deposits since RBI introduced dollar-rupee forex swap facility - ETGovernment.com",
       "source": "Google News",
       "label": "neutral",
@@ -53,11 +60,14 @@
       "currencies": []
     },
     {
-      "title": "Japan's Mimura says joint yen action culmination of currency alliance - investinglive.com",
+      "title": "USD/CAD Forecast: The Loonie Remains on Shaky Ground - City Index UK",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
+      "label": "bearish",
+      "score": -0.9469,
+      "currencies": [
+        "USD",
+        "CAD"
+      ]
     },
     {
       "title": "BREAKING NEWS: Finance chief mum on whether Japan intervened in currency market Mon. - Japan Wire by Kyodo News",
@@ -74,75 +84,68 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "title": "Yen leaps after joint US-Japan forex intervention, leaving the US dollar bruised - The Business Times",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
+      "score": 0.516,
+      "currencies": []
     },
     {
-      "title": "Japan finance minister repeats readiness for decisive action on forex - Reuters",
-      "source": "Google News",
+      "title": "Materion earnings up next as analysts eye margin expansion",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8664,
+      "currencies": []
+    },
+    {
+      "title": "Fortune Brands earnings on deck: Can new CEO turn tide?",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Gulfport Energy Q2 2026 slides: inventory expansion, FCF growth focus",
+      "title": "Delek US earnings up next: Can refining boom drive turnaround?",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7408,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "MPLX Q2 2026 slides: 5% EBITDA growth drives near 52-week high",
+      "title": "Hinge Health earnings on deck: Can digital health firm sustain momentum?",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.937,
+      "score": 0.6017,
       "currencies": []
     },
     {
-      "title": "U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 0.23%",
+      "title": "Mbx Biosciences stock hits all-time high of 69.5 USD",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.924,
+      "score": 0.7316,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Hagerty earnings up next: Can partnerships offset wider losses?",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6947,
       "currencies": []
     },
     {
-      "title": "Spain stocks higher at close of trade; IBEX 35 up 0.21%",
+      "title": "Earnings call transcript: Sabra Health Care REIT misses Q2 2026 EPS, beats revenue",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.934,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Portugal stocks lower at close of trade; PSI down 0.03%",
+      "title": "Credit Acceptance earnings on deck amid subprime loan stress",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9652,
-      "currencies": []
-    },
-    {
-      "title": "Williams Q2 2026 slides: strategic deals fuel 11%+ growth outlook",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9325,
-      "currencies": []
-    },
-    {
-      "title": "Netherlands stocks higher at close of trade; AEX up 0.93%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9399,
-      "currencies": []
-    },
-    {
-      "title": "Italy stocks higher at close of trade; Investing.com Italy 40 up 1.31%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9308,
+      "score": -0.7456,
       "currencies": []
     }
   ],
