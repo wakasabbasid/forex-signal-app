@@ -11,10 +11,31 @@
       ]
     },
     {
+      "title": "Scott Bessent\u2019s yen intervention signals new era of US \u2018currency activism\u2019 - Financial Times",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Japan Likely Bought 5 T. Yen in Forex Intervention Fri. - nippon.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Pakistan applies for $10bn US forex facility, leverages Iran mediation - Nikkei Asia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6555,
+      "currencies": []
+    },
+    {
+      "title": "US Dollar Index Holds Its Uptrend While the Yen Cracks First - FOREX.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.4533,
       "currencies": []
     },
     {
@@ -32,12 +53,12 @@
       "currencies": []
     },
     {
-      "title": "AUD forecast: Is the Aussie dollar warning of a major Asia FX shift? - FOREX.com",
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.6676,
       "currencies": [
-        "AUD"
+        "USD"
       ]
     },
     {
@@ -62,87 +83,66 @@
       "currencies": []
     },
     {
-      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
+      "title": "Japan ready to take decisive action on forex, finance minister says - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why the falling yen forced the U.S. to intervene in global forex markets - Seeking Alpha",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "exchange rate - britannica.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "XAUUSD Is Quoted Like a Currency Pair and Behaves Like Nothing Else on the Book - Forex Factory",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Revvity beats estimates, raises guidance as stock jumps",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is Apple stock gaining today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "BofA says this memory stock could double. Here are 5 reasons why",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: SIG plc posts resilient H1 2026 as leverage stays high",
+      "title": "Anthropic secures compute power in multi-billion dollar Norway data center deal",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9375,
+      "score": 0.4967,
       "currencies": []
     },
     {
-      "title": "DuPont shares dip slightly despite beating Q2 estimates, guidance raise",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9649,
-      "currencies": []
-    },
-    {
-      "title": "Status of US-Iran talks uncertain as ship struck in Hormuz",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8039,
-      "currencies": []
-    },
-    {
-      "title": "Duke Energy earnings beat by $0.11, revenue fell short of estimates",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7892,
-      "currencies": []
-    },
-    {
-      "title": "Hammerson admits 53.2 million new shares to trading",
+      "title": "Why is Corvex stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Cycurion closes acquisition of Kustom video solutions unit",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Spotify forecasts profit and monthly active users below estimates, shares fall",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9579,
+      "currencies": []
+    },
+    {
+      "title": "V2X wins $500M Air Force contract for C-12 aircraft support",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9367,
+      "currencies": []
+    },
+    {
+      "title": "Dollar holds steady with euro as U.S. reaffirms FX intervention commitment",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7124,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Pantheon Investments narrows discount in H2 2026",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9171,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Godrej Properties Q1 2026 bookings rise, profit falls",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7168,
       "currencies": []
     }
   ],
