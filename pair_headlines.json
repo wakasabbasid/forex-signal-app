@@ -3,10 +3,10 @@
   "pairs": {
     "AUD/USD": [
       {
-        "title": "AUD/USD Forex Signal 05/08: Bullish Outlook - dailyforex.com",
+        "title": "AUD/USD Forex Signal 05/08: Bullish Outlook - Daily Forex",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bullish",
+        "score": 0.3571
       }
     ],
     "EUR/USD": [

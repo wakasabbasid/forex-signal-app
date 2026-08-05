@@ -15,24 +15,24 @@
       "currencies": []
     },
     {
-      "title": "Forex reserves fall for second month - taipeitimes.com",
+      "title": "Forex reserves fall for second month - Taipei Times",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9458,
+      "score": -0.9701,
       "currencies": []
     },
     {
-      "title": "AUD/USD Forex Signal 05/08: Bullish Outlook - dailyforex.com",
+      "title": "AUD/USD Forex Signal 05/08: Bullish Outlook - Daily Forex",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.3571,
       "currencies": [
         "AUD",
         "USD"
       ]
     },
     {
-      "title": "A tool rarely used: historic US intervention to save the yen - en.majalla.com",
+      "title": "A tool rarely used: historic US intervention to save the yen - Al Majalla",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "title": "Yen climbs for third straight session, euro/dollar awaits US data - CNBC",
+      "title": "Yen climbs for third straight session, euro/dollar awaits US data - cnbc.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -93,59 +93,59 @@
       "currencies": []
     },
     {
-      "title": "Meta releases Muse Code coding agent in beta",
+      "title": "Trump administration to impose 15% tariff in polysilicon probe meant to counter China",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Oil seesaws as traders weigh rising hopes for Hormuz deal against Houthi attacks",
+      "title": "Swiss Water reports Q2 revenue decline despite volume growth",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6958,
+      "score": -0.9759,
       "currencies": []
     },
     {
-      "title": "US Senate confirms Schwartz as CDC director",
+      "title": "Ferguson declares $0.89 quarterly dividend per share",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Blue Origin zeroes in on rocket engine issue as source of New Glenn explosion",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Exclusive-Iran threatens to hit Gulf states if US launches new strikes",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8644,
-      "currencies": []
-    },
-    {
-      "title": "Microsoft surges 11% above SMA with RSI at 77: Live levels",
+      "title": "Allstate earnings beat by $3.72, revenue topped estimates",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9364,
+      "score": 0.9387,
       "currencies": []
     },
     {
-      "title": "Mideast deal hopes lift Dow, S&P to records; SpaceX, AMD drag Nasdaq",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8873,
-      "currencies": []
-    },
-    {
-      "title": "Major Wall Street firms targeted in attempted cyberattacks, sources say",
+      "title": "Gold Royalty earnings matched, revenue fell short of estimates",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9099,
+      "score": -0.9451,
+      "currencies": []
+    },
+    {
+      "title": "What should investors do with AstraZeneca and Bristol-Myers after test ballon pops",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Occidental beats second quarter estimates on higher oil prices",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8879,
+      "currencies": []
+    },
+    {
+      "title": "Proposed Hormuz deal would give Iran control of inbound traffic, sources say",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
