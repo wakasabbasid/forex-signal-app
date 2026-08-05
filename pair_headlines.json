@@ -3,30 +3,26 @@
   "pairs": {
     "AUD/USD": [
       {
-        "title": "AUD/USD Signal: Stuck in a Range as Iron Ore Prices Dive - Daily Forex",
+        "title": "AUD/USD Forex Signal 05/08: Bullish Outlook - Daily Forex",
         "source": "Google News",
-        "label": "bearish",
-        "score": -0.9601
-      },
-      {
-        "title": "AUD/USD next in line for a technical breakout?",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bullish",
+        "score": 0.3571
       }
     ],
     "USD/JPY": [
       {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.6676
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD hits one-month high, eyes $62.00 after technical breakout",
+        "title": "Gold Price Forecast: XAU/USD hits fresh weekly highs beyond the top of a triangle pattern",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.9158
+        "score": 0.9169
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Price Forecast: Trades around 1.3450; bulls retain control above 100-hour SMA",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8715
       }
     ]
   }
