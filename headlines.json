@@ -8,6 +8,20 @@
       "currencies": []
     },
     {
+      "title": "Japan is buying yen in forex interventions. Where does it go? - Nikkei Asia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex reserves fall for second month - Taipei Times",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9701,
+      "currencies": []
+    },
+    {
       "title": "AUD/USD Signal: Bullish Outlook as Risk-On Sentiment Prevails - Daily Forex",
       "source": "Google News",
       "label": "bullish",
@@ -25,6 +39,16 @@
       "currencies": []
     },
     {
+      "title": "Euro Technical Outlook: EUR/USD Breakout Faces Its First Major Test - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
       "title": "Multi-Asset Trading: Why More Traders Are Moving Beyond Just Forex - Barchart.com",
       "source": "Google News",
       "label": "neutral",
@@ -32,18 +56,14 @@
       "currencies": []
     },
     {
-      "title": "Pakistan applies for $10bn US forex facility, leverages Iran mediation - Nikkei Asia",
+      "title": "Euro Technical Outlook: EUR/USD Breakout Faces Its First Major Test - City Index UK",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.6555,
-      "currencies": []
-    },
-    {
-      "title": "PESO WEAKENS TO \u20b160.751 VS. US DOLLAR The Philippine peso closed at \u20b160.751 against the US dollar on Aug. 5, 2026, based on the reference exchange rate released by the Bankers Association of the Philippines (BAP). #AllYouNeedToKnow - facebook.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8012,
-      "currencies": []
+      "score": 0.6421,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
     },
     {
       "title": "Yen climbs for third straight session, euro/dollar awaits US data - CNBC",
@@ -60,10 +80,10 @@
       "currencies": []
     },
     {
-      "title": "Japan Likely Bought 5 T. Yen in Forex Intervention Fri. - nippon.com",
+      "title": "PESO WEAKENS TO \u20b160.751 VS. US DOLLAR The Philippine peso closed at \u20b160.751 against the US dollar on Aug. 5, 2026, based on the reference exchange rate released by the Bankers Association of the Philippines (BAP). #AllYouNeedToKnow - facebook.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.8012,
       "currencies": []
     },
     {
@@ -74,73 +94,59 @@
       "currencies": []
     },
     {
-      "title": "Yen leaps after joint US-Japan forex intervention, leaving the US dollar bruised - The Business Times",
-      "source": "Google News",
+      "title": "Western Midstream earnings face test as Brazos deal lifts bar",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.516,
+      "score": 0.5942,
       "currencies": []
     },
     {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
-      "source": "Google News",
+      "title": "Why is Kyndryl stock sliding today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9288,
+      "currencies": []
+    },
+    {
+      "title": "Insmed earnings up next: Can Brinsupri hit $285M in Q2?",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Appian earnings up next: Can automation rebound from guidance?",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6049,
-      "currencies": []
-    },
-    {
-      "title": "Dar Al Arkan reports 11.4% rise in first-half net profit",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9508,
-      "currencies": []
-    },
-    {
-      "title": "CoStar Group stock edges up as CEO buys $2.5M in shares",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9358,
-      "currencies": []
-    },
-    {
-      "title": "Morocco stocks higher at close of trade; Moroccan All Shares up 1.48%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9456,
-      "currencies": []
-    },
-    {
-      "title": "Mueller Water earnings in focus as funding cliff looms",
+      "title": "McEwen Mining earnings loom with analysts cutting forecasts",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7887,
+      "score": -0.9644,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Talos Energy tops Q2 2026 estimates on record cash flow",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9397,
-      "currencies": []
-    },
-    {
-      "title": "Iovance earnings on deck: Can Amtagvi sales rebound?",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.938,
-      "currencies": []
-    },
-    {
-      "title": "Mizuho reiterates Outperform on SpaceX stock ahead of lockup",
+      "title": "CF Industries earnings on deck as nitrogen pricing clouds gather",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9029,
+      "score": -0.702,
+      "currencies": []
+    },
+    {
+      "title": "Trinity Capital Q2 2026 slides: record originations amid earnings miss",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6975,
+      "currencies": []
+    },
+    {
+      "title": "MACOM earnings in focus as chip maker chases 50% profit growth",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8661,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Phillips 66 beats Q2 2026 profit forecast as stock slips",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

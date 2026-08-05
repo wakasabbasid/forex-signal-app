@@ -9,12 +9,26 @@
         "score": 0.7294
       }
     ],
+    "EUR/USD": [
+      {
+        "title": "Euro Technical Outlook: EUR/USD Breakout Faces Its First Major Test - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Euro Technical Outlook: EUR/USD Breakout Faces Its First Major Test - City Index UK",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.6421
+      }
+    ],
     "USD/JPY": [
       {
-        "title": "Australian Dollar climbs as softer US data, improving risk sentiment weigh on the USD",
+        "title": "Australian Dollar climbs as softer US data, improving risk sentiment weigh on USD",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.9257
+        "score": 0.9229
       }
     ]
   }
