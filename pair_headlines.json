@@ -3,26 +3,18 @@
   "pairs": {
     "AUD/USD": [
       {
-        "title": "AUD/USD Forex Signal 05/08: Bullish Outlook - Daily Forex",
+        "title": "AUD/USD Signal: Bullish Outlook as Risk-On Sentiment Prevails - Daily Forex",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.3571
+        "score": 0.7294
       }
     ],
     "USD/JPY": [
       {
-        "title": "Gold Price Forecast: XAU/USD hits fresh weekly highs beyond the top of a triangle pattern",
+        "title": "Canadian Dollar firms as Oil rebounds, USD softens on weaker ADP data",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.9169
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "GBP/USD Price Forecast: Trades around 1.3450; bulls retain control above 100-hour SMA",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8715
+        "score": 0.5492
       }
     ]
   }

@@ -8,6 +8,16 @@
       "currencies": []
     },
     {
+      "title": "AUD/USD Signal: Bullish Outlook as Risk-On Sentiment Prevails - Daily Forex",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7294,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
+    },
+    {
       "title": "A tool rarely used: historic US intervention to save the yen - Al Majalla",
       "source": "Google News",
       "label": "neutral",
@@ -15,14 +25,25 @@
       "currencies": []
     },
     {
-      "title": "AUD/USD Forex Signal 05/08: Bullish Outlook - Daily Forex",
+      "title": "Multi-Asset Trading: Why More Traders Are Moving Beyond Just Forex - Barchart.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Pakistan applies for $10bn US forex facility, leverages Iran mediation - Nikkei Asia",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.3571,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
+      "score": 0.6555,
+      "currencies": []
+    },
+    {
+      "title": "PESO WEAKENS TO \u20b160.751 VS. US DOLLAR The Philippine peso closed at \u20b160.751 against the US dollar on Aug. 5, 2026, based on the reference exchange rate released by the Bankers Association of the Philippines (BAP). #AllYouNeedToKnow - facebook.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8012,
+      "currencies": []
     },
     {
       "title": "Yen climbs for third straight session, euro/dollar awaits US data - CNBC",
@@ -53,13 +74,6 @@
       "currencies": []
     },
     {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Yen leaps after joint US-Japan forex intervention, leaving the US dollar bruised - The Business Times",
       "source": "Google News",
       "label": "bullish",
@@ -67,80 +81,66 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s forex reserves fall by $7.7 billion to $690 billion: RBI - News On AIR",
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9552,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "FOREX-Yen holds most gains as intervention keeps speculators on edge - Metrobank Wealth Insights",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8329,
-      "currencies": []
-    },
-    {
-      "title": "India rules out early end to FX deposit plan, sees healthy flows - The Edge Malaysia",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7236,
-      "currencies": []
-    },
-    {
-      "title": "Food Lion-owner Ahold Delhaize beats profit view on cost cuts, market gains",
+      "title": "Trump administration unveils new paid family leave incentives",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.4249,
+      "score": -0.6011,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Coca-Cola HBC lifts 2026 outlook after strong H1",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9372,
-      "currencies": []
-    },
-    {
-      "title": "World faces fresh food price surge, FAO warns",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7468,
-      "currencies": []
-    },
-    {
-      "title": "Analysis-The US box office is booming, but fewer people are going to the movies",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7784,
-      "currencies": []
-    },
-    {
-      "title": "Why is LivaNova stock climbing today?",
+      "title": "BiomX acquires 10% stake in electric motor testing firm",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is Circle Internet stock surging 6% today?",
+      "title": "Worldwide NFT appoints sports agent Perry Rogers to board",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Ecovyst shares rise 2% on beating estimates, raising outlook",
+      "title": "Proposed Hormuz deal would give Iran control of inbound traffic, sources say",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9517,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Stifel reiterates SpaceX stock rating on strong earnings beat",
+      "title": "Citi downgrades Burlington to Neutral with stock near all-time highs",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8832,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Ridgepost Capital tops Q2 2026 estimates as shares jump",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9474,
+      "score": 0.4709,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Bezeq Group posts strong Q2 2026 growth as shares rise",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9527,
+      "currencies": []
+    },
+    {
+      "title": "ElringKlinger Q2 2026 slides: e-mobility sales double, cash flow surges",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7822,
       "currencies": []
     }
   ],
