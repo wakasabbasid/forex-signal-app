@@ -1,6 +1,20 @@
 {
   "headlines": [
     {
+      "title": "A tool rarely used: historic US intervention to save the yen - Al Majalla",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Yahoo News Singapore",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8081,
+      "currencies": []
+    },
+    {
       "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
       "label": "neutral",
@@ -25,14 +39,14 @@
       ]
     },
     {
-      "title": "Pakistan applies for $10bn US forex facility, leverages Iran mediation - Nikkei Asia",
+      "title": "Yen climbs for third straight session, euro/dollar awaits US data - CNBC",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.6555,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Yen climbs for third straight session, euro/dollar awaits US data - CNBC",
+      "title": "Japan Likely Bought 5 T. Yen in Forex Intervention Fri. - nippon.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -46,10 +60,10 @@
       "currencies": []
     },
     {
-      "title": "Japan Likely Bought 5 T. Yen in Forex Intervention Fri. - nippon.com",
+      "title": "Japan, U.S. intervene in forex market for first time in 15 years; pressure to sell yen remains strong - Asia News Network",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.6389,
       "currencies": []
     },
     {
@@ -60,89 +74,75 @@
       "currencies": []
     },
     {
-      "title": "Banks mobilise $27.99 billion via FCNR deposits since RBI introduced dollar-rupee forex swap facility - ETGovernment.com",
+      "title": "Yen leaps after joint US-Japan forex intervention, leaving the US dollar bruised - The Business Times",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.516,
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - newsonair.gov.in",
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8185,
+      "score": 0.6676,
       "currencies": [
         "USD"
       ]
     },
     {
-      "title": "Japan, U.S. intervene in forex market for first time in 15 years; pressure to sell yen remains strong - Asia News Network",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6389,
-      "currencies": []
-    },
-    {
-      "title": "BREAKING NEWS: Finance chief mum on whether Japan intervened in currency market Mon. - Japan Wire by Kyodo News",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Gift Nifty 50 bullish but stretched near 24,800: Live levels",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "PNB Housing Q1 FY27 slides: growth accelerates, margins compress",
+      "title": "Earnings call transcript: Shawbrook posts strong H1 2026 growth and holds guidance",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9472,
+      "score": 0.9528,
       "currencies": []
     },
     {
-      "title": "Twist Bioscience prices $300M stock offering at $96 per share",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: PNB Housing Finance Q1 2026 growth stays solid",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9453,
-      "currencies": []
-    },
-    {
-      "title": "Lockup expiry will offer the next test of investor appetite for SpaceX shares",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6386,
-      "currencies": []
-    },
-    {
-      "title": "Asia shares climb as tech mood swings, oil retreats",
+      "title": "South Africa private sector shows marginal growth in July",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8366,
+      "score": -0.9486,
       "currencies": []
     },
     {
-      "title": "Aeris Resources at diggers & dealers 2026: cash-rich growth push",
+      "title": "RBC Capital upgrades Versigent stock rating on China positioning",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5894,
+      "currencies": []
+    },
+    {
+      "title": "Stifel cuts TransDigm stock rating on M&A and regulatory concerns",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8579,
+      "currencies": []
+    },
+    {
+      "title": "Why is Deutsche Post stock sliding today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9156,
+      "currencies": []
+    },
+    {
+      "title": "Sandoz jumps 8% after Q2 biosimilars beat, FY26 outlook holds",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9354,
+      "currencies": []
+    },
+    {
+      "title": "Liontrust increases stake in Everplay Group to 6.5%",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Gulf shipping traffic steady amid uncertainty of peace talks",
+      "title": "US and Iran having \u2019very good discussions\u2019,\u00a0Trump says",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7266,
+      "score": 0.827,
       "currencies": []
     }
   ],

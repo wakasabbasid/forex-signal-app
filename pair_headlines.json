@@ -7,58 +7,26 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.9601
+      },
+      {
+        "title": "AUD/USD next in line for a technical breakout?",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "USD/JPY": [
       {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - newsonair.gov.in",
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.8185
+        "score": 0.6676
       },
       {
-        "title": "PBOC sets USD/ CNY mid-point today at 6.7889 (vs. estimate at 6.7480)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7480 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Softens below 182.00 on intervention risks, bearish outlook prevails",
+        "title": "Silver Price Forecast: XAG/USD hits one-month high, eyes $62.00 after technical breakout",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.6392
-      },
-      {
-        "title": "Gold rallies to two-week high as USD softens on Iran deal hopes, receding Fed hike bets",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.7939
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD revisits monthly high near $61 as oil price plunges further",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8983
-      },
-      {
-        "title": "Australian Dollar consolidates near 0.7050, highest since June 17 amid reviving USD demand",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8722
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/JPY Price Forecast: Softens below 182.00 on intervention risks, bearish outlook prevails",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.6392
+        "score": 0.9158
       }
     ]
   }
