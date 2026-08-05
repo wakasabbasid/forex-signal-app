@@ -15,24 +15,24 @@
       "currencies": []
     },
     {
-      "title": "Forex reserves fall for second month - Taipei Times",
+      "title": "Forex reserves fall for second month - taipeitimes.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9701,
+      "score": -0.9458,
       "currencies": []
     },
     {
-      "title": "AUD/USD Signal: Bullish Outlook as Risk-On Sentiment Prevails - Daily Forex",
+      "title": "AUD/USD Forex Signal 05/08: Bullish Outlook - dailyforex.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.7294,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
         "AUD",
         "USD"
       ]
     },
     {
-      "title": "A tool rarely used: historic US intervention to save the yen - Al Majalla",
+      "title": "A tool rarely used: historic US intervention to save the yen - en.majalla.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -43,23 +43,6 @@
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "Multi-Asset Trading: Why More Traders Are Moving Beyond Just Forex - Barchart.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Euro Technical Outlook: EUR/USD Breakout Faces Its First Major Test - City Index UK",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6421,
       "currencies": [
         "EUR",
         "USD"
@@ -87,6 +70,15 @@
       "currencies": []
     },
     {
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "Japan, U.S. intervene in forex market for first time in 15 years; pressure to sell yen remains strong - Asia News Network",
       "source": "Google News",
       "label": "bullish",
@@ -94,59 +86,66 @@
       "currencies": []
     },
     {
-      "title": "Western Midstream earnings face test as Brazos deal lifts bar",
-      "source": "Investing.com",
+      "title": "Yen leaps after joint US-Japan forex intervention, leaving the US dollar bruised - The Business Times",
+      "source": "Google News",
       "label": "bullish",
-      "score": 0.5942,
+      "score": 0.516,
       "currencies": []
     },
     {
-      "title": "Why is Kyndryl stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9288,
-      "currencies": []
-    },
-    {
-      "title": "Insmed earnings up next: Can Brinsupri hit $285M in Q2?",
+      "title": "Meta releases Muse Code coding agent in beta",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "McEwen Mining earnings loom with analysts cutting forecasts",
+      "title": "Oil seesaws as traders weigh rising hopes for Hormuz deal against Houthi attacks",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9644,
+      "score": -0.6958,
       "currencies": []
     },
     {
-      "title": "CF Industries earnings on deck as nitrogen pricing clouds gather",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.702,
-      "currencies": []
-    },
-    {
-      "title": "Trinity Capital Q2 2026 slides: record originations amid earnings miss",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6975,
-      "currencies": []
-    },
-    {
-      "title": "MACOM earnings in focus as chip maker chases 50% profit growth",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8661,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Phillips 66 beats Q2 2026 profit forecast as stock slips",
+      "title": "US Senate confirms Schwartz as CDC director",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Blue Origin zeroes in on rocket engine issue as source of New Glenn explosion",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Exclusive-Iran threatens to hit Gulf states if US launches new strikes",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8644,
+      "currencies": []
+    },
+    {
+      "title": "Microsoft surges 11% above SMA with RSI at 77: Live levels",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9364,
+      "currencies": []
+    },
+    {
+      "title": "Mideast deal hopes lift Dow, S&P to records; SpaceX, AMD drag Nasdaq",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8873,
+      "currencies": []
+    },
+    {
+      "title": "Major Wall Street firms targeted in attempted cyberattacks, sources say",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9099,
       "currencies": []
     }
   ],

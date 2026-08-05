@@ -3,10 +3,10 @@
   "pairs": {
     "AUD/USD": [
       {
-        "title": "AUD/USD Signal: Bullish Outlook as Risk-On Sentiment Prevails - Daily Forex",
+        "title": "AUD/USD Forex Signal 05/08: Bullish Outlook - dailyforex.com",
         "source": "Google News",
-        "label": "bullish",
-        "score": 0.7294
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "EUR/USD": [
@@ -15,20 +15,14 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "Euro Technical Outlook: EUR/USD Breakout Faces Its First Major Test - City Index UK",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.6421
       }
     ],
     "USD/JPY": [
       {
-        "title": "Australian Dollar climbs as softer US data, improving risk sentiment weigh on USD",
-        "source": "FXStreet",
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+        "source": "Google News",
         "label": "bullish",
-        "score": 0.9229
+        "score": 0.6676
       }
     ]
   }
