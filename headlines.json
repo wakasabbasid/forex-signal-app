@@ -8,10 +8,10 @@
       "currencies": []
     },
     {
-      "title": "AUD/USD Forex Signal 04/08: Stuck in a Range - Daily Forex",
+      "title": "AUD/USD Signal: Stuck in a Range as Iron Ore Prices Dive - Daily Forex",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9225,
+      "score": -0.9601,
       "currencies": [
         "AUD",
         "USD"
@@ -46,6 +46,13 @@
       "currencies": []
     },
     {
+      "title": "Banks mobilise $27.99 billion via FCNR deposits since RBI introduced dollar-rupee forex swap facility - ETGovernment.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Japan Likely Bought 5 T. Yen in Forex Intervention Fri. - nippon.com",
       "source": "Google News",
       "label": "neutral",
@@ -53,10 +60,10 @@
       "currencies": []
     },
     {
-      "title": "Banks mobilise $27.99 billion via FCNR deposits since RBI introduced dollar-rupee forex swap facility - ETGovernment.com",
+      "title": "Japan, U.S. intervene in forex market for first time in 15 years; pressure to sell yen remains strong - Asia News Network",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.6389,
       "currencies": []
     },
     {
@@ -69,14 +76,7 @@
       ]
     },
     {
-      "title": "Japan, U.S. intervene in forex market for first time in 15 years; pressure to sell yen remains strong - Asia News Network",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6389,
-      "currencies": []
-    },
-    {
-      "title": "BREAKING NEWS: Finance chief mum on whether Japan intervened in currency market Mon. - english.kyodonews.net",
+      "title": "BREAKING NEWS: Finance chief mum on whether Japan intervened in currency market Mon. - Japan Wire by Kyodo News",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -90,59 +90,59 @@
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Syndax misses Q2 2026 estimates as shares fall after hours",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.962,
-      "currencies": []
-    },
-    {
-      "title": "MasterBrand Q2 2026 slides: merger synergies rise amid margin pressure",
+      "title": "Qualys Q2 2026 slides: TruRisk platform drives margin leadership",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9346,
+      "score": 0.7343,
       "currencies": []
     },
     {
-      "title": "EVERTEC Q2 2026 slides: LatAm growth drives earnings beat",
+      "title": "Lime Q2 2026 slides: 22% user growth, Canadian expansion post-IPO",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8472,
+      "currencies": []
+    },
+    {
+      "title": "Workiva Q2 2026 slides show margin gains as shares fall 11.7%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9707,
+      "currencies": []
+    },
+    {
+      "title": "TransMedics Q2 2026 slides: revenue rises 21%, margins compress",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.953,
+      "currencies": []
+    },
+    {
+      "title": "Flywire Q2 2026 slides: AI drives efficiency as revenue beats guide",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Green Thumb tops Q2 2026 revenue forecast as stock rises",
+      "title": "Upstart Q2 2026 slides: profitable growth returns amid AI gains",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8611,
+      "score": 0.9115,
       "currencies": []
     },
     {
-      "title": "DXP Enterprises acquires Mequipco to expand water division",
+      "title": "Bio-Rad Q2 2026 slides: earnings beat masks ongoing challenges",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6644,
+      "score": 0.639,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Amgen beats Q2 2026 estimates and raises guidance",
+      "title": "Intapp Q4 FY26 slides: AI platform targets $50B firm opportunity",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9025,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Gilead beats Q2 2026 forecasts, stock eases after hours",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.713,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: ATEC tops Q2 2026 revenue forecast, lifts profit outlook",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9351,
+      "score": 0.6014,
       "currencies": []
     }
   ],

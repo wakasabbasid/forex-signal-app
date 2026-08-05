@@ -3,10 +3,10 @@
   "pairs": {
     "AUD/USD": [
       {
-        "title": "AUD/USD Forex Signal 04/08: Stuck in a Range - Daily Forex",
+        "title": "AUD/USD Signal: Stuck in a Range as Iron Ore Prices Dive - Daily Forex",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.9225
+        "score": -0.9601
       }
     ],
     "USD/JPY": [
@@ -17,10 +17,26 @@
         "score": 0.6676
       },
       {
-        "title": "USD/JPY Price Forecast: 200-day SMA caps rebound after intervention-led selloff",
+        "title": "EUR/JPY Price Forecast: Rebound stalls below 200-day SMA",
         "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8051
+        "label": "bearish",
+        "score": -0.7646
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/JPY Price Forecast: Rebound stalls below 200-day SMA",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.7646
+      }
+    ],
+    "USD/CHF": [
+      {
+        "title": "USD/CHF Price Forecast: Trendline break puts 50-day SMA in focus",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }
