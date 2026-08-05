@@ -8,6 +8,13 @@
       "currencies": []
     },
     {
+      "title": "Scott Bessent\u2019s yen intervention signals new era of US \u2018currency activism\u2019 - Financial Times",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "AUD/USD Signal: Stuck in a Range as Iron Ore Prices Dive - Daily Forex",
       "source": "Google News",
       "label": "bearish",
@@ -32,7 +39,14 @@
       "currencies": []
     },
     {
-      "title": "Japan's Mimura says joint yen action culmination of currency alliance - investingLive",
+      "title": "FOREX-Yen holds most gains as intervention keeps speculators on edge - Metrobank Wealth Insights",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8329,
+      "currencies": []
+    },
+    {
+      "title": "Japan Likely Bought 5 T. Yen in Forex Intervention Fri. - nippon.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -53,11 +67,13 @@
       "currencies": []
     },
     {
-      "title": "Japan Likely Bought 5 T. Yen in Forex Intervention Fri. - nippon.com",
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - newsonair.gov.in",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
+      "label": "bullish",
+      "score": 0.8185,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "Japan, U.S. intervene in forex market for first time in 15 years; pressure to sell yen remains strong - Asia News Network",
@@ -67,15 +83,6 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
       "title": "BREAKING NEWS: Finance chief mum on whether Japan intervened in currency market Mon. - Japan Wire by Kyodo News",
       "source": "Google News",
       "label": "neutral",
@@ -83,66 +90,59 @@
       "currencies": []
     },
     {
-      "title": "Yen leaps after joint US-Japan forex intervention, leaving the US dollar bruised - The Business Times",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.516,
-      "currencies": []
-    },
-    {
-      "title": "Qualys Q2 2026 slides: TruRisk platform drives margin leadership",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7343,
-      "currencies": []
-    },
-    {
-      "title": "Lime Q2 2026 slides: 22% user growth, Canadian expansion post-IPO",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8472,
-      "currencies": []
-    },
-    {
-      "title": "Workiva Q2 2026 slides show margin gains as shares fall 11.7%",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9707,
-      "currencies": []
-    },
-    {
-      "title": "TransMedics Q2 2026 slides: revenue rises 21%, margins compress",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.953,
-      "currencies": []
-    },
-    {
-      "title": "Flywire Q2 2026 slides: AI drives efficiency as revenue beats guide",
+      "title": "Gift Nifty 50 bullish but stretched near 24,800: Live levels",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Upstart Q2 2026 slides: profitable growth returns amid AI gains",
+      "title": "PNB Housing Q1 FY27 slides: growth accelerates, margins compress",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9115,
+      "score": 0.9472,
       "currencies": []
     },
     {
-      "title": "Bio-Rad Q2 2026 slides: earnings beat masks ongoing challenges",
+      "title": "Twist Bioscience prices $300M stock offering at $96 per share",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.639,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Intapp Q4 FY26 slides: AI platform targets $50B firm opportunity",
+      "title": "Earnings call transcript: PNB Housing Finance Q1 2026 growth stays solid",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6014,
+      "score": 0.9453,
+      "currencies": []
+    },
+    {
+      "title": "Lockup expiry will offer the next test of investor appetite for SpaceX shares",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6386,
+      "currencies": []
+    },
+    {
+      "title": "Asia shares climb as tech mood swings, oil retreats",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8366,
+      "currencies": []
+    },
+    {
+      "title": "Aeris Resources at diggers & dealers 2026: cash-rich growth push",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Gulf shipping traffic steady amid uncertainty of peace talks",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7266,
       "currencies": []
     }
   ],
