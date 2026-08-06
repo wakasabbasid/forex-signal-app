@@ -1,21 +1,14 @@
 {
   "headlines": [
     {
-      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
+      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - reuters.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9097,
+      "score": 0.6896,
       "currencies": []
     },
     {
-      "title": "Japan is buying yen in forex interventions. Where does it go? - Nikkei Asia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "GBP/USD Analysis 06/08: Will Cable Finally Break - Daily Forex",
+      "title": "GBP/USD Analysis: Will Cable Finally Break Above 1.3500? - dailyforex.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -25,6 +18,13 @@
       ]
     },
     {
+      "title": "Japan is buying yen in forex interventions. Where does it go? - Nikkei Asia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Forex reserves fall for second month - Taipei Times",
       "source": "Google News",
       "label": "bearish",
@@ -32,14 +32,18 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY: A Contrarian Case - FOREX.com",
+      "title": "Carry trade is powering on as investors sidestep yen\u2019s gains - The Japan Times",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.4546,
+      "currencies": []
+    },
+    {
+      "title": "Will Coordinated FX Intervention In Japan Work? - Seeking Alpha",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
+      "currencies": []
     },
     {
       "title": "A tool rarely used: historic US intervention to save the yen - Al Majalla",
@@ -49,7 +53,7 @@
       "currencies": []
     },
     {
-      "title": "Scott Bessent\u2019s yen intervention signals new era of US \u2018currency activism\u2019 - ft.com",
+      "title": "Scott Bessent\u2019s yen intervention signals new era of US \u2018currency activism\u2019 - Financial Times",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -63,11 +67,24 @@
       "currencies": []
     },
     {
-      "title": "Japan Likely Bought 5 T. Yen in Forex Intervention Fri. - nippon.com",
+      "title": "Euro Technical Outlook: EUR/USD Breakout Faces Its First Major Test - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "EUR/USD Signal 06/08: Bullish Outlook Intact - dailyforex.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
     },
     {
       "title": "Japan, U.S. intervene in forex market for first time in 15 years; pressure to sell yen remains strong - Asia News Network",
@@ -77,73 +94,59 @@
       "currencies": []
     },
     {
-      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - cfr.org",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Hexagon Q2 2026 slides: EBITDA guidance raised on cost cuts, major order",
+      "title": "Earnings call transcript: RENK H1 2026 profit gains lift shares 6.25%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9349,
+      "score": 0.9237,
       "currencies": []
     },
     {
-      "title": "Wells Fargo cuts Insulet stock rating on attrition concerns",
+      "title": "ATS beats first quarter profit estimates amid restructuring",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.743,
+      "currencies": []
+    },
+    {
+      "title": "China\u2019s July exports growth likely cooled but still robust",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8748,
+      "score": -0.5326,
       "currencies": []
     },
     {
-      "title": "Top 2 EU Utility Stocks for 2026, According to BofA",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is Swisscom stock rallying today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Nordic Q2 2026 slides: record revenue, 53% margins, nRF54 leads",
+      "title": "Diageo jumps nearly 8% as restructuring plan offsets weaker FY26 results",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9375,
+      "score": 0.918,
       "currencies": []
     },
     {
-      "title": "JPMorgan raises Shopify stock price target on strong growth",
+      "title": "First Advantage earnings beat by $0.06, revenue topped estimates",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8714,
+      "score": 0.9387,
       "currencies": []
     },
     {
-      "title": "ByteDance founder tells staff to avoid AI distillation, The Paper reports",
+      "title": "Moat Homes reports \u00a323.9m surplus on improved operations",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.8012,
       "currencies": []
     },
     {
-      "title": "Why is Deutsche Telekom stock surging today?",
+      "title": "Avient beats Q2 estimates, raises full-year guidance",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9406,
+      "currencies": []
+    },
+    {
+      "title": "Nasdaq futures fall amid fresh AI jitters; Iran deal hopes in focus",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9501,
       "currencies": []
     }
   ],

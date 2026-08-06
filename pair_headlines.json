@@ -3,36 +3,50 @@
   "pairs": {
     "GBP/USD": [
       {
-        "title": "GBP/USD Analysis 06/08: Will Cable Finally Break - Daily Forex",
+        "title": "GBP/USD Analysis: Will Cable Finally Break Above 1.3500? - dailyforex.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "Euro Technical Outlook: EUR/USD Breakout Faces Its First Major Test - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "GBP/USD Price Forecast: Gathers strength for VCP breakout",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9422
+        "title": "EUR/USD Signal 06/08: Bullish Outlook Intact - dailyforex.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "USD/JPY": [
       {
-        "title": "USD/JPY: A Contrarian Case - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "title": "USD/JPY to eye a drop back below 150 by year-end?",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.9046
       },
       {
-        "title": "Silver Price Forecasts: XAG/USD hesitates at $62.00 after a two-day rally",
+        "title": "Gold Price Forecast: XAU/USD bulls target $4,380 buoyed by lower US yields",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.6431
+        "label": "bullish",
+        "score": 0.851
       },
       {
-        "title": "USD/JPY Price Forecast: Likely return to two-month low near 155.00",
+        "title": "Japanese Yen: Policy shifts weigh on JPY against US Dollar \u2013 Rabobank",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9674
+        "score": -0.7703
+      },
+      {
+        "title": "Gold sticks to modest intraday gains, remains below $4,300 amid modest USD strength",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8551
       }
     ]
   }
