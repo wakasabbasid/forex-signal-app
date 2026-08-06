@@ -1,14 +1,14 @@
 {
   "headlines": [
     {
-      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - reuters.com",
+      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.6896,
+      "score": 0.9097,
       "currencies": []
     },
     {
-      "title": "GBP/USD Analysis: Will Cable Finally Break Above 1.3500? - dailyforex.com",
+      "title": "GBP/USD Analysis: Will Cable Finally Break Above 1.3500? - Daily Forex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -25,10 +25,10 @@
       "currencies": []
     },
     {
-      "title": "Forex reserves fall for second month - Taipei Times",
+      "title": "Mixed outlook for currencies next week - CNBC Africa",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9701,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -39,10 +39,27 @@
       "currencies": []
     },
     {
-      "title": "Will Coordinated FX Intervention In Japan Work? - Seeking Alpha",
+      "title": "Forex reserves fall for second month - Taipei Times",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9701,
+      "currencies": []
+    },
+    {
+      "title": "USD/JPY Slammed to Start the Week, then Gets a Bounce - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "WMR Intraday Spot Rate Benchmarks - Intraday Liquidity In APAC Currencies - Seeking Alpha",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7647,
       "currencies": []
     },
     {
@@ -60,93 +77,76 @@
       "currencies": []
     },
     {
-      "title": "Yen climbs for third straight session, euro/dollar awaits US data - CNBC",
+      "title": "Yen climbs for third straight session, euro/dollar awaits US data - cnbc.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Euro Technical Outlook: EUR/USD Breakout Faces Its First Major Test - FOREX.com",
+      "title": "EUR/USD Signal 06/08: Bullish Outlook Intact - Daily Forex",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.485,
       "currencies": [
         "EUR",
         "USD"
       ]
     },
     {
-      "title": "EUR/USD Signal 06/08: Bullish Outlook Intact - dailyforex.com",
-      "source": "Google News",
+      "title": "RBC Sees Upside in These Energy Stocks on Stronger Cash Returns",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9503,
+      "currencies": []
+    },
+    {
+      "title": "Sumco reports Q2 loss as LTA talks remain on hold",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9734,
+      "currencies": []
+    },
+    {
+      "title": "Guggenheim raises UroGen Pharma stock price target to $58 on sales beat",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "Japan, U.S. intervene in forex market for first time in 15 years; pressure to sell yen remains strong - Asia News Network",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6389,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: RENK H1 2026 profit gains lift shares 6.25%",
+      "title": "Canaccord raises SharkNinja stock price target to $210 on strong sales",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9237,
+      "score": 0.8062,
       "currencies": []
     },
     {
-      "title": "ATS beats first quarter profit estimates amid restructuring",
+      "title": "Canaccord raises Central Garden & Pet stock price target on results",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Guggenheim raises Revolution stock price target to $240 on pipeline progress",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Guggenheim raises SharkNinja stock price target to $210 on strong results",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.743,
+      "score": 0.8244,
       "currencies": []
     },
     {
-      "title": "China\u2019s July exports growth likely cooled but still robust",
+      "title": "Arteris appoints Saurabh Sinha as CFO effective September",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5326,
-      "currencies": []
-    },
-    {
-      "title": "Diageo jumps nearly 8% as restructuring plan offsets weaker FY26 results",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.918,
-      "currencies": []
-    },
-    {
-      "title": "First Advantage earnings beat by $0.06, revenue topped estimates",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9387,
-      "currencies": []
-    },
-    {
-      "title": "Moat Homes reports \u00a323.9m surplus on improved operations",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8012,
-      "currencies": []
-    },
-    {
-      "title": "Avient beats Q2 estimates, raises full-year guidance",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9406,
-      "currencies": []
-    },
-    {
-      "title": "Nasdaq futures fall amid fresh AI jitters; Iran deal hopes in focus",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9501,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
