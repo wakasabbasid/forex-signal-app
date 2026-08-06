@@ -15,21 +15,21 @@
       "currencies": []
     },
     {
+      "title": "GBP/USD Analysis 06/08: Will Cable Finally Break - Daily Forex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
       "title": "Forex reserves fall for second month - Taipei Times",
       "source": "Google News",
       "label": "bearish",
       "score": -0.9701,
       "currencies": []
-    },
-    {
-      "title": "AUD/USD Forex Signal 05/08: Bullish Outlook - Daily Forex",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.3571,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
     },
     {
       "title": "USD/JPY: A Contrarian Case - FOREX.com",
@@ -49,7 +49,7 @@
       "currencies": []
     },
     {
-      "title": "Scott Bessent\u2019s yen intervention signals new era of US \u2018currency activism\u2019 - Financial Times",
+      "title": "Scott Bessent\u2019s yen intervention signals new era of US \u2018currency activism\u2019 - ft.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -70,22 +70,6 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "PESO WEAKENS TO \u20b160.751 VS. US DOLLAR The Philippine peso closed at \u20b160.751 against the US dollar on Aug. 5, 2026, based on the reference exchange rate released by the Bankers Association of the Philippines (BAP). #AllYouNeedToKnow - facebook.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8012,
-      "currencies": []
-    },
-    {
       "title": "Japan, U.S. intervene in forex market for first time in 15 years; pressure to sell yen remains strong - Asia News Network",
       "source": "Google News",
       "label": "bullish",
@@ -93,56 +77,70 @@
       "currencies": []
     },
     {
-      "title": "Pentagon to hold meeting on weapons shortfall after Trump call- NBC",
+      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - cfr.org",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Hexagon Q2 2026 slides: EBITDA guidance raised on cost cuts, major order",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9349,
+      "currencies": []
+    },
+    {
+      "title": "Wells Fargo cuts Insulet stock rating on attrition concerns",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8748,
+      "currencies": []
+    },
+    {
+      "title": "Top 2 EU Utility Stocks for 2026, According to BofA",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Kakao posts stronger q2 2026 profit, stock slips",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9371,
-      "currencies": []
-    },
-    {
-      "title": "Oil extends slide on Iran-Oman Hormuz shipping deal, U.S. inventory rebound",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9137,
-      "currencies": []
-    },
-    {
-      "title": "Oil prices slip as Iran-Oman talks fuel hopes for US-Iran peace deal",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8974,
-      "currencies": []
-    },
-    {
-      "title": "Sandisk forecasts upbeat quarterly revenue on AI-driven demand",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9502,
-      "currencies": []
-    },
-    {
-      "title": "Birks Group director Emilio Imbriglio resigns from board",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.805,
-      "currencies": []
-    },
-    {
-      "title": "SK Hynix bear flag forms near KRW 1,247K: Live levels",
+      "title": "Why is Swisscom stock rallying today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Nikkei 225 trapped between 64,650 and 67,500: Live levels",
+      "title": "Nordic Q2 2026 slides: record revenue, 53% margins, nRF54 leads",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9375,
+      "currencies": []
+    },
+    {
+      "title": "JPMorgan raises Shopify stock price target on strong growth",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8714,
+      "currencies": []
+    },
+    {
+      "title": "ByteDance founder tells staff to avoid AI distillation, The Paper reports",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why is Deutsche Telekom stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

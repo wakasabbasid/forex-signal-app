@@ -1,12 +1,18 @@
 {
   "run_id": 1,
   "pairs": {
-    "AUD/USD": [
+    "GBP/USD": [
       {
-        "title": "AUD/USD Forex Signal 05/08: Bullish Outlook - Daily Forex",
+        "title": "GBP/USD Analysis 06/08: Will Cable Finally Break - Daily Forex",
         "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "GBP/USD Price Forecast: Gathers strength for VCP breakout",
+        "source": "FXStreet",
         "label": "bullish",
-        "score": 0.3571
+        "score": 0.9422
       }
     ],
     "USD/JPY": [
@@ -17,60 +23,16 @@
         "score": 0.0
       },
       {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.6676
-      },
-      {
-        "title": "PBOC sets USD/ CNY reference rate for today at 6.7895 (vs. estimate at 6.7462)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7462 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD rises above $62.00 on easing inflation concerns",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9408
-      },
-      {
-        "title": "Canadian Dollar remains on the front foot vs USD as oil rebounds and Fed hike bets fade",
+        "title": "Silver Price Forecasts: XAG/USD hesitates at $62.00 after a two-day rally",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.6234
+        "score": -0.6431
       },
       {
-        "title": "British Pound holds steady above 1.3450 as Iran hopes and Fed repricing weigh on USD",
+        "title": "USD/JPY Price Forecast: Likely return to two-month low near 155.00",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.6793
-      },
-      {
-        "title": "PBOC sets USD/CNY reference rate at 6.7895 vs. 6.7889 previous",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "KRW/USD: Korean Won Rises to Highest Since October on Exporters Dollar Sales",
-        "source": "Bloomberg",
-        "label": "bullish",
-        "score": 0.9304
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/USD Price Forecast: Looks set to extend advance beyond 1.1600",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9378
+        "score": -0.9674
       }
     ]
   }
