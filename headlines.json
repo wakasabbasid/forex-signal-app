@@ -8,24 +8,33 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Analysis: Will Cable Finally Break Above 1.3500? - Daily Forex",
+      "title": "USD/BRL Analysis 06/08: Remains Range-Bound - Daily Forex",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.6965,
       "currencies": [
-        "GBP",
         "USD"
       ]
     },
     {
-      "title": "Japan is buying yen in forex interventions. Where does it go? - Nikkei Asia",
+      "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - forex.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7117,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "Mixed outlook for currencies next week - CNBC Africa",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Mixed outlook for currencies next week - CNBC Africa",
+      "title": "Japan is buying yen in forex interventions. Where does it go? - Nikkei Asia",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -46,14 +55,18 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY Slammed to Start the Week, then Gets a Bounce - FOREX.com",
+      "title": "A tool rarely used: historic US intervention to save the yen - Al Majalla",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
+      "currencies": []
+    },
+    {
+      "title": "Yen climbs for third straight session, euro/dollar awaits US data - CNBC",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "WMR Intraday Spot Rate Benchmarks - Intraday Liquidity In APAC Currencies - Seeking Alpha",
@@ -63,87 +76,73 @@
       "currencies": []
     },
     {
-      "title": "A tool rarely used: historic US intervention to save the yen - Al Majalla",
+      "title": "GBP/USD Analysis: Will Cable Finally Break Above 1.3500? - Daily Forex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Scott Bessent\u2019s yen intervention signals new era of US \u2018currency activism\u2019 - Financial Times",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Yen climbs for third straight session, euro/dollar awaits US data - cnbc.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD Signal 06/08: Bullish Outlook Intact - Daily Forex",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.485,
       "currencies": [
-        "EUR",
+        "GBP",
         "USD"
       ]
     },
     {
-      "title": "RBC Sees Upside in These Energy Stocks on Stronger Cash Returns",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9503,
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Sumco reports Q2 loss as LTA talks remain on hold",
+      "title": "SpaceX, Tesla to initially spend $16.8 billion on Terafab chip plant in Texas",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Investec holds AGMs, appoints Baldock as group chair",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Tripadvisor Q2 2026 slides: TheFork sale amid growth slowdown",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9734,
+      "score": -0.9277,
       "currencies": []
     },
     {
-      "title": "Guggenheim raises UroGen Pharma stock price target to $58 on sales beat",
+      "title": "Lloyd Doggett from Texas\u2019s 37th district invests in Coca-Cola Company",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Canaccord raises SharkNinja stock price target to $210 on strong sales",
+      "title": "CareCloud Q2 2026 slides: revenue jumps 16%, AI investment pressures margins",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8062,
+      "score": 0.8845,
       "currencies": []
     },
     {
-      "title": "Canaccord raises Central Garden & Pet stock price target on results",
+      "title": "Goodyear Q2 2026 slides show stabilization, but losses persist",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.6601,
       "currencies": []
     },
     {
-      "title": "Guggenheim raises Revolution stock price target to $240 on pipeline progress",
+      "title": "Playtika Q2 2026 slides: margins surge as stock tumbles on outlook",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.7695,
       "currencies": []
     },
     {
-      "title": "Guggenheim raises SharkNinja stock price target to $210 on strong results",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8244,
-      "currencies": []
-    },
-    {
-      "title": "Arteris appoints Saurabh Sinha as CFO effective September",
+      "title": "SpaceMD books SpaceX Starfall mission for 2028 launch",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

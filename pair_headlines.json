@@ -1,52 +1,40 @@
 {
   "run_id": 1,
   "pairs": {
-    "GBP/USD": [
-      {
-        "title": "GBP/USD Analysis: Will Cable Finally Break Above 1.3500? - Daily Forex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "GBP/JPY Price Forecast: 200-day SMA holds as downside risks linger",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8933
-      }
-    ],
     "USD/JPY": [
       {
-        "title": "USD/JPY Slammed to Start the Week, then Gets a Bounce - FOREX.com",
+        "title": "USD/BRL Analysis 06/08: Remains Range-Bound - Daily Forex",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bearish",
+        "score": -0.6965
       },
       {
         "title": "The USD is mostly higher vs the major currencies to start the NA session",
         "source": "ForexLive",
         "label": "bullish",
         "score": 0.9332
-      },
-      {
-        "title": "USD/JPY to eye a drop back below 150 by year-end?",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.9046
-      },
-      {
-        "title": "GBP/JPY Price Forecast: 200-day SMA holds as downside risks linger",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8933
       }
     ],
     "EUR/USD": [
       {
-        "title": "EUR/USD Signal 06/08: Bullish Outlook Intact - Daily Forex",
+        "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - forex.com",
         "source": "Google News",
+        "label": "bearish",
+        "score": -0.7117
+      },
+      {
+        "title": "EUR/USD Price Forecast: Buyers challenge 100-day SMA as momentum turns bullish",
+        "source": "FXStreet",
         "label": "bullish",
-        "score": 0.485
+        "score": 0.8834
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Analysis: Will Cable Finally Break Above 1.3500? - Daily Forex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }
