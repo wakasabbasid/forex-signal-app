@@ -32,21 +32,21 @@
       ]
     },
     {
+      "title": "USD/JPY: A Contrarian Case - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
       "title": "A tool rarely used: historic US intervention to save the yen - Al Majalla",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
-    },
-    {
-      "title": "Euro Technical Outlook: EUR/USD Breakout Faces Its First Major Test - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
     },
     {
       "title": "Scott Bessent\u2019s yen intervention signals new era of US \u2018currency activism\u2019 - Financial Times",
@@ -63,10 +63,10 @@
       "currencies": []
     },
     {
-      "title": "PESO WEAKENS TO \u20b160.751 VS. US DOLLAR The Philippine peso closed at \u20b160.751 against the US dollar on Aug. 5, 2026, based on the reference exchange rate released by the Bankers Association of the Philippines (BAP). #AllYouNeedToKnow - facebook.com",
+      "title": "Japan Likely Bought 5 T. Yen in Forex Intervention Fri. - nippon.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.8012,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -79,6 +79,13 @@
       ]
     },
     {
+      "title": "PESO WEAKENS TO \u20b160.751 VS. US DOLLAR The Philippine peso closed at \u20b160.751 against the US dollar on Aug. 5, 2026, based on the reference exchange rate released by the Bankers Association of the Philippines (BAP). #AllYouNeedToKnow - facebook.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8012,
+      "currencies": []
+    },
+    {
       "title": "Japan, U.S. intervene in forex market for first time in 15 years; pressure to sell yen remains strong - Asia News Network",
       "source": "Google News",
       "label": "bullish",
@@ -86,63 +93,56 @@
       "currencies": []
     },
     {
-      "title": "After currency headwinds, Israeli tech welcomes a forex rebound (WIX:NASDAQ) - Seeking Alpha",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9451,
+      "title": "Pentagon to hold meeting on weapons shortfall after Trump call- NBC",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "AbCellera Q2 2026 slides: pipeline advances as revenue drops 76%",
+      "title": "Earnings call transcript: Kakao posts stronger q2 2026 profit, stock slips",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9371,
+      "currencies": []
+    },
+    {
+      "title": "Oil extends slide on Iran-Oman Hormuz shipping deal, U.S. inventory rebound",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9727,
+      "score": -0.9137,
       "currencies": []
     },
     {
-      "title": "ZipRecruiter Q2 2026 slides: revenue beats forecast, margins expand",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7568,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Realty Income Q2 2026 revenue beats as stock rises",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.881,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Herbalife Q2 2026 sales beat, EPS misses forecast",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7847,
-      "currencies": []
-    },
-    {
-      "title": "Thinkific Q2 2026 slides: enterprise push drives 14% Plus growth",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8353,
-      "currencies": []
-    },
-    {
-      "title": "Aeva Q2 2026 slides: optical connectivity launch, liquidity boost",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6675,
-      "currencies": []
-    },
-    {
-      "title": "FTAI Infra LLC earnings missed by $0.99, revenue fell short of estimates",
+      "title": "Oil prices slip as Iran-Oman talks fuel hopes for US-Iran peace deal",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9727,
+      "score": -0.8974,
       "currencies": []
     },
     {
-      "title": "HubSpot Q2 2026 slides: agentic platform vision amid growth concerns",
+      "title": "Sandisk forecasts upbeat quarterly revenue on AI-driven demand",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9502,
+      "currencies": []
+    },
+    {
+      "title": "Birks Group director Emilio Imbriglio resigns from board",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.805,
+      "currencies": []
+    },
+    {
+      "title": "SK Hynix bear flag forms near KRW 1,247K: Live levels",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Nikkei 225 trapped between 64,650 and 67,500: Live levels",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

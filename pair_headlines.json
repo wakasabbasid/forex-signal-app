@@ -9,20 +9,68 @@
         "score": 0.3571
       }
     ],
-    "EUR/USD": [
+    "USD/JPY": [
       {
-        "title": "Euro Technical Outlook: EUR/USD Breakout Faces Its First Major Test - FOREX.com",
+        "title": "USD/JPY: A Contrarian Case - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      }
-    ],
-    "USD/JPY": [
+      },
       {
         "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
         "source": "Google News",
         "label": "bullish",
         "score": 0.6676
+      },
+      {
+        "title": "PBOC sets USD/ CNY reference rate for today at 6.7895 (vs. estimate at 6.7462)",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7462 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD rises above $62.00 on easing inflation concerns",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9408
+      },
+      {
+        "title": "Canadian Dollar remains on the front foot vs USD as oil rebounds and Fed hike bets fade",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.6234
+      },
+      {
+        "title": "British Pound holds steady above 1.3450 as Iran hopes and Fed repricing weigh on USD",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.6793
+      },
+      {
+        "title": "PBOC sets USD/CNY reference rate at 6.7895 vs. 6.7889 previous",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "KRW/USD: Korean Won Rises to Highest Since October on Exporters Dollar Sales",
+        "source": "Bloomberg",
+        "label": "bullish",
+        "score": 0.9304
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/USD Price Forecast: Looks set to extend advance beyond 1.1600",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9378
       }
     ]
   }
