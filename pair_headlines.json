@@ -7,12 +7,6 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.6965
-      },
-      {
-        "title": "Gold Price Forecast: XAU/USD rallies further with bulls eyeing $4,380 area",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9286
       }
     ],
     "EUR/USD": [
@@ -27,28 +21,6 @@
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.9003
-      },
-      {
-        "title": "Polish Zloty: Near-term EUR/PLN forecast raised to 4.30 \u2013 Commerzbank",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9522
-      }
-    ],
-    "USD/CAD": [
-      {
-        "title": "Canadian Dollar: Labour resilience favours CAD against US Dollar \u2013 TD Securities",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8725
-      }
-    ],
-    "USD/CHF": [
-      {
-        "title": "USD/CHF Price Forecast: Dollar eases towards 0.8100 ahead of the NFP release",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8202
       }
     ]
   }

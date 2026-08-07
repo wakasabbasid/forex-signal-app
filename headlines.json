@@ -15,6 +15,13 @@
       "currencies": []
     },
     {
+      "title": "Mixed outlook for currencies next week - CNBC Africa",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "USD/BRL Analysis 06/08: Remains Range-Bound - Daily Forex",
       "source": "Google News",
       "label": "bearish",
@@ -22,13 +29,6 @@
       "currencies": [
         "USD"
       ]
-    },
-    {
-      "title": "Mixed outlook for currencies next week - CNBC Africa",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
     },
     {
       "title": "Japan is buying yen in forex interventions. Where does it go? - Nikkei Asia",
@@ -59,6 +59,13 @@
       "currencies": []
     },
     {
+      "title": "A tool rarely used: historic US intervention to save the yen - Al Majalla",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - FOREX.com",
       "source": "Google News",
       "label": "bearish",
@@ -69,10 +76,10 @@
       ]
     },
     {
-      "title": "A tool rarely used: historic US intervention to save the yen - Al Majalla",
+      "title": "Forex reserves fall for second month - Taipei Times",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9701,
       "currencies": []
     },
     {
@@ -83,66 +90,59 @@
       "currencies": []
     },
     {
-      "title": "Forex reserves fall for second month - Taipei Times",
-      "source": "Google News",
+      "title": "OCBC Q2 2026 slides: record profit driven by wealth management surge",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9367,
+      "currencies": []
+    },
+    {
+      "title": "Software Circle proposes share premium cancellation",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Alliance Laundry CFO Dean Nolden sells $431,970 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Dream Finders to buy Beazer Homes in $2.2-billion deal",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Morgan Stanley raises JFrog stock price target to $100 on cloud growth",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why is ACM Research stock surging today?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Vistra stock edges down on second quarter revenue miss",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9701,
+      "score": -0.9742,
       "currencies": []
     },
     {
-      "title": "Gray Media stock rises 3% as political ad surge drives beat",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8242,
-      "currencies": []
-    },
-    {
-      "title": "Jefferies cuts Papa John\u2019s stock price target on weak sales outlook",
+      "title": "Why is SpaceX stock volatile today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9594,
-      "currencies": []
-    },
-    {
-      "title": "Jefferies raises PENN Entertainment stock price target on execution",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Mizuho raises PENN Entertainment stock price target on retail strength",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "TD Cowen raises Cloudflare stock price target on strong growth",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8734,
-      "currencies": []
-    },
-    {
-      "title": "Banca Monte dei Paschi di Siena posts 8% core profit gain",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5995,
-      "currencies": []
-    },
-    {
-      "title": "Why is Replimune stock volatile  today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is PENN Entertainment stock climbing today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "score": -0.5977,
       "currencies": []
     }
   ],
