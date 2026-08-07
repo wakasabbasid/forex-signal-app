@@ -8,7 +8,14 @@
       "currencies": []
     },
     {
-      "title": "Japan spent record \u00a56.28 tril in forex intervention on April 30 - Japan Today",
+      "title": "Japan spent record 6.28 tril. yen in forex intervention on April 30 - Japan Wire by Kyodo News",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japan is buying yen in forex interventions. Where does it go? - asia.nikkei.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -31,24 +38,10 @@
       ]
     },
     {
-      "title": "Japan is buying yen in forex interventions. Where does it go? - Nikkei Asia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Japan spent record 6.28 tril. yen in forex intervention on April 30 - \u6bce\u65e5\u65b0\u805e",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US intervention of the yen revives currency diplomacy as a geoeconomic tool - The Business Times",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8479,
       "currencies": []
     },
     {
@@ -59,7 +52,28 @@
       "currencies": []
     },
     {
-      "title": "A tool rarely used: historic US intervention to save the yen - Al Majalla",
+      "title": "US intervention of the yen revives currency diplomacy as a geoeconomic tool - businesstimes.com.sg",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5746,
+      "currencies": []
+    },
+    {
+      "title": "A tool rarely used: historic US intervention to save the yen - en.majalla.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex reserves fall for second month - Taipei Times",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9701,
+      "currencies": []
+    },
+    {
+      "title": "Yen intervention data shows scale of Japan's fight against 40-year lows - investinglive.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -76,73 +90,59 @@
       ]
     },
     {
-      "title": "Forex reserves fall for second month - Taipei Times",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9701,
-      "currencies": []
-    },
-    {
-      "title": "Yen intervention data shows scale of Japan's fight against 40-year lows - investingLive",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6746,
-      "currencies": []
-    },
-    {
-      "title": "OCBC Q2 2026 slides: record profit driven by wealth management surge",
+      "title": "FTSE 100 today: Stocks up as Saudi pact signed, Lloyds warns on mortgages",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9367,
+      "score": 0.921,
       "currencies": []
     },
     {
-      "title": "Software Circle proposes share premium cancellation",
+      "title": "Earnings call transcript: China Yuchai lifts H1 2026 outlook on strong demand",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9437,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Canaccord beats on Q1 2026 profit, revenue",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Alliance Laundry CFO Dean Nolden sells $431,970 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Dream Finders to buy Beazer Homes in $2.2-billion deal",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Morgan Stanley raises JFrog stock price target to $100 on cloud growth",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is ACM Research stock surging today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Vistra stock edges down on second quarter revenue miss",
+      "title": "U.S. Treasuries surge  on shock U.S. job losses",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9742,
+      "score": -0.8848,
       "currencies": []
     },
     {
-      "title": "Why is SpaceX stock volatile today?",
+      "title": "Earnings call transcript: Claritev posts Q2 2026 beat, but shares fall premarket",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5977,
+      "score": -0.957,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Mrs. Bectors posts strong Q1 2026 growth, shares rise 6.6%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9534,
+      "currencies": []
+    },
+    {
+      "title": "Citizens raises Hamilton Insurance stock price target on strong Q2 results",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.512,
+      "currencies": []
+    },
+    {
+      "title": "Inox Wind Q1 FY27 slides: margin gains amid strategic pivot",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8802,
       "currencies": []
     }
   ],
