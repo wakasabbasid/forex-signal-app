@@ -9,46 +9,22 @@
         "score": -0.6965
       },
       {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.6676
-      },
-      {
         "title": "PBOC sets USD/ CNY reference rate for today at 6.7904 (vs. estimate at 6.7548)",
         "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "USD/JPY Price Forecast: Consolidates near 158.55/38.2% Fibo. before the next leg up",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Gold trades above $4,250; upside seems capped as Fed hike bets support USD ahead of US NFP",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.7145
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD rises to near $62.20 in countdown to US NFP data",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9442
-      },
-      {
-        "title": "New Zealand Dollar hangs near weekly low after China's trade data as USD bulls await NFP",
+        "title": "EUR/JPY Price Forecast: Holds losses near 182.50 as bearish bias prevails",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.8076
+        "score": -0.9291
       },
       {
-        "title": "Australian Dollar bulls remains on the sidelines as Iran risks support USD ahead of US NFP",
+        "title": "Gold approaches $4,300 as bulls shrug off firm USD and Fed hike bets ahead of US NFP",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.6004
+        "label": "bullish",
+        "score": 0.7866
       }
     ],
     "EUR/USD": [
@@ -57,6 +33,34 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.7117
+      },
+      {
+        "title": "EUR/JPY Price Forecast: Holds losses near 182.50 as bearish bias prevails",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9291
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "AUD Holds Steady as Mideast Risks Lift USD Before NFP - TradingPedia",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.6948
+      },
+      {
+        "title": "AUD/USD Price Forecast: Flat lines below mid-0.7000s/100-SMA as bulls await US NFP",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.692
+      }
+    ],
+    "USD/CAD": [
+      {
+        "title": "USD/CAD Price Forecast: Bullish Flag pattern underway",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.6843
       }
     ]
   }

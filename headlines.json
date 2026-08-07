@@ -8,6 +8,13 @@
       "currencies": []
     },
     {
+      "title": "Japan spent record 6.28 tril. yen in forex intervention on April 30 - Japan Wire by Kyodo News",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "USD/BRL Analysis 06/08: Remains Range-Bound - Daily Forex",
       "source": "Google News",
       "label": "bearish",
@@ -34,10 +41,24 @@
       ]
     },
     {
+      "title": "A \u2018weaponized\u2019 yen: How the U.S.-Japan intervention may reshape global currency markets - Forex Factory",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Japan is buying yen in forex interventions. Where does it go? - Nikkei Asia",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US intervention of the yen revives currency diplomacy as a geoeconomic tool - The Business Times",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8479,
       "currencies": []
     },
     {
@@ -55,6 +76,16 @@
       "currencies": []
     },
     {
+      "title": "AUD Holds Steady as Mideast Risks Lift USD Before NFP - TradingPedia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6948,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
+    },
+    {
       "title": "Scott Bessent\u2019s yen intervention signals new era of US \u2018currency activism\u2019 - Financial Times",
       "source": "Google News",
       "label": "neutral",
@@ -62,89 +93,59 @@
       "currencies": []
     },
     {
-      "title": "Forex reserves fall for second month - Taipei Times",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9701,
-      "currencies": []
-    },
-    {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Japan spent record 6.28 tril. yen in forex intervention on April 30 - mainichi.jp",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Carry trade is powering on as investors sidestep yen\u2019s gains - The Japan Times",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.4546,
-      "currencies": []
-    },
-    {
-      "title": "Allianz posts record Q2 operating profit on asset, life insurance strength",
+      "title": "Earnings call transcript: Daimler Truck posts strong Q2 2026 results, lifts outlook",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9443,
+      "score": 0.9389,
       "currencies": []
     },
     {
-      "title": "LANXESS Q2 loss misses estimates as restructuring weighs",
+      "title": "Bitcoin stuck in $63K-$65.5K range, ADX at 14: Live levels",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9591,
+      "score": -0.5688,
       "currencies": []
     },
     {
-      "title": "Daimler Truck to launch second \u20ac1.1 billion buyback tranche by mid-September",
+      "title": "Hang Seng trapped in 25,400-26,200 range: Live levels",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Australia\u2019s AMP head for best week in nearly 4 months after bumper earnings",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6518,
-      "currencies": []
-    },
-    {
-      "title": "Bittium reports 60% revenue jump as defense orders surge",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9491,
-      "currencies": []
-    },
-    {
-      "title": "Tokmanni Q2 revenue rises 3.3% but falls short of estimates",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9599,
-      "currencies": []
-    },
-    {
-      "title": "Generali reports 46.8% jump in first-half net profit",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9482,
-      "currencies": []
-    },
-    {
-      "title": "Why is Wharf Real Estate Investment stock surging today?",
+      "title": "London Gas Oil hits resistance wall at $1,228: Hourly levels",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Brent Oil bear flag near $83.54 tests key levels: Live hourly",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Gold tests $4,369 resistance with RSI overbought: Live levels",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8362,
+      "currencies": []
+    },
+    {
+      "title": "Copper stalls at $6.75 after parabolic peak: Hourly levels",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9395,
+      "currencies": []
+    },
+    {
+      "title": "Crude Oil WTI consolidates below $80.84 resistance: Live levels",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5975,
       "currencies": []
     }
   ],
