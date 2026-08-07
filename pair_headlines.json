@@ -15,16 +15,22 @@
         "score": 0.6676
       },
       {
+        "title": "Prudential Financial stock hits 52-week low at 21.11 USD",
+        "source": "Investing.com",
+        "label": "bearish",
+        "score": -0.9569
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD clears 50-day SMA, eyes $65",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8153
+      },
+      {
         "title": "EUR/JPY recovers from session low but remains down on Friday",
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.9648
-      },
-      {
-        "title": "New Zealand Dollar advances as US labor market weakness pressures USD",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.5993
       }
     ],
     "AUD/USD": [
@@ -43,12 +49,6 @@
         "score": 0.8311
       },
       {
-        "title": "EUR/USD stalls at a key trendline ahead of the US NFP and CPI reports. What's next?",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.9003
-      },
-      {
         "title": "EUR/JPY recovers from session low but remains down on Friday",
         "source": "FXStreet",
         "label": "bearish",
@@ -59,12 +59,6 @@
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.9068
-      },
-      {
-        "title": "US Dollar Price Forecast: NFP Countdown Keeps DXY, EUR/USD and GBP/USD in Focus",
-        "source": "Yahoo Finance",
-        "label": "neutral",
-        "score": 0.0
       }
     ],
     "GBP/USD": [
@@ -77,12 +71,6 @@
       {
         "title": "GBP/USD Price Forecast: Bulls need 1.3560 to unlock 1.3600",
         "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "US Dollar Price Forecast: NFP Countdown Keeps DXY, EUR/USD and GBP/USD in Focus",
-        "source": "Yahoo Finance",
         "label": "neutral",
         "score": 0.0
       }

@@ -42,17 +42,17 @@
       ]
     },
     {
-      "title": "Hong Kong foreign currency reserves rise US$1.9 billion in July - The Standard (HK)",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9339,
-      "currencies": []
-    },
-    {
       "title": "Forex reserves fall for second month - Taipei Times",
       "source": "Google News",
       "label": "bearish",
       "score": -0.9701,
+      "currencies": []
+    },
+    {
+      "title": "Hong Kong foreign currency reserves rise US$1.9 billion in July - The Standard (HK)",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9339,
       "currencies": []
     },
     {
@@ -96,59 +96,61 @@
       "currencies": []
     },
     {
-      "title": "Alupar Q2 2026 slides show project wins amid profit pressure",
+      "title": "Dollar falls as Fed rate hike bets ease; yen set to hold intervention gains",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6226,
+      "currencies": []
+    },
+    {
+      "title": "ArcBest director Janice Stipp sells $693,564 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Southern Co EVP & CLO Spainhour sells $313k in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Trump renews effort to fire Fed\u2019s Cook, continuing attacks on central bank",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8365,
+      "currencies": []
+    },
+    {
+      "title": "Brett Matsumoto confirmed as BLS commissioner after predecessor fired",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Prudential Financial stock hits 52-week low at 21.11 USD",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9569,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Ethan Allen CEO defends strategy after activist challenge - Bloomberg",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Canada discussing trade concessions with US to avoid new tariffs, says source",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9187,
-      "currencies": []
-    },
-    {
-      "title": "Middlesex Water VP Lorrie Ginegaw sells $35,430 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Kaltura director Eyal Manor sells $265,320 of common stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Kaltura CCO Natan Israeli sells $484,432 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Senate confirms Trump pick to oversee TSA as administration pushes private airport security",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Alupar misses Q2 2026 estimates as shares slip",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Veteran economist, insider Matsumoto wins Senate approval as BLS commissioner",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US Senate confirms Trump nominees for labor board, cementing Republican control",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7167,
+      "score": 0.8662,
       "currencies": []
     }
   ],
