@@ -9,16 +9,58 @@
         "score": -0.6965
       },
       {
-        "title": "USD/INR: Why Is Recent Selling Catching Traders Off Guard? - Daily Forex",
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
         "source": "Google News",
+        "label": "bullish",
+        "score": 0.6676
+      },
+      {
+        "title": "PBOC sets USD/ CNY reference rate for today at 6.7904 (vs. estimate at 6.7548)",
+        "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "investingLive Asia-pacific FX news wrap 6 Aug: USD moves higher with yields ahead of US jobs report",
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7548 \u2013 Reuters estimate",
         "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD rises to near $62.20 in countdown to US NFP data",
+        "source": "FXStreet",
         "label": "bullish",
-        "score": 0.9314
+        "score": 0.9442
+      },
+      {
+        "title": "New Zealand Dollar hangs near weekly low after China's trade data as USD bulls await NFP",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8076
+      },
+      {
+        "title": "Australian Dollar bulls remains on the sidelines as Iran risks support USD ahead of US NFP",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.6004
+      },
+      {
+        "title": "Gold consolidates below recent highs as USD strength and Fed hike bets cap ahead of US NFP",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8565
+      },
+      {
+        "title": "PBOC sets USD/CNY reference rate at 6.7904 vs. 6.7895 previous",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Japanese Yen hangs near weekly low after weak spending data as USD bulls await US NFP",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8489
       }
     ],
     "EUR/USD": [
