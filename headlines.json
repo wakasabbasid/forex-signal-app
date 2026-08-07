@@ -1,17 +1,17 @@
 {
   "headlines": [
     {
-      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9097,
-      "currencies": []
-    },
-    {
       "title": "Japan spent record 6.28 tril. yen in forex intervention on April 30 - Japan Wire by Kyodo News",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - reuters.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6896,
       "currencies": []
     },
     {
@@ -31,17 +31,7 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7117,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "A \u2018weaponized\u2019 yen: How the U.S.-Japan intervention may reshape global currency markets - Forex Factory",
+      "title": "Japan spent record 6.28 tril. yen in forex intervention on April 30 - mainichi.jp",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -53,6 +43,23 @@
       "label": "neutral",
       "score": 0.0,
       "currencies": []
+    },
+    {
+      "title": "A \u2018weaponized\u2019 yen: How the U.S.-Japan intervention may reshape global currency markets - Forex Factory",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - FOREX.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7117,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
     },
     {
       "title": "US intervention of the yen revives currency diplomacy as a geoeconomic tool - The Business Times",
@@ -76,76 +83,66 @@
       "currencies": []
     },
     {
-      "title": "AUD Holds Steady as Mideast Risks Lift USD Before NFP - TradingPedia",
+      "title": "Forex reserves fall for second month - Taipei Times",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.6948,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
-    },
-    {
-      "title": "Scott Bessent\u2019s yen intervention signals new era of US \u2018currency activism\u2019 - Financial Times",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9701,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Daimler Truck posts strong Q2 2026 results, lifts outlook",
+      "title": "Earnings call transcript: Recruit Holdings lifts FY 2026 outlook after strong Q1",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9389,
+      "score": 0.9227,
       "currencies": []
     },
     {
-      "title": "Bitcoin stuck in $63K-$65.5K range, ADX at 14: Live levels",
+      "title": "Canaccord cuts DoubleVerify stock rating on Nielsen acquisition",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Trade Desk shares sink 27% on second-quarter revenue miss, weak guidance",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5688,
+      "score": -0.9756,
       "currencies": []
     },
     {
-      "title": "Hang Seng trapped in 25,400-26,200 range: Live levels",
+      "title": "Why is Sezzle stock plunging today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8272,
+      "currencies": []
+    },
+    {
+      "title": "Dollar set for weekly gain as traders eye Iran talks, US jobs data",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "London Gas Oil hits resistance wall at $1,228: Hourly levels",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Brent Oil bear flag near $83.54 tests key levels: Live hourly",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Gold tests $4,369 resistance with RSI overbought: Live levels",
+      "title": "Citizens upgrades RXO stock rating on improving fundamentals",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8362,
+      "score": 0.9499,
       "currencies": []
     },
     {
-      "title": "Copper stalls at $6.75 after parabolic peak: Hourly levels",
+      "title": "Eutelsat FY 2025-26 slides: LEO surge offsets legacy decline",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9395,
+      "label": "bullish",
+      "score": 0.8133,
       "currencies": []
     },
     {
-      "title": "Crude Oil WTI consolidates below $80.84 resistance: Live levels",
+      "title": "Why is DoubleVerify stock soaring today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5975,
+      "score": -0.6961,
       "currencies": []
     }
   ],

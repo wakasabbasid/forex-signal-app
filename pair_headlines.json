@@ -7,24 +7,6 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.6965
-      },
-      {
-        "title": "PBOC sets USD/ CNY reference rate for today at 6.7904 (vs. estimate at 6.7548)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Holds losses near 182.50 as bearish bias prevails",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9291
-      },
-      {
-        "title": "Gold approaches $4,300 as bulls shrug off firm USD and Fed hike bets ahead of US NFP",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.7866
       }
     ],
     "EUR/USD": [
@@ -33,34 +15,14 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.7117
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Holds losses near 182.50 as bearish bias prevails",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9291
       }
     ],
-    "AUD/USD": [
+    "NZD/USD": [
       {
-        "title": "AUD Holds Steady as Mideast Risks Lift USD Before NFP - TradingPedia",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.6948
-      },
-      {
-        "title": "AUD/USD Price Forecast: Flat lines below mid-0.7000s/100-SMA as bulls await US NFP",
+        "title": "NZD/USD Price Forecast: Consolidates above 0.5860/weekly low as bulls look to US NFP",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.692
-      }
-    ],
-    "USD/CAD": [
-      {
-        "title": "USD/CAD Price Forecast: Bullish Flag pattern underway",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.6843
+        "score": -0.9404
       }
     ]
   }
