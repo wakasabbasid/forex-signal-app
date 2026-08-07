@@ -9,18 +9,18 @@
         "score": 0.0
       },
       {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.6676
+        "title": "New Zealand Dollar advances as US labor market weakness pressures USD",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.5993
       }
     ],
     "AUD/USD": [
       {
-        "title": "AUD/USD Signal: Stuck in a Range as Iron Ore Prices Dive - DailyForex",
+        "title": "AUD/USD: Why This Chart Pattern Has Traders on Edge - DailyForex",
         "source": "Google News",
-        "label": "bearish",
-        "score": -0.9577
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "EUR/USD": [

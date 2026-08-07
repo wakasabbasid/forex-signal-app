@@ -32,6 +32,16 @@
       "currencies": []
     },
     {
+      "title": "AUD/USD: Why This Chart Pattern Has Traders on Edge - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
+    },
+    {
       "title": "Hong Kong foreign currency reserves rise US$1.9 billion in July - The Standard (HK)",
       "source": "Google News",
       "label": "bullish",
@@ -44,16 +54,6 @@
       "label": "neutral",
       "score": 0.0,
       "currencies": []
-    },
-    {
-      "title": "AUD/USD Signal: Stuck in a Range as Iron Ore Prices Dive - DailyForex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9577,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
     },
     {
       "title": "Japan spent record 6.28 tril. yen in forex intervention on April 30 - \u6bce\u65e5\u65b0\u805e",
@@ -70,10 +70,10 @@
       "currencies": []
     },
     {
-      "title": "US intervention of the yen revives currency diplomacy as a geoeconomic tool - businesstimes.com.sg",
+      "title": "US intervention of the yen revives currency diplomacy as a geoeconomic tool - The Business Times",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.5746,
+      "score": 0.8479,
       "currencies": []
     },
     {
@@ -87,68 +87,66 @@
       ]
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "title": "Yen intervention data shows scale of Japan's fight against 40-year lows - investinglive.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
-      "title": "Mammoth Energy Q2\u201926 slides: aviation-led growth drives inflection",
+      "title": "OpenAI flags critical cyber capability risk in upcoming \u2019Astra\u2019 model",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Carlyle Secured Lending Q2 2026 slides: dividend covered despite NAV decline",
+      "title": "Earnings call transcript: Extendicare tops revenue in Q2 2026 but shares fall",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5129,
+      "label": "bearish",
+      "score": -0.8417,
       "currencies": []
     },
     {
-      "title": "BCP Investment Q2 2026 slides: earnings beat offset by 7% NAV drop",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8053,
-      "currencies": []
-    },
-    {
-      "title": "Vakifbank reports Q2 net profit rise to 15.1 billion lira",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9529,
-      "currencies": []
-    },
-    {
-      "title": "Kimbell Q2 2026 slides: record results fuel 12.7% yield, 8x growth since IPO",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9275,
-      "currencies": []
-    },
-    {
-      "title": "Halkbank reports Q2 net profit of 8.2 billion lira",
+      "title": "Trump to host mining CEOs as administration seeks minerals for defense supply chains",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: MSC Income Fund Q2 2026 stock rises after modest miss",
+      "title": "MSC Income Fund Q2 2026 slides: diversified BDC posts strong NAV gains",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9185,
+      "score": 0.9509,
       "currencies": []
     },
     {
-      "title": "Grupo Fleury Q2 2026 slides: net income surges 46% on margin gains",
+      "title": "The memory chip sector explained: HBM, DRAM, NAND and the stocks in each subsector",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9283,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Weyco Group VP Allison Woss sells $109,560 in common stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Loma Negra misses Q2 2026 forecasts as stock slips",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "BofA: US payrolls fell 23k in July, unemployment drops to 4.1%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9725,
       "currencies": []
     }
   ],
