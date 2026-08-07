@@ -41,6 +41,13 @@
       "currencies": []
     },
     {
+      "title": "Yen intervention data shows scale of Japan's fight against 40-year lows - investingLive",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6746,
+      "currencies": []
+    },
+    {
       "title": "A tool rarely used: historic US intervention to save the yen - Al Majalla",
       "source": "Google News",
       "label": "neutral",
@@ -71,7 +78,7 @@
       ]
     },
     {
-      "title": "Japan spent record 6.28 tril. yen in forex intervention on April 30 - \u6bce\u65e5\u65b0\u805e",
+      "title": "Japan spent record 6.28 tril. yen in forex intervention on April 30 - mainichi.jp",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -85,66 +92,59 @@
       "currencies": []
     },
     {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "title": "Allianz posts record Q2 operating profit on asset, life insurance strength",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9443,
       "currencies": []
     },
     {
-      "title": "Oil rises on concerns over Strait of Hormuz reopening plans",
+      "title": "LANXESS Q2 loss misses estimates as restructuring weighs",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5003,
+      "score": -0.9591,
       "currencies": []
     },
     {
-      "title": "Why is Lasertec stock tumbling today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7194,
-      "currencies": []
-    },
-    {
-      "title": "Why is Nintendo stock surging today?",
+      "title": "Daimler Truck to launch second \u20ac1.1 billion buyback tranche by mid-September",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Japan\u2019s April yen intervention set daily record as pressure persists",
+      "title": "Australia\u2019s AMP head for best week in nearly 4 months after bumper earnings",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5092,
+      "score": 0.6518,
       "currencies": []
     },
     {
-      "title": "Exclusive-Hackers targeted US private equity, other firms including Blackstone, CME, data shows",
+      "title": "Bittium reports 60% revenue jump as defense orders surge",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9491,
+      "currencies": []
+    },
+    {
+      "title": "Tokmanni Q2 revenue rises 3.3% but falls short of estimates",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5387,
+      "score": -0.9599,
       "currencies": []
     },
     {
-      "title": "China\u2019s July exports beat expectations on robust high-tech demand",
+      "title": "Generali reports 46.8% jump in first-half net profit",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.947,
+      "score": 0.9482,
       "currencies": []
     },
     {
-      "title": "Asian stocks mixed as KOSPI heads for worst weekly loss in over a month",
+      "title": "Why is Wharf Real Estate Investment stock surging today?",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.966,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Swiss Water Q2 2026 profit beats as stock jumps 17%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9026,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

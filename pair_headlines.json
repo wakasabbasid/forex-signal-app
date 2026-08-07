@@ -21,10 +21,16 @@
         "score": 0.0
       },
       {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7548 \u2013 Reuters estimate",
-        "source": "ForexLive",
+        "title": "USD/JPY Price Forecast: Consolidates near 158.55/38.2% Fibo. before the next leg up",
+        "source": "FXStreet",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "Gold trades above $4,250; upside seems capped as Fed hike bets support USD ahead of US NFP",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.7145
       },
       {
         "title": "Silver Price Forecast: XAG/USD rises to near $62.20 in countdown to US NFP data",
@@ -43,24 +49,6 @@
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.6004
-      },
-      {
-        "title": "Gold consolidates below recent highs as USD strength and Fed hike bets cap ahead of US NFP",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8565
-      },
-      {
-        "title": "PBOC sets USD/CNY reference rate at 6.7904 vs. 6.7895 previous",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Japanese Yen hangs near weekly low after weak spending data as USD bulls await US NFP",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8489
       }
     ],
     "EUR/USD": [
