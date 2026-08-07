@@ -3,18 +3,24 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "USD/JPY: A Contrarian Case - forex.com",
+        "title": "USD/JPY: A Contrarian Case - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.6676
       }
     ],
     "AUD/USD": [
       {
-        "title": "AUD/USD Signal: Stuck in a Range as Iron Ore Prices Dive - Daily Forex",
+        "title": "AUD/USD Signal: Stuck in a Range as Iron Ore Prices Dive - DailyForex",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.9601
+        "score": -0.9577
       }
     ],
     "EUR/USD": [

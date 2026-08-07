@@ -15,7 +15,7 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY: A Contrarian Case - forex.com",
+      "title": "USD/JPY: A Contrarian Case - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -39,11 +39,21 @@
       "currencies": []
     },
     {
-      "title": "Mixed outlook for currencies next week - cnbcafrica.com",
+      "title": "Mixed outlook for currencies next week - CNBC Africa",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
+    },
+    {
+      "title": "AUD/USD Signal: Stuck in a Range as Iron Ore Prices Dive - DailyForex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9577,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
     },
     {
       "title": "Japan spent record 6.28 tril. yen in forex intervention on April 30 - \u6bce\u65e5\u65b0\u805e",
@@ -53,27 +63,17 @@
       "currencies": []
     },
     {
-      "title": "AUD/USD Signal: Stuck in a Range as Iron Ore Prices Dive - Daily Forex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9601,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
-    },
-    {
-      "title": "US intervention of the yen revives currency diplomacy as a geoeconomic tool - The Business Times",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8479,
-      "currencies": []
-    },
-    {
       "title": "Forex reserves fall for second month - Taipei Times",
       "source": "Google News",
       "label": "bearish",
       "score": -0.9701,
+      "currencies": []
+    },
+    {
+      "title": "US intervention of the yen revives currency diplomacy as a geoeconomic tool - businesstimes.com.sg",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5746,
       "currencies": []
     },
     {
@@ -87,66 +87,68 @@
       ]
     },
     {
-      "title": "Yen intervention data shows scale of Japan's fight against 40-year lows - investingLive",
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.6746,
-      "currencies": []
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
     },
     {
-      "title": "Earnings call transcript: E.W. Scripps posts Q2 2026 loss, shares jump 24%",
+      "title": "Mammoth Energy Q2\u201926 slides: aviation-led growth drives inflection",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8831,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "PetroReconcavo Q2 2026 slides: margins expand amid production shift",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9507,
-      "currencies": []
-    },
-    {
-      "title": "Oklo Q2 2026 slides: first criticality achieved, $3B liquidity",
+      "title": "Carlyle Secured Lending Q2 2026 slides: dividend covered despite NAV decline",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8954,
+      "score": 0.5129,
       "currencies": []
     },
     {
-      "title": "Lojas Renner Q2 2026 slides: record margins amid revenue headwinds",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8269,
-      "currencies": []
-    },
-    {
-      "title": "Austrian Post H1 2026 slides: revenue rises, profit pressures mount",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8836,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Hamilton Insurance Group posts Q2 2026 profit, shares edge up",
+      "title": "BCP Investment Q2 2026 slides: earnings beat offset by 7% NAV drop",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9258,
+      "score": 0.8053,
       "currencies": []
     },
     {
-      "title": "VAALCO Q2 2026 slides: African portfolio drives 47% sales jump",
+      "title": "Vakifbank reports Q2 net profit rise to 15.1 billion lira",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5994,
+      "score": 0.9529,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Grendene Q2 2026 profit drops as demand stays weak",
+      "title": "Kimbell Q2 2026 slides: record results fuel 12.7% yield, 8x growth since IPO",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9731,
+      "label": "bullish",
+      "score": 0.9275,
+      "currencies": []
+    },
+    {
+      "title": "Halkbank reports Q2 net profit of 8.2 billion lira",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: MSC Income Fund Q2 2026 stock rises after modest miss",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9185,
+      "currencies": []
+    },
+    {
+      "title": "Grupo Fleury Q2 2026 slides: net income surges 46% on margin gains",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9283,
       "currencies": []
     }
   ],
