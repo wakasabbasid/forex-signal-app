@@ -17,7 +17,7 @@
       ]
     },
     {
-      "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - forex.com",
+      "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - FOREX.com",
       "source": "Google News",
       "label": "bearish",
       "score": -0.7117,
@@ -27,13 +27,6 @@
       ]
     },
     {
-      "title": "Mixed outlook for currencies next week - CNBC Africa",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Japan is buying yen in forex interventions. Where does it go? - Nikkei Asia",
       "source": "Google News",
       "label": "neutral",
@@ -41,17 +34,10 @@
       "currencies": []
     },
     {
-      "title": "Carry trade is powering on as investors sidestep yen\u2019s gains - The Japan Times",
+      "title": "Mixed outlook for currencies next week - CNBC Africa",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.4546,
-      "currencies": []
-    },
-    {
-      "title": "Forex reserves fall for second month - Taipei Times",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9701,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -69,6 +55,20 @@
       "currencies": []
     },
     {
+      "title": "Forex reserves fall for second month - Taipei Times",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9701,
+      "currencies": []
+    },
+    {
+      "title": "Carry trade is powering on as investors sidestep yen\u2019s gains - The Japan Times",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.4546,
+      "currencies": []
+    },
+    {
       "title": "WMR Intraday Spot Rate Benchmarks - Intraday Liquidity In APAC Currencies - Seeking Alpha",
       "source": "Google News",
       "label": "bullish",
@@ -76,12 +76,11 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Analysis: Will Cable Finally Break Above 1.3500? - Daily Forex",
+      "title": "USD/INR: Why Is Recent Selling Catching Traders Off Guard? - Daily Forex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
-        "GBP",
         "USD"
       ]
     },
@@ -93,59 +92,59 @@
       "currencies": []
     },
     {
-      "title": "SpaceX, Tesla to initially spend $16.8 billion on Terafab chip plant in Texas",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Investec holds AGMs, appoints Baldock as group chair",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Tripadvisor Q2 2026 slides: TheFork sale amid growth slowdown",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9277,
-      "currencies": []
-    },
-    {
-      "title": "Lloyd Doggett from Texas\u2019s 37th district invests in Coca-Cola Company",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "CareCloud Q2 2026 slides: revenue jumps 16%, AI investment pressures margins",
+      "title": "WillScot Q2 2026 slides: revenue growth returns, margins compress",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8845,
+      "score": 0.7666,
       "currencies": []
     },
     {
-      "title": "Goodyear Q2 2026 slides show stabilization, but losses persist",
+      "title": "Microchip Q1 FY2027 slides: data center surge drives 38% revenue growth",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9123,
+      "currencies": []
+    },
+    {
+      "title": "MP Materials Q2 2026 slides: revenue beats as rare earth output surges",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8383,
+      "currencies": []
+    },
+    {
+      "title": "Tucows Q2 2026 slides: Ting turns profitable as portfolio shifts",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6898,
+      "currencies": []
+    },
+    {
+      "title": "RCI Hospitality Q3 2026 slides: margins expand, Bombshells rebounds",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.4574,
+      "currencies": []
+    },
+    {
+      "title": "WELL Health Q2 2026 slides: strong June drives raised guidance",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9403,
+      "currencies": []
+    },
+    {
+      "title": "MARA Q2 2026 slides: digital infrastructure pivot amid mining losses",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6601,
+      "score": -0.6484,
       "currencies": []
     },
     {
-      "title": "Playtika Q2 2026 slides: margins surge as stock tumbles on outlook",
+      "title": "Trade Desk Q2 2026 slides highlight growth drivers amid sharp slowdown",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7695,
-      "currencies": []
-    },
-    {
-      "title": "SpaceMD books SpaceX Starfall mission for 2028 launch",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "score": -0.9364,
       "currencies": []
     }
   ],

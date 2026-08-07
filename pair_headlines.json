@@ -9,32 +9,24 @@
         "score": -0.6965
       },
       {
-        "title": "The USD is mostly higher vs the major currencies to start the NA session",
+        "title": "USD/INR: Why Is Recent Selling Catching Traders Off Guard? - Daily Forex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "investingLive Asia-pacific FX news wrap 6 Aug: USD moves higher with yields ahead of US jobs report",
         "source": "ForexLive",
         "label": "bullish",
-        "score": 0.9332
+        "score": 0.9314
       }
     ],
     "EUR/USD": [
       {
-        "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - forex.com",
+        "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - FOREX.com",
         "source": "Google News",
         "label": "bearish",
         "score": -0.7117
-      },
-      {
-        "title": "EUR/USD Price Forecast: Buyers challenge 100-day SMA as momentum turns bullish",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8834
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "GBP/USD Analysis: Will Cable Finally Break Above 1.3500? - Daily Forex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
       }
     ]
   }
