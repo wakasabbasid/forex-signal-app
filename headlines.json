@@ -1,17 +1,17 @@
 {
   "headlines": [
     {
-      "title": "Japan spent record 6.28 tril. yen in forex intervention on April 30 - Japan Wire by Kyodo News",
+      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9097,
       "currencies": []
     },
     {
-      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - reuters.com",
+      "title": "Japan spent record \u00a56.28 tril in forex intervention on April 30 - Japan Today",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.6896,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -31,13 +31,6 @@
       "currencies": []
     },
     {
-      "title": "Japan spent record 6.28 tril. yen in forex intervention on April 30 - mainichi.jp",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Japan is buying yen in forex interventions. Where does it go? - Nikkei Asia",
       "source": "Google News",
       "label": "neutral",
@@ -45,10 +38,24 @@
       "currencies": []
     },
     {
-      "title": "A \u2018weaponized\u2019 yen: How the U.S.-Japan intervention may reshape global currency markets - Forex Factory",
+      "title": "Japan spent record 6.28 tril. yen in forex intervention on April 30 - \u6bce\u65e5\u65b0\u805e",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US intervention of the yen revives currency diplomacy as a geoeconomic tool - The Business Times",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8479,
+      "currencies": []
+    },
+    {
+      "title": "Hong Kong foreign currency reserves rise US$1.9 billion in July - The Standard (HK)",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9339,
       "currencies": []
     },
     {
@@ -62,10 +69,10 @@
       ]
     },
     {
-      "title": "US intervention of the yen revives currency diplomacy as a geoeconomic tool - The Business Times",
+      "title": "A tool rarely used: historic US intervention to save the yen - Al Majalla",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.8479,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -76,13 +83,6 @@
       "currencies": []
     },
     {
-      "title": "A tool rarely used: historic US intervention to save the yen - Al Majalla",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Forex reserves fall for second month - Taipei Times",
       "source": "Google News",
       "label": "bearish",
@@ -90,59 +90,59 @@
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Recruit Holdings lifts FY 2026 outlook after strong Q1",
+      "title": "Gray Media stock rises 3% as political ad surge drives beat",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9227,
+      "score": 0.8242,
       "currencies": []
     },
     {
-      "title": "Canaccord cuts DoubleVerify stock rating on Nielsen acquisition",
+      "title": "Jefferies cuts Papa John\u2019s stock price target on weak sales outlook",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9594,
+      "currencies": []
+    },
+    {
+      "title": "Jefferies raises PENN Entertainment stock price target on execution",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Trade Desk shares sink 27% on second-quarter revenue miss, weak guidance",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9756,
-      "currencies": []
-    },
-    {
-      "title": "Why is Sezzle stock plunging today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8272,
-      "currencies": []
-    },
-    {
-      "title": "Dollar set for weekly gain as traders eye Iran talks, US jobs data",
+      "title": "Mizuho raises PENN Entertainment stock price target on retail strength",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Citizens upgrades RXO stock rating on improving fundamentals",
+      "title": "TD Cowen raises Cloudflare stock price target on strong growth",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9499,
+      "score": 0.8734,
       "currencies": []
     },
     {
-      "title": "Eutelsat FY 2025-26 slides: LEO surge offsets legacy decline",
+      "title": "Banca Monte dei Paschi di Siena posts 8% core profit gain",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8133,
+      "score": 0.5995,
       "currencies": []
     },
     {
-      "title": "Why is DoubleVerify stock soaring today?",
+      "title": "Why is Replimune stock volatile  today?",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6961,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why is PENN Entertainment stock climbing today?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
