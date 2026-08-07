@@ -15,10 +15,10 @@
       "currencies": []
     },
     {
-      "title": "Japan is buying yen in forex interventions. Where does it go? - Nikkei Asia",
+      "title": "Why yen intervention had limited impact: Market doubts over Japan's policy - Nikkei Asia",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.6974,
       "currencies": []
     },
     {
@@ -39,6 +39,13 @@
       ]
     },
     {
+      "title": "A tool rarely used: historic US intervention to save the yen - Al Majalla",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Forex reserves fall for second month - Taipei Times",
       "source": "Google News",
       "label": "bearish",
@@ -46,10 +53,10 @@
       "currencies": []
     },
     {
-      "title": "Hong Kong foreign currency reserves rise US$1.9 billion in July - The Standard (HK)",
+      "title": "Hong Kong foreign currency reserves rise US$1.9 billion in July - thestandard.com.hk",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9339,
+      "score": 0.8055,
       "currencies": []
     },
     {
@@ -57,13 +64,6 @@
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US intervention of the yen revives currency diplomacy as a geoeconomic tool - The Business Times",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8479,
       "currencies": []
     },
     {
@@ -77,75 +77,70 @@
       ]
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "title": "US intervention of the yen revives currency diplomacy as a geoeconomic tool - The Business Times",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
+      "score": 0.8479,
+      "currencies": []
     },
     {
-      "title": "Euro Edges Higher Against Pound as EUR/GBP Stays Weak - TradingPedia",
+      "title": "Japan is buying yen in forex interventions. Where does it go? - Nikkei Asia",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.8311,
-      "currencies": [
-        "EUR",
-        "GBP"
-      ]
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
-      "title": "Teleflex announces $250 million accelerated share repurchase with Truist Bank",
+      "title": "Thermo Fisher CEO Marc Casper sells $8.6m in TMO stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Nth Cycle submits draft registration for SPAC merger",
+      "title": "Johnson & Johnson EVP forminard sells $4.09m in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Bitcoin heads for 3% weekly gain as risk assets rally, Fed rate hike bets ease",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8327,
-      "currencies": []
-    },
-    {
-      "title": "Raytheon wins $1.3 billion in missile defense contracts",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6713,
-      "currencies": []
-    },
-    {
-      "title": "Kingstone Companies shareholders elect directors and approve proposals at annual meeting",
+      "title": "Thermo Fisher CEO Marc Casper sells $8.6m in common stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index down 0.22%",
+      "title": "Data center firm Switch confidentially files for US IPO, Bloomberg News reports",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Take-Two earnings beat, revenue fell short of estimates",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9688,
+      "score": -0.966,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Hawaiian Electric misses Q2 2026 core EPS forecast",
+      "title": "MGP Ingredients amends credit agreement and note terms to adjust EBITDA calculation",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Builders FirstSource to separate with president of technology and digital solutions",
+      "title": "Microvast Holdings appoints Derek Liu as chief accounting officer",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Magnite president Buckley sells $1.6m in shares after option exercise",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
