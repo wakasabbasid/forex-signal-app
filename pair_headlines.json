@@ -3,38 +3,40 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "USD/BRL Analysis 06/08: Remains Range-Bound - Daily Forex",
+        "title": "USD/JPY: A Contrarian Case - forex.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "AUD/USD Signal: Stuck in a Range as Iron Ore Prices Dive - Daily Forex",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.6965
+        "score": -0.9601
       }
     ],
     "EUR/USD": [
       {
-        "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - FOREX.com",
+        "title": "Euro Edges Higher Against Pound as EUR/GBP Stays Weak - TradingPedia",
         "source": "Google News",
-        "label": "bearish",
-        "score": -0.7117
+        "label": "bullish",
+        "score": 0.8311
       },
       {
         "title": "EUR/USD stalls at a key trendline ahead of the US NFP and CPI reports. What's next?",
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.9003
-      },
-      {
-        "title": "EUR/GBP Price Forecast: Mixed momentum signals point to more consolidation",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.5098
       }
     ],
     "GBP/USD": [
       {
-        "title": "EUR/GBP Price Forecast: Mixed momentum signals point to more consolidation",
-        "source": "FXStreet",
+        "title": "Euro Edges Higher Against Pound as EUR/GBP Stays Weak - TradingPedia",
+        "source": "Google News",
         "label": "bullish",
-        "score": 0.5098
+        "score": 0.8311
       }
     ]
   }
