@@ -15,10 +15,17 @@
       "currencies": []
     },
     {
-      "title": "Japan's yen jumps after US jobs data - Nikkei Asia",
+      "title": "Japan is buying yen in forex interventions. Where does it go? - Nikkei Asia",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.5982,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why The US Is Buying Japanese Yen\u2014And Why Your 401(k) Cares - Seeking Alpha",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -89,63 +96,56 @@
       ]
     },
     {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Palmer Square Capital BDC appoints Ben Wiesenfeld as chief compliance officer",
+      "title": "Teleflex announces $250 million accelerated share repurchase with Truist Bank",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Merck EVP David Maraldo sells $2.4 million of common stock",
+      "title": "Nth Cycle submits draft registration for SPAC merger",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.28%",
+      "title": "Bitcoin heads for 3% weekly gain as risk assets rally, Fed rate hike bets ease",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9345,
+      "score": 0.8327,
       "currencies": []
     },
     {
-      "title": "Blackbaud COO Kevin Gregoire sells over $1 million in shares",
+      "title": "Raytheon wins $1.3 billion in missile defense contracts",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6713,
+      "currencies": []
+    },
+    {
+      "title": "Kingstone Companies shareholders elect directors and approve proposals at annual meeting",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "New Jersey\u2019s $2.5 billion \u2019forever chemicals\u2019 settlements with DuPont, 3M, others win court approval",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5988,
-      "currencies": []
-    },
-    {
-      "title": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.68%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9408,
-      "currencies": []
-    },
-    {
-      "title": "Brazil stocks lower at close of trade; Bovespa down 1.73%",
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index down 0.22%",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9704,
+      "score": -0.9688,
       "currencies": []
     },
     {
-      "title": "Aramark appoints Antony F. Spring to board of directors, expands board to 12 members",
+      "title": "Earnings call transcript: Hawaiian Electric misses Q2 2026 core EPS forecast",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Builders FirstSource to separate with president of technology and digital solutions",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
