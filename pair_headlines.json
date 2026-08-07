@@ -9,6 +9,18 @@
         "score": 0.0
       },
       {
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.6676
+      },
+      {
+        "title": "EUR/JPY recovers from session low but remains down on Friday",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9648
+      },
+      {
         "title": "New Zealand Dollar advances as US labor market weakness pressures USD",
         "source": "FXStreet",
         "label": "bearish",
@@ -35,6 +47,24 @@
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.9003
+      },
+      {
+        "title": "EUR/JPY recovers from session low but remains down on Friday",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9648
+      },
+      {
+        "title": "EUR/USD Price Forecast: Buyers eye a break above the 100-day SMA",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9068
+      },
+      {
+        "title": "US Dollar Price Forecast: NFP Countdown Keeps DXY, EUR/USD and GBP/USD in Focus",
+        "source": "Yahoo Finance",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "GBP/USD": [
@@ -43,6 +73,18 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.8311
+      },
+      {
+        "title": "GBP/USD Price Forecast: Bulls need 1.3560 to unlock 1.3600",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "US Dollar Price Forecast: NFP Countdown Keeps DXY, EUR/USD and GBP/USD in Focus",
+        "source": "Yahoo Finance",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }

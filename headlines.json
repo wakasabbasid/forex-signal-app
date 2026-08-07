@@ -49,10 +49,10 @@
       "currencies": []
     },
     {
-      "title": "Mixed outlook for currencies next week - CNBC Africa",
+      "title": "Forex reserves fall for second month - Taipei Times",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9701,
       "currencies": []
     },
     {
@@ -60,13 +60,6 @@
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex reserves fall for second month - Taipei Times",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9701,
       "currencies": []
     },
     {
@@ -87,66 +80,75 @@
       ]
     },
     {
-      "title": "Yen intervention data shows scale of Japan's fight against 40-year lows - investinglive.com",
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "OpenAI flags critical cyber capability risk in upcoming \u2019Astra\u2019 model",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Extendicare tops revenue in Q2 2026 but shares fall",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8417,
-      "currencies": []
-    },
-    {
-      "title": "Trump to host mining CEOs as administration seeks minerals for defense supply chains",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "MSC Income Fund Q2 2026 slides: diversified BDC posts strong NAV gains",
+      "title": "Alupar Q2 2026 slides show project wins amid profit pressure",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9509,
+      "score": 0.9187,
       "currencies": []
     },
     {
-      "title": "The memory chip sector explained: HBM, DRAM, NAND and the stocks in each subsector",
+      "title": "Middlesex Water VP Lorrie Ginegaw sells $35,430 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Weyco Group VP Allison Woss sells $109,560 in common stock",
+      "title": "Kaltura director Eyal Manor sells $265,320 of common stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Loma Negra misses Q2 2026 forecasts as stock slips",
+      "title": "Kaltura CCO Natan Israeli sells $484,432 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "BofA: US payrolls fell 23k in July, unemployment drops to 4.1%",
+      "title": "Senate confirms Trump pick to oversee TSA as administration pushes private airport security",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9725,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Alupar misses Q2 2026 estimates as shares slip",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Veteran economist, insider Matsumoto wins Senate approval as BLS commissioner",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US Senate confirms Trump nominees for labor board, cementing Republican control",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7167,
       "currencies": []
     }
   ],
