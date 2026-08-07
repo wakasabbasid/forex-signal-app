@@ -15,16 +15,6 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY: A Contrarian Case - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
       "title": "Japan's yen jumps after US jobs data - Nikkei Asia",
       "source": "Google News",
       "label": "bearish",
@@ -70,13 +60,13 @@
       "currencies": []
     },
     {
-      "title": "Euro Edges Higher Against Pound as EUR/GBP Stays Weak - TradingPedia",
+      "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - FOREX.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.8311,
+      "label": "bearish",
+      "score": -0.7117,
       "currencies": [
         "EUR",
-        "GBP"
+        "USD"
       ]
     },
     {
@@ -89,6 +79,16 @@
       ]
     },
     {
+      "title": "Euro Edges Higher Against Pound as EUR/GBP Stays Weak - TradingPedia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8311,
+      "currencies": [
+        "EUR",
+        "GBP"
+      ]
+    },
+    {
       "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
       "label": "neutral",
@@ -96,61 +96,59 @@
       "currencies": []
     },
     {
-      "title": "Dollar falls as Fed rate hike bets ease; yen set to hold intervention gains",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6226,
-      "currencies": []
-    },
-    {
-      "title": "ArcBest director Janice Stipp sells $693,564 in shares",
+      "title": "Palmer Square Capital BDC appoints Ben Wiesenfeld as chief compliance officer",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Southern Co EVP & CLO Spainhour sells $313k in stock",
+      "title": "Merck EVP David Maraldo sells $2.4 million of common stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Trump renews effort to fire Fed\u2019s Cook, continuing attacks on central bank",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8365,
-      "currencies": []
-    },
-    {
-      "title": "Brett Matsumoto confirmed as BLS commissioner after predecessor fired",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Prudential Financial stock hits 52-week low at 21.11 USD",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9569,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Ethan Allen CEO defends strategy after activist challenge - Bloomberg",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Canada discussing trade concessions with US to avoid new tariffs, says source",
+      "title": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.28%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8662,
+      "score": 0.9345,
+      "currencies": []
+    },
+    {
+      "title": "Blackbaud COO Kevin Gregoire sells over $1 million in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "New Jersey\u2019s $2.5 billion \u2019forever chemicals\u2019 settlements with DuPont, 3M, others win court approval",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5988,
+      "currencies": []
+    },
+    {
+      "title": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.68%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9408,
+      "currencies": []
+    },
+    {
+      "title": "Brazil stocks lower at close of trade; Bovespa down 1.73%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9704,
+      "currencies": []
+    },
+    {
+      "title": "Aramark appoints Antony F. Spring to board of directors, expands board to 12 members",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

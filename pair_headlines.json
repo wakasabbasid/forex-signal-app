@@ -1,13 +1,35 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/JPY": [
+    "AUD/USD": [
       {
-        "title": "USD/JPY: A Contrarian Case - FOREX.com",
+        "title": "AUD/USD: Why This Chart Pattern Has Traders on Edge - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - FOREX.com",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.7117
       },
+      {
+        "title": "Euro Edges Higher Against Pound as EUR/GBP Stays Weak - TradingPedia",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.8311
+      },
+      {
+        "title": "EUR/JPY recovers from session low but remains down on Friday",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9648
+      }
+    ],
+    "USD/JPY": [
       {
         "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
         "source": "Google News",
@@ -15,10 +37,10 @@
         "score": 0.6676
       },
       {
-        "title": "Prudential Financial stock hits 52-week low at 21.11 USD",
-        "source": "Investing.com",
-        "label": "bearish",
-        "score": -0.9569
+        "title": "GBP/JPY Price Forecast: Rebound holds above 200-day SMA",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9338
       },
       {
         "title": "Silver Price Forecast: XAG/USD clears 50-day SMA, eyes $65",
@@ -33,40 +55,18 @@
         "score": -0.9648
       }
     ],
-    "AUD/USD": [
-      {
-        "title": "AUD/USD: Why This Chart Pattern Has Traders on Edge - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "Euro Edges Higher Against Pound as EUR/GBP Stays Weak - TradingPedia",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.8311
-      },
-      {
-        "title": "EUR/JPY recovers from session low but remains down on Friday",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9648
-      },
-      {
-        "title": "EUR/USD Price Forecast: Buyers eye a break above the 100-day SMA",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9068
-      }
-    ],
     "GBP/USD": [
       {
         "title": "Euro Edges Higher Against Pound as EUR/GBP Stays Weak - TradingPedia",
         "source": "Google News",
         "label": "bullish",
         "score": 0.8311
+      },
+      {
+        "title": "GBP/JPY Price Forecast: Rebound holds above 200-day SMA",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9338
       },
       {
         "title": "GBP/USD Price Forecast: Bulls need 1.3560 to unlock 1.3600",
