@@ -1,17 +1,17 @@
 {
   "headlines": [
     {
-      "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn - Nikkei Asia",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9301,
-      "currencies": []
-    },
-    {
       "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
       "source": "Google News",
       "label": "bullish",
       "score": 0.9097,
+      "currencies": []
+    },
+    {
+      "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn - Nikkei Asia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9301,
       "currencies": []
     },
     {
@@ -29,10 +29,10 @@
       "currencies": []
     },
     {
-      "title": "AUD/USD Signal: Stuck in a Range as Iron Ore Prices Dive - Daily Forex",
+      "title": "AUD/USD Signal: Stuck in a Range as Iron Ore Prices Dive - dailyforex.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9601,
+      "score": -0.9575,
       "currencies": [
         "AUD",
         "USD"
@@ -56,7 +56,7 @@
       ]
     },
     {
-      "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - FOREX.com",
+      "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - forex.com",
       "source": "Google News",
       "label": "bearish",
       "score": -0.7117,
@@ -73,6 +73,13 @@
       "currencies": []
     },
     {
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9371,
+      "currencies": []
+    },
+    {
       "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
       "source": "Google News",
       "label": "bullish",
@@ -82,17 +89,24 @@
       ]
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
-      "currencies": []
-    },
-    {
       "title": "Decoding \u201cDigital Sin\u201d: ForexTech and the New Frontiers of Currency Instability - Boston University",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Ivanhoe Electric earnings missed by $0.04, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9707,
+      "currencies": []
+    },
+    {
+      "title": "Delta flight makes emergency landing in Atlanta, no injuries reported",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8717,
       "currencies": []
     },
     {
@@ -135,20 +149,6 @@
       "source": "Investing.com",
       "label": "bearish",
       "score": -0.9642,
-      "currencies": []
-    },
-    {
-      "title": "Iran says deal on Strait of Hormuz is close but is not enough to open the waterway",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Berkshire\u2019s profit doubles as equity holdings surge; buys back $4.5 bln shares",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8745,
       "currencies": []
     }
   ],

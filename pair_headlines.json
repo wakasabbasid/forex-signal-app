@@ -3,10 +3,10 @@
   "pairs": {
     "AUD/USD": [
       {
-        "title": "AUD/USD Signal: Stuck in a Range as Iron Ore Prices Dive - Daily Forex",
+        "title": "AUD/USD Signal: Stuck in a Range as Iron Ore Prices Dive - dailyforex.com",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.9601
+        "score": -0.9575
       }
     ],
     "USD/JPY": [
@@ -43,7 +43,7 @@
     ],
     "EUR/USD": [
       {
-        "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - FOREX.com",
+        "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - forex.com",
         "source": "Google News",
         "label": "bearish",
         "score": -0.7117
