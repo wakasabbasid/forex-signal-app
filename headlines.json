@@ -22,17 +22,10 @@
       "currencies": []
     },
     {
-      "title": "Why The US Is Buying Japanese Yen\u2014And Why Your 401(k) Cares - Seeking Alpha",
+      "title": "AUD/USD Signal: Stuck in a Range as Iron Ore Prices Dive - Daily Forex",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "AUD/USD: Why This Chart Pattern Has Traders on Edge - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9601,
       "currencies": [
         "AUD",
         "USD"
@@ -46,25 +39,20 @@
       "currencies": []
     },
     {
-      "title": "Forex reserves fall for second month - Taipei Times",
+      "title": "Forex reserves fall for second month - taipeitimes.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9701,
+      "score": -0.9458,
       "currencies": []
     },
     {
-      "title": "Hong Kong foreign currency reserves rise US$1.9 billion in July - thestandard.com.hk",
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8055,
-      "currencies": []
-    },
-    {
-      "title": "Japan spent record 6.28 tril. yen in forex intervention on April 30 - \u6bce\u65e5\u65b0\u805e",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - FOREX.com",
@@ -77,10 +65,24 @@
       ]
     },
     {
-      "title": "US intervention of the yen revives currency diplomacy as a geoeconomic tool - The Business Times",
+      "title": "Hong Kong foreign currency reserves rise US$1.9 billion in July - The Standard (HK)",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8479,
+      "score": 0.9339,
+      "currencies": []
+    },
+    {
+      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japan spent record 6.28 tril. yen in forex intervention on April 30 - \u6bce\u65e5\u65b0\u805e",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -91,59 +93,59 @@
       "currencies": []
     },
     {
-      "title": "AppTech Payments director buys $23,814 in stock",
+      "title": "Scholastic director Kaya Henderson sells $130,812 in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Unipar Q2 2026 slides: EBITDA surges 177% on pricing, plant upgrade",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.946,
-      "currencies": []
-    },
-    {
-      "title": "Amgen SVP & CCO Nancy Grygiel disposes of $1.19m in stock",
+      "title": "SharkNinja CCO Neil Shah sells $5.5 million in ordinary shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Amgen SVP sells $1.56m in stock after option exercise",
+      "title": "Scholastic EVP, pres. CBG Quinton sells $1.2m in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Unipar\u2019s Q2 2026 profit jumps as shares slip 1.4%",
+      "title": "Linkhome Holdings CEO Qin Zhen sells $1 million in private share transfers",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Savers value village CPO Melinda Geisser sells $766,200 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "PubMatic CEO Rajeev Goel sells $3.75m in PUBM stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Savers Value Village general counsel sells $648,900 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "U.S. regulator rejects Bunq application for national bank charter",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9455,
-      "currencies": []
-    },
-    {
-      "title": "David J. Taylor from Ohio\u2019s 2nd district makes multiple trades in Alphabet, Broadcom, and others",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Rahul Khara, Disc Medicine CLO, sells $400,000 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Thermo Fisher\u2019s sr. VP Lisa Britt sells $3.39m in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "score": -0.7378,
       "currencies": []
     }
   ],

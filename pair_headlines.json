@@ -3,10 +3,36 @@
   "pairs": {
     "AUD/USD": [
       {
-        "title": "AUD/USD: Why This Chart Pattern Has Traders on Edge - DailyForex",
+        "title": "AUD/USD Signal: Stuck in a Range as Iron Ore Prices Dive - Daily Forex",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bearish",
+        "score": -0.9601
+      }
+    ],
+    "USD/JPY": [
+      {
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.6676
+      },
+      {
+        "title": "GBP/JPY Price Forecast: Rebound holds above 200-day SMA",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9338
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD clears 50-day SMA, eyes $65",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8153
+      },
+      {
+        "title": "EUR/JPY recovers from session low but remains down on Friday",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9648
       }
     ],
     "EUR/USD": [
@@ -35,26 +61,6 @@
         "source": "FXStreet",
         "label": "neutral",
         "score": 0.0
-      }
-    ],
-    "USD/JPY": [
-      {
-        "title": "GBP/JPY Price Forecast: Rebound holds above 200-day SMA",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9338
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD clears 50-day SMA, eyes $65",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8153
-      },
-      {
-        "title": "EUR/JPY recovers from session low but remains down on Friday",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9648
       }
     ]
   }
