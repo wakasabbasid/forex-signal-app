@@ -22,10 +22,17 @@
       "currencies": []
     },
     {
-      "title": "AUD/USD Signal: Stuck in a Range as Iron Ore Prices Dive - Daily Forex",
+      "title": "Yen jumps on U.S. data as traders watch for intervention clues - The Japan Times",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9601,
+      "score": -0.52,
+      "currencies": []
+    },
+    {
+      "title": "AUD/USD Signal: Stuck in a Range as Iron Ore Prices Dive - dailyforex.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9575,
       "currencies": [
         "AUD",
         "USD"
@@ -49,15 +56,6 @@
       ]
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
       "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - FOREX.com",
       "source": "Google News",
       "label": "bearish",
@@ -68,17 +66,26 @@
       ]
     },
     {
-      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - cfr.org",
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - wsj.com",
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.674,
+      "score": 0.9371,
       "currencies": []
     },
     {
@@ -89,10 +96,17 @@
       "currencies": []
     },
     {
-      "title": "After currency headwinds, Israeli tech welcomes a forex rebound (WIX:NASDAQ) - Seeking Alpha",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9451,
+      "title": "CASX Token Presale Marks the Next Milestone for the Cashelix Payment Ecosystem",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Iran sets tough terms for U.S. to reopen Strait of Hormuz despite progress in Oman",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8761,
       "currencies": []
     },
     {
@@ -135,20 +149,6 @@
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Berkshire lowers cash stake as buybacks accelerate, reports higher profit",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5078,
-      "currencies": []
-    },
-    {
-      "title": "Michigan salad warnings ease, but cyclospora keeps shoppers and grocers on edge",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9002,
       "currencies": []
     }
   ],
