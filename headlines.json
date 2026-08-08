@@ -42,6 +42,13 @@
       ]
     },
     {
+      "title": "Forex reserves fall for second month - Taipei Times",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9701,
+      "currencies": []
+    },
+    {
       "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
       "source": "Google News",
       "label": "bullish",
@@ -49,13 +56,6 @@
       "currencies": [
         "USD"
       ]
-    },
-    {
-      "title": "Forex reserves fall for second month - Taipei Times",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9701,
-      "currencies": []
     },
     {
       "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - FOREX.com",
@@ -82,15 +82,36 @@
       "currencies": []
     },
     {
-      "title": "Why The U.S. Is Buying Japanese Yen\u2014And Why Your 401(k) Cares - Seeking Alpha",
+      "title": "After currency headwinds, Israeli tech welcomes a forex rebound (WIX:NASDAQ) - Seeking Alpha",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9451,
+      "currencies": []
+    },
+    {
+      "title": "Decoding \u201cDigital Sin\u201d: ForexTech and the New Frontiers of Currency Instability - Boston University",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Decoding \u201cDigital Sin\u201d: ForexTech and the New Frontiers of Currency Instability - Boston University",
-      "source": "Google News",
+      "title": "Delhivery Q1 FY27 slides: volumes surge 55% as margins compress",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9416,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Delhivery Q1 2026 revenue rises 28% as volumes jump",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9455,
+      "currencies": []
+    },
+    {
+      "title": "What happens to stocks when the Fed starts hiking? Barclays weighs in",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
@@ -103,6 +124,20 @@
       "currencies": []
     },
     {
+      "title": "Berkshire lowers cash stake as buybacks accelerate, reports higher profit",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5078,
+      "currencies": []
+    },
+    {
+      "title": "Michigan salad warnings ease, but cyclospora keeps shoppers and grocers on edge",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9002,
+      "currencies": []
+    },
+    {
       "title": "Iran says Strait of Hormuz deal with Oman close; demands U.S. yield on conditions",
       "source": "Investing.com",
       "label": "bullish",
@@ -111,41 +146,6 @@
     },
     {
       "title": "Iran says deal on Strait of Hormuz is close but will not open the waterway by itself",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Apple says Mac users in China can connect to Alibaba\u2019s Qwen AI service",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Berkshire says operating profit rises, conducts stock buybacks",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7162,
-      "currencies": []
-    },
-    {
-      "title": "Gevo CEO Paul Bloom sells $48,068 in company shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "UAE says Iran attacked ADNOC vessel with missile in Strait of Hormuz",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.734,
-      "currencies": []
-    },
-    {
-      "title": "Onemednet director Thomas Kosasa buys $1 million in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
