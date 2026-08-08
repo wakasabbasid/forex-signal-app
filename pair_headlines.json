@@ -1,29 +1,13 @@
 {
   "run_id": 1,
   "pairs": {
-    "AUD/USD": [
-      {
-        "title": "AUD/USD Signal: Stuck in a Range as Iron Ore Prices Dive - Daily Forex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9601
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - FOREX.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.7117
-      },
-      {
-        "title": "EUR/JPY recovers from session low but remains down on Friday",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9648
-      }
-    ],
     "USD/JPY": [
+      {
+        "title": "India's forex kitty swells by USD 10.5 bn to USD 692.87 bn - BFSI News",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.9381
+      },
       {
         "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
         "source": "Google News",
@@ -41,6 +25,28 @@
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.8153
+      },
+      {
+        "title": "EUR/JPY recovers from session low but remains down on Friday",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9648
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "AUD/USD Signal: Stuck in a Range as Iron Ore Prices Dive - dailyforex.com",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9575
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - FOREX.com",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.7117
       },
       {
         "title": "EUR/JPY recovers from session low but remains down on Friday",

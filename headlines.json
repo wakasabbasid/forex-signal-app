@@ -1,10 +1,10 @@
 {
   "headlines": [
     {
-      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - reuters.com",
+      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.6896,
+      "score": 0.9097,
       "currencies": []
     },
     {
@@ -22,21 +22,31 @@
       "currencies": []
     },
     {
+      "title": "India's forex kitty swells by USD 10.5 bn to USD 692.87 bn - BFSI News",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9381,
+      "currencies": [
+        "USD",
+        "USD"
+      ]
+    },
+    {
+      "title": "AUD/USD Signal: Stuck in a Range as Iron Ore Prices Dive - dailyforex.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9575,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
+    },
+    {
       "title": "Currency Politics Is Back \u2014 And the Yen Intervention Proves It - Forex Factory",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
-    },
-    {
-      "title": "AUD/USD Signal: Stuck in a Range as Iron Ore Prices Dive - Daily Forex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9601,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
     },
     {
       "title": "Forex reserves fall for second month - taipeitimes.com",
@@ -63,10 +73,17 @@
       ]
     },
     {
-      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - cfr.org",
+      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9371,
       "currencies": []
     },
     {
@@ -79,70 +96,56 @@
       ]
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - wsj.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.674,
-      "currencies": []
-    },
-    {
-      "title": "Carry trade is powering on as investors sidestep yen\u2019s gains - The Japan Times",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.4546,
-      "currencies": []
-    },
-    {
-      "title": "Klesch becomes Germany\u2019s second-largest oil refiner after BP deal",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5514,
-      "currencies": []
-    },
-    {
-      "title": "Kaynes Q1 FY27 slides: 40% revenue growth, margin pressure mounts",
+      "title": "Typhoon Dolphin hits Japan\u2019s Okinawa, China shuts ports ahead of landfall",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5759,
+      "score": -0.9114,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Cera Sanitaryware Q1 2027 revenue rises 19.5% as margins slip",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9505,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Kaynes Technology posts strong Q1 2027 growth",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.952,
-      "currencies": []
-    },
-    {
-      "title": "UK officials fear Burnham\u2019s fiscal flexibility could unsettle bond markets",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9548,
-      "currencies": []
-    },
-    {
-      "title": "Acadia CFO Mark Schneyer sells $587k in company stock",
+      "title": "U.S. Senate passes short-term funding bill to avert federal shutdown before election",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "SentinelOne CEO Tomer Weingarten sells $1.08 million in stock",
+      "title": "Agilysys CEO Ramesh Srinivasan sells $21.3m in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "BJ\u2019s restaurants EVP & general counsel Miller sells $916k shares",
+      "title": "BofA expects Gulf states to back Bahrain amid geopolitical uncertainty",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8563,
+      "currencies": []
+    },
+    {
+      "title": "Peoples Bancorp director Abernethy sells $40,211 in common stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Kyiv hit as Ukraine targets Russian refineries and shadow fleet",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6987,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin stalls at $65,156 resistance as ADX warns of bull trap: Live levels",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9484,
+      "currencies": []
+    },
+    {
+      "title": "J&J CEO Duato sells $12.5m in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
