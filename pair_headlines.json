@@ -1,21 +1,21 @@
 {
   "run_id": 1,
   "pairs": {
-    "AUD/USD": [
+    "GBP/USD": [
       {
-        "title": "AUD/USD Signal: Stuck in a Range as Iron Ore Prices Dive - Daily Forex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9601
+        "title": "GBP/JPY Price Forecast: Rebound holds above 200-day SMA",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9338
+      },
+      {
+        "title": "GBP/USD Price Forecast: Bulls need 1.3560 to unlock 1.3600",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "USD/JPY": [
-      {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.6676
-      },
       {
         "title": "GBP/JPY Price Forecast: Rebound holds above 200-day SMA",
         "source": "FXStreet",
@@ -37,30 +37,10 @@
     ],
     "EUR/USD": [
       {
-        "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - FOREX.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.7117
-      },
-      {
         "title": "EUR/JPY recovers from session low but remains down on Friday",
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.9648
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "GBP/JPY Price Forecast: Rebound holds above 200-day SMA",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9338
-      },
-      {
-        "title": "GBP/USD Price Forecast: Bulls need 1.3560 to unlock 1.3600",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
       }
     ]
   }

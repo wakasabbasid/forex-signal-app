@@ -1,95 +1,52 @@
 {
   "headlines": [
     {
-      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
-      "source": "Google News",
+      "title": "Palantir director Lauren Stat sells $500,280 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Kinetik Holdings director ISQ Global Fund II GP LLC sells $13.3m shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Alphatec Holdings general counsel sells $78,821 in ATEC shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Netlist EVP and CFO Gail Sasaki sells $99,750 in NLST shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "U.S. plans $1 billion security aid package for Colombia",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9097,
+      "score": 0.7813,
       "currencies": []
     },
     {
-      "title": "Japan spent record 6.28 tril. yen in forex intervention on April 30 - Japan Wire by Kyodo News",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why yen intervention had limited impact: Market doubts over Japan's policy - Nikkei Asia",
-      "source": "Google News",
+      "title": "Delaware judge orders Verisk to proceed with $2.35 billion AccuLynx deal",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6974,
+      "score": -0.7849,
       "currencies": []
     },
     {
-      "title": "AUD/USD Signal: Stuck in a Range as Iron Ore Prices Dive - Daily Forex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9601,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
-    },
-    {
-      "title": "A tool rarely used: historic US intervention to save the yen - Al Majalla",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex reserves fall for second month - taipeitimes.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9458,
-      "currencies": []
-    },
-    {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-      "source": "Google News",
+      "title": "Trump administration to invest $3 billion in minerals projects to boost US defense supply chains",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7117,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "Hong Kong foreign currency reserves rise US$1.9 billion in July - The Standard (HK)",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9339,
-      "currencies": []
-    },
-    {
-      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan spent record 6.28 tril. yen in forex intervention on April 30 - \u6bce\u65e5\u65b0\u805e",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan is buying yen in forex interventions. Where does it go? - Nikkei Asia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "score": 0.8867,
       "currencies": []
     },
     {
@@ -114,38 +71,73 @@
       "currencies": []
     },
     {
-      "title": "Linkhome Holdings CEO Qin Zhen sells $1 million in private share transfers",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Savers value village CPO Melinda Geisser sells $766,200 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "PubMatic CEO Rajeev Goel sells $3.75m in PUBM stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Savers Value Village general counsel sells $648,900 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "U.S. regulator rejects Bunq application for national bank charter",
-      "source": "Investing.com",
+      "title": "investingLive Americas market news wrap: Non-farm payrolls turn negative, dollar drops",
+      "source": "ForexLive",
       "label": "bearish",
-      "score": -0.7378,
+      "score": -0.9581,
+      "currencies": []
+    },
+    {
+      "title": "The chart that should worry every new grad",
+      "source": "ForexLive",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US official says there is progress on Iran-Oman on Strait of Hormuz",
+      "source": "ForexLive",
+      "label": "bullish",
+      "score": 0.9235,
+      "currencies": []
+    },
+    {
+      "title": "Earnings week ahead preview:  The season's last big week belongs to the neoclouds",
+      "source": "ForexLive",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Baker Hughes US weekly oil rig count: Unchanged at 588",
+      "source": "ForexLive",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin Holds $65,000 as Ethereum Tests Support: Is the Crypto Breakout Still Alive?",
+      "source": "ForexLive",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "New York Fed survey: One year inflation expectations dip to 3.6% from 3.7%",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.9527,
+      "currencies": []
+    },
+    {
+      "title": "Fed's Barkin: We are in a zero-to-modest gain jobs environment",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.6648,
+      "currencies": []
+    },
+    {
+      "title": "Canada and the US discussing tariff relief deal",
+      "source": "ForexLive",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US dollar sinks on shock contraction in jobs",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.9364,
       "currencies": []
     }
   ],
