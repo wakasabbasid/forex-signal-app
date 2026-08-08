@@ -53,12 +53,6 @@
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.9648
-      },
-      {
-        "title": "US Dollar Price Forecast: NFP Countdown Keeps DXY, EUR/USD and GBP/USD in Focus",
-        "source": "Yahoo Finance",
-        "label": "neutral",
-        "score": 0.0
       }
     ],
     "GBP/USD": [
@@ -71,12 +65,6 @@
       {
         "title": "GBP/USD Price Forecast: Bulls need 1.3560 to unlock 1.3600",
         "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "US Dollar Price Forecast: NFP Countdown Keeps DXY, EUR/USD and GBP/USD in Focus",
-        "source": "Yahoo Finance",
         "label": "neutral",
         "score": 0.0
       }

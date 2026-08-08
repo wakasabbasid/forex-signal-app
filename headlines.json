@@ -61,14 +61,14 @@
       ]
     },
     {
-      "title": "Why The U.S. Is Buying Japanese Yen\u2014And Why Your 401(k) Cares - Seeking Alpha",
+      "title": "Japan is buying yen in forex interventions. Where does it go? - Nikkei Asia",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Japan is buying yen in forex interventions. Where does it go? - Nikkei Asia",
+      "title": "Why The U.S. Is Buying Japanese Yen\u2014And Why Your 401(k) Cares - Seeking Alpha",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -91,6 +91,34 @@
     {
       "title": "Decoding \u201cDigital Sin\u201d: ForexTech and the New Frontiers of Currency Instability - Boston University",
       "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Paycom stock delivers 71% return after Fair Value signal",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8851,
+      "currencies": []
+    },
+    {
+      "title": "How Fair Value spotted Avis Budget\u2019s 52% plunge four months early",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Typhoon Dolphin hits Japan\u2019s Okinawa, China shuts ports ahead of landfall",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9114,
+      "currencies": []
+    },
+    {
+      "title": "Porch group CFO Shawn Tabak sells $405k in PRCH stock",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
@@ -121,34 +149,6 @@
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Citadel Securities\u2019 Rubner says it\u2019s time to start buying gold again",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Maharashtra Seamless Q1 FY27 slides: profit surges on treasury gains",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6237,
-      "currencies": []
-    },
-    {
-      "title": "India warned Diageo that its whisky\u2019s \u2019matured in American oak casks\u2019 claim was misleading",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Maharashtra Seamless Q1 2027 profit rises on treasury gains",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9017,
       "currencies": []
     }
   ],
