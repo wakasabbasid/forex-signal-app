@@ -3,16 +3,16 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "India's forex kitty swells by USD 10.5 bn to USD 692.87 bn - BFSI News",
+        "title": "India's forex kitty swells by USD 10.5 bn to USD 692.87 bn - bfsi.economictimes.indiatimes.com",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.9381
+        "score": 0.896
       },
       {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - newsonair.gov.in",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.6676
+        "score": 0.8185
       },
       {
         "title": "GBP/JPY Price Forecast: Rebound holds above 200-day SMA",
@@ -35,10 +35,10 @@
     ],
     "AUD/USD": [
       {
-        "title": "AUD/USD Signal: Stuck in a Range as Iron Ore Prices Dive - dailyforex.com",
+        "title": "AUD/USD Signal: Stuck in a Range as Iron Ore Prices Dive - Daily Forex",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.9575
+        "score": -0.9601
       }
     ],
     "EUR/USD": [
@@ -53,6 +53,12 @@
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.9648
+      },
+      {
+        "title": "US Dollar Price Forecast: NFP Countdown Keeps DXY, EUR/USD and GBP/USD in Focus",
+        "source": "Yahoo Finance",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "GBP/USD": [
@@ -65,6 +71,12 @@
       {
         "title": "GBP/USD Price Forecast: Bulls need 1.3560 to unlock 1.3600",
         "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "US Dollar Price Forecast: NFP Countdown Keeps DXY, EUR/USD and GBP/USD in Focus",
+        "source": "Yahoo Finance",
         "label": "neutral",
         "score": 0.0
       }
