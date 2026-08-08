@@ -29,10 +29,10 @@
       "currencies": []
     },
     {
-      "title": "AUD/USD Signal: Stuck in a Range as Iron Ore Prices Dive - dailyforex.com",
+      "title": "AUD/USD Signal: Stuck in a Range as Iron Ore Prices Dive - Daily Forex",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9575,
+      "score": -0.9601,
       "currencies": [
         "AUD",
         "USD"
@@ -66,6 +66,13 @@
       ]
     },
     {
+      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
       "source": "Google News",
       "label": "bullish",
@@ -73,13 +80,6 @@
       "currencies": [
         "USD"
       ]
-    },
-    {
-      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
     },
     {
       "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
@@ -93,6 +93,27 @@
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US Senate advances landmark crypto bill before heading on August recess",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "European software rally leaves next leg to long-only investors, Deutsche Bank says",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin squeezed at $65,300 resistance: Hourly levels",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8396,
       "currencies": []
     },
     {
@@ -128,27 +149,6 @@
       "source": "Investing.com",
       "label": "bullish",
       "score": 0.8745,
-      "currencies": []
-    },
-    {
-      "title": "Delhivery Q1 FY27 slides: volumes surge 55% as margins compress",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9416,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Delhivery Q1 2026 revenue rises 28% as volumes jump",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9455,
-      "currencies": []
-    },
-    {
-      "title": "What happens to stocks when the Fed starts hiking? Barclays weighs in",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     }
   ],
