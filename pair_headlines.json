@@ -1,26 +1,18 @@
 {
   "run_id": 1,
   "pairs": {
-    "AUD/USD": [
-      {
-        "title": "AUD/USD Signal: Stuck in a Range as Iron Ore Prices Dive - dailyforex.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9575
-      }
-    ],
     "USD/JPY": [
+      {
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - newsonair.gov.in",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.8185
+      },
       {
         "title": "India's forex kitty swells by USD 10.5 bn to USD 692.87 bn - BFSI News",
         "source": "Google News",
         "label": "bullish",
         "score": 0.9381
-      },
-      {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.6676
       },
       {
         "title": "GBP/JPY Price Forecast: Rebound holds above 200-day SMA",
@@ -41,9 +33,17 @@
         "score": -0.9648
       }
     ],
+    "AUD/USD": [
+      {
+        "title": "AUD/USD Forex Signal 05/08: Bullish Outlook - Daily Forex",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.3571
+      }
+    ],
     "EUR/USD": [
       {
-        "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - forex.com",
+        "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - FOREX.com",
         "source": "Google News",
         "label": "bearish",
         "score": -0.7117

@@ -29,10 +29,19 @@
       "currencies": []
     },
     {
-      "title": "AUD/USD Signal: Stuck in a Range as Iron Ore Prices Dive - dailyforex.com",
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - newsonair.gov.in",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9575,
+      "label": "bullish",
+      "score": 0.8185,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "AUD/USD Forex Signal 05/08: Bullish Outlook - Daily Forex",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.3571,
       "currencies": [
         "AUD",
         "USD"
@@ -46,22 +55,22 @@
       "currencies": []
     },
     {
+      "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - FOREX.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7117,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
       "title": "India's forex kitty swells by USD 10.5 bn to USD 692.87 bn - BFSI News",
       "source": "Google News",
       "label": "bullish",
       "score": 0.9381,
       "currencies": [
         "USD",
-        "USD"
-      ]
-    },
-    {
-      "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - forex.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7117,
-      "currencies": [
-        "EUR",
         "USD"
       ]
     },
@@ -80,19 +89,38 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Decoding \u201cDigital Sin\u201d: ForexTech and the New Frontiers of Currency Instability - Boston University",
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9603,
+      "currencies": []
+    },
+    {
+      "title": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "What would it take for Mercedes Benz stock to re-rate higher? Citi weighs in",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Telecom Argentina ADR earnings missed by $0.05, revenue fell short of estimates",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9706,
       "currencies": []
     },
     {
@@ -121,34 +149,6 @@
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Bitcoin squeezed at $65,300 resistance: Hourly levels",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8396,
-      "currencies": []
-    },
-    {
-      "title": "CASX Token Presale Marks the Next Milestone for the Cashelix Payment Ecosystem",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Iran sets tough terms for U.S. to reopen Strait of Hormuz despite progress in Oman",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8761,
-      "currencies": []
-    },
-    {
-      "title": "Nvidia\u2019s valuation is lowest in 10 years despite mind-blowing AI demand, BofA say",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9642,
       "currencies": []
     }
   ],
