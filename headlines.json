@@ -1,10 +1,10 @@
 {
   "headlines": [
     {
-      "title": "Japan's top 3 banks boost foreign currency liquidity to $1.25tn - Nikkei Asia",
+      "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn - Nikkei Asia",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9333,
+      "score": 0.9301,
       "currencies": []
     },
     {
@@ -82,6 +82,13 @@
       "currencies": []
     },
     {
+      "title": "Decoding \u201cDigital Sin\u201d: ForexTech and the New Frontiers of Currency Instability - Boston University",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "After currency headwinds, Israeli tech welcomes a forex rebound (WIX:NASDAQ) - Seeking Alpha",
       "source": "Google News",
       "label": "bullish",
@@ -89,8 +96,8 @@
       "currencies": []
     },
     {
-      "title": "Decoding \u201cDigital Sin\u201d: ForexTech and the New Frontiers of Currency Instability - Boston University",
-      "source": "Google News",
+      "title": "Iran says deal on Strait of Hormuz is close but is not enough to open the waterway",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
@@ -142,13 +149,6 @@
       "source": "Investing.com",
       "label": "bullish",
       "score": 0.6528,
-      "currencies": []
-    },
-    {
-      "title": "Iran says deal on Strait of Hormuz is close but will not open the waterway by itself",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     }
   ],
