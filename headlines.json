@@ -15,6 +15,13 @@
       "currencies": []
     },
     {
+      "title": "Japan is buying yen in forex interventions. Where does it go? - Nikkei Asia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "India's forex kitty swells by USD 10.5 bn to USD 692.87 bn - BFSI News",
       "source": "Google News",
       "label": "bullish",
@@ -35,20 +42,20 @@
       ]
     },
     {
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "Forex reserves fall for second month - Taipei Times",
       "source": "Google News",
       "label": "bearish",
       "score": -0.9701,
       "currencies": []
-    },
-    {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - newsonair.gov.in",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8185,
-      "currencies": [
-        "USD"
-      ]
     },
     {
       "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - FOREX.com",
@@ -59,20 +66,6 @@
         "EUR",
         "USD"
       ]
-    },
-    {
-      "title": "Japan is buying yen in forex interventions. Where does it go? - Nikkei Asia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why The U.S. Is Buying Japanese Yen\u2014And Why Your 401(k) Cares - Seeking Alpha",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
     },
     {
       "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
@@ -89,6 +82,13 @@
       "currencies": []
     },
     {
+      "title": "Why The U.S. Is Buying Japanese Yen\u2014And Why Your 401(k) Cares - Seeking Alpha",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Decoding \u201cDigital Sin\u201d: ForexTech and the New Frontiers of Currency Instability - Boston University",
       "source": "Google News",
       "label": "neutral",
@@ -96,56 +96,56 @@
       "currencies": []
     },
     {
-      "title": "Paycom stock delivers 71% return after Fair Value signal",
+      "title": "Berkshire\u2019s profit doubles as equity holdings surge; buys back $4.5 bln shares",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8851,
+      "score": 0.8745,
       "currencies": []
     },
     {
-      "title": "How Fair Value spotted Avis Budget\u2019s 52% plunge four months early",
+      "title": "Iran says Strait of Hormuz deal with Oman close; demands U.S. yield on conditions",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6528,
+      "currencies": []
+    },
+    {
+      "title": "Iran says deal on Strait of Hormuz is close but will not open the waterway by itself",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Typhoon Dolphin hits Japan\u2019s Okinawa, China shuts ports ahead of landfall",
+      "title": "Apple says Mac users in China can connect to Alibaba\u2019s Qwen AI service",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Berkshire says operating profit rises, conducts stock buybacks",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7162,
+      "currencies": []
+    },
+    {
+      "title": "Gevo CEO Paul Bloom sells $48,068 in company shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "UAE says Iran attacked ADNOC vessel with missile in Strait of Hormuz",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9114,
+      "score": -0.734,
       "currencies": []
     },
     {
-      "title": "Porch group CFO Shawn Tabak sells $405k in PRCH stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Nvidia analysis: Should you buy the stock into earnings amid 10-yr low valuation?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "U.S. Senate passes stopgap spending bill without Trump priorities",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Perella Weinberg Partners CEO Andrew Bednar sells $4.08m in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Nvidia invests $2 billion in power developer Lancium - report",
+      "title": "Onemednet director Thomas Kosasa buys $1 million in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
