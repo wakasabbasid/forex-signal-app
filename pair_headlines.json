@@ -1,6 +1,14 @@
 {
   "run_id": 1,
   "pairs": {
+    "AUD/USD": [
+      {
+        "title": "AUD/USD Signal: Stuck in a Range as Iron Ore Prices Dive - Daily Forex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9601
+      }
+    ],
     "USD/JPY": [
       {
         "title": "India's forex kitty swells by USD 10.5 bn to USD 692.87 bn - BFSI News",
@@ -31,14 +39,6 @@
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.9648
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "AUD/USD Signal: Stuck in a Range as Iron Ore Prices Dive - Daily Forex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9601
       }
     ],
     "EUR/USD": [

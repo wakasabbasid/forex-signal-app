@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "Japan's top 3 banks boost foreign currency liquidity to $1.25tn - Nikkei Asia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9333,
+      "currencies": []
+    },
+    {
       "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -15,11 +22,14 @@
       "currencies": []
     },
     {
-      "title": "Japan is buying yen in forex interventions. Where does it go? - Nikkei Asia",
+      "title": "AUD/USD Signal: Stuck in a Range as Iron Ore Prices Dive - Daily Forex",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
+      "label": "bearish",
+      "score": -0.9601,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
     },
     {
       "title": "India's forex kitty swells by USD 10.5 bn to USD 692.87 bn - BFSI News",
@@ -28,16 +38,6 @@
       "score": 0.9381,
       "currencies": [
         "USD",
-        "USD"
-      ]
-    },
-    {
-      "title": "AUD/USD Signal: Stuck in a Range as Iron Ore Prices Dive - Daily Forex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9601,
-      "currencies": [
-        "AUD",
         "USD"
       ]
     },
@@ -96,6 +96,13 @@
       "currencies": []
     },
     {
+      "title": "Berkshire\u2019s profit doubles as equity holdings surge; buys back $4.5 bln shares",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8745,
+      "currencies": []
+    },
+    {
       "title": "Delhivery Q1 FY27 slides: volumes surge 55% as margins compress",
       "source": "Investing.com",
       "label": "bullish",
@@ -114,13 +121,6 @@
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Berkshire\u2019s profit doubles as equity holdings surge; buys back $4.5 bln shares",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8745,
       "currencies": []
     },
     {
