@@ -32,6 +32,13 @@
       ]
     },
     {
+      "title": "Forex reserves fall for second month - Taipei Times",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9701,
+      "currencies": []
+    },
+    {
       "title": "India's forex kitty swells by USD 10.5 bn to USD 692.87 bn - BFSI News",
       "source": "Google News",
       "label": "bullish",
@@ -40,13 +47,6 @@
         "USD",
         "USD"
       ]
-    },
-    {
-      "title": "Forex reserves fall for second month - Taipei Times",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9701,
-      "currencies": []
     },
     {
       "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
@@ -68,17 +68,17 @@
       ]
     },
     {
-      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
+      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - cfr.org",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - wsj.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9371,
+      "score": 0.674,
       "currencies": []
     },
     {
@@ -93,6 +93,13 @@
       "source": "Google News",
       "label": "bullish",
       "score": 0.9451,
+      "currencies": []
+    },
+    {
+      "title": "Nvidia\u2019s valuation is lowest in 10 years despite mind-blowing AI demand, BofA say",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9642,
       "currencies": []
     },
     {
@@ -142,13 +149,6 @@
       "source": "Investing.com",
       "label": "bearish",
       "score": -0.9002,
-      "currencies": []
-    },
-    {
-      "title": "Iran says Strait of Hormuz deal with Oman close; demands U.S. yield on conditions",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6528,
       "currencies": []
     }
   ],
