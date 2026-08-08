@@ -1,143 +1,151 @@
 {
   "headlines": [
     {
-      "title": "Palantir director Lauren Stat sells $500,280 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Kinetik Holdings director ISQ Global Fund II GP LLC sells $13.3m shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Alphatec Holdings general counsel sells $78,821 in ATEC shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Netlist EVP and CFO Gail Sasaki sells $99,750 in NLST shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "U.S. plans $1 billion security aid package for Colombia",
-      "source": "Investing.com",
+      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
+      "source": "Google News",
       "label": "bullish",
-      "score": 0.7813,
+      "score": 0.9097,
       "currencies": []
     },
     {
-      "title": "Delaware judge orders Verisk to proceed with $2.35 billion AccuLynx deal",
-      "source": "Investing.com",
+      "title": "Japan spent record 6.28 tril. yen in forex intervention on April 30 - Japan Wire by Kyodo News",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why yen intervention had limited impact: Market doubts over Japan's policy - Nikkei Asia",
+      "source": "Google News",
       "label": "bearish",
-      "score": -0.7849,
+      "score": -0.6974,
       "currencies": []
     },
     {
-      "title": "Trump administration to invest $3 billion in minerals projects to boost US defense supply chains",
-      "source": "Investing.com",
+      "title": "AUD/USD Signal: Stuck in a Range as Iron Ore Prices Dive - Daily Forex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9601,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
+    },
+    {
+      "title": "A tool rarely used: historic US intervention to save the yen - Al Majalla",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex reserves fall for second month - Taipei Times",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9701,
+      "currencies": []
+    },
+    {
+      "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - FOREX.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7117,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "Currency Politics Is Back \u2014 And the Yen Intervention Proves It - Forex Factory",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "source": "Google News",
       "label": "bullish",
-      "score": 0.8867,
-      "currencies": []
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
     },
     {
-      "title": "Scholastic director Kaya Henderson sells $130,812 in company stock",
-      "source": "Investing.com",
+      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "SharkNinja CCO Neil Shah sells $5.5 million in ordinary shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Scholastic EVP, pres. CBG Quinton sells $1.2m in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "investingLive Americas market news wrap: Non-farm payrolls turn negative, dollar drops",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.9581,
-      "currencies": []
-    },
-    {
-      "title": "The chart that should worry every new grad",
-      "source": "ForexLive",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US official says there is progress on Iran-Oman on Strait of Hormuz",
-      "source": "ForexLive",
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
+      "source": "Google News",
       "label": "bullish",
-      "score": 0.9235,
+      "score": 0.9371,
       "currencies": []
     },
     {
-      "title": "Earnings week ahead preview:  The season's last big week belongs to the neoclouds",
-      "source": "ForexLive",
+      "title": "Japan is buying yen in forex interventions. Where does it go? - Nikkei Asia",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Baker Hughes US weekly oil rig count: Unchanged at 588",
-      "source": "ForexLive",
+      "title": "Arista Networks CEO Jayshree Ullal sells $66.7 million in common stock",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Bitcoin Holds $65,000 as Ethereum Tests Support: Is the Crypto Breakout Still Alive?",
-      "source": "ForexLive",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "New York Fed survey: One year inflation expectations dip to 3.6% from 3.7%",
-      "source": "ForexLive",
+      "title": "Delaware court blocks Verisk\u2019s exit from $2.35 billion AccuLynx deal",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9527,
+      "score": -0.8746,
       "currencies": []
     },
     {
-      "title": "Fed's Barkin: We are in a zero-to-modest gain jobs environment",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.6648,
-      "currencies": []
-    },
-    {
-      "title": "Canada and the US discussing tariff relief deal",
-      "source": "ForexLive",
+      "title": "Dianthus Therapeutics CEO Marino Garcia sells $17.9m in shares",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US dollar sinks on shock contraction in jobs",
-      "source": "ForexLive",
+      "title": "Australia unions push on with strike at BHP\u2019s Port Hedland iron ore operations",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9364,
+      "score": -0.8241,
+      "currencies": []
+    },
+    {
+      "title": "Situational Awareness invested $500 million in chip startup Source Foundry",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Typhoon Dolphin hits Japan\u2019s Okinawa, China shuts ports ahead of landfall",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9114,
+      "currencies": []
+    },
+    {
+      "title": "Terreno earnings beat by $0.17, revenue fell short of estimates",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7955,
+      "currencies": []
+    },
+    {
+      "title": "BHP workers begin rolling strikes at Port Hedland iron ore hub",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9161,
       "currencies": []
     }
   ],
