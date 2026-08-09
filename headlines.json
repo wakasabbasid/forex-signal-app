@@ -22,26 +22,19 @@
       "currencies": []
     },
     {
-      "title": "Yen jumps on U.S. data as traders watch for intervention clues - The Japan Times",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.52,
-      "currencies": []
-    },
-    {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - newsonair.gov.in",
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8185,
+      "score": 0.6676,
       "currencies": [
         "USD"
       ]
     },
     {
-      "title": "AUD/USD Forex Signal 05/08: Bullish Outlook - Daily Forex",
+      "title": "AUD/USD Forex Signal 05/08: Bullish Outlook - DailyForex",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.3571,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
         "AUD",
         "USD"
@@ -53,26 +46,6 @@
       "label": "bearish",
       "score": -0.9701,
       "currencies": []
-    },
-    {
-      "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7117,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "India's forex kitty swells by USD 10.5 bn to USD 692.87 bn - BFSI News",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9381,
-      "currencies": [
-        "USD",
-        "USD"
-      ]
     },
     {
       "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
@@ -89,8 +62,53 @@
       "currencies": []
     },
     {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - FOREX.com",
       "source": "Google News",
+      "label": "bearish",
+      "score": -0.7117,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "Decoding \u201cDigital Sin\u201d: ForexTech and the New Frontiers of Currency Instability - bu.edu",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Oil rises as uncertainty continues over reopening of Strait",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.458,
+      "currencies": []
+    },
+    {
+      "title": "We told you first: these AI-picked stocks are up +48% and +28% already",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.941,
+      "currencies": []
+    },
+    {
+      "title": "Trump names Will Scharf as White House counsel",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
@@ -103,49 +121,28 @@
       "currencies": []
     },
     {
-      "title": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
+      "title": "Yemen\u2019s Houthis attack Saudi refinery after kingdom signs defence pact",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6373,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin hits overbought MFI at $65,500 resistance: Live levels",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "What would it take for Mercedes Benz stock to re-rate higher? Citi weighs in",
+      "title": "Iran says Oman deal is in \u2019final stages\u2019 but US must act to open Hormuz",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Telecom Argentina ADR earnings missed by $0.05, revenue fell short of estimates",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9706,
-      "currencies": []
-    },
-    {
-      "title": "Ivanhoe Electric earnings missed by $0.04, revenue topped estimates",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9707,
-      "currencies": []
-    },
-    {
-      "title": "Delta flight makes emergency landing in Atlanta, no injuries reported",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8717,
-      "currencies": []
-    },
-    {
-      "title": "US Senate advances landmark crypto bill before heading on August recess",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "European software rally leaves next leg to long-only investors, Deutsche Bank says",
+      "title": "Trump says U.S. is \u2019low-keying it\u2019 with Iran as its economy struggles",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

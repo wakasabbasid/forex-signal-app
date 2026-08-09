@@ -3,16 +3,10 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - newsonair.gov.in",
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.8185
-      },
-      {
-        "title": "India's forex kitty swells by USD 10.5 bn to USD 692.87 bn - BFSI News",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.9381
+        "score": 0.6676
       },
       {
         "title": "GBP/JPY Price Forecast: Rebound holds above 200-day SMA",
@@ -35,10 +29,10 @@
     ],
     "AUD/USD": [
       {
-        "title": "AUD/USD Forex Signal 05/08: Bullish Outlook - Daily Forex",
+        "title": "AUD/USD Forex Signal 05/08: Bullish Outlook - DailyForex",
         "source": "Google News",
-        "label": "bullish",
-        "score": 0.3571
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "EUR/USD": [
