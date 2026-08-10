@@ -18,6 +18,16 @@
       "currencies": []
     },
     {
+      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - City Index UK",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
       "title": "USD/MXN Slide: Why Traders Are Watching for a Reversal Now - DailyForex",
       "source": "Google News",
       "label": "bearish",
@@ -48,17 +58,17 @@
       "currencies": []
     },
     {
-      "title": "Kiwi Retreats as Dollar Gains on Global Inflation Risks - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9054,
-      "currencies": []
-    },
-    {
       "title": "Jamie Dimon Warns Dollar Won\u2019t Stay Reserve Currency if US Loses Its Edge: \u2018The World Will Be Fragmented\u2019 - Benzinga",
       "source": "Google News",
       "label": "bearish",
       "score": -0.5795,
+      "currencies": []
+    },
+    {
+      "title": "Kiwi Retreats as Dollar Gains on Global Inflation Risks - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9054,
       "currencies": []
     },
     {
@@ -79,13 +89,6 @@
       ]
     },
     {
-      "title": "How coordinated currency buying interventions work - Forex Factory",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "How coordinated currency buying interventions work - Investing.com",
       "source": "Google News",
       "label": "neutral",
@@ -93,59 +96,61 @@
       "currencies": []
     },
     {
-      "title": "Kalshi ties up with Nasdaq to bolster trade surveillance",
+      "title": "Encore Medical files for 3M share IPO on NYSE American at $5 per share",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Hinge Health stock hits all-time high at 91.54 USD",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9389,
-      "currencies": []
+      "score": 0.5971,
+      "currencies": [
+        "USD"
+      ]
     },
     {
-      "title": "Universal Music Group repurchases \u20ac51.4 million in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "New Peoples Bankshares director Blaine White buys $19,505 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "XLI leads defensive industrial ETFs with lowest beta and expense ratio",
+      "title": "Why is Andersen stock sliding today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5958,
+      "score": -0.9093,
       "currencies": []
     },
     {
-      "title": "Shein reportedly seeks investors at valuation below $30 billion for IPO",
+      "title": "Andersen Group stock falls despite announcing six acquisitions",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9564,
+      "currencies": []
+    },
+    {
+      "title": "William Blair downgrades Tenax Therapeutics stock rating on trial results",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7743,
+      "currencies": []
+    },
+    {
+      "title": "Oil rises 4% as Iran, US both demand compensation and Hormuz hopes fade",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9183,
+      "currencies": []
+    },
+    {
+      "title": "Why is Replimune stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Colombia stocks fall after deadly earthquake strikes",
+      "title": "Why is Verisk Analytics stock sliding today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9624,
-      "currencies": []
-    },
-    {
-      "title": "Archer to buy Boeing\u2019s Wisk, two other units for nearly 20% equity stake",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is Bitdeer Technologies stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9425,
+      "score": -0.9442,
       "currencies": []
     }
   ],
