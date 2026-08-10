@@ -3,34 +3,34 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
+        "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - forex.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - cityindex.com",
+        "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - City Index UK",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "USD/MXN Slide: Why Traders Are Watching for a Reversal Now - Daily Forex",
+        "title": "USD/MXN Slide: Why Traders Are Watching for a Reversal Now - dailyforex.com",
         "source": "Google News",
-        "label": "bearish",
-        "score": -0.8253
-      },
-      {
-        "title": "Gold outlook: XAU/USD enters key resistance zone ahead of CPI - FOREX.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.6435
+        "label": "neutral",
+        "score": 0.0
       },
       {
         "title": "USD/JPY is going to put everyone to the test",
         "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD extends rally and eyes $69",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.922
       }
     ]
   }

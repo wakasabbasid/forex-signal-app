@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
+      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - forex.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -18,7 +18,7 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - cityindex.com",
+      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - City Index UK",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -28,10 +28,10 @@
       ]
     },
     {
-      "title": "USD/MXN Slide: Why Traders Are Watching for a Reversal Now - Daily Forex",
+      "title": "USD/MXN Slide: Why Traders Are Watching for a Reversal Now - dailyforex.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.8253,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
         "USD"
       ]
@@ -58,10 +58,10 @@
       "currencies": []
     },
     {
-      "title": "Jamie Dimon Warns Dollar Won\u2019t Stay Reserve Currency if US Loses Its Edge: \u2018The World Will Be Fragmented\u2019 - Benzinga",
+      "title": "Jamie Dimon Warns Dollar Won\u2019t Stay Reserve Currency if US Loses Its Edge: \u2018The World Will Be Fragmented\u2019 - benzinga.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.5795,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -79,75 +79,73 @@
       "currencies": []
     },
     {
-      "title": "Gold outlook: XAU/USD enters key resistance zone ahead of CPI - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6435,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "title": "How coordinated currency buying interventions work - Investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Shenandoah Telecommunications at Technology Leadership Forum 2026: fiber growth, cash flow shift",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5066,
+      "title": "FX Futures Positioning: US Dollar Longs Plunged, Yen Shorts Slashed - forex.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8421,
       "currencies": []
     },
     {
-      "title": "US farm agency says Texas sterile fly facility to open in spring 2027",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is JBS stock sliding today?",
+      "title": "AAON beats Q2 estimates but cuts margin outlook on costs",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9298,
+      "score": -0.5428,
       "currencies": []
     },
     {
-      "title": "Trump extends Jones Act waiver for 90 days, narrows scope",
+      "title": "Cantor raises Global Payments stock price target on valuation",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Blackstone nears $2 billion Aeroplan stake as Air Canada expands - Bloomberg",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "JBS stock tumbles on leadership transition announcement",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9611,
-      "currencies": []
-    },
-    {
-      "title": "Dollar rises after two-week losing streak, yen gives up more intervention gains",
+      "title": "Nvidia partners with six firms to mobilize $500B for AI buildout",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5552,
+      "score": 0.8481,
       "currencies": []
     },
     {
-      "title": "Citizens & Northern director Katherine Shattuck buys $201 in stock",
+      "title": "Alamar Biosciences expands proteomics partnership by 86,000 samples",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9046,
+      "currencies": []
+    },
+    {
+      "title": "American Healthcare REIT launches 13.25M share offering",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Syntec Optics reports 26% revenue growth in Q2 2026",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9078,
+      "currencies": []
+    },
+    {
+      "title": "Michigan salad warnings ease, but cyclospora keeps shoppers and grocers on edge",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9002,
+      "currencies": []
+    },
+    {
+      "title": "Rocket Lab flags weaker quarterly margins as lower-profit satellite sales increase",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9728,
       "currencies": []
     }
   ],
