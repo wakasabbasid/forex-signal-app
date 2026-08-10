@@ -38,6 +38,14 @@
         "label": "bullish",
         "score": 0.922
       }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/USD Price Forecast: 100-day SMA caps Euro recovery",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      }
     ]
   }
 }

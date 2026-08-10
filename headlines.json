@@ -18,6 +18,13 @@
       "currencies": []
     },
     {
+      "title": "Ukrainian central bank issues biggest currency liberalisation since 2022 invasion By Reuters - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "USD/MXN Slide: Why Traders Are Watching for a Reversal Now - Daily Forex",
       "source": "Google News",
       "label": "bearish",
@@ -72,20 +79,6 @@
       "currencies": []
     },
     {
-      "title": "South Africa Forex Reserves Fall to 8-Month Low - TradingView",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9736,
-      "currencies": []
-    },
-    {
-      "title": "How coordinated currency buying interventions work - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "FX Futures Positioning: US Dollar Longs Plunged, Yen Shorts Slashed - FOREX.com",
       "source": "Google News",
       "label": "bearish",
@@ -93,59 +86,66 @@
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: iHeartMedia Q2 2026 revenue tops growth, stock slips",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7041,
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: GCT Semiconductor Q2 2026 miss sparks sharp after-hours drop",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9545,
-      "currencies": []
-    },
-    {
-      "title": "American Vanguard Q2 2026 slides show U.S. strength, cost cuts",
+      "title": "Earnings call transcript: AST SpaceMobile Q2 2026 misses estimates as shares slip",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "American Vanguard Q2 2026 slides show margin gains despite revenue miss",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9194,
-      "currencies": []
-    },
-    {
-      "title": "Rapid7 Inc earnings beat by $0.09, revenue topped estimates",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9366,
-      "currencies": []
-    },
-    {
-      "title": "Russia stocks higher at close of trade; MOEX Russia Index up 0.48%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9444,
-      "currencies": []
-    },
-    {
-      "title": "P3 Health Partners earnings beat by $1.38, revenue topped estimates",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9381,
-      "currencies": []
-    },
-    {
-      "title": "GoPro Inc earnings missed by $0.23, revenue fell short of estimates",
+      "title": "AAON Q2 2026 slides: revenue doubles but margin outlook pressures shares",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9716,
+      "score": -0.7997,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: WEBTOON tops Q2 2026 EPS view, shares slip after hours",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9575,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Hims & Hers Q2 2026 revenue beats, EPS misses",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Bakkt tops Q2 2026 EPS forecast but misses on revenue",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6615,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: ACV Auctions posts record Q2 2026 revenue, shares sink",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "MPLX prices $2.25 billion senior notes offering",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "BlackRock portfolio management sells $10.2 million of York Space Systems",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
