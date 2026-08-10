@@ -1,14 +1,6 @@
 {
   "run_id": 1,
   "pairs": {
-    "GBP/USD": [
-      {
-        "title": "GBP Retreats as Middle East Tensions Boost USD Demand - TradingPedia",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.7883
-      }
-    ],
     "USD/JPY": [
       {
         "title": "USD/JPY erases the non-farm payrolls drop, what's next? - investingLive",
@@ -17,28 +9,16 @@
         "score": 0.0
       },
       {
+        "title": "USD/JPY whipsaws on soft NFP report as JPY continues to erase intervention gains. What's next?",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.6012
+      },
+      {
         "title": "USD/JPY erases the non-farm payrolls drop, what's next?",
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.5693
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Positions above nine-day EMA near 183.00",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8099
-      },
-      {
-        "title": "Australian Dollar flat above 0.7050 vs USD, close to June 16 peak as traders await RBA",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.7846
-      },
-      {
-        "title": "Gold climbs back to $4,350; remains below June 17 high as USD sticks to gains",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.726
       }
     ],
     "AUD/USD": [
@@ -49,12 +29,12 @@
         "score": 0.0
       }
     ],
-    "EUR/USD": [
+    "USD/CHF": [
       {
-        "title": "EUR/JPY Price Forecast: Positions above nine-day EMA near 183.00",
+        "title": "USD/CHF Price Forecast: Struggles below 0.8100 as bears eye 50-SMA pivotal support",
         "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8099
+        "label": "bearish",
+        "score": -0.9281
       }
     ]
   }

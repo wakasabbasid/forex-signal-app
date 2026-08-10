@@ -15,17 +15,24 @@
       "currencies": []
     },
     {
-      "title": "Won nears 1,400 after sharpest swings since financial crisis - The Korea Herald",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8234,
-      "currencies": []
-    },
-    {
       "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn - Nikkei Asia",
       "source": "Google News",
       "label": "bullish",
       "score": 0.9301,
+      "currencies": []
+    },
+    {
+      "title": "Kiwi Retreats as Dollar Gains on Global Inflation Risks - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9054,
+      "currencies": []
+    },
+    {
+      "title": "Won nears 1,400 after sharpest swings since financial crisis - koreaherald.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6405,
       "currencies": []
     },
     {
@@ -50,13 +57,6 @@
       "currencies": []
     },
     {
-      "title": "How coordinated currency buying interventions work - Forex Factory",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Japan spent record 6.28 tril. yen in forex intervention on April 30 - Japan Wire by Kyodo News",
       "source": "Google News",
       "label": "neutral",
@@ -64,20 +64,10 @@
       "currencies": []
     },
     {
-      "title": "GBP Retreats as Middle East Tensions Boost USD Demand - TradingPedia",
+      "title": "How coordinated currency buying interventions work - Forex Factory",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.7883,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "FX Futures Positioning: US Dollar Longs Plunged, Yen Shorts Slashed - City Index UK",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8989,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -91,59 +81,66 @@
       ]
     },
     {
-      "title": "Earnings call transcript: Rakuten posts first profit in six years in Q2 2026",
+      "title": "India's forex reserves to rise to near-record high, analysts say - Yahoo Finance Singapore",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9158,
+      "currencies": []
+    },
+    {
+      "title": "Port of Tallinn Q2 2026 slides: revenue rises but profit falls 59%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9075,
+      "currencies": []
+    },
+    {
+      "title": "Base Markets Appoints Nazim Moussaoui as Head of Premium Clients and Partnerships",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "European stocks steady as investors weigh Hormuz risks, data calendar",
+      "title": "Rakuten Q2 2026 slides: record revenue, FinTech drives profit surge",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8748,
+      "currencies": []
+    },
+    {
+      "title": "Goldman Sachs notes European banks trail US peers in equities",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Dollar edges higher as Asian currencies weaken; won leads losses",
+      "title": "Morgan Stanley reviews Indian June earnings performance",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7797,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Akums Drugs beats revenue estimates in Q1 2026",
+      "title": "Raymond James downgrades Arko stock rating on retail challenges",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8517,
+      "currencies": []
+    },
+    {
+      "title": "Citizens raises Nationwide Health Properties price target on strong Q2 results",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7187,
+      "score": 0.8592,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: RNFI Services Q1 2027 profit dips as growth bets build",
+      "title": "Citi sees industrial growth at 6.9% in second quarter 2026",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9711,
-      "currencies": []
-    },
-    {
-      "title": "FTSE 100 today: Stocks slip as Mideast tensions, Iran blockade weigh",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9691,
-      "currencies": []
-    },
-    {
-      "title": "Vistry slumps as insurer reportedly scales back credit cover for suppliers",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9634,
-      "currencies": []
-    },
-    {
-      "title": "ARYZTA H1 2026 slides: Germany weighs, margins hold, savings accelerate",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9413,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
