@@ -72,10 +72,10 @@
       "currencies": []
     },
     {
-      "title": "South Africa Forex Reserves Fall to 8-Month Low - TradingView",
+      "title": "South Africa Forex Reserves Fall to 8-Month Low - tradingview.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9736,
+      "score": -0.9651,
       "currencies": []
     },
     {
@@ -89,68 +89,70 @@
       ]
     },
     {
-      "title": "How coordinated currency buying interventions work - Investing.com",
+      "title": "Gold outlook: XAU/USD enters key resistance zone ahead of CPI - FOREX.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Encore Medical files for 3M share IPO on NYSE American at $5 per share",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Hinge Health stock hits all-time high at 91.54 USD",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5971,
+      "label": "bearish",
+      "score": -0.6435,
       "currencies": [
         "USD"
       ]
     },
     {
-      "title": "Why is Andersen stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9093,
-      "currencies": []
-    },
-    {
-      "title": "Andersen Group stock falls despite announcing six acquisitions",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9564,
-      "currencies": []
-    },
-    {
-      "title": "William Blair downgrades Tenax Therapeutics stock rating on trial results",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7743,
-      "currencies": []
-    },
-    {
-      "title": "Oil rises 4% as Iran, US both demand compensation and Hormuz hopes fade",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9183,
-      "currencies": []
-    },
-    {
-      "title": "Why is Replimune stock surging today?",
+      "title": "DA Davidson reiterates Buy on Monday.com stock, keeps $100 target",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is Verisk Analytics stock sliding today?",
+      "title": "Raymond James raises Tonix Pharma stock price target on strong sales",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9442,
+      "label": "bullish",
+      "score": 0.9197,
+      "currencies": []
+    },
+    {
+      "title": "JBS to announce Wesley Batista Filho as CEO, O Globo reports",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Ovintiv options volume surges to 21 times open interest on $75 call bet",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9333,
+      "currencies": []
+    },
+    {
+      "title": "Rubrik stock hits 52-week high at 99.76 USD",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7477,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Stifel lowers Camtek stock price target to $170 on valuation reset",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Oil prices jump, Wall Street under pressure with Hormuz, inflation in focus",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.506,
+      "currencies": []
+    },
+    {
+      "title": "CT3 Begins Preparing Its Ecosystem for the Launch of the CT3GB Economy",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
