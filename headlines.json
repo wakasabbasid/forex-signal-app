@@ -8,10 +8,24 @@
       "currencies": []
     },
     {
+      "title": "South Africa Forex Reserves Fall to 8-Month Low - TradingView",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9736,
+      "currencies": []
+    },
+    {
       "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn - Nikkei Asia",
       "source": "Google News",
       "label": "bullish",
       "score": 0.9301,
+      "currencies": []
+    },
+    {
+      "title": "How coordinated currency buying interventions work - Forex Factory",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -22,11 +36,33 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "title": "FX Futures Positioning: US Dollar Longs Plunged, Yen Shorts Slashed - City Index UK",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8989,
+      "currencies": []
+    },
+    {
+      "title": "How coordinated currency buying interventions work - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "India's forex reserves to rise to near-record high, analysts say - Yahoo Finance Singapore",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.6676,
+      "score": 0.9158,
+      "currencies": []
+    },
+    {
+      "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - FOREX.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7117,
       "currencies": [
+        "EUR",
         "USD"
       ]
     },
@@ -41,10 +77,10 @@
       ]
     },
     {
-      "title": "Forex reserves fall for second month - Taipei Times",
+      "title": "Yen gains as traders brace for fresh intervention - The Star",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9701,
+      "label": "bullish",
+      "score": 0.58,
       "currencies": []
     },
     {
@@ -55,69 +91,45 @@
       "currencies": []
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7117,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "Decoding \u201cDigital Sin\u201d: ForexTech and the New Frontiers of Currency Instability - bu.edu",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Oil rises as uncertainty continues over reopening of Strait",
+      "title": "Earnings call transcript: Globe Telecom posts record H1 2026 revenue, stock rises 0.99%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.458,
+      "score": 0.9396,
       "currencies": []
     },
     {
-      "title": "We told you first: these AI-picked stocks are up +48% and +28% already",
+      "title": "BOJ\u2019s debate on faster hikes bolsters September rate move odds",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.941,
+      "score": 0.747,
       "currencies": []
     },
     {
-      "title": "Trump names Will Scharf as White House counsel",
+      "title": "Japan\u2019s Recruit shares surge, hit daily limit on guidance hike",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.6922,
       "currencies": []
     },
     {
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "title": "Asian stocks rise as Japan, Korea rebound",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9603,
+      "score": -0.4787,
+      "currencies": []
+    },
+    {
+      "title": "Westpac reports 20% drop in mortgage applications after Australia scraps tax breaks",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9697,
+      "currencies": []
+    },
+    {
+      "title": "Explainer-What is Unitree and why are China\u2019s humanoid robot makers racing to list?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -128,21 +140,7 @@
       "currencies": []
     },
     {
-      "title": "Bitcoin hits overbought MFI at $65,500 resistance: Live levels",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Iran says Oman deal is in \u2019final stages\u2019 but US must act to open Hormuz",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Trump says U.S. is \u2019low-keying it\u2019 with Iran as its economy struggles",
+      "title": "Hang Seng stuck between 25,400 and 26,200: Live levels",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

@@ -1,30 +1,12 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/JPY": [
+    "EUR/USD": [
       {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+        "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - FOREX.com",
         "source": "Google News",
-        "label": "bullish",
-        "score": 0.6676
-      },
-      {
-        "title": "GBP/JPY Price Forecast: Rebound holds above 200-day SMA",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9338
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD clears 50-day SMA, eyes $65",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8153
-      },
-      {
-        "title": "EUR/JPY recovers from session low but remains down on Friday",
-        "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9648
+        "score": -0.7117
       }
     ],
     "AUD/USD": [
@@ -35,29 +17,33 @@
         "score": 0.0
       }
     ],
-    "EUR/USD": [
+    "USD/JPY": [
       {
-        "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - FOREX.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.7117
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7379 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
       },
       {
-        "title": "EUR/JPY recovers from session low but remains down on Friday",
+        "title": "Gold retreats from June 17 highest amid USD uptick; holds above $4,300 pivotal support",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9648
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "GBP/JPY Price Forecast: Rebound holds above 200-day SMA",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9338
+        "score": -0.8344
       },
       {
-        "title": "GBP/USD Price Forecast: Bulls need 1.3560 to unlock 1.3600",
+        "title": "British Pound moves away from multi-week top as Hormuz risks support USD",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9048
+      },
+      {
+        "title": "Euro consolidates below its highest level since June 17 as Mideast tensions support USD",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9413
+      },
+      {
+        "title": "PBOC sets USD/CNY reference rate at 6.7884 vs. 6.7904 previous",
         "source": "FXStreet",
         "label": "neutral",
         "score": 0.0
