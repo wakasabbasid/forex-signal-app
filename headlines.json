@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - forex.com",
+      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -18,6 +18,15 @@
       "currencies": []
     },
     {
+      "title": "USD/MXN Slide: Why Traders Are Watching for a Reversal Now - Daily Forex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8253,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - City Index UK",
       "source": "Google News",
       "label": "neutral",
@@ -25,15 +34,6 @@
       "currencies": [
         "USD",
         "JPY"
-      ]
-    },
-    {
-      "title": "USD/MXN Slide: Why Traders Are Watching for a Reversal Now - dailyforex.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
       ]
     },
     {
@@ -51,14 +51,14 @@
       "currencies": []
     },
     {
-      "title": "Japan spent record 6.28 tril. yen in forex intervention on April 30 - Japan Wire by Kyodo News",
+      "title": "Jamie Dimon Warns Dollar Won\u2019t Stay Reserve Currency if US Loses Its Edge: \u2018The World Will Be Fragmented\u2019 - Benzinga",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.5795,
       "currencies": []
     },
     {
-      "title": "Jamie Dimon Warns Dollar Won\u2019t Stay Reserve Currency if US Loses Its Edge: \u2018The World Will Be Fragmented\u2019 - benzinga.com",
+      "title": "Japan spent record \u00a56.28 tril in forex intervention on April 30 - Japan Today",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -86,66 +86,66 @@
       "currencies": []
     },
     {
-      "title": "FX Futures Positioning: US Dollar Longs Plunged, Yen Shorts Slashed - forex.com",
+      "title": "FX Futures Positioning: US Dollar Longs Plunged, Yen Shorts Slashed - FOREX.com",
       "source": "Google News",
       "label": "bearish",
       "score": -0.8421,
       "currencies": []
     },
     {
-      "title": "AAON beats Q2 estimates but cuts margin outlook on costs",
+      "title": "Earnings call transcript: iHeartMedia Q2 2026 revenue tops growth, stock slips",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5428,
+      "label": "bullish",
+      "score": 0.7041,
       "currencies": []
     },
     {
-      "title": "Cantor raises Global Payments stock price target on valuation",
+      "title": "Earnings call transcript: GCT Semiconductor Q2 2026 miss sparks sharp after-hours drop",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9545,
+      "currencies": []
+    },
+    {
+      "title": "American Vanguard Q2 2026 slides show U.S. strength, cost cuts",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Nvidia partners with six firms to mobilize $500B for AI buildout",
+      "title": "American Vanguard Q2 2026 slides show margin gains despite revenue miss",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8481,
+      "score": 0.9194,
       "currencies": []
     },
     {
-      "title": "Alamar Biosciences expands proteomics partnership by 86,000 samples",
+      "title": "Rapid7 Inc earnings beat by $0.09, revenue topped estimates",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9046,
+      "score": 0.9366,
       "currencies": []
     },
     {
-      "title": "American Healthcare REIT launches 13.25M share offering",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Syntec Optics reports 26% revenue growth in Q2 2026",
+      "title": "Russia stocks higher at close of trade; MOEX Russia Index up 0.48%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9078,
+      "score": 0.9444,
       "currencies": []
     },
     {
-      "title": "Michigan salad warnings ease, but cyclospora keeps shoppers and grocers on edge",
+      "title": "P3 Health Partners earnings beat by $1.38, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9381,
+      "currencies": []
+    },
+    {
+      "title": "GoPro Inc earnings missed by $0.23, revenue fell short of estimates",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9002,
-      "currencies": []
-    },
-    {
-      "title": "Rocket Lab flags weaker quarterly margins as lower-profit satellite sales increase",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9728,
+      "score": -0.9716,
       "currencies": []
     }
   ],
