@@ -18,7 +18,7 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - City Index UK",
+      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - cityindex.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -28,10 +28,10 @@
       ]
     },
     {
-      "title": "USD/MXN Slide: Why Traders Are Watching for a Reversal Now - DailyForex",
+      "title": "USD/MXN Slide: Why Traders Are Watching for a Reversal Now - Daily Forex",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.4704,
+      "score": -0.8253,
       "currencies": [
         "USD"
       ]
@@ -72,21 +72,11 @@
       "currencies": []
     },
     {
-      "title": "South Africa Forex Reserves Fall to 8-Month Low - tradingview.com",
+      "title": "South Africa Forex Reserves Fall to 8-Month Low - TradingView",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9651,
+      "score": -0.9736,
       "currencies": []
-    },
-    {
-      "title": "USD/JPY erases the non-farm payrolls drop, what's next? - investingLive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
     },
     {
       "title": "Gold outlook: XAU/USD enters key resistance zone ahead of CPI - FOREX.com",
@@ -98,58 +88,63 @@
       ]
     },
     {
-      "title": "DA Davidson reiterates Buy on Monday.com stock, keeps $100 target",
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Shenandoah Telecommunications at Technology Leadership Forum 2026: fiber growth, cash flow shift",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5066,
+      "currencies": []
+    },
+    {
+      "title": "US farm agency says Texas sterile fly facility to open in spring 2027",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Raymond James raises Tonix Pharma stock price target on strong sales",
+      "title": "Why is JBS stock sliding today?",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9197,
+      "label": "bearish",
+      "score": -0.9298,
       "currencies": []
     },
     {
-      "title": "JBS to announce Wesley Batista Filho as CEO, O Globo reports",
+      "title": "Trump extends Jones Act waiver for 90 days, narrows scope",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Ovintiv options volume surges to 21 times open interest on $75 call bet",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9333,
-      "currencies": []
-    },
-    {
-      "title": "Rubrik stock hits 52-week high at 99.76 USD",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7477,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Stifel lowers Camtek stock price target to $170 on valuation reset",
+      "title": "Blackstone nears $2 billion Aeroplan stake as Air Canada expands - Bloomberg",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Oil prices jump, Wall Street under pressure with Hormuz, inflation in focus",
+      "title": "JBS stock tumbles on leadership transition announcement",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.506,
+      "label": "bearish",
+      "score": -0.9611,
       "currencies": []
     },
     {
-      "title": "CT3 Begins Preparing Its Ecosystem for the Launch of the CT3GB Economy",
+      "title": "Dollar rises after two-week losing streak, yen gives up more intervention gains",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5552,
+      "currencies": []
+    },
+    {
+      "title": "Citizens & Northern director Katherine Shattuck buys $201 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
