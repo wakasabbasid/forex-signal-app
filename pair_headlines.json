@@ -1,23 +1,19 @@
 {
   "run_id": 1,
   "pairs": {
-    "EUR/USD": [
+    "USD/JPY": [
       {
-        "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - FOREX.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.7117
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "AUD/USD Forex Signal 05/08: Bullish Outlook - DailyForex",
+        "title": "USD/JPY erases the non-farm payrolls drop, what's next? - investingLive",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      }
-    ],
-    "USD/JPY": [
+      },
+      {
+        "title": "USD/JPY erases the non-farm payrolls drop, what's next?",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.5693
+      },
       {
         "title": "PBOC is expected to set the USD/CNY reference rate at 6.7379 \u2013 Reuters estimate",
         "source": "ForexLive",
@@ -25,26 +21,34 @@
         "score": 0.0
       },
       {
-        "title": "Gold retreats from June 17 highest amid USD uptick; holds above $4,300 pivotal support",
+        "title": "Gold remains on the back foot below June 17 high amid USD uptick; downside seems cushioned",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8344
+        "label": "bullish",
+        "score": 0.8102
       },
       {
-        "title": "British Pound moves away from multi-week top as Hormuz risks support USD",
+        "title": "New Zealand Dollar drifts lower as USD recovers from post-NFP lows amid Mideast jitters",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9048
+        "score": -0.9401
       },
       {
-        "title": "Euro consolidates below its highest level since June 17 as Mideast tensions support USD",
+        "title": "Silver Price Forecast: XAG/USD starts US CPI week on flat note around $63.50",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9413
+        "score": -0.7967
       },
       {
-        "title": "PBOC sets USD/CNY reference rate at 6.7884 vs. 6.7904 previous",
+        "title": "Canadian Dollar pulls back from two-month top as rebounding USD counters higher oil prices",
         "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8768
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "AUD/USD Forex Signal 05/08: Bullish Outlook - DailyForex",
+        "source": "Google News",
         "label": "neutral",
         "score": 0.0
       }

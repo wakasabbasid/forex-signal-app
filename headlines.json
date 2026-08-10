@@ -8,10 +8,10 @@
       "currencies": []
     },
     {
-      "title": "South Africa Forex Reserves Fall to 8-Month Low - TradingView",
+      "title": "FX Futures Positioning: US Dollar Longs Plunged, Yen Shorts Slashed - forex.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9736,
+      "score": -0.8421,
       "currencies": []
     },
     {
@@ -19,6 +19,20 @@
       "source": "Google News",
       "label": "bullish",
       "score": 0.9301,
+      "currencies": []
+    },
+    {
+      "title": "South Africa Forex Reserves Fall to 8-Month Low - TradingView",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9736,
+      "currencies": []
+    },
+    {
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -43,11 +57,14 @@
       "currencies": []
     },
     {
-      "title": "How coordinated currency buying interventions work - Investing.com",
+      "title": "USD/JPY erases the non-farm payrolls drop, what's next? - investingLive",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
     },
     {
       "title": "India's forex reserves to rise to near-record high, analysts say - Yahoo Finance Singapore",
@@ -57,14 +74,11 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD forecast: Iran optimism fades as key US data awaited - FOREX.com",
+      "title": "How coordinated currency buying interventions work - Investing.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.7117,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "AUD/USD Forex Signal 05/08: Bullish Outlook - DailyForex",
@@ -77,73 +91,59 @@
       ]
     },
     {
-      "title": "Yen gains as traders brace for fresh intervention - The Star",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.58,
-      "currencies": []
-    },
-    {
-      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Globe Telecom posts record H1 2026 revenue, stock rises 0.99%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9396,
-      "currencies": []
-    },
-    {
-      "title": "BOJ\u2019s debate on faster hikes bolsters September rate move odds",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.747,
-      "currencies": []
-    },
-    {
-      "title": "Japan\u2019s Recruit shares surge, hit daily limit on guidance hike",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6922,
-      "currencies": []
-    },
-    {
-      "title": "Asian stocks rise as Japan, Korea rebound",
+      "title": "Earnings call transcript: Medi Assist Q1 2026 revenue meets forecast as shares fall 5%",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.4787,
+      "score": -0.9738,
       "currencies": []
     },
     {
-      "title": "Westpac reports 20% drop in mortgage applications after Australia scraps tax breaks",
+      "title": "RBA preview Aug: hold expected as inflation cools, housing weakens",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9697,
+      "score": -0.7525,
       "currencies": []
     },
     {
-      "title": "Explainer-What is Unitree and why are China\u2019s humanoid robot makers racing to list?",
+      "title": "Westpac shares slide 5% after mortgage applications plunge 20% on tax changes",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9666,
+      "currencies": []
+    },
+    {
+      "title": "Analysis-How the hard reality of climate change hit Europe\u2019s economy this summer",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Yemen\u2019s Houthis attack Saudi refinery after kingdom signs defence pact",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6373,
-      "currencies": []
-    },
-    {
-      "title": "Hang Seng stuck between 25,400 and 26,200: Live levels",
+      "title": "Why is oOh!Media stock rallying today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "SK Hynix near bear flag completion below key MAs: Live levels",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Nikkei 225 hits overbought resistance zone: Live levels",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.393,
+      "currencies": []
+    },
+    {
+      "title": "Why is Taiwan Semiconductor Manufacturing stock gaining today?",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6173,
       "currencies": []
     }
   ],
