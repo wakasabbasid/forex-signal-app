@@ -3,6 +3,12 @@
   "pairs": {
     "USD/JPY": [
       {
+        "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
         "title": "USD/MXN Slide: Why Traders Are Watching for a Reversal Now - DailyForex",
         "source": "Google News",
         "label": "bearish",
@@ -19,12 +25,6 @@
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.6012
-      },
-      {
-        "title": "Japanese Yen: BoJ tightening risks support JPY \u2013 BNY",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.4825
       }
     ]
   }

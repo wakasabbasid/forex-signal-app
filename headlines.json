@@ -1,6 +1,16 @@
 {
   "headlines": [
     {
+      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
       "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -24,14 +34,14 @@
       "currencies": []
     },
     {
-      "title": "FX Futures Positioning: US Dollar Longs Plunged, Yen Shorts Slashed - forex.com",
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.8421,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "title": "Japan spent record 6.28 tril. yen in forex intervention on April 30 - Japan Wire by Kyodo News",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -42,20 +52,6 @@
       "source": "Google News",
       "label": "bearish",
       "score": -0.9054,
-      "currencies": []
-    },
-    {
-      "title": "Won nears 1,400 after sharpest swings since financial crisis - The Korea Herald",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8234,
-      "currencies": []
-    },
-    {
-      "title": "Japan spent record 6.28 tril. yen in forex intervention on April 30 - Japan Wire by Kyodo News",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -90,59 +86,66 @@
       ]
     },
     {
-      "title": "Earnings call transcript: Niu Technologies posts steep Q2 2026 miss, shares fall",
+      "title": "How coordinated currency buying interventions work - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Conduent posts mixed Q2 2026 results as stock falls",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9686,
+      "score": -0.9665,
       "currencies": []
     },
     {
-      "title": "Bankwell director Lawrence Seidman buys $666,254 in BWFG shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is Meta Platforms stock climbing today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.26%",
+      "title": "Norway stocks higher at close of trade; Oslo OBX up 0.82%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9429,
+      "score": 0.9454,
       "currencies": []
     },
     {
-      "title": "Stifel reiterates Buy on Rapid Micro stock, keeps $8 target",
+      "title": "Israel stocks lower at close of trade; TA 35 down 0.30%",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.965,
       "currencies": []
     },
     {
-      "title": "Bowman Consulting stock surges 55% on $1 billion buyout deal",
+      "title": "Brazil central bank eyes expansion for Pix payment system as US trade scrutiny intensifies",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9274,
+      "score": 0.9175,
       "currencies": []
     },
     {
-      "title": "Why is GameStop stock rallying today?",
+      "title": "DA Davidson cuts Sweetgreen stock price target on Cyclospora impact",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "CoreWeave earnings preview: CRWV stock setup into Q2 results",
+      "title": "DA Davidson raises El Pollo Loco stock price target on strong sales",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.8376,
+      "currencies": []
+    },
+    {
+      "title": "Taylor Farms recalls salsa, guacamole on salmonella outbreak, intensifying food-safety fears",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8481,
+      "currencies": []
+    },
+    {
+      "title": "Energy stocks climb as oil prices jump on Iran tensions",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7547,
       "currencies": []
     }
   ],
