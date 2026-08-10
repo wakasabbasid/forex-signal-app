@@ -18,20 +18,18 @@
       "currencies": []
     },
     {
-      "title": "Ukrainian central bank issues biggest currency liberalisation since 2022 invasion By Reuters - Investing.com",
+      "title": "Forex Focus - tastylive",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "USD/MXN Slide: Why Traders Are Watching for a Reversal Now - Daily Forex",
+      "title": "Ukrainian central bank issues biggest currency liberalisation since 2022 invasion By Reuters - Investing.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.8253,
-      "currencies": [
-        "USD"
-      ]
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - City Index UK",
@@ -44,6 +42,22 @@
       ]
     },
     {
+      "title": "USD/MXN Slide: Why Traders Are Watching for a Reversal Now - Daily Forex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8253,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn - Nikkei Asia",
       "source": "Google News",
       "label": "bullish",
@@ -51,7 +65,7 @@
       "currencies": []
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "title": "Japan spent record 6.28 tril. yen in forex intervention on April 30 - Japan Wire by Kyodo News",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -65,13 +79,6 @@
       "currencies": []
     },
     {
-      "title": "Japan spent record \u00a56.28 tril in forex intervention on April 30 - Japan Today",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Kiwi Retreats as Dollar Gains on Global Inflation Risks - TradingPedia",
       "source": "Google News",
       "label": "bearish",
@@ -79,70 +86,67 @@
       "currencies": []
     },
     {
-      "title": "FX Futures Positioning: US Dollar Longs Plunged, Yen Shorts Slashed - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8421,
-      "currencies": []
-    },
-    {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "title": "USD, USD/JPY To Drive FX Markets in US CPI Week - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "USD",
+        "USD",
+        "JPY"
+      ]
     },
     {
-      "title": "Earnings call transcript: AST SpaceMobile Q2 2026 misses estimates as shares slip",
+      "title": "UK consumers spent more on food and in pubs during World Cup in July",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "AAON Q2 2026 slides: revenue doubles but margin outlook pressures shares",
+      "title": "Mueller Water Products president and CEO Paul McAndrew sells $1.06m",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "BOJ\u2019s rate-hike path runs into Takaichi\u2019s bond market problems",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Life360 posts Q2 2026 revenue surge, EPS misses forecast",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7943,
+      "currencies": []
+    },
+    {
+      "title": "Brazilian police accuse Goldman executives of fraud over Oncoclinicas tender offer",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7997,
+      "score": -0.9126,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: WEBTOON tops Q2 2026 EPS view, shares slip after hours",
+      "title": "Arista Networks director Andreas Bechtolsheim sells $79.4 million in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Rocket Lab sees waning chances of Neutron rocket debut this year",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9575,
+      "score": -0.8819,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Hims & Hers Q2 2026 revenue beats, EPS misses",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Bakkt tops Q2 2026 EPS forecast but misses on revenue",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6615,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: ACV Auctions posts record Q2 2026 revenue, shares sink",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "MPLX prices $2.25 billion senior notes offering",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "BlackRock portfolio management sells $10.2 million of York Space Systems",
+      "title": "Innovex co-invest fund, director, sells $143.5m in INVX stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
