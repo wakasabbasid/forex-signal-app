@@ -8,7 +8,16 @@
       "currencies": []
     },
     {
-      "title": "FX Futures Positioning: US Dollar Longs Plunged, Yen Shorts Slashed - FOREX.com",
+      "title": "USD/MXN Slide: Why Traders Are Watching for a Reversal Now - DailyForex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.4704,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "FX Futures Positioning: US Dollar Longs Plunged, Yen Shorts Slashed - forex.com",
       "source": "Google News",
       "label": "bearish",
       "score": -0.8421,
@@ -36,13 +45,6 @@
       "currencies": []
     },
     {
-      "title": "Forex Today 10/08: Quiet Economic Calendar - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -50,17 +52,24 @@
       "currencies": []
     },
     {
-      "title": "South Africa Forex Reserves Fall to 8-Month Low - TradingView",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9736,
-      "currencies": []
-    },
-    {
       "title": "Japan spent record 6.28 tril. yen in forex intervention on April 30 - Japan Wire by Kyodo News",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Jamie Dimon Warns Dollar Won\u2019t Stay Reserve Currency if US Loses Its Edge: \u2018The World Will Be Fragmented\u2019 - Benzinga",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5795,
+      "currencies": []
+    },
+    {
+      "title": "South Africa Forex Reserves Fall to 8-Month Low - TradingView",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9736,
       "currencies": []
     },
     {
@@ -81,66 +90,59 @@
       ]
     },
     {
-      "title": "India's forex reserves to rise to near-record high, analysts say - Yahoo Finance Singapore",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9158,
+      "title": "BTIG raises Take-Two stock price target to $313 on GTA strength",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Port of Tallinn Q2 2026 slides: revenue rises but profit falls 59%",
+      "title": "Jefferies initiates Csquare stock with buy rating on AI demand",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Accendra Health adopts plan to preserve tax loss carryforwards",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6373,
+      "currencies": []
+    },
+    {
+      "title": "Why is AirSculpt Technologies stock tumbling today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9075,
+      "score": -0.7529,
       "currencies": []
     },
     {
-      "title": "Base Markets Appoints Nazim Moussaoui as Head of Premium Clients and Partnerships",
+      "title": "US Senate advances landmark crypto bill before heading on August recess",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Rakuten Q2 2026 slides: record revenue, FinTech drives profit surge",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8748,
-      "currencies": []
-    },
-    {
-      "title": "Goldman Sachs notes European banks trail US peers in equities",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Morgan Stanley reviews Indian June earnings performance",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Raymond James downgrades Arko stock rating on retail challenges",
+      "title": "Airsculpt Technologies earnings matched, revenue fell short of estimates",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8517,
+      "score": -0.9505,
       "currencies": []
     },
     {
-      "title": "Citizens raises Nationwide Health Properties price target on strong Q2 results",
+      "title": "AirSculpt Technologies stock tumbles 13% on revenue miss, weak guidance",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8592,
+      "label": "bearish",
+      "score": -0.9724,
       "currencies": []
     },
     {
-      "title": "Citi sees industrial growth at 6.9% in second quarter 2026",
+      "title": "European stocks flatline as traders weigh oil risk and packed data week",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9099,
       "currencies": []
     }
   ],

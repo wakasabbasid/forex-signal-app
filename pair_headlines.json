@@ -3,6 +3,12 @@
   "pairs": {
     "USD/JPY": [
       {
+        "title": "USD/MXN Slide: Why Traders Are Watching for a Reversal Now - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.4704
+      },
+      {
         "title": "USD/JPY erases the non-farm payrolls drop, what's next? - investingLive",
         "source": "Google News",
         "label": "neutral",
@@ -13,12 +19,6 @@
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.6012
-      },
-      {
-        "title": "USD/JPY erases the non-farm payrolls drop, what's next?",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.5693
       }
     ],
     "AUD/USD": [
@@ -27,14 +27,6 @@
         "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
-      }
-    ],
-    "USD/CHF": [
-      {
-        "title": "USD/CHF Price Forecast: Struggles below 0.8100 as bears eye 50-SMA pivotal support",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9281
       }
     ]
   }
