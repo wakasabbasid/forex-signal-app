@@ -69,13 +69,6 @@
       "currencies": []
     },
     {
-      "title": "How coordinated currency buying interventions work - Forex Factory",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "USD/JPY erases the non-farm payrolls drop, what's next? - investingLive",
       "source": "Google News",
       "label": "neutral",
@@ -86,6 +79,13 @@
       ]
     },
     {
+      "title": "How coordinated currency buying interventions work - Forex Factory",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "How coordinated currency buying interventions work - Investing.com",
       "source": "Google News",
       "label": "neutral",
@@ -93,59 +93,59 @@
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Conduent posts mixed Q2 2026 results as stock falls",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9665,
-      "currencies": []
-    },
-    {
-      "title": "Norway stocks higher at close of trade; Oslo OBX up 0.82%",
+      "title": "Kalshi ties up with Nasdaq to bolster trade surveillance",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9454,
+      "score": 0.9389,
       "currencies": []
     },
     {
-      "title": "Israel stocks lower at close of trade; TA 35 down 0.30%",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.965,
-      "currencies": []
-    },
-    {
-      "title": "Brazil central bank eyes expansion for Pix payment system as US trade scrutiny intensifies",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9175,
-      "currencies": []
-    },
-    {
-      "title": "DA Davidson cuts Sweetgreen stock price target on Cyclospora impact",
+      "title": "Universal Music Group repurchases \u20ac51.4 million in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "DA Davidson raises El Pollo Loco stock price target on strong sales",
+      "title": "New Peoples Bankshares director Blaine White buys $19,505 in stock",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8376,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Taylor Farms recalls salsa, guacamole on salmonella outbreak, intensifying food-safety fears",
+      "title": "XLI leads defensive industrial ETFs with lowest beta and expense ratio",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8481,
+      "score": -0.5958,
       "currencies": []
     },
     {
-      "title": "Energy stocks climb as oil prices jump on Iran tensions",
+      "title": "Shein reportedly seeks investors at valuation below $30 billion for IPO",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Colombia stocks fall after deadly earthquake strikes",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7547,
+      "score": -0.9624,
+      "currencies": []
+    },
+    {
+      "title": "Archer to buy Boeing\u2019s Wisk, two other units for nearly 20% equity stake",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why is Bitdeer Technologies stock sliding today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9425,
       "currencies": []
     }
   ],

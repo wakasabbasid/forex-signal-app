@@ -26,6 +26,14 @@
         "label": "bearish",
         "score": -0.6012
       }
+    ],
+    "USD/CAD": [
+      {
+        "title": "USD/CAD Price Forecast: Bearish pressure builds below 1.4000",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.689
+      }
     ]
   }
 }
