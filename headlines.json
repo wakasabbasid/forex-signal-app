@@ -17,6 +17,13 @@
       ]
     },
     {
+      "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn - Nikkei Asia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9301,
+      "currencies": []
+    },
+    {
       "title": "FX Futures Positioning: US Dollar Longs Plunged, Yen Shorts Slashed - forex.com",
       "source": "Google News",
       "label": "bearish",
@@ -24,10 +31,10 @@
       "currencies": []
     },
     {
-      "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn - Nikkei Asia",
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.9301,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -38,17 +45,10 @@
       "currencies": []
     },
     {
-      "title": "Won nears 1,400 after sharpest swings since financial crisis - koreaherald.com",
+      "title": "Won nears 1,400 after sharpest swings since financial crisis - The Korea Herald",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.6405,
-      "currencies": []
-    },
-    {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "score": -0.8234,
       "currencies": []
     },
     {
@@ -90,59 +90,59 @@
       ]
     },
     {
-      "title": "BTIG raises Take-Two stock price target to $313 on GTA strength",
+      "title": "Earnings call transcript: Niu Technologies posts steep Q2 2026 miss, shares fall",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9686,
+      "currencies": []
+    },
+    {
+      "title": "Bankwell director Lawrence Seidman buys $666,254 in BWFG shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Jefferies initiates Csquare stock with buy rating on AI demand",
+      "title": "Why is Meta Platforms stock climbing today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Accendra Health adopts plan to preserve tax loss carryforwards",
+      "title": "Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.26%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6373,
+      "score": 0.9429,
       "currencies": []
     },
     {
-      "title": "Why is AirSculpt Technologies stock tumbling today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7529,
-      "currencies": []
-    },
-    {
-      "title": "US Senate advances landmark crypto bill before heading on August recess",
+      "title": "Stifel reiterates Buy on Rapid Micro stock, keeps $8 target",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Airsculpt Technologies earnings matched, revenue fell short of estimates",
+      "title": "Bowman Consulting stock surges 55% on $1 billion buyout deal",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9505,
+      "label": "bullish",
+      "score": 0.9274,
       "currencies": []
     },
     {
-      "title": "AirSculpt Technologies stock tumbles 13% on revenue miss, weak guidance",
+      "title": "Why is GameStop stock rallying today?",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9724,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "European stocks flatline as traders weigh oil risk and packed data week",
+      "title": "CoreWeave earnings preview: CRWV stock setup into Q2 results",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9099,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

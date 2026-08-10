@@ -19,14 +19,12 @@
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.6012
-      }
-    ],
-    "AUD/USD": [
+      },
       {
-        "title": "The USD is at a crossroads ahead of CPI, while the AUD awaits RBA rate decision",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
+        "title": "Japanese Yen: BoJ tightening risks support JPY \u2013 BNY",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.4825
       }
     ]
   }
