@@ -1,6 +1,14 @@
 {
   "run_id": 1,
   "pairs": {
+    "GBP/USD": [
+      {
+        "title": "GBP Retreats as Middle East Tensions Boost USD Demand - TradingPedia",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.7883
+      }
+    ],
     "USD/JPY": [
       {
         "title": "USD/JPY erases the non-farm payrolls drop, what's next? - investingLive",
@@ -15,42 +23,38 @@
         "score": -0.5693
       },
       {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7379 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Gold remains on the back foot below June 17 high amid USD uptick; downside seems cushioned",
+        "title": "EUR/JPY Price Forecast: Positions above nine-day EMA near 183.00",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.8102
+        "score": 0.8099
       },
       {
-        "title": "New Zealand Dollar drifts lower as USD recovers from post-NFP lows amid Mideast jitters",
+        "title": "Australian Dollar flat above 0.7050 vs USD, close to June 16 peak as traders await RBA",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9401
+        "score": -0.7846
       },
       {
-        "title": "Silver Price Forecast: XAG/USD starts US CPI week on flat note around $63.50",
+        "title": "Gold climbs back to $4,350; remains below June 17 high as USD sticks to gains",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.7967
-      },
-      {
-        "title": "Canadian Dollar pulls back from two-month top as rebounding USD counters higher oil prices",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8768
+        "label": "bullish",
+        "score": 0.726
       }
     ],
     "AUD/USD": [
       {
-        "title": "AUD/USD Forex Signal 05/08: Bullish Outlook - DailyForex",
-        "source": "Google News",
+        "title": "The USD is at a crossroads ahead of CPI, while the AUD awaits RBA rate decision",
+        "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/JPY Price Forecast: Positions above nine-day EMA near 183.00",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8099
       }
     ]
   }

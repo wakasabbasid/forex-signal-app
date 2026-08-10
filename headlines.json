@@ -8,10 +8,17 @@
       "currencies": []
     },
     {
-      "title": "FX Futures Positioning: US Dollar Longs Plunged, Yen Shorts Slashed - forex.com",
+      "title": "FX Futures Positioning: US Dollar Longs Plunged, Yen Shorts Slashed - FOREX.com",
       "source": "Google News",
       "label": "bearish",
       "score": -0.8421,
+      "currencies": []
+    },
+    {
+      "title": "Won nears 1,400 after sharpest swings since financial crisis - The Korea Herald",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8234,
       "currencies": []
     },
     {
@@ -22,10 +29,10 @@
       "currencies": []
     },
     {
-      "title": "South Africa Forex Reserves Fall to 8-Month Low - TradingView",
+      "title": "Forex Today 10/08: Quiet Economic Calendar - DailyForex",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9736,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -33,6 +40,13 @@
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "South Africa Forex Reserves Fall to 8-Month Low - TradingView",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9736,
       "currencies": []
     },
     {
@@ -48,6 +62,16 @@
       "label": "neutral",
       "score": 0.0,
       "currencies": []
+    },
+    {
+      "title": "GBP Retreats as Middle East Tensions Boost USD Demand - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7883,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
     },
     {
       "title": "FX Futures Positioning: US Dollar Longs Plunged, Yen Shorts Slashed - City Index UK",
@@ -67,83 +91,59 @@
       ]
     },
     {
-      "title": "India's forex reserves to rise to near-record high, analysts say - Yahoo Finance Singapore",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9158,
-      "currencies": []
-    },
-    {
-      "title": "How coordinated currency buying interventions work - Investing.com",
-      "source": "Google News",
+      "title": "Earnings call transcript: Rakuten posts first profit in six years in Q2 2026",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "AUD/USD Forex Signal 05/08: Bullish Outlook - DailyForex",
-      "source": "Google News",
+      "title": "European stocks steady as investors weigh Hormuz risks, data calendar",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
+      "currencies": []
     },
     {
-      "title": "Earnings call transcript: Medi Assist Q1 2026 revenue meets forecast as shares fall 5%",
+      "title": "Dollar edges higher as Asian currencies weaken; won leads losses",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9738,
+      "score": -0.7797,
       "currencies": []
     },
     {
-      "title": "RBA preview Aug: hold expected as inflation cools, housing weakens",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7525,
-      "currencies": []
-    },
-    {
-      "title": "Westpac shares slide 5% after mortgage applications plunge 20% on tax changes",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9666,
-      "currencies": []
-    },
-    {
-      "title": "Analysis-How the hard reality of climate change hit Europe\u2019s economy this summer",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is oOh!Media stock rallying today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "SK Hynix near bear flag completion below key MAs: Live levels",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Nikkei 225 hits overbought resistance zone: Live levels",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.393,
-      "currencies": []
-    },
-    {
-      "title": "Why is Taiwan Semiconductor Manufacturing stock gaining today?",
+      "title": "Earnings call transcript: Akums Drugs beats revenue estimates in Q1 2026",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6173,
+      "score": 0.7187,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: RNFI Services Q1 2027 profit dips as growth bets build",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9711,
+      "currencies": []
+    },
+    {
+      "title": "FTSE 100 today: Stocks slip as Mideast tensions, Iran blockade weigh",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9691,
+      "currencies": []
+    },
+    {
+      "title": "Vistry slumps as insurer reportedly scales back credit cover for suppliers",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9634,
+      "currencies": []
+    },
+    {
+      "title": "ARYZTA H1 2026 slides: Germany weighs, margins hold, savings accelerate",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9413,
       "currencies": []
     }
   ],
