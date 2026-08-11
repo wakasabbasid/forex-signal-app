@@ -39,6 +39,15 @@
       "currencies": []
     },
     {
+      "title": "BTC/USD Signal 11/08: Bitcoin Wavers as ETF Inflows Coincide - Daily Forex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9085,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn - Nikkei Asia",
       "source": "Google News",
       "label": "bullish",
@@ -46,10 +55,10 @@
       "currencies": []
     },
     {
-      "title": "Yen erases half of intervention gains as traders test Japan and U.S. authorities - The Japan Times",
+      "title": "Kiwi Dollar Holds Steady as Iran Tensions Lift Dollar - TradingPedia",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.7911,
+      "score": -0.497,
       "currencies": []
     },
     {
@@ -60,7 +69,7 @@
       "currencies": []
     },
     {
-      "title": "FX option expiries for 11 August 10am New York cut - investinglive.com",
+      "title": "FX option expiries for 11 August 10am New York cut - investingLive",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -77,15 +86,6 @@
       ]
     },
     {
-      "title": "USD/MXN Slide: Why Traders Are Watching for a Reversal Now - Daily Forex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8253,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
       "title": "JustMarkets: Oil Price Swings Unlock Multi-Asset Trading Opportunities for APAC Traders - Yahoo Finance Singapore",
       "source": "Google News",
       "label": "bullish",
@@ -93,59 +93,59 @@
       "currencies": []
     },
     {
-      "title": "Alcon raises profit guidance, cuts tariff impact estimate on U.S. refund",
+      "title": "Earnings call transcript: IWG posts strong H1 2026 growth as shares fall 3%",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.564,
+      "score": -0.8607,
       "currencies": []
     },
     {
-      "title": "Japan stocks higher at close of trade; Nikkei 225 up 2.08%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.937,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Yatharth Hospital posts record Q1 2026 growth, shares slip",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9392,
-      "currencies": []
-    },
-    {
-      "title": "Wolfe Research cuts monday.com stock rating on slowing growth",
+      "title": "US-Iran standoff sends oil up, dents stocks",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9631,
+      "score": -0.9065,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: KSH International Q1 2027 profit jumps as stock rises 7%",
+      "title": "Meta, TikTok agree to fact check content on Spain border crossings after deadly incident",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9029,
+      "score": 0.5927,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: BLS International posts record Q1 2026 revenue",
+      "title": "Italian bank lending to companies grows 3.2% in June",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7304,
+      "score": 0.9022,
       "currencies": []
     },
     {
-      "title": "Uniper profit surges as company lifts lower end of 2026 earnings outlook",
+      "title": "Senior VP Clement sells $570,200 of Vulcan Materials (VMC) stock",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8451,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "TAG Immobilien sees FFO at guidance high end after strong H1",
+      "title": "Claros Mortgage Trust president and CFO Mike McGillis buys $42,730 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: NTG lifts 2026 profit outlook after strong Q2",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9224,
+      "score": 0.9229,
+      "currencies": []
+    },
+    {
+      "title": "Britain plans labour market survey switch in November 2027",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
