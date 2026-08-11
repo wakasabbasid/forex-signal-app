@@ -3,13 +3,7 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - City Index UK",
+        "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - forex.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -21,30 +15,54 @@
         "score": -0.8253
       },
       {
-        "title": "USD, USD/JPY To Drive FX Markets in US CPI Week - FOREX.com",
+        "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - City Index UK",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "Citi Mexico Survey expects Banxico hold, USD/MXN ending 2026 at 17.90",
-        "source": "FXStreet",
+        "title": "PBOC sets USD/ CNY central rate at 6.7900 (vs. estimate at 6.7497)",
+        "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "Silver Price Forecast: XAG/USD extends rally and eyes $69",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.922
-      }
-    ],
-    "EUR/USD": [
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7497 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
       {
-        "title": "EUR/USD Price Forecast: 100-day SMA caps Euro recovery",
+        "title": "New Zealand Dollar remains confined in a range vs USD amid Iran risks, ahead of US CPI",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9091
+      },
+      {
+        "title": "Euro flat lines near mid-1.1500s vs USD as traders await US CPI amid Iran uncertainty",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8028
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD holds losses near $66.00 on Fed hike fears, oil surge",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9615
+      },
+      {
+        "title": "PBOC sets USD/CNY reference rate at 6.7900 vs. 6.7884 previous",
         "source": "FXStreet",
         "label": "neutral",
         "score": 0.0
+      }
+    ],
+    "USD/CHF": [
+      {
+        "title": "Swiss Foreign Currency Reserves Rise to CHF 768 Billion in July - CryptoRank",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.9353
       }
     ]
   }

@@ -1,7 +1,14 @@
 {
   "headlines": [
     {
-      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
+      "title": "Forex inflows will lead to a liquidity windfall and a bond market spinoff - TradingView",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9582,
+      "currencies": []
+    },
+    {
+      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - forex.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -9,6 +16,13 @@
         "USD",
         "JPY"
       ]
+    },
+    {
+      "title": "Ukrainian central bank issues biggest currency liberalisation since 2022 invasion - Yahoo Finance UK",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
@@ -25,33 +39,7 @@
       "currencies": []
     },
     {
-      "title": "Ukrainian central bank issues biggest currency liberalisation since 2022 invasion By Reuters - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - City Index UK",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
-      "title": "USD/MXN Slide: Why Traders Are Watching for a Reversal Now - Daily Forex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8253,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "title": "What Is the Foreign Exchange Market: A Guide - britannica.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -65,7 +53,26 @@
       "currencies": []
     },
     {
-      "title": "Japan spent record 6.28 tril. yen in forex intervention on April 30 - Japan Wire by Kyodo News",
+      "title": "USD/MXN Slide: Why Traders Are Watching for a Reversal Now - Daily Forex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8253,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - City Index UK",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "Japan spent record \u00a56.28 tril in forex intervention on April 30 - japantoday.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -79,74 +86,65 @@
       "currencies": []
     },
     {
-      "title": "Kiwi Retreats as Dollar Gains on Global Inflation Risks - TradingPedia",
+      "title": "Swiss Foreign Currency Reserves Rise to CHF 768 Billion in July - CryptoRank",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9054,
-      "currencies": []
-    },
-    {
-      "title": "USD, USD/JPY To Drive FX Markets in US CPI Week - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9353,
       "currencies": [
-        "USD",
-        "USD",
-        "JPY"
+        "CHF"
       ]
     },
     {
-      "title": "UK consumers spent more on food and in pubs during World Cup in July",
+      "title": "Red Rock Resorts president Scott Kreeger sells $1.9m in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Mueller Water Products president and CEO Paul McAndrew sells $1.06m",
+      "title": "Spyre Therapeutics director Albers sells $2.4m in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "BOJ\u2019s rate-hike path runs into Takaichi\u2019s bond market problems",
+      "title": "Centuria Industrial REIT FY26 slides: 30% leasing spreads, data centres",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Life360 posts Q2 2026 revenue surge, EPS misses forecast",
+      "title": "Trump used military plane to leave Turkey due to Iran threat- Washington Post",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "American Healthcare REIT prices $712M stock offering",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US officials work to close supply chain gaps as foreign investment grows",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7943,
+      "score": 0.6513,
       "currencies": []
     },
     {
-      "title": "Brazilian police accuse Goldman executives of fraud over Oncoclinicas tender offer",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9126,
-      "currencies": []
-    },
-    {
-      "title": "Arista Networks director Andreas Bechtolsheim sells $79.4 million in stock",
+      "title": "Slide insurance director Stephen Rohde sells $105,000 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Rocket Lab sees waning chances of Neutron rocket debut this year",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8819,
-      "currencies": []
-    },
-    {
-      "title": "Innovex co-invest fund, director, sells $143.5m in INVX stock",
+      "title": "Schwab chief risk officer Nigel Murtagh sells $2.9m in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
