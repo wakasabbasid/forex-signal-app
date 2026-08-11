@@ -7,32 +7,46 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.7838
-      },
-      {
-        "title": "EUR/GBP slips as bearish pressure mounts",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9336
       }
     ],
     "USD/JPY": [
       {
-        "title": "Best INR to USD Forex Rates: What the major banks are offering right now; SBI, HDFC, Axis Bank and more - tradingview.com",
+        "title": "Best INR to USD Forex Rates: What the major banks are offering right now; SBI, HDFC, Axis Bank and more - TradingView",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
+        "title": "USD/ZAR Creeps Higher: Why Are Traders Still Nervous? - Daily Forex",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Japanese Yen: Oil prices keep USD/JPY near 160 resistance - BBH",
-        "source": "FXStreet",
         "label": "bearish",
-        "score": -0.6849
+        "score": -0.5012
+      },
+      {
+        "title": "Geo Group stock hits 52-week high at 32.3 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.6937
+      },
+      {
+        "title": "USD/JPY and the dollar at a crossroads after intervention and rate shifts",
+        "source": "Investing.com",
+        "label": "bearish",
+        "score": -0.4113
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/USD outlook undermined by crude oil resurgence - FOREX.com",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9547
+      },
+      {
+        "title": "EUR/USD outlook undermined by crude oil resurgence - City Index UK",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9615
       }
     ],
     "USD/CHF": [
@@ -41,14 +55,6 @@
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.9661
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/GBP slips as bearish pressure mounts",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9336
       }
     ]
   }

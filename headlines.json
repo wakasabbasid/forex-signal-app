@@ -11,7 +11,7 @@
       ]
     },
     {
-      "title": "Best INR to USD Forex Rates: What the major banks are offering right now; SBI, HDFC, Axis Bank and more - tradingview.com",
+      "title": "Best INR to USD Forex Rates: What the major banks are offering right now; SBI, HDFC, Axis Bank and more - TradingView",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -27,6 +27,16 @@
       "currencies": []
     },
     {
+      "title": "EUR/USD outlook undermined by crude oil resurgence - FOREX.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9547,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -34,20 +44,10 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
-      "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn - asia.nikkei.com",
+      "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn - Nikkei Asia",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.879,
+      "score": 0.9301,
       "currencies": []
     },
     {
@@ -58,6 +58,13 @@
       "currencies": []
     },
     {
+      "title": "FX option expiries for 11 August 10am New York cut - investingLive",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Forex Focus - tastylive",
       "source": "Google News",
       "label": "neutral",
@@ -65,87 +72,85 @@
       "currencies": []
     },
     {
-      "title": "Ukrainian central bank issues biggest currency liberalisation since 2022 invasion By Reuters - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan spent record \u00a56.28 tril in forex intervention on April 30 - Japan Today",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Kiwi Dollar Holds Steady as Iran Tensions Lift Dollar - TradingPedia",
+      "title": "EUR/USD outlook undermined by crude oil resurgence - City Index UK",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.497,
-      "currencies": []
+      "score": -0.9615,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
     },
     {
-      "title": "Yen buying likely to stay more muted for the time being - MUFG - investingLive",
+      "title": "USD/ZAR Creeps Higher: Why Are Traders Still Nervous? - Daily Forex",
       "source": "Google News",
+      "label": "bearish",
+      "score": -0.5012,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Forex inflows will lead to a liquidity windfall and a bond market spinoff - TradingView",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9582,
+      "currencies": []
+    },
+    {
+      "title": "Otter Tail VP of HR Paul Knutson sells $325,885 in company stock",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Masco at Deutsche Bank summit: growth bets amid soft housing",
+      "title": "Iran ties Strait of Hormuz opening to US policy changes",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6866,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: HighPeak Energy tops Q2 2026 estimates as shares rise",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8559,
-      "currencies": []
-    },
-    {
-      "title": "Zevra Therapeutics at Canaccord Genuity: growth plan widens",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9371,
-      "currencies": []
-    },
-    {
-      "title": "Oman says grounded tanker oil spill covers 400 square km",
+      "title": "US existing home sales fall further; small business sentiment at 11-month high",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.683,
+      "score": -0.9705,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Consolidated Water tops revenue in Q2 2026, shares rise 7.7%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9425,
-      "currencies": []
-    },
-    {
-      "title": "China Tower H1 2026 slides: profit jumps 30% as costs fall, cash flow weakens",
+      "title": "Wall St inches lower as tech drags, US-Iran peace optimism fades",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9452,
+      "score": -0.7861,
       "currencies": []
     },
     {
-      "title": "FS Bancorp executives to participate in D.A. Davidson Western Bank Summit",
+      "title": "CRWV, LITE, SMCI: Which earnings is most important to watch tonight?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Horizon Kinetics Asset Management buys $2,237 of RENN Fund stock",
+      "title": "Venezuela and Israel agree to restore consular services",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.906,
+      "currencies": []
+    },
+    {
+      "title": "Uber exits Serve Robotics stake amid deployment disputes",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Senior OpenAI executive Brad Lightcap to leave for new venture",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.756,
       "currencies": []
     }
   ],
