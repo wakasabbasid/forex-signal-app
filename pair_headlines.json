@@ -3,13 +3,13 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - forex.com",
+        "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - cityindex.com",
+        "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - City Index UK",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -21,38 +21,18 @@
         "score": -0.8253
       },
       {
-        "title": "Gold stands firm above $4,400; inflation-driven Fed hike bets support USD and cap gains",
+        "title": "British Pound consolidates around 1.3500 vs USD; looks to US CPI, UK GDP for fresh impetus",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.8705
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Remains below 183.00 as bearish bias prevails",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9589
-      },
-      {
-        "title": "Canadian Dollar sits near two-month top vs USD amid bullish oil prices",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.5969
+        "score": 0.3859
       }
     ],
-    "USD/CHF": [
+    "AUD/USD": [
       {
-        "title": "Swiss Foreign Currency Reserves Rise to CHF 768 Billion in July - CryptoRank",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.9353
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/JPY Price Forecast: Remains below 183.00 as bearish bias prevails",
+        "title": "AUD/USD Price Forecast: Aussie spikes down below 0.7050 as RBA\u2019s Bullock speaks",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9589
+        "score": -0.95
       }
     ]
   }

@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9097,
+      "currencies": []
+    },
+    {
       "title": "Forex inflows will lead to a liquidity windfall and a bond market spinoff - TradingView",
       "source": "Google News",
       "label": "bearish",
@@ -8,7 +15,7 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - forex.com",
+      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -16,13 +23,6 @@
         "USD",
         "JPY"
       ]
-    },
-    {
-      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9097,
-      "currencies": []
     },
     {
       "title": "FCNR deposits vs foreign investment: Which is better for India's economic development? - ETGovernment.com",
@@ -39,10 +39,17 @@
       "currencies": []
     },
     {
-      "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn - asia.nikkei.com",
+      "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn - Nikkei Asia",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.879,
+      "score": 0.9301,
+      "currencies": []
+    },
+    {
+      "title": "Yen erases half of intervention gains as traders test Japan and U.S. authorities - The Japan Times",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7911,
       "currencies": []
     },
     {
@@ -53,7 +60,14 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - cityindex.com",
+      "title": "FX option expiries for 11 August 10am New York cut - investinglive.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - City Index UK",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -79,75 +93,59 @@
       "currencies": []
     },
     {
-      "title": "Japan spent record \u00a56.28 tril in forex intervention on April 30 - Japan Today",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Swiss Foreign Currency Reserves Rise to CHF 768 Billion in July - CryptoRank",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9353,
-      "currencies": [
-        "CHF"
-      ]
-    },
-    {
-      "title": "Gold hits more than 2-month high as investors weigh Iran talks, U.S. inflation",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.509,
-      "currencies": []
-    },
-    {
-      "title": "Pubmatic general counsel Andrew Woods sells $688k in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Upland Software director Timothy Mattox sells $4,270 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Terreno Realty Corp CFO Jaime Cannon sells $245,872 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Mackenzie Realty Capital general counsel buys $53,340 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Gulf shipping traffic via Strait of Hormuz falls to six vessels",
+      "title": "Alcon raises profit guidance, cuts tariff impact estimate on U.S. refund",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9698,
+      "score": -0.564,
       "currencies": []
     },
     {
-      "title": "Australia central bank holds rates steady, keeps hike on table",
+      "title": "Japan stocks higher at close of trade; Nikkei 225 up 2.08%",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.937,
       "currencies": []
     },
     {
-      "title": "Australia\u2019s central bank keeps interest rates at 4.35%",
+      "title": "Earnings call transcript: Yatharth Hospital posts record Q1 2026 growth, shares slip",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9392,
+      "currencies": []
+    },
+    {
+      "title": "Wolfe Research cuts monday.com stock rating on slowing growth",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9631,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: KSH International Q1 2027 profit jumps as stock rises 7%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9029,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: BLS International posts record Q1 2026 revenue",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7304,
+      "currencies": []
+    },
+    {
+      "title": "Uniper profit surges as company lifts lower end of 2026 earnings outlook",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8451,
+      "currencies": []
+    },
+    {
+      "title": "TAG Immobilien sees FFO at guidance high end after strong H1",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9224,
       "currencies": []
     }
   ],
