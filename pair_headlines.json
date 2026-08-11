@@ -23,16 +23,10 @@
         "score": -0.5012
       },
       {
-        "title": "Geo Group stock hits 52-week high at 32.3 USD",
+        "title": "JPMorgan Chase stock hits all-time high at 363.02 USD",
         "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.6937
-      },
-      {
-        "title": "USD/JPY and the dollar at a crossroads after intervention and rate shifts",
-        "source": "Investing.com",
-        "label": "bearish",
-        "score": -0.4113
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "EUR/USD": [
@@ -49,12 +43,12 @@
         "score": -0.9615
       }
     ],
-    "USD/CHF": [
+    "USD/CAD": [
       {
-        "title": "USD/CHF Price Forecast: Buyers struggle to clear the 21-day SMA",
-        "source": "FXStreet",
+        "title": "USD/CAD edges lower as Canada tries to close trade deal with Trump",
+        "source": "ForexLive",
         "label": "bearish",
-        "score": -0.9661
+        "score": -0.9435
       }
     ]
   }
