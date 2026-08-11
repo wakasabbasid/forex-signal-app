@@ -7,15 +7,15 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.7838
-      },
-      {
-        "title": "GBP/USD Price Forecast: Holds Descending Triangle breakout",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
       }
     ],
     "USD/JPY": [
+      {
+        "title": "Best INR to USD Forex Rates: What the major banks are offering right now; SBI, HDFC, Axis Bank and more - TradingView",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
       {
         "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
         "source": "Google News",
@@ -23,18 +23,24 @@
         "score": 0.0
       },
       {
-        "title": "US Dollar: CPI keeps USD in tight ranges \u2013 OCBC",
+        "title": "Japanese Yen: Oil prices keep USD/JPY near 160 resistance - BBH",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.7782
+        "score": -0.6849
       }
     ],
-    "AUD/USD": [
+    "EUR/USD": [
       {
-        "title": "RBA holds rates and sees faster inflation cooling \u2013 AUD/USD cautious - FXCM Markets",
+        "title": "EUR/USD Signal 11/08: Drops to Key Support - Daily Forex",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bearish",
+        "score": -0.9251
+      },
+      {
+        "title": "EUR/USD Price Forecast: Range-bound trade persists below 100-day SMA",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.7657
       }
     ]
   }
