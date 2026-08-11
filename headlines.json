@@ -11,6 +11,13 @@
       ]
     },
     {
+      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - reuters.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6896,
+      "currencies": []
+    },
+    {
       "title": "Best INR to USD Forex Rates: What the major banks are offering right now; SBI, HDFC, Axis Bank and more - TradingView",
       "source": "Google News",
       "label": "neutral",
@@ -20,10 +27,10 @@
       ]
     },
     {
-      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - reuters.com",
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.6896,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -37,38 +44,17 @@
       ]
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn - asia.nikkei.com",
+      "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn - Nikkei Asia",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.879,
+      "score": 0.9301,
       "currencies": []
     },
     {
-      "title": "Yen erases half of intervention gains as traders test Japan and U.S. authorities - japantimes.co.jp",
+      "title": "Yen erases half of intervention gains as traders test Japan and U.S. authorities - The Japan Times",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "FX option expiries for 11 August 10am New York cut - investingLive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Focus - tastylive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.7911,
       "currencies": []
     },
     {
@@ -80,6 +66,13 @@
         "EUR",
         "USD"
       ]
+    },
+    {
+      "title": "Japan spent record \u00a56.28 tril in forex intervention on April 30 - japantoday.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "USD/ZAR Creeps Higher: Why Are Traders Still Nervous? - Daily Forex",
@@ -98,59 +91,69 @@
       "currencies": []
     },
     {
-      "title": "ARC Group Securities Acquisition I completes $105 million Nasdaq IPO",
+      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "Worksport earnings beat by $0.04, revenue fell short of estimates",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8859,
+      "currencies": []
+    },
+    {
+      "title": "Apollomics raises $10 million in private placement",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Crane NXT at Oppenheimer conference: growth plan gains traction",
+      "title": "CAVA Group surges on revenue beat, robust traffic growth",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9362,
+      "score": 0.9503,
       "currencies": []
     },
     {
-      "title": "Wall Street falls as US-Iran peace optimism fades",
+      "title": "SES AI earnings matched, revenue fell short of estimates",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7262,
+      "score": -0.9537,
       "currencies": []
     },
     {
-      "title": "Shein plans to launch Hong Kong IPO as soon as August 19, sources say",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Trump floats possible legal challenge to New York tax on luxury second homes",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5547,
-      "currencies": []
-    },
-    {
-      "title": "Senior OpenAI executive Brad Lightcap to leave for new venture",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.756,
-      "currencies": []
-    },
-    {
-      "title": "TransMedics at canaccord growth conference: kidney push, margin trade-offs",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Lantronix at Canaccord Genuity conference: edge push gains traction",
+      "title": "Hyliion Holdings earnings matched, revenue topped estimates",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9316,
+      "score": 0.9572,
+      "currencies": []
+    },
+    {
+      "title": "Avita Medical amends agreement with Stedical Scientific to expand distribution rights",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9408,
+      "currencies": []
+    },
+    {
+      "title": "GM inks deal to guard against future parts-supply shocks",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Matthews International names Michael Whitehead as new CEO",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
