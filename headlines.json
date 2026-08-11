@@ -42,10 +42,34 @@
       "currencies": []
     },
     {
+      "title": "Forex Focus - tastylive",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn - Nikkei Asia",
       "source": "Google News",
       "label": "bullish",
       "score": 0.9301,
+      "currencies": []
+    },
+    {
+      "title": "RBA holds rates and sees faster inflation cooling \u2013 AUD/USD cautious - FXCM Markets",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
+    },
+    {
+      "title": "Ukrainian central bank issues biggest currency liberalisation since 2022 invasion By Reuters - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -56,97 +80,73 @@
       "currencies": []
     },
     {
-      "title": "Ukrainian central bank issues biggest currency liberalisation since 2022 invasion By Reuters - Investing.com",
+      "title": "Yen buying likely to stay more muted for the time being - MUFG - investingLive",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "FX option expiries for 11 August 10am New York cut - investingLive",
+      "title": "Yen erases half of intervention gains as traders test Japan and U.S. authorities - The Japan Times",
       "source": "Google News",
+      "label": "bearish",
+      "score": -0.7911,
+      "currencies": []
+    },
+    {
+      "title": "Bicara Therapeutics announces CEO transition, CFO appointment",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - City Index UK",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
-      "title": "Japan spent record \u00a56.28 tril in forex intervention on April 30 - Japan Today",
-      "source": "Google News",
+      "title": "Ryman Hospitality plans $700M notes to fund Orlando acquisition",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "JustMarkets: Oil Price Swings Unlock Multi-Asset Trading Opportunities for APAC Traders - Yahoo Finance Singapore",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6335,
+      "title": "Planet Green enters lactoferrin sourcing and distribution",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Salzgitter H1 2026 slides: earnings swing to profit, HKM deal",
+      "title": "Grandstand launches Rollcard debit card for sports bettors",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5155,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Indonesia approves Empyrean\u2019s 8.5% Mako gas field transfer",
+      "title": "EVgo opens flagship charging station in Detroit area",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7968,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Phillip Securities downgrades Airbnb stock rating on valuation",
+      "title": "Eikon selects 0.60 mg/m2 dose for melanoma trial TeLuRide-006",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7987,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Tencent Music Entertainment Group earnings missed by \u00a50.05, revenue topped estimates",
+      "title": "Stardust Power appoints V. Ray Rivers to board of directors",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9721,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Smithfield Foods trims full-year forecasts as consumers rein in spending",
+      "title": "Littelfuse appoints Plexus CEO Todd Kelsey to board",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9602,
-      "currencies": []
-    },
-    {
-      "title": "Robinsons Land 1H 2026 slides: revenue up 10%, REIT share grows",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9546,
-      "currencies": []
-    },
-    {
-      "title": "Gulf shipping through Strait of Hormuz reportedly falls as Iran deal hopes fade",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9686,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: IHG reports H1 2026 growth as stock slips premarket",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7663,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

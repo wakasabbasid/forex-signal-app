@@ -15,12 +15,22 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
+      }
+    ],
+    "AUD/USD": [
       {
-        "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - City Index UK",
+        "title": "RBA holds rates and sees faster inflation cooling \u2013 AUD/USD cautious - FXCM Markets",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      }
+    ],
+    "NZD/USD": [
+      {
+        "title": "NZD/USD Price Forecast: Focus shifts to 0.5850 support area as risk appetite fades",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.4065
       }
     ]
   }
