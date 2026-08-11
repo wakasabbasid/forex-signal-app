@@ -9,52 +9,34 @@
         "score": 0.0
       },
       {
+        "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - cityindex.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
         "title": "USD/MXN Slide: Why Traders Are Watching for a Reversal Now - Daily Forex",
         "source": "Google News",
         "label": "bearish",
         "score": -0.8253
       },
       {
-        "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - City Index UK",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "title": "Gold stands firm above $4,400; inflation-driven Fed hike bets support USD and cap gains",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8705
       },
       {
-        "title": "PBOC sets USD/ CNY central rate at 6.7900 (vs. estimate at 6.7497)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7497 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "New Zealand Dollar remains confined in a range vs USD amid Iran risks, ahead of US CPI",
+        "title": "EUR/JPY Price Forecast: Remains below 183.00 as bearish bias prevails",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9091
+        "score": -0.9589
       },
       {
-        "title": "Euro flat lines near mid-1.1500s vs USD as traders await US CPI amid Iran uncertainty",
+        "title": "Canadian Dollar sits near two-month top vs USD amid bullish oil prices",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8028
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD holds losses near $66.00 on Fed hike fears, oil surge",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9615
-      },
-      {
-        "title": "PBOC sets USD/CNY reference rate at 6.7900 vs. 6.7884 previous",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bullish",
+        "score": 0.5969
       }
     ],
     "USD/CHF": [
@@ -63,6 +45,14 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.9353
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/JPY Price Forecast: Remains below 183.00 as bearish bias prevails",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9589
       }
     ]
   }
