@@ -7,6 +7,12 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.7838
+      },
+      {
+        "title": "GBP/USD Price Forecast: Holds Descending Triangle breakout",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "USD/JPY": [
@@ -15,6 +21,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "US Dollar: CPI keeps USD in tight ranges \u2013 OCBC",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.7782
       }
     ],
     "AUD/USD": [
@@ -23,14 +35,6 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      }
-    ],
-    "NZD/USD": [
-      {
-        "title": "NZD/USD Price Forecast: Focus shifts to 0.5850 support area as risk appetite fades",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.4065
       }
     ]
   }

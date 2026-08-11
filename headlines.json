@@ -25,6 +25,13 @@
       "currencies": []
     },
     {
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -35,10 +42,17 @@
       ]
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn - Nikkei Asia",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9301,
+      "currencies": []
+    },
+    {
+      "title": "Yen erases half of intervention gains as traders test Japan and U.S. authorities - The Japan Times",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7911,
       "currencies": []
     },
     {
@@ -46,13 +60,6 @@
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn - Nikkei Asia",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9301,
       "currencies": []
     },
     {
@@ -80,70 +87,63 @@
       "currencies": []
     },
     {
-      "title": "Yen buying likely to stay more muted for the time being - MUFG - investingLive",
+      "title": "Yen buying likely to stay more muted for the time being - MUFG - investinglive.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Yen erases half of intervention gains as traders test Japan and U.S. authorities - The Japan Times",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7911,
+      "title": "Rekor wins $22M South Carolina traffic monitoring contract",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9121,
       "currencies": []
     },
     {
-      "title": "Bicara Therapeutics announces CEO transition, CFO appointment",
+      "title": "Nasdaq to acquire alternative trading system LeveL Markets",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Ryman Hospitality plans $700M notes to fund Orlando acquisition",
+      "title": "SciTec wins $93.7M contract for radar modernization",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.888,
+      "currencies": []
+    },
+    {
+      "title": "Wix launches Symphony AI agent platform for small businesses",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Planet Green enters lactoferrin sourcing and distribution",
+      "title": "Abbott partners with Google Health on glucose monitoring",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Grandstand launches Rollcard debit card for sports bettors",
+      "title": "Cyabra appoints Keith Noble as VP of government sales",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "EVgo opens flagship charging station in Detroit area",
+      "title": "Global Engine Group signs Malaysia space-AI infrastructure deal",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.7201,
       "currencies": []
     },
     {
-      "title": "Eikon selects 0.60 mg/m2 dose for melanoma trial TeLuRide-006",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Stardust Power appoints V. Ray Rivers to board of directors",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Littelfuse appoints Plexus CEO Todd Kelsey to board",
+      "title": "Stitch Fix launches Favorite Daughter capsule for busy moms",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
