@@ -18,6 +18,13 @@
       "currencies": []
     },
     {
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Best INR to USD Forex Rates: What the major banks are offering right now; SBI, HDFC, Axis Bank and more - TradingView",
       "source": "Google News",
       "label": "neutral",
@@ -25,13 +32,6 @@
       "currencies": [
         "USD"
       ]
-    },
-    {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
     },
     {
       "title": "EUR/USD outlook undermined by crude oil resurgence - FOREX.com",
@@ -44,10 +44,17 @@
       ]
     },
     {
-      "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn - asia.nikkei.com",
+      "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn - Nikkei Asia",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.879,
+      "score": 0.9301,
+      "currencies": []
+    },
+    {
+      "title": "FX option expiries for 11 August 10am New York cut - investingLive",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -56,16 +63,6 @@
       "label": "neutral",
       "score": 0.0,
       "currencies": []
-    },
-    {
-      "title": "EUR/USD outlook undermined by crude oil resurgence - City Index UK",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9615,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
     },
     {
       "title": "Yen erases half of intervention gains as traders test Japan and U.S. authorities - The Japan Times",
@@ -101,59 +98,59 @@
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: QuickLogic Q2 2026 revenue miss offsets margin gains",
+      "title": "Csw Industrials EVP, GM sells $249,811 of company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US freight railroads lose appeal challenging new rule requiring at least two-person crews",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6068,
+      "score": -0.9458,
       "currencies": []
     },
     {
-      "title": "Kemper Corp director Gerald Laderman buys $105,960 in shares",
+      "title": "Icu medical director Elisha Finney sells $68,978 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Global youth unemployment rises amid sluggish job creation and looming AI risk, UN labour agency says",
+      "title": "Icu medical COO Christian Voigtlander sells $1.63m in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Lyft director Janey Whiteside sells $241,740 in Lyft shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Four crew, two rescuers killed in Red Sea attack; US strikes ship in Gulf of Oman",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9407,
+      "score": -0.913,
       "currencies": []
     },
     {
-      "title": "Cogent Communications at TD Cowen summit: debt, growth and margins",
+      "title": "Oil prices continue climb on US-Iran deal doubts; stocks retreat",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.8435,
       "currencies": []
     },
     {
-      "title": "Lumentum Q4 FY26 slides: AI demand drives record margins above 50%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9508,
-      "currencies": []
-    },
-    {
-      "title": "National CineMedia acquires Captivate digital advertising network",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Vinci Compass tops Q2 2026 estimates on strong growth",
+      "title": "CoreWeave boosts 2026 spending plan, beats quarterly estimates on AI demand surge",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9442,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Firefly Aerospace posts record Q2 2026 revenue",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6888,
+      "score": 0.9262,
       "currencies": []
     }
   ],

@@ -7,6 +7,12 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.7838
+      },
+      {
+        "title": "GBP/JPY Price Forecast: Struggles at 50-day SMA with bulls near 215.50",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8928
       }
     ],
     "USD/JPY": [
@@ -27,6 +33,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "GBP/JPY Price Forecast: Struggles at 50-day SMA with bulls near 215.50",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8928
       }
     ],
     "EUR/USD": [
@@ -35,20 +47,6 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.9547
-      },
-      {
-        "title": "EUR/USD outlook undermined by crude oil resurgence - City Index UK",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9615
-      }
-    ],
-    "USD/CAD": [
-      {
-        "title": "USD/CAD edges lower as Canada tries to close trade deal with Trump",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.9435
       }
     ]
   }
