@@ -11,10 +11,10 @@
       ]
     },
     {
-      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - reuters.com",
+      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.6896,
+      "score": 0.9097,
       "currencies": []
     },
     {
@@ -44,17 +44,17 @@
       ]
     },
     {
-      "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn - Nikkei Asia",
+      "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn - asia.nikkei.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9301,
+      "score": 0.879,
       "currencies": []
     },
     {
-      "title": "Yen erases half of intervention gains as traders test Japan and U.S. authorities - The Japan Times",
+      "title": "Japan spent record \u00a56.28 tril in forex intervention on April 30 - Japan Today",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.7911,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -68,10 +68,10 @@
       ]
     },
     {
-      "title": "Japan spent record \u00a56.28 tril in forex intervention on April 30 - Japan Today",
+      "title": "Yen erases half of intervention gains as traders test Japan and U.S. authorities - The Japan Times",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.7911,
       "currencies": []
     },
     {
@@ -101,59 +101,59 @@
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Evolv Technology tops Q2 2026 forecasts and lifts outlook",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9493,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Peraso posts q2 2026 miss, shares jump after hours",
+      "title": "Earnings call transcript: QuickLogic Q2 2026 revenue miss offsets margin gains",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6049,
+      "score": -0.6068,
       "currencies": []
     },
     {
-      "title": "Owlet earnings beat by $0.09, revenue topped estimates",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9445,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Codexis beats Q2 2026 estimates as shares rise after hours",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9014,
-      "currencies": []
-    },
-    {
-      "title": "Owlet Q2 2026 slides: record revenue, subscription surge drive rally",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7562,
-      "currencies": []
-    },
-    {
-      "title": "Kopin at Canaccord Genuity growth conference: defense and ai push",
+      "title": "Kemper Corp director Gerald Laderman buys $105,960 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Albertsons stockholders approve bylaw changes and elect directors at annual meeting",
+      "title": "Global youth unemployment rises amid sluggish job creation and looming AI risk, UN labour agency says",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9407,
+      "currencies": []
+    },
+    {
+      "title": "Cogent Communications at TD Cowen summit: debt, growth and margins",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Trump administration finalizes ownership reporting exemption for US firms",
+      "title": "Lumentum Q4 FY26 slides: AI demand drives record margins above 50%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9508,
+      "currencies": []
+    },
+    {
+      "title": "National CineMedia acquires Captivate digital advertising network",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Vinci Compass tops Q2 2026 estimates on strong growth",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9442,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Firefly Aerospace posts record Q2 2026 revenue",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6888,
       "currencies": []
     }
   ],
