@@ -68,7 +68,7 @@
       ]
     },
     {
-      "title": "Japan spent record \u00a56.28 tril in forex intervention on April 30 - japantoday.com",
+      "title": "Japan spent record \u00a56.28 tril in forex intervention on April 30 - Japan Today",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -84,13 +84,6 @@
       ]
     },
     {
-      "title": "Forex inflows will lead to a liquidity windfall and a bond market spinoff - TradingView",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9582,
-      "currencies": []
-    },
-    {
       "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -101,56 +94,63 @@
       ]
     },
     {
-      "title": "Worksport earnings beat by $0.04, revenue fell short of estimates",
-      "source": "Investing.com",
+      "title": "Forex inflows will lead to a liquidity windfall and a bond market spinoff - TradingView",
+      "source": "Google News",
       "label": "bearish",
-      "score": -0.8859,
+      "score": -0.9582,
       "currencies": []
     },
     {
-      "title": "Apollomics raises $10 million in private placement",
+      "title": "Earnings call transcript: Evolv Technology tops Q2 2026 forecasts and lifts outlook",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9493,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Peraso posts q2 2026 miss, shares jump after hours",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6049,
+      "currencies": []
+    },
+    {
+      "title": "Owlet earnings beat by $0.09, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9445,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Codexis beats Q2 2026 estimates as shares rise after hours",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9014,
+      "currencies": []
+    },
+    {
+      "title": "Owlet Q2 2026 slides: record revenue, subscription surge drive rally",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7562,
+      "currencies": []
+    },
+    {
+      "title": "Kopin at Canaccord Genuity growth conference: defense and ai push",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "CAVA Group surges on revenue beat, robust traffic growth",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9503,
-      "currencies": []
-    },
-    {
-      "title": "SES AI earnings matched, revenue fell short of estimates",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9537,
-      "currencies": []
-    },
-    {
-      "title": "Hyliion Holdings earnings matched, revenue topped estimates",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9572,
-      "currencies": []
-    },
-    {
-      "title": "Avita Medical amends agreement with Stedical Scientific to expand distribution rights",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9408,
-      "currencies": []
-    },
-    {
-      "title": "GM inks deal to guard against future parts-supply shocks",
+      "title": "Albertsons stockholders approve bylaw changes and elect directors at annual meeting",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Matthews International names Michael Whitehead as new CEO",
+      "title": "Trump administration finalizes ownership reporting exemption for US firms",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
