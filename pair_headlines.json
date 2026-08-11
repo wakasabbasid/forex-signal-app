@@ -7,11 +7,17 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.7838
+      },
+      {
+        "title": "EUR/GBP slips as bearish pressure mounts",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9336
       }
     ],
     "USD/JPY": [
       {
-        "title": "Best INR to USD Forex Rates: What the major banks are offering right now; SBI, HDFC, Axis Bank and more - TradingView",
+        "title": "Best INR to USD Forex Rates: What the major banks are offering right now; SBI, HDFC, Axis Bank and more - tradingview.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -29,18 +35,20 @@
         "score": -0.6849
       }
     ],
-    "EUR/USD": [
+    "USD/CHF": [
       {
-        "title": "EUR/USD Signal 11/08: Drops to Key Support - Daily Forex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9251
-      },
-      {
-        "title": "EUR/USD Price Forecast: Range-bound trade persists below 100-day SMA",
+        "title": "USD/CHF Price Forecast: Buyers struggle to clear the 21-day SMA",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.7657
+        "score": -0.9661
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/GBP slips as bearish pressure mounts",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9336
       }
     ]
   }
