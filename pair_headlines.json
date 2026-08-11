@@ -1,6 +1,14 @@
 {
   "run_id": 1,
   "pairs": {
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Signal: Inverted Head and Shoulders Forms Ahead of US CPI Data - Daily Forex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.7838
+      }
+    ],
     "USD/JPY": [
       {
         "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
@@ -9,44 +17,10 @@
         "score": 0.0
       },
       {
-        "title": "BTC/USD Signal 11/08: Bitcoin Wavers as ETF Inflows Coincide - Daily Forex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9085
-      },
-      {
         "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - City Index UK",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "Gold retreats further from two-month high, eyes $4,350 as Fed rate hike bets support USD",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8877
-      },
-      {
-        "title": "Japanese Yen struggles below 159.00 vs USD amid fiscal woes, US-Japan rate gap",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9587
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/GBP Price Forecast: Under growing bearish pressure below 0.8550",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9073
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "EUR/GBP Price Forecast: Under growing bearish pressure below 0.8550",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9073
       }
     ]
   }

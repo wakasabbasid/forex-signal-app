@@ -1,6 +1,16 @@
 {
   "headlines": [
     {
+      "title": "GBP/USD Signal: Inverted Head and Shoulders Forms Ahead of US CPI Data - Daily Forex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7838,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
       "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -25,27 +35,11 @@
       ]
     },
     {
-      "title": "FCNR deposits vs foreign investment: Which is better for India's economic development? - ETGovernment.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
-    },
-    {
-      "title": "BTC/USD Signal 11/08: Bitcoin Wavers as ETF Inflows Coincide - Daily Forex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9085,
-      "currencies": [
-        "USD"
-      ]
     },
     {
       "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn - Nikkei Asia",
@@ -86,6 +80,13 @@
       ]
     },
     {
+      "title": "Japan spent record \u00a56.28 tril in forex intervention on April 30 - Japan Today",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "JustMarkets: Oil Price Swings Unlock Multi-Asset Trading Opportunities for APAC Traders - Yahoo Finance Singapore",
       "source": "Google News",
       "label": "bullish",
@@ -93,59 +94,59 @@
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: IWG posts strong H1 2026 growth as shares fall 3%",
+      "title": "Salzgitter H1 2026 slides: earnings swing to profit, HKM deal",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5155,
+      "currencies": []
+    },
+    {
+      "title": "Indonesia approves Empyrean\u2019s 8.5% Mako gas field transfer",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7968,
+      "currencies": []
+    },
+    {
+      "title": "Phillip Securities downgrades Airbnb stock rating on valuation",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8607,
+      "score": -0.7987,
       "currencies": []
     },
     {
-      "title": "US-Iran standoff sends oil up, dents stocks",
+      "title": "Tencent Music Entertainment Group earnings missed by \u00a50.05, revenue topped estimates",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9065,
+      "score": -0.9721,
       "currencies": []
     },
     {
-      "title": "Meta, TikTok agree to fact check content on Spain border crossings after deadly incident",
+      "title": "Smithfield Foods trims full-year forecasts as consumers rein in spending",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9602,
+      "currencies": []
+    },
+    {
+      "title": "Robinsons Land 1H 2026 slides: revenue up 10%, REIT share grows",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5927,
+      "score": 0.9546,
       "currencies": []
     },
     {
-      "title": "Italian bank lending to companies grows 3.2% in June",
+      "title": "Gulf shipping through Strait of Hormuz reportedly falls as Iran deal hopes fade",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9686,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: IHG reports H1 2026 growth as stock slips premarket",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9022,
-      "currencies": []
-    },
-    {
-      "title": "Senior VP Clement sells $570,200 of Vulcan Materials (VMC) stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Claros Mortgage Trust president and CFO Mike McGillis buys $42,730 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: NTG lifts 2026 profit outlook after strong Q2",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9229,
-      "currencies": []
-    },
-    {
-      "title": "Britain plans labour market survey switch in November 2027",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "score": 0.7663,
       "currencies": []
     }
   ],
