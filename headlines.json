@@ -11,13 +11,6 @@
       ]
     },
     {
-      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9097,
-      "currencies": []
-    },
-    {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -25,57 +18,24 @@
       "currencies": []
     },
     {
+      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9097,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: US Dollar on pause ahead of US CPI - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5507,
+      "currencies": []
+    },
+    {
       "title": "Best INR to USD Forex Rates: What the major banks are offering right now; SBI, HDFC, Axis Bank and more - TradingView",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "EUR/USD outlook undermined by crude oil resurgence - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9547,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn - Nikkei Asia",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9301,
-      "currencies": []
-    },
-    {
-      "title": "FX option expiries for 11 August 10am New York cut - investingLive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan spent record \u00a56.28 tril in forex intervention on April 30 - Japan Today",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Yen erases half of intervention gains as traders test Japan and U.S. authorities - The Japan Times",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7911,
-      "currencies": []
-    },
-    {
-      "title": "USD/ZAR Creeps Higher: Why Are Traders Still Nervous? - Daily Forex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5012,
       "currencies": [
         "USD"
       ]
@@ -91,66 +51,108 @@
       ]
     },
     {
-      "title": "Forex inflows will lead to a liquidity windfall and a bond market spinoff - TradingView",
+      "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn - Nikkei Asia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9301,
+      "currencies": []
+    },
+    {
+      "title": "FOREX-Dollar drifts as markets await US inflation data for Fed clues - Metrobank Wealth Insights",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9582,
+      "score": -0.7206,
       "currencies": []
     },
     {
-      "title": "Csw Industrials EVP, GM sells $249,811 of company stock",
-      "source": "Investing.com",
+      "title": "Japan spent record \u00a56.28 tril in forex intervention on April 30 - Japan Today",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US freight railroads lose appeal challenging new rule requiring at least two-person crews",
-      "source": "Investing.com",
+      "title": "Swiss Foreign Currency Reserves Rise to CHF 768 Billion in July - CryptoRank",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9353,
+      "currencies": [
+        "CHF"
+      ]
+    },
+    {
+      "title": "USD/ZAR Creeps Higher: Why Are Traders Still Nervous? - Daily Forex",
+      "source": "Google News",
       "label": "bearish",
-      "score": -0.9458,
-      "currencies": []
+      "score": -0.5012,
+      "currencies": [
+        "USD"
+      ]
     },
     {
-      "title": "Icu medical director Elisha Finney sells $68,978 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Icu medical COO Christian Voigtlander sells $1.63m in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Lyft director Janey Whiteside sells $241,740 in Lyft shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Four crew, two rescuers killed in Red Sea attack; US strikes ship in Gulf of Oman",
-      "source": "Investing.com",
+      "title": "EUR/USD outlook undermined by crude oil resurgence - FOREX.com",
+      "source": "Google News",
       "label": "bearish",
-      "score": -0.913,
-      "currencies": []
+      "score": -0.9547,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
     },
     {
-      "title": "Oil prices continue climb on US-Iran deal doubts; stocks retreat",
+      "title": "Velocity financial executive VP Taylor sells $82,529 in shares",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8435,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "CoreWeave boosts 2026 spending plan, beats quarterly estimates on AI demand surge",
+      "title": "AGL FY26 slides: strong cash flow, battery growth offset lower volatility",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9262,
+      "score": 0.9566,
+      "currencies": []
+    },
+    {
+      "title": "Trump says his plane faced \u2019greater risk\u2019 in secret flight change",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Snowflake EVP Christian Kleinerman sells $9.75m in shares at $325",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Velocity Financial\u2019s CAO Fiona Tam sells $23,408 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Airbnb CEO Brian Chesky sells $35 million in ABNB stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "LandBridge Holdings director sells $93.8m of LB stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Snowflake director Michael Speiser sells $16.4m in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

@@ -23,22 +23,72 @@
         "score": 0.0
       },
       {
-        "title": "USD/ZAR Creeps Higher: Why Are Traders Still Nervous? - Daily Forex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.5012
-      },
-      {
         "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
+        "title": "USD/ZAR Creeps Higher: Why Are Traders Still Nervous? - Daily Forex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.5012
+      },
+      {
+        "title": "PBOC sets USD/ CNY mid-point today at 6.7882 (vs. estimate at 6.7430)",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7430 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD rises to near $65.40 with US inflation in focus",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9444
+      },
+      {
+        "title": "Canadian Dollar eases from two-month high as USD preserves weekly gains ahead of US CPI",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.4816
+      },
+      {
+        "title": "Japanese Yen slides to two-week low, seems vulnerable as USD stands firm ahead of US CPI",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9512
+      },
+      {
+        "title": "PBOC sets USD/CNY reference rate at 6.7882 vs. 6.7900 previous",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Euro consolidates below mid-1.1500s vs USD ahead of German HICP, US CPI",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.953
+      },
+      {
         "title": "GBP/JPY Price Forecast: Struggles at 50-day SMA with bulls near 215.50",
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.8928
+      }
+    ],
+    "USD/CHF": [
+      {
+        "title": "Swiss Foreign Currency Reserves Rise to CHF 768 Billion in July - CryptoRank",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.9353
       }
     ],
     "EUR/USD": [
