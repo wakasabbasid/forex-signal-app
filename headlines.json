@@ -1,21 +1,20 @@
 {
   "headlines": [
     {
-      "title": "GBP/USD Signal: Inverted Head and Shoulders Forms Ahead of US CPI Data - Daily Forex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7838,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
+    },
+    {
+      "title": "USD/ZAR Creeps Higher: Why Are Traders Still Nervous? - Daily Forex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5012,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
@@ -32,15 +31,6 @@
       "currencies": []
     },
     {
-      "title": "Best INR to USD Forex Rates: What the major banks are offering right now; SBI, HDFC, Axis Bank and more - TradingView",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
       "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -48,6 +38,15 @@
       "currencies": [
         "USD",
         "JPY"
+      ]
+    },
+    {
+      "title": "Best INR to USD Forex Rates: What the major banks are offering right now; SBI, HDFC, Axis Bank and more - TradingView",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
       ]
     },
     {
@@ -72,87 +71,83 @@
       "currencies": []
     },
     {
-      "title": "Swiss Foreign Currency Reserves Rise to CHF 768 Billion in July - CryptoRank",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9353,
-      "currencies": [
-        "CHF"
-      ]
-    },
-    {
-      "title": "USD/ZAR Creeps Higher: Why Are Traders Still Nervous? - Daily Forex",
+      "title": "Yen inches towards key level of 160 per US dollar as intervention concerns mount - businesstimes.com.sg",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.5012,
+      "score": -0.505,
+      "currencies": []
+    },
+    {
+      "title": "Yen erases half of intervention gains as traders test Japan and U.S. authorities - The Japan Times",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7911,
+      "currencies": []
+    },
+    {
+      "title": "GBP/USD Signal: Inverted Head and Shoulders Forms Ahead of US CPI Data - Daily Forex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7838,
       "currencies": [
+        "GBP",
         "USD"
       ]
     },
     {
-      "title": "EUR/USD outlook undermined by crude oil resurgence - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9547,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "Velocity financial executive VP Taylor sells $82,529 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "AGL FY26 slides: strong cash flow, battery growth offset lower volatility",
+      "title": "Sampo raises 2026 outlook after strong first-half results",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9566,
+      "score": 0.9384,
       "currencies": []
     },
     {
-      "title": "Trump says his plane faced \u2019greater risk\u2019 in secret flight change",
+      "title": "Malaysia Q2 growth likely accelerated to 5.8% on exports, resilient demand",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9515,
+      "currencies": []
+    },
+    {
+      "title": "K+S returns to profit as EBITDA beats estimates, 2026 guidance raised",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9512,
+      "currencies": []
+    },
+    {
+      "title": "Wall St futures steady with CPI data, Hormuz risks in focus",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.585,
+      "currencies": []
+    },
+    {
+      "title": "Dutch bank ABN Amro ups annual guidance after second-quarter beat",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Snowflake EVP Christian Kleinerman sells $9.75m in shares at $325",
+      "title": "G5 Entertainment reports Q2 revenue decline of 16% year-over-year",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9756,
       "currencies": []
     },
     {
-      "title": "Velocity Financial\u2019s CAO Fiona Tam sells $23,408 in shares",
+      "title": "Alma Media Q2 revenue rises 5% on digital business growth",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9491,
       "currencies": []
     },
     {
-      "title": "Airbnb CEO Brian Chesky sells $35 million in ABNB stock",
+      "title": "ABN Amro Q2 profit beats highest forecast as fee income jumps",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "LandBridge Holdings director sells $93.8m of LB stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Snowflake director Michael Speiser sells $16.4m in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.8832,
       "currencies": []
     }
   ],

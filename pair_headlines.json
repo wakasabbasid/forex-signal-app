@@ -1,26 +1,12 @@
 {
   "run_id": 1,
   "pairs": {
-    "GBP/USD": [
-      {
-        "title": "GBP/USD Signal: Inverted Head and Shoulders Forms Ahead of US CPI Data - Daily Forex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.7838
-      },
-      {
-        "title": "GBP/JPY Price Forecast: Struggles at 50-day SMA with bulls near 215.50",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8928
-      }
-    ],
     "USD/JPY": [
       {
-        "title": "Best INR to USD Forex Rates: What the major banks are offering right now; SBI, HDFC, Axis Bank and more - TradingView",
+        "title": "USD/ZAR Creeps Higher: Why Are Traders Still Nervous? - Daily Forex",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bearish",
+        "score": -0.5012
       },
       {
         "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
@@ -29,10 +15,10 @@
         "score": 0.0
       },
       {
-        "title": "USD/ZAR Creeps Higher: Why Are Traders Still Nervous? - Daily Forex",
+        "title": "Best INR to USD Forex Rates: What the major banks are offering right now; SBI, HDFC, Axis Bank and more - TradingView",
         "source": "Google News",
-        "label": "bearish",
-        "score": -0.5012
+        "label": "neutral",
+        "score": 0.0
       },
       {
         "title": "PBOC sets USD/ CNY mid-point today at 6.7882 (vs. estimate at 6.7430)",
@@ -45,6 +31,12 @@
         "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "EUR/JPY Price Forecast: Steadies near 184.00 amid neutral bias",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.7746
       },
       {
         "title": "Silver Price Forecast: XAG/USD rises to near $65.40 with US inflation in focus",
@@ -63,40 +55,22 @@
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.9512
-      },
-      {
-        "title": "PBOC sets USD/CNY reference rate at 6.7882 vs. 6.7900 previous",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Euro consolidates below mid-1.1500s vs USD ahead of German HICP, US CPI",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.953
-      },
-      {
-        "title": "GBP/JPY Price Forecast: Struggles at 50-day SMA with bulls near 215.50",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8928
       }
     ],
-    "USD/CHF": [
+    "GBP/USD": [
       {
-        "title": "Swiss Foreign Currency Reserves Rise to CHF 768 Billion in July - CryptoRank",
+        "title": "GBP/USD Signal: Inverted Head and Shoulders Forms Ahead of US CPI Data - Daily Forex",
         "source": "Google News",
-        "label": "bullish",
-        "score": 0.9353
+        "label": "bearish",
+        "score": -0.7838
       }
     ],
     "EUR/USD": [
       {
-        "title": "EUR/USD outlook undermined by crude oil resurgence - FOREX.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9547
+        "title": "EUR/JPY Price Forecast: Steadies near 184.00 amid neutral bias",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.7746
       }
     ]
   }
