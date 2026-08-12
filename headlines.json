@@ -1,10 +1,17 @@
 {
   "headlines": [
     {
-      "title": "GBP/USD Signal 12/08: Technicals Point to Upside Ahead - DailyForex",
+      "title": "StoneX, Operator of FOREX.com, Targets Brazil FX Market with Banco Travelex Deal - TradingView",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "GBP/USD Signal 12/08: Technicals Point to Upside Ahead - Daily Forex",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.5191,
+      "score": -0.558,
       "currencies": [
         "GBP",
         "USD"
@@ -25,7 +32,7 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
+      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - forex.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -35,10 +42,10 @@
       ]
     },
     {
-      "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn - asia.nikkei.com",
+      "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn - Nikkei Asia",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.879,
+      "score": 0.9301,
       "currencies": []
     },
     {
@@ -56,10 +63,10 @@
       "currencies": []
     },
     {
-      "title": "Forex inflows will lead to a liquidity windfall and a bond market spinoff - TradingView",
+      "title": "Dollar and major currencies hold tight ranges as traders await inflation verdict - Investing.com Nigeria",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9582,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -70,85 +77,76 @@
       "currencies": []
     },
     {
-      "title": "BTC/USD Signal: Remains in a Tight Range as Institutional Demand Wanes - DailyForex",
+      "title": "GBP/USD Signal: Inverted Head and Shoulders Forms Ahead of US CPI Data - Daily Forex",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9208,
+      "score": -0.7838,
       "currencies": [
+        "GBP",
         "USD"
       ]
     },
     {
-      "title": "Japan ready to take decisive action on forex, finance minister says - Reuters",
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "EUR/USD outlook undermined by crude oil resurgence - FOREX.com",
-      "source": "Google News",
+      "title": "ASUS Q2 2026 slides: record revenue, server sales double on AI demand",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.918,
+      "currencies": []
+    },
+    {
+      "title": "Prestige Consumer Healthcare at Canaccord Genuity: growth bets build",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Universal Display at Oppenheimer conference: oled growth still in view",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7226,
+      "currencies": []
+    },
+    {
+      "title": "Greece stocks lower at close of trade; Athens General Composite down 0.03%",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9547,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "Gujarat Fluorochemicals Q1 FY27 slides: strong growth, margins expand",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9539,
+      "score": -0.9692,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Maple Leaf Foods posts steady Q2 2026 results",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6844,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: T1 Energy Q2 2026 results show higher margins, steady stock",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9542,
-      "currencies": []
-    },
-    {
-      "title": "PureCycle, IPL Schoeller launch packaging with recycled resin",
+      "title": "Why is Western Digital stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Carvana prices $1.66 billion term loan to cut interest costs",
+      "title": "Earnings call transcript: Mount Logan Capital narrows loss in Q2 2026 as stock falls",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6712,
+      "label": "bearish",
+      "score": -0.9656,
       "currencies": []
     },
     {
-      "title": "Freenome receives FDA breakthrough designation for lung cancer test",
+      "title": "Shein\u2019s slowing growth tests investor appetite ahead of Hong Kong IPO",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.907,
+      "label": "bearish",
+      "score": -0.9561,
       "currencies": []
     },
     {
-      "title": "Aptiv at J.P. Morgan Automotive Conference: growth bets amid China strain",
+      "title": "Questerre Q2 2026 slides: Brazil profit record amid production woes",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Constellation Software posts Q2 2026 profit beat",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.8614,
       "currencies": []
     }
   ],

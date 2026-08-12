@@ -3,50 +3,30 @@
   "pairs": {
     "GBP/USD": [
       {
-        "title": "GBP/USD Signal 12/08: Technicals Point to Upside Ahead - DailyForex",
+        "title": "GBP/USD Signal 12/08: Technicals Point to Upside Ahead - Daily Forex",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.5191
+        "score": -0.558
+      },
+      {
+        "title": "GBP/USD Signal: Inverted Head and Shoulders Forms Ahead of US CPI Data - Daily Forex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.7838
       }
     ],
     "USD/JPY": [
       {
-        "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
+        "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - forex.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "BTC/USD Signal: Remains in a Tight Range as Institutional Demand Wanes - DailyForex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9208
       },
       {
         "title": "The USD moves lower after CPI data comes in as expected. What are traders watching technically? Find out here.",
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.576
-      },
-      {
-        "title": "USD/JPY stalls ahead of a key US CPI report; BoJ expected to raise rates in September",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.8071
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/USD outlook undermined by crude oil resurgence - FOREX.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9547
-      },
-      {
-        "title": "EUR/USD Price Forecast: Biding its time near 1.1550, awaiting US CPI numbers",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
       }
     ]
   }
