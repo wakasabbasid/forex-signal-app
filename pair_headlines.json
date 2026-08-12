@@ -13,6 +13,12 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.7838
+      },
+      {
+        "title": "GBP/JPY Price Forecast: 50-day SMA caps sideways trading",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8159
       }
     ],
     "USD/JPY": [
@@ -33,6 +39,12 @@
         "source": "ForexLive",
         "label": "bullish",
         "score": 0.7778
+      },
+      {
+        "title": "GBP/JPY Price Forecast: 50-day SMA caps sideways trading",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8159
       }
     ],
     "EUR/USD": [
@@ -41,12 +53,6 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "EUR/USD Price Forecast: Fading bullish momentum puts focus on 1.1500 support",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8663
       }
     ],
     "USD/CHF": [
