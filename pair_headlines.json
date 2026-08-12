@@ -17,10 +17,10 @@
         "score": 0.0
       },
       {
-        "title": "The USD moves lower after CPI data comes in as expected. What are traders watching technically? Find out here.",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.576
+        "title": "Charles Schwab stock reaches all-time high at 109.33 USD",
+        "source": "Investing.com",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "AUD/USD": [
@@ -29,6 +29,14 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.9648
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/USD Price Forecast: Fading bullish momentum puts focus on 1.1500 support",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8663
       }
     ]
   }

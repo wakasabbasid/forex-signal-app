@@ -56,17 +56,17 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar on pause ahead of US CPI - FXStreet",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5507,
-      "currencies": []
-    },
-    {
       "title": "Japan spent record \u00a56.28 tril in forex intervention on April 30 - Japan Today",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: US Dollar on pause ahead of US CPI - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5507,
       "currencies": []
     },
     {
@@ -94,59 +94,59 @@
       "currencies": []
     },
     {
-      "title": "Why is Air Canada stock surging today?",
+      "title": "Calix launches scam protection services for broadband providers",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "BofA to take 49.9% stake in Jio Credit for $1.9 billion in India push",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Basketball-Iger, Kushner purchasing Lakers for record $12.5 billion",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Brazil orders Discord to suspend livestreaming over child safety",
+      "title": "SEC files civil complaint against Netcapital and individuals",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8821,
+      "score": -0.7889,
       "currencies": []
     },
     {
-      "title": "Today\u2019s top trending stocks: gains of up to 28.3% on AI tailwinds and earnings beats",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.948,
-      "currencies": []
-    },
-    {
-      "title": "Euronext wheat rebounds as Ukraine hits Russian grain terminals",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8958,
-      "currencies": []
-    },
-    {
-      "title": "Canada weighs accepting US auto tariffs for lower rates on compliant vehicles",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.4815,
-      "currencies": []
-    },
-    {
-      "title": "TSX vs S&P 500 in 2026: performance, currency risk, and sector outlook",
+      "title": "Chevron names Uriel Oseguera as treasurer, effective November",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Constellium outlook raised to positive by Moody\u2019s on strong results",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.946,
+      "currencies": []
+    },
+    {
+      "title": "Moody\u2019s upgrades Rolls-Royce outlook on strong performance",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9483,
+      "currencies": []
+    },
+    {
+      "title": "Labcorp president & CEO Adam Schechter sells $1.5m in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Dollar gains, yen slips as US CPI meets expectations",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.833,
+      "currencies": []
+    },
+    {
+      "title": "Canadian bond yields ease as U.S. inflation data weighs on Fed",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9104,
       "currencies": []
     }
   ],
