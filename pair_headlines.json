@@ -7,12 +7,6 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.558
-      },
-      {
-        "title": "GBP/USD Signal: Inverted Head and Shoulders Forms Ahead of US CPI Data - Daily Forex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.7838
       }
     ],
     "USD/JPY": [
@@ -29,12 +23,12 @@
         "score": -0.576
       }
     ],
-    "USD/CHF": [
+    "AUD/USD": [
       {
-        "title": "Swiss Foreign Currency Reserves Rise to CHF 768 Billion in July - CryptoRank",
+        "title": "AUD/USD Signal 12/08: Rally Losing Momentum - Daily Forex",
         "source": "Google News",
-        "label": "bullish",
-        "score": 0.9353
+        "label": "bearish",
+        "score": -0.9648
       }
     ]
   }

@@ -8,16 +8,6 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Signal 12/08: Technicals Point to Upside Ahead - Daily Forex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.558,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -30,6 +20,16 @@
       "label": "bullish",
       "score": 0.9097,
       "currencies": []
+    },
+    {
+      "title": "GBP/USD Signal 12/08: Technicals Point to Upside Ahead - Daily Forex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.558,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
     },
     {
       "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
@@ -49,24 +49,17 @@
       "currencies": []
     },
     {
-      "title": "Intervention and higher rates might not be enough to stop yen from weakening - The Japan Times",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: US Dollar on pause ahead of US CPI - fxstreet.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Canadian Dollar Pauses Rally Ahead of US Inflation Data - TradingPedia",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: US Dollar on pause ahead of US CPI - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5507,
       "currencies": []
     },
     {
@@ -77,78 +70,83 @@
       "currencies": []
     },
     {
-      "title": "Swiss Foreign Currency Reserves Rise to CHF 768 Billion in July - CryptoRank",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9353,
-      "currencies": [
-        "CHF"
-      ]
-    },
-    {
-      "title": "GBP/USD Signal: Inverted Head and Shoulders Forms Ahead of US CPI Data - Daily Forex",
+      "title": "AUD/USD Signal 12/08: Rally Losing Momentum - Daily Forex",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.7838,
+      "score": -0.9648,
       "currencies": [
-        "GBP",
+        "AUD",
         "USD"
       ]
     },
     {
-      "title": "Earnings call transcript: Hyliion raises 2026 revenue view after Q2 beat",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5273,
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Presidio Production posts q2 2026 beat on EBITDA",
+      "title": "Forex inflows will lead to a liquidity windfall and a bond market spinoff - TradingView",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9582,
+      "currencies": []
+    },
+    {
+      "title": "Why is Air Canada stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Sound Point Meridian Q1 2027 slides: yield improves amid payout cut",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9354,
-      "currencies": []
-    },
-    {
-      "title": "BofA to invest $1.9 billion for 49.9% stake in Jio Financial NBFC unit",
+      "title": "BofA to take 49.9% stake in Jio Credit for $1.9 billion in India push",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Sound Point Meridian Q1 FY2027 slides: yield rises, payout cut looms",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8011,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Hemlo Mining misses Q2 2026 estimates, shares rise",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.4888,
-      "currencies": []
-    },
-    {
-      "title": "Freedom Broker upgrades Willis Lease Finance stock rating to buy",
+      "title": "Basketball-Iger, Kushner purchasing Lakers for record $12.5 billion",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "CoreWeave, Super Micro surge on signs of sustained AI buildout",
+      "title": "Brazil orders Discord to suspend livestreaming over child safety",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8821,
+      "currencies": []
+    },
+    {
+      "title": "Today\u2019s top trending stocks: gains of up to 28.3% on AI tailwinds and earnings beats",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9252,
+      "score": 0.948,
+      "currencies": []
+    },
+    {
+      "title": "Euronext wheat rebounds as Ukraine hits Russian grain terminals",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8958,
+      "currencies": []
+    },
+    {
+      "title": "Canada weighs accepting US auto tariffs for lower rates on compliant vehicles",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.4815,
+      "currencies": []
+    },
+    {
+      "title": "TSX vs S&P 500 in 2026: performance, currency risk, and sector outlook",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
