@@ -63,19 +63,12 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar on pause ahead of US CPI - FXStreet",
+      "title": "GBP/USD Signal: Inverted Head and Shoulders Forms Ahead of US CPI Data - Daily Forex",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.5507,
-      "currencies": []
-    },
-    {
-      "title": "AUD/USD Signal 12/08: Rally Losing Momentum - Daily Forex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9648,
+      "score": -0.7838,
       "currencies": [
-        "AUD",
+        "GBP",
         "USD"
       ]
     },
@@ -94,59 +87,71 @@
       "currencies": []
     },
     {
-      "title": "Calix launches scam protection services for broadband providers",
-      "source": "Investing.com",
+      "title": "EUR/USD, USD/JPY Forecast: Fed Hike Bets Ease, Yen Weakness Does Not - FOREX.com",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "EUR",
+        "USD",
+        "USD",
+        "JPY"
+      ]
     },
     {
-      "title": "SEC files civil complaint against Netcapital and individuals",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7889,
-      "currencies": []
-    },
-    {
-      "title": "Chevron names Uriel Oseguera as treasurer, effective November",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Constellium outlook raised to positive by Moody\u2019s on strong results",
+      "title": "Harmonic earnings beat by $0.12, revenue topped estimates",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.946,
+      "score": 0.9437,
       "currencies": []
     },
     {
-      "title": "Moody\u2019s upgrades Rolls-Royce outlook on strong performance",
+      "title": "Why is Cerebras Systems stock tumbling today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8179,
+      "currencies": []
+    },
+    {
+      "title": "American Airlines shakes up leadership as CEO faces pressure to close profit gap",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9475,
+      "currencies": []
+    },
+    {
+      "title": "Enersys earnings beat by $0.84, revenue topped estimates",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9483,
+      "score": 0.9449,
       "currencies": []
     },
     {
-      "title": "Labcorp president & CEO Adam Schechter sells $1.5m in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Dollar gains, yen slips as US CPI meets expectations",
+      "title": "Perma-Fix Inc earnings missed by $0.15, revenue fell short of estimates",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.833,
+      "score": -0.9735,
       "currencies": []
     },
     {
-      "title": "Canadian bond yields ease as U.S. inflation data weighs on Fed",
+      "title": "Usio earnings beat by $0.02, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9449,
+      "currencies": []
+    },
+    {
+      "title": "Virgin Galactic Holdings earnings beat by $0.15, revenue fell short of estimates",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9104,
+      "score": -0.799,
+      "currencies": []
+    },
+    {
+      "title": "Oil prices lower in seesaw trade as U.S. and Iran wrangle over Hormuz control",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9125,
       "currencies": []
     }
   ],
