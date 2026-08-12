@@ -17,16 +17,16 @@
         "score": 0.0
       },
       {
-        "title": "Best INR to USD Forex Rates: What the major banks are offering right now; SBI, HDFC, Axis Bank and more - TradingView",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
         "title": "BTC/USD Signal: Remains in a Tight Range as Institutional Demand Wanes - DailyForex",
         "source": "Google News",
         "label": "bearish",
         "score": -0.9208
+      },
+      {
+        "title": "The USD moves lower after CPI data comes in as expected. What are traders watching technically? Find out here.",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.576
       },
       {
         "title": "USD/JPY stalls ahead of a key US CPI report; BoJ expected to raise rates in September",
@@ -41,6 +41,12 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.9547
+      },
+      {
+        "title": "EUR/USD Price Forecast: Biding its time near 1.1550, awaiting US CPI numbers",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }

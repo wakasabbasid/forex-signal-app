@@ -35,17 +35,10 @@
       ]
     },
     {
-      "title": "Canadian Dollar Pauses Rally Ahead of US Inflation Data - TradingPedia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn - Nikkei Asia",
+      "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn - asia.nikkei.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9301,
+      "score": 0.879,
       "currencies": []
     },
     {
@@ -56,23 +49,21 @@
       "currencies": []
     },
     {
-      "title": "Best INR to USD Forex Rates: What the major banks are offering right now; SBI, HDFC, Axis Bank and more - TradingView",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Japan spent record \u00a56.28 tril in forex intervention on April 30 - Japan Today",
+      "title": "Canadian Dollar Pauses Rally Ahead of US Inflation Data - TradingPedia",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Market Threads \u2013 Rates, Risk and Breakouts Set the Next Major Market Move - FXCM Markets",
+      "title": "Forex inflows will lead to a liquidity windfall and a bond market spinoff - TradingView",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9582,
+      "currencies": []
+    },
+    {
+      "title": "Japan spent record \u00a56.28 tril in forex intervention on April 30 - Japan Today",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -88,6 +79,13 @@
       ]
     },
     {
+      "title": "Japan ready to take decisive action on forex, finance minister says - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "EUR/USD outlook undermined by crude oil resurgence - FOREX.com",
       "source": "Google News",
       "label": "bearish",
@@ -98,59 +96,59 @@
       ]
     },
     {
-      "title": "Morning Bid: Inflation obscures all",
+      "title": "Gujarat Fluorochemicals Q1 FY27 slides: strong growth, margins expand",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9539,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Maple Leaf Foods posts steady Q2 2026 results",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6844,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: T1 Energy Q2 2026 results show higher margins, steady stock",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9542,
+      "currencies": []
+    },
+    {
+      "title": "PureCycle, IPL Schoeller launch packaging with recycled resin",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "India July inflation accelerates to 4.45%, unlikely to alter RBI rate outlook",
+      "title": "Carvana prices $1.66 billion term loan to cut interest costs",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8855,
+      "score": 0.6712,
       "currencies": []
     },
     {
-      "title": "Lazard reports July assets under management of $286.9 billion",
+      "title": "Freenome receives FDA breakthrough designation for lung cancer test",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.907,
+      "currencies": []
+    },
+    {
+      "title": "Aptiv at J.P. Morgan Automotive Conference: growth bets amid China strain",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "T1 Energy stock rises 3% on beating revenue estimates",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9454,
-      "currencies": []
-    },
-    {
-      "title": "BNP Paribas upgrades Serco as UK political risk eases, defence outlook improves",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9206,
-      "currencies": []
-    },
-    {
-      "title": "China central bank pledges to maintain loose monetary policy",
+      "title": "Earnings call transcript: Constellation Software posts Q2 2026 profit beat",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Global-e shares surge 11% on earnings beat, raised outlook",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9432,
-      "currencies": []
-    },
-    {
-      "title": "Valens earnings matched, revenue fell short of estimates",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9561,
       "currencies": []
     }
   ],
