@@ -1,6 +1,26 @@
 {
   "run_id": 1,
   "pairs": {
+    "USD/JPY": [
+      {
+        "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "investingLive Americas FX news wrap 12 Aug: CPI as expected. USD reverses declines and closes higher",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.7778
+      },
+      {
+        "title": "GBP/JPY Price Forecast: 50-day SMA caps sideways trading",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8159
+      }
+    ],
     "GBP/USD": [
       {
         "title": "GBP/USD Signal 12/08: Technicals Point to Upside Ahead - Daily Forex",
@@ -19,48 +39,6 @@
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.8159
-      }
-    ],
-    "USD/JPY": [
-      {
-        "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "EUR/USD, USD/JPY Forecast: Fed Hike Bets Ease, Yen Weakness Does Not - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "investingLive Americas FX news wrap 12 Aug: CPI as expected. USD reverses declines and closes higher",
-        "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.7778
-      },
-      {
-        "title": "GBP/JPY Price Forecast: 50-day SMA caps sideways trading",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8159
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/USD, USD/JPY Forecast: Fed Hike Bets Ease, Yen Weakness Does Not - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "USD/CHF": [
-      {
-        "title": "USD/CHF Price Forecast: Bearish flag forms as bulls eye 0.8200",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.7099
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "StoneX, Operator of FOREX.com, Targets Brazil FX Market with Banco Travelex Deal - TradingView",
+      "title": "StoneX, Operator of FOREX.com, Targets Brazil FX Market with Banco Travelex Deal - tradingview.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -22,16 +22,6 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Signal 12/08: Technicals Point to Upside Ahead - Daily Forex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.558,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
       "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -39,6 +29,16 @@
       "currencies": [
         "USD",
         "JPY"
+      ]
+    },
+    {
+      "title": "GBP/USD Signal 12/08: Technicals Point to Upside Ahead - Daily Forex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.558,
+      "currencies": [
+        "GBP",
+        "USD"
       ]
     },
     {
@@ -53,6 +53,13 @@
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: US Dollar on pause ahead of US CPI - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5507,
       "currencies": []
     },
     {
@@ -80,75 +87,63 @@
       "currencies": []
     },
     {
-      "title": "Forex inflows will lead to a liquidity windfall and a bond market spinoff - TradingView",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9582,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD, USD/JPY Forecast: Fed Hike Bets Ease, Yen Weakness Does Not - FOREX.com",
+      "title": "Exchange rate | Foreign Exchange, Currency Fluctuations, Exchange Rates - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD",
-        "USD",
-        "JPY"
-      ]
-    },
-    {
-      "title": "Earnings call transcript: Linamar posts record Q2 2026 sales, shares edge higher",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.946,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: BitGo Q2 2026 revenue jumps 79.6% as losses persist",
+      "title": "BillionToOne CTO Tsao sells $928.6k in stock",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9236,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "StubHub Q2 2026 slides: GMS surges 34%, stock falls on outlook",
+      "title": "Global EV sales rise in July as Europe offsets weakness in China and North America",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9446,
+      "currencies": []
+    },
+    {
+      "title": "Senators press Rubio, Bessent on lack of counter-evasion sanctions on Russia",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9455,
+      "score": -0.6659,
       "currencies": []
     },
     {
-      "title": "Venezuela inflation surges to near 20% in July, central bank says",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9337,
-      "currencies": []
-    },
-    {
-      "title": "Resideo Q2 2026 slides: record results amid major business separation",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.824,
-      "currencies": []
-    },
-    {
-      "title": "Trump sued over service that offers paid early access to Truth Social posts",
+      "title": "Treasury Wine hurt by weak Americas business, posts 42% drop in annual profit",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6324,
+      "score": -0.9757,
       "currencies": []
     },
     {
-      "title": "Enovix Q2 2026 slides: multi-product ramp advances despite margin pressure",
+      "title": "ANZ says property tax changes hit mortgage demand, posts slightly higher profit",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9404,
+      "score": 0.7209,
       "currencies": []
     },
     {
-      "title": "Everpure CEO Giancarlo sells $6.9m in stock, $94-$102 share price",
+      "title": "Townsquare media CEO Bill Wilson sells $829,700 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Warner Bros. Discovery president sells $16m in WBD stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "California Resources EVP buys sells $642,978 of common stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
