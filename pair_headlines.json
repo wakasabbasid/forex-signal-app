@@ -1,13 +1,15 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/JPY": [
+    "EUR/USD": [
       {
-        "title": "USD/ZAR Creeps Higher: Why Are Traders Still Nervous? - Daily Forex",
+        "title": "EUR/USD Signal 12/08: Bullish Flag Forms Ahead US Reports - Daily Forex",
         "source": "Google News",
-        "label": "bearish",
-        "score": -0.5012
-      },
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "USD/JPY": [
       {
         "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
         "source": "Google News",
@@ -21,56 +23,40 @@
         "score": 0.0
       },
       {
-        "title": "PBOC sets USD/ CNY mid-point today at 6.7882 (vs. estimate at 6.7430)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7430 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Steadies near 184.00 amid neutral bias",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.7746
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD rises to near $65.40 with US inflation in focus",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9444
-      },
-      {
-        "title": "Canadian Dollar eases from two-month high as USD preserves weekly gains ahead of US CPI",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.4816
-      },
-      {
-        "title": "Japanese Yen slides to two-week low, seems vulnerable as USD stands firm ahead of US CPI",
-        "source": "FXStreet",
+        "title": "USD/ZAR Creeps Higher: Why Are Traders Still Nervous? - Daily Forex",
+        "source": "Google News",
         "label": "bearish",
-        "score": -0.9512
+        "score": -0.5012
+      },
+      {
+        "title": "Gold pares intraday gains as Fed hike bets and Iran risks support USD ahead of US CPI",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.6622
+      }
+    ],
+    "NZD/USD": [
+      {
+        "title": "NZD/USD Price Forecast: Nearing 0.5860 support area amid by risk-off markets, domestic politics",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "AUD/USD Price Forecast: Extends the range play near 0.7050; bulls await 50% Fibo. breakout",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.53
       }
     ],
     "GBP/USD": [
       {
-        "title": "GBP/USD Signal: Inverted Head and Shoulders Forms Ahead of US CPI Data - Daily Forex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.7838
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/JPY Price Forecast: Steadies near 184.00 amid neutral bias",
+        "title": "GBP/USD Price Forecast: Continues to remain flat ahead of US CPI data",
         "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.7746
+        "label": "bearish",
+        "score": -0.7565
       }
     ]
   }

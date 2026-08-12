@@ -8,11 +8,19 @@
       "currencies": []
     },
     {
-      "title": "USD/ZAR Creeps Higher: Why Are Traders Still Nervous? - Daily Forex",
+      "title": "Forex Today: US Dollar on pause ahead of US CPI - FXStreet",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.5012,
+      "score": -0.5507,
+      "currencies": []
+    },
+    {
+      "title": "EUR/USD Signal 12/08: Bullish Flag Forms Ahead US Reports - Daily Forex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
+        "EUR",
         "USD"
       ]
     },
@@ -21,13 +29,6 @@
       "source": "Google News",
       "label": "bullish",
       "score": 0.9097,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: US Dollar on pause ahead of US CPI - FXStreet",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5507,
       "currencies": []
     },
     {
@@ -41,6 +42,13 @@
       ]
     },
     {
+      "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn - Nikkei Asia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9301,
+      "currencies": []
+    },
+    {
       "title": "Best INR to USD Forex Rates: What the major banks are offering right now; SBI, HDFC, Axis Bank and more - TradingView",
       "source": "Google News",
       "label": "neutral",
@@ -50,10 +58,10 @@
       ]
     },
     {
-      "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn - Nikkei Asia",
+      "title": "Japan spent record \u00a56.28 tril in forex intervention on April 30 - Japan Today",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.9301,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -64,90 +72,82 @@
       "currencies": []
     },
     {
-      "title": "Japan spent record \u00a56.28 tril in forex intervention on April 30 - Japan Today",
+      "title": "Yen erases half of intervention gains as traders test Japan and U.S. authorities - japantimes.co.jp",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Yen inches towards key level of 160 per US dollar as intervention concerns mount - businesstimes.com.sg",
+      "title": "Yen inches towards key level of 160 per US dollar as intervention concerns mount - The Business Times",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.505,
+      "label": "bullish",
+      "score": 0.7296,
       "currencies": []
     },
     {
-      "title": "Yen erases half of intervention gains as traders test Japan and U.S. authorities - The Japan Times",
+      "title": "USD/ZAR Creeps Higher: Why Are Traders Still Nervous? - Daily Forex",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.7911,
-      "currencies": []
-    },
-    {
-      "title": "GBP/USD Signal: Inverted Head and Shoulders Forms Ahead of US CPI Data - Daily Forex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7838,
+      "score": -0.5012,
       "currencies": [
-        "GBP",
         "USD"
       ]
     },
     {
-      "title": "Sampo raises 2026 outlook after strong first-half results",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9384,
-      "currencies": []
-    },
-    {
-      "title": "Malaysia Q2 growth likely accelerated to 5.8% on exports, resilient demand",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9515,
-      "currencies": []
-    },
-    {
-      "title": "K+S returns to profit as EBITDA beats estimates, 2026 guidance raised",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9512,
-      "currencies": []
-    },
-    {
-      "title": "Wall St futures steady with CPI data, Hormuz risks in focus",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.585,
-      "currencies": []
-    },
-    {
-      "title": "Dutch bank ABN Amro ups annual guidance after second-quarter beat",
+      "title": "Clean energy and chip stocks rallied hard. The next rotation is already underway",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "G5 Entertainment reports Q2 revenue decline of 16% year-over-year",
+      "title": "Mizuho upgrades IDEX stock rating on portfolio shift, raises PT to $280",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.934,
+      "currencies": []
+    },
+    {
+      "title": "William Blair downgrades Cardiff Oncology stock rating on rights uncertainty",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9756,
+      "score": -0.6384,
       "currencies": []
     },
     {
-      "title": "Alma Media Q2 revenue rises 5% on digital business growth",
+      "title": "Copper wedged near $6.67 in tight range: Live levels",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9491,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "ABN Amro Q2 profit beats highest forecast as fee income jumps",
+      "title": "Why is Jenoptik stock surging today?",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8832,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin trapped below MAs at $63,767: Live levels",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Hang Seng tests HK$25,335 support after breakdown: Live levels",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "London Gas Oil wedged in Fib zone at $1,254: Live levels",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
