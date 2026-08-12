@@ -1,15 +1,13 @@
 {
   "run_id": 1,
   "pairs": {
-    "EUR/USD": [
-      {
-        "title": "EUR/USD Signal 12/08: Bullish Flag Forms Ahead US Reports - Daily Forex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
     "USD/JPY": [
+      {
+        "title": "BTC/USD Signal: Remains in a Tight Range as Institutional Demand Wanes - Daily Forex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.926
+      },
       {
         "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
         "source": "Google News",
@@ -23,40 +21,44 @@
         "score": 0.0
       },
       {
-        "title": "USD/ZAR Creeps Higher: Why Are Traders Still Nervous? - Daily Forex",
-        "source": "Google News",
+        "title": "USD/JPY stalls ahead of a key US CPI report; BoJ expected to raise rates in September",
+        "source": "ForexLive",
         "label": "bearish",
-        "score": -0.5012
+        "score": -0.8071
       },
       {
-        "title": "Gold pares intraday gains as Fed hike bets and Iran risks support USD ahead of US CPI",
+        "title": "British Pound holds steady above 1.3500 vs USD as traders eye US CPI ahead of UK GDP",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.6622
-      }
-    ],
-    "NZD/USD": [
+        "score": 0.6173
+      },
       {
-        "title": "NZD/USD Price Forecast: Nearing 0.5860 support area amid by risk-off markets, domestic politics",
+        "title": "Silver Price Forecasts: XAG/USD resumes its uptrend, with bulls aiming for $67.17",
         "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9319
+      },
+      {
+        "title": "JPY/USD: Why Yen Intervention by Japan and US Has Limited Impact",
+        "source": "Bloomberg",
         "label": "neutral",
         "score": 0.0
       }
     ],
-    "AUD/USD": [
-      {
-        "title": "AUD/USD Price Forecast: Extends the range play near 0.7050; bulls await 50% Fibo. breakout",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.53
-      }
-    ],
     "GBP/USD": [
       {
-        "title": "GBP/USD Price Forecast: Continues to remain flat ahead of US CPI data",
-        "source": "FXStreet",
+        "title": "GBP/USD Signal 12/08: Technicals Point to Upside Ahead - Daily Forex",
+        "source": "Google News",
         "label": "bearish",
-        "score": -0.7565
+        "score": -0.558
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/USD outlook undermined by crude oil resurgence - FOREX.com",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9547
       }
     ]
   }

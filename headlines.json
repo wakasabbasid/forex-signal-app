@@ -1,6 +1,15 @@
 {
   "headlines": [
     {
+      "title": "BTC/USD Signal: Remains in a Tight Range as Institutional Demand Wanes - Daily Forex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.926,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -8,27 +17,17 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar on pause ahead of US CPI - FXStreet",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5507,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD Signal 12/08: Bullish Flag Forms Ahead US Reports - Daily Forex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
       "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
       "source": "Google News",
       "label": "bullish",
       "score": 0.9097,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: US Dollar on pause ahead of US CPI - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5507,
       "currencies": []
     },
     {
@@ -40,6 +39,13 @@
         "USD",
         "JPY"
       ]
+    },
+    {
+      "title": "Canadian Dollar Pauses Rally Ahead of US Inflation Data - TradingPedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn - Nikkei Asia",
@@ -72,79 +78,76 @@
       "currencies": []
     },
     {
-      "title": "Yen erases half of intervention gains as traders test Japan and U.S. authorities - japantimes.co.jp",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Yen inches towards key level of 160 per US dollar as intervention concerns mount - The Business Times",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7296,
-      "currencies": []
-    },
-    {
-      "title": "USD/ZAR Creeps Higher: Why Are Traders Still Nervous? - Daily Forex",
+      "title": "GBP/USD Signal 12/08: Technicals Point to Upside Ahead - Daily Forex",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.5012,
+      "score": -0.558,
       "currencies": [
+        "GBP",
         "USD"
       ]
     },
     {
-      "title": "Clean energy and chip stocks rallied hard. The next rotation is already underway",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
+      "title": "EUR/USD outlook undermined by crude oil resurgence - FOREX.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9547,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
     },
     {
-      "title": "Mizuho upgrades IDEX stock rating on portfolio shift, raises PT to $280",
+      "title": "Earnings call transcript: Scandinavian Astor Group posts record Q2 2026 sales",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.934,
+      "score": 0.704,
       "currencies": []
     },
     {
-      "title": "William Blair downgrades Cardiff Oncology stock rating on rights uncertainty",
+      "title": "Earnings call transcript: Balfour Beatty lifts H1 2026 profit and guidance",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7477,
+      "currencies": []
+    },
+    {
+      "title": "Ferronordic Q2 2026 slides: profit swing driven by US surge",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6384,
+      "score": -0.6401,
       "currencies": []
     },
     {
-      "title": "Copper wedged near $6.67 in tight range: Live levels",
+      "title": "Citi sees Bank of Korea rate hike on inflation concerns",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5215,
+      "currencies": []
+    },
+    {
+      "title": "Gift Nifty 50 breaks below cloud, tests 200 SMA: Live levels",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is Jenoptik stock surging today?",
+      "title": "Ferronordic Q2 2026 slides: profit surge on US infrastructure boom",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5801,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Grand City Properties backs 2026 outlook after H1 gains",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Bitcoin trapped below MAs at $63,767: Live levels",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Hang Seng tests HK$25,335 support after breakdown: Live levels",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "London Gas Oil wedged in Fib zone at $1,254: Live levels",
+      "title": "Seacor Marine EVP & CFO Llorca sells $129,797 in stock.",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
