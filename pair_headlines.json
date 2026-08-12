@@ -27,6 +27,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "investingLive Americas FX news wrap 12 Aug: CPI as expected. USD reverses declines and closes higher",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.7778
       }
     ],
     "EUR/USD": [
