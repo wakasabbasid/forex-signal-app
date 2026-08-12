@@ -32,7 +32,7 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - forex.com",
+      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -49,21 +49,21 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar on pause ahead of US CPI - FXStreet",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5507,
-      "currencies": []
-    },
-    {
-      "title": "Canadian Dollar Pauses Rally Ahead of US Inflation Data - TradingPedia",
+      "title": "Intervention and higher rates might not be enough to stop yen from weakening - The Japan Times",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Dollar and major currencies hold tight ranges as traders await inflation verdict - Investing.com Nigeria",
+      "title": "Forex Today: US Dollar on pause ahead of US CPI - fxstreet.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Canadian Dollar Pauses Rally Ahead of US Inflation Data - TradingPedia",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -77,6 +77,15 @@
       "currencies": []
     },
     {
+      "title": "Swiss Foreign Currency Reserves Rise to CHF 768 Billion in July - CryptoRank",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9353,
+      "currencies": [
+        "CHF"
+      ]
+    },
+    {
       "title": "GBP/USD Signal: Inverted Head and Shoulders Forms Ahead of US CPI Data - Daily Forex",
       "source": "Google News",
       "label": "bearish",
@@ -87,66 +96,59 @@
       ]
     },
     {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "ASUS Q2 2026 slides: record revenue, server sales double on AI demand",
+      "title": "Earnings call transcript: Hyliion raises 2026 revenue view after Q2 beat",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.918,
+      "score": 0.5273,
       "currencies": []
     },
     {
-      "title": "Prestige Consumer Healthcare at Canaccord Genuity: growth bets build",
+      "title": "Earnings call transcript: Presidio Production posts q2 2026 beat on EBITDA",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Universal Display at Oppenheimer conference: oled growth still in view",
+      "title": "Sound Point Meridian Q1 2027 slides: yield improves amid payout cut",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7226,
+      "score": 0.9354,
       "currencies": []
     },
     {
-      "title": "Greece stocks lower at close of trade; Athens General Composite down 0.03%",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9692,
-      "currencies": []
-    },
-    {
-      "title": "Why is Western Digital stock surging today?",
+      "title": "BofA to invest $1.9 billion for 49.9% stake in Jio Financial NBFC unit",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Mount Logan Capital narrows loss in Q2 2026 as stock falls",
+      "title": "Sound Point Meridian Q1 FY2027 slides: yield rises, payout cut looms",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9656,
+      "label": "bullish",
+      "score": 0.8011,
       "currencies": []
     },
     {
-      "title": "Shein\u2019s slowing growth tests investor appetite ahead of Hong Kong IPO",
+      "title": "Earnings call transcript: Hemlo Mining misses Q2 2026 estimates, shares rise",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9561,
+      "label": "bullish",
+      "score": 0.4888,
       "currencies": []
     },
     {
-      "title": "Questerre Q2 2026 slides: Brazil profit record amid production woes",
+      "title": "Freedom Broker upgrades Willis Lease Finance stock rating to buy",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8614,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "CoreWeave, Super Micro surge on signs of sustained AI buildout",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9252,
       "currencies": []
     }
   ],
