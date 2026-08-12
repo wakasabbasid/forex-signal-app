@@ -1,13 +1,15 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/JPY": [
+    "GBP/USD": [
       {
-        "title": "BTC/USD Signal: Remains in a Tight Range as Institutional Demand Wanes - Daily Forex",
+        "title": "GBP/USD Signal 12/08: Technicals Point to Upside Ahead - DailyForex",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.926
-      },
+        "score": -0.5191
+      }
+    ],
+    "USD/JPY": [
       {
         "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
         "source": "Google News",
@@ -21,36 +23,16 @@
         "score": 0.0
       },
       {
+        "title": "BTC/USD Signal: Remains in a Tight Range as Institutional Demand Wanes - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9208
+      },
+      {
         "title": "USD/JPY stalls ahead of a key US CPI report; BoJ expected to raise rates in September",
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.8071
-      },
-      {
-        "title": "British Pound holds steady above 1.3500 vs USD as traders eye US CPI ahead of UK GDP",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.6173
-      },
-      {
-        "title": "Silver Price Forecasts: XAG/USD resumes its uptrend, with bulls aiming for $67.17",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9319
-      },
-      {
-        "title": "JPY/USD: Why Yen Intervention by Japan and US Has Limited Impact",
-        "source": "Bloomberg",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "GBP/USD Signal 12/08: Technicals Point to Upside Ahead - Daily Forex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.558
       }
     ],
     "EUR/USD": [

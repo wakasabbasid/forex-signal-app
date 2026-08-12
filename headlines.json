@@ -1,11 +1,12 @@
 {
   "headlines": [
     {
-      "title": "BTC/USD Signal: Remains in a Tight Range as Institutional Demand Wanes - Daily Forex",
+      "title": "GBP/USD Signal 12/08: Technicals Point to Upside Ahead - DailyForex",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.926,
+      "score": -0.5191,
       "currencies": [
+        "GBP",
         "USD"
       ]
     },
@@ -21,13 +22,6 @@
       "source": "Google News",
       "label": "bullish",
       "score": 0.9097,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: US Dollar on pause ahead of US CPI - FXStreet",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5507,
       "currencies": []
     },
     {
@@ -55,6 +49,13 @@
       "currencies": []
     },
     {
+      "title": "Forex Today: US Dollar on pause ahead of US CPI - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5507,
+      "currencies": []
+    },
+    {
       "title": "Best INR to USD Forex Rates: What the major banks are offering right now; SBI, HDFC, Axis Bank and more - TradingView",
       "source": "Google News",
       "label": "neutral",
@@ -71,19 +72,18 @@
       "currencies": []
     },
     {
-      "title": "FOREX-Dollar drifts as markets await US inflation data for Fed clues - Metrobank Wealth Insights",
+      "title": "Market Threads \u2013 Rates, Risk and Breakouts Set the Next Major Market Move - FXCM Markets",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.7206,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "GBP/USD Signal 12/08: Technicals Point to Upside Ahead - Daily Forex",
+      "title": "BTC/USD Signal: Remains in a Tight Range as Institutional Demand Wanes - DailyForex",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.558,
+      "score": -0.9208,
       "currencies": [
-        "GBP",
         "USD"
       ]
     },
@@ -98,59 +98,59 @@
       ]
     },
     {
-      "title": "Earnings call transcript: Scandinavian Astor Group posts record Q2 2026 sales",
+      "title": "Morning Bid: Inflation obscures all",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.704,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Balfour Beatty lifts H1 2026 profit and guidance",
+      "title": "India July inflation accelerates to 4.45%, unlikely to alter RBI rate outlook",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7477,
+      "score": 0.8855,
       "currencies": []
     },
     {
-      "title": "Ferronordic Q2 2026 slides: profit swing driven by US surge",
+      "title": "Lazard reports July assets under management of $286.9 billion",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "T1 Energy stock rises 3% on beating revenue estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9454,
+      "currencies": []
+    },
+    {
+      "title": "BNP Paribas upgrades Serco as UK political risk eases, defence outlook improves",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9206,
+      "currencies": []
+    },
+    {
+      "title": "China central bank pledges to maintain loose monetary policy",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Global-e shares surge 11% on earnings beat, raised outlook",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9432,
+      "currencies": []
+    },
+    {
+      "title": "Valens earnings matched, revenue fell short of estimates",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6401,
-      "currencies": []
-    },
-    {
-      "title": "Citi sees Bank of Korea rate hike on inflation concerns",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5215,
-      "currencies": []
-    },
-    {
-      "title": "Gift Nifty 50 breaks below cloud, tests 200 SMA: Live levels",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Ferronordic Q2 2026 slides: profit surge on US infrastructure boom",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5801,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Grand City Properties backs 2026 outlook after H1 gains",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Seacor Marine EVP & CFO Llorca sells $129,797 in stock.",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "score": -0.9561,
       "currencies": []
     }
   ],
