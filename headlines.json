@@ -1,154 +1,143 @@
 {
   "headlines": [
     {
-      "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
-      "source": "Google News",
+      "title": "Mink Brook Asset Management buys $4,612 in DLH Holdings stock",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Digital forex adoption rises as Indian travellers shift towards cards and self-service - ET TravelWorld",
-      "source": "Google News",
+      "title": "Septerna president & COO Elizabeth Bhatt disposes of $1.1m in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Nu Q2\u201926 slides: profit tops $1B, risk-adjusted margin hits 12.4%",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8461,
+      "score": 0.8663,
       "currencies": []
     },
     {
-      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9097,
-      "currencies": []
-    },
-    {
-      "title": "US Dollar-yuan becomes Hong Kong's most-traded currency pair for first time - Forex Factory",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5839,
-      "currencies": []
-    },
-    {
-      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
-      "title": "Forex Market Forecast \u2013 Euro, Pound, and Yen Test Support as US Yields Drift - Yahoo Finance",
-      "source": "Google News",
+      "title": "Why is Reddit stock surging in aftermarket trade today?",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "StoneX, Operator of FOREX.com, Targets Brazil FX Market with Banco Travelex Deal - TradingView",
-      "source": "Google News",
+      "title": "EverCommerce CEO Eric Remer sells $667,379 of EVCM shares",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar stabilizes ahead of next batch of US data - Mitrade",
-      "source": "Google News",
+      "title": "Trupanion CEO Margaret Tooth sells $28,410 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: CXAI posts mixed Q2 2026 results as stock swings",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5253,
+      "score": -0.9668,
       "currencies": []
     },
     {
-      "title": "Why USD/JPY Is Back Near 160 Despite a $53 Billion Currency Intervention - EBC Financial Group",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5434,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
-      "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - DailyForex",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5979,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "US dollar-yuan becomes Hong Kong's most-traded currency pair for first time - Forex Factory",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5839,
-      "currencies": []
-    },
-    {
-      "title": "Idex SVP Lisa Anderson sells $91,859 in company stock",
+      "title": "Snap-on CFO Aldo Pagliari sells $2.2m in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Alpha Tech CEO Michael Logozzo sells $2,463 in company stock",
+      "title": "Waystar CEO Matthew Hawkins sells $2.06m in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Soluna Q2 2026 slides: revenue surges 145% amid AI pivot",
+      "title": "Earnings call transcript: Nubank tops $1 billion in Q2 2026 net income",
       "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "OpenAI's annualized revenue run rate has surpassed $40 billion says a Bloomberg report",
+      "source": "ForexLive",
       "label": "bullish",
-      "score": 0.8731,
+      "score": 0.8554,
       "currencies": []
     },
     {
-      "title": "dLocal Q2 2026 slides: TPV surges 92%, guidance raised on broad growth",
-      "source": "Investing.com",
+      "title": "ICYMI - Barkin says rate path unclear as sticky inflation meets resilient economy",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.4449,
+      "currencies": []
+    },
+    {
+      "title": "NZ manufacturing growth cools to 54.3 in July after June's surge",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.9602,
+      "currencies": []
+    },
+    {
+      "title": "Fed's Goolsbee says inflation data improving, hopes tariff effects fade",
+      "source": "ForexLive",
       "label": "bullish",
-      "score": 0.9417,
+      "score": 0.9394,
       "currencies": []
     },
     {
-      "title": "Soluna Q2 2026 slides: 145% revenue surge masks profitability pressure",
-      "source": "Investing.com",
+      "title": "Reddit to join S&P 500 index, Shares have jumped higher in after hours trade.",
+      "source": "ForexLive",
       "label": "bullish",
-      "score": 0.9465,
+      "score": 0.9431,
       "currencies": []
     },
     {
-      "title": "Valvoline prices $600 million senior notes offering at 6.125%",
-      "source": "Investing.com",
+      "title": "ICYMI - Hawkish Fed's Hammack says acting now on inflation is really critical",
+      "source": "ForexLive",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Realpha Tech executive chairman Giri Devanur sells $3,073 stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "title": "Oil settles down circa 2% on weak demand outlook and hefty US crude build",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.9713,
       "currencies": []
     },
     {
-      "title": "C3.ai CEO Thomas Siebel sells $4.76m company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "title": "SEC abruptly pulls Friday crypto rules meeting, cites scheduling issue",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.8594,
+      "currencies": []
+    },
+    {
+      "title": "Fitch affirms US at AA+, keeps outlook stable amid growth slowdown",
+      "source": "ForexLive",
+      "label": "bullish",
+      "score": 0.8583,
+      "currencies": []
+    },
+    {
+      "title": "UAE's Adnoc says two of its vessels attacked in Hormuz",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.8804,
       "currencies": []
     }
   ],
