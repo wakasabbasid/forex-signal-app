@@ -18,10 +18,10 @@
       "currencies": []
     },
     {
-      "title": "Digital forex adoption rises as Indian travellers shift towards cards and self-service - travel.economictimes.indiatimes.com",
+      "title": "Digital forex adoption rises as Indian travellers shift towards cards and self-service - ET TravelWorld",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.4791,
+      "score": 0.8461,
       "currencies": []
     },
     {
@@ -39,13 +39,6 @@
       "currencies": []
     },
     {
-      "title": "Forex Focus - tastylive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -56,7 +49,14 @@
       ]
     },
     {
-      "title": "Netdania Adds Fenics FX Options Data Across 400+ Currency Pairs - financemagnates.com",
+      "title": "Forex Focus - tastylive",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Market Forecast \u2013 Euro, Pound, and Yen Test Support as US Yields Drift - Yahoo Finance",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -73,14 +73,14 @@
       ]
     },
     {
-      "title": "Forex Market Forecast \u2013 Euro, Pound, and Yen Test Support as US Yields Drift - Yahoo Finance",
+      "title": "StoneX, Operator of FOREX.com, Targets Brazil FX Market with Banco Travelex Deal - TradingView",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "StoneX, Operator of FOREX.com, Targets Brazil FX Market with Banco Travelex Deal - TradingView",
+      "title": "Netdania Adds Fenics FX Options Data Across 400+ Currency Pairs - Finance Magnates",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -94,59 +94,59 @@
       "currencies": []
     },
     {
-      "title": "Zealand Pharma Q2 2026 slides: petrelintide advances, cash strong",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8688,
-      "currencies": []
-    },
-    {
-      "title": "Beyond Air earnings missed by $0.10, revenue fell short of estimates",
+      "title": "Luigi Mangione expected to plead guilty in federal case over insurance CEO killing, NYT reports",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9634,
+      "score": -0.8074,
       "currencies": []
     },
     {
-      "title": "Kuros H1 2026 slides: 45% growth drives first profitable half-year",
+      "title": "AI firm Databricks valued at $190 billion as it bags $5 billion in funding",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "GEE Group Q3 2026 slides: margins expand despite revenue decline",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9213,
+      "score": 0.9402,
       "currencies": []
     },
     {
-      "title": "Abeona Therapeutics earnings missed by $0.13, revenue fell short of estimates",
+      "title": "FingerMotion to acquire 9.9% stake in Lyken AI Computing",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Sweden stocks lower at close of trade; OMX Stockholm 30 down 0.30%",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9716,
+      "score": -0.9666,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Sucro posts Q2 2026 margin gains as revenue falls",
+      "title": "Earnings call transcript: Pan American Silver Q2 2026 misses profit estimates as shares fall",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9275,
+      "currencies": []
+    },
+    {
+      "title": "CK Hutchison H1 2026 slides: UK asset sales drive earnings surge",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.945,
+      "score": 0.5166,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Bridgemarq beats Q2 2026 forecasts as stock rises",
+      "title": "Finland stocks higher at close of trade; OMX Helsinki 25 up 0.66%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8274,
-      "currencies": []
-    },
-    {
-      "title": "Creative Realities earnings missed by $0.12, revenue fell short of estimates",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.973,
-      "currencies": []
-    },
-    {
-      "title": "US producer prices unchanged in July; labor market stable",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.578,
+      "score": 0.9422,
       "currencies": []
     }
   ],
