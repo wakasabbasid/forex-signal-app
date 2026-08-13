@@ -1,15 +1,13 @@
 {
   "run_id": 1,
   "pairs": {
-    "EUR/USD": [
-      {
-        "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - dailyforex.com",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.4806
-      }
-    ],
     "USD/JPY": [
+      {
+        "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
       {
         "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
         "source": "Google News",
@@ -23,10 +21,38 @@
         "score": 0.5434
       },
       {
-        "title": "Astronics Corporation stock hits all-time high at 92.78 USD",
+        "title": "Omnicom Group stock hits 52-week high at 87.42 USD",
         "source": "Investing.com",
         "label": "bullish",
-        "score": 0.5364
+        "score": 0.8126
+      },
+      {
+        "title": "Ringcentral stock hits 52-week high at 65.0 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.793
+      },
+      {
+        "title": "Silver Price Forecast: Momentum cools as XAG/USD consolidates above 50-day SMA",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.6084
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - DailyForex",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.5979
+      }
+    ],
+    "USD/CHF": [
+      {
+        "title": "USD/CHF Price Forecast: Bearish flag keeps 0.8145 in focus",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.6267
       }
     ]
   }

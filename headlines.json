@@ -1,12 +1,11 @@
 {
   "headlines": [
     {
-      "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - dailyforex.com",
+      "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - DailyForex",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.4806,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
-        "EUR",
         "USD"
       ]
     },
@@ -49,13 +48,6 @@
       "currencies": []
     },
     {
-      "title": "Forex Focus - tastylive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Forex Market Forecast \u2013 Euro, Pound, and Yen Test Support as US Yields Drift - Yahoo Finance",
       "source": "Google News",
       "label": "neutral",
@@ -63,17 +55,10 @@
       "currencies": []
     },
     {
-      "title": "StoneX, Operator of FOREX.com, Targets Brazil FX Market with Banco Travelex Deal - tradingview.com",
+      "title": "StoneX, Operator of FOREX.com, Targets Brazil FX Market with Banco Travelex Deal - TradingView",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: US Dollar stabilizes ahead of next batch of US data - Mitrade",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5253,
       "currencies": []
     },
     {
@@ -87,6 +72,13 @@
       ]
     },
     {
+      "title": "Forex Today: US Dollar stabilizes ahead of next batch of US data - Mitrade",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5253,
+      "currencies": []
+    },
+    {
       "title": "Netdania Adds Fenics FX Options Data Across 400+ Currency Pairs - Finance Magnates",
       "source": "Google News",
       "label": "neutral",
@@ -94,60 +86,74 @@
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Global Water beats Q2 2026 forecasts, shares jump 10%",
+      "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - DailyForex",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5979,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "Omnicom Group stock hits 52-week high at 87.42 USD",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.929,
+      "score": 0.8126,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Top trending stocks today: ARX, OMER, TMS lead the market movers",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Lawsuit against Bristol Myers over delayed cancer drug is revived",
+      "title": "Banrisul Q2 2026 slides: profit rebounds but guidance cut on credit risks",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8493,
+      "score": -0.7295,
       "currencies": []
     },
     {
-      "title": "Calix launches grid monitoring solution for utilities",
+      "title": "Workday stock surges on Silver Lake buyout talks report",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.702,
+      "currencies": []
+    },
+    {
+      "title": "World Acceptance SVP Jason Childers sells $381,480 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is Accelerant Holdings stock surging today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Bullish technicals: strong daily signal but rough long-term chart",
+      "title": "Zoetis gets US FDA emergency use nod for treatment for screwworm in dogs",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5639,
+      "score": 0.7277,
       "currencies": []
     },
     {
-      "title": "AI firm Databricks valued at $190 billion as it bags $5 billion in funding",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Anthropic CFO holding pre-IPO, valuation not discussed - report",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Exclusive-Detroit automakers fear North American trade deal revamp could cost them billions",
+      "title": "Earnings call transcript: Banrisul posts Q2 2026 profit rebound, shares slip",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9664,
+      "score": -0.494,
       "currencies": []
+    },
+    {
+      "title": "Ringcentral stock hits 52-week high at 65.0 USD",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.793,
+      "currencies": [
+        "USD"
+      ]
     }
   ],
   "run_id": 1
