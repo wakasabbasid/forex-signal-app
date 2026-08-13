@@ -9,25 +9,25 @@
         "score": 0.0
       },
       {
-        "title": "investingLive Americas FX news wrap 12 Aug: CPI as expected. USD reverses declines and closes higher",
+        "title": "PBOC sets USD/ CNY reference rate for today at 6.7888 (vs. estimate at 6.7470 )",
         "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.7778
+        "label": "neutral",
+        "score": 0.0
       },
       {
-        "title": "GBP/JPY Price Forecast: 50-day SMA caps sideways trading",
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7470 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC sets USD/CNY reference rate at 6.7888 vs. 6.7882 previous",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8159
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "GBP/USD": [
-      {
-        "title": "GBP/USD Signal 12/08: Technicals Point to Upside Ahead - Daily Forex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.558
-      },
       {
         "title": "GBP/USD Signal: Inverted Head and Shoulders Forms Ahead of US CPI Data - Daily Forex",
         "source": "Google News",
@@ -35,10 +35,24 @@
         "score": -0.7838
       },
       {
-        "title": "GBP/JPY Price Forecast: 50-day SMA caps sideways trading",
-        "source": "FXStreet",
+        "title": "GBP/USD Signal 12/08: Technicals Point to Upside Ahead - Daily Forex",
+        "source": "Google News",
         "label": "bearish",
-        "score": -0.8159
+        "score": -0.558
+      }
+    ],
+    "NZD/USD": [
+      {
+        "title": "NZD/USD Forecast: RBNZ Survey Threatens to Break the Calm - FOREX.com",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.859
+      },
+      {
+        "title": "NZD drips lower still on RBNZ inflation expectations survey drop from prior",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.9299
       }
     ]
   }

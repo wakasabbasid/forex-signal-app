@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "StoneX, Operator of FOREX.com, Targets Brazil FX Market with Banco Travelex Deal - tradingview.com",
+      "title": "StoneX, Operator of FOREX.com, Targets Brazil FX Market with Banco Travelex Deal - TradingView",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -32,16 +32,6 @@
       ]
     },
     {
-      "title": "GBP/USD Signal 12/08: Technicals Point to Upside Ahead - Daily Forex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.558,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
       "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn - Nikkei Asia",
       "source": "Google News",
       "label": "bullish",
@@ -49,11 +39,14 @@
       "currencies": []
     },
     {
-      "title": "Canadian Dollar Pauses Rally Ahead of US Inflation Data - TradingPedia",
+      "title": "GBP/USD Signal: Inverted Head and Shoulders Forms Ahead of US CPI Data - Daily Forex",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
+      "label": "bearish",
+      "score": -0.7838,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
     },
     {
       "title": "Forex Today: US Dollar on pause ahead of US CPI - FXStreet",
@@ -70,12 +63,12 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Signal: Inverted Head and Shoulders Forms Ahead of US CPI Data - Daily Forex",
+      "title": "NZD/USD Forecast: RBNZ Survey Threatens to Break the Calm - FOREX.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.7838,
+      "score": -0.859,
       "currencies": [
-        "GBP",
+        "NZD",
         "USD"
       ]
     },
@@ -87,6 +80,16 @@
       "currencies": []
     },
     {
+      "title": "GBP/USD Signal 12/08: Technicals Point to Upside Ahead - Daily Forex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.558,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
       "title": "Exchange rate | Foreign Exchange, Currency Fluctuations, Exchange Rates - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -94,59 +97,59 @@
       "currencies": []
     },
     {
-      "title": "BillionToOne CTO Tsao sells $928.6k in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Global EV sales rise in July as Europe offsets weakness in China and North America",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9446,
-      "currencies": []
-    },
-    {
-      "title": "Senators press Rubio, Bessent on lack of counter-evasion sanctions on Russia",
+      "title": "Oil prices drop 1% as weak demand outlook offsets supply uncertainty",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6659,
+      "score": -0.9698,
       "currencies": []
     },
     {
-      "title": "Treasury Wine hurt by weak Americas business, posts 42% drop in annual profit",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9757,
-      "currencies": []
-    },
-    {
-      "title": "ANZ says property tax changes hit mortgage demand, posts slightly higher profit",
+      "title": "South Korea unveils package to boost housing supply, support young buyers",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7209,
+      "score": 0.9242,
       "currencies": []
     },
     {
-      "title": "Townsquare media CEO Bill Wilson sells $829,700 in stock",
+      "title": "Origin Energy profit beats estimates as battery growth lifts energy markets view",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9267,
+      "currencies": []
+    },
+    {
+      "title": "Anthropic in talks to buy AI startup Decart for about $6 bln - Bloomberg",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Warner Bros. Discovery president sells $16m in WBD stock",
+      "title": "Hepion Pharmaceuticals interim CEO Gary Stetz buys $100,000 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "California Resources EVP buys sells $642,978 of common stock",
+      "title": "Hepion Pharmaceuticals director Stetz buys $25,000 in common stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why is Telstra stock sliding today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9266,
+      "currencies": []
+    },
+    {
+      "title": "Telstra FY profit rises slightly, announces $706 mln buyback",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8982,
       "currencies": []
     }
   ],
