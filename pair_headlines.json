@@ -1,13 +1,15 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/JPY": [
+    "EUR/USD": [
       {
-        "title": "BTC/USD Signal 13/08: Bitcoin Price Pressured - Daily Forex",
+        "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - Daily Forex",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
+        "label": "bullish",
+        "score": 0.5264
+      }
+    ],
+    "USD/JPY": [
       {
         "title": "Why USD/JPY Is Back Near 160 Despite a $53 Billion Currency Intervention - EBC Financial Group",
         "source": "Google News",
@@ -21,52 +23,16 @@
         "score": 0.0
       },
       {
+        "title": "USD/JPY Price Forecast: Capped below the 50% retracement of July\u2019s plunge, at 159.50",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9324
+      },
+      {
         "title": "Japanese Yen: BoJ hike expectations support JPY against US Dollar - MUFG",
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.8342
-      },
-      {
-        "title": "Euro bounces off one-week low, holds above 1.1500 vs USD as traders look to US PPI",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.6517
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "AUD/USD Signal 13/08: Rally Loses Momentum - Daily Forex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9608
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "Axactor Q2 2026 slides: EUR 320m revaluation, balance sheet rebuilt",
-        "source": "Investing.com",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Axactor Q2 2026 slides: EUR 215m equity raise offsets revaluation hit",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.87
-      }
-    ],
-    "NZD/USD": [
-      {
-        "title": "NZD drips lower still on RBNZ inflation expectations survey drop from prior",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.9299
-      },
-      {
-        "title": "NZD/USD Price Forecast: Cooling NZ inflation expectations push Kiwi under pressure",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9319
       }
     ]
   }

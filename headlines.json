@@ -1,6 +1,16 @@
 {
   "headlines": [
     {
+      "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - Daily Forex",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5264,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -8,13 +18,11 @@
       "currencies": []
     },
     {
-      "title": "BTC/USD Signal 13/08: Bitcoin Price Pressured - Daily Forex",
+      "title": "Digital forex adoption rises as Indian travellers shift towards cards and self-service - ET TravelWorld",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
+      "label": "bullish",
+      "score": 0.8461,
+      "currencies": []
     },
     {
       "title": "Forex Focus - tastylive",
@@ -41,7 +49,14 @@
       ]
     },
     {
-      "title": "StoneX, Operator of FOREX.com, Targets Brazil FX Market with Banco Travelex Deal - TradingView",
+      "title": "US dollar-yuan becomes Hong Kong's most-traded currency pair for first time - Forex Factory",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5839,
+      "currencies": []
+    },
+    {
+      "title": "Netdania Adds Fenics FX Options Data Across 400+ Currency Pairs - Finance Magnates",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -58,7 +73,7 @@
       ]
     },
     {
-      "title": "Netdania Adds Fenics FX Options Data Across 400+ Currency Pairs - Finance Magnates",
+      "title": "StoneX, Operator of FOREX.com, Targets Brazil FX Market with Banco Travelex Deal - TradingView",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -72,87 +87,66 @@
       "currencies": []
     },
     {
-      "title": "Forex Market Forecast \u2013 Euro, Pound, and Yen Test Support as US Yields Drift - Yahoo Finance",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "AUD/USD Signal 13/08: Rally Loses Momentum - Daily Forex",
+      "title": "Gold\u2019s Macro Tailwinds Are Building - FXCM Markets",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9608,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
-    },
-    {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "score": -0.8405,
       "currencies": []
     },
     {
-      "title": "Why is Virgin Galactic stock sliding today?",
+      "title": "Enersense Q2 2026 slides: cash flow surges as debt falls 71%",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9097,
+      "score": -0.8744,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: FINEOS H1 2026 profit rises as recurring revenue grows",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9092,
-      "currencies": []
-    },
-    {
-      "title": "Shelly H1 2026 slides: profit surges 46% on margin gains, installer growth",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9363,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Moreld posts strong Q2 2026 rebound as stock nears high",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9447,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: OHLA posts stronger H1 2026 margins as legal risks ease",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9466,
-      "currencies": []
-    },
-    {
-      "title": "Axactor Q2 2026 slides: EUR 320m revaluation, balance sheet rebuilt",
+      "title": "Thoma Bravo to acquire Accelerant for $4 billion",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "EUR"
-      ]
+      "currencies": []
     },
     {
-      "title": "Axactor Q2 2026 slides: EUR 215m equity raise offsets revaluation hit",
+      "title": "Radian Group names Mike Weinbach as chief executive officer",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.87,
-      "currencies": [
-        "EUR"
-      ]
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
-      "title": "Viscaria Q2 2026 slides: copper project advances as $5B financing nears",
+      "title": "Parsons wins first task order under DTRA threat reduction contract",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9485,
+      "score": 0.7942,
+      "currencies": []
+    },
+    {
+      "title": "Why is Five Below stock rallying today?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Citi\u2019s Chronert says S&P 500 is on the road to 8,100",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Phison Q2 2026 slides: AI ecosystem drives record 65% margins",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.829,
+      "currencies": []
+    },
+    {
+      "title": "X-energy stock rises as Q2 revenue up 154% YoY",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9465,
       "currencies": []
     }
   ],
