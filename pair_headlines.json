@@ -3,7 +3,7 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - DailyForex",
+        "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - dailyforex.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -15,10 +15,10 @@
         "score": 0.0
       },
       {
-        "title": "Why USD/JPY Is Back Near 160 Despite a $53 Billion Currency Intervention - ebc.com",
+        "title": "Why USD/JPY Is Back Near 160 Despite a $53 Billion Currency Intervention - EBC Financial Group",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bullish",
+        "score": 0.5434
       },
       {
         "title": "USD/MXN Price Forecast: Bears eye 17.00 as downtrend stretches",
@@ -35,10 +35,10 @@
     ],
     "EUR/USD": [
       {
-        "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - DailyForex",
+        "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - dailyforex.com",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.5979
+        "score": 0.4806
       }
     ],
     "USD/CHF": [

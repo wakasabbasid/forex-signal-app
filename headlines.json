@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - DailyForex",
+      "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - dailyforex.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -24,10 +24,10 @@
       "currencies": []
     },
     {
-      "title": "Digital forex adoption rises as Indian travellers shift towards cards and self-service - ET TravelWorld",
+      "title": "US Dollar-yuan becomes Hong Kong's most-traded currency pair for first time - Forex Factory",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8461,
+      "score": 0.5839,
       "currencies": []
     },
     {
@@ -41,10 +41,10 @@
       ]
     },
     {
-      "title": "US dollar-yuan becomes Hong Kong's most-traded currency pair for first time - Forex Factory",
+      "title": "Digital forex adoption rises as Indian travellers shift towards cards and self-service - ET TravelWorld",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.5839,
+      "score": 0.8461,
       "currencies": []
     },
     {
@@ -62,21 +62,21 @@
       "currencies": []
     },
     {
-      "title": "Why USD/JPY Is Back Near 160 Despite a $53 Billion Currency Intervention - ebc.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
       "title": "Forex Today: US Dollar stabilizes ahead of next batch of US data - Mitrade",
       "source": "Google News",
       "label": "bearish",
       "score": -0.5253,
       "currencies": []
+    },
+    {
+      "title": "Why USD/JPY Is Back Near 160 Despite a $53 Billion Currency Intervention - EBC Financial Group",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5434,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
     },
     {
       "title": "Netdania Adds Fenics FX Options Data Across 400+ Currency Pairs - Finance Magnates",
@@ -86,69 +86,69 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - DailyForex",
+      "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - dailyforex.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.5979,
+      "score": 0.4806,
       "currencies": [
         "EUR",
         "USD"
       ]
     },
     {
-      "title": "Lam Research plans $3B R&D expansion over five years",
+      "title": "Health In Tech holds earnings call for second quarter results",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "TWFG secures $125 million credit facility, extends maturity to 2031",
+      "title": "Merlin Q2 2026 slides highlight $105M contract progress amid losses",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8128,
+      "label": "bearish",
+      "score": -0.9536,
       "currencies": []
     },
     {
-      "title": "MDU Resources raises quarterly dividend by 3.6%",
+      "title": "Earnings call transcript: Rekor Systems posts Q2 2026 EPS beat as revenue misses",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5564,
+      "score": 0.5817,
       "currencies": []
     },
     {
-      "title": "Murphy USA raises quarterly dividend 23% to $0.65 per share",
+      "title": "Earnings call transcript: Aethlon Medical posts Q1 2026 loss miss as trial advances",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8765,
+      "label": "bearish",
+      "score": -0.9331,
       "currencies": []
     },
     {
-      "title": "NextNRG earnings beat by $0.04, revenue topped estimates",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9414,
-      "currencies": []
-    },
-    {
-      "title": "Inflection Point Acquisition Corp. V shareholders approve extension for business combination",
+      "title": "US extends Jones Act waiver 90 days, revises compliance rules",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Globant shares tumble 17% on weak guidance despite revenue beat",
+      "title": "Korro Bio director Jean Francois Formela sells $29,916 in shares",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9721,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Laird Superfood earnings missed by $0.22, revenue topped estimates",
+      "title": "Anthropic in talks to buy Decart AI, source says",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Mexico stocks lower at close of trade; S&P/BMV IPC down 1.41%",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9485,
+      "score": -0.9675,
       "currencies": []
     }
   ],
