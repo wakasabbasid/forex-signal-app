@@ -3,19 +3,13 @@
   "pairs": {
     "EUR/USD": [
       {
-        "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - Daily Forex",
+        "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - DailyForex",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.5264
+        "score": 0.5979
       }
     ],
     "USD/JPY": [
-      {
-        "title": "Why USD/JPY Is Back Near 160 Despite a $53 Billion Currency Intervention - EBC Financial Group",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.5434
-      },
       {
         "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
         "source": "Google News",
@@ -23,16 +17,16 @@
         "score": 0.0
       },
       {
-        "title": "USD/JPY Price Forecast: Capped below the 50% retracement of July\u2019s plunge, at 159.50",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9324
+        "title": "Why USD/JPY Is Back Near 160 Despite a $53 Billion Currency Intervention - EBC Financial Group",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.5434
       },
       {
-        "title": "Japanese Yen: BoJ hike expectations support JPY against US Dollar - MUFG",
-        "source": "FXStreet",
+        "title": "Kickstart for August 12: USD steady as PPI takes center stage today in NA",
+        "source": "ForexLive",
         "label": "bullish",
-        "score": 0.8342
+        "score": 0.8868
       }
     ]
   }

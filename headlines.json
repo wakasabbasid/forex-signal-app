@@ -1,10 +1,10 @@
 {
   "headlines": [
     {
-      "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - Daily Forex",
+      "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - DailyForex",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.5264,
+      "score": 0.5979,
       "currencies": [
         "EUR",
         "USD"
@@ -25,30 +25,6 @@
       "currencies": []
     },
     {
-      "title": "Forex Focus - tastylive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9097,
-      "currencies": []
-    },
-    {
-      "title": "Why USD/JPY Is Back Near 160 Despite a $53 Billion Currency Intervention - EBC Financial Group",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5434,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
       "title": "US dollar-yuan becomes Hong Kong's most-traded currency pair for first time - Forex Factory",
       "source": "Google News",
       "label": "bullish",
@@ -56,7 +32,14 @@
       "currencies": []
     },
     {
-      "title": "Netdania Adds Fenics FX Options Data Across 400+ Currency Pairs - Finance Magnates",
+      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - reuters.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6896,
+      "currencies": []
+    },
+    {
+      "title": "Forex Focus - tastylive",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -73,17 +56,34 @@
       ]
     },
     {
-      "title": "StoneX, Operator of FOREX.com, Targets Brazil FX Market with Banco Travelex Deal - TradingView",
+      "title": "Why USD/JPY Is Back Near 160 Despite a $53 Billion Currency Intervention - EBC Financial Group",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5434,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "Netdania Adds Fenics FX Options Data Across 400+ Currency Pairs - Finance Magnates",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn - Nikkei Asia",
+      "title": "Forex Market Forecast \u2013 Euro, Pound, and Yen Test Support as US Yields Drift - Yahoo Finance",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.9301,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "StoneX, Operator of FOREX.com, Targets Brazil FX Market with Banco Travelex Deal - TradingView",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -94,59 +94,59 @@
       "currencies": []
     },
     {
-      "title": "Enersense Q2 2026 slides: cash flow surges as debt falls 71%",
+      "title": "Earnings call transcript: Hapvida posts Q2 2026 EPS beat as revenue misses",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US producer prices unchanged in July",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8744,
+      "score": -0.7173,
       "currencies": []
     },
     {
-      "title": "Thoma Bravo to acquire Accelerant for $4 billion",
+      "title": "US dollar falls after softer-than-expected US PPI eases fed rate-hike bets",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.8128,
       "currencies": []
     },
     {
-      "title": "Radian Group names Mike Weinbach as chief executive officer",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Parsons wins first task order under DTRA threat reduction contract",
+      "title": "Mercer partners with Compa to integrate AI compensation tools",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7942,
+      "score": 0.697,
       "currencies": []
     },
     {
-      "title": "Why is Five Below stock rallying today?",
+      "title": "Lexaria enters partnership with PegBio for GLP-1 drug delivery",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7811,
+      "currencies": []
+    },
+    {
+      "title": "T. Rowe Price expands AI teams across investment units",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Citi\u2019s Chronert says S&P 500 is on the road to 8,100",
+      "title": "A10 Networks launches AI gateway for enterprise model management",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Phison Q2 2026 slides: AI ecosystem drives record 65% margins",
+      "title": "DuPont\u2019s lithium extraction team wins sustainability award",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.829,
-      "currencies": []
-    },
-    {
-      "title": "X-energy stock rises as Q2 revenue up 154% YoY",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9465,
+      "score": 0.9305,
       "currencies": []
     }
   ],
