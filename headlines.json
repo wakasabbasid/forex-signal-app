@@ -1,21 +1,7 @@
 {
   "headlines": [
     {
-      "title": "Forex Focus - tastylive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "StoneX, Operator of FOREX.com, Targets Brazil FX Market with Banco Travelex Deal - TradingView",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -29,7 +15,21 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
+      "title": "Forex Focus - tastylive",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "StoneX, Operator of FOREX.com, Targets Brazil FX Market with Banco Travelex Deal - TradingView",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - forex.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -56,7 +56,7 @@
       ]
     },
     {
-      "title": "Forex Market Forecast \u2013 Euro, Pound, and Yen Test Support as US Yields Drift - finance.yahoo.com",
+      "title": "Forex Market Forecast \u2013 Euro, Pound, and Yen Test Support as US Yields Drift - Yahoo Finance",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -70,7 +70,14 @@
       "currencies": []
     },
     {
-      "title": "NZD/USD Forecast: RBNZ Survey Threatens to Break the Calm - FOREX.com",
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "NZD/USD Forecast: RBNZ Survey Threatens to Break the Calm - forex.com",
       "source": "Google News",
       "label": "bearish",
       "score": -0.859,
@@ -80,13 +87,6 @@
       ]
     },
     {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Exchange rate | Foreign Exchange, Currency Fluctuations, Exchange Rates - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -94,59 +94,59 @@
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Stoneweg Europe Stapled Trust posts resilient H1 2026",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8713,
-      "currencies": []
-    },
-    {
-      "title": "Kokusai Electric rises, Seibu Holdings falls after MSCI index reshuffle",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8395,
-      "currencies": []
-    },
-    {
-      "title": "Lenovo shares rallied nearly 20% to a record high today, here\u2019s why",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8217,
-      "currencies": []
-    },
-    {
-      "title": "Why is Ayala Land stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9131,
-      "currencies": []
-    },
-    {
-      "title": "Qualcomm EVP, CFO & COO Palkhiwala sells $408,142 of QCOM stock",
+      "title": "From Chinese AI to Global ETFs: STARTRADER Launches 45 New 24/7 Stock and ETF CFDs",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Thailand\u2019s second-quarter growth seen slowing sharply as weak consumption weighs: Reuters poll",
+      "title": "Morgan Stanley initiates Achieve Life Sciences stock at overweight",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9604,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Sembcorp H1 2026 profit falls 25% as Alinta lifts outlook",
+      "title": "UBS downgrades Coca-Cola Europacific Partners stock rating on valuation",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9676,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "RWE first-half profit beats on Dutch payment, energy trading rebound",
+      "title": "Exclusive-Inside the Google executive moves that led to its big AI reshuffle",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Arvind Q1 FY27 slides: record volumes, margin pressure evident",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.882,
+      "currencies": []
+    },
+    {
+      "title": "Dollar holds gains as traders weigh Fed outlook after in-line U.S. CPI",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.4875,
+      "score": 0.7086,
+      "currencies": []
+    },
+    {
+      "title": "UK economy gains from Gulf ceasefire, World Cup and sunshine",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9432,
+      "currencies": []
+    },
+    {
+      "title": "RBC Capital upgrades Silgan Holdings stock rating on dispensing growth",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

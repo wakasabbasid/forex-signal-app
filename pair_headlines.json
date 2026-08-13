@@ -3,46 +3,16 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
+        "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - forex.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "PBOC sets USD/ CNY reference rate for today at 6.7888 (vs. estimate at 6.7470 )",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Falls to near 183.50 near nine-day EMA",
+        "title": "Canadian Dollar extends pullback from two-month high as oil-driven Fed hike bets lift USD",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.962
-      },
-      {
-        "title": "Gold moves away from June 5 high, slides below $4,400 amid Fed hike bets, firm USD",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8556
-      },
-      {
-        "title": "Swiss Franc slides to two-week low as oil-driven Fed hike bets boost USD",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.93
-      },
-      {
-        "title": "AUD/JPY Price Forecast: Softens below 112.50 as near-term bearish bias persists below 100-day SMA",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.4972
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD wobbles around $65.40, easing hawkish Fed bets strengthen outlook",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8986
+        "score": -0.6841
       }
     ],
     "GBP/USD": [
@@ -51,17 +21,11 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.7838
-      },
-      {
-        "title": "GBP/USD Price Forecast: Trades below 1.3500 on firmer USD, ahead of UK GDP",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9335
       }
     ],
     "NZD/USD": [
       {
-        "title": "NZD/USD Forecast: RBNZ Survey Threatens to Break the Calm - FOREX.com",
+        "title": "NZD/USD Forecast: RBNZ Survey Threatens to Break the Calm - forex.com",
         "source": "Google News",
         "label": "bearish",
         "score": -0.859
@@ -71,34 +35,6 @@
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.9299
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "AUD/USD Price Forecast: Struggles to extend rally above 0.7100",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8316
-      },
-      {
-        "title": "AUD/JPY Price Forecast: Softens below 112.50 as near-term bearish bias persists below 100-day SMA",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.4972
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/USD Price Forecast: Flatlines below 1.1550, while staying bearish under 100-day SMA",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.728
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Falls to near 183.50 near nine-day EMA",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.962
       }
     ]
   }
