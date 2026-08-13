@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - dailyforex.com",
+      "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -14,6 +14,13 @@
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Digital forex adoption rises as Indian travellers shift towards cards and self-service - ET TravelWorld",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8461,
       "currencies": []
     },
     {
@@ -39,13 +46,6 @@
         "USD",
         "JPY"
       ]
-    },
-    {
-      "title": "Digital forex adoption rises as Indian travellers shift towards cards and self-service - ET TravelWorld",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8461,
-      "currencies": []
     },
     {
       "title": "Forex Market Forecast \u2013 Euro, Pound, and Yen Test Support as US Yields Drift - Yahoo Finance",
@@ -79,76 +79,76 @@
       ]
     },
     {
-      "title": "Netdania Adds Fenics FX Options Data Across 400+ Currency Pairs - Finance Magnates",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - dailyforex.com",
+      "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - DailyForex",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.4806,
+      "score": 0.5979,
       "currencies": [
         "EUR",
         "USD"
       ]
     },
     {
-      "title": "Health In Tech holds earnings call for second quarter results",
+      "title": "US dollar-yuan becomes Hong Kong's most-traded currency pair for first time - Forex Factory",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5839,
+      "currencies": []
+    },
+    {
+      "title": "Idex SVP Lisa Anderson sells $91,859 in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Merlin Q2 2026 slides highlight $105M contract progress amid losses",
+      "title": "Alpha Tech CEO Michael Logozzo sells $2,463 in company stock",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9536,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Rekor Systems posts Q2 2026 EPS beat as revenue misses",
+      "title": "Soluna Q2 2026 slides: revenue surges 145% amid AI pivot",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5817,
+      "score": 0.8731,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Aethlon Medical posts Q1 2026 loss miss as trial advances",
+      "title": "dLocal Q2 2026 slides: TPV surges 92%, guidance raised on broad growth",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9331,
+      "label": "bullish",
+      "score": 0.9417,
       "currencies": []
     },
     {
-      "title": "US extends Jones Act waiver 90 days, revises compliance rules",
+      "title": "Soluna Q2 2026 slides: 145% revenue surge masks profitability pressure",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9465,
       "currencies": []
     },
     {
-      "title": "Korro Bio director Jean Francois Formela sells $29,916 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Anthropic in talks to buy Decart AI, source says",
+      "title": "Valvoline prices $600 million senior notes offering at 6.125%",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Mexico stocks lower at close of trade; S&P/BMV IPC down 1.41%",
+      "title": "Realpha Tech executive chairman Giri Devanur sells $3,073 stock",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9675,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "C3.ai CEO Thomas Siebel sells $4.76m company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
