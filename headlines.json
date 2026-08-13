@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "StoneX, Operator of FOREX.com, Targets Brazil FX Market with Banco Travelex Deal - TradingView",
+      "title": "Forex Focus - tastylive",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -9,6 +9,13 @@
     },
     {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "StoneX, Operator of FOREX.com, Targets Brazil FX Market with Banco Travelex Deal - TradingView",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -49,10 +56,10 @@
       ]
     },
     {
-      "title": "Forex Today: US Dollar on pause ahead of US CPI - FXStreet",
+      "title": "Forex Market Forecast \u2013 Euro, Pound, and Yen Test Support as US Yields Drift - finance.yahoo.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.5507,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -80,16 +87,6 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Signal 12/08: Technicals Point to Upside Ahead - Daily Forex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.558,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
       "title": "Exchange rate | Foreign Exchange, Currency Fluctuations, Exchange Rates - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -97,59 +94,59 @@
       "currencies": []
     },
     {
-      "title": "Oil prices drop 1% as weak demand outlook offsets supply uncertainty",
+      "title": "Earnings call transcript: Stoneweg Europe Stapled Trust posts resilient H1 2026",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8713,
+      "currencies": []
+    },
+    {
+      "title": "Kokusai Electric rises, Seibu Holdings falls after MSCI index reshuffle",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9698,
+      "score": -0.8395,
       "currencies": []
     },
     {
-      "title": "South Korea unveils package to boost housing supply, support young buyers",
+      "title": "Lenovo shares rallied nearly 20% to a record high today, here\u2019s why",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9242,
+      "score": 0.8217,
       "currencies": []
     },
     {
-      "title": "Origin Energy profit beats estimates as battery growth lifts energy markets view",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9267,
-      "currencies": []
-    },
-    {
-      "title": "Anthropic in talks to buy AI startup Decart for about $6 bln - Bloomberg",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Hepion Pharmaceuticals interim CEO Gary Stetz buys $100,000 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Hepion Pharmaceuticals director Stetz buys $25,000 in common stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is Telstra stock sliding today?",
+      "title": "Why is Ayala Land stock sliding today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9266,
+      "score": -0.9131,
       "currencies": []
     },
     {
-      "title": "Telstra FY profit rises slightly, announces $706 mln buyback",
+      "title": "Qualcomm EVP, CFO & COO Palkhiwala sells $408,142 of QCOM stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Thailand\u2019s second-quarter growth seen slowing sharply as weak consumption weighs: Reuters poll",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9604,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Sembcorp H1 2026 profit falls 25% as Alinta lifts outlook",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9676,
+      "currencies": []
+    },
+    {
+      "title": "RWE first-half profit beats on Dutch payment, energy trading rebound",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8982,
+      "score": 0.4875,
       "currencies": []
     }
   ],
