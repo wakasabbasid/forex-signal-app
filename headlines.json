@@ -8,11 +8,13 @@
       "currencies": []
     },
     {
-      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
+      "title": "BTC/USD Signal 13/08: Bitcoin Price Pressured - Daily Forex",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.9097,
-      "currencies": []
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "Forex Focus - tastylive",
@@ -22,6 +24,23 @@
       "currencies": []
     },
     {
+      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9097,
+      "currencies": []
+    },
+    {
+      "title": "Why USD/JPY Is Back Near 160 Despite a $53 Billion Currency Intervention - EBC Financial Group",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5434,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
       "title": "StoneX, Operator of FOREX.com, Targets Brazil FX Market with Banco Travelex Deal - TradingView",
       "source": "Google News",
       "label": "neutral",
@@ -29,7 +48,7 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - forex.com",
+      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -39,21 +58,18 @@
       ]
     },
     {
+      "title": "Netdania Adds Fenics FX Options Data Across 400+ Currency Pairs - Finance Magnates",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn - Nikkei Asia",
       "source": "Google News",
       "label": "bullish",
       "score": 0.9301,
       "currencies": []
-    },
-    {
-      "title": "GBP/USD Signal: Inverted Head and Shoulders Forms Ahead of US CPI Data - Daily Forex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7838,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
     },
     {
       "title": "Forex Market Forecast \u2013 Euro, Pound, and Yen Test Support as US Yields Drift - Yahoo Finance",
@@ -63,11 +79,14 @@
       "currencies": []
     },
     {
-      "title": "Japan spent record \u00a56.28 tril in forex intervention on April 30 - Japan Today",
+      "title": "AUD/USD Signal 13/08: Rally Loses Momentum - Daily Forex",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
+      "label": "bearish",
+      "score": -0.9608,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
     },
     {
       "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
@@ -77,76 +96,63 @@
       "currencies": []
     },
     {
-      "title": "NZD/USD Forecast: RBNZ Survey Threatens to Break the Calm - forex.com",
-      "source": "Google News",
+      "title": "Why is Virgin Galactic stock sliding today?",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.859,
+      "score": -0.9097,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: FINEOS H1 2026 profit rises as recurring revenue grows",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9092,
+      "currencies": []
+    },
+    {
+      "title": "Shelly H1 2026 slides: profit surges 46% on margin gains, installer growth",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9363,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Moreld posts strong Q2 2026 rebound as stock nears high",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9447,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: OHLA posts stronger H1 2026 margins as legal risks ease",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9466,
+      "currencies": []
+    },
+    {
+      "title": "Axactor Q2 2026 slides: EUR 320m revaluation, balance sheet rebuilt",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
-        "NZD",
-        "USD"
+        "EUR"
       ]
     },
     {
-      "title": "Exchange rate | Foreign Exchange, Currency Fluctuations, Exchange Rates - Encyclopedia Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "From Chinese AI to Global ETFs: STARTRADER Launches 45 New 24/7 Stock and ETF CFDs",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Morgan Stanley initiates Achieve Life Sciences stock at overweight",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "UBS downgrades Coca-Cola Europacific Partners stock rating on valuation",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Exclusive-Inside the Google executive moves that led to its big AI reshuffle",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Arvind Q1 FY27 slides: record volumes, margin pressure evident",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.882,
-      "currencies": []
-    },
-    {
-      "title": "Dollar holds gains as traders weigh Fed outlook after in-line U.S. CPI",
+      "title": "Axactor Q2 2026 slides: EUR 215m equity raise offsets revaluation hit",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7086,
-      "currencies": []
+      "score": 0.87,
+      "currencies": [
+        "EUR"
+      ]
     },
     {
-      "title": "UK economy gains from Gulf ceasefire, World Cup and sunshine",
+      "title": "Viscaria Q2 2026 slides: copper project advances as $5B financing nears",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9432,
-      "currencies": []
-    },
-    {
-      "title": "RBC Capital upgrades Silgan Holdings stock rating on dispensing growth",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "score": 0.9485,
       "currencies": []
     }
   ],
