@@ -15,22 +15,16 @@
         "score": 0.0
       },
       {
-        "title": "Why USD/JPY Is Back Near 160 Despite a $53 Billion Currency Intervention - EBC Financial Group",
+        "title": "Why USD/JPY Is Back Near 160 Despite a $53 Billion Currency Intervention - ebc.com",
         "source": "Google News",
-        "label": "bullish",
-        "score": 0.5434
+        "label": "neutral",
+        "score": 0.0
       },
       {
-        "title": "Omnicom Group stock hits 52-week high at 87.42 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.8126
-      },
-      {
-        "title": "Ringcentral stock hits 52-week high at 65.0 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.793
+        "title": "USD/MXN Price Forecast: Bears eye 17.00 as downtrend stretches",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8498
       },
       {
         "title": "Silver Price Forecast: Momentum cools as XAG/USD consolidates above 50-day SMA",

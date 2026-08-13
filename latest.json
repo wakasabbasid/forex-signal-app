@@ -3,7 +3,7 @@
   "engine": "finbert",
   "headline_count": 70,
   "source_count": 6,
-  "created_at": "2026-08-13T19:15:11.847448+00:00",
+  "created_at": "2026-08-13T20:46:44.742109+00:00",
   "signals": [
     {
       "pair": "USD/CHF",
@@ -19,9 +19,9 @@
     },
     {
       "pair": "USD/JPY",
-      "signal": "BUY",
-      "avg_score": 0.4596,
-      "headline_count": 6
+      "signal": "HOLD",
+      "avg_score": -0.0483,
+      "headline_count": 5
     }
   ]
 }
