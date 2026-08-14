@@ -1,24 +1,12 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/JPY": [
+    "NZD/USD": [
       {
-        "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - DailyForex",
+        "title": "NZD/USD Forecast: RBNZ Survey Threatens to Break the Calm - FOREX.com",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Kickstart the NA session for Augste 14: USD falls across the board as BOJ rate hike talk lifts the yen",
-        "source": "ForexLive",
         "label": "bearish",
-        "score": -0.5295
+        "score": -0.859
       }
     ],
     "EUR/USD": [
@@ -27,6 +15,14 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.5979
+      }
+    ],
+    "USD/JPY": [
+      {
+        "title": "Kickstart the NA session for Augste 14: USD falls across the board as BOJ rate hike talk lifts the yen",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.5295
       }
     ]
   }

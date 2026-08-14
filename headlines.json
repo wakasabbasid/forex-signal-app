@@ -8,11 +8,21 @@
       "currencies": []
     },
     {
-      "title": "India Raises $50 Billion of Diaspora Dollars, Ends Swap Facility - bloomberg.com",
+      "title": "India Raises $50 Billion of Diaspora Dollars, Ends Swap Facility - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
+    },
+    {
+      "title": "NZD/USD Forecast: RBNZ Survey Threatens to Break the Calm - FOREX.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.859,
+      "currencies": [
+        "NZD",
+        "USD"
+      ]
     },
     {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
@@ -29,13 +39,11 @@
       "currencies": []
     },
     {
-      "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - DailyForex",
+      "title": "RBI to close FX swap for overseas deposits earlier than planned, inflows top $50 billion - TradingView",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
+      "label": "bearish",
+      "score": -0.6066,
+      "currencies": []
     },
     {
       "title": "Three reasons why BOJ rate hikes will not save the yen - investingLive",
@@ -45,14 +53,21 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
+      "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - DailyForex",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5979,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "India central bank closes forex swap facility early after $50bn inflow - Investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
+      "currencies": []
     },
     {
       "title": "Swiss Franc Firms as Cooling U.S. Inflation Hits Dollar - TradingPedia",
@@ -69,83 +84,66 @@
       "currencies": []
     },
     {
-      "title": "StoneX, Operator of FOREX.com, Targets Brazil FX Market with Banco Travelex Deal - TradingView",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex reserves up by $14.1 billion to $707 billion - economictimes.com",
+      "title": "Forex reserves up by $14.1 billion to $707 billion - The Economic Times",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9336,
+      "score": 0.9448,
       "currencies": []
     },
     {
-      "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - DailyForex",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5979,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "Stifel cuts Celcuity stock price target on refined market model",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Stifel raises HeartFlow stock price target to $45 on plaque growth",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Boost Run Q2 2026 slides: revenue surges 270%, ARR targets $400M",
+      "title": "UBS reiterates Buy on Nvidia stock, sees strong revenue beat",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9369,
+      "score": 0.9435,
       "currencies": []
     },
     {
-      "title": "Why is Michael Page stock rallying today?",
+      "title": "UBS raises Wolverine World Wide stock price target on brand strength",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Canadian wholesale trade rises 2.8% in June to April 2024 high",
+      "title": "UBS reiterates Hilton stock Buy rating on owner economics clarity",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "UBS reiterates Buy on HF Sinclair stock, keeps $105 target",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "JP 3E Holdings appoints three directors to board",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Light S.A. posts stronger Q2 2026 results as debt falls",
       "source": "Investing.com",
       "label": "bullish",
       "score": 0.9371,
       "currencies": []
     },
     {
-      "title": "Z Squared outlines power-first AI infrastructure strategy",
+      "title": "Mattel options activity surges with 16,938 calls targeting $15 strike by September",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.696,
       "currencies": []
     },
     {
-      "title": "StablecoinX reports Q2 results, holds 3B ENA tokens worth $218M",
+      "title": "Earnings call transcript: VerticalScope posts Q2 2026 EPS beat as shares jump 12.5%",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Charles Schwab reports record July net new assets of $58.1B",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.8896,
       "currencies": []
     }
   ],
