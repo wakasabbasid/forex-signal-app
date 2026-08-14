@@ -3,7 +3,7 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - dailyforex.com",
+        "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -27,42 +27,68 @@
         "score": 0.0
       },
       {
+        "title": "AUD/JPY Price Forecast: Weakens to near 112.50, near-term outlook remains bearish",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9698
+      },
+      {
+        "title": "Gold finds some support ahead of $4,300 as USD remains depressed on receding Fed hike bets",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.6203
+      },
+      {
+        "title": "USD/JPY Price Forecast: Bulls cautious below 159.50, 50% Fibo. caps upside on soft USD",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.5678
+      },
+      {
+        "title": "EUR/JPY Price Forecast: Holds ground near 184.00, 50-day EMA",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8824
+      },
+      {
+        "title": "Euro gains as receding Fed hike bets weigh on USD; geopolitical risks cap upside",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8464
+      },
+      {
         "title": "Silver Price Forecast: XAG/USD extends correction as energy supply concerns remain intact",
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.7731
-      },
-      {
-        "title": "British Pound edges higher vs softer USD; lacks follow-through as geopolitics cap gains",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8985
-      },
-      {
-        "title": "New Zealand Dollar recovers from two-week low as fading Fed hike bets undermine USD",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8966
-      },
-      {
-        "title": "PBOC sets USD/CNY reference rate at 6.7878 vs. 6.7888 previous",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
       }
     ],
     "EUR/USD": [
       {
-        "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - dailyforex.com",
+        "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - DailyForex",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.4806
+        "score": 0.5979
       },
       {
         "title": "EUR risk: Latvia issues air threat alert, Finland restricts Gulf of Finland traffic",
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.7928
+      },
+      {
+        "title": "EUR/JPY Price Forecast: Holds ground near 184.00, 50-day EMA",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8824
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "AUD/JPY Price Forecast: Weakens to near 112.50, near-term outlook remains bearish",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9698
       }
     ]
   }

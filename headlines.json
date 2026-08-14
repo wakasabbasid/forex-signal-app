@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - dailyforex.com",
+      "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -10,7 +10,7 @@
       ]
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "title": "What Is the Foreign Exchange Market: A Guide - britannica.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -21,6 +21,13 @@
       "source": "Google News",
       "label": "bullish",
       "score": 0.9097,
+      "currencies": []
+    },
+    {
+      "title": "Easing India Rupee Volatility May Help Attract More Foreign Money - Bloomberg.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.4936,
       "currencies": []
     },
     {
@@ -48,13 +55,6 @@
       "currencies": []
     },
     {
-      "title": "Forex Market Forecast \u2013 Euro, Pound, and Yen Test Support as US Yields Drift - Yahoo Finance",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "StoneX, Operator of FOREX.com, Targets Brazil FX Market with Banco Travelex Deal - TradingView",
       "source": "Google News",
       "label": "neutral",
@@ -62,17 +62,10 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar holds steady ahead of US Retail Sales - Mitrade",
+      "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - DailyForex",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8854,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - dailyforex.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.4806,
+      "score": 0.5979,
       "currencies": [
         "EUR",
         "USD"
@@ -86,6 +79,13 @@
       "currencies": []
     },
     {
+      "title": "Exchange rate | Foreign Exchange, Currency Fluctuations, Exchange Rates - britannica.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Forex inflows will lead to a liquidity windfall and a bond market spinoff - TradingView",
       "source": "Google News",
       "label": "bearish",
@@ -93,59 +93,59 @@
       "currencies": []
     },
     {
-      "title": "Match group director Glenn Schiffman sells $626k in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan\u2019s July core inflation seen at 1.8% on higher energy costs",
+      "title": "Aerostar H1 profit nearly doubles as operating margin widens to 21%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8952,
+      "score": 0.9491,
       "currencies": []
     },
     {
-      "title": "Asian stocks set for weekly gain on fading US rate hike wagers",
+      "title": "Earnings call transcript: Amber Enterprises posts strong Q1 2026 growth",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.633,
+      "score": 0.9513,
       "currencies": []
     },
     {
-      "title": "JD.com shares slide 9% as weak retail growth overshadows Q2 earnings beat",
+      "title": "Earnings call transcript: Unicommerce falls as q1 fy 2027 profit outlook weighs",
       "source": "Investing.com",
       "label": "bearish",
       "score": -0.9732,
       "currencies": []
     },
     {
-      "title": "Ibotta director Thomas Lehrman sells $1.53m in company stock.",
+      "title": "Why is Samsonite stock falling today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9347,
+      "currencies": []
+    },
+    {
+      "title": "Why is China Gold International Resources stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Chemours president Gerardo Familiar buys $30,050 in stock",
+      "title": "Why is GDS Holdings HK stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Zentalis Pharmaceuticals prices $80.5M stock offering at $3.50",
+      "title": "Sea profit misses estimates as higher costs offset strong revenue growth",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.8868,
       "currencies": []
     },
     {
-      "title": "Constellation Energy director Crandall buys $417,930 of CEG stock",
+      "title": "Asian stocks head for strong weekly gains as US rate hike bets fade",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.7698,
       "currencies": []
     }
   ],
