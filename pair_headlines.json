@@ -19,10 +19,22 @@
     ],
     "USD/JPY": [
       {
+        "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
         "title": "Kickstart the NA session for Augste 14: USD falls across the board as BOJ rate hike talk lifts the yen",
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.5295
+      },
+      {
+        "title": "British Pound advances as weak US sales deepen USD slide",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.777
       }
     ]
   }

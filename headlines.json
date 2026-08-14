@@ -84,66 +84,68 @@
       "currencies": []
     },
     {
-      "title": "Forex reserves up by $14.1 billion to $707 billion - The Economic Times",
+      "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - DailyForex",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.9448,
-      "currencies": []
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
     },
     {
-      "title": "UBS reiterates Buy on Nvidia stock, sees strong revenue beat",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9435,
-      "currencies": []
-    },
-    {
-      "title": "UBS raises Wolverine World Wide stock price target on brand strength",
+      "title": "CQS New City High Yield Fund issues 500,000 new shares at 50.4p",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "UBS reiterates Hilton stock Buy rating on owner economics clarity",
+      "title": "Social media firms urge caution on early Australia under-16 ban data",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8022,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Diamond Power posts strong Q1 2026 results",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9451,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Randoncorp misses Q2 2026 estimates as deleveraging continues",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9672,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Cyrela Brazil Realty misses Q2 2026 profit view",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "UBS reiterates Buy on HF Sinclair stock, keeps $105 target",
+      "title": "Cantor Fitzgerald reiterates Applied Materials stock rating on strong outlook",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "JP 3E Holdings appoints three directors to board",
+      "title": "Luigi Mangione says he will plead guilty in federal case",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Light S.A. posts stronger Q2 2026 results as debt falls",
+      "title": "Carlyle and CVC explore joint bid for Bauwatch on valuation gap - Bloomberg",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9371,
-      "currencies": []
-    },
-    {
-      "title": "Mattel options activity surges with 16,938 calls targeting $15 strike by September",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.696,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: VerticalScope posts Q2 2026 EPS beat as shares jump 12.5%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8896,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
