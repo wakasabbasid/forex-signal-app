@@ -5,14 +5,8 @@
       "engine": "finbert",
       "headline_count": 70,
       "source_count": 6,
-      "created_at": "2026-08-14T17:55:57.396785+00:00",
+      "created_at": "2026-08-14T18:57:51.395776+00:00",
       "signals": [
-        {
-          "pair": "GBP/USD",
-          "signal": "SELL",
-          "avg_score": -0.9256,
-          "headline_count": 1
-        },
         {
           "pair": "NZD/USD",
           "signal": "SELL",
@@ -21,15 +15,27 @@
         },
         {
           "pair": "EUR/USD",
-          "signal": "SELL",
-          "avg_score": -0.1639,
-          "headline_count": 2
+          "signal": "BUY",
+          "avg_score": 0.5979,
+          "headline_count": 1
+        },
+        {
+          "pair": "USD/CHF",
+          "signal": "BUY",
+          "avg_score": 0.5492,
+          "headline_count": 1
         },
         {
           "pair": "USD/JPY",
+          "signal": "SELL",
+          "avg_score": -0.384,
+          "headline_count": 2
+        },
+        {
+          "pair": "USD/CAD",
           "signal": "HOLD",
-          "avg_score": 0.0373,
-          "headline_count": 3
+          "avg_score": 0.0,
+          "headline_count": 1
         }
       ]
     }

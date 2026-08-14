@@ -15,12 +15,6 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.5979
-      },
-      {
-        "title": "EUR/GBP stuck in a tight range as traders observe the war",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9256
       }
     ],
     "USD/JPY": [
@@ -35,20 +29,22 @@
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.7681
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD holds gains but struggles for fresh momentum",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.88
       }
     ],
-    "GBP/USD": [
+    "USD/CAD": [
       {
-        "title": "EUR/GBP stuck in a tight range as traders observe the war",
+        "title": "USD/CAD Price Forecast: Bears target the 200-day SMA",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9256
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "USD/CHF": [
+      {
+        "title": "USD/CHF Price Forecast: Bearish flag holds as bulls eye 0.8150",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.5492
       }
     ]
   }

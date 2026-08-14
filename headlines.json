@@ -39,17 +39,10 @@
       "currencies": []
     },
     {
-      "title": "Three reasons why BOJ rate hikes will not save the yen - investingLive",
+      "title": "Three reasons why BOJ rate hikes will not save the yen - investinglive.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex kitty jumps $14.14 billion to $707 billion in one of the biggest weekly expansions - The Hindu",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9105,
       "currencies": []
     },
     {
@@ -67,6 +60,13 @@
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex kitty jumps $14.14 billion to $707 billion in one of the biggest weekly expansions - The Hindu",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9105,
       "currencies": []
     },
     {
@@ -93,59 +93,59 @@
       ]
     },
     {
-      "title": "Owlet shareholders approve incentive plan amendment and elect directors at annual meeting",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Farmers & Merchants Bancorp director Andrew Briggs sells $211,710 in FMAO stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Two slicks appear in Gulf as huge oil spill off Oman threatens disaster",
+      "title": "3M board declares quarterly dividend of $0.78 per share",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8817,
+      "score": -0.8251,
       "currencies": []
     },
     {
-      "title": "Legacy Housing schedules 2026 annual meeting for October 28 in virtual format",
+      "title": "New Mexico gas pipeline for Oracle data center delayed to 2027",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Capital Gearing Trust sells 25,000 shares from treasury at 528.50p",
+      "title": "Chegg director Renee Budig sells $42,146 of company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is KLA stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9273,
-      "currencies": []
-    },
-    {
-      "title": "Tech stocks pull Wall Street lower as investors weigh data, Middle East tensions",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9195,
-      "currencies": []
-    },
-    {
-      "title": "Trinseo to hold extraordinary general meeting after net assets fall below threshold",
+      "title": "Canada autoworker union: Stellantis considering sale of Canada plant",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "SNC SCANDIC PAY: Pay anywhere in the world, without limit",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "S&P set for weekly climb, helped by reduction in rate hike bets; oil caps gains",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8463,
+      "currencies": []
+    },
+    {
+      "title": "Broadcom options surge on selloff day, with $400 August 2026 call leading volume",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8685,
+      "currencies": []
+    },
+    {
+      "title": "Reading Int B earnings beat by $0.04, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9353,
       "currencies": []
     }
   ],
