@@ -1,6 +1,20 @@
 {
   "headlines": [
     {
+      "title": "India's forex reserves climb past $700 billion on robust inflows - Yahoo Finance Singapore",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9212,
+      "currencies": []
+    },
+    {
+      "title": "India Raises $50 Billion of Diaspora Dollars, Ends Swap Facility - bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -15,13 +29,20 @@
       "currencies": []
     },
     {
-      "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - dailyforex.com",
+      "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
         "USD"
       ]
+    },
+    {
+      "title": "Three reasons why BOJ rate hikes will not save the yen - investingLive",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
@@ -55,94 +76,73 @@
       "currencies": []
     },
     {
-      "title": "US Dollar-yuan becomes Hong Kong's most-traded currency pair for first time - Forex Factory",
+      "title": "Forex reserves up by $14.1 billion to $707 billion - economictimes.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.5839,
+      "score": 0.9336,
       "currencies": []
     },
     {
-      "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - dailyforex.com",
+      "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - DailyForex",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.4806,
+      "score": 0.5979,
       "currencies": [
         "EUR",
         "USD"
       ]
     },
     {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Exchange rate | Foreign Exchange, Currency Fluctuations, Exchange Rates - Encyclopedia Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Yen Advances as Softer U.S. PPI Dents Fed Hike Bets - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7227,
-      "currencies": []
-    },
-    {
-      "title": "B.Riley cuts Nuscale Power stock price target on valuation reset",
+      "title": "Stifel cuts Celcuity stock price target on refined market model",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "B.Riley cuts Blaize stock price target on lower revenue guidance",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9313,
-      "currencies": []
-    },
-    {
-      "title": "Wedbush cuts Globant stock rating on AI headwinds, lowers target",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7713,
-      "currencies": []
-    },
-    {
-      "title": "B.Riley cuts Eos Energy stock price target on tighter revenue outlook",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8249,
-      "currencies": []
-    },
-    {
-      "title": "Why is Birkenstock stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9086,
-      "currencies": []
-    },
-    {
-      "title": "H.C. Wainwright reiterates Pharvaris stock rating on regulatory progress",
+      "title": "Stifel raises HeartFlow stock price target to $45 on plaque growth",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Nagarro H1 2026 growth slows as margins improve",
+      "title": "Boost Run Q2 2026 slides: revenue surges 270%, ARR targets $400M",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9613,
+      "label": "bullish",
+      "score": 0.9369,
       "currencies": []
     },
     {
-      "title": "H.C. Wainwright reiterates Buy on 4D Molecular stock, $36 target",
+      "title": "Why is Michael Page stock rallying today?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Canadian wholesale trade rises 2.8% in June to April 2024 high",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9371,
+      "currencies": []
+    },
+    {
+      "title": "Z Squared outlines power-first AI infrastructure strategy",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "StablecoinX reports Q2 results, holds 3B ENA tokens worth $218M",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Charles Schwab reports record July net new assets of $58.1B",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
