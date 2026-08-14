@@ -1,10 +1,10 @@
 {
   "headlines": [
     {
-      "title": "India's forex reserves climb past $700 billion on robust inflows - Yahoo Finance Singapore",
+      "title": "India's forex reserves climb past $700 billion on robust inflows - Reuters",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9212,
+      "score": 0.8728,
       "currencies": []
     },
     {
@@ -12,6 +12,13 @@
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Dollar deluge prompts RBI to shut special FCNR scheme early; $52 bn raised so far - TradingView",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.4645,
       "currencies": []
     },
     {
@@ -32,24 +39,17 @@
       "currencies": []
     },
     {
-      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9097,
-      "currencies": []
-    },
-    {
-      "title": "RBI to close FX swap for overseas deposits earlier than planned, inflows top $50 billion - TradingView",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6066,
-      "currencies": []
-    },
-    {
       "title": "Three reasons why BOJ rate hikes will not save the yen - investingLive",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex kitty jumps $14.14 billion to $707 billion in one of the biggest weekly expansions - The Hindu",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9105,
       "currencies": []
     },
     {
@@ -70,17 +70,17 @@
       "currencies": []
     },
     {
-      "title": "Swiss Franc Firms as Cooling U.S. Inflation Hits Dollar - TradingPedia",
+      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.847,
+      "label": "bullish",
+      "score": 0.9097,
       "currencies": []
     },
     {
-      "title": "Digital forex adoption rises as Indian travellers shift towards cards and self-service - travel.economictimes.indiatimes.com",
+      "title": "RBI to close FX swap for overseas deposits earlier than planned, inflows top $50 billion - TradingView",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.4791,
+      "label": "bearish",
+      "score": -0.6066,
       "currencies": []
     },
     {
@@ -93,56 +93,56 @@
       ]
     },
     {
-      "title": "Wall Street slips marginally, taking a breather after notching a record high",
+      "title": "Owlet shareholders approve incentive plan amendment and elect directors at annual meeting",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Farmers & Merchants Bancorp director Andrew Briggs sells $211,710 in FMAO stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Two slicks appear in Gulf as huge oil spill off Oman threatens disaster",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8448,
+      "score": -0.8817,
       "currencies": []
     },
     {
-      "title": "Freedom Broker upgrades Serve Robotics stock rating to buy despite weak Q2",
+      "title": "Legacy Housing schedules 2026 annual meeting for October 28 in virtual format",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9413,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Brazil\u2019s big banks shun riskier lending as household debt strains grow",
+      "title": "Capital Gearing Trust sells 25,000 shares from treasury at 528.50p",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9568,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Luigi Mangione pleads guilty in federal case, admits killing insurance CEO",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5316,
-      "currencies": []
-    },
-    {
-      "title": "Oil climbs on tanker attacks, US-Iran claims about Hormuz control",
+      "title": "Why is KLA stock sliding today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.3981,
+      "score": -0.9273,
       "currencies": []
     },
     {
-      "title": "CMCT Q2 2026 slides: Bay Area rebound lifts occupancy amid debt woes",
+      "title": "Tech stocks pull Wall Street lower as investors weigh data, Middle East tensions",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8934,
+      "label": "bearish",
+      "score": -0.9195,
       "currencies": []
     },
     {
-      "title": "Freedom Broker upgrades Lifeway Foods stock rating on strong sales",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8447,
-      "currencies": []
-    },
-    {
-      "title": "HRT Financial LP sells $69,992 in Airwa Inc. shares",
+      "title": "Trinseo to hold extraordinary general meeting after net assets fall below threshold",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
