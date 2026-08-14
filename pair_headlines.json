@@ -15,52 +15,16 @@
         "score": 0.0
       },
       {
-        "title": "PBOC sets USD/ CNY reference rate for today at 6.7878 (vs. estimate at 6.7413)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7413 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "AUD/JPY Price Forecast: Weakens to near 112.50, near-term outlook remains bearish",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9698
-      },
-      {
-        "title": "Gold finds some support ahead of $4,300 as USD remains depressed on receding Fed hike bets",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.6203
-      },
-      {
-        "title": "USD/JPY Price Forecast: Bulls cautious below 159.50, 50% Fibo. caps upside on soft USD",
+        "title": "Canadian Dollar hits fresh high since June on rising oil prices, Fed-inspired USD weakness",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.5678
+        "score": 0.9143
       },
       {
-        "title": "EUR/JPY Price Forecast: Holds ground near 184.00, 50-day EMA",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8824
-      },
-      {
-        "title": "Euro gains as receding Fed hike bets weigh on USD; geopolitical risks cap upside",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8464
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD extends correction as energy supply concerns remain intact",
+        "title": "Gold sticks to losses but holds above $4,300 as reduced Fed hike bets weigh on USD",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.7731
+        "score": -0.8216
       }
     ],
     "EUR/USD": [
@@ -75,20 +39,6 @@
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.7928
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Holds ground near 184.00, 50-day EMA",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8824
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "AUD/JPY Price Forecast: Weakens to near 112.50, near-term outlook remains bearish",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9698
       }
     ]
   }

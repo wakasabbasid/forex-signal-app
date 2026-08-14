@@ -10,7 +10,7 @@
       ]
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - britannica.com",
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -31,10 +31,10 @@
       "currencies": []
     },
     {
-      "title": "Digital forex adoption rises as Indian travellers shift towards cards and self-service - ET TravelWorld",
+      "title": "Swiss Franc Firms as Cooling U.S. Inflation Hits Dollar - TradingPedia",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.8461,
+      "label": "bearish",
+      "score": -0.847,
       "currencies": []
     },
     {
@@ -48,10 +48,10 @@
       ]
     },
     {
-      "title": "US Dollar-yuan becomes Hong Kong's most-traded currency pair for first time - Forex Factory",
+      "title": "Digital forex adoption rises as Indian travellers shift towards cards and self-service - ET TravelWorld",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.5839,
+      "score": 0.8461,
       "currencies": []
     },
     {
@@ -59,6 +59,13 @@
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US Dollar-yuan becomes Hong Kong's most-traded currency pair for first time - Forex Factory",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5839,
       "currencies": []
     },
     {
@@ -72,6 +79,13 @@
       ]
     },
     {
+      "title": "Yen Advances as Softer U.S. PPI Dents Fed Hike Bets - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7227,
+      "currencies": []
+    },
+    {
       "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
       "label": "neutral",
@@ -79,73 +93,59 @@
       "currencies": []
     },
     {
-      "title": "Exchange rate | Foreign Exchange, Currency Fluctuations, Exchange Rates - britannica.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex inflows will lead to a liquidity windfall and a bond market spinoff - TradingView",
-      "source": "Google News",
+      "title": "European shares flat, but set for weekly loss as Iran tensions lift oil",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9582,
+      "score": -0.9253,
       "currencies": []
     },
     {
-      "title": "Aerostar H1 profit nearly doubles as operating margin widens to 21%",
+      "title": "Sea1 Offshore Q2 2026 slides: margins hold at 52% as utilization slips",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8689,
+      "currencies": []
+    },
+    {
+      "title": "Navamedic Q2 2026 slides: margins surge despite flat revenue growth",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9491,
+      "score": 0.9253,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Amber Enterprises posts strong Q1 2026 growth",
+      "title": "Sea1 Offshore Q2 2026 slides: margins hold at 52% as utilization eases",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9513,
+      "score": 0.5127,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Unicommerce falls as q1 fy 2027 profit outlook weighs",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9732,
-      "currencies": []
-    },
-    {
-      "title": "Why is Samsonite stock falling today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9347,
-      "currencies": []
-    },
-    {
-      "title": "Why is China Gold International Resources stock surging today?",
+      "title": "Why is Anora stock rallying today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is GDS Holdings HK stock surging today?",
+      "title": "Alicon Castalloy Q1 FY27 slides: record revenue, margin pressure",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9253,
       "currencies": []
     },
     {
-      "title": "Sea profit misses estimates as higher costs offset strong revenue growth",
+      "title": "CS TECH Ai Q1-FY27 slides: margins hit 24.4% as revenue growth stalls",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8868,
+      "score": 0.9473,
       "currencies": []
     },
     {
-      "title": "Asian stocks head for strong weekly gains as US rate hike bets fade",
+      "title": "Navamedic Q2 2026 slides: margins surge 380bp amid portfolio shift",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7698,
+      "score": 0.7585,
       "currencies": []
     }
   ],
