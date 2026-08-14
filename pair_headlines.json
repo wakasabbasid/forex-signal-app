@@ -15,6 +15,12 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.5979
+      },
+      {
+        "title": "EUR/GBP stuck in a tight range as traders observe the war",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9256
       }
     ],
     "USD/JPY": [
@@ -31,10 +37,24 @@
         "score": -0.5295
       },
       {
-        "title": "British Pound advances as weak US sales deepen USD slide",
+        "title": "Silver Price Forecast: XAG/USD holds gains but struggles for fresh momentum",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.88
+      },
+      {
+        "title": "British Pound hits three-month high as weak US sales deepen USD slide",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.777
+        "score": -0.7681
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "EUR/GBP stuck in a tight range as traders observe the war",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9256
       }
     ]
   }
