@@ -3,7 +3,7 @@
   "pairs": {
     "NZD/USD": [
       {
-        "title": "NZD/USD Forecast: RBNZ Survey Threatens to Break the Calm - FOREX.com",
+        "title": "NZD/USD Forecast: RBNZ Survey Threatens to Break the Calm - forex.com",
         "source": "Google News",
         "label": "bearish",
         "score": -0.859
@@ -31,20 +31,20 @@
         "score": 0.0
       }
     ],
+    "AUD/USD": [
+      {
+        "title": "AUD/USD Price Forecast: Bulls eye 0.7100 after US Retail Sales miss",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.4039
+      }
+    ],
     "USD/CAD": [
       {
         "title": "USD/CAD Price Forecast: Bears target the 200-day SMA",
         "source": "FXStreet",
         "label": "neutral",
         "score": 0.0
-      }
-    ],
-    "USD/CHF": [
-      {
-        "title": "USD/CHF Price Forecast: Bearish flag holds as bulls eye 0.8150",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.5492
       }
     ]
   }
