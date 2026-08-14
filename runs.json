@@ -3,9 +3,9 @@
     {
       "id": 1,
       "engine": "finbert",
-      "headline_count": 70,
+      "headline_count": 69,
       "source_count": 6,
-      "created_at": "2026-08-14T19:51:30.342497+00:00",
+      "created_at": "2026-08-14T20:34:32.301530+00:00",
       "signals": [
         {
           "pair": "NZD/USD",
@@ -28,8 +28,8 @@
         {
           "pair": "USD/JPY",
           "signal": "HOLD",
-          "avg_score": 0.1346,
-          "headline_count": 3
+          "avg_score": 0.0,
+          "headline_count": 2
         },
         {
           "pair": "USD/CAD",

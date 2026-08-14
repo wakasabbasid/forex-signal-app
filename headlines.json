@@ -22,7 +22,7 @@
       "currencies": []
     },
     {
-      "title": "NZD/USD Forecast: RBNZ Survey Threatens to Break the Calm - forex.com",
+      "title": "NZD/USD Forecast: RBNZ Survey Threatens to Break the Calm - FOREX.com",
       "source": "Google News",
       "label": "bearish",
       "score": -0.859,
@@ -70,13 +70,6 @@
       "currencies": []
     },
     {
-      "title": "Why Japan Is Struggling to Stop the Yen\u2019s Decline - Forex Factory",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7033,
-      "currencies": []
-    },
-    {
       "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -91,63 +84,70 @@
       "currencies": []
     },
     {
-      "title": "Why is Oracle stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9137,
-      "currencies": []
+      "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
     },
     {
-      "title": "Why is Broadcom stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9249,
-      "currencies": []
-    },
-    {
-      "title": "Jumia de-risks profitability path with $50M IFC deal, CEO says",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6709,
-      "currencies": []
-    },
-    {
-      "title": "Tiger Global Management cuts stakes in Big Tech, buys into SpaceX",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.4948,
-      "currencies": []
-    },
-    {
-      "title": "Fed\u2019s Goolsbee says latest inflation data is better",
+      "title": "Delek Logistics closes $230M common unit offering",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Sensient Technologies stock hits all-time high at 132.78 USD",
+      "title": "JLL stock hits all-time high at 374.16 USD",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.612,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
         "USD"
       ]
     },
     {
-      "title": "Tech stock hits 52-week high at 72.39 USD",
+      "title": "Safe Pro Reports Record 1,336% Q2 2026 Revenue Growth on Government AI Threat Detection & Mapping Contracts",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5598,
-      "currencies": [
-        "USD"
-      ]
+      "score": 0.8975,
+      "currencies": []
     },
     {
-      "title": "Oil climbs over $1 on tanker attacks, no progrees on peace",
+      "title": "SEC proposes easing pay-to-play rules for investment advisers",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8112,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "FTC probes health records giant Epic Systems, sources say",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Paramount clears regulatory hurdles for Warner Bros. Discovery deal",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Stripe and Advent bid $60.50 a share for PayPal as talks advance, WSJ reports",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "H.C. Wainwright Reiterates Top Pick on Fractyl Health",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

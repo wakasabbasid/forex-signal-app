@@ -3,7 +3,7 @@
   "pairs": {
     "NZD/USD": [
       {
-        "title": "NZD/USD Forecast: RBNZ Survey Threatens to Break the Calm - forex.com",
+        "title": "NZD/USD Forecast: RBNZ Survey Threatens to Break the Calm - FOREX.com",
         "source": "Google News",
         "label": "bearish",
         "score": -0.859
@@ -25,22 +25,16 @@
     ],
     "USD/JPY": [
       {
-        "title": "Sensient Technologies stock hits all-time high at 132.78 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.612
+        "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       },
       {
-        "title": "Tech stock hits 52-week high at 72.39 USD",
+        "title": "JLL stock hits all-time high at 374.16 USD",
         "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.5598
-      },
-      {
-        "title": "British Pound hits three-month high as weak US sales deepen USD slide",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.7681
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "USD/CAD": [
