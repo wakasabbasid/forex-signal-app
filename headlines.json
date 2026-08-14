@@ -8,10 +8,10 @@
       "currencies": []
     },
     {
-      "title": "India Raises $50 Billion of Diaspora Dollars, Ends Swap Facility - Bloomberg.com",
+      "title": "India Raises $50 Billion of Diaspora Dollars, Ends Swap Facility - Bloomberg",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.5456,
       "currencies": []
     },
     {
@@ -77,13 +77,6 @@
       "currencies": []
     },
     {
-      "title": "RBI to close FX swap for overseas deposits earlier than planned, inflows top $50 billion - TradingView",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6066,
-      "currencies": []
-    },
-    {
       "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - DailyForex",
       "source": "Google News",
       "label": "neutral",
@@ -93,59 +86,66 @@
       ]
     },
     {
-      "title": "Park Aerospace board chairman & CEO Shore sells $3.05m in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "title": "RBI to close FX swap for overseas deposits earlier than planned, inflows top $50 billion - TradingView",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6066,
       "currencies": []
     },
     {
-      "title": "Warner Bros. Discovery director Fisher sells $549,200 of WBD stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "CarGurus CMO Dafna Sarnoff sells $634,587 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Worksport receives Nasdaq notice for minimum bid price deficiency",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Barfresh Food Group posts Q2 2026 revenue jump, shares fall",
+      "title": "Institutional investors reveal cautious approach to tech favorites in US quarterly 13F filings",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6446,
+      "score": -0.5776,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Corvex misses Q2 2026 estimates as stock turns lower",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9514,
-      "currencies": []
-    },
-    {
-      "title": "USA Rare Earth completes merger with Texas Mineral Resources",
+      "title": "Alphabet becomes Berkshire Hathaway\u2019s third-largest investment",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Oil prices notch weekly gains of more than 5% on impasse over Hormuz control",
+      "title": "US regulator approves bank charter for Trump-backed crypto company World Liberty Financial",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8875,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "KinderCare Learning Companies amends master lease agreements for 545 center sites",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "PBF Energy SVP & general counsel Trecia Canty sells $9.96m in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Jack in the box exec chairman King sells $104,977 of stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Plum Acquisition Corp. III announces resignation of independent auditor Marcum LLP",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8085,
+      "currencies": []
+    },
+    {
+      "title": "OceanLight Acquisition completes $100 million IPO on Nasdaq",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
