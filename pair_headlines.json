@@ -1,34 +1,68 @@
 {
   "run_id": 1,
   "pairs": {
-    "GBP/USD": [
-      {
-        "title": "GBP/JPY Price Forecast: Steadies above 215.00 capped by 50-day SMA",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.916
-      }
-    ],
     "USD/JPY": [
       {
-        "title": "GBP/JPY Price Forecast: Steadies above 215.00 capped by 50-day SMA",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.916
+        "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - dailyforex.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       },
       {
-        "title": "USD/MXN Price Forecast: Bears eye 17.00 as downtrend stretches",
+        "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC sets USD/ CNY reference rate for today at 6.7878 (vs. estimate at 6.7413)",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7413 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD extends correction as energy supply concerns remain intact",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.8498
+        "score": -0.7731
+      },
+      {
+        "title": "British Pound edges higher vs softer USD; lacks follow-through as geopolitics cap gains",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8985
+      },
+      {
+        "title": "New Zealand Dollar recovers from two-week low as fading Fed hike bets undermine USD",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8966
+      },
+      {
+        "title": "PBOC sets USD/CNY reference rate at 6.7878 vs. 6.7888 previous",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
-    "USD/CHF": [
+    "EUR/USD": [
       {
-        "title": "USD/CHF Price Forecast: Bearish flag keeps 0.8145 in focus",
-        "source": "FXStreet",
+        "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - dailyforex.com",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.4806
+      },
+      {
+        "title": "EUR risk: Latvia issues air threat alert, Finland restricts Gulf of Finland traffic",
+        "source": "ForexLive",
         "label": "bearish",
-        "score": -0.6267
+        "score": -0.7928
       }
     ]
   }

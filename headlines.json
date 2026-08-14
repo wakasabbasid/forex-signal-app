@@ -1,143 +1,151 @@
 {
   "headlines": [
     {
-      "title": "Mink Brook Asset Management buys $4,612 in DLH Holdings stock",
+      "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - dailyforex.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9097,
+      "currencies": []
+    },
+    {
+      "title": "Digital forex adoption rises as Indian travellers shift towards cards and self-service - ET TravelWorld",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8461,
+      "currencies": []
+    },
+    {
+      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "US Dollar-yuan becomes Hong Kong's most-traded currency pair for first time - Forex Factory",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5839,
+      "currencies": []
+    },
+    {
+      "title": "Forex Market Forecast \u2013 Euro, Pound, and Yen Test Support as US Yields Drift - Yahoo Finance",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "StoneX, Operator of FOREX.com, Targets Brazil FX Market with Banco Travelex Deal - TradingView",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: US Dollar holds steady ahead of US Retail Sales - Mitrade",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8854,
+      "currencies": []
+    },
+    {
+      "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - dailyforex.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.4806,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex inflows will lead to a liquidity windfall and a bond market spinoff - TradingView",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9582,
+      "currencies": []
+    },
+    {
+      "title": "Match group director Glenn Schiffman sells $626k in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Septerna president & COO Elizabeth Bhatt disposes of $1.1m in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Nu Q2\u201926 slides: profit tops $1B, risk-adjusted margin hits 12.4%",
+      "title": "Japan\u2019s July core inflation seen at 1.8% on higher energy costs",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8663,
+      "score": 0.8952,
       "currencies": []
     },
     {
-      "title": "Why is Reddit stock surging in aftermarket trade today?",
+      "title": "Asian stocks set for weekly gain on fading US rate hike wagers",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "EverCommerce CEO Eric Remer sells $667,379 of EVCM shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Trupanion CEO Margaret Tooth sells $28,410 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: CXAI posts mixed Q2 2026 results as stock swings",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9668,
-      "currencies": []
-    },
-    {
-      "title": "Snap-on CFO Aldo Pagliari sells $2.2m in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Waystar CEO Matthew Hawkins sells $2.06m in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Nubank tops $1 billion in Q2 2026 net income",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "OpenAI's annualized revenue run rate has surpassed $40 billion says a Bloomberg report",
-      "source": "ForexLive",
       "label": "bullish",
-      "score": 0.8554,
+      "score": 0.633,
       "currencies": []
     },
     {
-      "title": "ICYMI - Barkin says rate path unclear as sticky inflation meets resilient economy",
-      "source": "ForexLive",
+      "title": "JD.com shares slide 9% as weak retail growth overshadows Q2 earnings beat",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.4449,
+      "score": -0.9732,
       "currencies": []
     },
     {
-      "title": "NZ manufacturing growth cools to 54.3 in July after June's surge",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.9602,
-      "currencies": []
-    },
-    {
-      "title": "Fed's Goolsbee says inflation data improving, hopes tariff effects fade",
-      "source": "ForexLive",
-      "label": "bullish",
-      "score": 0.9394,
-      "currencies": []
-    },
-    {
-      "title": "Reddit to join S&P 500 index, Shares have jumped higher in after hours trade.",
-      "source": "ForexLive",
-      "label": "bullish",
-      "score": 0.9431,
-      "currencies": []
-    },
-    {
-      "title": "ICYMI - Hawkish Fed's Hammack says acting now on inflation is really critical",
-      "source": "ForexLive",
+      "title": "Ibotta director Thomas Lehrman sells $1.53m in company stock.",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Oil settles down circa 2% on weak demand outlook and hefty US crude build",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.9713,
+      "title": "Chemours president Gerardo Familiar buys $30,050 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "SEC abruptly pulls Friday crypto rules meeting, cites scheduling issue",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.8594,
+      "title": "Zentalis Pharmaceuticals prices $80.5M stock offering at $3.50",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Fitch affirms US at AA+, keeps outlook stable amid growth slowdown",
-      "source": "ForexLive",
-      "label": "bullish",
-      "score": 0.8583,
-      "currencies": []
-    },
-    {
-      "title": "UAE's Adnoc says two of its vessels attacked in Hormuz",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.8804,
+      "title": "Constellation Energy director Crandall buys $417,930 of CEG stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
