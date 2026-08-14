@@ -13,12 +13,6 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "Gold recovers intraday losses as reduced Fed hike bets offset geopolitics and weigh on USD",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9238
       }
     ],
     "EUR/USD": [
@@ -29,20 +23,12 @@
         "score": 0.5979
       }
     ],
-    "USD/CAD": [
+    "NZD/USD": [
       {
-        "title": "UBS sets new target for USD/CAD on rate differential outlook",
-        "source": "Investing.com",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "GBP/USD Price Forecast: Picks up above 1.3500 amid generalised US Dollar weakness",
+        "title": "NZD/USD Price Forecast: Approaches 0.5900 resistance area as US Dollar weakens",
         "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9255
+        "label": "bearish",
+        "score": -0.8908
       }
     ]
   }

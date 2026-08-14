@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - DailyForex",
       "source": "Google News",
       "label": "neutral",
@@ -10,13 +17,6 @@
       ]
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -24,10 +24,10 @@
       "currencies": []
     },
     {
-      "title": "Easing India Rupee Volatility May Help Attract More Foreign Money - Bloomberg.com",
+      "title": "Easing India Rupee Volatility May Help Attract More Foreign Money - Bloomberg",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.4936,
+      "score": 0.9423,
       "currencies": []
     },
     {
@@ -41,21 +41,21 @@
       ]
     },
     {
-      "title": "Swiss Franc Firms as Cooling U.S. Inflation Hits Dollar - TradingPedia",
+      "title": "Swiss Franc Firms as Cooling U.S. Inflation Hits Dollar - tradingpedia.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.847,
+      "score": -0.7724,
       "currencies": []
     },
     {
-      "title": "Digital forex adoption rises as Indian travellers shift towards cards and self-service - travel.economictimes.indiatimes.com",
+      "title": "Digital forex adoption rises as Indian travellers shift towards cards and self-service - ET TravelWorld",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.4791,
+      "score": 0.8461,
       "currencies": []
     },
     {
-      "title": "StoneX, Operator of FOREX.com, Targets Brazil FX Market with Banco Travelex Deal - tradingview.com",
+      "title": "StoneX, Operator of FOREX.com, Targets Brazil FX Market with Banco Travelex Deal - TradingView",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -86,69 +86,66 @@
       "currencies": []
     },
     {
-      "title": "Yen Advances as Softer U.S. PPI Dents Fed Hike Bets - TradingPedia",
+      "title": "Yen Advances as Softer U.S. PPI Dents Fed Hike Bets - tradingpedia.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.7227,
+      "score": -0.5737,
       "currencies": []
     },
     {
-      "title": "Krsnaa Q1 FY27 slides: 22% revenue growth, retail surges 64%",
+      "title": "Earnings call transcript: Lemonsoft posts stronger SaaS growth in Q2 2026",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9468,
+      "score": 0.9533,
       "currencies": []
     },
     {
-      "title": "UBS sets new target for USD/CAD on rate differential outlook",
+      "title": "Stablecoin issuer Tether says KPMG US has audited its 2025 statements",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.671,
+      "currencies": []
+    },
+    {
+      "title": "Culture clash: How Orcel\u2019s profit-boosting recipe could prove a bitter pill for Commerzbank",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7268,
+      "currencies": []
+    },
+    {
+      "title": "Luigi Mangione, accused insurance CEO killer, due in court amid plea deal reports",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8459,
+      "currencies": []
+    },
+    {
+      "title": "Morning Bid: Stay of execution?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "USD",
-        "CAD"
-      ]
-    },
-    {
-      "title": "Borgestad Q2 2026 slides: profit surges 72% on refractory gains",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9345,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Taiwan Mobile posts Q2 2026 beat as profit jumps",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5471,
-      "currencies": []
-    },
-    {
-      "title": "Why is Swarmer stock sliding today?",
+      "title": "Cooler inflation data may force Warsh\u2019s divided Fed to hold the line on rates",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.892,
+      "score": -0.7495,
       "currencies": []
     },
     {
-      "title": "Borgestad Q2 2026 slides: profit surges 72% on margin gains",
+      "title": "LyondellBasell declares $0.69 quarterly dividend",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9338,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Berenberg cuts Inter Parfums stock rating on valuation concerns",
+      "title": "Amcor appoints PwC US as new auditor, ending engagement with PwC Switzerland",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7692,
-      "currencies": []
-    },
-    {
-      "title": "Why is Globant stock tumbling today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6822,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
