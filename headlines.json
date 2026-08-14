@@ -93,61 +93,59 @@
       ]
     },
     {
-      "title": "Delek Logistics closes $230M common unit offering",
+      "title": "Park Aerospace board chairman & CEO Shore sells $3.05m in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "JLL stock hits all-time high at 374.16 USD",
+      "title": "Warner Bros. Discovery director Fisher sells $549,200 of WBD stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
+      "currencies": []
     },
     {
-      "title": "Safe Pro Reports Record 1,336% Q2 2026 Revenue Growth on Government AI Threat Detection & Mapping Contracts",
+      "title": "CarGurus CMO Dafna Sarnoff sells $634,587 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Worksport receives Nasdaq notice for minimum bid price deficiency",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Barfresh Food Group posts Q2 2026 revenue jump, shares fall",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6446,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Corvex misses Q2 2026 estimates as stock turns lower",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9514,
+      "currencies": []
+    },
+    {
+      "title": "USA Rare Earth completes merger with Texas Mineral Resources",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Oil prices notch weekly gains of more than 5% on impasse over Hormuz control",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8975,
-      "currencies": []
-    },
-    {
-      "title": "SEC proposes easing pay-to-play rules for investment advisers",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "FTC probes health records giant Epic Systems, sources say",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Paramount clears regulatory hurdles for Warner Bros. Discovery deal",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Stripe and Advent bid $60.50 a share for PayPal as talks advance, WSJ reports",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "H.C. Wainwright Reiterates Top Pick on Fractyl Health",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "score": 0.8875,
       "currencies": []
     }
   ],

@@ -29,12 +29,6 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "JLL stock hits all-time high at 374.16 USD",
-        "source": "Investing.com",
-        "label": "neutral",
-        "score": 0.0
       }
     ],
     "USD/CAD": [
