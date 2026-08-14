@@ -3,7 +3,7 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - DailyForex",
+        "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - dailyforex.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -17,10 +17,18 @@
     ],
     "EUR/USD": [
       {
-        "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - DailyForex",
+        "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - dailyforex.com",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.5979
+        "score": 0.4806
+      }
+    ],
+    "USD/CAD": [
+      {
+        "title": "USD/CAD Price Forecast: Posts fresh two-month low below 1.3900",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9655
       }
     ],
     "NZD/USD": [

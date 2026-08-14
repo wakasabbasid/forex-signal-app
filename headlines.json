@@ -8,15 +8,6 @@
       "currencies": []
     },
     {
-      "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
       "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -24,11 +15,13 @@
       "currencies": []
     },
     {
-      "title": "Easing India Rupee Volatility May Help Attract More Foreign Money - Bloomberg",
+      "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - dailyforex.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.9423,
-      "currencies": []
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
@@ -41,10 +34,10 @@
       ]
     },
     {
-      "title": "Swiss Franc Firms as Cooling U.S. Inflation Hits Dollar - tradingpedia.com",
+      "title": "Swiss Franc Firms as Cooling U.S. Inflation Hits Dollar - TradingPedia",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.7724,
+      "score": -0.847,
       "currencies": []
     },
     {
@@ -69,10 +62,10 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - DailyForex",
+      "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - dailyforex.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.5979,
+      "score": 0.4806,
       "currencies": [
         "EUR",
         "USD"
@@ -86,63 +79,70 @@
       "currencies": []
     },
     {
-      "title": "Yen Advances as Softer U.S. PPI Dents Fed Hike Bets - tradingpedia.com",
+      "title": "Exchange rate | Foreign Exchange, Currency Fluctuations, Exchange Rates - Encyclopedia Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Yen Advances as Softer U.S. PPI Dents Fed Hike Bets - TradingPedia",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.5737,
+      "score": -0.7227,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Lemonsoft posts stronger SaaS growth in Q2 2026",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9533,
-      "currencies": []
-    },
-    {
-      "title": "Stablecoin issuer Tether says KPMG US has audited its 2025 statements",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.671,
-      "currencies": []
-    },
-    {
-      "title": "Culture clash: How Orcel\u2019s profit-boosting recipe could prove a bitter pill for Commerzbank",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7268,
-      "currencies": []
-    },
-    {
-      "title": "Luigi Mangione, accused insurance CEO killer, due in court amid plea deal reports",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8459,
-      "currencies": []
-    },
-    {
-      "title": "Morning Bid: Stay of execution?",
+      "title": "B.Riley cuts Nuscale Power stock price target on valuation reset",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Cooler inflation data may force Warsh\u2019s divided Fed to hold the line on rates",
+      "title": "B.Riley cuts Blaize stock price target on lower revenue guidance",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7495,
+      "score": -0.9313,
       "currencies": []
     },
     {
-      "title": "LyondellBasell declares $0.69 quarterly dividend",
+      "title": "Wedbush cuts Globant stock rating on AI headwinds, lowers target",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7713,
+      "currencies": []
+    },
+    {
+      "title": "B.Riley cuts Eos Energy stock price target on tighter revenue outlook",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8249,
+      "currencies": []
+    },
+    {
+      "title": "Why is Birkenstock stock sliding today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9086,
+      "currencies": []
+    },
+    {
+      "title": "H.C. Wainwright reiterates Pharvaris stock rating on regulatory progress",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Amcor appoints PwC US as new auditor, ending engagement with PwC Switzerland",
+      "title": "Earnings call transcript: Nagarro H1 2026 growth slows as margins improve",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9613,
+      "currencies": []
+    },
+    {
+      "title": "H.C. Wainwright reiterates Buy on 4D Molecular stock, $36 target",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
