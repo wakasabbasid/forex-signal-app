@@ -15,16 +15,10 @@
         "score": 0.0
       },
       {
-        "title": "Canadian Dollar hits fresh high since June on rising oil prices, Fed-inspired USD weakness",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9143
-      },
-      {
-        "title": "Gold sticks to losses but holds above $4,300 as reduced Fed hike bets weigh on USD",
+        "title": "Gold recovers intraday losses as reduced Fed hike bets offset geopolitics and weigh on USD",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.8216
+        "score": -0.9238
       }
     ],
     "EUR/USD": [
@@ -33,12 +27,22 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.5979
-      },
+      }
+    ],
+    "USD/CAD": [
       {
-        "title": "EUR risk: Latvia issues air threat alert, Finland restricts Gulf of Finland traffic",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.7928
+        "title": "UBS sets new target for USD/CAD on rate differential outlook",
+        "source": "Investing.com",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Price Forecast: Picks up above 1.3500 amid generalised US Dollar weakness",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9255
       }
     ]
   }

@@ -31,13 +31,6 @@
       "currencies": []
     },
     {
-      "title": "Swiss Franc Firms as Cooling U.S. Inflation Hits Dollar - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.847,
-      "currencies": []
-    },
-    {
       "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -48,14 +41,21 @@
       ]
     },
     {
-      "title": "Digital forex adoption rises as Indian travellers shift towards cards and self-service - ET TravelWorld",
+      "title": "Swiss Franc Firms as Cooling U.S. Inflation Hits Dollar - TradingPedia",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.8461,
+      "label": "bearish",
+      "score": -0.847,
       "currencies": []
     },
     {
-      "title": "StoneX, Operator of FOREX.com, Targets Brazil FX Market with Banco Travelex Deal - TradingView",
+      "title": "Digital forex adoption rises as Indian travellers shift towards cards and self-service - travel.economictimes.indiatimes.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.4791,
+      "currencies": []
+    },
+    {
+      "title": "StoneX, Operator of FOREX.com, Targets Brazil FX Market with Banco Travelex Deal - tradingview.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -79,13 +79,6 @@
       ]
     },
     {
-      "title": "Yen Advances as Softer U.S. PPI Dents Fed Hike Bets - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7227,
-      "currencies": []
-    },
-    {
       "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
       "label": "neutral",
@@ -93,59 +86,69 @@
       "currencies": []
     },
     {
-      "title": "European shares flat, but set for weekly loss as Iran tensions lift oil",
-      "source": "Investing.com",
+      "title": "Yen Advances as Softer U.S. PPI Dents Fed Hike Bets - TradingPedia",
+      "source": "Google News",
       "label": "bearish",
-      "score": -0.9253,
+      "score": -0.7227,
       "currencies": []
     },
     {
-      "title": "Sea1 Offshore Q2 2026 slides: margins hold at 52% as utilization slips",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8689,
-      "currencies": []
-    },
-    {
-      "title": "Navamedic Q2 2026 slides: margins surge despite flat revenue growth",
+      "title": "Krsnaa Q1 FY27 slides: 22% revenue growth, retail surges 64%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9253,
+      "score": 0.9468,
       "currencies": []
     },
     {
-      "title": "Sea1 Offshore Q2 2026 slides: margins hold at 52% as utilization eases",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5127,
-      "currencies": []
-    },
-    {
-      "title": "Why is Anora stock rallying today?",
+      "title": "UBS sets new target for USD/CAD on rate differential outlook",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": [
+        "USD",
+        "CAD"
+      ]
+    },
+    {
+      "title": "Borgestad Q2 2026 slides: profit surges 72% on refractory gains",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9345,
       "currencies": []
     },
     {
-      "title": "Alicon Castalloy Q1 FY27 slides: record revenue, margin pressure",
+      "title": "Earnings call transcript: Taiwan Mobile posts Q2 2026 beat as profit jumps",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9253,
+      "score": 0.5471,
       "currencies": []
     },
     {
-      "title": "CS TECH Ai Q1-FY27 slides: margins hit 24.4% as revenue growth stalls",
+      "title": "Why is Swarmer stock sliding today?",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9473,
+      "label": "bearish",
+      "score": -0.892,
       "currencies": []
     },
     {
-      "title": "Navamedic Q2 2026 slides: margins surge 380bp amid portfolio shift",
+      "title": "Borgestad Q2 2026 slides: profit surges 72% on margin gains",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7585,
+      "score": 0.9338,
+      "currencies": []
+    },
+    {
+      "title": "Berenberg cuts Inter Parfums stock rating on valuation concerns",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7692,
+      "currencies": []
+    },
+    {
+      "title": "Why is Globant stock tumbling today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6822,
       "currencies": []
     }
   ],
