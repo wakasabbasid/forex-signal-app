@@ -22,7 +22,7 @@
       "currencies": []
     },
     {
-      "title": "NZD/USD Forecast: RBNZ Survey Threatens to Break the Calm - FOREX.com",
+      "title": "NZD/USD Forecast: RBNZ Survey Threatens to Break the Calm - forex.com",
       "source": "Google News",
       "label": "bearish",
       "score": -0.859,
@@ -39,13 +39,6 @@
       "currencies": []
     },
     {
-      "title": "Three reasons why BOJ rate hikes will not save the yen - investinglive.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - DailyForex",
       "source": "Google News",
       "label": "bullish",
@@ -54,6 +47,13 @@
         "EUR",
         "USD"
       ]
+    },
+    {
+      "title": "Three reasons why BOJ rate hikes will not save the yen - investingLive",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "India central bank closes forex swap facility early after $50bn inflow - Investing.com",
@@ -67,6 +67,13 @@
       "source": "Google News",
       "label": "bullish",
       "score": 0.9105,
+      "currencies": []
+    },
+    {
+      "title": "Why Japan Is Struggling to Stop the Yen\u2019s Decline - Forex Factory",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7033,
       "currencies": []
     },
     {
@@ -84,68 +91,63 @@
       "currencies": []
     },
     {
-      "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - DailyForex",
-      "source": "Google News",
+      "title": "Why is Oracle stock sliding today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9137,
+      "currencies": []
+    },
+    {
+      "title": "Why is Broadcom stock sliding today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9249,
+      "currencies": []
+    },
+    {
+      "title": "Jumia de-risks profitability path with $50M IFC deal, CEO says",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6709,
+      "currencies": []
+    },
+    {
+      "title": "Tiger Global Management cuts stakes in Big Tech, buys into SpaceX",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.4948,
+      "currencies": []
+    },
+    {
+      "title": "Fed\u2019s Goolsbee says latest inflation data is better",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Sensient Technologies stock hits all-time high at 132.78 USD",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.612,
       "currencies": [
         "USD"
       ]
     },
     {
-      "title": "3M board declares quarterly dividend of $0.78 per share",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8251,
-      "currencies": []
-    },
-    {
-      "title": "New Mexico gas pipeline for Oracle data center delayed to 2027",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Chegg director Renee Budig sells $42,146 of company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Canada autoworker union: Stellantis considering sale of Canada plant",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "SNC SCANDIC PAY: Pay anywhere in the world, without limit",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "S&P set for weekly climb, helped by reduction in rate hike bets; oil caps gains",
+      "title": "Tech stock hits 52-week high at 72.39 USD",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8463,
-      "currencies": []
+      "score": 0.5598,
+      "currencies": [
+        "USD"
+      ]
     },
     {
-      "title": "Broadcom options surge on selloff day, with $400 August 2026 call leading volume",
+      "title": "Oil climbs over $1 on tanker attacks, no progrees on peace",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8685,
-      "currencies": []
-    },
-    {
-      "title": "Reading Int B earnings beat by $0.04, revenue topped estimates",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9353,
+      "score": 0.8112,
       "currencies": []
     }
   ],
