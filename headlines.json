@@ -8,10 +8,17 @@
       "currencies": []
     },
     {
-      "title": "India Raises $50 Billion of Diaspora Dollars, Ends Swap Facility - Bloomberg.com",
+      "title": "India Raises $50 Billion From Diaspora, Ends Swap Facility Early - bloomberg.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Dollar deluge prompts RBI to shut special FCNR scheme early; $52 bn raised so far - TradingView",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.4645,
       "currencies": []
     },
     {
@@ -25,14 +32,7 @@
       ]
     },
     {
-      "title": "Dollar deluge prompts RBI to shut special FCNR scheme early; $52 bn raised so far - TradingView",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.4645,
-      "currencies": []
-    },
-    {
-      "title": "What Is the Foreign Exchange Market: A Guide - britannica.com",
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -56,10 +56,17 @@
       "currencies": []
     },
     {
-      "title": "Dollar falls after retail sales, heads for first weekly gain in three weeks - Investing.com",
+      "title": "India central bank closes forex swap facility early after $50bn inflow - Investing.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.3827,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex kitty jumps $14.14 billion to $707 billion in one of the biggest weekly expansions - The Hindu",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9105,
       "currencies": []
     },
     {
@@ -89,66 +96,59 @@
       ]
     },
     {
-      "title": "StoneX, Operator of FOREX.com, Targets Brazil FX Market with Banco Travelex Deal - TradingView",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Hartree Partners buys $28,589 in Hudson Technologies stock",
+      "title": "OFG Bancorp director Nestor De Jesus sells $212,000 in common stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US, Canada face sticking points before 50% tariff deadline",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9453,
-      "currencies": []
-    },
-    {
-      "title": "AeroVironment SVP, chief accounting officer sells $41,381 in stock",
+      "title": "Cboe Global Markets director sells $261,376 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "How fast can the U.S. build data centers amid labour concerns?",
+      "title": "Venture global SVP Sarah Blake sells $14 million in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Lifeward earnings missed by $0.07, revenue topped estimates",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9709,
-      "currencies": []
-    },
-    {
-      "title": "Magnetar Financial, CoreWeave 10% owner, sells $33.4m stock",
+      "title": "Anthropic IPO valuation rests on up to $200 billion 2028 revenue target - Reuters",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "AJB Investment Fund II buys $49,299 in Jewett Cameron shares",
+      "title": "Park Aerospace COO Mark Esquivel sells $1.48m in PKE shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Clene earnings missed by $0.75, revenue topped estimates",
+      "title": "Maze Therapeutics president sells $445,620 in company stock",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9696,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Edgewise Therapeutics CMO Joanne Donovan sells $412,703 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Azz COO Bryan Stovall sells $401,726 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
