@@ -15,7 +15,7 @@
       "currencies": []
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "title": "What Is the Foreign Exchange Market: A Guide - britannica.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -42,24 +42,26 @@
       ]
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - wsj.com",
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.674,
+      "score": 0.9371,
       "currencies": []
+    },
+    {
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "Dollar deluge prompts RBI to shut special FCNR scheme early; $52 bn raised so far - TradingView",
       "source": "Google News",
       "label": "bearish",
       "score": -0.4645,
-      "currencies": []
-    },
-    {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -70,7 +72,7 @@
       "currencies": []
     },
     {
-      "title": "Exchange rate | Foreign Exchange, Currency Fluctuations, Exchange Rates - Encyclopedia Britannica",
+      "title": "Exchange rate | Foreign Exchange, Currency Fluctuations, Exchange Rates - britannica.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -89,6 +91,27 @@
     {
       "title": "Gold, Silver, US Dollar Outlook: Reversal Risks in Focus - FOREX.com",
       "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why Nvidia\u2019s $500bn investment mobilization is a positive for the stock",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7599,
+      "currencies": []
+    },
+    {
+      "title": "Atmos Energy director William Ware buys $50,278 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Home Bancshares director Jim Rankin sells $462,966 in HOMB stock",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
@@ -126,27 +149,6 @@
       "source": "Investing.com",
       "label": "bearish",
       "score": -0.8181,
-      "currencies": []
-    },
-    {
-      "title": "Nvidia in talks to invest $3 billion in SB Energy as part of OpenAI data center deal, the Information reports",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Bitcoin price holds near $63,000 as selling pressure offsets regulatory progress",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6865,
-      "currencies": []
-    },
-    {
-      "title": "Kestra Medical Technologies officer Traci Umberger sells $512,791",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     }
   ],
