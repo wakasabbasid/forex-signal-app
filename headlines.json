@@ -8,14 +8,14 @@
       "currencies": []
     },
     {
-      "title": "India Raises $50 Billion of Diaspora Dollars, Ends Swap Facility - Bloomberg",
+      "title": "India Raises $50 Billion of Diaspora Dollars, Ends Swap Facility - Bloomberg.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.5456,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "NZD/USD Forecast: RBNZ Survey Threatens to Break the Calm - forex.com",
+      "title": "NZD/USD Forecast: RBNZ Survey Threatens to Break the Calm - FOREX.com",
       "source": "Google News",
       "label": "bearish",
       "score": -0.859,
@@ -32,7 +32,7 @@
       "currencies": []
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "title": "What Is the Foreign Exchange Market: A Guide - britannica.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - forex.com",
+      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -96,59 +96,59 @@
       "currencies": []
     },
     {
-      "title": "BioRestorative Therapies suspends shipments of ExoCR and BioX products for review",
+      "title": "Hartree Partners buys $28,589 in Hudson Technologies stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US, Canada face sticking points before 50% tariff deadline",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7894,
+      "score": -0.9453,
       "currencies": []
     },
     {
-      "title": "VICI Properties L.P. completes $1.75 billion notes offering to refinance debt",
+      "title": "AeroVironment SVP, chief accounting officer sells $41,381 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Warner Bros. Discovery CEO David Zaslav sells $27.1m in company stock",
+      "title": "How fast can the U.S. build data centers amid labour concerns?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Natera director Jonathan Sheena sells $1.95m in common stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Bally\u2019s warns of going-concern risk as it seeks fresh funding",
+      "title": "Lifeward earnings missed by $0.07, revenue topped estimates",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.82,
+      "score": -0.9709,
       "currencies": []
     },
     {
-      "title": "Centerspace completes sale of 14 apartment communities for $318.8 million",
+      "title": "Magnetar Financial, CoreWeave 10% owner, sells $33.4m stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Bruker declares $0.05 quarterly dividend for common shareholders",
+      "title": "AJB Investment Fund II buys $49,299 in Jewett Cameron shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Morningstar executive chairman Joseph Mansueto sells over $2.9M in stock",
+      "title": "Clene earnings missed by $0.75, revenue topped estimates",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9696,
       "currencies": []
     }
   ],
