@@ -32,27 +32,27 @@
       ]
     },
     {
-      "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - dailyforex.com",
+      "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - DailyForex",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.4806,
+      "score": 0.5979,
       "currencies": [
         "EUR",
         "USD"
       ]
     },
     {
-      "title": "Three reasons why BOJ rate hikes will not save the yen - investingLive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
       "source": "Google News",
       "label": "bullish",
       "score": 0.9371,
+      "currencies": []
+    },
+    {
+      "title": "Three reasons why BOJ rate hikes will not save the yen - investingLive",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -70,7 +70,7 @@
       "currencies": []
     },
     {
-      "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - dailyforex.com",
+      "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -91,6 +91,34 @@
     {
       "title": "StoneX, Operator of FOREX.com, Targets Brazil FX Market with Banco Travelex Deal - TradingView",
       "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Iran defiant on strait as Trump tells Americans to accept high gas prices",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Crusading India state food safety chief targets Eternal, Swiggy, Zepto in sweeping crackdown",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6362,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin bear flag 80% complete near $62,500: Live levels",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Fund managers chase \u20ac500 billion German pension overhaul",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
@@ -118,37 +146,6 @@
     },
     {
       "title": "Avidbank Holdings EVP Wasson sells $331,400 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "What happens if USD/JPY goes above 160? \u2018Credibility falls further\u2019",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9486,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
-      "title": "American Assets Trust executive chairman Rady acquires $3.4m in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Global self storage director Russell Burke buys $8,458 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Iran defiant on strait as Trump tells Americans to accept high gas prices",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
