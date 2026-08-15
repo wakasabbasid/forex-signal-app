@@ -8,6 +8,13 @@
       "currencies": []
     },
     {
+      "title": "India Raises $50 Billion From Diaspora, Ends Swap Facility Early - Bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -49,16 +56,16 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - newsonair.gov.in",
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - Newsonair",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8185,
+      "score": 0.8971,
       "currencies": [
         "USD"
       ]
     },
     {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - jpmorgan.com",
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -81,13 +88,6 @@
       ]
     },
     {
-      "title": "Dollar deluge prompts RBI to shut special FCNR scheme early; $52 bn raised so far - TradingView",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.4645,
-      "currencies": []
-    },
-    {
       "title": "Gold, Silver, US Dollar Outlook: Reversal Risks in Focus - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -95,56 +95,56 @@
       "currencies": []
     },
     {
+      "title": "Axogen director Amy Wendell sells $646k in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Finance of America CIO Prahm sells $130,402 in FOA shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Merck EVP DeLuca sells $5.9m in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Celanese SVP Murray buys $98,004 in common stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Avalo Therapeutics CMO Mittie Doyle sells $13,580 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Avalo Therapeutics CSO Jennifer Riley sells $52,012 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Twilio director Erika Rottenberg sells $881k in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Corcept therapeutics chief development officer sells $1.8m in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Patricia Mulroy sells $37,415 of Bowman Consulting stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "A10 Networks general counsel sells $392,435 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Biote Corp. executive chairman Marc Beer buys over $202k in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Prediction market operator Kalshi hits back at Nevada regulator over geofencing fine",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9002,
-      "currencies": []
-    },
-    {
-      "title": "Q2 holdings chief people officer Rutledge sells $630,700 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Tactile systems CEO Sheri Dodd sells $323,242 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Sysco EVP Ronald Phillips sells $558k in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
