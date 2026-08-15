@@ -15,13 +15,6 @@
       "currencies": []
     },
     {
-      "title": "Dollar deluge prompts RBI to shut special FCNR scheme early; $52 bn raised so far - TradingView",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.4645,
-      "currencies": []
-    },
-    {
       "title": "NZD/USD Forecast: RBNZ Survey Threatens to Break the Calm - forex.com",
       "source": "Google News",
       "label": "bearish",
@@ -32,7 +25,14 @@
       ]
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - britannica.com",
+      "title": "Dollar deluge prompts RBI to shut special FCNR scheme early; $52 bn raised so far - TradingView",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.4645,
+      "currencies": []
+    },
+    {
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -56,17 +56,10 @@
       "currencies": []
     },
     {
-      "title": "India central bank closes forex swap facility early after $50bn inflow - Investing.com",
+      "title": "Dollar falls after retail sales, heads for first weekly gain in three weeks - Investing.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex kitty jumps $14.14 billion to $707 billion in one of the biggest weekly expansions - The Hindu",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9105,
+      "label": "bearish",
+      "score": -0.3827,
       "currencies": []
     },
     {
@@ -86,63 +79,73 @@
       ]
     },
     {
-      "title": "RBI to close FX swap for overseas deposits earlier than planned, inflows top $50 billion - TradingView",
+      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - forex.com",
       "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "StoneX, Operator of FOREX.com, Targets Brazil FX Market with Banco Travelex Deal - TradingView",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "BioRestorative Therapies suspends shipments of ExoCR and BioX products for review",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6066,
+      "score": -0.7894,
       "currencies": []
     },
     {
-      "title": "Dutch Bros director Todd Penegor buys $103,120 in Bros stock",
+      "title": "VICI Properties L.P. completes $1.75 billion notes offering to refinance debt",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Krystal Biotech (NASDAQ:KRYS) director Dino Rossi sells $8.2m shares",
+      "title": "Warner Bros. Discovery CEO David Zaslav sells $27.1m in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Corsair gaming director Sarah Kim sells $121,486 in shares",
+      "title": "Natera director Jonathan Sheena sells $1.95m in common stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why AI is unlikely to be an apocalypse for jobs",
+      "title": "Bally\u2019s warns of going-concern risk as it seeks fresh funding",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.82,
+      "currencies": []
+    },
+    {
+      "title": "Centerspace completes sale of 14 apartment communities for $318.8 million",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Beta Technologies president and CEO Kyle Clark sells $1.11m in stock",
+      "title": "Bruker declares $0.05 quarterly dividend for common shareholders",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "AppFolio director Maurice Duca sells $1.33m in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Arista Networks CEO Jayshree Ullal sells $119.3m in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "AppFolio director Maurice Duca sells $2.9m in stock",
+      "title": "Morningstar executive chairman Joseph Mansueto sells over $2.9M in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

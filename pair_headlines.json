@@ -29,6 +29,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - forex.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "AUD/USD": [
