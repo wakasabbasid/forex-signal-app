@@ -23,24 +23,16 @@
         "score": 0.0
       },
       {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - Newsonair",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.6676
+        "score": 0.8971
       },
       {
         "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - dailyforex.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      }
-    ],
-    "NZD/USD": [
-      {
-        "title": "NZD/USD Forecast: RBNZ Survey Threatens to Break the Calm - FOREX.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.859
       }
     ],
     "AUD/USD": [

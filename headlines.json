@@ -1,10 +1,10 @@
 {
   "headlines": [
     {
-      "title": "India's forex reserves climb past $700 billion on robust inflows - Reuters",
+      "title": "India's forex reserves climb past $700 billion on robust inflows - reuters.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8728,
+      "score": 0.8652,
       "currencies": []
     },
     {
@@ -49,26 +49,26 @@
       "currencies": []
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - wsj.com",
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.674,
+      "score": 0.9371,
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - Newsonair",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.6676,
+      "score": 0.8971,
       "currencies": [
         "USD"
       ]
     },
     {
-      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
+      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - reuters.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9097,
+      "score": 0.6896,
       "currencies": []
     },
     {
@@ -88,14 +88,32 @@
       "currencies": []
     },
     {
-      "title": "NZD/USD Forecast: RBNZ Survey Threatens to Break the Calm - FOREX.com",
+      "title": "Gold, Silver, US Dollar Outlook: Reversal Risks in Focus - FOREX.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.859,
-      "currencies": [
-        "NZD",
-        "USD"
-      ]
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Sysco EVP Ronald Phillips sells $558k in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Iran defiant on strait as Trump tells Americans to accept high gasoline prices",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Is Alphabet signaling a shift in its AI strategy?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "Ukraine strikes Russian space centre linked to Rassvet satellite network",
@@ -127,27 +145,6 @@
     },
     {
       "title": "Ameriprise Financial\u2019s Dawn Brockman sells $263,815 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Magnite chief accounting officer Gephart sells $307k in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Ukraine says it hit Russian rocket centre linked to Starlink-style network",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Prosperity Bancshares director Holmes sells $81,550 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

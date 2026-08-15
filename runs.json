@@ -5,14 +5,8 @@
       "engine": "finbert",
       "headline_count": 70,
       "source_count": 6,
-      "created_at": "2026-08-15T13:37:51.013811+00:00",
+      "created_at": "2026-08-15T14:31:24.289818+00:00",
       "signals": [
-        {
-          "pair": "NZD/USD",
-          "signal": "SELL",
-          "avg_score": -0.859,
-          "headline_count": 1
-        },
         {
           "pair": "EUR/USD",
           "signal": "BUY",
@@ -28,7 +22,7 @@
         {
           "pair": "USD/JPY",
           "signal": "BUY",
-          "avg_score": 0.2225,
+          "avg_score": 0.299,
           "headline_count": 3
         },
         {
