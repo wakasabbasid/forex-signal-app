@@ -56,7 +56,7 @@
       "currencies": []
     },
     {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - jpmorgan.com",
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -93,6 +93,41 @@
       "currencies": []
     },
     {
+      "title": "H.B. Fuller exec VP Nathan Weaver sells $593k in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Park Aerospace board chairman & CEO Brian Shore sells $2.84m in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Nuveen AMT-free municipal fund portfolio manager sells $62,250 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Beneath the S&P 500 rally: Where performance and fundamentals diverge",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "General Dynamics director Peter Wall sells $788,897 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Citizens, Inc. president & CEO Jon Stenberg buys $43,795 in stock",
       "source": "Investing.com",
       "label": "neutral",
@@ -111,41 +146,6 @@
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "HRT Financial sells $2,211 in Profusa (PFSA) shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "HRT Financial LP, a 10% owner, sells $36,816 of Kidz AI stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Bank of the James president buys $2,705 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "HRT Financial LP sells $6,103 of Maison Solutions stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Peru\u2019s economic growth slows to 1.75% in June",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9714,
       "currencies": []
     }
   ],
