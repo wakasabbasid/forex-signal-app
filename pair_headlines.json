@@ -21,12 +21,14 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
+      }
+    ],
+    "GBP/USD": [
       {
-        "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - DailyForex",
+        "title": "GBP/USD Signal: Inverted Head and Shoulders Forms Ahead of US CPI Data - DailyForex",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bearish",
+        "score": -0.5535
       }
     ],
     "AUD/USD": [
