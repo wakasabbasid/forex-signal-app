@@ -22,22 +22,22 @@
       "currencies": []
     },
     {
-      "title": "NZD/USD Forecast: RBNZ Survey Threatens to Break the Calm - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.859,
-      "currencies": [
-        "NZD",
-        "USD"
-      ]
-    },
-    {
       "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - DailyForex",
       "source": "Google News",
       "label": "bullish",
       "score": 0.5979,
       "currencies": [
         "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "NZD/USD Forecast: RBNZ Survey Threatens to Break the Calm - FOREX.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.859,
+      "currencies": [
+        "NZD",
         "USD"
       ]
     },
@@ -89,10 +89,31 @@
       ]
     },
     {
-      "title": "StoneX, Operator of FOREX.com, Targets Brazil FX Market with Banco Travelex Deal - TradingView",
+      "title": "Exchange rate | Foreign Exchange, Currency Fluctuations, Exchange Rates - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "UBS lists 4 reasons why it may be a good time to look at infrastructure now",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Empery Asset Management acquires $4.07m in Empery Digital stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "U.K. steps up defense supply-chain checks after naval drones signal China",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.4316,
       "currencies": []
     },
     {
@@ -128,27 +149,6 @@
       "source": "Investing.com",
       "label": "bearish",
       "score": -0.8046,
-      "currencies": []
-    },
-    {
-      "title": "Horace Mann director Reece sells $70,018 of HMN stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Horace Mann director Thomas Bradley sells $258,623 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Avidbank Holdings EVP Wasson sells $331,400 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     }
   ],

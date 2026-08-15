@@ -1,14 +1,6 @@
 {
   "run_id": 1,
   "pairs": {
-    "NZD/USD": [
-      {
-        "title": "NZD/USD Forecast: RBNZ Survey Threatens to Break the Calm - FOREX.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.859
-      }
-    ],
     "EUR/USD": [
       {
         "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - DailyForex",
@@ -23,6 +15,14 @@
         "score": 0.6156
       }
     ],
+    "NZD/USD": [
+      {
+        "title": "NZD/USD Forecast: RBNZ Survey Threatens to Break the Calm - FOREX.com",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.859
+      }
+    ],
     "USD/JPY": [
       {
         "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - DailyForex",
@@ -35,12 +35,6 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "What happens if USD/JPY goes above 160? \u2018Credibility falls further\u2019",
-        "source": "Investing.com",
-        "label": "bearish",
-        "score": -0.9486
       }
     ],
     "AUD/USD": [
