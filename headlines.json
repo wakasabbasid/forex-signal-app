@@ -1,17 +1,17 @@
 {
   "headlines": [
     {
-      "title": "India Raises $50 Billion From Diaspora, Ends Swap Facility Early - Bloomberg",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "India's forex reserves climb past $700 billion on robust inflows - Reuters",
       "source": "Google News",
       "label": "bullish",
       "score": 0.8728,
+      "currencies": []
+    },
+    {
+      "title": "India Raises $50 Billion From Diaspora, Ends Swap Facility Early - Bloomberg",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -49,10 +49,10 @@
       ]
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - wsj.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9371,
+      "score": 0.674,
       "currencies": []
     },
     {
@@ -63,13 +63,6 @@
       "currencies": [
         "USD"
       ]
-    },
-    {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
     },
     {
       "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
@@ -88,6 +81,13 @@
       ]
     },
     {
+      "title": "Exchange rate | Foreign Exchange, Currency Fluctuations, Exchange Rates - Encyclopedia Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -98,59 +98,59 @@
       ]
     },
     {
-      "title": "Horizon Kinetics buys Texas Pacific Land stock for $343",
+      "title": "Winnebago SVP-CHRO Woodson sells $78,841 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Bitcoin price holds on to $63,000 as selling pressure offsets regulatory progress",
+      "title": "how InvestingPro\u2019s Fair Value spotted Organon\u2019s 69% gain potential",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8874,
+      "score": 0.7192,
       "currencies": []
     },
     {
-      "title": "US presses Apple to avoid Chinese memory chips amid shortage - WSJ reports",
+      "title": "VinFast falls 42% to Fair Value target as InvestingPro predicted",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7857,
+      "score": -0.8957,
       "currencies": []
     },
     {
-      "title": "Knight-Swift CEO Reid Dove sells $12.3m in company stock",
+      "title": "Trend followers could keep buying Nasdaq, BofA says",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "UBS lists 4 reasons why it may be a good time to look at infrastructure now",
+      "title": "Univest financial director Turner sells $344,280 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Empery Asset Management acquires $4.07m in Empery Digital stock",
+      "title": "Horizon Kinetics Asset Management buys $2,192 of RENN Fund stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "U.K. steps up defense supply-chain checks after naval drones signal China",
+      "title": "Bitcoin price holds below $63,000 as selling pressure offsets regulatory progress",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.4316,
+      "label": "bearish",
+      "score": -0.877,
       "currencies": []
     },
     {
-      "title": "Iran defiant on strait as Trump tells Americans to accept high gas prices",
+      "title": "Trump\u2019s 2024 grocery photo op now haunts Republicans in the midterms",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.8117,
       "currencies": []
     }
   ],
