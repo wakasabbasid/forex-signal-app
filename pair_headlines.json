@@ -35,6 +35,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "What happens if USD/JPY goes above 160? \u2018Credibility falls further\u2019",
+        "source": "Investing.com",
+        "label": "bearish",
+        "score": -0.9486
       }
     ],
     "AUD/USD": [

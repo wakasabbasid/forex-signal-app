@@ -8,7 +8,7 @@
       "currencies": []
     },
     {
-      "title": "India Raises $50 Billion From Diaspora, Ends Swap Facility Early - Bloomberg.com",
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -30,13 +30,6 @@
         "NZD",
         "USD"
       ]
-    },
-    {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
     },
     {
       "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - dailyforex.com",
@@ -63,10 +56,10 @@
       "currencies": []
     },
     {
-      "title": "India central bank closes forex swap facility early after $50bn inflow - Investing.com",
+      "title": "Dollar falls after retail sales, heads for first weekly gain in three weeks - Investing.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.3827,
       "currencies": []
     },
     {
@@ -96,56 +89,66 @@
       ]
     },
     {
-      "title": "Iran defiant on strait as Trump tells Americans to accept high gas prices",
-      "source": "Investing.com",
+      "title": "StoneX, Operator of FOREX.com, Targets Brazil FX Market with Banco Travelex Deal - TradingView",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Angel Studios CEO Neal Harmon buys $125k in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Live Oak Bancshares CEO James Mahan sells $858k in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Winmill & Co. Inc buys $60,787 of Global Self Storage (SELF)",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "United Therapeutics CEO Martine Rothblatt sells $4.79m in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Abacus global CEO Jay Jackson sells $1.7m in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Nvidia cuts planned OpenAI data center guarantee to below $120 billion - WSJ",
+      "title": "ADNOC vessel attacked in Hormuz as Trump defends extended carrier deployment",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.778,
+      "score": -0.8046,
       "currencies": []
     },
     {
-      "title": "OFG Bancorp director Nestor De Jesus sells $212,000 in common stock",
+      "title": "Horace Mann director Reece sells $70,018 of HMN stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Horace Mann director Thomas Bradley sells $258,623 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Avidbank Holdings EVP Wasson sells $331,400 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "What happens if USD/JPY goes above 160? \u2018Credibility falls further\u2019",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9486,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "American Assets Trust executive chairman Rady acquires $3.4m in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Global self storage director Russell Burke buys $8,458 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Iran defiant on strait as Trump tells Americans to accept high gas prices",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
