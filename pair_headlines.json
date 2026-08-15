@@ -3,10 +3,10 @@
   "pairs": {
     "EUR/USD": [
       {
-        "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - dailyforex.com",
+        "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - DailyForex",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.4806
+        "score": 0.5979
       },
       {
         "title": "EUR/USD Price Forecast: 100-Day SMA blocks bullish reversal",
@@ -23,13 +23,13 @@
         "score": 0.0
       },
       {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - Newsonair",
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - newsonair.gov.in",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.8971
+        "score": 0.8185
       },
       {
-        "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - dailyforex.com",
+        "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0

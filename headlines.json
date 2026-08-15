@@ -1,17 +1,10 @@
 {
   "headlines": [
     {
-      "title": "India's forex reserves climb past $700 billion on robust inflows - reuters.com",
+      "title": "India's forex reserves climb past $700 billion on robust inflows - Reuters",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8652,
-      "currencies": []
-    },
-    {
-      "title": "India Raises $50 Billion From Diaspora, Ends Swap Facility Early - Bloomberg.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "score": 0.8728,
       "currencies": []
     },
     {
@@ -22,10 +15,10 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - dailyforex.com",
+      "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - DailyForex",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.4806,
+      "score": 0.5979,
       "currencies": [
         "EUR",
         "USD"
@@ -42,10 +35,10 @@
       ]
     },
     {
-      "title": "Dollar deluge prompts RBI to shut special FCNR scheme early; $52 bn raised so far - TradingView",
+      "title": "StoneX, Operator of FOREX.com, Targets Brazil FX Market with Banco Travelex Deal - TradingView",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.4645,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -56,23 +49,30 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - Newsonair",
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - newsonair.gov.in",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8971,
+      "score": 0.8185,
       "currencies": [
         "USD"
       ]
     },
     {
-      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - reuters.com",
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - jpmorgan.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.6896,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - dailyforex.com",
+      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9097,
+      "currencies": []
+    },
+    {
+      "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -81,10 +81,10 @@
       ]
     },
     {
-      "title": "StoneX, Operator of FOREX.com, Targets Brazil FX Market with Banco Travelex Deal - TradingView",
+      "title": "Dollar deluge prompts RBI to shut special FCNR scheme early; $52 bn raised so far - TradingView",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.4645,
       "currencies": []
     },
     {
@@ -95,56 +95,56 @@
       "currencies": []
     },
     {
+      "title": "Corcept therapeutics chief development officer sells $1.8m in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Patricia Mulroy sells $37,415 of Bowman Consulting stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "A10 Networks general counsel sells $392,435 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Biote Corp. executive chairman Marc Beer buys over $202k in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Prediction market operator Kalshi hits back at Nevada regulator over geofencing fine",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9002,
+      "currencies": []
+    },
+    {
+      "title": "Q2 holdings chief people officer Rutledge sells $630,700 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Tactile systems CEO Sheri Dodd sells $323,242 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Sysco EVP Ronald Phillips sells $558k in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Iran defiant on strait as Trump tells Americans to accept high gasoline prices",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Is Alphabet signaling a shift in its AI strategy?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Ukraine strikes Russian space centre linked to Rassvet satellite network",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Hippo CEO Richard McCathron sells $160,000 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Qnity Electronics director Karin de Bondt buys $138,136 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Via transportation director Arnon Dinur buys $998,984 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Ameriprise Financial\u2019s Dawn Brockman sells $263,815 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
