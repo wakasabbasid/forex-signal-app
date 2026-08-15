@@ -13,12 +13,6 @@
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.6156
-      },
-      {
-        "title": "US Dollar Price Forecast: Softer PPI Boosts Fed Cut Bets \u2013 Can EUR/USD and GBP/USD Rally?",
-        "source": "Yahoo Finance",
-        "label": "bullish",
-        "score": 0.809
       }
     ],
     "NZD/USD": [
@@ -30,6 +24,12 @@
       }
     ],
     "USD/JPY": [
+      {
+        "title": "RBI prepones FCNR(B) swap deadline to Aug 31 as banks mobilise USD 52.3 billion - bfsi.economictimes.indiatimes.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
       {
         "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - DailyForex",
         "source": "Google News",
@@ -57,14 +57,6 @@
         "source": "FXStreet",
         "label": "neutral",
         "score": 0.0
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "US Dollar Price Forecast: Softer PPI Boosts Fed Cut Bets \u2013 Can EUR/USD and GBP/USD Rally?",
-        "source": "Yahoo Finance",
-        "label": "bullish",
-        "score": 0.809
       }
     ]
   }

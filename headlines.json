@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "India Raises $50 Billion From Diaspora, Ends Swap Facility Early - bloomberg.com",
+      "title": "India Raises $50 Billion From Diaspora, Ends Swap Facility Early - Bloomberg",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -56,6 +56,15 @@
       "currencies": []
     },
     {
+      "title": "RBI prepones FCNR(B) swap deadline to Aug 31 as banks mobilise USD 52.3 billion - bfsi.economictimes.indiatimes.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
       "source": "Google News",
       "label": "neutral",
@@ -89,10 +98,17 @@
       ]
     },
     {
-      "title": "Exchange rate | Foreign Exchange, Currency Fluctuations, Exchange Rates - Encyclopedia Britannica",
-      "source": "Google News",
+      "title": "Horizon Kinetics buys Texas Pacific Land stock for $343",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin price holds on to $63,000 as selling pressure offsets regulatory progress",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8874,
       "currencies": []
     },
     {
@@ -132,20 +148,6 @@
     },
     {
       "title": "Iran defiant on strait as Trump tells Americans to accept high gas prices",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Crusading India state food safety chief targets Eternal, Swiggy, Zepto in sweeping crackdown",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6362,
-      "currencies": []
-    },
-    {
-      "title": "Bitcoin bear flag 80% complete near $62,500: Live levels",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
