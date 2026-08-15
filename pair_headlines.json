@@ -15,17 +15,9 @@
         "score": 0.6156
       }
     ],
-    "NZD/USD": [
-      {
-        "title": "NZD/USD Forecast: RBNZ Survey Threatens to Break the Calm - FOREX.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.859
-      }
-    ],
     "USD/JPY": [
       {
-        "title": "RBI prepones FCNR(B) swap deadline to Aug 31 as banks mobilise USD 52.3 billion - bfsi.economictimes.indiatimes.com",
+        "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -35,12 +27,14 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
+      }
+    ],
+    "NZD/USD": [
       {
-        "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
+        "title": "NZD/USD Forecast: RBNZ Survey Threatens to Break the Calm - FOREX.com",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bearish",
+        "score": -0.859
       }
     ],
     "AUD/USD": [

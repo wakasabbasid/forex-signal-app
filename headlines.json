@@ -8,7 +8,7 @@
       "currencies": []
     },
     {
-      "title": "India Raises $50 Billion From Diaspora, Ends Swap Facility Early - Bloomberg",
+      "title": "India Raises $50 Billion From Diaspora, Ends Swap Facility Early - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -39,30 +39,28 @@
       "currencies": []
     },
     {
-      "title": "NZD/USD Forecast: RBNZ Survey Threatens to Break the Calm - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.859,
-      "currencies": [
-        "NZD",
-        "USD"
-      ]
-    },
-    {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - wsj.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.674,
-      "currencies": []
-    },
-    {
-      "title": "RBI prepones FCNR(B) swap deadline to Aug 31 as banks mobilise USD 52.3 billion - bfsi.economictimes.indiatimes.com",
+      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
-        "USD"
+        "USD",
+        "JPY"
       ]
+    },
+    {
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9371,
+      "currencies": []
+    },
+    {
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
@@ -88,69 +86,69 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
+      "title": "NZD/USD Forecast: RBNZ Survey Threatens to Break the Calm - FOREX.com",
       "source": "Google News",
+      "label": "bearish",
+      "score": -0.859,
+      "currencies": [
+        "NZD",
+        "USD"
+      ]
+    },
+    {
+      "title": "Ukraine says it hit Russian rocket centre linked to Starlink-style network",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
+      "currencies": []
+    },
+    {
+      "title": "Prosperity Bancshares director Holmes sells $81,550 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Morgan Stanley flags four catalysts for SpaceX stock through year-end",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6633,
+      "currencies": []
+    },
+    {
+      "title": "BancFirst director David Rainbolt sells $978k in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Valvoline chief accounting officer Jordan M. Denny buys $49,999 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Clean Harbors co-CEO Gerstenberg sells $699,650 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Winnebago president & CEO Happe sells $393,630 in WGO shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "Winnebago SVP-CHRO Woodson sells $78,841 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "how InvestingPro\u2019s Fair Value spotted Organon\u2019s 69% gain potential",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7192,
-      "currencies": []
-    },
-    {
-      "title": "VinFast falls 42% to Fair Value target as InvestingPro predicted",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8957,
-      "currencies": []
-    },
-    {
-      "title": "Trend followers could keep buying Nasdaq, BofA says",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Univest financial director Turner sells $344,280 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Horizon Kinetics Asset Management buys $2,192 of RENN Fund stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Bitcoin price holds below $63,000 as selling pressure offsets regulatory progress",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.877,
-      "currencies": []
-    },
-    {
-      "title": "Trump\u2019s 2024 grocery photo op now haunts Republicans in the midterms",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8117,
       "currencies": []
     }
   ],
