@@ -22,21 +22,14 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - DailyForex",
+      "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - dailyforex.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.5979,
+      "score": 0.4806,
       "currencies": [
         "EUR",
         "USD"
       ]
-    },
-    {
-      "title": "Dollar deluge prompts RBI to shut special FCNR scheme early; $52 bn raised so far - TradingView",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.4645,
-      "currencies": []
     },
     {
       "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
@@ -49,18 +42,27 @@
       ]
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
+      "title": "Dollar deluge prompts RBI to shut special FCNR scheme early; $52 bn raised so far - TradingView",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
+      "label": "bearish",
+      "score": -0.4645,
       "currencies": []
     },
     {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - wsj.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.674,
       "currencies": []
+    },
+    {
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
@@ -70,7 +72,7 @@
       "currencies": []
     },
     {
-      "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - DailyForex",
+      "title": "USD/BRL Keeps Rising - Yet Why Do Traders Still Feel Uneasy? - dailyforex.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -79,7 +81,7 @@
       ]
     },
     {
-      "title": "Exchange rate | Foreign Exchange, Currency Fluctuations, Exchange Rates - Encyclopedia Britannica",
+      "title": "StoneX, Operator of FOREX.com, Targets Brazil FX Market with Banco Travelex Deal - TradingView",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -96,6 +98,48 @@
       ]
     },
     {
+      "title": "Ukraine strikes Russian space centre linked to Rassvet satellite network",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Hippo CEO Richard McCathron sells $160,000 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Qnity Electronics director Karin de Bondt buys $138,136 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Via transportation director Arnon Dinur buys $998,984 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Ameriprise Financial\u2019s Dawn Brockman sells $263,815 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Magnite chief accounting officer Gephart sells $307k in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Ukraine says it hit Russian rocket centre linked to Starlink-style network",
       "source": "Investing.com",
       "label": "neutral",
@@ -104,48 +148,6 @@
     },
     {
       "title": "Prosperity Bancshares director Holmes sells $81,550 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Morgan Stanley flags four catalysts for SpaceX stock through year-end",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6633,
-      "currencies": []
-    },
-    {
-      "title": "BancFirst director David Rainbolt sells $978k in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Valvoline chief accounting officer Jordan M. Denny buys $49,999 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Clean Harbors co-CEO Gerstenberg sells $699,650 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Winnebago president & CEO Happe sells $393,630 in WGO shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Winnebago SVP-CHRO Woodson sells $78,841 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
