@@ -13,6 +13,12 @@
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.6156
+      },
+      {
+        "title": "US Dollar Price Forecast: Softer PPI Boosts Fed Cut Bets \u2013 Can EUR/USD and GBP/USD Rally?",
+        "source": "Yahoo Finance",
+        "label": "bullish",
+        "score": 0.809
       }
     ],
     "NZD/USD": [
@@ -51,6 +57,14 @@
         "source": "FXStreet",
         "label": "neutral",
         "score": 0.0
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "US Dollar Price Forecast: Softer PPI Boosts Fed Cut Bets \u2013 Can EUR/USD and GBP/USD Rally?",
+        "source": "Yahoo Finance",
+        "label": "bullish",
+        "score": 0.809
       }
     ]
   }

@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "India Raises $50 Billion From Diaspora, Ends Swap Facility Early - bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "India's forex reserves climb past $700 billion on robust inflows - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -15,13 +22,6 @@
       "currencies": []
     },
     {
-      "title": "Dollar deluge prompts RBI to shut special FCNR scheme early; $52 bn raised so far - TradingView",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.4645,
-      "currencies": []
-    },
-    {
       "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - DailyForex",
       "source": "Google News",
       "label": "bullish",
@@ -30,6 +30,13 @@
         "EUR",
         "USD"
       ]
+    },
+    {
+      "title": "Dollar deluge prompts RBI to shut special FCNR scheme early; $52 bn raised so far - TradingView",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.4645,
+      "currencies": []
     },
     {
       "title": "NZD/USD Forecast: RBNZ Survey Threatens to Break the Calm - FOREX.com",
@@ -49,17 +56,10 @@
       "currencies": []
     },
     {
-      "title": "Three reasons why BOJ rate hikes will not save the yen - investingLive",
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Dollar falls after retail sales, heads for first weekly gain in three weeks - Investing.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.3827,
       "currencies": []
     },
     {
@@ -91,6 +91,20 @@
     {
       "title": "Exchange rate | Foreign Exchange, Currency Fluctuations, Exchange Rates - Encyclopedia Britannica",
       "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US presses Apple to avoid Chinese memory chips amid shortage - WSJ reports",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7857,
+      "currencies": []
+    },
+    {
+      "title": "Knight-Swift CEO Reid Dove sells $12.3m in company stock",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
@@ -135,20 +149,6 @@
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Fund managers chase \u20ac500 billion German pension overhaul",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "ADNOC vessel attacked in Hormuz as Trump defends extended carrier deployment",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8046,
       "currencies": []
     }
   ],
