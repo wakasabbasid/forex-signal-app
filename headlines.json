@@ -8,6 +8,20 @@
       "currencies": []
     },
     {
+      "title": "FX Weekly Overview (Brazil Issue) - stonex.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "India Raises $50 Billion From Diaspora, Ends Swap Facility Early - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
@@ -15,7 +29,7 @@
       "currencies": []
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - britannica.com",
+      "title": "RBI's $56.8 billion forex drive: How diaspora deposits reshape India's currency risk and balance sheet - economictimes.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -32,20 +46,10 @@
       ]
     },
     {
-      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - wsj.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9371,
+      "score": 0.674,
       "currencies": []
     },
     {
@@ -58,6 +62,30 @@
       ]
     },
     {
+      "title": "Japan\u2019s Record Yen Intervention: Half Already Spent, What\u2019s Next? - CryptoRank",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Dollar deluge prompts RBI to shut special FCNR scheme early; $52 bn raised so far - TradingView",
       "source": "Google News",
       "label": "bearish",
@@ -65,90 +93,59 @@
       "currencies": []
     },
     {
-      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9097,
-      "currencies": []
-    },
-    {
-      "title": "Exchange rate | Foreign Exchange, Currency Fluctuations, Exchange Rates - britannica.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "GBP/USD Signal: Inverted Head and Shoulders Forms Ahead of US CPI Data - DailyForex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5535,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "Gold, Silver, US Dollar Outlook: Reversal Risks in Focus - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why Nvidia\u2019s $500bn investment mobilization is a positive for the stock",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7599,
-      "currencies": []
-    },
-    {
-      "title": "Atmos Energy director William Ware buys $50,278 in company stock",
+      "title": "Bitcoin hovers around $63k as Strategy\u2019s Saylor calls it \u2018digital monetary energy\u2019",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Home Bancshares director Jim Rankin sells $462,966 in HOMB stock",
+      "title": "New AI financing backstops allows compute buyers more control over business models",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Nvidia weighs $3 bln in SB Energy for Ohio AI data center - The Information",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.4925,
-      "currencies": []
-    },
-    {
-      "title": "Kestra Medical Technologies CEO Brian Webster sells $692,214 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Equinix director Christopher Paisley sells $4.08m in EQIX stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Cactus CEO Scott Bender sells $4.99m in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Israeli strikes in southern Lebanon kill at least 11",
+      "title": "New Zealand\u2019s a2 Milk full-year profit falls 44% on weaker China-label IMF sales",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8181,
+      "score": -0.9737,
+      "currencies": []
+    },
+    {
+      "title": "Nvidia\u2019s neocloud funding could drive significant revenue stream - Morgan Stanley",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5191,
+      "currencies": []
+    },
+    {
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index down 4.29%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9692,
+      "currencies": []
+    },
+    {
+      "title": "Ferrari\u2019s electric car Luce sells for $40 million at charity auction",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Scholastic EVP, pres. CBG Sasha Quinton sells over $1.2m in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "SharkNinja CCO Neil Shah sells $5.5m in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
