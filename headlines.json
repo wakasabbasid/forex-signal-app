@@ -1,10 +1,10 @@
 {
   "headlines": [
     {
-      "title": "India's forex reserves climb past $700 billion on robust inflows - Reuters",
+      "title": "Rupee set to weaken after central bank curtails dollar inflow window - Reuters",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.8728,
+      "label": "bearish",
+      "score": -0.941,
       "currencies": []
     },
     {
@@ -22,10 +22,17 @@
       "currencies": []
     },
     {
-      "title": "FX Weekly Overview (Brazil Issue) - stonex.com",
+      "title": "Canadian Dollar Gains as U.S. Data, Oil Support Loonie - TradingPedia",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.7378,
+      "currencies": []
+    },
+    {
+      "title": "India's forex reserves climb past $700 billion on robust inflows - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8728,
       "currencies": []
     },
     {
@@ -36,10 +43,10 @@
       "currencies": []
     },
     {
-      "title": "Rupee set to weaken after central bank curtails dollar inflow window - Reuters",
+      "title": "FX option expiries for 17 August 10am New York cut - investingLive",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.941,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -53,7 +60,14 @@
       ]
     },
     {
-      "title": "RBI's $56.8 billion forex drive: How diaspora deposits reshape India's currency risk and balance sheet - The Economic Times",
+      "title": "Rupee falls 17 paise to 95.59 against US dollar in early trade - Deccan Herald",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8707,
+      "currencies": []
+    },
+    {
+      "title": "RBI's $56.8 billion forex drive: How diaspora deposits reshape India's currency risk and balance sheet - economictimes.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -74,73 +88,59 @@
       "currencies": []
     },
     {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Currency Check: Rupee opens lower at 95.48/ dollar; Asian peers trade higher - TradingView",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9584,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: GIC posts stronger Q1 2026 underwriting results",
+      "title": "Nestle looks to develop new products to serve users of weight-loss drugs",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9435,
+      "score": 0.7326,
       "currencies": []
     },
     {
-      "title": "Jyske Bank buys back 54,769 shares in week 33",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "HIVE Digital secures $350 million GPU cloud services contract",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Patanjali Foods posts record Q1 2026 revenue beat",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8757,
-      "currencies": []
-    },
-    {
-      "title": "HIAG H1 profit nearly doubles as property revaluations, sales drive earnings",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9066,
-      "currencies": []
-    },
-    {
-      "title": "Asian shares rise, dollar slips as markets pare Fed rate risks",
+      "title": "Earnings call transcript: Tube Investments posts mixed Q1 2026 results",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9254,
+      "score": -0.935,
       "currencies": []
     },
     {
-      "title": "Mayville Engineering SVP Leuba sells $327,031 in company stock",
+      "title": "Myanmar\u2019s Min Aung Hlaing heads to Russia for official visit, state media reports",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "KB Home EVP Albert Praw sells $1.29 million in stock",
+      "title": "Bitcoin steadies at $63.5k; Iran tensions, U.S. regulations in focus",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8541,
+      "currencies": []
+    },
+    {
+      "title": "What are JPM\u2019s top equity themes for the rest of 2026?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Schneider Electric Q1 FY27 slides: record orders, margin pressure",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5866,
+      "currencies": []
+    },
+    {
+      "title": "AstraZeneca discontinues lung cancer trial of volrustomig",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Dollar dips on reduced Fed hike bets; yen gains despite weak Japan GDP",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.544,
       "currencies": []
     }
   ],

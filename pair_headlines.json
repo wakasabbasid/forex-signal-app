@@ -7,12 +7,6 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.5979
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Tests rising wedge bottom near 184.00",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8806
       }
     ],
     "USD/JPY": [
@@ -29,48 +23,34 @@
         "score": 0.0
       },
       {
+        "title": "Silver Price Forecasts: XAG/USD approaches $66.00 favoured by a softer US Dollar",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9217
+      },
+      {
+        "title": "Gold sticks to modest gains around $4,400 amid weaker USD; remains below June 5 high",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.5514
+      },
+      {
+        "title": "USD/JPY Price Forecast: Struggles near 159.00; seems vulnerable below 50% Fibo.",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8521
+      },
+      {
         "title": "Euro rallies to two-month high, eyes 1.1600 as USD struggles amid receding Fed hike bets",
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.5446
       },
       {
-        "title": "AUD/JPY Price Forecast: Edges higher above 113.00, bullish bias prevails above 100-day SMA",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9452
-      },
-      {
-        "title": "Gold remains close to June 5 high as receding Fed hike bets undermine USD",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8756
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Tests rising wedge bottom near 184.00",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8806
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD bulls await acceptance above $66.00, 100-day EMA breakout",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.7899
-      },
-      {
-        "title": "New Zealand Dollar advances beyond 0.5900, highest since June 3 as USD stays weak",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.834
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "AUD/JPY Price Forecast: Edges higher above 113.00, bullish bias prevails above 100-day SMA",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9452
+        "title": "Maniatis: Oman Spill Cleanup May Cost USD 200-500M",
+        "source": "Bloomberg",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }
