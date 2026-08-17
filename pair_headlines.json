@@ -7,20 +7,20 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.5979
+      },
+      {
+        "title": "EUR/JPY Price Forecast: Tests rising wedge bottom near 184.00",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8806
       }
     ],
     "USD/JPY": [
       {
-        "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - newsonair.gov.in",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.6676
+        "score": 0.8185
       },
       {
         "title": "PBOC sets USD/ CNY reference rate for today at 6.7873 (vs. estimate at 6.7382)",
@@ -33,6 +33,18 @@
         "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "EUR/JPY Price Forecast: Tests rising wedge bottom near 184.00",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8806
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD bulls await acceptance above $66.00, 100-day EMA breakout",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.7899
       },
       {
         "title": "New Zealand Dollar advances beyond 0.5900, highest since June 3 as USD stays weak",
