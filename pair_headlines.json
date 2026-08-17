@@ -7,6 +7,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "EUR/GBP trades in a tight range ahead of UK jobs data",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8286
       }
     ],
     "USD/JPY": [
@@ -17,10 +23,18 @@
         "score": -0.8773
       },
       {
-        "title": "Vici Properties stock hits 52-week low at 25.81 USD",
+        "title": "Cms Energy stock hits 52-week low at 20.44 USD",
         "source": "Investing.com",
         "label": "bearish",
-        "score": -0.954
+        "score": -0.9537
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/GBP trades in a tight range ahead of UK jobs data",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8286
       }
     ]
   }
