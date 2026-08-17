@@ -11,17 +11,17 @@
       ]
     },
     {
-      "title": "India's forex reserves climb past $700 billion on robust inflows - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8728,
-      "currencies": []
-    },
-    {
       "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "India's forex reserves climb past $700 billion on robust inflows - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8728,
       "currencies": []
     },
     {
@@ -42,17 +42,17 @@
       "currencies": []
     },
     {
-      "title": "Belarusian ruble loses ground amid weakening Russian currency - Belsat",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9244,
-      "currencies": []
-    },
-    {
       "title": "Rupee set to weaken after central bank curtails dollar inflow window - Yahoo Finance Singapore",
       "source": "Google News",
       "label": "bearish",
       "score": -0.9174,
+      "currencies": []
+    },
+    {
+      "title": "Belarusian ruble loses ground amid weakening Russian currency - Belsat",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9244,
       "currencies": []
     },
     {
@@ -91,59 +91,63 @@
       "currencies": []
     },
     {
-      "title": "SHRlimited Announces Continued Investment in Trading Infrastructure, Analytics, and Platform Transparency",
+      "title": "Earnings call transcript: Jalles Machado posts stronger operations in Q1 2026",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.851,
+      "score": 0.9413,
       "currencies": []
     },
     {
-      "title": "Oil rises nearly 3%, Brent tops $90 a barrel as Trump threatens to bomb Oman",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7463,
-      "currencies": []
-    },
-    {
-      "title": "Why is Brent Oil Futures stock surging today?",
+      "title": "Earnings call transcript: Kuya Silver misses Q2 2026 estimates as ramp advances",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is Flotek Industries stock crashing today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6942,
-      "currencies": []
-    },
-    {
-      "title": "Stocks slip as oil climbs; investors eye Fed minutes, retail earnings this week",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9164,
-      "currencies": []
-    },
-    {
-      "title": "Trump says North Korea\u2019s Kim responded to his outreach",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6563,
-      "currencies": []
-    },
-    {
-      "title": "Flotek Industries stock plummets on short seller report",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9575,
-      "currencies": []
-    },
-    {
-      "title": "Granite Ridge director John McCartney buys $10,000 in stock",
+      "title": "TD Cowen raises argenx stock price target to $1,353 on myositis outlook",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Oceaneering International stock hits 52-week high at 53.98 USD",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7005,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Biolife Solutions stock hits 52-week high at 35.36 USD",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7402,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Adia Nutrition changes name to Adia Med, receives FINRA approval",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Tredegar director William Gottwald sells $8,171 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Wispr Flow valued at $2 billion on investor demand for AI voice-to-text startups",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9364,
       "currencies": []
     }
   ],
