@@ -1,10 +1,17 @@
 {
   "headlines": [
     {
-      "title": "Rupee set to weaken after central bank curtails dollar inflow window - Reuters",
+      "title": "India's forex reserves climb past $700 billion on robust inflows - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8728,
+      "currencies": []
+    },
+    {
+      "title": "Rupee set to weaken after central bank curtails dollar inflow window - Yahoo Finance Singapore",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.941,
+      "score": -0.9174,
       "currencies": []
     },
     {
@@ -29,17 +36,17 @@
       "currencies": []
     },
     {
-      "title": "India's forex reserves climb past $700 billion on robust inflows - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8728,
-      "currencies": []
-    },
-    {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Rupee slips as sentiment drags on central bank curtailing FX inflow window - Reuters",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9438,
       "currencies": []
     },
     {
@@ -50,16 +57,6 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - DailyForex",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5979,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
       "title": "Rupee falls 17 paise to 95.59 against US dollar in early trade - Deccan Herald",
       "source": "Google News",
       "label": "bearish",
@@ -67,7 +64,7 @@
       "currencies": []
     },
     {
-      "title": "RBI's $56.8 billion forex drive: How diaspora deposits reshape India's currency risk and balance sheet - economictimes.com",
+      "title": "RBI's $56.8 billion forex drive: How diaspora deposits reshape India's currency risk and balance sheet - The Economic Times",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -88,59 +85,59 @@
       "currencies": []
     },
     {
-      "title": "Nestle looks to develop new products to serve users of weight-loss drugs",
+      "title": "Earnings call transcript: HIAG posts strong H1 2026 profit growth as stock edges up",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7326,
+      "score": 0.9516,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Tube Investments posts mixed Q1 2026 results",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.935,
-      "currencies": []
-    },
-    {
-      "title": "Myanmar\u2019s Min Aung Hlaing heads to Russia for official visit, state media reports",
+      "title": "Why is Argen-X stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Bitcoin steadies at $63.5k; Iran tensions, U.S. regulations in focus",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8541,
-      "currencies": []
-    },
-    {
-      "title": "What are JPM\u2019s top equity themes for the rest of 2026?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Schneider Electric Q1 FY27 slides: record orders, margin pressure",
+      "title": "Taiwan\u2019s president says record defence spending an investment in peace",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5866,
+      "score": 0.7553,
       "currencies": []
     },
     {
-      "title": "AstraZeneca discontinues lung cancer trial of volrustomig",
+      "title": "Mink Brook Asset Management boosts DLH Holdings stake with $9,431 stock buy",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7581,
+      "currencies": []
+    },
+    {
+      "title": "Why is TomTom stock sliding today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9128,
+      "currencies": []
+    },
+    {
+      "title": "Goldman Sachs reinstates Etsy stock coverage with neutral rating",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Dollar dips on reduced Fed hike bets; yen gains despite weak Japan GDP",
+      "title": "National Investment Fund Uzbekistan schedules shareholder meeting",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "China industrial production slows more than expected in July",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.544,
+      "score": -0.9718,
       "currencies": []
     }
   ],

@@ -1,56 +1,24 @@
 {
   "run_id": 1,
   "pairs": {
-    "EUR/USD": [
-      {
-        "title": "EUR/USD Signal 13/08: Extremely Bullish Above 1.1578 - DailyForex",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.5979
-      }
-    ],
     "USD/JPY": [
       {
-        "title": "PBOC sets USD/ CNY reference rate for today at 6.7873 (vs. estimate at 6.7382)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7382 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Silver Price Forecasts: XAG/USD approaches $66.00 favoured by a softer US Dollar",
+        "title": "Australian Dollar hits fresh high since June 5 as bearish USD outweigh weak China data",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.9217
+        "score": 0.8629
       },
       {
-        "title": "Gold sticks to modest gains around $4,400 amid weaker USD; remains below June 5 high",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.5514
-      },
-      {
-        "title": "USD/JPY Price Forecast: Struggles near 159.00; seems vulnerable below 50% Fibo.",
+        "title": "Indian Rupee steadies as RBI swap exit, soft US data cap USD/INR",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.8521
+        "score": -0.632
       },
       {
-        "title": "Euro rallies to two-month high, eyes 1.1600 as USD struggles amid receding Fed hike bets",
+        "title": "Gold looks to build strength above $4,400 as fading Fed hike bets keeps USD depressed",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.5446
-      },
-      {
-        "title": "Maniatis: Oman Spill Cleanup May Cost USD 200-500M",
-        "source": "Bloomberg",
-        "label": "neutral",
-        "score": 0.0
+        "score": 0.9152
       }
     ]
   }
