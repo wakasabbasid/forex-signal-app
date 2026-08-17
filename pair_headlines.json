@@ -1,34 +1,24 @@
 {
   "run_id": 1,
   "pairs": {
-    "AUD/USD": [
-      {
-        "title": "AUD/USD Signal 17/08: Aussie Rally Gains Steam - DailyForex",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.8876
-      }
-    ],
     "USD/JPY": [
+      {
+        "title": "USD/MXN Analysis 17/08: Remains Under Pressure - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.8773
+      },
+      {
+        "title": "Gold Price Forecast: XAU/USD holds bullish bias near $4,400",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.7976
+      },
       {
         "title": "Japanese Yen: BoJ hike expectations support JPY against US Dollar \u2013 MUFG",
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.8123
-      },
-      {
-        "title": "Gold sticks to gains near $4,400 as USD slumps to two-month low on receding Fed hike bets",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8139
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/USD Price Forecast: Conquers 1.1600 as bulls retain control above 100-SMA, 50% Fibo.",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8294
       }
     ]
   }
