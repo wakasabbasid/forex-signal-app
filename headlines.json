@@ -1,17 +1,17 @@
 {
   "headlines": [
     {
-      "title": "India's forex reserves climb past $700 billion on robust inflows - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8728,
-      "currencies": []
-    },
-    {
       "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "India's forex reserves climb past $700 billion on robust inflows - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8728,
       "currencies": []
     },
     {
@@ -46,6 +46,13 @@
       "currencies": []
     },
     {
+      "title": "News by CNBC TV18 on TradingView, 2026-08-17 \u2014 cnbctv:968022225094b:0 - TradingView",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "From kirana to currency: Small towns are scrambling for dollars - The Economic Times",
       "source": "Google News",
       "label": "neutral",
@@ -53,7 +60,7 @@
       "currencies": []
     },
     {
-      "title": "News by CNBC TV18 on TradingView, 2026-08-17 \u2014 cnbctv:968022225094b:0 - TradingView",
+      "title": "What Is the Foreign Exchange Market: A Guide - britannica.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -64,13 +71,6 @@
       "source": "Google News",
       "label": "bearish",
       "score": -0.763,
-      "currencies": []
-    },
-    {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -88,56 +88,56 @@
       "currencies": []
     },
     {
-      "title": "Fed to hold interest rates this year, economists say, sticking to their view: Reuters poll",
+      "title": "Earnings call transcript: Olectra Greentech Q1 2026 revenue jumps 66% on bus demand",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9484,
+      "currencies": []
+    },
+    {
+      "title": "Russian firm seeks state control of Nestle\u2019s local assets",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Wells Fargo upgrades Okta stock rating on AI growth potential",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5776,
-      "currencies": []
-    },
-    {
-      "title": "Wells Fargo raises CrowdStrike stock price target on strong pipeline",
+      "title": "Cantor Fitzgerald reiterates Analog Devices stock rating on earnings outlook",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "TSX futures inch higher amid easing Fed rate hike bets, Hormuz disruptions",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6166,
-      "currencies": []
-    },
-    {
-      "title": "How Fair Value spotted Insperity\u2019s 68% rally nine months early",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5182,
-      "currencies": []
-    },
-    {
-      "title": "Castle Biosciences gains dual listing on Nasdaq Texas",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7056,
-      "currencies": []
-    },
-    {
-      "title": "EyePoint\u2019s DURAVYU misses primary endpoint in wet AMD trial",
+      "title": "Cantor Fitzgerald reiterates Agios Pharma stock Overweight rating",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Auddia partners with AMG Corp for digital radio releases",
+      "title": "Argus raises Arthur J. Gallagher stock price target on growth outlook",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Can Workday buyout buzz reignite Europe\u2019s software rally?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Asia Wealth Group reports $30,562 profit for fiscal 2026",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Alibaba launches AI music model HappyShrimp",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

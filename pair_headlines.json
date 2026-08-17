@@ -11,10 +11,32 @@
     ],
     "USD/JPY": [
       {
-        "title": "Gold Price Forecast: XAU/USD holds bullish bias near $4,400",
+        "title": "Kickstart the NA session for August 17: USD starts the week on the defensive.",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.5337
+      },
+      {
+        "title": "EUR/JPY Price Forecast: Bulls eye 185.00 resistance area",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Price Forecast: Bulls press toward 1.3600 as uptrend strengthens",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.7976
+        "score": 0.8956
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/JPY Price Forecast: Bulls eye 185.00 resistance area",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }
