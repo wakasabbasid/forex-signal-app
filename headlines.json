@@ -77,10 +77,10 @@
       "currencies": []
     },
     {
-      "title": "Riksbank Holds as Krona Struggles Despite Strong Data - tradingpedia.com",
+      "title": "Riksbank Holds as Krona Struggles Despite Strong Data - TradingPedia",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9289,
+      "score": -0.9583,
       "currencies": []
     },
     {
@@ -93,59 +93,59 @@
       ]
     },
     {
-      "title": "Lockheed Martin wins $153 million in defense contracts",
+      "title": "Helix Acquisition Corp. III receives Nasdaq notice for holder deficiency",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "908 Devices CEO Knopp sells $283,677 in common stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Dyne therapeutics director Jason Rhodes sells $65.2m of common stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Cisco president Patel sells $799,928 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Cornelius Prior Jr., ATN International director, sells $80,959 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Mitek Systems names Aaron Seyler as chief revenue officer",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Gold rises 1% amid softer dollar, falling Fed rate hike bets; oil caps gains",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8194,
+      "score": 0.698,
       "currencies": []
     },
     {
-      "title": "Google to buy Spirit Airlines business data for $10 million",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Jefferies cuts York Space Systems stock price target on guidance cut",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "CalPrivate Bank names Andra Frazier as chief credit officer",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Parsons wins $665M Army contract for support services",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9252,
-      "currencies": []
-    },
-    {
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index down 2.10%",
+      "title": "Andersen Group stock falls on 4.3M share secondary offering",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9692,
-      "currencies": []
-    },
-    {
-      "title": "Dollar edges lower against euro as markets trim rate hike bets",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9044,
-      "currencies": []
-    },
-    {
-      "title": "Ionic Digital supports Texas grid audit, commits to cooperation",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "score": -0.9534,
       "currencies": []
     }
   ],
