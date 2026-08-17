@@ -15,18 +15,20 @@
         "score": -0.8286
       }
     ],
-    "USD/JPY": [
+    "AUD/USD": [
       {
-        "title": "USD/MXN Analysis 17/08: Remains Under Pressure - DailyForex",
+        "title": "AUD/USD Signal 17/08: Aussie Rally Gains Steam - DailyForex",
         "source": "Google News",
-        "label": "bearish",
-        "score": -0.8773
-      },
+        "label": "bullish",
+        "score": 0.8876
+      }
+    ],
+    "USD/CHF": [
       {
-        "title": "Cms Energy stock hits 52-week low at 20.44 USD",
-        "source": "Investing.com",
-        "label": "bearish",
-        "score": -0.9537
+        "title": "USD/CHF Price Forecast: Bulls need a break above 0.8200 to regain momentum",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "EUR/USD": [
