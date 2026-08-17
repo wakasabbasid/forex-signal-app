@@ -17,12 +17,6 @@
     ],
     "USD/JPY": [
       {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.6676
-      },
-      {
         "title": "PBOC sets USD/ CNY reference rate for today at 6.7873 (vs. estimate at 6.7382)",
         "source": "ForexLive",
         "label": "neutral",
@@ -33,6 +27,18 @@
         "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "Euro rallies to two-month high, eyes 1.1600 as USD struggles amid receding Fed hike bets",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.5446
+      },
+      {
+        "title": "AUD/JPY Price Forecast: Edges higher above 113.00, bullish bias prevails above 100-day SMA",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9452
       },
       {
         "title": "Gold remains close to June 5 high as receding Fed hike bets undermine USD",
@@ -57,12 +63,14 @@
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.834
-      },
+      }
+    ],
+    "AUD/USD": [
       {
-        "title": "PBOC sets USD/CNY reference rate at 6.7873 vs. 6.7878 previous",
+        "title": "AUD/JPY Price Forecast: Edges higher above 113.00, bullish bias prevails above 100-day SMA",
         "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bullish",
+        "score": 0.9452
       }
     ]
   }

@@ -81,68 +81,66 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "title": "Currency Check: Rupee opens lower at 95.48/ dollar; Asian peers trade higher - TradingView",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Why is Ulvac stock tumbling today?",
-      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7173,
+      "score": -0.9584,
       "currencies": []
     },
     {
-      "title": "Sun Pharma wins U.S. antitrust appeal over Lipitor settlement",
+      "title": "Earnings call transcript: GIC posts stronger Q1 2026 underwriting results",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6241,
+      "score": 0.9435,
       "currencies": []
     },
     {
-      "title": "Gates Industrial director Zhang Peifang sells $171,720 in shares",
+      "title": "Jyske Bank buys back 54,769 shares in week 33",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Fathom earnings missed by $0.18, revenue fell short of estimates",
+      "title": "HIVE Digital secures $350 million GPU cloud services contract",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9709,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is Aurizon stock plunging today?",
+      "title": "Earnings call transcript: Patanjali Foods posts record Q1 2026 revenue beat",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9044,
+      "label": "bullish",
+      "score": 0.8757,
       "currencies": []
     },
     {
-      "title": "Asian stocks mixed as Japan GDP misses forecasts; China data, tech in focus",
+      "title": "HIAG H1 profit nearly doubles as property revaluations, sales drive earnings",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9197,
+      "label": "bullish",
+      "score": 0.9066,
       "currencies": []
     },
     {
-      "title": "Cadiz earnings missed by $0.02, revenue fell short of estimates",
+      "title": "Asian shares rise, dollar slips as markets pare Fed rate risks",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9686,
+      "score": -0.9254,
       "currencies": []
     },
     {
-      "title": "Ensysce Biosciences earnings beat by $0.51, revenue fell short of estimates",
+      "title": "Mayville Engineering SVP Leuba sells $327,031 in company stock",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9003,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "KB Home EVP Albert Praw sells $1.29 million in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
