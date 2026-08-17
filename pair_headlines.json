@@ -25,16 +25,10 @@
     ],
     "USD/JPY": [
       {
-        "title": "Oceaneering International stock hits 52-week high at 53.98 USD",
-        "source": "Investing.com",
+        "title": "USD/JPY rises to the highest level this month",
+        "source": "ForexLive",
         "label": "bullish",
-        "score": 0.7005
-      },
-      {
-        "title": "Biolife Solutions stock hits 52-week high at 35.36 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.7402
+        "score": 0.9349
       }
     ],
     "USD/CHF": [

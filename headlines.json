@@ -11,17 +11,17 @@
       ]
     },
     {
-      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "India's forex reserves climb past $700 billion on robust inflows - Reuters",
       "source": "Google News",
       "label": "bullish",
       "score": 0.8728,
+      "currencies": []
+    },
+    {
+      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -35,17 +35,10 @@
       ]
     },
     {
-      "title": "India Raises $50 Billion From Diaspora, Ends Swap Facility Early - Bloomberg.com",
+      "title": "India Raises $50 Billion From Diaspora, Ends Swap Facility Early - bloomberg.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Rupee set to weaken after central bank curtails dollar inflow window - Yahoo Finance Singapore",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9174,
       "currencies": []
     },
     {
@@ -53,6 +46,13 @@
       "source": "Google News",
       "label": "bearish",
       "score": -0.9244,
+      "currencies": []
+    },
+    {
+      "title": "Rupee set to weaken after central bank curtails dollar inflow window - Yahoo Finance Singapore",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9174,
       "currencies": []
     },
     {
@@ -91,63 +91,59 @@
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Jalles Machado posts stronger operations in Q1 2026",
+      "title": "Flexsteel earnings beat by $0.24, revenue topped estimates",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9413,
+      "score": 0.9435,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Kuya Silver misses Q2 2026 estimates as ramp advances",
+      "title": "Aon names Nadin Virani interim CFO as Edmund Reese steps down",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "TD Cowen raises argenx stock price target to $1,353 on myositis outlook",
+      "title": "Greystone Housing Impact Investors exits Colorado property investment",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Oceaneering International stock hits 52-week high at 53.98 USD",
+      "title": "Targa Resources signs 20-year midstream deal with ExxonMobil",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7005,
-      "currencies": [
-        "USD"
-      ]
+      "score": 0.8691,
+      "currencies": []
     },
     {
-      "title": "Biolife Solutions stock hits 52-week high at 35.36 USD",
+      "title": "Textron Aviation delivers 500th Cessna Citation CJ4 jet",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7402,
-      "currencies": [
-        "USD"
-      ]
+      "score": 0.5243,
+      "currencies": []
     },
     {
-      "title": "Adia Nutrition changes name to Adia Med, receives FINRA approval",
+      "title": "Lifetime Brands refinances credit facilities to 2031",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Tredegar director William Gottwald sells $8,171 in stock",
+      "title": "Andersen stockholders launch 4.3 million share offering",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Wispr Flow valued at $2 billion on investor demand for AI voice-to-text startups",
+      "title": "CACI wins U.S. Space Force contract for test technology",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9364,
+      "score": 0.9123,
       "currencies": []
     }
   ],
