@@ -11,10 +11,24 @@
     ],
     "USD/JPY": [
       {
+        "title": "Japanese Yen: BoJ hike expectations support JPY against US Dollar \u2013 MUFG",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8123
+      },
+      {
         "title": "Gold sticks to gains near $4,400 as USD slumps to two-month low on receding Fed hike bets",
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.8139
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/USD Price Forecast: Conquers 1.1600 as bulls retain control above 100-SMA, 50% Fibo.",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8294
       }
     ]
   }

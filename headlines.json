@@ -46,10 +46,17 @@
       ]
     },
     {
-      "title": "Canadian Dollar Gains as U.S. Data, Oil Support Loonie - tradingpedia.com",
+      "title": "Dollar slips to June lows as cool U.S. data fuel 70% Fed pause probability - Investing.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.763,
+      "currencies": []
+    },
+    {
+      "title": "Riksbank Holds as Krona Struggles Despite Strong Data - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9583,
       "currencies": []
     },
     {
@@ -57,13 +64,6 @@
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Rupee slips as sentiment drags on central bank curtailing FX inflow window - Reuters",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9438,
       "currencies": []
     },
     {
@@ -81,63 +81,63 @@
       "currencies": []
     },
     {
-      "title": "RBI's $56.8 billion forex drive: How diaspora deposits reshape India's currency risk and balance sheet - The Economic Times",
+      "title": "Rupee slips as sentiment drags on central bank curtailing FX inflow window - Reuters",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9438,
       "currencies": []
     },
     {
-      "title": "Piper Sandler initiates Dave stock coverage with overweight rating",
+      "title": "Dollar slips to June lows as cool U.S. data fuel 70% Fed pause probability",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8645,
+      "currencies": []
+    },
+    {
+      "title": "UFP Technologies VP Jason Holt sells $348,700 in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "ULTRA Web3 Festival Concludes Landmark Kuala Lumpur Gathering, Announces Global Partnership with GWDC 2026 Korea",
+      "title": "Exclusive-Shein eyes company valuation of around $25 billion in Hong Kong IPO, sources say",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "SKF India Q2 FY27 slides: 27% revenue growth, margins stabilize",
+      "title": "DFI Retail Group appoints Alia Gogi as independent director",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Reddit leads social media platforms in revenue growth per user",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9493,
+      "score": 0.7572,
       "currencies": []
     },
     {
-      "title": "Garanti BBVA receives approval for $400m and \u20ac100m bond issuance",
+      "title": "Bernstein sees US-China robotics decoupling after FCC ban",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8966,
+      "score": 0.4612,
       "currencies": []
     },
     {
-      "title": "Indonesia stocks higher at close of trade; IDX Composite Index up 1.59%",
+      "title": "Bernstein: China ESS shipments surpass 100GWh in June for first time",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9393,
+      "score": 0.9429,
       "currencies": []
     },
     {
-      "title": "Toyota stock: Is it still a buy amid ongoing rally?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "German drone maker Helsing enlists Rakuten to broker Japan military deal",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is Ashok Leyland stock climbing today?",
+      "title": "Citizens reiterates Alphabet stock rating on YouTube platform strength",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
