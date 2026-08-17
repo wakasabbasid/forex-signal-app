@@ -3,13 +3,7 @@
   "pairs": {
     "GBP/USD": [
       {
-        "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - forex.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - City Index UK",
+        "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -23,10 +17,10 @@
         "score": -0.8773
       },
       {
-        "title": "Kickstart the NA session for August 17: USD starts the week on the defensive.",
-        "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.5337
+        "title": "Vici Properties stock hits 52-week low at 25.81 USD",
+        "source": "Investing.com",
+        "label": "bearish",
+        "score": -0.954
       }
     ]
   }

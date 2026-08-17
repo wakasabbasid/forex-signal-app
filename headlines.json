@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - forex.com",
+      "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -23,16 +23,6 @@
       "label": "bullish",
       "score": 0.8728,
       "currencies": []
-    },
-    {
-      "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - City Index UK",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
     },
     {
       "title": "USD/MXN Analysis 17/08: Remains Under Pressure - DailyForex",
@@ -65,14 +55,14 @@
       "currencies": []
     },
     {
-      "title": "News by CNBC TV18 on TradingView, 2026-08-17 \u2014 cnbctv:968022225094b:0 - TradingView",
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "title": "News by CNBC TV18 on TradingView, 2026-08-17 \u2014 cnbctv:968022225094b:0 - TradingView",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -93,59 +83,68 @@
       "currencies": []
     },
     {
-      "title": "Why is Enovix stock plunging today?",
-      "source": "Investing.com",
+      "title": "Riksbank Holds as Krona Struggles Despite Strong Data - TradingPedia",
+      "source": "Google News",
       "label": "bearish",
-      "score": -0.9217,
+      "score": -0.9583,
       "currencies": []
     },
     {
-      "title": "Btig warns stock investors on seasonal weakness ahead in election year",
+      "title": "Vici Properties stock hits 52-week low at 25.81 USD",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9496,
-      "currencies": []
+      "score": -0.954,
+      "currencies": [
+        "USD"
+      ]
     },
     {
-      "title": "Morocco stocks higher at close of trade; Moroccan All Shares up 0.08%",
+      "title": "Mining Americas Q2 2026 slides: Pan ramp-up drives cost gains",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9462,
+      "score": 0.4578,
       "currencies": []
     },
     {
-      "title": "Why is CuriosityStream stock sliding 12% today?",
+      "title": "BofA sees dollar weakness continuing with New Zealand dollar gains",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9593,
+      "score": -0.9619,
       "currencies": []
     },
     {
-      "title": "Shein targets $26-27 billion valuation in Hong Kong IPO - report",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is NexGen Energy stock surging today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Axis Bank prices $300 million senior notes due 2029",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Macquarie cuts Australian bank revenue forecasts",
+      "title": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.25%",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9327,
+      "score": -0.9624,
+      "currencies": []
+    },
+    {
+      "title": "Spain stocks lower at close of trade; IBEX 35 down 0.87%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9696,
+      "currencies": []
+    },
+    {
+      "title": "Portugal stocks lower at close of trade; PSI down 0.38%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9666,
+      "currencies": []
+    },
+    {
+      "title": "Netherlands stocks lower at close of trade; AEX down 0.27%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9654,
+      "currencies": []
+    },
+    {
+      "title": "European stocks lower as Trump threatens Oman and Hormuz traffic collapses",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9527,
       "currencies": []
     }
   ],
