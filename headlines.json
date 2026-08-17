@@ -35,17 +35,10 @@
       ]
     },
     {
-      "title": "India Raises $50 Billion From Diaspora, Ends Swap Facility Early - bloomberg.com",
+      "title": "India Raises $50 Billion From Diaspora, Ends Swap Facility Early - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Belarusian ruble loses ground amid weakening Russian currency - Belsat",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9244,
       "currencies": []
     },
     {
@@ -84,66 +77,75 @@
       "currencies": []
     },
     {
-      "title": "Riksbank Holds as Krona Struggles Despite Strong Data - TradingPedia",
+      "title": "Riksbank Holds as Krona Struggles Despite Strong Data - tradingpedia.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9583,
+      "score": -0.9289,
       "currencies": []
     },
     {
-      "title": "Flexsteel earnings beat by $0.24, revenue topped estimates",
+      "title": "USD/MXN Analysis 17/08: Remains Under Pressure - DailyForex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8773,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Lockheed Martin wins $153 million in defense contracts",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9435,
+      "score": 0.8194,
       "currencies": []
     },
     {
-      "title": "Aon names Nadin Virani interim CFO as Edmund Reese steps down",
+      "title": "Google to buy Spirit Airlines business data for $10 million",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Greystone Housing Impact Investors exits Colorado property investment",
+      "title": "Jefferies cuts York Space Systems stock price target on guidance cut",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Targa Resources signs 20-year midstream deal with ExxonMobil",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8691,
-      "currencies": []
-    },
-    {
-      "title": "Textron Aviation delivers 500th Cessna Citation CJ4 jet",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5243,
-      "currencies": []
-    },
-    {
-      "title": "Lifetime Brands refinances credit facilities to 2031",
+      "title": "CalPrivate Bank names Andra Frazier as chief credit officer",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Andersen stockholders launch 4.3 million share offering",
+      "title": "Parsons wins $665M Army contract for support services",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9252,
       "currencies": []
     },
     {
-      "title": "CACI wins U.S. Space Force contract for test technology",
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index down 2.10%",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9123,
+      "label": "bearish",
+      "score": -0.9692,
+      "currencies": []
+    },
+    {
+      "title": "Dollar edges lower against euro as markets trim rate hike bets",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9044,
+      "currencies": []
+    },
+    {
+      "title": "Ionic Digital supports Texas grid audit, commits to cooperation",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

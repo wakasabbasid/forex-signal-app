@@ -7,12 +7,6 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "EUR/GBP trades in a tight range ahead of UK jobs data",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8286
       }
     ],
     "AUD/USD": [
@@ -24,6 +18,12 @@
       }
     ],
     "USD/JPY": [
+      {
+        "title": "USD/MXN Analysis 17/08: Remains Under Pressure - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.8773
+      },
       {
         "title": "USD/JPY rises to the highest level this month",
         "source": "ForexLive",
@@ -37,14 +37,6 @@
         "source": "FXStreet",
         "label": "neutral",
         "score": 0.0
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/GBP trades in a tight range ahead of UK jobs data",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8286
       }
     ]
   }
