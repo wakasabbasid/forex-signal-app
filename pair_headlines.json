@@ -7,15 +7,15 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.5979
-      },
-      {
-        "title": "EUR/USD Price Forecast: 100-Day SMA blocks bullish reversal",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.6156
       }
     ],
     "USD/JPY": [
+      {
+        "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
       {
         "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
         "source": "Google News",
@@ -23,26 +23,34 @@
         "score": 0.6676
       },
       {
-        "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
-        "source": "Google News",
+        "title": "PBOC sets USD/ CNY reference rate for today at 6.7873 (vs. estimate at 6.7382)",
+        "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
-      }
-    ],
-    "AUD/USD": [
+      },
       {
-        "title": "AUD/USD Price Forecast: Bulls eye 0.7100 after US Retail Sales miss",
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7382 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "New Zealand Dollar advances beyond 0.5900, highest since June 3 as USD stays weak",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.4039
-      }
-    ],
-    "USD/CAD": [
+        "score": 0.834
+      },
       {
-        "title": "USD/CAD Price Forecast: Bears target the 200-day SMA",
+        "title": "PBOC sets USD/CNY reference rate at 6.7873 vs. 6.7878 previous",
         "source": "FXStreet",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "British Pound trades near three-month top as fading Fed hike bets undermine USD",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8988
       }
     ]
   }

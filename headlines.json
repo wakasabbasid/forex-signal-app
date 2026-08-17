@@ -8,6 +8,13 @@
       "currencies": []
     },
     {
+      "title": "India Raises $50 Billion From Diaspora, Ends Swap Facility Early - Bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "FX Weekly Overview (Brazil Issue) - stonex.com",
       "source": "Google News",
       "label": "neutral",
@@ -22,14 +29,7 @@
       "currencies": []
     },
     {
-      "title": "India Raises $50 Billion From Diaspora, Ends Swap Facility Early - Bloomberg.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "RBI's $56.8 billion forex drive: How diaspora deposits reshape India's currency risk and balance sheet - economictimes.com",
+      "title": "RBI's $56.8 billion forex drive: How diaspora deposits reshape India's currency risk and balance sheet - The Economic Times",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -46,10 +46,20 @@
       ]
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - wsj.com",
+      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.674,
+      "score": 0.9371,
       "currencies": []
     },
     {
@@ -69,16 +79,6 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY forecast: Currency Pair of the Week | August 10, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
       "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
       "source": "Google News",
       "label": "neutral",
@@ -86,66 +86,66 @@
       "currencies": []
     },
     {
-      "title": "Dollar deluge prompts RBI to shut special FCNR scheme early; $52 bn raised so far - TradingView",
+      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.4645,
-      "currencies": []
-    },
-    {
-      "title": "Bitcoin hovers around $63k as Strategy\u2019s Saylor calls it \u2018digital monetary energy\u2019",
-      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "New AI financing backstops allows compute buyers more control over business models",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "New Zealand\u2019s a2 Milk full-year profit falls 44% on weaker China-label IMF sales",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9737,
-      "currencies": []
-    },
-    {
-      "title": "Nvidia\u2019s neocloud funding could drive significant revenue stream - Morgan Stanley",
+      "title": "Earnings call transcript: Australian Clinical Labs jumps 15.5% after FY 2026 profit gains",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5191,
+      "score": 0.94,
       "currencies": []
     },
     {
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index down 4.29%",
+      "title": "JB Hi-Fi FY26 slides: record sales overshadowed by weak July trading",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9692,
+      "score": -0.9644,
       "currencies": []
     },
     {
-      "title": "Ferrari\u2019s electric car Luce sells for $40 million at charity auction",
+      "title": "Hang Seng trapped in cloud at 25,050-25,650: Live levels",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Scholastic EVP, pres. CBG Sasha Quinton sells over $1.2m in stock",
+      "title": "Coastal Financial CEO Eric Sprink buys $444,500 in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "SharkNinja CCO Neil Shah sells $5.5m in company stock",
+      "title": "Growthpoint FY26 slides: record leasing lifts FFO to guidance peak",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9464,
+      "currencies": []
+    },
+    {
+      "title": "Growthpoint FY26 slides: occupancy hits 96% on record leasing",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9375,
+      "currencies": []
+    },
+    {
+      "title": "BlueScope FY2026 slides: $1.27Bn EBIT, $3/share returns plan",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: JB Hi-Fi shares fall on soft july trading in H2 2026",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9669,
       "currencies": []
     }
   ],
