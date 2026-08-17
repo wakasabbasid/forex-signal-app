@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "India's forex reserves climb past $700 billion on robust inflows - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -15,13 +22,6 @@
       "currencies": []
     },
     {
-      "title": "News by CNBC TV18 on TradingView, 2026-08-17 \u2014 cnbctv:968022225094b:0 - TradingView",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "India Raises $50 Billion From Diaspora, Ends Swap Facility Early - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
@@ -29,10 +29,27 @@
       "currencies": []
     },
     {
-      "title": "Canadian Dollar Gains as U.S. Data, Oil Support Loonie - TradingPedia",
+      "title": "News by CNBC TV18 on TradingView, 2026-08-17 \u2014 cnbctv:968022225094b:0 - TradingView",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "AUD/USD Signal 17/08: Aussie Rally Gains Steam - DailyForex",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.7378,
+      "score": 0.8876,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
+    },
+    {
+      "title": "Canadian Dollar Gains as U.S. Data, Oil Support Loonie - tradingpedia.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -71,73 +88,59 @@
       "currencies": []
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
-      "currencies": []
-    },
-    {
-      "title": "Japan\u2019s Record Yen Intervention: Half Already Spent, What\u2019s Next? - CryptoRank",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: HIAG posts strong H1 2026 profit growth as stock edges up",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9516,
-      "currencies": []
-    },
-    {
-      "title": "Why is Argen-X stock surging today?",
+      "title": "Piper Sandler initiates Dave stock coverage with overweight rating",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Taiwan\u2019s president says record defence spending an investment in peace",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7553,
-      "currencies": []
-    },
-    {
-      "title": "Mink Brook Asset Management boosts DLH Holdings stake with $9,431 stock buy",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7581,
-      "currencies": []
-    },
-    {
-      "title": "Why is TomTom stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9128,
-      "currencies": []
-    },
-    {
-      "title": "Goldman Sachs reinstates Etsy stock coverage with neutral rating",
+      "title": "ULTRA Web3 Festival Concludes Landmark Kuala Lumpur Gathering, Announces Global Partnership with GWDC 2026 Korea",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "National Investment Fund Uzbekistan schedules shareholder meeting",
+      "title": "SKF India Q2 FY27 slides: 27% revenue growth, margins stabilize",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9493,
+      "currencies": []
+    },
+    {
+      "title": "Garanti BBVA receives approval for $400m and \u20ac100m bond issuance",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8966,
+      "currencies": []
+    },
+    {
+      "title": "Indonesia stocks higher at close of trade; IDX Composite Index up 1.59%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9393,
+      "currencies": []
+    },
+    {
+      "title": "Toyota stock: Is it still a buy amid ongoing rally?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "China industrial production slows more than expected in July",
+      "title": "German drone maker Helsing enlists Rakuten to broker Japan military deal",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9718,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why is Ashok Leyland stock climbing today?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

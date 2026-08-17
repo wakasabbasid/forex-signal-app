@@ -1,24 +1,20 @@
 {
   "run_id": 1,
   "pairs": {
+    "AUD/USD": [
+      {
+        "title": "AUD/USD Signal 17/08: Aussie Rally Gains Steam - DailyForex",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.8876
+      }
+    ],
     "USD/JPY": [
       {
-        "title": "Australian Dollar hits fresh high since June 5 as bearish USD outweigh weak China data",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8629
-      },
-      {
-        "title": "Indian Rupee steadies as RBI swap exit, soft US data cap USD/INR",
+        "title": "Gold sticks to gains near $4,400 as USD slumps to two-month low on receding Fed hike bets",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.632
-      },
-      {
-        "title": "Gold looks to build strength above $4,400 as fading Fed hike bets keeps USD depressed",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9152
+        "score": -0.8139
       }
     ]
   }
