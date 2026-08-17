@@ -1,6 +1,16 @@
 {
   "headlines": [
     {
+      "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
       "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
       "source": "Google News",
       "label": "neutral",
@@ -15,12 +25,21 @@
       "currencies": []
     },
     {
-      "title": "AUD/USD Signal: Aussie Rally Gains Steam Amid a Risk-On Sentiment - DailyForex",
+      "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - City Index UK",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.9178,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
-        "AUD",
+        "GBP",
+        "USD"
+      ]
+    },
+    {
+      "title": "USD/MXN Analysis 17/08: Remains Under Pressure - DailyForex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8773,
+      "currencies": [
         "USD"
       ]
     },
@@ -32,21 +51,14 @@
       "currencies": []
     },
     {
-      "title": "Rupee set to weaken after central bank curtails dollar inflow window - Yahoo Finance Singapore",
+      "title": "Rupee set to weaken after central bank curtails dollar inflow window - sg.finance.yahoo.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9174,
+      "score": -0.7477,
       "currencies": []
     },
     {
       "title": "India Raises $50 Billion From Diaspora, Ends Swap Facility Early - Bloomberg.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "News by CNBC TV18 on TradingView, 2026-08-17 \u2014 cnbctv:968022225094b:0 - TradingView",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -60,7 +72,14 @@
       "currencies": []
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - britannica.com",
+      "title": "News by CNBC TV18 on TradingView, 2026-08-17 \u2014 cnbctv:968022225094b:0 - TradingView",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -74,73 +93,61 @@
       "currencies": []
     },
     {
-      "title": "Riksbank Holds as Krona Struggles Despite Strong Data - TradingPedia",
-      "source": "Google News",
+      "title": "Vibra Q2 2026 slides: margins surge 233% as debt falls to 1.3x",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9583,
+      "score": -0.8547,
       "currencies": []
     },
     {
-      "title": "Analysts continue to be divided on the Japanese yen outlook - investingLive",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8788,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Olectra Greentech Q1 2026 revenue jumps 66% on bus demand",
+      "title": "Eastern Bankshares stock hits all-time high at 23.76 USD",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9484,
+      "score": 0.6555,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Quanta Services stock maintains Buy rating at UBS on strong outlook",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5394,
       "currencies": []
     },
     {
-      "title": "Russian firm seeks state control of Nestle\u2019s local assets",
+      "title": "UBS reiterates Tapestry stock rating citing AI capabilities",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7535,
+      "currencies": []
+    },
+    {
+      "title": "UBS reiterates Buy rating on BJ\u2019s Wholesale stock ahead of results",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Cantor Fitzgerald reiterates Analog Devices stock rating on earnings outlook",
+      "title": "Galantas Gold reports warrant exercise for 325,000 shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Cantor Fitzgerald reiterates Agios Pharma stock Overweight rating",
+      "title": "Why is Marvell Technology stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Argus raises Arthur J. Gallagher stock price target on growth outlook",
+      "title": "US home builder sentiment ticks up in August but remains weak overall",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Can Workday buyout buzz reignite Europe\u2019s software rally?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Asia Wealth Group reports $30,562 profit for fiscal 2026",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Alibaba launches AI music model HappyShrimp",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9627,
       "currencies": []
     }
   ],

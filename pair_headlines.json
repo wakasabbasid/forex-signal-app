@@ -1,42 +1,38 @@
 {
   "run_id": 1,
   "pairs": {
-    "AUD/USD": [
+    "GBP/USD": [
       {
-        "title": "AUD/USD Signal: Aussie Rally Gains Steam Amid a Risk-On Sentiment - DailyForex",
+        "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
         "source": "Google News",
-        "label": "bullish",
-        "score": 0.9178
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - City Index UK",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "USD/JPY": [
+      {
+        "title": "USD/MXN Analysis 17/08: Remains Under Pressure - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.8773
+      },
+      {
+        "title": "Eastern Bankshares stock hits all-time high at 23.76 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.6555
+      },
       {
         "title": "Kickstart the NA session for August 17: USD starts the week on the defensive.",
         "source": "ForexLive",
         "label": "bullish",
         "score": 0.5337
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Bulls eye 185.00 resistance area",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "GBP/USD Price Forecast: Bulls press toward 1.3600 as uptrend strengthens",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8956
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/JPY Price Forecast: Bulls eye 185.00 resistance area",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
       }
     ]
   }
