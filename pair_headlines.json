@@ -7,6 +7,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "GBP/JPY Price Forecast: Bulls reclaim 50-day SMA, eye 217.00",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "AUD/USD": [
@@ -15,23 +21,41 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.8876
+      },
+      {
+        "title": "Morgan Stanley targets EUR/AUD at 1.53, backs Aussie dollar carry trade",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "USD/JPY": [
       {
-        "title": "USD/MXN Analysis 17/08: Remains Under Pressure - DailyForex",
-        "source": "Google News",
+        "title": "Joint US-Japan intervention loses grip as USD/JPY climbs back above 159",
+        "source": "ForexLive",
         "label": "bearish",
-        "score": -0.8773
+        "score": -0.8034
       },
       {
         "title": "USD/JPY rises to the highest level this month",
         "source": "ForexLive",
         "label": "bullish",
         "score": 0.9349
+      },
+      {
+        "title": "GBP/JPY Price Forecast: Bulls reclaim 50-day SMA, eye 217.00",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "EUR/USD": [
+      {
+        "title": "Morgan Stanley targets EUR/AUD at 1.53, backs Aussie dollar carry trade",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
       {
         "title": "EUR/USD Price Forecast: Struggles at 1.1600, dives below 100-day SMA",
         "source": "FXStreet",
