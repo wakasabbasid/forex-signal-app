@@ -17,10 +17,10 @@
     ],
     "USD/JPY": [
       {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - newsonair.gov.in",
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.8185
+        "score": 0.6676
       },
       {
         "title": "PBOC sets USD/ CNY reference rate for today at 6.7873 (vs. estimate at 6.7382)",
@@ -33,6 +33,12 @@
         "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "Gold remains close to June 5 high as receding Fed hike bets undermine USD",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8756
       },
       {
         "title": "EUR/JPY Price Forecast: Tests rising wedge bottom near 184.00",
@@ -57,12 +63,6 @@
         "source": "FXStreet",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "British Pound trades near three-month top as fading Fed hike bets undermine USD",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8988
       }
     ]
   }

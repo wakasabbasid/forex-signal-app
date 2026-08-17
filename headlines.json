@@ -8,6 +8,13 @@
       "currencies": []
     },
     {
+      "title": "News by CNBC TV18 on TradingView, 2026-08-17 \u2014 cnbctv:968022225094b:0 - TradingView",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "India Raises $50 Billion From Diaspora, Ends Swap Facility Early - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
@@ -22,13 +29,6 @@
       "currencies": []
     },
     {
-      "title": "Currency Check: Rupee opens lower at 95.48/ dollar; Asian peers trade higher - TradingView",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9584,
-      "currencies": []
-    },
-    {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -36,17 +36,10 @@
       "currencies": []
     },
     {
-      "title": "Rupee set to weaken after central bank curtails dollar inflow window - Yahoo News Singapore",
+      "title": "Rupee set to weaken after central bank curtails dollar inflow window - Reuters",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9085,
-      "currencies": []
-    },
-    {
-      "title": "RBI's $56.8 billion forex drive: How diaspora deposits reshape India's currency risk and balance sheet - The Economic Times",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "score": -0.941,
       "currencies": []
     },
     {
@@ -60,7 +53,7 @@
       ]
     },
     {
-      "title": "WEEKAHEAD Indian rupee expected to be rangebound, bond traders await policy minutes - Reuters",
+      "title": "RBI's $56.8 billion forex drive: How diaspora deposits reshape India's currency risk and balance sheet - The Economic Times",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -81,68 +74,75 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - newsonair.gov.in",
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8185,
+      "score": 0.6676,
       "currencies": [
         "USD"
       ]
     },
     {
-      "title": "Alphabet eyes inaugural Australian dollar bond, bookrunner\u2019s message says",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Fiducian H2 2026 profit hit by ASIC penalty",
+      "title": "Why is Ulvac stock tumbling today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9405,
+      "score": -0.7173,
       "currencies": []
     },
     {
-      "title": "Katie Evans, Magnite president, sells $480,000 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Cohen & Co CFO Joseph Pooler Jr. sells $102,966 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Philippine central bank says inflation to ease gradually, risks remain on upside",
+      "title": "Sun Pharma wins U.S. antitrust appeal over Lipitor settlement",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8556,
+      "score": 0.6241,
       "currencies": []
     },
     {
-      "title": "German companies cut US investment to three-year low, data show",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9723,
-      "currencies": []
-    },
-    {
-      "title": "Australia\u2019s JB Hi-Fi shares slide after flagging weak start to FY27",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.966,
-      "currencies": []
-    },
-    {
-      "title": "Thermo Fisher chairman & CEO Marc Casper sells $8.6m in company stock",
+      "title": "Gates Industrial director Zhang Peifang sells $171,720 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Fathom earnings missed by $0.18, revenue fell short of estimates",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9709,
+      "currencies": []
+    },
+    {
+      "title": "Why is Aurizon stock plunging today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9044,
+      "currencies": []
+    },
+    {
+      "title": "Asian stocks mixed as Japan GDP misses forecasts; China data, tech in focus",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9197,
+      "currencies": []
+    },
+    {
+      "title": "Cadiz earnings missed by $0.02, revenue fell short of estimates",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9686,
+      "currencies": []
+    },
+    {
+      "title": "Ensysce Biosciences earnings beat by $0.51, revenue fell short of estimates",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9003,
       "currencies": []
     }
   ],
