@@ -1,24 +1,20 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/JPY": [
+    "AUD/USD": [
       {
-        "title": "USD/MXN Analysis 17/08: Remains Under Pressure - DailyForex",
+        "title": "AUD/USD Signal: Aussie Rally Gains Steam Amid a Risk-On Sentiment - DailyForex",
         "source": "Google News",
-        "label": "bearish",
-        "score": -0.8773
-      },
+        "label": "bullish",
+        "score": 0.9178
+      }
+    ],
+    "USD/JPY": [
       {
         "title": "Gold Price Forecast: XAU/USD holds bullish bias near $4,400",
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.7976
-      },
-      {
-        "title": "Japanese Yen: BoJ hike expectations support JPY against US Dollar \u2013 MUFG",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8123
       }
     ]
   }

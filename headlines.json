@@ -15,30 +15,31 @@
       "currencies": []
     },
     {
-      "title": "USD/MXN Analysis 17/08: Remains Under Pressure - DailyForex",
+      "title": "AUD/USD Signal: Aussie Rally Gains Steam Amid a Risk-On Sentiment - DailyForex",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.8773,
+      "label": "bullish",
+      "score": 0.9178,
       "currencies": [
+        "AUD",
         "USD"
       ]
     },
     {
-      "title": "Rupee set to weaken after central bank curtails dollar inflow window - sg.finance.yahoo.com",
+      "title": "Belarusian ruble loses ground amid weakening Russian currency - Belsat",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.7477,
+      "score": -0.9244,
+      "currencies": []
+    },
+    {
+      "title": "Rupee set to weaken after central bank curtails dollar inflow window - Yahoo Finance Singapore",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9174,
       "currencies": []
     },
     {
       "title": "India Raises $50 Billion From Diaspora, Ends Swap Facility Early - Bloomberg.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "News by CNBC TV18 on TradingView, 2026-08-17 \u2014 cnbctv:968022225094b:0 - TradingView",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -52,17 +53,17 @@
       "currencies": []
     },
     {
+      "title": "News by CNBC TV18 on TradingView, 2026-08-17 \u2014 cnbctv:968022225094b:0 - TradingView",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Dollar slips to June lows as cool U.S. data fuel 70% Fed pause probability - Investing.com",
       "source": "Google News",
       "label": "bearish",
       "score": -0.763,
-      "currencies": []
-    },
-    {
-      "title": "Riksbank Holds as Krona Struggles Despite Strong Data - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9583,
       "currencies": []
     },
     {
@@ -73,6 +74,13 @@
       "currencies": []
     },
     {
+      "title": "Riksbank Holds as Krona Struggles Despite Strong Data - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9583,
+      "currencies": []
+    },
+    {
       "title": "Analysts continue to be divided on the Japanese yen outlook - investingLive",
       "source": "Google News",
       "label": "bearish",
@@ -80,63 +88,56 @@
       "currencies": []
     },
     {
-      "title": "Oil pangs, FX swap window closure drags Indian rupee to two-week low - Reuters",
-      "source": "Google News",
+      "title": "Fed to hold interest rates this year, economists say, sticking to their view: Reuters poll",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Wells Fargo upgrades Okta stock rating on AI growth potential",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5776,
+      "currencies": []
+    },
+    {
+      "title": "Wells Fargo raises CrowdStrike stock price target on strong pipeline",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "TSX futures inch higher amid easing Fed rate hike bets, Hormuz disruptions",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9398,
+      "score": -0.6166,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: M.T.I. Group posts double-digit growth in Q2 2026",
+      "title": "How Fair Value spotted Insperity\u2019s 68% rally nine months early",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9386,
+      "score": 0.5182,
       "currencies": []
     },
     {
-      "title": "Valion Bio appoints new COO, terminates CEO, and announces funding agreements",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Piper Sandler starts bullish SoFi coverage on strong product cross-selling",
+      "title": "Castle Biosciences gains dual listing on Nasdaq Texas",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8671,
+      "score": 0.7056,
       "currencies": []
     },
     {
-      "title": "HIVE Digital secures $350 million GPU cloud services contract",
+      "title": "EyePoint\u2019s DURAVYU misses primary endpoint in wet AMD trial",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Exclusive-Shein eyes company valuation of around $25 billion in Hong Kong IPO, sources say",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "OmniAb raises 2026 cash guidance on licensing activity",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Guardian Metal raises \u00a31.6m through warrant exercise",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Trump crypto firm backs venture offering AI from restricted Chinese companies",
+      "title": "Auddia partners with AMG Corp for digital radio releases",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
