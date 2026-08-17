@@ -3,7 +3,7 @@
   "pairs": {
     "GBP/USD": [
       {
-        "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
+        "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - forex.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -21,12 +21,6 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.8773
-      },
-      {
-        "title": "Eastern Bankshares stock hits all-time high at 23.76 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.6555
       },
       {
         "title": "Kickstart the NA session for August 17: USD starts the week on the defensive.",

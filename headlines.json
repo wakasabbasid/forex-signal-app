@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
+      "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - forex.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -51,21 +51,14 @@
       "currencies": []
     },
     {
-      "title": "Rupee set to weaken after central bank curtails dollar inflow window - sg.finance.yahoo.com",
+      "title": "Rupee set to weaken after central bank curtails dollar inflow window - Yahoo Finance Singapore",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.7477,
+      "score": -0.9174,
       "currencies": []
     },
     {
       "title": "India Raises $50 Billion From Diaspora, Ends Swap Facility Early - Bloomberg.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "From kirana to currency: Small towns are scrambling for dollars - The Economic Times",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -86,6 +79,13 @@
       "currencies": []
     },
     {
+      "title": "From kirana to currency: Small towns are scrambling for dollars - The Economic Times",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Dollar slips to June lows as cool U.S. data fuel 70% Fed pause probability - Investing.com",
       "source": "Google News",
       "label": "bearish",
@@ -93,61 +93,59 @@
       "currencies": []
     },
     {
-      "title": "Vibra Q2 2026 slides: margins surge 233% as debt falls to 1.3x",
+      "title": "Why is Enovix stock plunging today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8547,
+      "score": -0.9217,
       "currencies": []
     },
     {
-      "title": "Eastern Bankshares stock hits all-time high at 23.76 USD",
+      "title": "Btig warns stock investors on seasonal weakness ahead in election year",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9496,
+      "currencies": []
+    },
+    {
+      "title": "Morocco stocks higher at close of trade; Moroccan All Shares up 0.08%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6555,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Quanta Services stock maintains Buy rating at UBS on strong outlook",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5394,
+      "score": 0.9462,
       "currencies": []
     },
     {
-      "title": "UBS reiterates Tapestry stock rating citing AI capabilities",
+      "title": "Why is CuriosityStream stock sliding 12% today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7535,
+      "score": -0.9593,
       "currencies": []
     },
     {
-      "title": "UBS reiterates Buy rating on BJ\u2019s Wholesale stock ahead of results",
+      "title": "Shein targets $26-27 billion valuation in Hong Kong IPO - report",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Galantas Gold reports warrant exercise for 325,000 shares",
+      "title": "Why is NexGen Energy stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is Marvell Technology stock surging today?",
+      "title": "Axis Bank prices $300 million senior notes due 2029",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US home builder sentiment ticks up in August but remains weak overall",
+      "title": "Macquarie cuts Australian bank revenue forecasts",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9627,
+      "score": -0.9327,
       "currencies": []
     }
   ],
