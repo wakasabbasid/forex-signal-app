@@ -25,13 +25,6 @@
       "currencies": []
     },
     {
-      "title": "India Raises $50 Billion From Diaspora, Ends Swap Facility Early - Bloomberg.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "AUD/USD Signal 17/08: Aussie Rally Gains Steam - DailyForex",
       "source": "Google News",
       "label": "bullish",
@@ -77,10 +70,10 @@
       "currencies": []
     },
     {
-      "title": "News by CNBC TV18 on TradingView, 2026-08-17 \u2014 cnbctv:968022225094b:0 - tradingview.com",
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9371,
       "currencies": []
     },
     {
@@ -91,59 +84,66 @@
       "currencies": []
     },
     {
-      "title": "Analysis-Climate damage: the next hit to Europe\u2019s public finances",
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Glencore\u2019s planned Australian debut draws interest as investors look past coal",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Australia\u2019s BHP, unions fail to reach wage deal",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9317,
-      "currencies": []
-    },
-    {
-      "title": "Analysis-Can nicotine pouches drive Big Tobacco\u2019s future beyond cigarettes?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Nikkei 225 teeters at SuperTrend support: Hourly levels",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7927,
-      "currencies": []
-    },
-    {
-      "title": "SK Hynix stuck below Ichimoku cloud at \u20a91,709,000: Live levels",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Asia FX lacks direction with Fed outlook, U.S.-Iran tensions in focus",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9421,
-      "currencies": []
-    },
-    {
-      "title": "PSP Swiss Property H1 profit climbs on sale, revaluations",
+      "title": "Brookfield hopes for fourth time lucky amid $2.9 billion bid for Australia\u2019s Reliance",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.921,
+      "score": 0.9016,
       "currencies": []
     },
     {
-      "title": "Skan reports 22% sales jump in first half, returns to profit",
+      "title": "EKF Diagnostics buys back 200,000 shares at 25.125p average",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9285,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "UK wage growth holds at 3.5% as labour market weakens",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9561,
+      "currencies": []
+    },
+    {
+      "title": "Battered by war, Iran\u2019s rulers wary of more economic pain and unrest if US tightens pressure",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9255,
+      "currencies": []
+    },
+    {
+      "title": "Diageo appoints former P&G Beauty CEO to board",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Gold falls below $4,400 as oil, Treasury yields pressure bullion",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8905,
+      "currencies": []
+    },
+    {
+      "title": "Seraphim Space invests $30m in satellite Bluetooth firm Hubble",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

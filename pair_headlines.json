@@ -21,12 +21,6 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.8876
-      },
-      {
-        "title": "AUD/JPY Price Forecast: Strengthens to near 113.50, near-term outlook remain constructive",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9299
       }
     ],
     "EUR/USD": [
@@ -41,12 +35,6 @@
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.7967
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Rises to near 185.00 after breaking above 50-day EMA",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9369
       }
     ],
     "USD/JPY": [
@@ -63,34 +51,16 @@
         "score": 0.0
       },
       {
-        "title": "Gold slides below $4,400 as oil-fueled inflation risks and US-Iran tensions bolster USD",
+        "title": "Gold remains depressed below $4,400 as USD firms amid oil-driven inflation fears",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.5263
+        "score": -0.9583
       },
       {
         "title": "Australian Dollar bulls seem hesitant near 0.7100 as USD recovers from two-month low",
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.699
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Rises to near 185.00 after breaking above 50-day EMA",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9369
-      },
-      {
-        "title": "AUD/JPY Price Forecast: Strengthens to near 113.50, near-term outlook remain constructive",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9299
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD falls to near $65.50 amid US-Iran peace uncertainty",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9703
       }
     ]
   }
