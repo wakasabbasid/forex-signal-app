@@ -19,12 +19,6 @@
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.7967
-      },
-      {
-        "title": "GBP/JPY Price Forecast: Pound steadies below the 216.35 resistance area",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.7225
       }
     ],
     "EUR/USD": [
@@ -47,38 +41,28 @@
         "score": -0.7967
       }
     ],
+    "AUD/USD": [
+      {
+        "title": "BofA recommends selling AUD/NZD on policy divergence outlook",
+        "source": "Investing.com",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "NZD/USD": [
+      {
+        "title": "BofA recommends selling AUD/NZD on policy divergence outlook",
+        "source": "Investing.com",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
     "USD/JPY": [
       {
         "title": "Indian rupee intervention returns as USD/INR hovers near all-time high",
         "source": "ForexLive",
         "label": "bullish",
         "score": 0.719
-      },
-      {
-        "title": "PBOC sets USD/ CNY reference rate for today at 6.7905 (vs. estimate at 6.7452)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Gold sticks to losses below $4,400 as USD recovers further from two-month low",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.4936
-      },
-      {
-        "title": "GBP/JPY Price Forecast: Pound steadies below the 216.35 resistance area",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.7225
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "AUD/USD Price Forecast: Holds breakout near 0.7100",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.5232
       }
     ]
   }

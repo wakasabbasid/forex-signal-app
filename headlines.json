@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "China's forex market sustains stable run, trend in line with expectations - China Daily Global Edition",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8626,
+      "currencies": []
+    },
+    {
       "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - DailyForex",
       "source": "Google News",
       "label": "neutral",
@@ -9,20 +16,6 @@
         "GBP",
         "USD"
       ]
-    },
-    {
-      "title": "India's forex reserves climb past $700 billion on robust inflows - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8728,
-      "currencies": []
-    },
-    {
-      "title": "China's forex market sustains stable run, trend in line with expectations - China Daily",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8918,
-      "currencies": []
     },
     {
       "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
@@ -39,6 +32,13 @@
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9097,
       "currencies": []
     },
     {
@@ -63,6 +63,13 @@
       "currencies": []
     },
     {
+      "title": "Swiss Franc Softens as Dollar Recovers Ahead of Fed Minutes - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.4408,
+      "currencies": []
+    },
+    {
       "title": "EUR/USD Signal 18/08: Shooting Star Points to a Pullback - DailyForex",
       "source": "Google News",
       "label": "bearish",
@@ -73,13 +80,6 @@
       ]
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "US Dollar Outlook: DXY Holds Support as FX Reversal Risks Build - FOREX.com",
       "source": "Google News",
       "label": "bullish",
@@ -87,66 +87,69 @@
       "currencies": []
     },
     {
-      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.9097,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Guggenheim initiates Scribe Therapeutics stock with buy rating",
+      "title": "Dollar rebounds from 2-month lows as Middle East war risks truncate FX momentum",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8833,
+      "currencies": []
+    },
+    {
+      "title": "Huber+Suhner H1 2026 slides: record orders offset by margin squeeze",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6757,
+      "currencies": []
+    },
+    {
+      "title": "European shares slip as oil prices and bond yields surge on Middle East fears",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9314,
+      "currencies": []
+    },
+    {
+      "title": "Hormuz to remain closed until U.S. meets MoU conditions, Iran\u2019s Ghalibaf says",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Indonesia stocks higher at close of trade; IDX Composite Index up 1.05%",
+      "title": "Frasers increases Hugo Boss stake to nearly 48%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.94,
+      "score": 0.8584,
       "currencies": []
     },
     {
-      "title": "Royal Unibrew H1 2026 slides: margin gains despite stock decline",
+      "title": "BofA sees Polish zloty gains from Q4 on expected dollar weakness",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7513,
+      "score": 0.9451,
       "currencies": []
     },
     {
-      "title": "Ocean Yield Q2 2026 slides: A.P. M\u00f8ller acquisition set to close",
+      "title": "BofA recommends selling AUD/NZD on policy divergence outlook",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "AUD",
+        "NZD"
+      ]
     },
     {
-      "title": "Ocean Yield Q2 2026 slides: A.P. M\u00f8ller Holding acquisition detailed",
+      "title": "Wolfe reports July credit data for card issuers",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: NOBA posts strong Q2 2026 profit growth, shares slip",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9491,
-      "currencies": []
-    },
-    {
-      "title": "Reach Subsea Q2 2026 slides: profit doubles on remote tech gains",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7405,
-      "currencies": []
-    },
-    {
-      "title": "LG Electronics accelerates robotics collaboration with NVIDIA",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8153,
       "currencies": []
     }
   ],
