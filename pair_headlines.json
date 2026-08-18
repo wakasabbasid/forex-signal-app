@@ -23,32 +23,20 @@
         "score": -0.5694
       }
     ],
-    "USD/JPY": [
-      {
-        "title": "Akso Health Group stock hits 52-week low at 1.03 USD",
-        "source": "Investing.com",
-        "label": "bearish",
-        "score": -0.9586
-      },
-      {
-        "title": "National HealthCare Corp stock hits all-time high at 232.78 USD",
-        "source": "Investing.com",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD consolidates as bullish momentum fades",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.5955
-      }
-    ],
     "USD/CHF": [
       {
         "title": "USD/CHF Price Forecast: Flag support rebound keeps bulls alive",
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.8753
+      }
+    ],
+    "USD/JPY": [
+      {
+        "title": "Silver Price Forecast: XAG/USD consolidates as bullish momentum fades",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.5955
       }
     ]
   }

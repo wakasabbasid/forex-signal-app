@@ -1,13 +1,6 @@
 {
   "headlines": [
     {
-      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "China's forex market sustains stable run, trend in line with expectations - China Daily Global Edition",
       "source": "Google News",
       "label": "bullish",
@@ -70,10 +63,17 @@
       "currencies": []
     },
     {
-      "title": "Rupee set to weaken after central bank curtails dollar inflow window - sg.finance.yahoo.com",
+      "title": "Rupee set to weaken after central bank curtails dollar inflow window - Yahoo Finance Singapore",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.7477,
+      "score": -0.9174,
+      "currencies": []
+    },
+    {
+      "title": "Dollar rebounds from 2-month lows as Middle East war risks truncate FX momentum - Investing.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7669,
       "currencies": []
     },
     {
@@ -94,63 +94,59 @@
       "currencies": []
     },
     {
-      "title": "TD Cowen raises Grocery Outlet stock price target on turnaround signs",
+      "title": "Anthropic moves to bolster founder control ahead of mega-IPO - The Information",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6944,
+      "currencies": []
+    },
+    {
+      "title": "Trading Day: Bonds slam stocks",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Akso Health Group stock hits 52-week low at 1.03 USD",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9586,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Psyence Biomedical stock surges on Trump ibogaine announcement",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5292,
-      "currencies": []
-    },
-    {
-      "title": "Granite Ridge Resources at EnerCom Denver: eyes cash flow shift",
+      "title": "Blue Water Acquisition Corp. IV appoints Nadab Akhtar to board of directors",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "CCC Intelligent Solutions shares jump on takeover report",
+      "title": "Jack Henry&Associates earnings beat by $0.13, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9391,
+      "currencies": []
+    },
+    {
+      "title": "IM Cannabis approves 1-for-30 reverse stock split",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "National HealthCare Corp stock hits all-time high at 232.78 USD",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Moody\u2019s affirms Darling Ingredients rating, revises outlook",
+      "title": "Allied Gold appoints Joanna Pearson to board of directors",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Meta rejects allegations it sought to hook children as landmark trial begins",
+      "title": "Baxter increases debt tender offer cap to $600 million",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6159,
+      "label": "bullish",
+      "score": 0.7048,
+      "currencies": []
+    },
+    {
+      "title": "Kohl\u2019s declares quarterly dividend of $0.125 per share",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
