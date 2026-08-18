@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - bloomberg.com",
+      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -23,6 +23,13 @@
         "GBP",
         "USD"
       ]
+    },
+    {
+      "title": "Brazilian currency likely to face less turbulent election - valorinternational.globo.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
@@ -49,13 +56,6 @@
       "currencies": []
     },
     {
-      "title": "Dollar rebounds from 2-month lows as Middle East war risks truncate FX momentum - Investing.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7669,
-      "currencies": []
-    },
-    {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -63,17 +63,17 @@
       "currencies": []
     },
     {
+      "title": "Dollar rebounds from 2-month lows as Middle East war risks truncate FX momentum - Investing.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7669,
+      "currencies": []
+    },
+    {
       "title": "Rupee set to weaken after central bank curtails dollar inflow window - Yahoo Finance Singapore",
       "source": "Google News",
       "label": "bearish",
       "score": -0.9174,
-      "currencies": []
-    },
-    {
-      "title": "Africa\u2019s largest airline has $90 million trapped abroad as forex shortages and sanctions worsen the continent\u2019s $1 billion blocked-funds crisis - Business Insider Africa",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9316,
       "currencies": []
     },
     {
@@ -94,59 +94,59 @@
       ]
     },
     {
-      "title": "Cardinal Infrastructure COO Wood acquires $1.01m in shares",
+      "title": "Stifel reiterates Buy on Marvell stock, keeps $350 target on data center strength",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Cardinal infrastructure director Ivy Zelman buys $500,947 in stock",
+      "title": "DocGo stock price target maintained at $2.50 by Stifel",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Norwegian Cruise Line rating cut at Mizuho after \u2018self-inflicted wounds\u2019",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8784,
-      "currencies": []
-    },
-    {
-      "title": "Cypherpunk launches Zcash mining fleet via $33.33M transaction",
+      "title": "Stifel reiterates Buy on Madison Air Solutions stock at $41",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "ReposiTrak launches merchandising service with SPAR Group",
+      "title": "La Rosa Holdings issues Series E preferred stock in $210,000 private placement",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Select Water Solutions expands Delaware Basin water deal",
+      "title": "Cisco Systems EVP Deborah Stahlkopf sells $723,494 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Kratos Valkyrie drone demonstrates electronic warfare in USMC test",
+      "title": "Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.03%",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9408,
       "currencies": []
     },
     {
-      "title": "Flotek\u2019s Puerto Rico power project faces work stoppage",
+      "title": "Sagtec receives $3M order for 1,500 AI food-serving robots",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9643,
+      "label": "bullish",
+      "score": 0.8636,
+      "currencies": []
+    },
+    {
+      "title": "QT Imaging reports $14M H1 revenue, up 116% year-over-year",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9546,
       "currencies": []
     }
   ],

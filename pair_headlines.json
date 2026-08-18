@@ -29,24 +29,12 @@
         "score": -0.8698
       }
     ],
-    "USD/JPY": [
+    "NZD/USD": [
       {
-        "title": "Indian rupee intervention returns as USD/INR hovers near all-time high",
-        "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.719
-      },
-      {
-        "title": "USD/JPY Price Forecast: Aims to extend rally above 160.00",
+        "title": "NZD/USD Price Forecast: Kiwi fails to find follow-through above 0.5900",
         "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9465
-      },
-      {
-        "title": "Gold Price Forecast: XAU/USD eases below $4,400 as US yields rally",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.5289
+        "label": "bearish",
+        "score": -0.9349
       }
     ]
   }
