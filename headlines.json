@@ -15,6 +15,13 @@
       "currencies": []
     },
     {
+      "title": "Brazilian currency likely to face less turbulent election - Valor International",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - Daily Forex",
       "source": "Google News",
       "label": "neutral",
@@ -23,13 +30,6 @@
         "GBP",
         "USD"
       ]
-    },
-    {
-      "title": "Brazilian currency likely to face less turbulent election - Valor International",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
     },
     {
       "title": "Bank of Russia Lets Brokers Count Crypto as Capital. Anything Off-List Is Treated as 100% Risk - TradingView",
@@ -63,17 +63,10 @@
       "currencies": []
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - britannica.com",
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Dollar rebounds from 2-month lows as Middle East war risks truncate FX momentum - Investing.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7669,
       "currencies": []
     },
     {
@@ -81,6 +74,13 @@
       "source": "Google News",
       "label": "bearish",
       "score": -0.9174,
+      "currencies": []
+    },
+    {
+      "title": "Dollar rebounds from 2-month lows as Middle East war risks truncate FX momentum - Investing.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7669,
       "currencies": []
     },
     {
@@ -94,59 +94,59 @@
       ]
     },
     {
-      "title": "Forum Energy Technologies at EnerCom Denver: growth plan in focus",
+      "title": "Quantexa considers listing in UK or US markets",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Weave Communications shares surge on $650 million buyout deal",
+      "title": "YouTube in talks for NBA local streaming rights deal worth over $1B - SBJ",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8423,
+      "score": 0.7482,
       "currencies": []
     },
     {
-      "title": "FTSE 100 today: Stocks edge up, boosted by energy majors; Iran tensions escalate",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9422,
-      "currencies": []
-    },
-    {
-      "title": "STOXX 600 drops to two-week low on higher bond yields, Middle East uncertainty",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9565,
-      "currencies": []
-    },
-    {
-      "title": "Meta trial that could reshape Facebook, Instagram gets underway",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5119,
-      "currencies": []
-    },
-    {
-      "title": "VNET DRC earnings missed by \u00a51.67, revenue fell short of estimates",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9712,
-      "currencies": []
-    },
-    {
-      "title": "Why is Home Depot stock gaining today?",
+      "title": "Select Water Solutions at EnerCom Denver: water shift drives growth",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Corporacion America Airports earnings missed by $0.18, revenue topped estimates",
+      "title": "Flag ship 10% owner Mizuho Securities USA sells $954,550 stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Amylyx stock price target raised to $55 by H.C. Wainwright on trial",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5575,
+      "currencies": []
+    },
+    {
+      "title": "Russia\u2019s Putin hosts Myanmar leader, talks up energy projects",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why is Xylem stock sliding today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9722,
+      "score": -0.9392,
+      "currencies": []
+    },
+    {
+      "title": "Kartoon Studios at Lytham summit: bet on owned ip grows",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
