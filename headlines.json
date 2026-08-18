@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg.com",
+      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -15,13 +15,6 @@
       "currencies": []
     },
     {
-      "title": "Brazilian currency likely to face less turbulent election - Valor International",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - Daily Forex",
       "source": "Google News",
       "label": "neutral",
@@ -30,6 +23,13 @@
         "GBP",
         "USD"
       ]
+    },
+    {
+      "title": "Brazilian currency likely to face less turbulent election - Valor International",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "Bank of Russia Lets Brokers Count Crypto as Capital. Anything Off-List Is Treated as 100% Risk - TradingView",
@@ -94,56 +94,56 @@
       ]
     },
     {
-      "title": "Quantexa considers listing in UK or US markets",
+      "title": "York Water Company appoints David M. Velazquez to board of directors",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "YouTube in talks for NBA local streaming rights deal worth over $1B - SBJ",
+      "title": "Argentum AI Announces $10 Billion+ in Contracted Revenue and Targets 1GW of AI Infrastructure Capacity in 2026",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7482,
+      "score": 0.8535,
       "currencies": []
     },
     {
-      "title": "Select Water Solutions at EnerCom Denver: water shift drives growth",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Flag ship 10% owner Mizuho Securities USA sells $954,550 stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Amylyx stock price target raised to $55 by H.C. Wainwright on trial",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5575,
-      "currencies": []
-    },
-    {
-      "title": "Russia\u2019s Putin hosts Myanmar leader, talks up energy projects",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is Xylem stock sliding today?",
+      "title": "France to expel two Iranian diplomats, foreign minister says",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9392,
+      "score": -0.7479,
       "currencies": []
     },
     {
-      "title": "Kartoon Studios at Lytham summit: bet on owned ip grows",
+      "title": "Boeing-Lockheed\u2019s ULA triples bond sale to $1.5 billion - report",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.874,
+      "currencies": []
+    },
+    {
+      "title": "OpenAI pauses frontier model training to strengthen safeguards",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6271,
+      "currencies": []
+    },
+    {
+      "title": "Total Wireless expands Western Union services to stores nationwide",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6142,
+      "currencies": []
+    },
+    {
+      "title": "OpenAI unveils ChatGPT for Teens with stronger guardrails to tackle safety risks",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7333,
+      "currencies": []
+    },
+    {
+      "title": "Meta targeted children to boost Facebook and Instagram use, lawyer says as landmark trial begins",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

@@ -13,6 +13,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "US Dollar Price Forecast: Fed Hike Bets Fade as EUR/USD and GBP/USD Rally",
+        "source": "Yahoo Finance",
+        "label": "bearish",
+        "score": -0.8581
       }
     ],
     "EUR/USD": [
@@ -21,6 +27,20 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.5694
+      },
+      {
+        "title": "US Dollar Price Forecast: Fed Hike Bets Fade as EUR/USD and GBP/USD Rally",
+        "source": "Yahoo Finance",
+        "label": "bearish",
+        "score": -0.8581
+      }
+    ],
+    "USD/JPY": [
+      {
+        "title": "Silver Price Forecast: XAG/USD consolidates as bullish momentum fades",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.5955
       }
     ]
   }
