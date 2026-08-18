@@ -8,10 +8,10 @@
       "currencies": []
     },
     {
-      "title": "China's forex market sustains stable run, trend in line with expectations - China Daily Global Edition",
+      "title": "China's forex market sustains stable run, trend in line with expectations - global.chinadaily.com.cn",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8626,
+      "score": 0.5241,
       "currencies": []
     },
     {
@@ -26,6 +26,13 @@
     },
     {
       "title": "Brazilian currency likely to face less turbulent election - Valor International",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Bank of Russia Lets Brokers Count Crypto as Capital. Anything Off-List Is Treated as 100% Risk - TradingView",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -87,66 +94,59 @@
       ]
     },
     {
-      "title": "US Dollar Outlook: DXY Holds Support as FX Reversal Risks Build - FOREX.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5674,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Prenetics posts Q2 2026 EPS beat as revenue misses",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Energy Vault director Dylan Hixon buys $106,536 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Northrop Grumman clears design review for E-2D upgrade",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "OpenAI vs. Anthropic: AI litigation risk compared ahead of potential IPOs",
+      "title": "Earnings call transcript: Nordhealth posts steady H1 2026 growth as shares slip",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6111,
+      "score": 0.952,
       "currencies": []
     },
     {
-      "title": "Why states fought to present a united case against Meta over youth social media harms",
+      "title": "Equinor acquires stake in Namibia offshore oil block",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "OpenAI unveils ChatGPT for Teens with stronger guardrails to tackle safety risks",
+      "title": "Google to buy Spirit Airlines business data for $10 million",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7333,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "ReNew Energy Global earnings missed by \u20b90.23, revenue topped estimates",
+      "title": "Oil rises as US-Iran peace hopes fade",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7129,
+      "currencies": []
+    },
+    {
+      "title": "Riley Permian at EnerCom Denver: growth waits on pipeline relief",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Colombia\u2019s economy expands 3.5% in second quarter",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.952,
+      "currencies": []
+    },
+    {
+      "title": "Stocks slide, yields elevated as Mideast conflict fears grow",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9688,
+      "score": -0.941,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Evogene narrows Q2 2026 loss as shares fall 7.8%",
+      "title": "Conduit Holdings names Mark Pickering as new CFO",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.974,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
