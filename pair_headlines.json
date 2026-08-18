@@ -31,16 +31,46 @@
     ],
     "USD/JPY": [
       {
+        "title": "PBOC sets USD/ CNY reference rate for today at 6.7905 (vs. estimate at 6.7452)",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7452 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
         "title": "Joint US-Japan intervention loses grip as USD/JPY climbs back above 159",
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.8034
       },
       {
-        "title": "USD/JPY rises to the highest level this month",
-        "source": "ForexLive",
+        "title": "Silver Price Forecast: XAG/USD falls to near $65.50 amid US-Iran peace uncertainty",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9703
+      },
+      {
+        "title": "Canadian Dollar holds near early June high as rising oil prices offset modest USD strength",
+        "source": "FXStreet",
         "label": "bullish",
-        "score": 0.9349
+        "score": 0.8736
+      },
+      {
+        "title": "PBOC sets USD/CNY reference rate at 6.7905 vs. 6.7873 previous",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Euro flat lines below two-month high as oil-driven inflation fears support USD",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.7029
       },
       {
         "title": "GBP/JPY Price Forecast: Bulls reclaim 50-day SMA, eye 217.00",
@@ -55,12 +85,6 @@
         "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "EUR/USD Price Forecast: Struggles at 1.1600, dives below 100-day SMA",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.6689
       }
     ]
   }

@@ -77,10 +77,10 @@
       "currencies": []
     },
     {
-      "title": "Riksbank Holds as Krona Struggles Despite Strong Data - tradingpedia.com",
+      "title": "Riksbank Holds as Krona Struggles Despite Strong Data - TradingPedia",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9289,
+      "score": -0.9583,
       "currencies": []
     },
     {
@@ -91,59 +91,59 @@
       "currencies": []
     },
     {
-      "title": "Australia\u2019s Reliance Worldwide receives $2.9 billion takeover bid from Brookfield",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Board overseeing Washington Dulles airport to vote on $19.9 billion overhaul plan",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "PBF Energy director Thomas Nimbley sells $12.3m in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Cargill workers vote to end dispute at US beef plant idled since April",
+      "title": "Earnings call transcript: Macmahon posts record FY 2026, shares fall 9.3%",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9018,
+      "score": -0.9737,
       "currencies": []
     },
     {
-      "title": "Paramount seeks $1.88 billion bond from state AGs over merger lawsuit",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Vector FY26 slides: profit jumps 55% on regulatory reset",
+      "title": "SRG Global FY26 slides: record earnings, upgraded FY27 outlook",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9332,
+      "score": 0.9498,
       "currencies": []
     },
     {
-      "title": "PBF Energy director Control Empresarial sells $15.6m in shares",
+      "title": "Karman Line Acquisition prices $200M IPO on Nasdaq",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Cardinal Infrastructure director Lee buys $1.25m in stock",
+      "title": "Dollar feeble as rate hike bets dwindle, Iran war worries grow",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.922,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Sims Limited falls 12.8% after mixed H2 2026 outlook",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9705,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: SRG Global posts record H2 2026 result, lifts FY27 outlook",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8705,
+      "currencies": []
+    },
+    {
+      "title": "Judo Bank FY26 slides: profit jumps 34% as margins widen, costs fall",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9336,
+      "currencies": []
+    },
+    {
+      "title": "Aspen Group FY26 slides: 30% EPS growth, upgraded FY27 guidance",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9421,
       "currencies": []
     }
   ],
