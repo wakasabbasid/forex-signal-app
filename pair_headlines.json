@@ -9,10 +9,16 @@
         "score": 0.0
       },
       {
-        "title": "GBP/JPY Price Forecast: Bulls reclaim 50-day SMA, eye 217.00",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
+        "title": "Westpac says dollar's structural headwinds outweigh recent resilience, see EUR/USD and GBP/USD higher - investinglive.com",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.6398
+      },
+      {
+        "title": "Westpac says dollar's structural headwinds outweigh recent resilience, see EUR/USD and GBP/USD higher",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.7967
       }
     ],
     "AUD/USD": [
@@ -21,32 +27,34 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.8876
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "Westpac says dollar's structural headwinds outweigh recent resilience, see EUR/USD and GBP/USD higher - investinglive.com",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.6398
       },
       {
-        "title": "Morgan Stanley targets EUR/AUD at 1.53, backs Aussie dollar carry trade",
+        "title": "Westpac says dollar's structural headwinds outweigh recent resilience, see EUR/USD and GBP/USD higher",
         "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bearish",
+        "score": -0.7967
       }
     ],
     "USD/JPY": [
+      {
+        "title": "Indian rupee intervention returns as USD/INR hovers near all-time high",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.719
+      },
       {
         "title": "PBOC sets USD/ CNY reference rate for today at 6.7905 (vs. estimate at 6.7452)",
         "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7452 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Joint US-Japan intervention loses grip as USD/JPY climbs back above 159",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.8034
       },
       {
         "title": "Silver Price Forecast: XAG/USD falls to near $65.50 amid US-Iran peace uncertainty",
@@ -71,20 +79,6 @@
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.7029
-      },
-      {
-        "title": "GBP/JPY Price Forecast: Bulls reclaim 50-day SMA, eye 217.00",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "Morgan Stanley targets EUR/AUD at 1.53, backs Aussie dollar carry trade",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
       }
     ]
   }

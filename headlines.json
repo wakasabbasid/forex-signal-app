@@ -25,6 +25,13 @@
       "currencies": []
     },
     {
+      "title": "India Raises $50 Billion From Diaspora, Ends Swap Facility Early - Bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "AUD/USD Signal 17/08: Aussie Rally Gains Steam - DailyForex",
       "source": "Google News",
       "label": "bullish",
@@ -33,13 +40,6 @@
         "AUD",
         "USD"
       ]
-    },
-    {
-      "title": "India Raises $50 Billion From Diaspora, Ends Swap Facility Early - Bloomberg.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
     },
     {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
@@ -63,7 +63,19 @@
       "currencies": []
     },
     {
-      "title": "News by CNBC TV18 on TradingView, 2026-08-17 \u2014 cnbctv:968022225094b:0 - TradingView",
+      "title": "Westpac says dollar's structural headwinds outweigh recent resilience, see EUR/USD and GBP/USD higher - investinglive.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6398,
+      "currencies": [
+        "EUR",
+        "USD",
+        "GBP",
+        "USD"
+      ]
+    },
+    {
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -84,66 +96,59 @@
       "currencies": []
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
-      "source": "Google News",
+      "title": "Cochlear FY26 slides: cash flow doubles despite margin pressure",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9365,
+      "currencies": []
+    },
+    {
+      "title": "Bond yields jump, oil extends gains as US-Iran ceasefire expires",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.4881,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Cochlear lifts cash flow, stock rises after H2 2026",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9251,
+      "currencies": []
+    },
+    {
+      "title": "Google plans to end Pixel production in China in 2027, Nikkei reports",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7566,
+      "currencies": []
+    },
+    {
+      "title": "BHP: copper overtakes iron ore as primary profit driver, here\u2019s what it means",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Macmahon posts record FY 2026, shares fall 9.3%",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9737,
-      "currencies": []
-    },
-    {
-      "title": "SRG Global FY26 slides: record earnings, upgraded FY27 outlook",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9498,
-      "currencies": []
-    },
-    {
-      "title": "Karman Line Acquisition prices $200M IPO on Nasdaq",
+      "title": "Why is BHP stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Dollar feeble as rate hike bets dwindle, Iran war worries grow",
+      "title": "HUB24 FY 2026 presentation: profit surges 51%, shares fall 7.5%",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.922,
+      "score": -0.9721,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Sims Limited falls 12.8% after mixed H2 2026 outlook",
+      "title": "Region Group FY26 slides: strong results, cautious growth outlook",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9705,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: SRG Global posts record H2 2026 result, lifts FY27 outlook",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8705,
-      "currencies": []
-    },
-    {
-      "title": "Judo Bank FY26 slides: profit jumps 34% as margins widen, costs fall",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9336,
-      "currencies": []
-    },
-    {
-      "title": "Aspen Group FY26 slides: 30% EPS growth, upgraded FY27 guidance",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9421,
+      "score": -0.4909,
       "currencies": []
     }
   ],
