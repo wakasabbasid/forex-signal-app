@@ -1,10 +1,10 @@
 {
   "headlines": [
     {
-      "title": "China's forex market sustains stable run, trend in line with expectations - China Daily Global Edition",
+      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.8626,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -18,6 +18,13 @@
       ]
     },
     {
+      "title": "China's forex market sustains stable run, trend in line with expectations - global.chinadaily.com.cn",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5241,
+      "currencies": []
+    },
+    {
       "title": "Brazilian currency likely to face less turbulent election - Valor International",
       "source": "Google News",
       "label": "neutral",
@@ -25,10 +32,17 @@
       "currencies": []
     },
     {
-      "title": "Bank of Russia Lets Brokers Count Crypto as Capital. Anything Off-List Is Treated as 100% Risk - TradingView",
+      "title": "Bank of Russia Lets Brokers Count Crypto as Capital. Anything Off-List Is Treated as 100% Risk - tradingview.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Currencies: FOREX frozen as markets await the Fed's minutes - marketscreener.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7283,
       "currencies": []
     },
     {
@@ -49,10 +63,17 @@
       ]
     },
     {
-      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - reuters.com",
+      "title": "Forex Today: US Dollar firms on Hormuz jitters ahead of UK CPI and FOMC Minutes - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8302,
+      "currencies": []
+    },
+    {
+      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.6896,
+      "score": 0.9097,
       "currencies": []
     },
     {
@@ -70,83 +91,59 @@
       "currencies": []
     },
     {
-      "title": "Dollar rebounds from 2-month lows as Middle East war risks truncate FX momentum - Investing.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7669,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD Signal 18/08: Shooting Star Points to a Pullback - Daily Forex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5694,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "US Dollar Outlook: DXY Holds Support as FX Reversal Risks Build - FOREX.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5674,
-      "currencies": []
-    },
-    {
-      "title": "Mercury Systems Q4 FY26 slides: record bookings offset margin pressure",
+      "title": "Earnings call transcript: Wagners posts strong H2 2026 growth, shares slip",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9224,
+      "score": 0.9517,
       "currencies": []
     },
     {
-      "title": "JBS proposes to acquire remaining 18% stake in Pilgrim\u2019s Pride",
+      "title": "Valeura Energy at EnerCom Denver: cash-rich growth plan takes focus",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "DEFSEC Technologies closes C$5.54 million private placement",
+      "title": "Drilling Tools International at EnerCom Denver: cash flow, M&A and expansion",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Magnite at Rosenblatt ai summit: ctv growth and google upside",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Mercury Systems posts Q4 2026 revenue beat, shares sink",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.4772,
-      "currencies": []
-    },
-    {
-      "title": "Spartan Delta at EnerCom Denver: duvernay growth drives shift to liquids",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Meta rejects claims it sought to hook children to Facebook, Instagram as landmark trial begins",
+      "title": "Tech selloff weighs down Wall Street as bond yields climb",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6808,
+      "score": -0.8831,
       "currencies": []
     },
     {
-      "title": "Disney, ABC sue FCC over threats to broadcast licenses",
+      "title": "Beyond marathons and backflips, China\u2019s robots face a commercial test",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7832,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US transport regulator resumes review of Union Pacific\u2019s proposed Norfolk merger",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Charles Schwab MD Jonathan Beatty sells $111,330 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Alx oncology CEO Jason Lettmann disposes of $4,303 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

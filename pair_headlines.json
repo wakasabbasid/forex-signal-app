@@ -13,14 +13,34 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "GBP/JPY Price Forecast: Bulls stall near 216.00 as RSI flattens",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9608
       }
     ],
     "EUR/USD": [
       {
-        "title": "EUR/USD Signal 18/08: Shooting Star Points to a Pullback - Daily Forex",
-        "source": "Google News",
+        "title": "EUR/JPY Price Forecast: SMAs confluence blocks bulls near 185.00",
+        "source": "FXStreet",
         "label": "bearish",
-        "score": -0.5694
+        "score": -0.746
+      }
+    ],
+    "USD/JPY": [
+      {
+        "title": "EUR/JPY Price Forecast: SMAs confluence blocks bulls near 185.00",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.746
+      },
+      {
+        "title": "GBP/JPY Price Forecast: Bulls stall near 216.00 as RSI flattens",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9608
       }
     ],
     "USD/CHF": [
