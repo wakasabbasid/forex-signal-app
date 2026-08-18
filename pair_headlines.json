@@ -3,7 +3,7 @@
   "pairs": {
     "GBP/USD": [
       {
-        "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - DailyForex",
+        "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - Daily Forex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -23,10 +23,10 @@
     ],
     "EUR/USD": [
       {
-        "title": "EUR/USD Signal 18/08: Shooting Star Points to a Pullback - DailyForex",
+        "title": "EUR/USD Signal 18/08: Shooting Star Points to a Pullback - Daily Forex",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.5946
+        "score": -0.5694
       },
       {
         "title": "EUR/USD upside break may have to wait",
@@ -39,22 +39,6 @@
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.7967
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "BofA recommends selling AUD/NZD on policy divergence outlook",
-        "source": "Investing.com",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "NZD/USD": [
-      {
-        "title": "BofA recommends selling AUD/NZD on policy divergence outlook",
-        "source": "Investing.com",
-        "label": "neutral",
-        "score": 0.0
       }
     ],
     "USD/JPY": [

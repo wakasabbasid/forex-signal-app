@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "China's forex market sustains stable run, trend in line with expectations - China Daily Global Edition",
       "source": "Google News",
       "label": "bullish",
@@ -8,7 +15,7 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - DailyForex",
+      "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - Daily Forex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -42,10 +49,10 @@
       "currencies": []
     },
     {
-      "title": "Asia FX lacks direction with Fed outlook, U.S.-Iran tensions in focus - Investing.com",
+      "title": "Dollar rebounds from 2-month lows as Middle East war risks truncate FX momentum - Investing.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.7669,
       "currencies": []
     },
     {
@@ -63,6 +70,13 @@
       "currencies": []
     },
     {
+      "title": "Africa\u2019s largest airline has $90 million trapped abroad as forex shortages and sanctions worsen the continent\u2019s $1 billion blocked-funds crisis - Business Insider Africa",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9316,
+      "currencies": []
+    },
+    {
       "title": "Swiss Franc Softens as Dollar Recovers Ahead of Fed Minutes - TradingPedia",
       "source": "Google News",
       "label": "bearish",
@@ -70,83 +84,66 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD Signal 18/08: Shooting Star Points to a Pullback - DailyForex",
+      "title": "EUR/USD Signal 18/08: Shooting Star Points to a Pullback - Daily Forex",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.5946,
+      "score": -0.5694,
       "currencies": [
         "EUR",
         "USD"
       ]
     },
     {
-      "title": "US Dollar Outlook: DXY Holds Support as FX Reversal Risks Build - FOREX.com",
-      "source": "Google News",
+      "title": "Earnings call transcript: Coloplast Q3 2026 growth holds as U.S. gains offset headwinds",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5674,
+      "score": 0.9465,
       "currencies": []
     },
     {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
-      "source": "Google News",
+      "title": "Why states fought to present a united case against Meta over youth social media harms",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Dollar rebounds from 2-month lows as Middle East war risks truncate FX momentum",
+      "title": "Gold hovers below $4,400 as oil, Treasury yields pressure bullion",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8833,
+      "score": -0.9218,
       "currencies": []
     },
     {
-      "title": "Huber+Suhner H1 2026 slides: record orders offset by margin squeeze",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6757,
-      "currencies": []
-    },
-    {
-      "title": "European shares slip as oil prices and bond yields surge on Middle East fears",
+      "title": "Netcapital auditor resigns and company advises against reliance on past financials",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9314,
+      "score": -0.9005,
       "currencies": []
     },
     {
-      "title": "Hormuz to remain closed until U.S. meets MoU conditions, Iran\u2019s Ghalibaf says",
+      "title": "Meta faces 29-state trial that could reshape Instagram and Facebook",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.899,
+      "currencies": []
+    },
+    {
+      "title": "Sea-Doo launches limited edition watercraft with Senna Brand",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Frasers increases Hugo Boss stake to nearly 48%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8584,
-      "currencies": []
-    },
-    {
-      "title": "BofA sees Polish zloty gains from Q4 on expected dollar weakness",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9451,
-      "currencies": []
-    },
-    {
-      "title": "BofA recommends selling AUD/NZD on policy divergence outlook",
+      "title": "Vertical Aerospace schedules annual meeting for September 11",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "AUD",
-        "NZD"
-      ]
+      "currencies": []
     },
     {
-      "title": "Wolfe reports July credit data for card issuers",
+      "title": "Pony.ai plans overseas robotaxi deployments of over 4,000 vehicles",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
