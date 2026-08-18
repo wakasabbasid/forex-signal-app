@@ -70,17 +70,10 @@
       "currencies": []
     },
     {
-      "title": "Rupee set to weaken after central bank curtails dollar inflow window - Yahoo Finance Singapore",
+      "title": "Rupee set to weaken after central bank curtails dollar inflow window - sg.finance.yahoo.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9174,
-      "currencies": []
-    },
-    {
-      "title": "Dollar rebounds from 2-month lows as Middle East war risks truncate FX momentum - Investing.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7669,
+      "score": -0.7477,
       "currencies": []
     },
     {
@@ -94,7 +87,51 @@
       ]
     },
     {
-      "title": "Phillips 66 stock hits all-time high at 242.49 USD",
+      "title": "US Dollar Outlook: DXY Holds Support as FX Reversal Risks Build - FOREX.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5674,
+      "currencies": []
+    },
+    {
+      "title": "TD Cowen raises Grocery Outlet stock price target on turnaround signs",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Akso Health Group stock hits 52-week low at 1.03 USD",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9586,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Psyence Biomedical stock surges on Trump ibogaine announcement",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5292,
+      "currencies": []
+    },
+    {
+      "title": "Granite Ridge Resources at EnerCom Denver: eyes cash flow shift",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "CCC Intelligent Solutions shares jump on takeover report",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "National HealthCare Corp stock hits all-time high at 232.78 USD",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
@@ -103,52 +140,17 @@
       ]
     },
     {
-      "title": "Earnings call transcript: NowVertical jumps 32% after q2 2026 profit gains",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9408,
-      "currencies": []
-    },
-    {
-      "title": "Singularity Future Technology prices $1.8M stock offering",
+      "title": "Moody\u2019s affirms Darling Ingredients rating, revises outlook",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Corporaci\u00f3n Am\u00e9rica Airports posts mixed Q2 2026 results",
+      "title": "Meta rejects allegations it sought to hook children as landmark trial begins",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8038,
-      "currencies": []
-    },
-    {
-      "title": "Precision Optics at Lytham Partners summit: growth shifts to scale",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8643,
-      "currencies": []
-    },
-    {
-      "title": "Raymond James sees positive earnings trends across market caps",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9572,
-      "currencies": []
-    },
-    {
-      "title": "Scott Peters from California\u2019s 50th District makes extensive trades in U.S. Treasury Bills and other assets",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "OpenAI slows model training to bolster security after Hugging Face hack",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8467,
+      "score": -0.6159,
       "currencies": []
     }
   ],
