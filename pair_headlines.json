@@ -13,12 +13,6 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "Westpac says dollar's structural headwinds outweigh recent resilience, see EUR/USD and GBP/USD higher",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.7967
       }
     ],
     "EUR/USD": [
@@ -33,12 +27,6 @@
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.8698
-      },
-      {
-        "title": "Westpac says dollar's structural headwinds outweigh recent resilience, see EUR/USD and GBP/USD higher",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.7967
       }
     ],
     "USD/JPY": [
@@ -47,6 +35,18 @@
         "source": "ForexLive",
         "label": "bullish",
         "score": 0.719
+      },
+      {
+        "title": "USD/JPY Price Forecast: Aims to extend rally above 160.00",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9465
+      },
+      {
+        "title": "Gold Price Forecast: XAU/USD eases below $4,400 as US yields rally",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.5289
       }
     ]
   }

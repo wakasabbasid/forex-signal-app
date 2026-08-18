@@ -3,25 +3,25 @@
   "engine": "finbert",
   "headline_count": 70,
   "source_count": 6,
-  "created_at": "2026-08-18T10:31:39.303208+00:00",
+  "created_at": "2026-08-18T11:28:28.474613+00:00",
   "signals": [
-    {
-      "pair": "EUR/USD",
-      "signal": "SELL",
-      "avg_score": -0.7453,
-      "headline_count": 3
-    },
     {
       "pair": "USD/JPY",
       "signal": "BUY",
-      "avg_score": 0.719,
-      "headline_count": 1
+      "avg_score": 0.7315,
+      "headline_count": 3
+    },
+    {
+      "pair": "EUR/USD",
+      "signal": "SELL",
+      "avg_score": -0.7196,
+      "headline_count": 2
     },
     {
       "pair": "GBP/USD",
-      "signal": "SELL",
-      "avg_score": -0.2656,
-      "headline_count": 3
+      "signal": "HOLD",
+      "avg_score": 0.0,
+      "headline_count": 2
     }
   ]
 }
