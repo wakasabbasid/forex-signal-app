@@ -8,10 +8,10 @@
       "currencies": []
     },
     {
-      "title": "China's forex market sustains stable run, trend in line with expectations - global.chinadaily.com.cn",
+      "title": "China's forex market sustains stable run, trend in line with expectations - China Daily Global Edition",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.5241,
+      "score": 0.8626,
       "currencies": []
     },
     {
@@ -94,63 +94,59 @@
       "currencies": []
     },
     {
-      "title": "FLEX LNG earnings on deck: Can strong quarter offset dividend concerns?",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7776,
-      "currencies": []
-    },
-    {
-      "title": "Corn futures rise as USDA lowers crop condition ratings",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8027,
-      "currencies": []
-    },
-    {
-      "title": "Wheat futures ease as Black Sea disruptions limit losses",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.4742,
-      "currencies": []
-    },
-    {
-      "title": "Kura Oncology stock hits 52-week high at 12.49 USD",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6209,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Nasdaq slides over 1% at the open as U.S. 30-year yield hits over two-decade high",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9239,
-      "currencies": []
-    },
-    {
-      "title": "Amgen stock hits all-time high at 422.49 USD",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.569,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Amer Sports Q2 2026 slides: 32% growth, raised outlook",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9315,
-      "currencies": []
-    },
-    {
-      "title": "AIxC pivots to robotics, plans exit from digital assets",
+      "title": "Earnings call transcript: Prenetics posts Q2 2026 EPS beat as revenue misses",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Energy Vault director Dylan Hixon buys $106,536 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Northrop Grumman clears design review for E-2D upgrade",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "OpenAI vs. Anthropic: AI litigation risk compared ahead of potential IPOs",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6111,
+      "currencies": []
+    },
+    {
+      "title": "Why states fought to present a united case against Meta over youth social media harms",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "OpenAI unveils ChatGPT for Teens with stronger guardrails to tackle safety risks",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7333,
+      "currencies": []
+    },
+    {
+      "title": "ReNew Energy Global earnings missed by \u20b90.23, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9688,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Evogene narrows Q2 2026 loss as shares fall 7.8%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.974,
       "currencies": []
     }
   ],
