@@ -1,17 +1,17 @@
 {
   "headlines": [
     {
-      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg",
+      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "China's forex market sustains stable run, trend in line with expectations - China Daily Global Edition",
+      "title": "China's forex market sustains stable run, trend in line with expectations - global.chinadaily.com.cn",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8626,
+      "score": 0.5241,
       "currencies": []
     },
     {
@@ -25,7 +25,14 @@
       ]
     },
     {
-      "title": "Brazilian currency likely to face less turbulent election - valorinternational.globo.com",
+      "title": "Brazilian currency likely to face less turbulent election - Valor International",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -40,13 +47,6 @@
         "GBP",
         "USD"
       ]
-    },
-    {
-      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
     },
     {
       "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
@@ -77,13 +77,6 @@
       "currencies": []
     },
     {
-      "title": "Swiss Franc Softens as Dollar Recovers Ahead of Fed Minutes - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.4408,
-      "currencies": []
-    },
-    {
       "title": "EUR/USD Signal 18/08: Shooting Star Points to a Pullback - Daily Forex",
       "source": "Google News",
       "label": "bearish",
@@ -94,59 +87,70 @@
       ]
     },
     {
-      "title": "Stifel reiterates Buy on Marvell stock, keeps $350 target on data center strength",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "title": "US Dollar Outlook: DXY Holds Support as FX Reversal Risks Build - FOREX.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5674,
       "currencies": []
     },
     {
-      "title": "DocGo stock price target maintained at $2.50 by Stifel",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Stifel reiterates Buy on Madison Air Solutions stock at $41",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "La Rosa Holdings issues Series E preferred stock in $210,000 private placement",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Cisco Systems EVP Deborah Stahlkopf sells $723,494 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.03%",
+      "title": "FLEX LNG earnings on deck: Can strong quarter offset dividend concerns?",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9408,
+      "score": 0.7776,
       "currencies": []
     },
     {
-      "title": "Sagtec receives $3M order for 1,500 AI food-serving robots",
+      "title": "Corn futures rise as USDA lowers crop condition ratings",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8636,
+      "label": "bearish",
+      "score": -0.8027,
       "currencies": []
     },
     {
-      "title": "QT Imaging reports $14M H1 revenue, up 116% year-over-year",
+      "title": "Wheat futures ease as Black Sea disruptions limit losses",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.4742,
+      "currencies": []
+    },
+    {
+      "title": "Kura Oncology stock hits 52-week high at 12.49 USD",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9546,
+      "score": 0.6209,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Nasdaq slides over 1% at the open as U.S. 30-year yield hits over two-decade high",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9239,
+      "currencies": []
+    },
+    {
+      "title": "Amgen stock hits all-time high at 422.49 USD",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.569,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Amer Sports Q2 2026 slides: 32% growth, raised outlook",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9315,
+      "currencies": []
+    },
+    {
+      "title": "AIxC pivots to robotics, plans exit from digital assets",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
