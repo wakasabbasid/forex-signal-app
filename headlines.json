@@ -8,10 +8,10 @@
       "currencies": []
     },
     {
-      "title": "China's forex market sustains stable run, trend in line with expectations - global.chinadaily.com.cn",
+      "title": "China's forex market sustains stable run, trend in line with expectations - China Daily Global Edition",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.5241,
+      "score": 0.8626,
       "currencies": []
     },
     {
@@ -63,7 +63,7 @@
       "currencies": []
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "title": "What Is the Foreign Exchange Market: A Guide - britannica.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -94,59 +94,59 @@
       ]
     },
     {
-      "title": "Earnings call transcript: Nordhealth posts steady H1 2026 growth as shares slip",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.952,
-      "currencies": []
-    },
-    {
-      "title": "Equinor acquires stake in Namibia offshore oil block",
+      "title": "Forum Energy Technologies at EnerCom Denver: growth plan in focus",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Google to buy Spirit Airlines business data for $10 million",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Oil rises as US-Iran peace hopes fade",
+      "title": "Weave Communications shares surge on $650 million buyout deal",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7129,
+      "score": 0.8423,
       "currencies": []
     },
     {
-      "title": "Riley Permian at EnerCom Denver: growth waits on pipeline relief",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Colombia\u2019s economy expands 3.5% in second quarter",
+      "title": "FTSE 100 today: Stocks edge up, boosted by energy majors; Iran tensions escalate",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.952,
+      "score": 0.9422,
       "currencies": []
     },
     {
-      "title": "Stocks slide, yields elevated as Mideast conflict fears grow",
+      "title": "STOXX 600 drops to two-week low on higher bond yields, Middle East uncertainty",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.941,
+      "score": -0.9565,
       "currencies": []
     },
     {
-      "title": "Conduit Holdings names Mark Pickering as new CFO",
+      "title": "Meta trial that could reshape Facebook, Instagram gets underway",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5119,
+      "currencies": []
+    },
+    {
+      "title": "VNET DRC earnings missed by \u00a51.67, revenue fell short of estimates",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9712,
+      "currencies": []
+    },
+    {
+      "title": "Why is Home Depot stock gaining today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Corporacion America Airports earnings missed by $0.18, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9722,
       "currencies": []
     }
   ],
