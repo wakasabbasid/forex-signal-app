@@ -94,59 +94,61 @@
       ]
     },
     {
-      "title": "York Water Company appoints David M. Velazquez to board of directors",
+      "title": "Phillips 66 stock hits all-time high at 242.49 USD",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Earnings call transcript: NowVertical jumps 32% after q2 2026 profit gains",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9408,
+      "currencies": []
+    },
+    {
+      "title": "Singularity Future Technology prices $1.8M stock offering",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Argentum AI Announces $10 Billion+ in Contracted Revenue and Targets 1GW of AI Infrastructure Capacity in 2026",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8535,
-      "currencies": []
-    },
-    {
-      "title": "France to expel two Iranian diplomats, foreign minister says",
+      "title": "Earnings call transcript: Corporaci\u00f3n Am\u00e9rica Airports posts mixed Q2 2026 results",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7479,
+      "score": -0.8038,
       "currencies": []
     },
     {
-      "title": "Boeing-Lockheed\u2019s ULA triples bond sale to $1.5 billion - report",
+      "title": "Precision Optics at Lytham Partners summit: growth shifts to scale",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.874,
+      "score": 0.8643,
       "currencies": []
     },
     {
-      "title": "OpenAI pauses frontier model training to strengthen safeguards",
+      "title": "Raymond James sees positive earnings trends across market caps",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6271,
+      "score": 0.9572,
       "currencies": []
     },
     {
-      "title": "Total Wireless expands Western Union services to stores nationwide",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6142,
-      "currencies": []
-    },
-    {
-      "title": "OpenAI unveils ChatGPT for Teens with stronger guardrails to tackle safety risks",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7333,
-      "currencies": []
-    },
-    {
-      "title": "Meta targeted children to boost Facebook and Instagram use, lawyer says as landmark trial begins",
+      "title": "Scott Peters from California\u2019s 50th District makes extensive trades in U.S. Treasury Bills and other assets",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "OpenAI slows model training to bolster security after Hugging Face hack",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8467,
       "currencies": []
     }
   ],
