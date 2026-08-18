@@ -3,6 +3,12 @@
   "pairs": {
     "GBP/USD": [
       {
+        "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
         "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
@@ -13,17 +19,21 @@
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.7967
-      }
-    ],
-    "AUD/USD": [
+      },
       {
-        "title": "AUD/USD Signal 17/08: Aussie Rally Gains Steam - DailyForex",
-        "source": "Google News",
+        "title": "GBP/JPY Price Forecast: Pound steadies below the 216.35 resistance area",
+        "source": "FXStreet",
         "label": "bullish",
-        "score": 0.8876
+        "score": 0.7225
       }
     ],
     "EUR/USD": [
+      {
+        "title": "EUR/USD Signal 18/08: Shooting Star Points to a Pullback - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.5946
+      },
       {
         "title": "EUR/USD upside break may have to wait",
         "source": "ForexLive",
@@ -51,24 +61,24 @@
         "score": 0.0
       },
       {
-        "title": "Silver Price Forecast: XAG/USD remains sideways around $65, FOMC takes centre stage",
+        "title": "Gold sticks to losses below $4,400 as USD recovers further from two-month low",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.7762
+        "score": -0.4936
       },
       {
-        "title": "Gold remains depressed below $4,400 as USD firms amid oil-driven inflation fears",
+        "title": "GBP/JPY Price Forecast: Pound steadies below the 216.35 resistance area",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9583
+        "label": "bullish",
+        "score": 0.7225
       }
     ],
-    "USD/CAD": [
+    "AUD/USD": [
       {
-        "title": "USD/CAD Price Forecast: Consolidates below 1.3900 as bears await 200-SMA breakdown",
+        "title": "AUD/USD Price Forecast: Holds breakout near 0.7100",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9514
+        "label": "bullish",
+        "score": 0.5232
       }
     ]
   }

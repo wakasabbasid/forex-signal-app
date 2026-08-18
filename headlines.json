@@ -1,10 +1,27 @@
 {
   "headlines": [
     {
+      "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
       "title": "India's forex reserves climb past $700 billion on robust inflows - Reuters",
       "source": "Google News",
       "label": "bullish",
       "score": 0.8728,
+      "currencies": []
+    },
+    {
+      "title": "China's forex market sustains stable run, trend in line with expectations - China Daily",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8918,
       "currencies": []
     },
     {
@@ -18,13 +35,6 @@
       ]
     },
     {
-      "title": "China's forex market sustains stable run, trend in line with expectations - Xinhua",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9145,
-      "currencies": []
-    },
-    {
       "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
       "source": "Google News",
       "label": "neutral",
@@ -32,7 +42,7 @@
       "currencies": []
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "title": "Asia FX lacks direction with Fed outlook, U.S.-Iran tensions in focus - Investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -46,30 +56,6 @@
       "currencies": []
     },
     {
-      "title": "US Dollar Outlook: DXY Holds Support as FX Reversal Risks Build - FOREX.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5674,
-      "currencies": []
-    },
-    {
-      "title": "Asia FX lacks direction with Fed outlook, U.S.-Iran tensions in focus - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "AUD/USD Signal 17/08: Aussie Rally Gains Steam - DailyForex",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8876,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
-    },
-    {
       "title": "Rupee set to weaken after central bank curtails dollar inflow window - Yahoo Finance Singapore",
       "source": "Google News",
       "label": "bearish",
@@ -77,73 +63,90 @@
       "currencies": []
     },
     {
-      "title": "Exchange rate | Foreign Exchange, Currency Fluctuations, Exchange Rates - Encyclopedia Britannica",
+      "title": "EUR/USD Signal 18/08: Shooting Star Points to a Pullback - DailyForex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5946,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "From kirana to currency: Small towns are scrambling for dollars - The Economic Times",
+      "title": "US Dollar Outlook: DXY Holds Support as FX Reversal Risks Build - FOREX.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.5674,
       "currencies": []
     },
     {
-      "title": "Himax palm vein tech integrated into WAFERLOCK smart lock",
+      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9097,
+      "currencies": []
+    },
+    {
+      "title": "Guggenheim initiates Scribe Therapeutics stock with buy rating",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "cBrain secures first contract with State of California",
+      "title": "Indonesia stocks higher at close of trade; IDX Composite Index up 1.05%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9388,
+      "score": 0.94,
       "currencies": []
     },
     {
-      "title": "UK grocery inflation slows to 2.1% in early August",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9624,
-      "currencies": []
-    },
-    {
-      "title": "Synectics shares drop 13% as revenue falls on contract timing",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9704,
-      "currencies": []
-    },
-    {
-      "title": "TeraWulf director Michael Bucella buys $99,949 in WULF stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Paysafe chief risk officer Richard Swales sells $65,800 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Multiconsult Group lifts Q2 2026 profit, shares fall 2.8%",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9715,
-      "currencies": []
-    },
-    {
-      "title": "UK grocery inflation eases further, says Worldpanel",
+      "title": "Royal Unibrew H1 2026 slides: margin gains despite stock decline",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9452,
+      "score": 0.7513,
+      "currencies": []
+    },
+    {
+      "title": "Ocean Yield Q2 2026 slides: A.P. M\u00f8ller acquisition set to close",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Ocean Yield Q2 2026 slides: A.P. M\u00f8ller Holding acquisition detailed",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: NOBA posts strong Q2 2026 profit growth, shares slip",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9491,
+      "currencies": []
+    },
+    {
+      "title": "Reach Subsea Q2 2026 slides: profit doubles on remote tech gains",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7405,
+      "currencies": []
+    },
+    {
+      "title": "LG Electronics accelerates robotics collaboration with NVIDIA",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8153,
       "currencies": []
     }
   ],
