@@ -51,16 +51,24 @@
         "score": 0.0
       },
       {
+        "title": "Silver Price Forecast: XAG/USD remains sideways around $65, FOMC takes centre stage",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.7762
+      },
+      {
         "title": "Gold remains depressed below $4,400 as USD firms amid oil-driven inflation fears",
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.9583
-      },
+      }
+    ],
+    "USD/CAD": [
       {
-        "title": "Australian Dollar bulls seem hesitant near 0.7100 as USD recovers from two-month low",
+        "title": "USD/CAD Price Forecast: Consolidates below 1.3900 as bears await 200-SMA breakdown",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.699
+        "score": -0.9514
       }
     ]
   }

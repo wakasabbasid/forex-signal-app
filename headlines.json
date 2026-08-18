@@ -18,7 +18,42 @@
       ]
     },
     {
+      "title": "China's forex market sustains stable run, trend in line with expectations - Xinhua",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9145,
+      "currencies": []
+    },
+    {
       "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US Dollar Outlook: DXY Holds Support as FX Reversal Risks Build - FOREX.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5674,
+      "currencies": []
+    },
+    {
+      "title": "Asia FX lacks direction with Fed outlook, U.S.-Iran tensions in focus - Investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -35,24 +70,17 @@
       ]
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Asia FX lacks direction with Fed outlook, U.S.-Iran tensions in focus - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Rupee set to weaken after central bank curtails dollar inflow window - Yahoo Finance Singapore",
       "source": "Google News",
       "label": "bearish",
       "score": -0.9174,
+      "currencies": []
+    },
+    {
+      "title": "Exchange rate | Foreign Exchange, Currency Fluctuations, Exchange Rates - Encyclopedia Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -63,87 +91,59 @@
       "currencies": []
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
-      "currencies": []
-    },
-    {
-      "title": "Analysts continue to be divided on the Japanese yen outlook - investingLive",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8788,
-      "currencies": []
-    },
-    {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Glencore\u2019s planned Australian debut draws interest as investors look past coal",
+      "title": "Himax palm vein tech integrated into WAFERLOCK smart lock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Brookfield hopes for fourth time lucky amid $2.9 billion bid for Australia\u2019s Reliance",
+      "title": "cBrain secures first contract with State of California",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9016,
+      "score": 0.9388,
       "currencies": []
     },
     {
-      "title": "EKF Diagnostics buys back 200,000 shares at 25.125p average",
+      "title": "UK grocery inflation slows to 2.1% in early August",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9624,
+      "currencies": []
+    },
+    {
+      "title": "Synectics shares drop 13% as revenue falls on contract timing",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9704,
+      "currencies": []
+    },
+    {
+      "title": "TeraWulf director Michael Bucella buys $99,949 in WULF stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "UK wage growth holds at 3.5% as labour market weakens",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9561,
-      "currencies": []
-    },
-    {
-      "title": "Battered by war, Iran\u2019s rulers wary of more economic pain and unrest if US tightens pressure",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9255,
-      "currencies": []
-    },
-    {
-      "title": "Diageo appoints former P&G Beauty CEO to board",
+      "title": "Paysafe chief risk officer Richard Swales sells $65,800 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Gold falls below $4,400 as oil, Treasury yields pressure bullion",
+      "title": "Earnings call transcript: Multiconsult Group lifts Q2 2026 profit, shares fall 2.8%",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8905,
+      "score": -0.9715,
       "currencies": []
     },
     {
-      "title": "Seraphim Space invests $30m in satellite Bluetooth firm Hubble",
+      "title": "UK grocery inflation eases further, says Worldpanel",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9452,
       "currencies": []
     }
   ],
