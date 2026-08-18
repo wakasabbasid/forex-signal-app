@@ -30,14 +30,6 @@
         "label": "bullish",
         "score": 0.8753
       }
-    ],
-    "USD/JPY": [
-      {
-        "title": "Silver Price Forecast: XAG/USD consolidates as bullish momentum fades",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.5955
-      }
     ]
   }
 }

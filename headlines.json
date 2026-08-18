@@ -49,10 +49,10 @@
       ]
     },
     {
-      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
+      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - reuters.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9097,
+      "score": 0.6896,
       "currencies": []
     },
     {
@@ -94,59 +94,59 @@
       "currencies": []
     },
     {
-      "title": "Anthropic moves to bolster founder control ahead of mega-IPO - The Information",
+      "title": "Mercury Systems Q4 FY26 slides: record bookings offset margin pressure",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6944,
+      "score": 0.9224,
       "currencies": []
     },
     {
-      "title": "Trading Day: Bonds slam stocks",
+      "title": "JBS proposes to acquire remaining 18% stake in Pilgrim\u2019s Pride",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Blue Water Acquisition Corp. IV appoints Nadab Akhtar to board of directors",
+      "title": "DEFSEC Technologies closes C$5.54 million private placement",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Jack Henry&Associates earnings beat by $0.13, revenue topped estimates",
+      "title": "Magnite at Rosenblatt ai summit: ctv growth and google upside",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Mercury Systems posts Q4 2026 revenue beat, shares sink",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9391,
+      "score": 0.4772,
       "currencies": []
     },
     {
-      "title": "IM Cannabis approves 1-for-30 reverse stock split",
+      "title": "Spartan Delta at EnerCom Denver: duvernay growth drives shift to liquids",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Allied Gold appoints Joanna Pearson to board of directors",
+      "title": "Meta rejects claims it sought to hook children to Facebook, Instagram as landmark trial begins",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.6808,
       "currencies": []
     },
     {
-      "title": "Baxter increases debt tender offer cap to $600 million",
+      "title": "Disney, ABC sue FCC over threats to broadcast licenses",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7048,
-      "currencies": []
-    },
-    {
-      "title": "Kohl\u2019s declares quarterly dividend of $0.125 per share",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.7832,
       "currencies": []
     }
   ],
