@@ -63,10 +63,10 @@
       "currencies": []
     },
     {
-      "title": "Westpac says dollar's structural headwinds outweigh recent resilience, see EUR/USD and GBP/USD higher - investinglive.com",
+      "title": "Westpac says dollar's structural headwinds outweigh recent resilience, see EUR/USD and GBP/USD higher - investingLive",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.6398,
+      "score": -0.7546,
       "currencies": [
         "EUR",
         "USD",
@@ -89,66 +89,68 @@
       "currencies": []
     },
     {
-      "title": "Riksbank Holds as Krona Struggles Despite Strong Data - TradingPedia",
+      "title": "USD/MXN Analysis 17/08: Remains Under Pressure - DailyForex",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9583,
-      "currencies": []
+      "score": -0.8773,
+      "currencies": [
+        "USD"
+      ]
     },
     {
-      "title": "Cochlear FY26 slides: cash flow doubles despite margin pressure",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9365,
-      "currencies": []
-    },
-    {
-      "title": "Bond yields jump, oil extends gains as US-Iran ceasefire expires",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.4881,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Cochlear lifts cash flow, stock rises after H2 2026",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9251,
-      "currencies": []
-    },
-    {
-      "title": "Google plans to end Pixel production in China in 2027, Nikkei reports",
+      "title": "Jet.AI earnings missed by $1.53, revenue topped estimates",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7566,
+      "score": -0.9691,
       "currencies": []
     },
     {
-      "title": "BHP: copper overtakes iron ore as primary profit driver, here\u2019s what it means",
+      "title": "Asian stocks retreat as oil, bond yields revive inflation concerns",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9379,
+      "currencies": []
+    },
+    {
+      "title": "Copart appoints David Berger to board of directors",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is BHP stock surging today?",
+      "title": "DSS earnings missed by $0.18, revenue fell short of estimates",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9685,
+      "currencies": []
+    },
+    {
+      "title": "Australia\u2019s EQT Holdings receives $468m takeover bid from TPG Global",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "HUB24 FY 2026 presentation: profit surges 51%, shares fall 7.5%",
+      "title": "Singapore\u2019s UOB appoints Tan Choon Hin as head of ASEAN and Greater China in new role",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9721,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Region Group FY26 slides: strong results, cautious growth outlook",
+      "title": "Gift Nifty 50 tests 200-SMA with double top breakdown: Live",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.4909,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Microsoft, Salesforce eye Darwinbox buyout ahead of planned IPO- Mint",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

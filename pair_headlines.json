@@ -9,10 +9,10 @@
         "score": 0.0
       },
       {
-        "title": "Westpac says dollar's structural headwinds outweigh recent resilience, see EUR/USD and GBP/USD higher - investinglive.com",
+        "title": "Westpac says dollar's structural headwinds outweigh recent resilience, see EUR/USD and GBP/USD higher - investingLive",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.6398
+        "score": -0.7546
       },
       {
         "title": "Westpac says dollar's structural headwinds outweigh recent resilience, see EUR/USD and GBP/USD higher",
@@ -27,14 +27,20 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.8876
+      },
+      {
+        "title": "AUD/JPY Price Forecast: Strengthens to near 113.50, near-term outlook remain constructive",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9299
       }
     ],
     "EUR/USD": [
       {
-        "title": "Westpac says dollar's structural headwinds outweigh recent resilience, see EUR/USD and GBP/USD higher - investinglive.com",
+        "title": "Westpac says dollar's structural headwinds outweigh recent resilience, see EUR/USD and GBP/USD higher - investingLive",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.6398
+        "score": -0.7546
       },
       {
         "title": "Westpac says dollar's structural headwinds outweigh recent resilience, see EUR/USD and GBP/USD higher",
@@ -44,6 +50,12 @@
       }
     ],
     "USD/JPY": [
+      {
+        "title": "USD/MXN Analysis 17/08: Remains Under Pressure - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.8773
+      },
       {
         "title": "Indian rupee intervention returns as USD/INR hovers near all-time high",
         "source": "ForexLive",
@@ -55,6 +67,18 @@
         "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "AUD/JPY Price Forecast: Strengthens to near 113.50, near-term outlook remain constructive",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9299
+      },
+      {
+        "title": "Gold drifts lower as oil-driven inflation risks and US-Iran tensions bolster USD",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8565
       },
       {
         "title": "Silver Price Forecast: XAG/USD falls to near $65.50 amid US-Iran peace uncertainty",
@@ -73,12 +97,6 @@
         "source": "FXStreet",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "Euro flat lines below two-month high as oil-driven inflation fears support USD",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.7029
       }
     ]
   }
