@@ -8,13 +8,6 @@
       "currencies": []
     },
     {
-      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -25,17 +18,17 @@
       ]
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - reuters.com",
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.6896,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -49,17 +42,17 @@
       ]
     },
     {
+      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9097,
+      "currencies": []
+    },
+    {
       "title": "Brazilian currency likely to face less turbulent election - Valor International",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "China's forex market sustains stable run, trend in line with expectations - China Daily",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8918,
       "currencies": []
     },
     {
@@ -70,10 +63,24 @@
       "currencies": []
     },
     {
-      "title": "RBI's $56.8 billion forex drive: How diaspora deposits reshape India's currency risk and balance sheet - The Economic Times",
+      "title": "Kiwi Slides as Dollar Strength, Geopolitical Tensions Weigh - TradingPedia",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.8533,
+      "currencies": []
+    },
+    {
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9371,
+      "currencies": []
+    },
+    {
+      "title": "China's forex market sustains stable run, trend in line with expectations - Xinhua",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9145,
       "currencies": []
     },
     {
@@ -84,66 +91,59 @@
       "currencies": []
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - wsj.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.674,
-      "currencies": []
-    },
-    {
-      "title": "S&P Global upgrades Ovintiv outlook on debt reduction",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7616,
-      "currencies": []
-    },
-    {
-      "title": "Why is Caterpillar stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8927,
-      "currencies": []
-    },
-    {
-      "title": "Trump taps White House adviser Overton to lead FDA",
+      "title": "Healthcare of Ontario Pension Plan names interim private equity heads - Bloomberg",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US Treasury Secretary Bessent doubles US long-bond buybacks in the face of surging yields",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8521,
-      "currencies": []
-    },
-    {
-      "title": "US appeals court revives Signature Bank collapse lawsuit despite FDIC objection",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8005,
-      "currencies": []
-    },
-    {
-      "title": "Progressive Bounces Back: Wall Street Weighs a Quality Insurer at a Crossroads",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.389,
-      "currencies": []
-    },
-    {
-      "title": "Dolphin entertainment CEO William O\u2019Dowd IV buys $4,911 in shares",
+      "title": "Why is Carvana stock rebounding today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: TJX beats Q2 2026 estimates but shares slip",
+      "title": "Apple Corps and Universal Music Group partner on Beatles merchandise",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5465,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "AMSYS and Seyond form partnership for LiDAR distribution",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Tredegar director William Gottwald disposes of $89,660 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Advanced Energy\u2019s EVP Karpinski sells $302,073 in common stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "WhiteHawk Minerals at EnerCom Denver: royalty model in focus",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Advantage Energy at EnerCom Denver: buybacks take center stage",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

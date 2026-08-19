@@ -21,6 +21,14 @@
         "score": 0.9076
       }
     ],
+    "USD/JPY": [
+      {
+        "title": "New Zealand Dollar jumps as falling US yields weigh on the USD",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9048
+      }
+    ],
     "EUR/USD": [
       {
         "title": "EUR/GBP pushes toward two-week high amid cooling UK services inflation",
