@@ -1,7 +1,14 @@
 {
   "headlines": [
     {
-      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg",
+      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Brazilian currency likely to face less turbulent election - Valor International",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -18,13 +25,6 @@
       ]
     },
     {
-      "title": "Brazilian currency likely to face less turbulent election - Valor International",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "China's forex market sustains stable run, trend in line with expectations - China Daily Global Edition",
       "source": "Google News",
       "label": "bullish",
@@ -32,14 +32,14 @@
       "currencies": []
     },
     {
-      "title": "Bank of Russia Lets Brokers Count Crypto as Capital. Anything Off-List Is Treated as 100% Risk - TradingView",
+      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
+      "title": "Bank of Russia Lets Brokers Count Crypto as Capital. Anything Off-List Is Treated as 100% Risk - TradingView",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -70,10 +70,17 @@
       "currencies": []
     },
     {
-      "title": "Rupee set to weaken after central bank curtails dollar inflow window - Yahoo Finance Singapore",
+      "title": "Analysis-Investors set sights on Swiss franc for popular carry trades after yen intervention By Reuters - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Rupee set to weaken after central bank curtails dollar inflow window - sg.finance.yahoo.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9174,
+      "score": -0.7477,
       "currencies": []
     },
     {
@@ -84,69 +91,59 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD Signal 18/08: Shooting Star Points to a Pullback - DailyForex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5946,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "Exponent CEO Catherine Corrigan sells $113,135 in EXPO shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Freedom Holding Marks New T\u00fcrkiye Milestone as Freedom Yat\u0131r\u0131m Secures Brokerage License",
+      "title": "Analysis-Investors set sights on Swiss franc for popular carry trades after yen intervention",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8702,
+      "score": 0.5996,
       "currencies": []
     },
     {
-      "title": "Lumentum EVP retort sells $2.89 million in company shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Fold Holdings CTO Dickman sells $1,317 in common stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is China Unicom Hong Kong stock sliding today?",
+      "title": "Asian stocks slump as chip selloff deepens; KOSPI plunges 5%",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9347,
+      "score": -0.9674,
       "currencies": []
     },
     {
-      "title": "Why is Xiaomi stock surging today?",
+      "title": "SCEE FY26 slides: record profit, data center revenue set to triple",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9463,
+      "currencies": []
+    },
+    {
+      "title": "Gift Nifty 50 tests 24,123 support with RSI at 26: Live levels",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Nvidia H200 chips reach China in small shipments, FT reports",
+      "title": "SCEE FY26 slides: profit surges 40% on margin gains, $100m FY27 target",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9341,
       "currencies": []
     },
     {
-      "title": "Why is Baidu stock cratering today?",
+      "title": "Why is SoftBank Group stock tumbling today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7412,
+      "score": -0.7698,
+      "currencies": []
+    },
+    {
+      "title": "Why is Santos stock rallying today?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "SK Hynix union finalising preliminary wage deal- Reuters",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

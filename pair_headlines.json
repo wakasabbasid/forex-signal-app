@@ -15,14 +15,6 @@
         "score": 0.0
       }
     ],
-    "EUR/USD": [
-      {
-        "title": "EUR/USD Signal 18/08: Shooting Star Points to a Pullback - DailyForex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.5946
-      }
-    ],
     "AUD/USD": [
       {
         "title": "AUD traders heads up,  Andrew Hauser, Reserve Bank of Australia Deputy Governor speaking soon",
@@ -45,6 +37,18 @@
         "score": 0.0
       },
       {
+        "title": "EUR/JPY Price Forecast: Softens to near 184.50, mildly bearish bias persists under 100-day SMA",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.5822
+      },
+      {
+        "title": "Canadian Dollar strengthens as Trump pauses 50% tariffs and USD slides before FOMC Minutes",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.7516
+      },
+      {
         "title": "Gold recovers from weekly low as USD softens ahead of FOMC Minutes",
         "source": "FXStreet",
         "label": "bearish",
@@ -61,12 +65,14 @@
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.9557
-      },
+      }
+    ],
+    "EUR/USD": [
       {
-        "title": "Canadian Dollar consolidates near 1.3900 vs USD ahead of US tariffs deadline, FOMC Minutes",
+        "title": "EUR/JPY Price Forecast: Softens to near 184.50, mildly bearish bias persists under 100-day SMA",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.563
+        "label": "bullish",
+        "score": 0.5822
       }
     ]
   }
