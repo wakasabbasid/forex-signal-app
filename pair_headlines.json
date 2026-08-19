@@ -15,28 +15,12 @@
         "score": 0.0
       }
     ],
-    "AUD/USD": [
-      {
-        "title": "AUD/USD Signal 19/08: Stuck in an Uptrend Ahead of FOMC - DailyForex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9577
-      }
-    ],
     "EUR/USD": [
       {
         "title": "Euro: Domestic demand resilience supports EUR \u2013 BNY",
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.9503
-      }
-    ],
-    "USD/JPY": [
-      {
-        "title": "Gold Price Forecast: XAU/USD bounces to $4,370, but upside momentum is fading",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.5101
       }
     ]
   }

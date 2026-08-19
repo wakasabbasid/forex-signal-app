@@ -25,20 +25,17 @@
       ]
     },
     {
-      "title": "AUD/USD Signal 19/08: Stuck in an Uptrend Ahead of FOMC - DailyForex",
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9577,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
-      "title": "China's forex market sustains stable run, trend in line with expectations - global.chinadaily.com.cn",
+      "title": "China's forex market sustains stable run, trend in line with expectations - China Daily Global Edition",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.5241,
+      "score": 0.8626,
       "currencies": []
     },
     {
@@ -47,6 +44,16 @@
       "label": "bullish",
       "score": 0.9097,
       "currencies": []
+    },
+    {
+      "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
     },
     {
       "title": "Brazilian currency likely to face less turbulent election - Valor International",
@@ -84,66 +91,56 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "Earnings call transcript: Weibo beats Q2 2026 estimates as ad pressure persists",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7909,
-      "currencies": []
-    },
-    {
-      "title": "S&P Global upgrades SK Hynix rating to A- on AI strength",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9043,
-      "currencies": []
-    },
-    {
-      "title": "NACCO Industries appoints Patrick J. Burns to board",
+      "title": "20/20 Biolabs adjourns vote on charter amendment, elects directors at annual meeting",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Progressive reports 5% premium growth, net income falls 12% in July",
+      "title": "Earnings call transcript: La-Z-Boy misses Q1 2027 estimates as shares slide",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9697,
+      "score": -0.9593,
       "currencies": []
     },
     {
-      "title": "Industries Qatar H1 2026 slides: profit plunges 89% on volumes",
+      "title": "Earnings call transcript: Marti Technologies posts revenue beat in H1 2026",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9204,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Kingsoft Cloud posts Q2 2026 revenue beat as shares fall",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9728,
+      "score": -0.8866,
       "currencies": []
     },
     {
-      "title": "Cantor Fitzgerald reiterates Zscaler stock rating on channel checks",
+      "title": "Why is Pilgrim\u2019s Pride stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Cantor Fitzgerald raises Centuri stock price target on margin outlook",
+      "title": "India rate panel signals impending hikes, eyes inflation path for timing",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Erik Olsson appointed to Herc Holdings board and audit committee",
+      "title": "First Community Corporation announces retirement of director Freddie Deutsch",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6196,
+      "currencies": []
+    },
+    {
+      "title": "Why is Platinum Spot US Dollar stock rallying today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
