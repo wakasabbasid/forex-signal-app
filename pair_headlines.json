@@ -21,12 +21,14 @@
         "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
-      },
+      }
+    ],
+    "USD/CAD": [
       {
-        "title": "AUD/USD Price Forecast: Rising 20-day EMA supports near-term bullish bias",
+        "title": "USD/CAD Price Forecast: Bears look at 1.3850 support after rejection at 1.3900",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.9235
+        "score": 0.5026
       }
     ],
     "USD/JPY": [
@@ -37,24 +39,10 @@
         "score": -0.6246
       },
       {
-        "title": "Silver Price Forecasts: XAG/USD tests levels sub-$63.00 as bearish pressure mounts",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8287
-      },
-      {
         "title": "PHP/USD: Record-Low Philippine Peso Invites Central Bank Intervention",
         "source": "Bloomberg",
         "label": "bearish",
         "score": -0.9664
-      }
-    ],
-    "NZD/USD": [
-      {
-        "title": "NZD/USD Price Forecast: Weakens below 0.5900, but staying supported above 100-day SMA",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9245
       }
     ]
   }

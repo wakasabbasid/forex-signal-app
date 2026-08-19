@@ -46,16 +46,6 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
       "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -70,17 +60,20 @@
       "currencies": []
     },
     {
+      "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
       "title": "Analysis-Investors set sights on Swiss franc for popular carry trades after yen intervention By Reuters - Investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Rupee set to weaken after central bank curtails dollar inflow window - Yahoo Finance Singapore",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9174,
       "currencies": []
     },
     {
@@ -91,56 +84,63 @@
       "currencies": []
     },
     {
-      "title": "UBS downgrades Core Natural Resources stock rating on valuation",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7798,
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Xplora Q2 2026 slides: margins expand as subscriptions surge 27%",
+      "title": "Earnings call transcript: ASR Nederland posts record H1 2026 profit, stock steady",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9516,
+      "score": 0.7847,
       "currencies": []
     },
     {
-      "title": "Nordic Mining extends losses after Q2 reveals liquidity issues, slow ramp-up",
+      "title": "Earnings call transcript: Cambi\u2019s q2 2026 backlog jumps as profit weakens",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.974,
+      "score": -0.9428,
       "currencies": []
     },
     {
-      "title": "European shares muted as mining gains offset Middle East jitters",
+      "title": "EG7 Q2 2026 slides: profitability surges on broad-based growth",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6663,
+      "label": "bullish",
+      "score": 0.9481,
       "currencies": []
     },
     {
-      "title": "Munich Re to acquire US cyber insurance provider At-Bay for $575 million",
+      "title": "Why is Keysight Technologies stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Elmera Q2 2026 slides: profit jumps 30% as Fortum deal advances",
+      "title": "Samsung hikes chipmaking prices by up to 15% on demand spike, sources say",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8741,
+      "label": "bearish",
+      "score": -0.9034,
       "currencies": []
     },
     {
-      "title": "Elmera Q2 2026 slides: profit jumps 30% as deal review proceeds",
+      "title": "Why is Carlsberg stock slipping today?",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9095,
+      "label": "bearish",
+      "score": -0.8843,
       "currencies": []
     },
     {
-      "title": "Morgan Stanley upgrades Honeywell Aerospace stock rating on valuation",
+      "title": "Indonesia stocks lower at close of trade; IDX Composite Index down 0.67%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9688,
+      "currencies": []
+    },
+    {
+      "title": "Why is Banca Generali stock rallying today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
