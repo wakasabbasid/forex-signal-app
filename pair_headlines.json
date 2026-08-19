@@ -15,14 +15,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      }
-    ],
-    "USD/JPY": [
+      },
       {
-        "title": "PHP/USD: Record-Low Philippine Peso Invites Central Bank Intervention",
-        "source": "Bloomberg",
-        "label": "bearish",
-        "score": -0.9664
+        "title": "GBP/USD Price Forecast: More upside expected above 1.3570",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8669
       }
     ]
   }

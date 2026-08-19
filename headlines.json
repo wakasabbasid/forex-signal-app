@@ -8,6 +8,13 @@
       "currencies": []
     },
     {
+      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "AUD/USD Signal 19/08: Stuck in an Uptrend Ahead of FOMC - DailyForex",
       "source": "Google News",
       "label": "bearish",
@@ -16,13 +23,6 @@
         "AUD",
         "USD"
       ]
-    },
-    {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - nerdwallet.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
     },
     {
       "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
@@ -35,21 +35,7 @@
       ]
     },
     {
-      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Analysis-Investors set sights on Swiss franc for popular carry trades after yen intervention By Reuters - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Brazilian currency likely to face less turbulent election - Valor International",
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -63,7 +49,7 @@
       "currencies": []
     },
     {
-      "title": "Bank of Russia Lets Brokers Count Crypto as Capital. Anything Off-List Is Treated as 100% Risk - TradingView",
+      "title": "Brazilian currency likely to face less turbulent election - Valor International",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -77,73 +63,87 @@
       "currencies": []
     },
     {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "title": "Bank of Russia Lets Brokers Count Crypto as Capital. Anything Off-List Is Treated as 100% Risk - TradingView",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "What should be done about Asia\u2019s undervalued currencies? - The Business Times",
+      "title": "Analysis-Investors set sights on Swiss franc for popular carry trades after yen intervention By Reuters - Investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Full Truck Alliance beats estimates on revenue growth",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6752,
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Ambea Q2 2026 slides: margins hit 10%, pipeline surges 64%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9296,
+      "title": "RBI's $56.8 billion forex drive: How diaspora deposits reshape India's currency risk and balance sheet - economictimes.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Weibo shares gain 3% as earnings top estimates",
+      "title": "Twist Bioscience selected as evaluator for Anthropic AI protein design project",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.941,
+      "score": 0.5131,
       "currencies": []
     },
     {
-      "title": "ActiveOps executive chair acquires shares through incentive plan",
+      "title": "Why is Zoom Video Communications stock climbing today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Ithaca Energy H1 2026 slides: record output drives dividend upgrade",
+      "title": "Surgical Science Q2 2026 slides: margin target met, license sales surge",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.4668,
+      "label": "bullish",
+      "score": 0.8147,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Steyr Motors\u2019 H1 2026 profit slumps as backlog builds",
+      "title": "Earnings call transcript: DocMorris lifts 2026 outlook after strong H1 2026",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9726,
+      "label": "bullish",
+      "score": 0.9019,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Kenmare Resources posts weak H1 2026 as stock rises",
+      "title": "Demand from US data-center boom radiates out through factory supply chains",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9692,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Trainline shares plunge 15% as UK watchdog opens pricing investigation",
+      "title": "EDAP TMS announces closing of additional ADS sale, expects $5.6 million in proceeds",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Lowe\u2019s cuts annual sales growth forecast as consumers curb high-cost renovations",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9268,
+      "score": -0.9555,
+      "currencies": []
+    },
+    {
+      "title": "U.S., Indian fuel exporters profiting from supply uncertainty during wars",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8716,
       "currencies": []
     }
   ],
