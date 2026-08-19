@@ -21,20 +21,40 @@
         "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "AUD/USD Price Forecast: Rising 20-day EMA supports near-term bullish bias",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9235
       }
     ],
     "USD/JPY": [
       {
-        "title": "Japanese Yen: JGB spillover supports firmer JPY against US Dollar \u2013 OCBC",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.768
-      },
-      {
-        "title": "USD/IDR Price Forecast: Trades near 17,850 after pulling back from moving averages",
+        "title": "Gold climbs back above $4,350 as USD remains depressed ahead of FOMC Minutes",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.5795
+        "score": -0.6246
+      },
+      {
+        "title": "Silver Price Forecasts: XAG/USD tests levels sub-$63.00 as bearish pressure mounts",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8287
+      },
+      {
+        "title": "PHP/USD: Record-Low Philippine Peso Invites Central Bank Intervention",
+        "source": "Bloomberg",
+        "label": "bearish",
+        "score": -0.9664
+      }
+    ],
+    "NZD/USD": [
+      {
+        "title": "NZD/USD Price Forecast: Weakens below 0.5900, but staying supported above 100-day SMA",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9245
       }
     ]
   }

@@ -15,13 +15,6 @@
       "currencies": []
     },
     {
-      "title": "Brazilian currency likely to face less turbulent election - Valor International",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -30,6 +23,27 @@
         "GBP",
         "USD"
       ]
+    },
+    {
+      "title": "Brazilian currency likely to face less turbulent election - Valor International",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Bank of Russia Lets Brokers Count Crypto as Capital. Anything Off-List Is Treated as 100% Risk - TradingView",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - DailyForex",
@@ -42,10 +56,10 @@
       ]
     },
     {
-      "title": "Bank of Russia Lets Brokers Count Crypto as Capital. Anything Off-List Is Treated as 100% Risk - TradingView",
+      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9097,
       "currencies": []
     },
     {
@@ -53,20 +67,6 @@
       "source": "Google News",
       "label": "bullish",
       "score": 0.8626,
-      "currencies": []
-    },
-    {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9097,
       "currencies": []
     },
     {
@@ -91,56 +91,56 @@
       "currencies": []
     },
     {
-      "title": "CMA opens investigation into Trainline fee presentation",
+      "title": "UBS downgrades Core Natural Resources stock rating on valuation",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7798,
+      "currencies": []
+    },
+    {
+      "title": "Xplora Q2 2026 slides: margins expand as subscriptions surge 27%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9516,
+      "currencies": []
+    },
+    {
+      "title": "Nordic Mining extends losses after Q2 reveals liquidity issues, slow ramp-up",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.974,
+      "currencies": []
+    },
+    {
+      "title": "European shares muted as mining gains offset Middle East jitters",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6663,
+      "currencies": []
+    },
+    {
+      "title": "Munich Re to acquire US cyber insurance provider At-Bay for $575 million",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is Taiyo Yuden stock falling today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9316,
-      "currencies": []
-    },
-    {
-      "title": "China seen holding loan rates steady in August despite economic weakness",
+      "title": "Elmera Q2 2026 slides: profit jumps 30% as Fortum deal advances",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6086,
+      "score": 0.8741,
       "currencies": []
     },
     {
-      "title": "DX expands international delivery service to 220 countries",
+      "title": "Elmera Q2 2026 slides: profit jumps 30% as deal review proceeds",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9097,
+      "score": 0.9095,
       "currencies": []
     },
     {
-      "title": "Tekcapital portfolio company files twelfth U.S. patent",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.803,
-      "currencies": []
-    },
-    {
-      "title": "Bitcoin steady at $64k as markets parse U.S. regulations, Iran tensions",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.4236,
-      "currencies": []
-    },
-    {
-      "title": "Origin JV lets 404,100 sq ft of industrial, logistics space",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Goldman Sachs Names Top Japan Electronic Components Stocks",
+      "title": "Morgan Stanley upgrades Honeywell Aerospace stock rating on valuation",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
