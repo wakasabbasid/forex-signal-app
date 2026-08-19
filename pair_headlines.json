@@ -21,12 +21,6 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.5946
-      },
-      {
-        "title": "EUR/JPY Price Forecast: SMAs confluence blocks bulls near 185.00",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.746
       }
     ],
     "AUD/USD": [
@@ -51,6 +45,18 @@
         "score": 0.0
       },
       {
+        "title": "Gold recovers from weekly low as USD softens ahead of FOMC Minutes",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.6195
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD extends decline to near $63 amid continued energy supply risks",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9765
+      },
+      {
         "title": "New Zealand Dollar declines to weekly low as USD holds firm ahead of FOMC Minutes",
         "source": "FXStreet",
         "label": "bearish",
@@ -61,30 +67,6 @@
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.563
-      },
-      {
-        "title": "PBOC sets USD/CNY reference rate at 6.7854 vs. 6.7905 previous",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Australian Dollar reverses as Iran risks lift USD ahead of Fed minutes",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8064
-      },
-      {
-        "title": "EUR/JPY Price Forecast: SMAs confluence blocks bulls near 185.00",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.746
-      },
-      {
-        "title": "PHP/USD: Philippine Peso Fell to New Record Low as Oil Prices Rise",
-        "source": "Bloomberg",
-        "label": "bearish",
-        "score": -0.9744
       }
     ]
   }

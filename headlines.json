@@ -8,13 +8,6 @@
       "currencies": []
     },
     {
-      "title": "China's forex market sustains stable run, trend in line with expectations - China Daily Global Edition",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8626,
-      "currencies": []
-    },
-    {
       "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - DailyForex",
       "source": "Google News",
       "label": "neutral",
@@ -29,6 +22,13 @@
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "China's forex market sustains stable run, trend in line with expectations - China Daily Global Edition",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8626,
       "currencies": []
     },
     {
@@ -56,7 +56,7 @@
       ]
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - britannica.com",
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -70,17 +70,17 @@
       "currencies": []
     },
     {
-      "title": "What should be done about Asia\u2019s undervalued currencies? - The Business Times",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Rupee set to weaken after central bank curtails dollar inflow window - Yahoo Finance Singapore",
       "source": "Google News",
       "label": "bearish",
       "score": -0.9174,
+      "currencies": []
+    },
+    {
+      "title": "What should be done about Asia\u2019s undervalued currencies? - The Business Times",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -94,59 +94,59 @@
       ]
     },
     {
-      "title": "Viva Leisure FY2026 slides: profits surge on operating leverage",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8271,
-      "currencies": []
-    },
-    {
-      "title": "Viva Leisure FY2026 slides: network optimization drives 47% profit jump",
+      "title": "Exponent CEO Catherine Corrigan sells $113,135 in EXPO shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: SHAPE posts record FY 2026 revenue in H2 2026",
+      "title": "Freedom Holding Marks New T\u00fcrkiye Milestone as Freedom Yat\u0131r\u0131m Secures Brokerage License",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.488,
+      "score": 0.8702,
       "currencies": []
     },
     {
-      "title": "Alcidion FY26 slides: record revenue, major NHS wins drive 27% growth",
+      "title": "Lumentum EVP retort sells $2.89 million in company shares",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9473,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Alcidion FY26 slides: 27% revenue growth, $78.5M in new contracts",
+      "title": "Fold Holdings CTO Dickman sells $1,317 in common stock",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9302,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Everest Medicines posts H1 profit inflection, shares sink 13%",
+      "title": "Why is China Unicom Hong Kong stock sliding today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8629,
+      "score": -0.9347,
       "currencies": []
     },
     {
-      "title": "Whitehaven Coal FY26 slides: record output, lower costs offset softer prices",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9485,
-      "currencies": []
-    },
-    {
-      "title": "Hang Seng trapped 25,100-25,600 in Ichimoku cloud: Live levels",
+      "title": "Why is Xiaomi stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Nvidia H200 chips reach China in small shipments, FT reports",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why is Baidu stock cratering today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7412,
       "currencies": []
     }
   ],
