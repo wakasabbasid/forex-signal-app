@@ -1,43 +1,23 @@
 {
   "run_id": 1,
   "pairs": {
+    "AUD/USD": [
+      {
+        "title": "AUD/USD Signal 19/08: Stuck in an Uptrend Ahead of FOMC - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9577
+      }
+    ],
     "GBP/USD": [
       {
         "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "AUD traders heads up,  Andrew Hauser, Reserve Bank of Australia Deputy Governor speaking soon",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "USD/CAD": [
-      {
-        "title": "USD/CAD Price Forecast: Bears look at 1.3850 support after rejection at 1.3900",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.5026
       }
     ],
     "USD/JPY": [
-      {
-        "title": "Gold climbs back above $4,350 as USD remains depressed ahead of FOMC Minutes",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.6246
-      },
       {
         "title": "PHP/USD: Record-Low Philippine Peso Invites Central Bank Intervention",
         "source": "Bloomberg",
