@@ -13,14 +13,20 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "EUR/GBP pushes toward two-week high amid cooling UK services inflation",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9076
       }
     ],
-    "USD/JPY": [
+    "EUR/USD": [
       {
-        "title": "Vertex Pharmaceuticals stock hits all-time high at 546.17 USD",
-        "source": "Investing.com",
-        "label": "neutral",
-        "score": 0.0
+        "title": "EUR/GBP pushes toward two-week high amid cooling UK services inflation",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9076
       }
     ]
   }

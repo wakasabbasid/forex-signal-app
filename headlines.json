@@ -32,10 +32,10 @@
       "currencies": []
     },
     {
-      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
+      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - reuters.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9097,
+      "score": 0.6896,
       "currencies": []
     },
     {
@@ -84,68 +84,66 @@
       "currencies": []
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - wsj.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9371,
+      "score": 0.674,
       "currencies": []
     },
     {
-      "title": "Mexico pushes back on US ruling on strawberry dumping",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7266,
-      "currencies": []
-    },
-    {
-      "title": "Wall Street mostly higher as yields slide",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6797,
-      "currencies": []
-    },
-    {
-      "title": "CQS New City High Yield Fund issues 500,000 new shares at 50.5p",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Moderna short sellers face $4.8 billion loss amid record stock jump",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9703,
-      "currencies": []
-    },
-    {
-      "title": "CrowdStrike has pulled back 12% from its all-time high; is now the time to enter?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7277,
-      "currencies": []
-    },
-    {
-      "title": "Raymond James reiterates Market Perform on Whirlpool stock amid weak industry data",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.951,
-      "currencies": []
-    },
-    {
-      "title": "Vertex Pharmaceuticals stock hits all-time high at 546.17 USD",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Talos Energy stock hits 52-week high at $17.05",
+      "title": "S&P Global upgrades Ovintiv outlook on debt reduction",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.81,
+      "score": 0.7616,
+      "currencies": []
+    },
+    {
+      "title": "Why is Caterpillar stock sliding today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8927,
+      "currencies": []
+    },
+    {
+      "title": "Trump taps White House adviser Overton to lead FDA",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US Treasury Secretary Bessent doubles US long-bond buybacks in the face of surging yields",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8521,
+      "currencies": []
+    },
+    {
+      "title": "US appeals court revives Signature Bank collapse lawsuit despite FDIC objection",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8005,
+      "currencies": []
+    },
+    {
+      "title": "Progressive Bounces Back: Wall Street Weighs a Quality Insurer at a Crossroads",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.389,
+      "currencies": []
+    },
+    {
+      "title": "Dolphin entertainment CEO William O\u2019Dowd IV buys $4,911 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: TJX beats Q2 2026 estimates but shares slip",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5465,
       "currencies": []
     }
   ],
