@@ -13,12 +13,6 @@
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.4968
-      },
-      {
-        "title": "New Zealand Dollar jumps as falling US yields weigh on the USD",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9048
       }
     ],
     "GBP/USD": [

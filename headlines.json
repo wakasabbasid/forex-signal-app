@@ -24,17 +24,10 @@
       "currencies": []
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - britannica.com",
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Peso nears 62:$1 mark, hits new record low - Inquirer.net",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.4824,
       "currencies": []
     },
     {
@@ -53,6 +46,13 @@
         "GBP",
         "USD"
       ]
+    },
+    {
+      "title": "Peso nears 62:$1 mark, hits new record low - Inquirer.net",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.4824,
+      "currencies": []
     },
     {
       "title": "Brazilian currency likely to face less turbulent election - Valor International",
@@ -86,63 +86,63 @@
       "currencies": []
     },
     {
-      "title": "China's forex market sustains stable run, trend in line with expectations - english.news.cn",
+      "title": "China's forex market sustains stable run, trend in line with expectations - Xinhua",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.5644,
+      "score": 0.9145,
       "currencies": []
     },
     {
-      "title": "Cardano Climbs 10% In Bullish Trade",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9175,
-      "currencies": []
-    },
-    {
-      "title": "TuHURA Biosciences stockholders approve share issuance, elect directors at annual meeting",
+      "title": "CoreWeave EVP Chen Goldberg sells $678,790 in shares on Aug. 17",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Canada closes higher helped by rally in mining stocks as tariffs deal linger",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8366,
-      "currencies": []
-    },
-    {
-      "title": "Russia stocks higher at close of trade; MOEX Russia Index up 1.23%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9454,
-      "currencies": []
-    },
-    {
-      "title": "Treasury Secretary Bessent doubles US long-bond buybacks in the face of surging yields",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8047,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Accuray posts mixed Q4 2026 results as revenue slips",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9464,
-      "currencies": []
-    },
-    {
-      "title": "Encore Capital appoints Robert Beck to board of directors",
+      "title": "Universal Safety Products director Milton Ault buys $201,392 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Hershey Trust Co. trustee sells $5.5m in Hershey Co. stock",
+      "title": "Morningstar executive chairman Mansueto sells $4.57m in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Explainer-What to know about the multistate salmonella outbreak in the US",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Sonoma Pharmaceuticals cancels special meeting due to lack of quorum",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9483,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Sol\u00e9sence posts lower Q2 2026 revenue as stock swings",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9708,
+      "currencies": []
+    },
+    {
+      "title": "Why is Bill.com stock climbing today?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Astrotech files prospectus supplement for up to $50 million stock offering",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
