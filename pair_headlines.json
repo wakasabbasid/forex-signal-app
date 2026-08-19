@@ -14,6 +14,14 @@
         "label": "neutral",
         "score": 0.0
       }
+    ],
+    "USD/JPY": [
+      {
+        "title": "Vertex Pharmaceuticals stock hits all-time high at 546.17 USD",
+        "source": "Investing.com",
+        "label": "neutral",
+        "score": 0.0
+      }
     ]
   }
 }

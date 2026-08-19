@@ -70,13 +70,6 @@
       "currencies": []
     },
     {
-      "title": "Analysis-Investors set sights on Swiss franc for popular carry trades after yen intervention By Reuters - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "RBI's $56.8 billion forex drive: How diaspora deposits reshape India's currency risk and balance sheet - The Economic Times",
       "source": "Google News",
       "label": "neutral",
@@ -84,66 +77,75 @@
       "currencies": []
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - wsj.com",
+      "title": "Analysis-Investors set sights on Swiss franc for popular carry trades after yen intervention By Reuters - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.674,
+      "score": 0.9371,
       "currencies": []
     },
     {
-      "title": "Why is Apple stock rallying today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Home Bancorp SEVP John Zollinger IV sells $53,760 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Avidia Bancorp EVP Thomas Doane buys $38,507 in AVBC stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "UBS reiterates Cerebras Systems stock rating on CS-4 launch",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "UBS raises Centrus Energy stock price target on higher margins",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.855,
-      "currencies": []
-    },
-    {
-      "title": "UK gilts head for biggest daily gain in two weeks",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9107,
-      "currencies": []
-    },
-    {
-      "title": "FLEX LNG Q2 2026 slides: strong spot earnings drive beat, dividend maintained",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9406,
-      "currencies": []
-    },
-    {
-      "title": "Datavault AI earnings missed by $0.10, revenue fell short of estimates",
+      "title": "Mexico pushes back on US ruling on strawberry dumping",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9722,
+      "score": -0.7266,
+      "currencies": []
+    },
+    {
+      "title": "Wall Street mostly higher as yields slide",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6797,
+      "currencies": []
+    },
+    {
+      "title": "CQS New City High Yield Fund issues 500,000 new shares at 50.5p",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Moderna short sellers face $4.8 billion loss amid record stock jump",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9703,
+      "currencies": []
+    },
+    {
+      "title": "CrowdStrike has pulled back 12% from its all-time high; is now the time to enter?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7277,
+      "currencies": []
+    },
+    {
+      "title": "Raymond James reiterates Market Perform on Whirlpool stock amid weak industry data",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.951,
+      "currencies": []
+    },
+    {
+      "title": "Vertex Pharmaceuticals stock hits all-time high at 546.17 USD",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Talos Energy stock hits 52-week high at $17.05",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.81,
       "currencies": []
     }
   ],
