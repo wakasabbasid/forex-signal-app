@@ -1,7 +1,14 @@
 {
   "headlines": [
     {
-      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - bloomberg.com",
+      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -18,7 +25,7 @@
       ]
     },
     {
-      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -32,10 +39,10 @@
       "currencies": []
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9097,
       "currencies": []
     },
     {
@@ -49,14 +56,7 @@
       ]
     },
     {
-      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9097,
-      "currencies": []
-    },
-    {
-      "title": "Brazilian currency likely to face less turbulent election - valorinternational.globo.com",
+      "title": "Brazilian currency likely to face less turbulent election - Valor International",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -70,7 +70,7 @@
       "currencies": []
     },
     {
-      "title": "RBI's $56.8 billion forex drive: How diaspora deposits reshape India's currency risk and balance sheet - The Economic Times",
+      "title": "RBI's $56.8 billion forex drive: How diaspora deposits reshape India's currency risk and balance sheet - economictimes.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -84,63 +84,63 @@
       "currencies": []
     },
     {
-      "title": "Analysis-Investors set sights on Swiss franc for popular carry trades after yen intervention By Reuters - Investing.com",
+      "title": "India\u2019s forex reserves fall by $7.7 billion to $690 billion: RBI - News On AIR",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9552,
       "currencies": []
     },
     {
-      "title": "Microchip Technology shareholders approve equity plan amendment and board elections",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US Treasury Secretary Bessent doubles US long-bond buybacks in the face of surging yields",
+      "title": "Accuray posts narrower-than-feared Q4 loss as cost cuts exceed targets",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8521,
+      "score": -0.9686,
       "currencies": []
     },
     {
-      "title": "Fed policymakers\u2019 inflation concerns increased at July meeting, minutes show",
+      "title": "DA Davidson raises Target stock price target on improved margins",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7255,
+      "label": "bullish",
+      "score": 0.9313,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Horizon Kinetics posts Q2 2026 loss as ETF sales rise",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9741,
-      "currencies": []
-    },
-    {
-      "title": "Wall Street mostly higher as yields slide; Fed minutes hint at need for rate hikes",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6522,
-      "currencies": []
-    },
-    {
-      "title": "Why is Century Aluminum stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9364,
-      "currencies": []
-    },
-    {
-      "title": "Bakkt director Michael Alfred acquires $2.11m in Class A stock",
+      "title": "Wells Fargo launches new Series HH preferred stock and completes depositary share sale",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Verizon EVP Kyle Malady sells $53,548 in common stock",
+      "title": "US appeals court upholds big real estate settlement despite class\u00a0members\u2019\u00a0objections",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.4805,
+      "currencies": []
+    },
+    {
+      "title": "Glass Lewis backs BNY Mellon fund\u2019s board nominees",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Merit Medical names Sheri Lewis as global operations chief",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Granite Ridge no longer controlled by Grey Rock after share distribution",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "TDS declares Q3 2026 dividends on common and preferred shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
