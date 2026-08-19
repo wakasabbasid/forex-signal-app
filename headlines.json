@@ -35,24 +35,10 @@
       ]
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "China's forex market sustains stable run, trend in line with expectations - China Daily Global Edition",
       "source": "Google News",
       "label": "bullish",
       "score": 0.8626,
-      "currencies": []
-    },
-    {
-      "title": "Brazilian currency likely to face less turbulent election - Valor International",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -63,7 +49,21 @@
       "currencies": []
     },
     {
+      "title": "Brazilian currency likely to face less turbulent election - Valor International",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Bank of Russia Lets Brokers Count Crypto as Capital. Anything Off-List Is Treated as 100% Risk - TradingView",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Swiss Franc Under Pressure as Carry Trades Gather Pace. Forecast as of 19.08.2026 - LiteFinance",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -84,66 +84,66 @@
       "currencies": []
     },
     {
-      "title": "RBI's $56.8 billion forex drive: How diaspora deposits reshape India's currency risk and balance sheet - economictimes.com",
+      "title": "RBI's $56.8 billion forex drive: How diaspora deposits reshape India's currency risk and balance sheet - The Economic Times",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Twist Bioscience selected as evaluator for Anthropic AI protein design project",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5131,
-      "currencies": []
-    },
-    {
-      "title": "Why is Zoom Video Communications stock climbing today?",
+      "title": "Hershey targets the health-conscious with savoury Halloween snacks",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Surgical Science Q2 2026 slides: margin target met, license sales surge",
+      "title": "Viking Holdings beats Q2 earnings expectations",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8147,
+      "score": 0.8945,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: DocMorris lifts 2026 outlook after strong H1 2026",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9019,
-      "currencies": []
-    },
-    {
-      "title": "Demand from US data-center boom radiates out through factory supply chains",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "EDAP TMS announces closing of additional ADS sale, expects $5.6 million in proceeds",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Lowe\u2019s cuts annual sales growth forecast as consumers curb high-cost renovations",
+      "title": "Marti Technologies earnings missed by $0.09, revenue topped estimates",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9555,
+      "score": -0.971,
       "currencies": []
     },
     {
-      "title": "U.S., Indian fuel exporters profiting from supply uncertainty during wars",
+      "title": "InvestingPro\u2019s Fair Value call delivers 73% gain on Integra stock",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8716,
+      "score": 0.9463,
+      "currencies": []
+    },
+    {
+      "title": "Evolution Petroleum prices $12 million stock offering at $3.25",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Galmed completes feasibility study for colon tissue assessment tech",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Pulsenmore expands home ultrasound service to Ichilov hospital",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6682,
+      "currencies": []
+    },
+    {
+      "title": "Nasus Pharma CFO Eyal Rubin to depart in September",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
