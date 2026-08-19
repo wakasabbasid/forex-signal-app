@@ -1,14 +1,6 @@
 {
   "run_id": 1,
   "pairs": {
-    "AUD/USD": [
-      {
-        "title": "AUD/USD Signal 19/08: Stuck in an Uptrend Ahead of FOMC - DailyForex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9577
-      }
-    ],
     "GBP/USD": [
       {
         "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
@@ -17,10 +9,34 @@
         "score": 0.0
       },
       {
-        "title": "GBP/USD Price Forecast: More upside expected above 1.3570",
+        "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "AUD/USD Signal 19/08: Stuck in an Uptrend Ahead of FOMC - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9577
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "Euro: Domestic demand resilience supports EUR \u2013 BNY",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.8669
+        "score": 0.9503
+      }
+    ],
+    "USD/JPY": [
+      {
+        "title": "Gold Price Forecast: XAU/USD bounces to $4,370, but upside momentum is fading",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.5101
       }
     ]
   }

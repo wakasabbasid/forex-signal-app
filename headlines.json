@@ -15,16 +15,6 @@
       "currencies": []
     },
     {
-      "title": "AUD/USD Signal 19/08: Stuck in an Uptrend Ahead of FOMC - DailyForex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9577,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
-    },
-    {
       "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -35,10 +25,20 @@
       ]
     },
     {
-      "title": "China's forex market sustains stable run, trend in line with expectations - China Daily Global Edition",
+      "title": "AUD/USD Signal 19/08: Stuck in an Uptrend Ahead of FOMC - DailyForex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9577,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
+    },
+    {
+      "title": "China's forex market sustains stable run, trend in line with expectations - global.chinadaily.com.cn",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8626,
+      "score": 0.5241,
       "currencies": []
     },
     {
@@ -56,14 +56,7 @@
       "currencies": []
     },
     {
-      "title": "Bank of Russia Lets Brokers Count Crypto as Capital. Anything Off-List Is Treated as 100% Risk - TradingView",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Swiss Franc Under Pressure as Carry Trades Gather Pace. Forecast as of 19.08.2026 - LiteFinance",
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -77,13 +70,6 @@
       "currencies": []
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "RBI's $56.8 billion forex drive: How diaspora deposits reshape India's currency risk and balance sheet - The Economic Times",
       "source": "Google News",
       "label": "neutral",
@@ -91,56 +77,73 @@
       "currencies": []
     },
     {
-      "title": "Hershey targets the health-conscious with savoury Halloween snacks",
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9371,
+      "currencies": []
+    },
+    {
+      "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
+      "title": "Earnings call transcript: Weibo beats Q2 2026 estimates as ad pressure persists",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7909,
+      "currencies": []
+    },
+    {
+      "title": "S&P Global upgrades SK Hynix rating to A- on AI strength",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9043,
+      "currencies": []
+    },
+    {
+      "title": "NACCO Industries appoints Patrick J. Burns to board",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Viking Holdings beats Q2 earnings expectations",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8945,
-      "currencies": []
-    },
-    {
-      "title": "Marti Technologies earnings missed by $0.09, revenue topped estimates",
+      "title": "Progressive reports 5% premium growth, net income falls 12% in July",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.971,
+      "score": -0.9697,
       "currencies": []
     },
     {
-      "title": "InvestingPro\u2019s Fair Value call delivers 73% gain on Integra stock",
+      "title": "Industries Qatar H1 2026 slides: profit plunges 89% on volumes",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9463,
+      "label": "bearish",
+      "score": -0.9728,
       "currencies": []
     },
     {
-      "title": "Evolution Petroleum prices $12 million stock offering at $3.25",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Galmed completes feasibility study for colon tissue assessment tech",
+      "title": "Cantor Fitzgerald reiterates Zscaler stock rating on channel checks",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Pulsenmore expands home ultrasound service to Ichilov hospital",
+      "title": "Cantor Fitzgerald raises Centuri stock price target on margin outlook",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6682,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Nasus Pharma CFO Eyal Rubin to depart in September",
+      "title": "Erik Olsson appointed to Herc Holdings board and audit committee",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
