@@ -1,14 +1,21 @@
 {
   "headlines": [
     {
-      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg.com",
+      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - Daily Forex",
+      "title": "China's forex market sustains stable run, trend in line with expectations - China Daily Global Edition",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8626,
+      "currencies": []
+    },
+    {
+      "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -18,13 +25,6 @@
       ]
     },
     {
-      "title": "China's forex market sustains stable run, trend in line with expectations - global.chinadaily.com.cn",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5241,
-      "currencies": []
-    },
-    {
       "title": "Brazilian currency likely to face less turbulent election - Valor International",
       "source": "Google News",
       "label": "neutral",
@@ -32,17 +32,10 @@
       "currencies": []
     },
     {
-      "title": "Bank of Russia Lets Brokers Count Crypto as Capital. Anything Off-List Is Treated as 100% Risk - tradingview.com",
+      "title": "Bank of Russia Lets Brokers Count Crypto as Capital. Anything Off-List Is Treated as 100% Risk - TradingView",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Currencies: FOREX frozen as markets await the Fed's minutes - marketscreener.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7283,
       "currencies": []
     },
     {
@@ -63,10 +56,10 @@
       ]
     },
     {
-      "title": "Forex Today: US Dollar firms on Hormuz jitters ahead of UK CPI and FOMC Minutes - FXStreet",
+      "title": "What Is the Foreign Exchange Market: A Guide - britannica.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.8302,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -77,7 +70,7 @@
       "currencies": []
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "title": "What should be done about Asia\u2019s undervalued currencies? - The Business Times",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -91,56 +84,66 @@
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Wagners posts strong H2 2026 growth, shares slip",
+      "title": "EUR/USD Signal 18/08: Shooting Star Points to a Pullback - DailyForex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5946,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "Viva Leisure FY2026 slides: profits surge on operating leverage",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9517,
+      "score": 0.8271,
       "currencies": []
     },
     {
-      "title": "Valeura Energy at EnerCom Denver: cash-rich growth plan takes focus",
+      "title": "Viva Leisure FY2026 slides: network optimization drives 47% profit jump",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Drilling Tools International at EnerCom Denver: cash flow, M&A and expansion",
+      "title": "Earnings call transcript: SHAPE posts record FY 2026 revenue in H2 2026",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.488,
       "currencies": []
     },
     {
-      "title": "Tech selloff weighs down Wall Street as bond yields climb",
+      "title": "Alcidion FY26 slides: record revenue, major NHS wins drive 27% growth",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9473,
+      "currencies": []
+    },
+    {
+      "title": "Alcidion FY26 slides: 27% revenue growth, $78.5M in new contracts",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9302,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Everest Medicines posts H1 profit inflection, shares sink 13%",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8831,
+      "score": -0.8629,
       "currencies": []
     },
     {
-      "title": "Beyond marathons and backflips, China\u2019s robots face a commercial test",
+      "title": "Whitehaven Coal FY26 slides: record output, lower costs offset softer prices",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9485,
       "currencies": []
     },
     {
-      "title": "US transport regulator resumes review of Union Pacific\u2019s proposed Norfolk merger",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Charles Schwab MD Jonathan Beatty sells $111,330 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Alx oncology CEO Jason Lettmann disposes of $4,303 in shares",
+      "title": "Hang Seng trapped 25,100-25,600 in Ichimoku cloud: Live levels",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

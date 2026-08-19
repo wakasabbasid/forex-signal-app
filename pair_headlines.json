@@ -3,7 +3,7 @@
   "pairs": {
     "GBP/USD": [
       {
-        "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - Daily Forex",
+        "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -13,23 +13,67 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "GBP/JPY Price Forecast: Bulls stall near 216.00 as RSI flattens",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9608
       }
     ],
     "EUR/USD": [
       {
+        "title": "EUR/USD Signal 18/08: Shooting Star Points to a Pullback - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.5946
+      },
+      {
         "title": "EUR/JPY Price Forecast: SMAs confluence blocks bulls near 185.00",
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.746
       }
     ],
+    "AUD/USD": [
+      {
+        "title": "AUD traders heads up,  Andrew Hauser, Reserve Bank of Australia Deputy Governor speaking soon",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
     "USD/JPY": [
+      {
+        "title": "PBOC sets USD/ CNY mid-point today at 6.7854 (vs. estimate at 6.7421)",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7421 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "New Zealand Dollar declines to weekly low as USD holds firm ahead of FOMC Minutes",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9557
+      },
+      {
+        "title": "Canadian Dollar consolidates near 1.3900 vs USD ahead of US tariffs deadline, FOMC Minutes",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.563
+      },
+      {
+        "title": "PBOC sets USD/CNY reference rate at 6.7854 vs. 6.7905 previous",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Australian Dollar reverses as Iran risks lift USD ahead of Fed minutes",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8064
+      },
       {
         "title": "EUR/JPY Price Forecast: SMAs confluence blocks bulls near 185.00",
         "source": "FXStreet",
@@ -37,18 +81,10 @@
         "score": -0.746
       },
       {
-        "title": "GBP/JPY Price Forecast: Bulls stall near 216.00 as RSI flattens",
-        "source": "FXStreet",
+        "title": "PHP/USD: Philippine Peso Fell to New Record Low as Oil Prices Rise",
+        "source": "Bloomberg",
         "label": "bearish",
-        "score": -0.9608
-      }
-    ],
-    "USD/CHF": [
-      {
-        "title": "USD/CHF Price Forecast: Flag support rebound keeps bulls alive",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8753
+        "score": -0.9744
       }
     ]
   }
