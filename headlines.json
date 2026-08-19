@@ -1,6 +1,15 @@
 {
   "headlines": [
     {
+      "title": "USD/MXN Forecast: Mexican Peso Reaches Levels Not Seen Since 2024 - FOREX.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5384,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg",
       "source": "Google News",
       "label": "neutral",
@@ -15,17 +24,7 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "title": "What Is the Foreign Exchange Market: A Guide - britannica.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -63,6 +62,16 @@
       "currencies": []
     },
     {
+      "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - City Index UK",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
       "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
@@ -70,77 +79,70 @@
       "currencies": []
     },
     {
-      "title": "RBI's $56.8 billion forex drive: How diaspora deposits reshape India's currency risk and balance sheet - economictimes.com",
+      "title": "RBI's $56.8 billion forex drive: How diaspora deposits reshape India's currency risk and balance sheet - The Economic Times",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "China's forex market sustains stable run, trend in line with expectations - Xinhua",
+      "title": "China's forex market sustains stable run, trend in line with expectations - english.news.cn",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9145,
+      "score": 0.5644,
       "currencies": []
     },
     {
-      "title": "India\u2019s forex reserves fall by $7.7 billion to $690 billion: RBI - News On AIR",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9552,
-      "currencies": []
-    },
-    {
-      "title": "Accuray posts narrower-than-feared Q4 loss as cost cuts exceed targets",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9686,
-      "currencies": []
-    },
-    {
-      "title": "DA Davidson raises Target stock price target on improved margins",
+      "title": "Cardano Climbs 10% In Bullish Trade",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9313,
+      "score": 0.9175,
       "currencies": []
     },
     {
-      "title": "Wells Fargo launches new Series HH preferred stock and completes depositary share sale",
+      "title": "TuHURA Biosciences stockholders approve share issuance, elect directors at annual meeting",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US appeals court upholds big real estate settlement despite class\u00a0members\u2019\u00a0objections",
+      "title": "Canada closes higher helped by rally in mining stocks as tariffs deal linger",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8366,
+      "currencies": []
+    },
+    {
+      "title": "Russia stocks higher at close of trade; MOEX Russia Index up 1.23%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9454,
+      "currencies": []
+    },
+    {
+      "title": "Treasury Secretary Bessent doubles US long-bond buybacks in the face of surging yields",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.4805,
+      "score": -0.8047,
       "currencies": []
     },
     {
-      "title": "Glass Lewis backs BNY Mellon fund\u2019s board nominees",
+      "title": "Earnings call transcript: Accuray posts mixed Q4 2026 results as revenue slips",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9464,
+      "currencies": []
+    },
+    {
+      "title": "Encore Capital appoints Robert Beck to board of directors",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Merit Medical names Sheri Lewis as global operations chief",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Granite Ridge no longer controlled by Grey Rock after share distribution",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "TDS declares Q3 2026 dividends on common and preferred shares",
+      "title": "Hershey Trust Co. trustee sells $5.5m in Hershey Co. stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

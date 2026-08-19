@@ -1,13 +1,27 @@
 {
   "run_id": 1,
   "pairs": {
-    "GBP/USD": [
+    "USD/JPY": [
       {
-        "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
+        "title": "USD/MXN Forecast: Mexican Peso Reaches Levels Not Seen Since 2024 - FOREX.com",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bullish",
+        "score": 0.5384
       },
+      {
+        "title": "Silver Price Forecast: XAG/USD eyes $67 as US yields slide",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.4968
+      },
+      {
+        "title": "New Zealand Dollar jumps as falling US yields weigh on the USD",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9048
+      }
+    ],
+    "GBP/USD": [
       {
         "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - Daily Forex",
         "source": "Google News",
@@ -15,10 +29,10 @@
         "score": 0.0
       },
       {
-        "title": "EUR/GBP pushes toward two-week high amid cooling UK services inflation",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9076
+        "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - City Index UK",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "USD/CHF": [
@@ -35,22 +49,6 @@
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.9532
-      }
-    ],
-    "USD/JPY": [
-      {
-        "title": "New Zealand Dollar jumps as falling US yields weigh on the USD",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9048
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/GBP pushes toward two-week high amid cooling UK services inflation",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9076
       }
     ]
   }
