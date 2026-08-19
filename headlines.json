@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg.com",
+      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - bloomberg.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -56,7 +56,7 @@
       "currencies": []
     },
     {
-      "title": "Brazilian currency likely to face less turbulent election - Valor International",
+      "title": "Brazilian currency likely to face less turbulent election - valorinternational.globo.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -91,56 +91,56 @@
       "currencies": []
     },
     {
-      "title": "Williams Trading raises Wolverine World Wide price target on brand momentum",
+      "title": "Microchip Technology shareholders approve equity plan amendment and board elections",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "1911 Gold at sidoti micro-cap virtual conference: production push",
+      "title": "US Treasury Secretary Bessent doubles US long-bond buybacks in the face of surging yields",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8521,
+      "currencies": []
+    },
+    {
+      "title": "Fed policymakers\u2019 inflation concerns increased at July meeting, minutes show",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7255,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Horizon Kinetics posts Q2 2026 loss as ETF sales rise",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9741,
+      "currencies": []
+    },
+    {
+      "title": "Wall Street mostly higher as yields slide; Fed minutes hint at need for rate hikes",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6522,
+      "currencies": []
+    },
+    {
+      "title": "Why is Century Aluminum stock sliding today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9364,
+      "currencies": []
+    },
+    {
+      "title": "Bakkt director Michael Alfred acquires $2.11m in Class A stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Analysis-ABC says intimidation by Trump\u2019s FCC forced programming changes",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8982,
-      "currencies": []
-    },
-    {
-      "title": "CryptoCapitalFund Makes Major Investment in IBNAi with Acquisition of 200 Million Tokens",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.4963,
-      "currencies": []
-    },
-    {
-      "title": "Payments firm Stripe to buy marketplace OpenRouter in AI push",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6173,
-      "currencies": []
-    },
-    {
-      "title": "Gold jumps as Treasury buyback plans push yields lower, Fed flags inflation risks",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6745,
-      "currencies": []
-    },
-    {
-      "title": "BofA upgrades Moderna stock rating on cancer drug progress",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7037,
-      "currencies": []
-    },
-    {
-      "title": "3-2-1 crack spread near $70 a barrel: what it means for refining stocks",
+      "title": "Verizon EVP Kyle Malady sells $53,548 in common stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
