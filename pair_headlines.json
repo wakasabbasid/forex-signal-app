@@ -3,13 +3,13 @@
   "pairs": {
     "GBP/USD": [
       {
-        "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - DailyForex",
+        "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
+        "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -25,42 +25,16 @@
     ],
     "USD/JPY": [
       {
-        "title": "PBOC sets USD/ CNY mid-point today at 6.7854 (vs. estimate at 6.7421)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Softens to near 184.50, mildly bearish bias persists under 100-day SMA",
+        "title": "Japanese Yen: JGB spillover supports firmer JPY against US Dollar \u2013 OCBC",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.5822
+        "score": 0.768
       },
       {
-        "title": "Canadian Dollar strengthens as Trump pauses 50% tariffs and USD slides before FOMC Minutes",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.7516
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD extends decline to near $63 amid continued energy supply risks",
+        "title": "USD/IDR Price Forecast: Trades near 17,850 after pulling back from moving averages",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9765
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/USD Price Forecast: Gathers strength above 1.1550, bullish outlook remains intact",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9255
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Softens to near 184.50, mildly bearish bias persists under 100-day SMA",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.5822
+        "score": -0.5795
       }
     ]
   }

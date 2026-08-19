@@ -8,23 +8,6 @@
       "currencies": []
     },
     {
-      "title": "Brazilian currency likely to face less turbulent election - Valor International",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
       "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
       "source": "Google News",
       "label": "neutral",
@@ -32,10 +15,10 @@
       "currencies": []
     },
     {
-      "title": "China's forex market sustains stable run, trend in line with expectations - China Daily Global Edition",
+      "title": "Brazilian currency likely to face less turbulent election - Valor International",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.8626,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -49,10 +32,27 @@
       ]
     },
     {
+      "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
       "title": "Bank of Russia Lets Brokers Count Crypto as Capital. Anything Off-List Is Treated as 100% Risk - TradingView",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "China's forex market sustains stable run, trend in line with expectations - China Daily Global Edition",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8626,
       "currencies": []
     },
     {
@@ -91,59 +91,59 @@
       "currencies": []
     },
     {
-      "title": "Zaptec reports record Q2 revenue on EV charging demand",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9206,
-      "currencies": []
-    },
-    {
-      "title": "Asian AI, chip stocks tumble as higher yields revive valuation concerns",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9459,
-      "currencies": []
-    },
-    {
-      "title": "Unions, advocacy groups sue to overturn US visa rule for foreign students, journalists",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7897,
-      "currencies": []
-    },
-    {
-      "title": "Hedge fund Oasis call for higher bid for Japan\u2019s Kakaku.com amid takeover battle",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9169,
-      "currencies": []
-    },
-    {
-      "title": "Why is Pony AI stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9155,
-      "currencies": []
-    },
-    {
-      "title": "Nikkei 225 clings to 65,000 support, RSI deeply oversold: Live levels",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.953,
-      "currencies": []
-    },
-    {
-      "title": "SK Hynix bear flag 80% formed at KRW 1,508,000: Live levels",
+      "title": "CMA opens investigation into Trainline fee presentation",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "WiseTech shares slump 13% after ACCC warrant as governance concerns resurface",
+      "title": "Why is Taiyo Yuden stock falling today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9666,
+      "score": -0.9316,
+      "currencies": []
+    },
+    {
+      "title": "China seen holding loan rates steady in August despite economic weakness",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6086,
+      "currencies": []
+    },
+    {
+      "title": "DX expands international delivery service to 220 countries",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9097,
+      "currencies": []
+    },
+    {
+      "title": "Tekcapital portfolio company files twelfth U.S. patent",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.803,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin steady at $64k as markets parse U.S. regulations, Iran tensions",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.4236,
+      "currencies": []
+    },
+    {
+      "title": "Origin JV lets 404,100 sq ft of industrial, logistics space",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Goldman Sachs Names Top Japan Electronic Components Stocks",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
