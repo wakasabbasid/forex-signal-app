@@ -25,6 +25,13 @@
       "currencies": []
     },
     {
+      "title": "Peso nears 62:$1 mark, hits new record low - Inquirer.net",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.4824,
+      "currencies": []
+    },
+    {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -63,17 +70,10 @@
       "currencies": []
     },
     {
-      "title": "Kiwi Slides as Dollar Strength, Geopolitical Tensions Weigh - TradingPedia",
+      "title": "RBI's $56.8 billion forex drive: How diaspora deposits reshape India's currency risk and balance sheet - The Economic Times",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.8533,
-      "currencies": []
-    },
-    {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -91,56 +91,56 @@
       "currencies": []
     },
     {
-      "title": "Healthcare of Ontario Pension Plan names interim private equity heads - Bloomberg",
+      "title": "Williams Trading raises Wolverine World Wide price target on brand momentum",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is Carvana stock rebounding today?",
+      "title": "1911 Gold at sidoti micro-cap virtual conference: production push",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Apple Corps and Universal Music Group partner on Beatles merchandise",
+      "title": "Analysis-ABC says intimidation by Trump\u2019s FCC forced programming changes",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.8982,
       "currencies": []
     },
     {
-      "title": "AMSYS and Seyond form partnership for LiDAR distribution",
+      "title": "CryptoCapitalFund Makes Major Investment in IBNAi with Acquisition of 200 Million Tokens",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.4963,
       "currencies": []
     },
     {
-      "title": "Tredegar director William Gottwald disposes of $89,660 in shares",
+      "title": "Payments firm Stripe to buy marketplace OpenRouter in AI push",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.6173,
       "currencies": []
     },
     {
-      "title": "Advanced Energy\u2019s EVP Karpinski sells $302,073 in common stock",
+      "title": "Gold jumps as Treasury buyback plans push yields lower, Fed flags inflation risks",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.6745,
       "currencies": []
     },
     {
-      "title": "WhiteHawk Minerals at EnerCom Denver: royalty model in focus",
+      "title": "BofA upgrades Moderna stock rating on cancer drug progress",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.7037,
       "currencies": []
     },
     {
-      "title": "Advantage Energy at EnerCom Denver: buybacks take center stage",
+      "title": "3-2-1 crack spread near $70 a barrel: what it means for refining stocks",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
