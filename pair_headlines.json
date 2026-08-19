@@ -31,12 +31,6 @@
         "score": 0.0
       },
       {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7421 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
         "title": "EUR/JPY Price Forecast: Softens to near 184.50, mildly bearish bias persists under 100-day SMA",
         "source": "FXStreet",
         "label": "bullish",
@@ -49,25 +43,19 @@
         "score": 0.7516
       },
       {
-        "title": "Gold recovers from weekly low as USD softens ahead of FOMC Minutes",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.6195
-      },
-      {
         "title": "Silver Price Forecast: XAG/USD extends decline to near $63 amid continued energy supply risks",
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.9765
-      },
-      {
-        "title": "New Zealand Dollar declines to weekly low as USD holds firm ahead of FOMC Minutes",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9557
       }
     ],
     "EUR/USD": [
+      {
+        "title": "EUR/USD Price Forecast: Gathers strength above 1.1550, bullish outlook remains intact",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9255
+      },
       {
         "title": "EUR/JPY Price Forecast: Softens to near 184.50, mildly bearish bias persists under 100-day SMA",
         "source": "FXStreet",
