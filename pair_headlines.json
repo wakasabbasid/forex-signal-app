@@ -9,6 +9,12 @@
         "score": 0.5384
       },
       {
+        "title": "GBP/JPY Price Forecast: sellers take control below 50-day SMA",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
         "title": "Silver Price Forecast: XAG/USD eyes $67 as US yields slide",
         "source": "FXStreet",
         "label": "bullish",
@@ -27,6 +33,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "GBP/JPY Price Forecast: sellers take control below 50-day SMA",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "USD/CHF": [
@@ -35,14 +47,6 @@
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.5459
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "AUD/USD Price Forecast: Positive momentum points to further upside",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9532
       }
     ]
   }

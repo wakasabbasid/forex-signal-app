@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "Finance leaders deal with foreign currency payroll impacts - cfobrew.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "USD/MXN Forecast: Mexican Peso Reaches Levels Not Seen Since 2024 - FOREX.com",
       "source": "Google News",
       "label": "bullish",
@@ -17,14 +24,14 @@
       "currencies": []
     },
     {
-      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
+      "title": "Forex Focus - tastylive",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -86,66 +93,59 @@
       "currencies": []
     },
     {
-      "title": "China's forex market sustains stable run, trend in line with expectations - Xinhua",
-      "source": "Google News",
+      "title": "NZX H1 2026 slides: diversified model drives 13% revenue growth",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9145,
+      "score": 0.8224,
       "currencies": []
     },
     {
-      "title": "CoreWeave EVP Chen Goldberg sells $678,790 in shares on Aug. 17",
+      "title": "Skellerup FY26 slides: 10th straight record, EBIT up 110% since 2020",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.952,
+      "currencies": []
+    },
+    {
+      "title": "Iridium EVP Timothy James sells $982,766 in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Universal Safety Products director Milton Ault buys $201,392 in shares",
+      "title": "Iridium Communications CAO Timothy Kapalka sells $680,521 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Morningstar executive chairman Mansueto sells $4.57m in stock",
+      "title": "+99%, +44%, +41%: These AI-picked healthcare stocks keep climbing",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Explainer-What to know about the multistate salmonella outbreak in the US",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Sonoma Pharmaceuticals cancels special meeting due to lack of quorum",
+      "title": "Coty sees weak quarterly profit, withholds annual forecasts in \u2019transition year\u2019",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9483,
+      "score": -0.9698,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Sol\u00e9sence posts lower Q2 2026 revenue as stock swings",
+      "title": "Analysis-China tax crackdown forces wealthy investors to assess their offshore trusts",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9708,
+      "score": -0.9308,
       "currencies": []
     },
     {
-      "title": "Why is Bill.com stock climbing today?",
+      "title": "Earnings call transcript: Skellerup posts record FY 2026 as shares edge higher",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Astrotech files prospectus supplement for up to $50 million stock offering",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9382,
       "currencies": []
     }
   ],
