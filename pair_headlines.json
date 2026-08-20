@@ -1,6 +1,14 @@
 {
   "run_id": 1,
   "pairs": {
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Signal 20/08: Golden Cross, Inverted H/S - Daily Forex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
     "USD/JPY": [
       {
         "title": "USD/MXN Forecast: Mexican Peso Reaches Levels Not Seen Since 2024 - FOREX.com",
@@ -9,18 +17,30 @@
         "score": 0.5384
       },
       {
-        "title": "Gold remains depressed below $4,500 amid hawkish Fed; weak USD sentiment limits losses",
+        "title": "Gold bears seem hesitant as sustained USD selling offsets hawkish Fed and Iran risks",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9662
+        "label": "bullish",
+        "score": 0.5743
       }
     ],
-    "GBP/USD": [
+    "EUR/USD": [
       {
-        "title": "GBP/USD Forecast 20/08: Bullish Breakout 1.3658 in Focus - Daily Forex",
-        "source": "Google News",
+        "title": "Novonesis H1 2026 slides: 8% growth drives raised outlook, EUR 1B buyback",
+        "source": "Investing.com",
         "label": "bullish",
-        "score": 0.4795
+        "score": 0.9416
+      },
+      {
+        "title": "EUR/USD extends gains to fresh three-month highs after yesterday's break",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.9425
+      },
+      {
+        "title": "EUR/USD Price Forecast: Doubling US bond-buying plan opens way for 1.1800",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9142
       }
     ]
   }

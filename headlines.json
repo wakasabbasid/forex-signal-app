@@ -8,6 +8,16 @@
       "currencies": []
     },
     {
+      "title": "GBP/USD Signal 20/08: Golden Cross, Inverted H/S - Daily Forex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
       "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
@@ -45,24 +55,14 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Forecast 20/08: Bullish Breakout 1.3658 in Focus - Daily Forex",
+      "title": "Euro Holds Near Multi-Month Highs as Fed, Iran Weigh Dollar - TradingPedia",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.4795,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "score": 0.47,
       "currencies": []
     },
     {
-      "title": "FCNR dollar hoard could turn into refinancing test for banks when deposits mature - bfsi.economictimes.indiatimes.com",
+      "title": "FCNR dollar hoard could turn into refinancing test for banks when deposits mature - Economic Times BFSI",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -90,59 +90,61 @@
       "currencies": []
     },
     {
-      "title": "Why is JD Sports stock plummeting today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9223,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: H\u00f6egh Autoliners Q2 2026 stock drops 11.7%",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9679,
-      "currencies": []
-    },
-    {
-      "title": "Aqualis Q2 2026 slides: margins expand as revenue climbs 10%",
+      "title": "Earnings call transcript: Sensys Gatso Q2 2026 profit jumps as margin guidance rises",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9536,
+      "score": 0.925,
       "currencies": []
     },
     {
-      "title": "Orkla Q2 2026 slides: growth stalls despite profit gains",
+      "title": "Why is Amplifon stock sliding today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9597,
+      "score": -0.9261,
       "currencies": []
     },
     {
-      "title": "Vistin Pharma Q2 2026 slides: volume gains offset by currency headwinds",
+      "title": "Why is Ferrovial stock rallying today?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Barclays initiates Bitdeer stock with overweight on AI shift",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Novonesis H1 2026 slides: 8% growth drives raised outlook, EUR 1B buyback",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.857,
-      "currencies": []
+      "score": 0.9416,
+      "currencies": [
+        "EUR"
+      ]
     },
     {
-      "title": "Kid ASA Q2 2026 slides: online sales surge 43%, margins hit 63.2%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9394,
-      "currencies": []
-    },
-    {
-      "title": "Fasadgruppen Q2 2026 slides: stabilization emerges despite margin pressure",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9476,
-      "currencies": []
-    },
-    {
-      "title": "Gerdes Energy downgrades Equinor stock rating on valuation",
+      "title": "Why is Coty stock sliding today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7431,
+      "score": -0.9214,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Panoro Energy shares fall 4% after H1 2026 update",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.972,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Clavister posts record Q2 2026 growth and margin gains",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9513,
       "currencies": []
     }
   ],
