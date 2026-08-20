@@ -7,22 +7,20 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      }
-    ],
-    "EUR/USD": [
+      },
       {
-        "title": "EUR/USD breakout puts dollar pressure valve in focus - FOREX.com",
+        "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       }
     ],
-    "USD/CHF": [
+    "USD/JPY": [
       {
-        "title": "USD/CHF Price Forecast: Attempts to reclaim 0.8000 after defending the 100-day SMA",
+        "title": "Silver Price Forecast: XAG/USD tests 100-day SMA as rally extends",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.8922
+        "score": 0.9031
       }
     ]
   }

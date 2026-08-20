@@ -32,21 +32,21 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD breakout puts dollar pressure valve in focus - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
+    },
+    {
+      "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
     },
     {
       "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
@@ -91,13 +91,6 @@
       "currencies": []
     },
     {
-      "title": "Treasury doubles bond buyback program to $4 billion",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7956,
-      "currencies": []
-    },
-    {
       "title": "US Treasury buyback briefly eases bond rout, but debt worries persist",
       "source": "Investing.com",
       "label": "bearish",
@@ -105,42 +98,49 @@
       "currencies": []
     },
     {
-      "title": "North Dakota oilfield activity to increase on higher prices",
+      "title": "Oil hits more than three-week high as Trump threatens Iran-related retaliation",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9494,
+      "score": 0.5567,
       "currencies": []
     },
     {
-      "title": "Nvidia plans China AI return with new specialized chip, report says",
+      "title": "C&F financial executive chairman Dillon disposes of $86,000 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is Moderna stock plummeting today?",
+      "title": "Google bundles Antigravity coding agents into Gemini Enterprise",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8504,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US Justice Department opposes immediate hearing in Disney ABC license lawsuit",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7962,
-      "currencies": []
-    },
-    {
-      "title": "ESS Tech raises $3.2M in registered direct offering",
+      "title": "Anthropic wants to match or beat SpaceX\u2019s record IPO size - report",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7433,
+      "score": 0.8599,
       "currencies": []
     },
     {
-      "title": "Voss Capital sells $1.9m in Flywire stock",
+      "title": "Google adds personalization to Search and News",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "SpaceX secures over $8 billion in Golden Dome contracts",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Google\u2019s Gemma AI models surpass one billion downloads",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
