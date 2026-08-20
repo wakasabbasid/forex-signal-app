@@ -25,11 +25,14 @@
       "currencies": []
     },
     {
-      "title": "Gold, silver surge as Treasury fans embers of dollar debasement trade - FOREX.com",
+      "title": "EUR/USD breakout puts dollar pressure valve in focus - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
     },
     {
       "title": "British Pound Rises as US Treasury Buyback Pressures Dollar - CryptoRank",
@@ -39,14 +42,14 @@
       "currencies": []
     },
     {
-      "title": "Forex Focus - tastylive",
+      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
+      "title": "Forex Focus - tastylive",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -67,17 +70,17 @@
       "currencies": []
     },
     {
-      "title": "FCNR dollar hoard could turn into refinancing test for banks when deposits mature - Economic Times BFSI",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
       "source": "Google News",
       "label": "bullish",
       "score": 0.9097,
+      "currencies": []
+    },
+    {
+      "title": "FCNR dollar hoard could turn into refinancing test for banks when deposits mature - Economic Times BFSI",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -88,59 +91,59 @@
       "currencies": []
     },
     {
-      "title": "BofA sees euro upside, dollar downside risks in near-term outlook",
+      "title": "Earnings call transcript: Photon Energy narrows loss in q2 2026 as turnaround gains pace",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6908,
+      "score": -0.8965,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Bumrungrad posts mixed Q2 2026 results as revenue beats forecast",
+      "title": "Ridgeview-backed bidco sees support drop in Pinewood.AI deal",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9712,
+      "score": -0.9688,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Swiss Prime Site posts steady H1 2026 growth",
+      "title": "Smart Sand EVP Young sells $136,841 in shares",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8749,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Catella Q2 2026 slides: revenue drops 47% but underlying trends improve",
+      "title": "Tanker reports approach by unauthorised vessel off Yemen coast",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9627,
+      "score": -0.9032,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: KN Energies posts strong H1 2026 growth, shares flat",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9496,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: The Platform Group posts strong H1 2026 growth",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9508,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Viva Wine Group\u2019s Q2 2026 sales rise on deals",
+      "title": "Earnings call transcript: J&T Express H1 2026 profit surges as non-China revenue hits 50%",
       "source": "Investing.com",
       "label": "bullish",
       "score": 0.9399,
       "currencies": []
     },
     {
-      "title": "NetEase misses second-quarter profit forecasts; shares slide",
+      "title": "European shares languish at Aug lows as hawkish central banks counter bond rebound",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9681,
+      "score": -0.8436,
+      "currencies": []
+    },
+    {
+      "title": "Moderna stock pulls back after massive one-day rally: analysts weigh in",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8352,
+      "currencies": []
+    },
+    {
+      "title": "Platform Group H1 2026 slides: 23% revenue growth, AI-first strategy",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6808,
       "currencies": []
     }
   ],
