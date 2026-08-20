@@ -42,10 +42,10 @@
       "currencies": []
     },
     {
-      "title": "British Pound Rises as US Treasury Buyback Pressures Dollar - CryptoRank",
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.6163,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -56,10 +56,10 @@
       "currencies": []
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "title": "British Pound Rises as US Treasury Buyback Pressures Dollar - CryptoRank",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.6163,
       "currencies": []
     },
     {
@@ -91,59 +91,59 @@
       "currencies": []
     },
     {
-      "title": "Mizuho reiterates Cerebras Systems stock rating after product event",
+      "title": "Deutsche Bank initiates Ardagh Metal Packaging stock with Hold rating",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Mizuho cuts Lowe\u2019s stock price target on flat comps, softer outlook",
+      "title": "European shares languish at Aug lows as hawkish central banks counter bond rebound",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8591,
+      "score": -0.8436,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: KGHM posts strong H1 2026 growth, but EPS misses",
+      "title": "Callan JMB to acquire Williston Basin oil assets from Reger Oil",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Fusion Fuel subsidiary signs LPG contracts worth $1.4 million",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8311,
+      "score": 0.6958,
       "currencies": []
     },
     {
-      "title": "Mizuho raises Target stock price target to $150 on Q2 strength",
+      "title": "Helport AI deploys AI labor for consumer hardware brands",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Bitcoin, crypto shares climb after Trump pushes Clarity Act",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.3586,
-      "currencies": []
-    },
-    {
-      "title": "Morgan Stanley is out with its gold price outlook for 2027",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7131,
-      "currencies": []
-    },
-    {
-      "title": "Meta becomes major AI customer of Microsoft\u2019s Azure cloud - report",
+      "title": "Profusa converts $4.6M debt to preferred stock ahead of G3 deal",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Oppenheimer reiterates Outperform on Salesforce stock ahead of earnings",
+      "title": "Micron unveils research lab with planned $10B investment",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Analysis-ABC says intimidation by Trump\u2019s FCC forced programming changes",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9022,
+      "score": -0.8982,
       "currencies": []
     }
   ],
