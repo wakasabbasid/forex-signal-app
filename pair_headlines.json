@@ -1,12 +1,32 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/JPY": [
+    "GBP/USD": [
       {
-        "title": "Silver Price Forecast: XAG/USD tests 100-day SMA as rally extends",
+        "title": "GBP/USD Signal 20/08: Golden Cross, Inverted H/S - Daily Forex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "GBP/JPY Price Forecast: Bulls eye 217.00 as rally extends",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.9031
+        "score": 0.6182
+      }
+    ],
+    "USD/JPY": [
+      {
+        "title": "GBP/JPY Price Forecast: Bulls eye 217.00 as rally extends",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.6182
       }
     ]
   }

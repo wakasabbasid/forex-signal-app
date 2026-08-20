@@ -1,143 +1,149 @@
 {
   "headlines": [
     {
-      "title": "MGE Energy director Berbee buys $21,248 in common stock",
-      "source": "Investing.com",
+      "title": "Finance leaders deal with foreign currency payroll impacts - CFO Brew",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Clipper Realty director Sam Levinson buys $310,591 in common stock",
-      "source": "Investing.com",
+      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "DST Global Advisors sells $156.9 million in Chime Financial stock",
-      "source": "Investing.com",
+      "title": "GBP/USD Signal 20/08: Golden Cross, Inverted H/S - Daily Forex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
+      "title": "Forex Focus - tastylive",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Stark Novus financial director Alexandre Zyngier buys $21,219 in shares",
-      "source": "Investing.com",
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Expedia group SVP & chief accounting officer sells $909,456 in common stock",
-      "source": "Investing.com",
+      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: eXoZymes posts q2 2026 loss as launch plans advance",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.961,
-      "currencies": []
-    },
-    {
-      "title": "Parker Hannifin declares $2.00 quarterly dividend",
-      "source": "Investing.com",
+      "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
     },
     {
-      "title": "Mariana, 18 more Brazil cities join Vale-BHP dam collapse compensation deal",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Medical properties trust senior VP, controller & CAO buys $9,545 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Ichor Holdings director Iain MacKenzie sells $653,176 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Citi says debasement trade needs new outlet, pointing markets back to gold",
-      "source": "ForexLive",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "South Korea producer prices fall for first time in 11 months on cheaper oil that month",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.9695,
-      "currencies": []
-    },
-    {
-      "title": "Fed's Daly, Musalem united on credibility concerns as bond selloff persists, but split on policy",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.5093,
-      "currencies": []
-    },
-    {
-      "title": "Preview: Japan core CPI seen hitting six month high, lifting bets on BoJ September hike",
-      "source": "ForexLive",
+      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
+      "source": "Google News",
       "label": "bullish",
-      "score": 0.9101,
+      "score": 0.9097,
       "currencies": []
     },
     {
-      "title": "Wall Street slides as Treasury yields, Walmart miss, and ongoing war hit stocks",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.9609,
-      "currencies": []
-    },
-    {
-      "title": "Economic and event calendar in Asia Friday, August 21, 2026 - focus on Japanese inflation data",
-      "source": "ForexLive",
+      "title": "Brazilian currency likely to face less turbulent election - Valor International",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "investingLive Americas news wrap: Bessent doubles down on buyback plan",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.9416,
+      "title": "Best Multicurrency Bank Accounts For 2026 - Forbes",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US Treasury auctions off $9 billion of 30-year TIPS at 2.973% vs 2.991% WI",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.7823,
-      "currencies": []
-    },
-    {
-      "title": "Fed's Musalem says hiking rates now could save more aggressive action later",
-      "source": "ForexLive",
+      "title": "Euro Holds Near Multi-Month Highs as Fed, Iran Weigh Dollar - TradingPedia",
+      "source": "Google News",
       "label": "bullish",
-      "score": 0.6669,
+      "score": 0.47,
       "currencies": []
     },
     {
-      "title": "US Treasury Secretary Bessent says the long-dated bond buyback could be more than 4 billion",
-      "source": "ForexLive",
+      "title": "British Pound Rises as US Treasury Buyback Pressures Dollar - CryptoRank",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6163,
+      "currencies": []
+    },
+    {
+      "title": "Bessent says US to impose \u2019toughest\u2019 ever sanctions on Iran, urges China to cooperate",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "5am Partners VII, LLC sells $140,313 of Skye Bioscience stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "10% owner DST Global Advisors sells $156.9m in Chime Financial stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Heartflow CEO John Farquhar sells $1.47 million in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Adaptive Biotechnologies director Robert Hershberg sells $748k in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Abbott to pay $670 million to settle some preterm infant formula cases",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5757,
+      "currencies": []
+    },
+    {
+      "title": "Seeka H1 2026 slides: automation drives record profit on lower volumes",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9076,
+      "currencies": []
+    },
+    {
+      "title": "Ex-Google engineer\u2019s conviction for stealing AI secrets partially overturned",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6344,
       "currencies": []
     }
   ],
