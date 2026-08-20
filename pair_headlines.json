@@ -9,38 +9,12 @@
         "score": 0.0
       }
     ],
-    "USD/JPY": [
-      {
-        "title": "USD/MXN Forecast: Mexican Peso Reaches Levels Not Seen Since 2024 - FOREX.com",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.5384
-      },
-      {
-        "title": "Gold bears seem hesitant as sustained USD selling offsets hawkish Fed and Iran risks",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.5743
-      }
-    ],
     "EUR/USD": [
-      {
-        "title": "Novonesis H1 2026 slides: 8% growth drives raised outlook, EUR 1B buyback",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.9416
-      },
       {
         "title": "EUR/USD extends gains to fresh three-month highs after yesterday's break",
         "source": "ForexLive",
         "label": "bullish",
         "score": 0.9425
-      },
-      {
-        "title": "EUR/USD Price Forecast: Doubling US bond-buying plan opens way for 1.1800",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9142
       }
     ]
   }

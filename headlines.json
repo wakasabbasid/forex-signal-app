@@ -25,13 +25,11 @@
       "currencies": []
     },
     {
-      "title": "USD/MXN Forecast: Mexican Peso Reaches Levels Not Seen Since 2024 - FOREX.com",
+      "title": "Gold, silver surge as Treasury fans embers of dollar debasement trade - FOREX.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.5384,
-      "currencies": [
-        "USD"
-      ]
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "British Pound Rises as US Treasury Buyback Pressures Dollar - CryptoRank",
@@ -49,6 +47,13 @@
     },
     {
       "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -83,68 +88,59 @@
       "currencies": []
     },
     {
-      "title": "Rates Spark: The Treasury\u2019s plan for the back end - Forex Factory",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Sensys Gatso Q2 2026 profit jumps as margin guidance rises",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.925,
-      "currencies": []
-    },
-    {
-      "title": "Why is Amplifon stock sliding today?",
+      "title": "BofA sees euro upside, dollar downside risks in near-term outlook",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9261,
+      "score": -0.6908,
       "currencies": []
     },
     {
-      "title": "Why is Ferrovial stock rallying today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Barclays initiates Bitdeer stock with overweight on AI shift",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Novonesis H1 2026 slides: 8% growth drives raised outlook, EUR 1B buyback",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9416,
-      "currencies": [
-        "EUR"
-      ]
-    },
-    {
-      "title": "Why is Coty stock sliding today?",
+      "title": "Earnings call transcript: Bumrungrad posts mixed Q2 2026 results as revenue beats forecast",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9214,
+      "score": -0.9712,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Panoro Energy shares fall 4% after H1 2026 update",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.972,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Clavister posts record Q2 2026 growth and margin gains",
+      "title": "Earnings call transcript: Swiss Prime Site posts steady H1 2026 growth",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9513,
+      "score": 0.8749,
+      "currencies": []
+    },
+    {
+      "title": "Catella Q2 2026 slides: revenue drops 47% but underlying trends improve",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9627,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: KN Energies posts strong H1 2026 growth, shares flat",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9496,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: The Platform Group posts strong H1 2026 growth",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9508,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Viva Wine Group\u2019s Q2 2026 sales rise on deals",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9399,
+      "currencies": []
+    },
+    {
+      "title": "NetEase misses second-quarter profit forecasts; shares slide",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9681,
       "currencies": []
     }
   ],
