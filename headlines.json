@@ -1,7 +1,14 @@
 {
   "headlines": [
     {
-      "title": "Finance leaders deal with foreign currency payroll impacts - cfobrew.com",
+      "title": "Finance leaders deal with foreign currency payroll impacts - CFO Brew",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -17,13 +24,6 @@
       ]
     },
     {
-      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Forex Focus - tastylive",
       "source": "Google News",
       "label": "neutral",
@@ -32,6 +32,13 @@
     },
     {
       "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -69,6 +76,13 @@
       "currencies": []
     },
     {
+      "title": "Rates Spark: The Treasury\u2019s plan for the back end - Forex Factory",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - City Index UK",
       "source": "Google News",
       "label": "neutral",
@@ -79,73 +93,59 @@
       ]
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "RBI's $56.8 billion forex drive: How diaspora deposits reshape India's currency risk and balance sheet - The Economic Times",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "NZX H1 2026 slides: diversified model drives 13% revenue growth",
+      "title": "NRW FY26 slides: revenue jumps 31%, Fredon acquisition delivers",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8224,
+      "score": 0.9431,
       "currencies": []
     },
     {
-      "title": "Skellerup FY26 slides: 10th straight record, EBIT up 110% since 2020",
+      "title": "Bonds steady after US Treasury comes to the rescue",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.952,
+      "score": 0.7514,
       "currencies": []
     },
     {
-      "title": "Iridium EVP Timothy James sells $982,766 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Iridium Communications CAO Timothy Kapalka sells $680,521 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "+99%, +44%, +41%: These AI-picked healthcare stocks keep climbing",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Coty sees weak quarterly profit, withholds annual forecasts in \u2019transition year\u2019",
+      "title": "Earnings call transcript: IPH H2 2026 profit rises as stock falls 7.8%",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9698,
+      "score": -0.9436,
       "currencies": []
     },
     {
-      "title": "Analysis-China tax crackdown forces wealthy investors to assess their offshore trusts",
+      "title": "Dexus FY26 slides: stable earnings mask lower FY27 outlook",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9308,
+      "score": -0.5293,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Skellerup posts record FY 2026 as shares edge higher",
+      "title": "Emeco FY26 slides: cash generation fuels buyback, 20% ROC in sight",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Emeco FY26 slides: maintenance shift drives returns, buyback approved",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Fortescue posts record FY 2026 shipments, stock steady",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9382,
+      "score": 0.6862,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Finbar Group lifts profit 40% in H2 2026",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9394,
       "currencies": []
     }
   ],

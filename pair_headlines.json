@@ -9,16 +9,34 @@
         "score": 0.5384
       },
       {
-        "title": "GBP/JPY Price Forecast: sellers take control below 50-day SMA",
-        "source": "FXStreet",
+        "title": "PBOC sets USD/ CNY mid-point today at 6.7808 (vs. estimate at 6.7196)",
+        "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "Silver Price Forecast: XAG/USD eyes $67 as US yields slide",
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7196 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Australian Dollar reacts little to dismal jobs data; holds above weekly low vs weaker JPY",
         "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.4968
+        "label": "bearish",
+        "score": -0.682
+      },
+      {
+        "title": "British Pound edges lower as USD steadies above three-month low; downside seems limited",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8835
+      },
+      {
+        "title": "PBOC sets USD/CNY reference rate at 6.7808 vs. 6.7854 previous",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "GBP/USD": [
@@ -33,20 +51,6 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "GBP/JPY Price Forecast: sellers take control below 50-day SMA",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "USD/CHF": [
-      {
-        "title": "USD/CHF Price Forecast: Franc tests 100-day SMA as US Dollar tanks",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.5459
       }
     ]
   }
