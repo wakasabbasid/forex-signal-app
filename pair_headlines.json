@@ -22,6 +22,14 @@
         "label": "bullish",
         "score": 0.9425
       }
+    ],
+    "USD/JPY": [
+      {
+        "title": "National Presto Industries stock hits all-time high at 149.88 USD",
+        "source": "Investing.com",
+        "label": "neutral",
+        "score": 0.0
+      }
     ]
   }
 }
