@@ -15,20 +15,13 @@
       "currencies": []
     },
     {
-      "title": "USD/MXN Forecast: Mexican Peso Reaches Levels Not Seen Since 2024 - forex.com",
+      "title": "USD/MXN Forecast: Mexican Peso Reaches Levels Not Seen Since 2024 - FOREX.com",
       "source": "Google News",
       "label": "bullish",
       "score": 0.5384,
       "currencies": [
         "USD"
       ]
-    },
-    {
-      "title": "Forex Focus - tastylive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
     },
     {
       "title": "British Pound Rises as US Treasury Buyback Pressures Dollar - CryptoRank",
@@ -38,7 +31,31 @@
       "currencies": []
     },
     {
+      "title": "Forex Focus - tastylive",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "GBP/USD Forecast 20/08: Bullish Breakout 1.3658 in Focus - Daily Forex",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.4795,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -52,28 +69,11 @@
       "currencies": []
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
       "source": "Google News",
       "label": "bullish",
       "score": 0.9097,
       "currencies": []
-    },
-    {
-      "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - dailyforex.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
     },
     {
       "title": "Brazilian currency likely to face less turbulent election - Valor International",
@@ -83,66 +83,66 @@
       "currencies": []
     },
     {
-      "title": "Peso nears 62:$1 mark, hits new record low - Inquirer.net",
+      "title": "Rates Spark: The Treasury\u2019s plan for the back end - Forex Factory",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.4824,
-      "currencies": []
-    },
-    {
-      "title": "Dollar holds sharp losses near 3-mth low as bond selloff cools",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.81,
-      "currencies": []
-    },
-    {
-      "title": "JTC PLC shares temporarily suspended from trading",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8162,
-      "currencies": []
-    },
-    {
-      "title": "Fair Oaks Income declares 10 cent dividend for second quarter",
-      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Global wheat buyers brace for supply squeeze amid Black Sea attacks",
+      "title": "Why is JD Sports stock plummeting today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9137,
+      "score": -0.9223,
       "currencies": []
     },
     {
-      "title": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.33%",
+      "title": "Earnings call transcript: H\u00f6egh Autoliners Q2 2026 stock drops 11.7%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9679,
+      "currencies": []
+    },
+    {
+      "title": "Aqualis Q2 2026 slides: margins expand as revenue climbs 10%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9383,
+      "score": 0.9536,
       "currencies": []
     },
     {
-      "title": "Venture Life extends share buyback programme through September",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Norse Atlantic posts weak Q2 2026 results as stock stays near low",
+      "title": "Orkla Q2 2026 slides: growth stalls despite profit gains",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9757,
+      "score": -0.9597,
       "currencies": []
     },
     {
-      "title": "Bitcoin rebounds to near $70k on Trump comments, falling yields",
+      "title": "Vistin Pharma Q2 2026 slides: volume gains offset by currency headwinds",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.857,
+      "currencies": []
+    },
+    {
+      "title": "Kid ASA Q2 2026 slides: online sales surge 43%, margins hit 63.2%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9394,
+      "currencies": []
+    },
+    {
+      "title": "Fasadgruppen Q2 2026 slides: stabilization emerges despite margin pressure",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9476,
+      "currencies": []
+    },
+    {
+      "title": "Gerdes Energy downgrades Equinor stock rating on valuation",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.939,
+      "score": -0.7431,
       "currencies": []
     }
   ],

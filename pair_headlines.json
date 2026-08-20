@@ -3,56 +3,24 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "USD/MXN Forecast: Mexican Peso Reaches Levels Not Seen Since 2024 - forex.com",
+        "title": "USD/MXN Forecast: Mexican Peso Reaches Levels Not Seen Since 2024 - FOREX.com",
         "source": "Google News",
         "label": "bullish",
         "score": 0.5384
       },
       {
-        "title": "PBOC sets USD/ CNY mid-point today at 6.7808 (vs. estimate at 6.7196)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Silver Price Forecasts: XAG/USD stands tall near $67 supported by US Treasury\u2019s buybacks",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.941
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Gains traction above 185.00, bullish signals keep uptrend intact",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9152
-      },
-      {
-        "title": "Gold sticks to losses below $4,500 as USD firms on hawkish FOMC minutes and Iran risks",
+        "title": "Gold remains depressed below $4,500 amid hawkish Fed; weak USD sentiment limits losses",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.8797
+        "score": -0.9662
       }
     ],
     "GBP/USD": [
       {
-        "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - dailyforex.com",
+        "title": "GBP/USD Forecast 20/08: Bullish Breakout 1.3658 in Focus - Daily Forex",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "GBP/USD Price Forecast: Strengthens above 1.3600 as bullish trend holds above 100-day SMA",
-        "source": "FXStreet",
         "label": "bullish",
-        "score": 0.9149
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/JPY Price Forecast: Gains traction above 185.00, bullish signals keep uptrend intact",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9152
+        "score": 0.4795
       }
     ]
   }
