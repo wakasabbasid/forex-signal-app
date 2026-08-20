@@ -1,149 +1,143 @@
 {
   "headlines": [
     {
-      "title": "Finance leaders deal with foreign currency payroll impacts - CFO Brew",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "GBP/USD Signal 20/08: Golden Cross, Inverted H/S - Daily Forex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9097,
-      "currencies": []
-    },
-    {
-      "title": "Brazilian currency likely to face less turbulent election - Valor International",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Best Multicurrency Bank Accounts For 2026 - Forbes",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Focus - tastylive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Euro Holds Near Multi-Month Highs as Fed, Iran Weigh Dollar - TradingPedia",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.47,
-      "currencies": []
-    },
-    {
-      "title": "FCNR dollar hoard could turn into refinancing test for banks when deposits mature - bfsi.economictimes.indiatimes.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "British Pound Rises as US Treasury Buyback Pressures Dollar - CryptoRank",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6163,
-      "currencies": []
-    },
-    {
-      "title": "Brazil launches AI supercomputer push, splits projects between Chinese, US firms",
+      "title": "MGE Energy director Berbee buys $21,248 in common stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Flux Power posts q4 2026 revenue miss, shares swing lower",
+      "title": "Clipper Realty director Sam Levinson buys $310,591 in common stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "DST Global Advisors sells $156.9 million in Chime Financial stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Stark Novus financial director Alexandre Zyngier buys $21,219 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Expedia group SVP & chief accounting officer sells $909,456 in common stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: eXoZymes posts q2 2026 loss as launch plans advance",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9503,
+      "score": -0.961,
       "currencies": []
     },
     {
-      "title": "Route1 at Emerging Growth Conference: shifts to outcome-driven growth",
+      "title": "Parker Hannifin declares $2.00 quarterly dividend",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: POSaBIT posts stronger margins in Q2 2026",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9573,
-      "currencies": []
-    },
-    {
-      "title": "Trading Day: Can\u2019t get no relief",
+      "title": "Mariana, 18 more Brazil cities join Vale-BHP dam collapse compensation deal",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Delta, Aeromexico win court battle to keep joint venture",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.658,
-      "currencies": []
-    },
-    {
-      "title": "Real Brokerage announces RE/MAX merger consideration results",
+      "title": "Medical properties trust senior VP, controller & CAO buys $9,545 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Simmons First declares $0.215 quarterly dividend, up 1%",
+      "title": "Ichor Holdings director Iain MacKenzie sells $653,176 in shares",
       "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Citi says debasement trade needs new outlet, pointing markets back to gold",
+      "source": "ForexLive",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "South Korea producer prices fall for first time in 11 months on cheaper oil that month",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.9695,
+      "currencies": []
+    },
+    {
+      "title": "Fed's Daly, Musalem united on credibility concerns as bond selloff persists, but split on policy",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.5093,
+      "currencies": []
+    },
+    {
+      "title": "Preview: Japan core CPI seen hitting six month high, lifting bets on BoJ September hike",
+      "source": "ForexLive",
       "label": "bullish",
-      "score": 0.9172,
+      "score": 0.9101,
+      "currencies": []
+    },
+    {
+      "title": "Wall Street slides as Treasury yields, Walmart miss, and ongoing war hit stocks",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.9609,
+      "currencies": []
+    },
+    {
+      "title": "Economic and event calendar in Asia Friday, August 21, 2026 - focus on Japanese inflation data",
+      "source": "ForexLive",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "investingLive Americas news wrap: Bessent doubles down on buyback plan",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.9416,
+      "currencies": []
+    },
+    {
+      "title": "US Treasury auctions off $9 billion of 30-year TIPS at 2.973% vs 2.991% WI",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.7823,
+      "currencies": []
+    },
+    {
+      "title": "Fed's Musalem says hiking rates now could save more aggressive action later",
+      "source": "ForexLive",
+      "label": "bullish",
+      "score": 0.6669,
+      "currencies": []
+    },
+    {
+      "title": "US Treasury Secretary Bessent says the long-dated bond buyback could be more than 4 billion",
+      "source": "ForexLive",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
