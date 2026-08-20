@@ -49,17 +49,17 @@
       "currencies": []
     },
     {
-      "title": "Forex Focus - tastylive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
       "source": "Google News",
       "label": "bullish",
       "score": 0.9097,
+      "currencies": []
+    },
+    {
+      "title": "Forex Focus - tastylive",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -70,13 +70,6 @@
       "currencies": []
     },
     {
-      "title": "Euro Holds Near Multi-Month Highs as Fed, Iran Weigh Dollar - TradingPedia",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.47,
-      "currencies": []
-    },
-    {
       "title": "Brazilian currency likely to face less turbulent election - Valor International",
       "source": "Google News",
       "label": "neutral",
@@ -84,68 +77,75 @@
       "currencies": []
     },
     {
-      "title": "FCNR dollar hoard could turn into refinancing test for banks when deposits mature - Economic Times BFSI",
+      "title": "Euro Holds Near Multi-Month Highs as Fed, Iran Weigh Dollar - TradingPedia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.47,
+      "currencies": []
+    },
+    {
+      "title": "FCNR dollar hoard could turn into refinancing test for banks when deposits mature - bfsi.economictimes.indiatimes.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "abrdn European Logistics Income approves \u20ac31.7m capital return",
+      "title": "European shares drop for 7th session as hawkish central banks counter bond rebound",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7956,
+      "label": "bearish",
+      "score": -0.9317,
       "currencies": []
     },
     {
-      "title": "Waters Corporation stock hits 52-week high at 420.3 USD",
+      "title": "Nacco Industries declares quarterly dividend of $0.2625",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Deutsche Bank sees mixed impact from potential US-Canada tariff cut",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5952,
+      "score": 0.7021,
+      "currencies": []
+    },
+    {
+      "title": "Hovnanian Q3 2026 slides: margins recover, profit miss sparks selloff",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7189,
+      "currencies": []
+    },
+    {
+      "title": "Conocophillips stock hits 52-week high at 135.87 USD",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5708,
       "currencies": [
         "USD"
       ]
     },
     {
-      "title": "Crypto shares climb after Trump advocates for Clarity Act",
+      "title": "Hovnanian Enterprises earnings missed by $0.14, revenue fell short of estimates",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6148,
+      "score": -0.9716,
       "currencies": []
     },
     {
-      "title": "Sosandar posts annual report, schedules September AGM",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Bessent says may raise bond buyback beyond $4 billion",
+      "title": "U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 0.02%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9338,
+      "score": 0.9194,
       "currencies": []
     },
     {
-      "title": "Neoterra extends warrant exercise deadline to October 9",
+      "title": "Spain stocks lower at close of trade; IBEX 35 down 0.15%",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Bessent to host press conference on Iran pressure plan on Monday",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Deere beats Q3 2026 estimates, raises outlook",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7107,
+      "label": "bearish",
+      "score": -0.9695,
       "currencies": []
     }
   ],

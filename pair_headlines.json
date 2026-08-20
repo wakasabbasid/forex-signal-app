@@ -37,10 +37,18 @@
     ],
     "USD/JPY": [
       {
-        "title": "Waters Corporation stock hits 52-week high at 420.3 USD",
+        "title": "Conocophillips stock hits 52-week high at 135.87 USD",
         "source": "Investing.com",
         "label": "bullish",
-        "score": 0.5952
+        "score": 0.5708
+      }
+    ],
+    "USD/CHF": [
+      {
+        "title": "USD/CHF Price Forecast: Attempts to reclaim 0.8000 after defending the 100-day SMA",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8922
       }
     ]
   }
