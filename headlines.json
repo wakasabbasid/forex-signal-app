@@ -35,17 +35,17 @@
       ]
     },
     {
-      "title": "British Pound Rises as US Treasury Buyback Pressures Dollar - CryptoRank",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6163,
-      "currencies": []
-    },
-    {
       "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "British Pound Rises as US Treasury Buyback Pressures Dollar - CryptoRank",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6163,
       "currencies": []
     },
     {
@@ -63,17 +63,17 @@
       "currencies": []
     },
     {
-      "title": "Euro Holds Near Multi-Month Highs as Fed, Iran Weigh Dollar - TradingPedia",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.47,
-      "currencies": []
-    },
-    {
       "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
       "source": "Google News",
       "label": "bullish",
       "score": 0.9097,
+      "currencies": []
+    },
+    {
+      "title": "Euro Holds Near Multi-Month Highs as Fed, Iran Weigh Dollar - TradingPedia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.47,
       "currencies": []
     },
     {
@@ -91,59 +91,59 @@
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Photon Energy narrows loss in q2 2026 as turnaround gains pace",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8965,
-      "currencies": []
-    },
-    {
-      "title": "Ridgeview-backed bidco sees support drop in Pinewood.AI deal",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9688,
-      "currencies": []
-    },
-    {
-      "title": "Smart Sand EVP Young sells $136,841 in shares",
+      "title": "Mizuho reiterates Cerebras Systems stock rating after product event",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Tanker reports approach by unauthorised vessel off Yemen coast",
+      "title": "Mizuho cuts Lowe\u2019s stock price target on flat comps, softer outlook",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9032,
+      "score": -0.8591,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: J&T Express H1 2026 profit surges as non-China revenue hits 50%",
+      "title": "Earnings call transcript: KGHM posts strong H1 2026 growth, but EPS misses",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9399,
+      "score": 0.8311,
       "currencies": []
     },
     {
-      "title": "European shares languish at Aug lows as hawkish central banks counter bond rebound",
+      "title": "Mizuho raises Target stock price target to $150 on Q2 strength",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8436,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Moderna stock pulls back after massive one-day rally: analysts weigh in",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8352,
-      "currencies": []
-    },
-    {
-      "title": "Platform Group H1 2026 slides: 23% revenue growth, AI-first strategy",
+      "title": "Bitcoin, crypto shares climb after Trump pushes Clarity Act",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6808,
+      "score": 0.3586,
+      "currencies": []
+    },
+    {
+      "title": "Morgan Stanley is out with its gold price outlook for 2027",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7131,
+      "currencies": []
+    },
+    {
+      "title": "Meta becomes major AI customer of Microsoft\u2019s Azure cloud - report",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Oppenheimer reiterates Outperform on Salesforce stock ahead of earnings",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9022,
       "currencies": []
     }
   ],

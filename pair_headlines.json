@@ -22,6 +22,14 @@
         "label": "bullish",
         "score": 0.9425
       }
+    ],
+    "USD/JPY": [
+      {
+        "title": "Gold Price Forecast: XAU/USD corrects below $4,500 as Yields recover some losses",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.7096
+      }
     ]
   }
 }
