@@ -15,33 +15,27 @@
         "score": 0.0
       },
       {
-        "title": "Euro consolidates near late May highs as USD draws support from hawkish Fed, Iran risks",
+        "title": "Silver Price Forecasts: XAG/USD stands tall near $67 supported by US Treasury\u2019s buybacks",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.5738
+        "score": 0.941
       },
       {
-        "title": "Silver Price Forecast: XAG/USD refreshes two-month high as US doubles bond buyback plan",
+        "title": "EUR/JPY Price Forecast: Gains traction above 185.00, bullish signals keep uptrend intact",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.9367
+        "score": 0.9152
       },
       {
-        "title": "Gold retreats from June highs as hawkish FOMC minutes and US-Iran tensions support USD",
+        "title": "Gold sticks to losses below $4,500 as USD firms on hawkish FOMC minutes and Iran risks",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9422
+        "score": -0.8797
       }
     ],
     "GBP/USD": [
       {
-        "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - Daily Forex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - City Index UK",
+        "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - dailyforex.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -51,6 +45,14 @@
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.9149
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/JPY Price Forecast: Gains traction above 185.00, bullish signals keep uptrend intact",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9152
       }
     ]
   }

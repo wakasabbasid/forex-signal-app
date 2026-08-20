@@ -1,14 +1,14 @@
 {
   "headlines": [
     {
-      "title": "Finance leaders deal with foreign currency payroll impacts - cfobrew.com",
+      "title": "Finance leaders deal with foreign currency payroll impacts - CFO Brew",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg",
+      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -31,6 +31,13 @@
       "currencies": []
     },
     {
+      "title": "British Pound Rises as US Treasury Buyback Pressures Dollar - CryptoRank",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6163,
+      "currencies": []
+    },
+    {
       "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
       "source": "Google News",
       "label": "neutral",
@@ -38,14 +45,18 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - Daily Forex",
+      "title": "FCNR dollar hoard could turn into refinancing test for banks when deposits mature - bfsi.economictimes.indiatimes.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
+      "currencies": []
+    },
+    {
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
@@ -53,6 +64,16 @@
       "label": "bullish",
       "score": 0.9097,
       "currencies": []
+    },
+    {
+      "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - dailyforex.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
     },
     {
       "title": "Brazilian currency likely to face less turbulent election - Valor International",
@@ -69,83 +90,59 @@
       "currencies": []
     },
     {
-      "title": "Rates Spark: The Treasury\u2019s plan for the back end - Forex Factory",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - City Index UK",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "NFON cuts 2026 outlook as H1 revenue and EBITDA decline",
+      "title": "Dollar holds sharp losses near 3-mth low as bond selloff cools",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9654,
+      "score": -0.81,
       "currencies": []
     },
     {
-      "title": "Kinepolis reports record H1 revenue on cinema acquisitions",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9434,
-      "currencies": []
-    },
-    {
-      "title": "China\u2019s Shanghai eases housing policies to spur demand",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5342,
-      "currencies": []
-    },
-    {
-      "title": "Why is Samsung Electronics stock surging today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "SK Hynix, Samsung shares surge on shareholder-return optimism",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8898,
-      "currencies": []
-    },
-    {
-      "title": "Oil gains on Middle East supply concerns amid impasse in US-Iran war",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8094,
-      "currencies": []
-    },
-    {
-      "title": "China sentences Evergrande founder to life in prison- Xinhua",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Treasury\u2019s upsized buybacks may complicate Fed\u2019s monetary policy work",
+      "title": "JTC PLC shares temporarily suspended from trading",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8827,
+      "score": -0.8162,
+      "currencies": []
+    },
+    {
+      "title": "Fair Oaks Income declares 10 cent dividend for second quarter",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Global wheat buyers brace for supply squeeze amid Black Sea attacks",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9137,
+      "currencies": []
+    },
+    {
+      "title": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.33%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9383,
+      "currencies": []
+    },
+    {
+      "title": "Venture Life extends share buyback programme through September",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Norse Atlantic posts weak Q2 2026 results as stock stays near low",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9757,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin rebounds to near $70k on Trump comments, falling yields",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.939,
       "currencies": []
     }
   ],
