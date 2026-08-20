@@ -38,13 +38,6 @@
       "currencies": []
     },
     {
-      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9097,
-      "currencies": []
-    },
-    {
       "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - Daily Forex",
       "source": "Google News",
       "label": "neutral",
@@ -55,10 +48,10 @@
       ]
     },
     {
-      "title": "Peso nears 62:$1 mark, hits new record low - Inquirer.net",
+      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.4824,
+      "label": "bullish",
+      "score": 0.9097,
       "currencies": []
     },
     {
@@ -66,6 +59,13 @@
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Peso nears 62:$1 mark, hits new record low - Inquirer.net",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.4824,
       "currencies": []
     },
     {
@@ -93,59 +93,59 @@
       "currencies": []
     },
     {
-      "title": "Asian stocks rebound as Treasury buybacks revive risk appetite; KOSPI surges",
+      "title": "NFON cuts 2026 outlook as H1 revenue and EBITDA decline",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9654,
+      "currencies": []
+    },
+    {
+      "title": "Kinepolis reports record H1 revenue on cinema acquisitions",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9065,
+      "score": 0.9434,
       "currencies": []
     },
     {
-      "title": "Ares Management considers stake in Indian cricket team Kolkata Knight Riders- Moneycontrol",
+      "title": "China\u2019s Shanghai eases housing policies to spur demand",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5342,
+      "currencies": []
+    },
+    {
+      "title": "Why is Samsung Electronics stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Heartflow CMO Campbell Rogers sells $380k in shares",
+      "title": "SK Hynix, Samsung shares surge on shareholder-return optimism",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8898,
+      "currencies": []
+    },
+    {
+      "title": "Oil gains on Middle East supply concerns amid impasse in US-Iran war",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8094,
+      "currencies": []
+    },
+    {
+      "title": "China sentences Evergrande founder to life in prison- Xinhua",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is Pony AI stock rising today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Asia FX steadies after sharp gains, dollar near 3-mth low as bond selloff cools",
+      "title": "Treasury\u2019s upsized buybacks may complicate Fed\u2019s monetary policy work",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.833,
-      "currencies": []
-    },
-    {
-      "title": "AI Financial earnings missed by $1.52, revenue fell short of estimates",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9701,
-      "currencies": []
-    },
-    {
-      "title": "Dollar at three-month lows as Treasury seeks to rein in surging bond yields",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8981,
-      "currencies": []
-    },
-    {
-      "title": "Why is Sakura Internet stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8689,
+      "score": -0.8827,
       "currencies": []
     }
   ],
