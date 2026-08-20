@@ -7,6 +7,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "EUR/GBP eases from intraday highs as traders eye dual flash PMIs",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.5169
       }
     ],
     "EUR/USD": [
@@ -21,14 +27,20 @@
         "source": "ForexLive",
         "label": "bullish",
         "score": 0.9425
+      },
+      {
+        "title": "EUR/GBP eases from intraday highs as traders eye dual flash PMIs",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.5169
       }
     ],
     "USD/JPY": [
       {
-        "title": "National Presto Industries stock hits all-time high at 149.88 USD",
+        "title": "Waters Corporation stock hits 52-week high at 420.3 USD",
         "source": "Investing.com",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bullish",
+        "score": 0.5952
       }
     ]
   }

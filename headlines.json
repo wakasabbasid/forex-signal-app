@@ -56,17 +56,17 @@
       "currencies": []
     },
     {
-      "title": "British Pound Rises as US Treasury Buyback Pressures Dollar - CryptoRank",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6163,
-      "currencies": []
-    },
-    {
       "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
       "source": "Google News",
       "label": "bullish",
       "score": 0.9097,
+      "currencies": []
+    },
+    {
+      "title": "British Pound Rises as US Treasury Buyback Pressures Dollar - CryptoRank",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6163,
       "currencies": []
     },
     {
@@ -77,13 +77,6 @@
       "currencies": []
     },
     {
-      "title": "FCNR dollar hoard could turn into refinancing test for banks when deposits mature - Economic Times BFSI",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Brazilian currency likely to face less turbulent election - Valor International",
       "source": "Google News",
       "label": "neutral",
@@ -91,59 +84,68 @@
       "currencies": []
     },
     {
-      "title": "SpaceX, Moderna among market cap stock movers on Thursday",
+      "title": "FCNR dollar hoard could turn into refinancing test for banks when deposits mature - Economic Times BFSI",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "abrdn European Logistics Income approves \u20ac31.7m capital return",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.537,
+      "score": 0.7956,
       "currencies": []
     },
     {
-      "title": "Alibaba Q2 2026 slides: AI surge drives revenue up 9%, profit down 75%",
+      "title": "Waters Corporation stock hits 52-week high at 420.3 USD",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5952,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Crypto shares climb after Trump advocates for Clarity Act",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8235,
+      "score": -0.6148,
       "currencies": []
     },
     {
-      "title": "Twin Disc Q4 FY2026 slides: record revenue, margin headwinds",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9561,
-      "currencies": []
-    },
-    {
-      "title": "Why is Riot Platforms stock rallying today?",
+      "title": "Sosandar posts annual report, schedules September AGM",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Tonies H1 2026 slides: 41% revenue growth, margin pressure weighs",
+      "title": "Bessent says may raise bond buyback beyond $4 billion",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6471,
+      "label": "bullish",
+      "score": 0.9338,
       "currencies": []
     },
     {
-      "title": "Quanome Technologies establishes quantum advisory council",
+      "title": "Neoterra extends warrant exercise deadline to October 9",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Waymo builds custom chip for robotaxis to boost performance",
+      "title": "Bessent to host press conference on Iran pressure plan on Monday",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.761,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Natural gas storage rises slightly above forecast, impacts market dynamics",
+      "title": "Earnings call transcript: Deere beats Q3 2026 estimates, raises outlook",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9285,
+      "score": 0.7107,
       "currencies": []
     }
   ],
