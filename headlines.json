@@ -63,17 +63,17 @@
       "currencies": []
     },
     {
-      "title": "British Pound Rises as US Treasury Buyback Pressures Dollar - CryptoRank",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6163,
-      "currencies": []
-    },
-    {
       "title": "Brazilian currency likely to face less turbulent election - Valor International",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "British Pound Rises as US Treasury Buyback Pressures Dollar - CryptoRank",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6163,
       "currencies": []
     },
     {
@@ -84,66 +84,66 @@
       "currencies": []
     },
     {
-      "title": "FCNR dollar hoard could turn into refinancing test for banks when deposits mature - bfsi.economictimes.indiatimes.com",
+      "title": "Best Multicurrency Bank Accounts For 2026 - Forbes",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US Treasury buyback briefly eases bond rout, but debt worries persist",
+      "title": "Powerus secures $22.3M Middle East counter-drone contract",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.942,
+      "currencies": []
+    },
+    {
+      "title": "Silver surges to $68.30 near upper Bollinger Band: Live levels",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5475,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin RSI hits 91.85 after $72,914 surge: Hourly levels",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Natural Gas stuck at $2.76 in tight range: Hourly levels",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8602,
+      "score": -0.8812,
       "currencies": []
     },
     {
-      "title": "Oil hits more than three-week high as Trump threatens Iran-related retaliation",
+      "title": "Dow Jones breaks 200 SMA support: Live levels",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Alphabet C tests Fibonacci support at $338: Hourly levels",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5567,
+      "score": 0.5704,
       "currencies": []
     },
     {
-      "title": "C&F financial executive chairman Dillon disposes of $86,000 in shares",
+      "title": "Tesla stalls below $350-$355 resistance: Live levels",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Google bundles Antigravity coding agents into Gemini Enterprise",
+      "title": "Nasdaq 100 oversold at 29,292 below SMA(200): Live levels",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Anthropic wants to match or beat SpaceX\u2019s record IPO size - report",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8599,
-      "currencies": []
-    },
-    {
-      "title": "Google adds personalization to Search and News",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "SpaceX secures over $8 billion in Golden Dome contracts",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Google\u2019s Gemma AI models surpass one billion downloads",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.8634,
       "currencies": []
     }
   ],
