@@ -3,7 +3,7 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "USD/MXN Forecast: Mexican Peso Reaches Levels Not Seen Since 2024 - FOREX.com",
+        "title": "USD/MXN Forecast: Mexican Peso Reaches Levels Not Seen Since 2024 - forex.com",
         "source": "Google News",
         "label": "bullish",
         "score": 0.5384
@@ -21,22 +21,22 @@
         "score": 0.0
       },
       {
+        "title": "Silver Price Forecast: XAG/USD refreshes two-month high as US doubles bond buyback plan",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9367
+      },
+      {
+        "title": "Gold retreats from June highs as hawkish FOMC minutes and US-Iran tensions support USD",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9422
+      },
+      {
         "title": "Australian Dollar reacts little to dismal jobs data; holds above weekly low vs weaker JPY",
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.682
-      },
-      {
-        "title": "British Pound edges lower as USD steadies above three-month low; downside seems limited",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8835
-      },
-      {
-        "title": "PBOC sets USD/CNY reference rate at 6.7808 vs. 6.7854 previous",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
       }
     ],
     "GBP/USD": [

@@ -1,21 +1,21 @@
 {
   "headlines": [
     {
-      "title": "Finance leaders deal with foreign currency payroll impacts - CFO Brew",
+      "title": "Finance leaders deal with foreign currency payroll impacts - cfobrew.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg.com",
+      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "USD/MXN Forecast: Mexican Peso Reaches Levels Not Seen Since 2024 - FOREX.com",
+      "title": "USD/MXN Forecast: Mexican Peso Reaches Levels Not Seen Since 2024 - forex.com",
       "source": "Google News",
       "label": "bullish",
       "score": 0.5384,
@@ -32,13 +32,6 @@
     },
     {
       "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -62,10 +55,10 @@
       ]
     },
     {
-      "title": "Peso nears 62:$1 mark, hits new record low - business.inquirer.net",
+      "title": "Peso nears 62:$1 mark, hits new record low - Inquirer.net",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.6719,
+      "score": -0.4824,
       "currencies": []
     },
     {
@@ -93,59 +86,66 @@
       ]
     },
     {
-      "title": "Pinterest director Benjamin Silbermann sells $2.18m in stock",
-      "source": "Investing.com",
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Camp4 Therapeutics CSO Daniel Tardiff sells $8,272 in common stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Monolithic Power Systems interim CFO sells $8,481 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is Ubtech Robotics stock falling today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.919,
-      "currencies": []
-    },
-    {
-      "title": "Nebius prices $5 billion convertible notes offering",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Vivmark Residential director Howard sells $543,104 in company shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Vivmark Residential director Susan Swanezy sells $1 million in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Eureka FY26 slides: rental growth drives 29% EBITDA gain",
+      "title": "Asian stocks rebound as Treasury buybacks revive risk appetite; KOSPI surges",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.937,
+      "score": 0.9065,
+      "currencies": []
+    },
+    {
+      "title": "Ares Management considers stake in Indian cricket team Kolkata Knight Riders- Moneycontrol",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Heartflow CMO Campbell Rogers sells $380k in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why is Pony AI stock rising today?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Asia FX steadies after sharp gains, dollar near 3-mth low as bond selloff cools",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.833,
+      "currencies": []
+    },
+    {
+      "title": "AI Financial earnings missed by $1.52, revenue fell short of estimates",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9701,
+      "currencies": []
+    },
+    {
+      "title": "Dollar at three-month lows as Treasury seeks to rein in surging bond yields",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8981,
+      "currencies": []
+    },
+    {
+      "title": "Why is Sakura Internet stock sliding today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8689,
       "currencies": []
     }
   ],
