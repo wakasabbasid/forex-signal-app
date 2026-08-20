@@ -8,6 +8,13 @@
       "currencies": []
     },
     {
+      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "GBP/USD Signal 20/08: Golden Cross, Inverted H/S - Daily Forex",
       "source": "Google News",
       "label": "neutral",
@@ -18,7 +25,7 @@
       ]
     },
     {
-      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg.com",
+      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -33,13 +40,6 @@
         "EUR",
         "USD"
       ]
-    },
-    {
-      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
     },
     {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
@@ -91,61 +91,59 @@
       "currencies": []
     },
     {
-      "title": "European shares drop for 7th session as hawkish central banks counter bond rebound",
+      "title": "Treasury doubles bond buyback program to $4 billion",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9317,
+      "label": "bullish",
+      "score": 0.7956,
       "currencies": []
     },
     {
-      "title": "Nacco Industries declares quarterly dividend of $0.2625",
+      "title": "US Treasury buyback briefly eases bond rout, but debt worries persist",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8602,
+      "currencies": []
+    },
+    {
+      "title": "North Dakota oilfield activity to increase on higher prices",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9494,
+      "currencies": []
+    },
+    {
+      "title": "Nvidia plans China AI return with new specialized chip, report says",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Deutsche Bank sees mixed impact from potential US-Canada tariff cut",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7021,
-      "currencies": []
-    },
-    {
-      "title": "Hovnanian Q3 2026 slides: margins recover, profit miss sparks selloff",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7189,
-      "currencies": []
-    },
-    {
-      "title": "Conocophillips stock hits 52-week high at 135.87 USD",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5708,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Hovnanian Enterprises earnings missed by $0.14, revenue fell short of estimates",
+      "title": "Why is Moderna stock plummeting today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9716,
+      "score": -0.8504,
       "currencies": []
     },
     {
-      "title": "U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 0.02%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9194,
-      "currencies": []
-    },
-    {
-      "title": "Spain stocks lower at close of trade; IBEX 35 down 0.15%",
+      "title": "US Justice Department opposes immediate hearing in Disney ABC license lawsuit",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9695,
+      "score": -0.7962,
+      "currencies": []
+    },
+    {
+      "title": "ESS Tech raises $3.2M in registered direct offering",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7433,
+      "currencies": []
+    },
+    {
+      "title": "Voss Capital sells $1.9m in Flywire stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
