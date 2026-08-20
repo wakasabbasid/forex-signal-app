@@ -32,13 +32,6 @@
       "currencies": []
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -56,14 +49,14 @@
       "currencies": []
     },
     {
-      "title": "Forex Focus - tastylive",
+      "title": "Brazilian currency likely to face less turbulent election - Valor International",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Brazilian currency likely to face less turbulent election - Valor International",
+      "title": "Forex Focus - tastylive",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -91,59 +84,66 @@
       "currencies": []
     },
     {
-      "title": "Powerus secures $22.3M Middle East counter-drone contract",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.942,
-      "currencies": []
-    },
-    {
-      "title": "Silver surges to $68.30 near upper Bollinger Band: Live levels",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5475,
-      "currencies": []
-    },
-    {
-      "title": "Bitcoin RSI hits 91.85 after $72,914 surge: Hourly levels",
-      "source": "Investing.com",
+      "title": "FCNR dollar hoard could turn into refinancing test for banks when deposits mature - bfsi.economictimes.indiatimes.com",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Natural Gas stuck at $2.76 in tight range: Hourly levels",
+      "title": "VirTra wins $1.5M U.S. Army contract for training system",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9341,
+      "currencies": []
+    },
+    {
+      "title": "RedCloud receives Nasdaq delisting warning over market value",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8812,
+      "score": -0.9283,
       "currencies": []
     },
     {
-      "title": "Dow Jones breaks 200 SMA support: Live levels",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Alphabet C tests Fibonacci support at $338: Hourly levels",
+      "title": "Ross Stores earnings beat by $0.72, revenue topped estimates",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5704,
+      "score": 0.9374,
       "currencies": []
     },
     {
-      "title": "Tesla stalls below $350-$355 resistance: Live levels",
+      "title": "Anthropologie signs lease at St. Joe\u2019s Watersound Town Center",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Nasdaq 100 oversold at 29,292 below SMA(200): Live levels",
+      "title": "iSpecimen completes cancer research project in three weeks",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8634,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "OSI Systems expands stock buyback by 1 million shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "LCNB Corp. declares $0.22 quarterly dividend",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Andersons declares $0.20 quarterly dividend for Q4 2026",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
