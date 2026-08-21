@@ -23,24 +23,16 @@
         "score": 0.609
       },
       {
-        "title": "Canadian Dollar stands firm near three-month high vs weak USD ahead of data",
+        "title": "Gold rallies to its highest level since late May, eyes $4,600 on weak USD ahead of US PMIs",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.9072
+        "score": 0.6481
       },
       {
-        "title": "Gold climbs beyond $4,550, fresh high since June as USD stays weak and Fed hike bets fade",
+        "title": "Japanese Yen sticks to gains amid hawkish BoJ bets as USD stays weak on Fed expectations",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.834
-      }
-    ],
-    "USD/CHF": [
-      {
-        "title": "USD/CHF bears stir as franc haven demand returns - City Index UK",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.5012
+        "score": 0.5312
       }
     ]
   }

@@ -39,15 +39,6 @@
       ]
     },
     {
-      "title": "RBI seen selling dollars to support rupee as USD/INR holds steady - investingLive",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.609,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -60,6 +51,15 @@
       "label": "neutral",
       "score": 0.0,
       "currencies": []
+    },
+    {
+      "title": "RBI seen selling dollars to support rupee as USD/INR holds steady - investingLive",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.609,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - DailyForex",
@@ -86,69 +86,66 @@
       "currencies": []
     },
     {
-      "title": "USD/CHF bears stir as franc haven demand returns - City Index UK",
+      "title": "Best Multicurrency Bank Accounts For 2026 - Forbes",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.5012,
-      "currencies": [
-        "USD",
-        "CHF"
-      ]
-    },
-    {
-      "title": "Earnings call transcript: HydrogenPro posts wider q2 2026 loss as stock falls",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9731,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "UK service sector perks up in August, adding to resilience signs",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9497,
-      "currencies": []
-    },
-    {
-      "title": "Why is Ross Stores stock surging today?",
+      "title": "Why is Stoke Therapeutics stock gaining today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "UK posts unexpected budget deficit in July as spending rises",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9677,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Arenit posts strong H1 2026 growth as shares slip",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9532,
-      "currencies": []
-    },
-    {
-      "title": "European shares climb on gold boost; weekly decline still in sight",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8361,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Ascelia Pharma narrows Q2 loss as FDA setback weighs on shares",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9572,
-      "currencies": []
-    },
-    {
-      "title": "Why is Dino Polska stock surging today?",
+      "title": "iShares U.S. Equity High Income Active ETF shifts to monthly payouts",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Synsam Q2 2026 slides: organic growth accelerates to 9.8%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9474,
+      "currencies": []
+    },
+    {
+      "title": "Synsam Q2 2026 slides: Nordic growth accelerates, shares rise 6%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9476,
+      "currencies": []
+    },
+    {
+      "title": "Gold floats above $4,500 as weaker dollar, U.S. Treasury moves support rally",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.688,
+      "currencies": []
+    },
+    {
+      "title": "Airbus backs down on return-to-office after protests, sources say",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9519,
+      "currencies": []
+    },
+    {
+      "title": "Siegfried H1 2026 slides: margins expand, US acquisition on track",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9368,
+      "currencies": []
+    },
+    {
+      "title": "Sterling today: Pound steady as Treasury buyback keeps dollar soft",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8221,
       "currencies": []
     }
   ],
