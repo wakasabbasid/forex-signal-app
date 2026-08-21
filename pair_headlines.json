@@ -1,20 +1,42 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/JPY": [
+    "USD/CHF": [
       {
-        "title": "Agilent Technologies stock hits 52-week high at 160.36 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.6657
+        "title": "USD/CHF bears stir as franc haven demand returns - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "EUR/USD": [
+      {
+        "title": "EUR/USD forecast: Forex Friday, August 21, 2026 - City Index UK",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
       {
         "title": "EUR/USD Price Forecast: Bulls test 1.1700 as RSI turns overbought",
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.6179
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "USD/JPY": [
+      {
+        "title": "Geo Group Inc stock hits 52-week high at 32.64 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.5736
       }
     ]
   }

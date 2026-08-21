@@ -1,145 +1,154 @@
 {
   "headlines": [
     {
-      "title": "US service sector fuels acceleration in business activity, S&P Global says",
-      "source": "Investing.com",
+      "title": "India's forex pile rises to six-month peak on sustained capital inflows - Reuters",
+      "source": "Google News",
       "label": "bullish",
-      "score": 0.9434,
+      "score": 0.8974,
       "currencies": []
     },
     {
-      "title": "German state politician calls for EU tariffs on Chinese hybrid cars, letter shows",
-      "source": "Investing.com",
+      "title": "USD/CHF bears stir as franc haven demand returns - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "CHF"
+      ]
+    },
+    {
+      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg.com",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US shoppers tighten budgets, but still find room for treats and splurges",
+      "title": "Dollar near three-month low on Treasury buyback worries - CNBC",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8254,
+      "currencies": []
+    },
+    {
+      "title": "The Dollar: from Debt Crisis to Currency Crisis - Action Forex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Focus - tastylive",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Emerging market currencies hit new highs amid dollar weakness - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "EUR/USD forecast: Forex Friday, August 21, 2026 - City Index UK",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
+      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Best Multicurrency Bank Accounts For 2026 - Forbes",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "India\u2019s forex reserves reach $716.9 billion, highest in six months - Investing.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7962,
+      "currencies": []
+    },
+    {
+      "title": "US health agencies report 55 cases of E. coli and salmonella infections tied to alfalfa sprouts",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8289,
+      "score": -0.9162,
       "currencies": []
     },
     {
-      "title": "Warrior Met Coal CAO Brian Chopin sells $336k in common stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Ken Griffin\u2019s Citadel sheds over 80% of Situational Awareness\u2019 bets",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8718,
-      "currencies": []
-    },
-    {
-      "title": "Raymond James sees token pricing gap widen in August 2026",
+      "title": "Geo Group Inc stock hits 52-week high at 32.64 USD",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8914,
-      "currencies": []
-    },
-    {
-      "title": "Peoples Bancorp of North Carolina declares $0.21 quarterly dividend",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Agilent Technologies stock hits 52-week high at 160.36 USD",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6657,
+      "score": 0.5736,
       "currencies": [
         "USD"
       ]
     },
     {
-      "title": "Canada\u2019s Big Six banks head into Q3 2026 earnings on four-quarter beat streaks",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.628,
-      "currencies": []
-    },
-    {
-      "title": "CrowdStrike vs. Palo Alto Networks: valuation, growth, and profitability compared",
+      "title": "Andersen stockholders complete $216.8m secondary offering",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "AUDUSD is the biggest mover today and trades at highest level since early June",
-      "source": "ForexLive",
-      "label": "bullish",
-      "score": 0.7647,
+      "title": "Apple reportedly cuts jobs in Siri and Vision Pro teams amid AI shift",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9716,
       "currencies": []
     },
     {
-      "title": "Baker Hughes rig count -5 at 588",
-      "source": "ForexLive",
+      "title": "Top weekly stock gainers led by ZSTK\u2019s 203.6% surge",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9282,
+      "currencies": []
+    },
+    {
+      "title": "Mizuho raises Viking Holdings stock price target on quality outlook",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "European stocks rebound Friday, but weekly losses dominate",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.9634,
-      "currencies": []
-    },
-    {
-      "title": "Brazil's Lula and US Pres. Trump held phone call on Friday.",
-      "source": "ForexLive",
+      "title": "BKV Corp CFO David Tameron sells $38,445 in common stock.",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Gold surges and breaks away from its 200 day MA",
-      "source": "ForexLive",
-      "label": "bullish",
-      "score": 0.5742,
-      "currencies": []
-    },
-    {
-      "title": "SNB Tschudin: Swiss inflation is low because of low inflation expectations",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.7188,
-      "currencies": []
-    },
-    {
-      "title": "Trump: Gets rid of 26.4% tariffs on imported beef and prices will come down by 25%",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.8746,
-      "currencies": []
-    },
-    {
-      "title": "EU consumer confidence -15.5 versus -16.3 expected",
-      "source": "ForexLive",
-      "label": "bullish",
-      "score": 0.5892,
-      "currencies": []
-    },
-    {
-      "title": "S&P Global manufacturing PMI flash estimate for August 53.2 versus 53.9 estimate",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.8801,
-      "currencies": []
-    },
-    {
-      "title": "The USDCHF breaks to the downside this week, taking the pair outside it's range. What next?",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.74,
+      "title": "BKV Corp senior VP Hinojosa sells $318,452 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
