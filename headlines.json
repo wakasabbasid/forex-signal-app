@@ -8,6 +8,13 @@
       "currencies": []
     },
     {
+      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "EUR/USD forecast: Forex Friday, August 21, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -16,13 +23,6 @@
         "EUR",
         "USD"
       ]
-    },
-    {
-      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
     },
     {
       "title": "The Dollar: from Debt Crisis to Currency Crisis - Action Forex",
@@ -93,59 +93,59 @@
       "currencies": []
     },
     {
-      "title": "Utorg launches Utapp crypto wallet and card for iOS users, expanding its consumer product ecosystem",
+      "title": "Exclusive-US plans $725 million payment towards its large UN debt",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7757,
+      "score": 0.8063,
       "currencies": []
     },
     {
-      "title": "Kayne Anderson director Carita Walker buys $49,985 KYN stock",
+      "title": "Lula, Trump discuss tariffs in phone call, Brazil says",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "BayCom director Robert Laverne buys $29,950 in company stock",
+      "title": "Wall Street rises as materials and crypto stocks offset continued bond sell-off",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6092,
+      "currencies": []
+    },
+    {
+      "title": "Medifast director Parsa Kiai acquires $842,698 in company shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Moody\u2019s changes ARKO outlook to stable on debt reduction",
+      "title": "Wabtec president Michael Fetsko sells $952,961 of WAB shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Top Business and Info Services Stocks, Deutsche Bank Says",
+      "title": "Vireo Growth completes acquisition of C21 Investments",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Galantas Gold schedules annual shareholder meeting for October",
+      "title": "Barclays increases stake in Central Asia Metals to 5.57%",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.7469,
       "currencies": []
     },
     {
-      "title": "Trump allows temporary tariff-free beef imports to cut prices",
+      "title": "Guggenheim fund shares hit 17-year low after short-seller report",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6931,
-      "currencies": []
-    },
-    {
-      "title": "Bristow Group COO Stuart Stavley sells $472k in common stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "score": -0.9417,
       "currencies": []
     }
   ],
