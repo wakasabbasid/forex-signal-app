@@ -15,15 +15,13 @@
         "score": 0.0
       }
     ],
-    "USD/CHF": [
+    "USD/JPY": [
       {
-        "title": "USD/CHF bears stir as franc haven demand returns - City Index UK",
+        "title": "RBI seen selling dollars to support rupee as USD/INR holds steady - investingLive",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.5012
-      }
-    ],
-    "USD/JPY": [
+        "score": 0.609
+      },
       {
         "title": "RBI seen selling dollars to support rupee as USD/INR holds steady",
         "source": "ForexLive",
@@ -31,68 +29,18 @@
         "score": 0.8437
       },
       {
-        "title": "USD slammed in Asia Friday: Bitcoin, gold, FX surge as investors hedge against US fiscal credibility concerns",
-        "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.4982
-      },
-      {
-        "title": "PBOC sets USD/ CNY reference rate for today at 6.7817 (vs. estimate at 6.7262)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "AUD/JPY Price Forecast: Strengthens above 113.50 as bullish momentum persists above 100-day SMA",
+        "title": "Gold hits fresh high since June, above $4,550 as receding Fed hike bets undermine USD",
         "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9297
-      },
-      {
-        "title": "Euro sits near multi-month top vs weak USD as bulls await move beyond 1.1700 ahead of PMIs",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.6016
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Rises to near 186.00 as bullish bias prevails",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9357
-      },
-      {
-        "title": "USD/JPY Price Forecast: 20-day EMA remains key hurdle",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.6329
-      },
-      {
-        "title": "Gold advances to fresh high since June amid renewed USD selling, fading Fed hike bets",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9125
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD surges to near $69.00 amid heightened volatility",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.933
+        "label": "bearish",
+        "score": -0.6857
       }
     ],
-    "AUD/USD": [
+    "USD/CHF": [
       {
-        "title": "AUD/JPY Price Forecast: Strengthens above 113.50 as bullish momentum persists above 100-day SMA",
-        "source": "FXStreet",
+        "title": "USD/CHF bears stir as franc haven demand returns - City Index UK",
+        "source": "Google News",
         "label": "bullish",
-        "score": 0.9297
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/JPY Price Forecast: Rises to near 186.00 as bullish bias prevails",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9357
+        "score": 0.5012
       }
     ]
   }

@@ -22,6 +22,16 @@
       "currencies": []
     },
     {
+      "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
       "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
       "source": "Google News",
       "label": "neutral",
@@ -29,12 +39,11 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
+      "title": "RBI seen selling dollars to support rupee as USD/INR holds steady - investingLive",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.609,
       "currencies": [
-        "GBP",
         "USD"
       ]
     },
@@ -49,14 +58,14 @@
       ]
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "title": "Rupee gains 9 paise to 95.65 against U.S. dollar in early trade - The Hindu",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.8928,
       "currencies": []
     },
     {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "title": "Best Multicurrency Bank Accounts For 2026 - Forbes",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -80,73 +89,66 @@
       "currencies": []
     },
     {
-      "title": "Best Multicurrency Bank Accounts For 2026 - Forbes",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "British Pound Rises as US Treasury Buyback Pressures Dollar - CryptoRank",
+      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.6163,
+      "score": 0.9097,
       "currencies": []
     },
     {
-      "title": "India\u2019s August private sector growth recovers slightly from over four-year low, PMI shows",
+      "title": "Springfield Properties seeks shareholder approval for buyback plan",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.27%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9707,
+      "currencies": []
+    },
+    {
+      "title": "Gore Street Energy Storage Fund urges vote against Saba resolutions",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "British retail sales soften in July after June World Cup boost",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9295,
+      "currencies": []
+    },
+    {
+      "title": "Hyundai Motor\u2019s South Korean union stages first full strike in a decade over pay",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9334,
+      "currencies": []
+    },
+    {
+      "title": "Optima Health schedules AGM for Sept. 22, sends annual report",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Helios Underwriting increases share buyback program to \u00a32.5m",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8976,
+      "score": 0.9237,
       "currencies": []
     },
     {
-      "title": "Why is NetEase HK stock rising today?",
+      "title": "Public Policy Holding issues 181,822 shares from RSU vesting",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Hua Medicine posts 74% H1 2026 revenue growth",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8679,
-      "currencies": []
-    },
-    {
-      "title": "Alibaba shares fall after 75% profit plunge as AI spending weighs on earnings",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9667,
-      "currencies": []
-    },
-    {
-      "title": "Treasury buyback renews dollar-debasement fears",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7587,
-      "currencies": []
-    },
-    {
-      "title": "SK Hynix tests SMA(200) after cloud breakout: Live levels",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "WISeKey names Alexander Hirsch as group chief marketing officer",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is Lintec stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9111,
       "currencies": []
     }
   ],
