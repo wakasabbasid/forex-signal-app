@@ -1,18 +1,12 @@
 {
   "run_id": 1,
   "pairs": {
-    "EUR/USD": [
+    "USD/JPY": [
       {
-        "title": "EUR/USD forecast: Forex Friday, August 21, 2026 - FOREX.com",
+        "title": "USD/MXN Forecast: Mexican Peso Reaches Levels Not Seen Since 2024 - FOREX.com",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "EUR/USD Price Forecast: Bulls test 1.1700 as RSI turns overbought",
-        "source": "FXStreet",
         "label": "bullish",
-        "score": 0.6179
+        "score": 0.5384
       }
     ],
     "GBP/USD": [
@@ -23,12 +17,28 @@
         "score": 0.0
       }
     ],
-    "USD/CHF": [
+    "EUR/USD": [
       {
-        "title": "USD/CHF bears stir as franc haven demand returns - FOREX.com",
+        "title": "EUR/USD forecast: Forex Friday, August 21, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "AUD/USD Price Forecast: Bulls target YTD high after breakout",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8524
+      }
+    ],
+    "USD/CHF": [
+      {
+        "title": "USD/CHF Price Forecast: Bulls reclaim 0.8000 as recovery stalls",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.5922
       }
     ]
   }

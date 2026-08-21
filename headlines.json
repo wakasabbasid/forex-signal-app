@@ -8,27 +8,19 @@
       "currencies": []
     },
     {
-      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg.com",
+      "title": "USD/MXN Forecast: Mexican Peso Reaches Levels Not Seen Since 2024 - FOREX.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD forecast: Forex Friday, August 21, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.5384,
       "currencies": [
-        "EUR",
         "USD"
       ]
     },
     {
-      "title": "Dollar near three-month low on Treasury buyback worries - CNBC",
+      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.8254,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -84,69 +76,76 @@
       "currencies": []
     },
     {
-      "title": "USD/CHF bears stir as franc haven demand returns - FOREX.com",
+      "title": "EUR/USD forecast: Forex Friday, August 21, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
-        "USD",
-        "CHF"
+        "EUR",
+        "USD"
       ]
     },
     {
-      "title": "Advanced Micro Devices CTO Mark Papermaster disposes of $13.6 million in shares",
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "David J. Taylor from Ohio\u2019s 2nd district buys Alphabet Inc and Procter & Gamble stocks, sells Microsoft",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "J.jill EVP, CFO & COO Webb sells $134,566 in company stock",
+      "title": "Tim Moore from North Carolina\u2019s 14th district sells AT&T shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US Treasury Secretary Bessent\u00a0to hold press conference on Monday",
+      "title": "Cohu senior VP & chief customer officer sells $558,200 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US, Canadian trade teams meet again as tariffs deadline looms",
+      "title": "Walmart communications chief Allyson Park to leave company",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5288,
+      "score": -0.6736,
       "currencies": []
     },
     {
-      "title": "Cloudflare president Michelle Zatlyn sells $28.3m in stock",
+      "title": "Boeing engineers, technical workers reject contract offer",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9127,
+      "currencies": []
+    },
+    {
+      "title": "Si-Bone CEO Laura Francis sells over $1 million in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Litecoin Climbs 10% In a Green Day",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9294,
-      "currencies": []
-    },
-    {
-      "title": "Nesr CFO Stefan Angeli sells $476,578 in company stock",
+      "title": "Ethos Technologies CEO Peter Colis sells $2.8m in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Oil prices post weekly surge on Hormuz impasse, Brent now up 12% over two weeks",
+      "title": "Ethos Technologies president Wang sells $3.9m in stock",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9396,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
