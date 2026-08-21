@@ -1,151 +1,145 @@
 {
   "headlines": [
     {
-      "title": "India's forex pile rises to six-month peak on sustained capital inflows - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8974,
-      "currencies": []
-    },
-    {
-      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD forecast: Forex Friday, August 21, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "The Dollar: from Debt Crisis to Currency Crisis - Action Forex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Emerging market currencies hit new highs amid dollar weakness - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Focus - tastylive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "RBI seen selling dollars to support rupee as USD/INR holds steady - investingLive",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.609,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Best Multicurrency Bank Accounts For 2026 - Forbes",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "India\u2019s forex reserves reach $716.9 billion, highest in six months - Investing.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7962,
-      "currencies": []
-    },
-    {
-      "title": "Exclusive-US plans $725 million payment towards its large UN debt",
+      "title": "US service sector fuels acceleration in business activity, S&P Global says",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8063,
+      "score": 0.9434,
       "currencies": []
     },
     {
-      "title": "Lula, Trump discuss tariffs in phone call, Brazil says",
+      "title": "German state politician calls for EU tariffs on Chinese hybrid cars, letter shows",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Wall Street rises as materials and crypto stocks offset continued bond sell-off",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6092,
-      "currencies": []
-    },
-    {
-      "title": "Medifast director Parsa Kiai acquires $842,698 in company shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Wabtec president Michael Fetsko sells $952,961 of WAB shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Vireo Growth completes acquisition of C21 Investments",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Barclays increases stake in Central Asia Metals to 5.57%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7469,
-      "currencies": []
-    },
-    {
-      "title": "Guggenheim fund shares hit 17-year low after short-seller report",
+      "title": "US shoppers tighten budgets, but still find room for treats and splurges",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9417,
+      "score": -0.8289,
+      "currencies": []
+    },
+    {
+      "title": "Warrior Met Coal CAO Brian Chopin sells $336k in common stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Ken Griffin\u2019s Citadel sheds over 80% of Situational Awareness\u2019 bets",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8718,
+      "currencies": []
+    },
+    {
+      "title": "Raymond James sees token pricing gap widen in August 2026",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8914,
+      "currencies": []
+    },
+    {
+      "title": "Peoples Bancorp of North Carolina declares $0.21 quarterly dividend",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Agilent Technologies stock hits 52-week high at 160.36 USD",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6657,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Canada\u2019s Big Six banks head into Q3 2026 earnings on four-quarter beat streaks",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.628,
+      "currencies": []
+    },
+    {
+      "title": "CrowdStrike vs. Palo Alto Networks: valuation, growth, and profitability compared",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "AUDUSD is the biggest mover today and trades at highest level since early June",
+      "source": "ForexLive",
+      "label": "bullish",
+      "score": 0.7647,
+      "currencies": []
+    },
+    {
+      "title": "Baker Hughes rig count -5 at 588",
+      "source": "ForexLive",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "European stocks rebound Friday, but weekly losses dominate",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.9634,
+      "currencies": []
+    },
+    {
+      "title": "Brazil's Lula and US Pres. Trump held phone call on Friday.",
+      "source": "ForexLive",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Gold surges and breaks away from its 200 day MA",
+      "source": "ForexLive",
+      "label": "bullish",
+      "score": 0.5742,
+      "currencies": []
+    },
+    {
+      "title": "SNB Tschudin: Swiss inflation is low because of low inflation expectations",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.7188,
+      "currencies": []
+    },
+    {
+      "title": "Trump: Gets rid of 26.4% tariffs on imported beef and prices will come down by 25%",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.8746,
+      "currencies": []
+    },
+    {
+      "title": "EU consumer confidence -15.5 versus -16.3 expected",
+      "source": "ForexLive",
+      "label": "bullish",
+      "score": 0.5892,
+      "currencies": []
+    },
+    {
+      "title": "S&P Global manufacturing PMI flash estimate for August 53.2 versus 53.9 estimate",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.8801,
+      "currencies": []
+    },
+    {
+      "title": "The USDCHF breaks to the downside this week, taking the pair outside it's range. What next?",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.74,
       "currencies": []
     }
   ],
