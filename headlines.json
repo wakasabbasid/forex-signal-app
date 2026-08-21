@@ -32,13 +32,6 @@
       "currencies": []
     },
     {
-      "title": "The Dollar: from Debt Crisis to Currency Crisis - Action Forex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Forex Focus - tastylive",
       "source": "Google News",
       "label": "neutral",
@@ -46,7 +39,21 @@
       "currencies": []
     },
     {
+      "title": "The Dollar: from Debt Crisis to Currency Crisis - Action Forex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Emerging market currencies hit new highs amid dollar weakness - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -77,13 +84,6 @@
       "currencies": []
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "USD/CHF bears stir as franc haven demand returns - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -94,59 +94,59 @@
       ]
     },
     {
-      "title": "Mexico expects trade outcomes similar to emerging US-Canada deal",
+      "title": "Russia stocks higher at close of trade; MOEX Russia Index up 0.60%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9498,
+      "score": 0.945,
       "currencies": []
     },
     {
-      "title": "Two Harbors receives final approval for CrossCountry merger",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7999,
-      "currencies": []
-    },
-    {
-      "title": "Knorex receives going concern warning from auditor",
+      "title": "US Army Secretary Driscoll is expected to step down by year\u2019s end, WSJ reports",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8981,
+      "score": -0.6451,
       "currencies": []
     },
     {
-      "title": "Trump administration moves to end attorney group\u2019s law school oversight",
+      "title": "Niki BioSolutions reports wider H1 loss amid going concern doubts",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7487,
+      "score": -0.9723,
       "currencies": []
     },
     {
-      "title": "Wall Street posts worst week in over a month amid bond sell-off, rising oil prices",
+      "title": "Hims & Hers faces Visa penalties over dispute surge - Bloomberg",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9673,
+      "score": -0.9183,
       "currencies": []
     },
     {
-      "title": "FDA authorizes 11 ZYN Ultra nicotine pouches for Philip Morris",
+      "title": "Earnings call transcript: OwlTing H1 2026 loss widens as growth shift continues",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9073,
+      "currencies": []
+    },
+    {
+      "title": "Nb bancorp CEO Joseph Campanelli buys $43,500 in NBBK stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Global Interactive receives Nasdaq delisting notice",
+      "title": "CoreCivic director John Prann Jr. sells $758,132 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "SpaceX hiring natural gas trader amid growing energy needs",
+      "title": "Live cattle futures slip on tariff news and weak cash market",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.4827,
+      "label": "bearish",
+      "score": -0.9672,
       "currencies": []
     }
   ],
