@@ -8,6 +8,13 @@
       "currencies": []
     },
     {
+      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "EUR/USD forecast: Forex Friday, August 21, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -16,13 +23,6 @@
         "EUR",
         "USD"
       ]
-    },
-    {
-      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
     },
     {
       "title": "Dollar near three-month low on Treasury buyback worries - CNBC",
@@ -94,59 +94,59 @@
       ]
     },
     {
-      "title": "Russia stocks higher at close of trade; MOEX Russia Index up 0.60%",
+      "title": "Advanced Micro Devices CTO Mark Papermaster disposes of $13.6 million in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "J.jill EVP, CFO & COO Webb sells $134,566 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US Treasury Secretary Bessent\u00a0to hold press conference on Monday",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US, Canadian trade teams meet again as tariffs deadline looms",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5288,
+      "currencies": []
+    },
+    {
+      "title": "Cloudflare president Michelle Zatlyn sells $28.3m in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Litecoin Climbs 10% In a Green Day",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.945,
+      "score": 0.9294,
       "currencies": []
     },
     {
-      "title": "US Army Secretary Driscoll is expected to step down by year\u2019s end, WSJ reports",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6451,
-      "currencies": []
-    },
-    {
-      "title": "Niki BioSolutions reports wider H1 loss amid going concern doubts",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9723,
-      "currencies": []
-    },
-    {
-      "title": "Hims & Hers faces Visa penalties over dispute surge - Bloomberg",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9183,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: OwlTing H1 2026 loss widens as growth shift continues",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9073,
-      "currencies": []
-    },
-    {
-      "title": "Nb bancorp CEO Joseph Campanelli buys $43,500 in NBBK stock",
+      "title": "Nesr CFO Stefan Angeli sells $476,578 in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "CoreCivic director John Prann Jr. sells $758,132 in stock",
+      "title": "Oil prices post weekly surge on Hormuz impasse, Brent now up 12% over two weeks",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Live cattle futures slip on tariff news and weak cash market",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9672,
+      "label": "bullish",
+      "score": 0.9396,
       "currencies": []
     }
   ],
