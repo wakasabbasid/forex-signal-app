@@ -13,6 +13,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "EUR/GBP Price Forecast: Neutral RSI signals further consolidation",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.5468
       }
     ],
     "USD/JPY": [
@@ -23,18 +29,18 @@
         "score": 0.609
       },
       {
-        "title": "Gold Price Forecast: XAU/USD testing three-month highs near $4,600 as the US Dollar dives",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.5766
+        "title": "Kickstart the North American session:  The USD is lower vs the 3 major currency pairs.",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.9711
       }
     ],
     "EUR/USD": [
       {
-        "title": "Experts agree: Weak Dollar backs near-term upside in EUR/USD",
+        "title": "EUR/GBP Price Forecast: Neutral RSI signals further consolidation",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.7129
+        "score": -0.5468
       }
     ]
   }

@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "India's forex pile rises to six-month peak on sustained capital inflows - Yahoo Finance Singapore",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.896,
+      "currencies": []
+    },
+    {
       "title": "Finance leaders deal with foreign currency payroll impacts - CFO Brew",
       "source": "Google News",
       "label": "neutral",
@@ -72,13 +79,6 @@
       ]
     },
     {
-      "title": "Brazilian currency likely to face less turbulent election - Valor International",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Rupee gains 9 paise to 95.65 against U.S. dollar in early trade - The Hindu",
       "source": "Google News",
       "label": "bullish",
@@ -93,59 +93,59 @@
       "currencies": []
     },
     {
-      "title": "Wells Fargo initiates Vivmark Residential stock with overweight rating",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "UBS lifts S&P 500 EPS forecasts, says bull market has further to run",
+      "title": "Global bond rout holds as buybacks fail to offset fiscal concerns",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6168,
+      "score": -0.9487,
       "currencies": []
     },
     {
-      "title": "Bunker Hill to acquire Silver47 for $163M in all-stock deal",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "LiveWire begins S4 Honcho Trail motorcycle deliveries to dealers",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "McChip Resources appoints Fraser Hartley to board of directors",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Yum! Brands appoints former HanesBrands CEO to board",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Buckle earnings beat by $0.07, revenue topped estimates",
+      "title": "US equity funds draw inflows despite market pressures",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9462,
+      "score": 0.9119,
       "currencies": []
     },
     {
-      "title": "Jefferies downgrades Alfen as costs weigh and EV Charging recovery fades",
+      "title": "Fastly CEO Charles Compton sells $1.26m in company stock",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9361,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "ProKidney director Brian Pereira sells $1.07 million in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "RBC Capital lowers Hershey stock price target on market share concerns",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "UBS cuts Walmart stock price target on core business concerns",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "UBS lowers Syndax Pharmaceuticals price target on revenue outlook",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Eric Trump-backed Space-Eyes to appoint ex-Delta Force officer and ex-banker, sources say",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
