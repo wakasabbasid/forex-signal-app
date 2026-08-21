@@ -28,6 +28,14 @@
         "label": "bullish",
         "score": 0.5766
       }
+    ],
+    "EUR/USD": [
+      {
+        "title": "Experts agree: Weak Dollar backs near-term upside in EUR/USD",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.7129
+      }
     ]
   }
 }

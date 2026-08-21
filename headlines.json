@@ -39,6 +39,13 @@
       ]
     },
     {
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
       "label": "neutral",
@@ -65,17 +72,17 @@
       ]
     },
     {
-      "title": "Rupee gains 9 paise to 95.65 against U.S. dollar in early trade - The Hindu",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8928,
-      "currencies": []
-    },
-    {
       "title": "Brazilian currency likely to face less turbulent election - Valor International",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Rupee gains 9 paise to 95.65 against U.S. dollar in early trade - The Hindu",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8928,
       "currencies": []
     },
     {
@@ -86,66 +93,59 @@
       "currencies": []
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Washington IndyCar race touted by Trump draws Boeing, Starlink, Delta as new sponsors",
+      "title": "Wells Fargo initiates Vivmark Residential stock with overweight rating",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US stock futures rise after sharp losses in prior session",
+      "title": "UBS lifts S&P 500 EPS forecasts, says bull market has further to run",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.825,
+      "score": -0.6168,
       "currencies": []
     },
     {
-      "title": "ZKH Group surges 7% as company achieves first-ever profit",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9433,
-      "currencies": []
-    },
-    {
-      "title": "BMO starts Eaton stock at Outperform on AI data center growth",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5238,
-      "currencies": []
-    },
-    {
-      "title": "Marvell stock initiated with outperform rating at BMO Capital",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6125,
-      "currencies": []
-    },
-    {
-      "title": "Walmart stock rating upgraded to Buy at Freedom Broker on results",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8923,
-      "currencies": []
-    },
-    {
-      "title": "BMO Capital initiates D-Wave Quantum stock with outperform rating",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.4646,
-      "currencies": []
-    },
-    {
-      "title": "BMO Capital initiates MACOM Technology stock at Market Perform",
+      "title": "Bunker Hill to acquire Silver47 for $163M in all-stock deal",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "LiveWire begins S4 Honcho Trail motorcycle deliveries to dealers",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "McChip Resources appoints Fraser Hartley to board of directors",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Yum! Brands appoints former HanesBrands CEO to board",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Buckle earnings beat by $0.07, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9462,
+      "currencies": []
+    },
+    {
+      "title": "Jefferies downgrades Alfen as costs weigh and EV Charging recovery fades",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9361,
       "currencies": []
     }
   ],
