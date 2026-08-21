@@ -3,13 +3,13 @@
   "pairs": {
     "GBP/USD": [
       {
-        "title": "GBP/USD Signal 20/08: Golden Cross, Inverted H/S - DailyForex",
+        "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
+        "title": "GBP/USD Signal 20/08: Golden Cross, Inverted H/S - Daily Forex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -43,10 +43,10 @@
         "score": 0.0
       },
       {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7262 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
+        "title": "AUD/JPY Price Forecast: Strengthens above 113.50 as bullish momentum persists above 100-day SMA",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9297
       },
       {
         "title": "Euro sits near multi-month top vs weak USD as bulls await move beyond 1.1700 ahead of PMIs",
@@ -77,12 +77,14 @@
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.933
-      },
+      }
+    ],
+    "AUD/USD": [
       {
-        "title": "New Zealand Dollar extends gains to fresh high since June, above mid-0.5900s vs softer USD",
+        "title": "AUD/JPY Price Forecast: Strengthens above 113.50 as bullish momentum persists above 100-day SMA",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.9425
+        "score": 0.9297
       }
     ],
     "EUR/USD": [
