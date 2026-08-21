@@ -9,7 +9,7 @@
         "score": 0.0
       },
       {
-        "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - Daily Forex",
+        "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -23,10 +23,16 @@
         "score": 0.609
       },
       {
-        "title": "Silver Price Forecasts: XAG/USD hits highs past $69.00 amid US Dollar weakness",
+        "title": "Canadian Dollar stands firm near three-month high vs weak USD ahead of data",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.9045
+        "score": 0.9072
+      },
+      {
+        "title": "Gold climbs beyond $4,550, fresh high since June as USD stays weak and Fed hike bets fade",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.834
       }
     ],
     "USD/CHF": [
@@ -35,14 +41,6 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.5012
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "AUD/USD Price Forecast: Hits fresh high since June as bulls eye gains beyond 0.7150",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9371
       }
     ]
   }

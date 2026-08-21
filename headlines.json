@@ -48,6 +48,13 @@
       ]
     },
     {
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
       "label": "neutral",
@@ -55,7 +62,7 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - Daily Forex",
+      "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -89,66 +96,59 @@
       ]
     },
     {
-      "title": "Best Multicurrency Bank Accounts For 2026 - Forbes",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Baird downgrades Teradyne stock rating on valuation concerns",
+      "title": "Earnings call transcript: HydrogenPro posts wider q2 2026 loss as stock falls",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6914,
+      "score": -0.9731,
       "currencies": []
     },
     {
-      "title": "Morgan Stanley upgrades Ternium stock rating on tariff outlook",
+      "title": "UK service sector perks up in August, adding to resilience signs",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6683,
+      "score": 0.9497,
       "currencies": []
     },
     {
-      "title": "Citizens initiates Builders FirstSource stock at Market Perform",
+      "title": "Why is Ross Stores stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Analysis-China tax crackdown forces wealthy investors to assess their offshore trusts",
+      "title": "UK posts unexpected budget deficit in July as spending rises",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9308,
+      "score": -0.9677,
       "currencies": []
     },
     {
-      "title": "German business activity grows in August, PMI shows",
+      "title": "Earnings call transcript: Arenit posts strong H1 2026 growth as shares slip",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7211,
+      "score": 0.9532,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Arendals Fossekompani lifts q2 2026 profit as shares slip",
+      "title": "European shares climb on gold boost; weekly decline still in sight",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8881,
+      "label": "bearish",
+      "score": -0.8361,
       "currencies": []
     },
     {
-      "title": "Vp plc appoints Corinne Ripoche as non-executive director",
+      "title": "Earnings call transcript: Ascelia Pharma narrows Q2 loss as FDA setback weighs on shares",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9572,
+      "currencies": []
+    },
+    {
+      "title": "Why is Dino Polska stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "KeyBanc upgrades Innovage stock rating on turnaround completion",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6932,
       "currencies": []
     }
   ],
