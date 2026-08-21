@@ -7,6 +7,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "EUR/GBP slips as strong PMIs cancel out and Iran signals de-escalation",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9229
       }
     ],
     "GBP/USD": [
@@ -15,6 +21,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "EUR/GBP slips as strong PMIs cancel out and Iran signals de-escalation",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9229
       }
     ],
     "USD/JPY": [
@@ -25,22 +37,18 @@
         "score": 0.609
       },
       {
-        "title": "Heartflow Inc stock hits all-time high at 48.7 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.5275
-      },
-      {
-        "title": "DHT Holdings stock hits 52-week high at 20.57 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.64
-      },
-      {
         "title": "Kickstart the North American session:  The USD is lower vs the 3 major currency pairs.",
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.9711
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "AUD/USD Price Forecast: Bulls eye 0.7200 as RSI nears overbought territory",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.5741
       }
     ]
   }
