@@ -39,27 +39,11 @@
       ]
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
-    },
-    {
-      "title": "RBI seen selling dollars to support rupee as USD/INR holds steady - investingLive",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.609,
-      "currencies": [
-        "USD"
-      ]
     },
     {
       "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - DailyForex",
@@ -68,6 +52,15 @@
       "score": 0.0,
       "currencies": [
         "GBP",
+        "USD"
+      ]
+    },
+    {
+      "title": "RBI seen selling dollars to support rupee as USD/INR holds steady - investingLive",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.609,
+      "currencies": [
         "USD"
       ]
     },
@@ -93,59 +86,66 @@
       "currencies": []
     },
     {
-      "title": "Why is Stoke Therapeutics stock gaining today?",
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Washington IndyCar race touted by Trump draws Boeing, Starlink, Delta as new sponsors",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "iShares U.S. Equity High Income Active ETF shifts to monthly payouts",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Synsam Q2 2026 slides: organic growth accelerates to 9.8%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9474,
-      "currencies": []
-    },
-    {
-      "title": "Synsam Q2 2026 slides: Nordic growth accelerates, shares rise 6%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9476,
-      "currencies": []
-    },
-    {
-      "title": "Gold floats above $4,500 as weaker dollar, U.S. Treasury moves support rally",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.688,
-      "currencies": []
-    },
-    {
-      "title": "Airbus backs down on return-to-office after protests, sources say",
+      "title": "US stock futures rise after sharp losses in prior session",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9519,
+      "score": -0.825,
       "currencies": []
     },
     {
-      "title": "Siegfried H1 2026 slides: margins expand, US acquisition on track",
+      "title": "ZKH Group surges 7% as company achieves first-ever profit",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9368,
+      "score": 0.9433,
       "currencies": []
     },
     {
-      "title": "Sterling today: Pound steady as Treasury buyback keeps dollar soft",
+      "title": "BMO starts Eaton stock at Outperform on AI data center growth",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5238,
+      "currencies": []
+    },
+    {
+      "title": "Marvell stock initiated with outperform rating at BMO Capital",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8221,
+      "score": 0.6125,
+      "currencies": []
+    },
+    {
+      "title": "Walmart stock rating upgraded to Buy at Freedom Broker on results",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8923,
+      "currencies": []
+    },
+    {
+      "title": "BMO Capital initiates D-Wave Quantum stock with outperform rating",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.4646,
+      "currencies": []
+    },
+    {
+      "title": "BMO Capital initiates MACOM Technology stock at Market Perform",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
