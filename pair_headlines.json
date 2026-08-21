@@ -3,7 +3,7 @@
   "pairs": {
     "GBP/USD": [
       {
-        "title": "GBP/USD Signal 20/08: Golden Cross, Inverted H/S - DailyForex",
+        "title": "GBP/USD Signal 20/08: Golden Cross, Inverted H/S - Daily Forex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -13,23 +13,23 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "GBP/JPY Price Forecast: Bulls eye 217.00 as rally extends",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.6182
       }
     ],
-    "AUD/USD": [
+    "USD/CHF": [
       {
-        "title": "AUD/USD Signal 20/08: Bullish Breakout Above - DailyForex",
+        "title": "USD/CHF bears stir as franc haven demand returns - City Index UK",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.8398
+        "score": 0.5012
       }
     ],
     "USD/JPY": [
+      {
+        "title": "RBI seen selling dollars to support rupee as USD/INR holds steady",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.8437
+      },
       {
         "title": "USD slammed in Asia Friday: Bitcoin, gold, FX surge as investors hedge against US fiscal credibility concerns",
         "source": "ForexLive",
@@ -49,6 +49,12 @@
         "score": 0.0
       },
       {
+        "title": "Silver Price Forecast: XAG/USD surges to near $69.00 amid heightened volatility",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.933
+      },
+      {
         "title": "New Zealand Dollar extends gains to fresh high since June, above mid-0.5900s vs softer USD",
         "source": "FXStreet",
         "label": "bullish",
@@ -59,12 +65,6 @@
         "source": "FXStreet",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "GBP/JPY Price Forecast: Bulls eye 217.00 as rally extends",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.6182
       }
     ]
   }

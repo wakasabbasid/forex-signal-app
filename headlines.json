@@ -15,7 +15,14 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Signal 20/08: Golden Cross, Inverted H/S - DailyForex",
+      "title": "Forex Focus - tastylive",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "GBP/USD Signal 20/08: Golden Cross, Inverted H/S - Daily Forex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -23,13 +30,6 @@
         "GBP",
         "USD"
       ]
-    },
-    {
-      "title": "Forex Focus - tastylive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
     },
     {
       "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
@@ -54,6 +54,16 @@
       "label": "bullish",
       "score": 0.9097,
       "currencies": []
+    },
+    {
+      "title": "USD/CHF bears stir as franc haven demand returns - City Index UK",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5012,
+      "currencies": [
+        "USD",
+        "CHF"
+      ]
     },
     {
       "title": "Brazilian currency likely to face less turbulent election - Valor International",
@@ -84,69 +94,59 @@
       "currencies": []
     },
     {
-      "title": "AUD/USD Signal 20/08: Bullish Breakout Above - DailyForex",
-      "source": "Google News",
+      "title": "Implantica receives FDA approval for GERD implant RefluxStop",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8398,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
+      "score": 0.8332,
+      "currencies": []
     },
     {
-      "title": "Earnings call transcript: Rural Funds Group posts flat FY 2026 AFFO, lifts NAV in H2 2026",
+      "title": "Why is Charter Hall stock sliding today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9479,
+      "score": -0.9291,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: MGX Resources posts stronger FY2026 cash flow, eyes gold pivot",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.942,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Latitude Financial lifts H1 2026 profit as shares rise 8.3%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9372,
-      "currencies": []
-    },
-    {
-      "title": "Hang Seng tests 26,204 resistance on 5h chart: Live levels",
+      "title": "Why is NRW Holdings stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Delek US Holdings EVP Reuven Spiegel sells $682,099 in shares",
+      "title": "Mount Logan Capital CCO David Held buys $3,206 in common stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Guzman y Gomez posts 30% profit jump on Australia sales growth",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9236,
-      "currencies": []
-    },
-    {
-      "title": "Glaukos director Kliman sells $475,000 in shares",
+      "title": "Shein targets Hong Kong market debut on September 1, sources say",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "LGI FY26 slides: revenue up 17%, EBITDA margin hits 55% record",
+      "title": "Snowflake director Frank Slootman sells $97.4m in shares",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.955,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Crowdstrike CEO George Kurtz sells over $4.1m in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Neonc Technologies CEO Thomas Chen buys $69,997 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
