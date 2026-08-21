@@ -8,13 +8,13 @@
       "currencies": []
     },
     {
-      "title": "USD/CHF bears stir as franc haven demand returns - FOREX.com",
+      "title": "EUR/USD forecast: Forex Friday, August 21, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
-        "USD",
-        "CHF"
+        "EUR",
+        "USD"
       ]
     },
     {
@@ -53,16 +53,6 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD forecast: Forex Friday, August 21, 2026 - City Index UK",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
       "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - DailyForex",
       "source": "Google News",
       "label": "neutral",
@@ -87,68 +77,76 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s forex reserves reach $716.9 billion, highest in six months - Investing.com",
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.7962,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US health agencies report 55 cases of E. coli and salmonella infections tied to alfalfa sprouts",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9162,
-      "currencies": []
-    },
-    {
-      "title": "Geo Group Inc stock hits 52-week high at 32.64 USD",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5736,
+      "title": "USD/CHF bears stir as franc haven demand returns - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
-        "USD"
+        "USD",
+        "CHF"
       ]
     },
     {
-      "title": "Andersen stockholders complete $216.8m secondary offering",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Apple reportedly cuts jobs in Siri and Vision Pro teams amid AI shift",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9716,
-      "currencies": []
-    },
-    {
-      "title": "Top weekly stock gainers led by ZSTK\u2019s 203.6% surge",
+      "title": "Mexico expects trade outcomes similar to emerging US-Canada deal",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9282,
+      "score": 0.9498,
       "currencies": []
     },
     {
-      "title": "Mizuho raises Viking Holdings stock price target on quality outlook",
+      "title": "Two Harbors receives final approval for CrossCountry merger",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7999,
+      "currencies": []
+    },
+    {
+      "title": "Knorex receives going concern warning from auditor",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8981,
+      "currencies": []
+    },
+    {
+      "title": "Trump administration moves to end attorney group\u2019s law school oversight",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7487,
+      "currencies": []
+    },
+    {
+      "title": "Wall Street posts worst week in over a month amid bond sell-off, rising oil prices",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9673,
+      "currencies": []
+    },
+    {
+      "title": "FDA authorizes 11 ZYN Ultra nicotine pouches for Philip Morris",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "BKV Corp CFO David Tameron sells $38,445 in common stock.",
+      "title": "Global Interactive receives Nasdaq delisting notice",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "BKV Corp senior VP Hinojosa sells $318,452 in company stock",
+      "title": "SpaceX hiring natural gas trader amid growing energy needs",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.4827,
       "currencies": []
     }
   ],

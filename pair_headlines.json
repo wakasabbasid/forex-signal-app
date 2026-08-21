@@ -1,17 +1,9 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/CHF": [
-      {
-        "title": "USD/CHF bears stir as franc haven demand returns - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
     "EUR/USD": [
       {
-        "title": "EUR/USD forecast: Forex Friday, August 21, 2026 - City Index UK",
+        "title": "EUR/USD forecast: Forex Friday, August 21, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -31,12 +23,12 @@
         "score": 0.0
       }
     ],
-    "USD/JPY": [
+    "USD/CHF": [
       {
-        "title": "Geo Group Inc stock hits 52-week high at 32.64 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.5736
+        "title": "USD/CHF bears stir as franc haven demand returns - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }
