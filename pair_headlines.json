@@ -3,7 +3,7 @@
   "pairs": {
     "GBP/USD": [
       {
-        "title": "GBP/USD Signal 20/08: Golden Cross, Inverted H/S - Daily Forex",
+        "title": "GBP/USD Signal 20/08: Golden Cross, Inverted H/S - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -21,7 +21,45 @@
         "score": 0.6182
       }
     ],
+    "AUD/USD": [
+      {
+        "title": "AUD/USD Signal 20/08: Bullish Breakout Above - DailyForex",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.8398
+      }
+    ],
     "USD/JPY": [
+      {
+        "title": "USD slammed in Asia Friday: Bitcoin, gold, FX surge as investors hedge against US fiscal credibility concerns",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.4982
+      },
+      {
+        "title": "PBOC sets USD/ CNY reference rate for today at 6.7817 (vs. estimate at 6.7262)",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7262 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "New Zealand Dollar extends gains to fresh high since June, above mid-0.5900s vs softer USD",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9425
+      },
+      {
+        "title": "PBOC sets USD/CNY reference rate at 6.7817 vs. 6.7808 previous",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      },
       {
         "title": "GBP/JPY Price Forecast: Bulls eye 217.00 as rally extends",
         "source": "FXStreet",

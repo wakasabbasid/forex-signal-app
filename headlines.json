@@ -8,14 +8,14 @@
       "currencies": []
     },
     {
-      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg",
+      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "GBP/USD Signal 20/08: Golden Cross, Inverted H/S - Daily Forex",
+      "title": "GBP/USD Signal 20/08: Golden Cross, Inverted H/S - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -26,13 +26,6 @@
     },
     {
       "title": "Forex Focus - tastylive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -77,13 +70,6 @@
       "currencies": []
     },
     {
-      "title": "Euro Holds Near Multi-Month Highs as Fed, Iran Weigh Dollar - TradingPedia",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.47,
-      "currencies": []
-    },
-    {
       "title": "British Pound Rises as US Treasury Buyback Pressures Dollar - CryptoRank",
       "source": "Google News",
       "label": "bullish",
@@ -91,59 +77,76 @@
       "currencies": []
     },
     {
-      "title": "Bessent says US to impose \u2019toughest\u2019 ever sanctions on Iran, urges China to cooperate",
-      "source": "Investing.com",
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "5am Partners VII, LLC sells $140,313 of Skye Bioscience stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
+      "title": "AUD/USD Signal 20/08: Bullish Breakout Above - DailyForex",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8398,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
     },
     {
-      "title": "10% owner DST Global Advisors sells $156.9m in Chime Financial stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Heartflow CEO John Farquhar sells $1.47 million in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Adaptive Biotechnologies director Robert Hershberg sells $748k in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Abbott to pay $670 million to settle some preterm infant formula cases",
+      "title": "Earnings call transcript: Rural Funds Group posts flat FY 2026 AFFO, lifts NAV in H2 2026",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5757,
+      "score": -0.9479,
       "currencies": []
     },
     {
-      "title": "Seeka H1 2026 slides: automation drives record profit on lower volumes",
+      "title": "Earnings call transcript: MGX Resources posts stronger FY2026 cash flow, eyes gold pivot",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9076,
+      "score": 0.942,
       "currencies": []
     },
     {
-      "title": "Ex-Google engineer\u2019s conviction for stealing AI secrets partially overturned",
+      "title": "Earnings call transcript: Latitude Financial lifts H1 2026 profit as shares rise 8.3%",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6344,
+      "label": "bullish",
+      "score": 0.9372,
+      "currencies": []
+    },
+    {
+      "title": "Hang Seng tests 26,204 resistance on 5h chart: Live levels",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Delek US Holdings EVP Reuven Spiegel sells $682,099 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Guzman y Gomez posts 30% profit jump on Australia sales growth",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9236,
+      "currencies": []
+    },
+    {
+      "title": "Glaukos director Kliman sells $475,000 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "LGI FY26 slides: revenue up 17%, EBITDA margin hits 55% record",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.955,
       "currencies": []
     }
   ],
