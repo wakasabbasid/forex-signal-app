@@ -1,13 +1,15 @@
 {
   "run_id": 1,
   "pairs": {
-    "GBP/USD": [
+    "EUR/USD": [
       {
-        "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
+        "title": "EUR/USD forecast: Forex Friday, August 21, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
+      }
+    ],
+    "GBP/USD": [
       {
         "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - DailyForex",
         "source": "Google News",
@@ -23,28 +25,16 @@
         "score": 0.609
       },
       {
-        "title": "Applovin Corp stock hits 52-week low at 303.01 USD",
-        "source": "Investing.com",
-        "label": "bearish",
-        "score": -0.9538
-      },
-      {
-        "title": "Osi Systems stock hits 52-week low at 195.0 USD",
-        "source": "Investing.com",
-        "label": "bearish",
-        "score": -0.9582
-      },
-      {
-        "title": "Freeport McMoRan stock hits all-time high at 74.52 USD",
+        "title": "Heartflow Inc stock hits all-time high at 48.7 USD",
         "source": "Investing.com",
         "label": "bullish",
-        "score": 0.535
+        "score": 0.5275
       },
       {
-        "title": "Ternium SA ADR stock hits 52-week high at 56.07 USD",
+        "title": "DHT Holdings stock hits 52-week high at 20.57 USD",
         "source": "Investing.com",
         "label": "bullish",
-        "score": 0.7312
+        "score": 0.64
       },
       {
         "title": "Kickstart the North American session:  The USD is lower vs the 3 major currency pairs.",

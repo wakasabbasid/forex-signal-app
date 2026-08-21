@@ -15,7 +15,24 @@
       "currencies": []
     },
     {
+      "title": "EUR/USD forecast: Forex Friday, August 21, 2026 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
       "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "The Dollar: from Debt Crisis to Currency Crisis - Action Forex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -37,30 +54,6 @@
     },
     {
       "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "The Dollar: from Debt Crisis to Currency Crisis - Action Forex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -93,64 +86,67 @@
       "currencies": []
     },
     {
-      "title": "U.S. stocks climb at the open as Treasury bond sell-off eases up slightly",
-      "source": "Investing.com",
+      "title": "India\u2019s forex reserves reach $716.9 billion, highest in six months - Investing.com",
+      "source": "Google News",
       "label": "bullish",
-      "score": 0.6938,
+      "score": 0.7962,
       "currencies": []
     },
     {
-      "title": "Applovin Corp stock hits 52-week low at 303.01 USD",
+      "title": "Aminex unit issues dispute notice over Tanzania gas project delays",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9538,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Earnings call transcript: Prospect Capital beats Q1 2026 EPS but stock stays flat",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5165,
+      "score": -0.8765,
       "currencies": []
     },
     {
-      "title": "Osi Systems stock hits 52-week low at 195.0 USD",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9582,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Freeport McMoRan stock hits all-time high at 74.52 USD",
+      "title": "Heartflow Inc stock hits all-time high at 48.7 USD",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.535,
+      "score": 0.5275,
       "currencies": [
         "USD"
       ]
     },
     {
-      "title": "Ternium SA ADR stock hits 52-week high at 56.07 USD",
+      "title": "Volkswagen CEO says overhead costs exceed rivals by over 30%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7312,
+      "score": 0.5148,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: The Buckle beats Q2 2026 estimates as stock rises 3.7%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.936,
+      "currencies": []
+    },
+    {
+      "title": "DHT Holdings stock hits 52-week high at 20.57 USD",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.64,
       "currencies": [
         "USD"
       ]
     },
     {
-      "title": "US, Canadian trade teams to meet again as tariffs deadline looms",
+      "title": "Why is Merck stock surging to a 52-week high today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Bernstein raises NetEase stock price target on margin strength",
+      "title": "Benchmark reiterates Rank One Computing stock rating on commercialization progress",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Benchmark reiterates Buy on Nvidia stock ahead of earnings",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
