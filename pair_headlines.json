@@ -3,7 +3,7 @@
   "pairs": {
     "GBP/USD": [
       {
-        "title": "GBP/USD Signal 20/08: Golden Cross, Inverted H/S - Daily Forex",
+        "title": "GBP/USD Signal 20/08: Golden Cross, Inverted H/S - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -49,6 +49,30 @@
         "score": 0.0
       },
       {
+        "title": "Euro sits near multi-month top vs weak USD as bulls await move beyond 1.1700 ahead of PMIs",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.6016
+      },
+      {
+        "title": "EUR/JPY Price Forecast: Rises to near 186.00 as bullish bias prevails",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9357
+      },
+      {
+        "title": "USD/JPY Price Forecast: 20-day EMA remains key hurdle",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.6329
+      },
+      {
+        "title": "Gold advances to fresh high since June amid renewed USD selling, fading Fed hike bets",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9125
+      },
+      {
         "title": "Silver Price Forecast: XAG/USD surges to near $69.00 amid heightened volatility",
         "source": "FXStreet",
         "label": "bullish",
@@ -59,12 +83,14 @@
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.9425
-      },
+      }
+    ],
+    "EUR/USD": [
       {
-        "title": "PBOC sets USD/CNY reference rate at 6.7817 vs. 6.7808 previous",
+        "title": "EUR/JPY Price Forecast: Rises to near 186.00 as bullish bias prevails",
         "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bullish",
+        "score": 0.9357
       }
     ]
   }
