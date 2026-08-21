@@ -9,7 +9,7 @@
         "score": 0.0
       },
       {
-        "title": "GBP/USD Signal 20/08: Golden Cross, Inverted H/S - Daily Forex",
+        "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - Daily Forex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -23,16 +23,10 @@
         "score": 0.609
       },
       {
-        "title": "RBI seen selling dollars to support rupee as USD/INR holds steady",
-        "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.8437
-      },
-      {
-        "title": "Gold hits fresh high since June, above $4,550 as receding Fed hike bets undermine USD",
+        "title": "Silver Price Forecasts: XAG/USD hits highs past $69.00 amid US Dollar weakness",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.6857
+        "label": "bullish",
+        "score": 0.9045
       }
     ],
     "USD/CHF": [
@@ -41,6 +35,14 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.5012
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "AUD/USD Price Forecast: Hits fresh high since June as bulls eye gains beyond 0.7150",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9371
       }
     ]
   }

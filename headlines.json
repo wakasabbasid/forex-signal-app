@@ -22,6 +22,13 @@
       "currencies": []
     },
     {
+      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -30,13 +37,6 @@
         "GBP",
         "USD"
       ]
-    },
-    {
-      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
     },
     {
       "title": "RBI seen selling dollars to support rupee as USD/INR holds steady - investingLive",
@@ -48,7 +48,14 @@
       ]
     },
     {
-      "title": "GBP/USD Signal 20/08: Golden Cross, Inverted H/S - Daily Forex",
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - Daily Forex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -65,7 +72,7 @@
       "currencies": []
     },
     {
-      "title": "Best Multicurrency Bank Accounts For 2026 - Forbes",
+      "title": "Brazilian currency likely to face less turbulent election - Valor International",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -82,73 +89,66 @@
       ]
     },
     {
-      "title": "Brazilian currency likely to face less turbulent election - Valor International",
+      "title": "Best Multicurrency Bank Accounts For 2026 - Forbes",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "India's forex reserves hit three-month peak, see biggest weekly rise in six months - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9097,
-      "currencies": []
-    },
-    {
-      "title": "Springfield Properties seeks shareholder approval for buyback plan",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.27%",
+      "title": "Baird downgrades Teradyne stock rating on valuation concerns",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9707,
+      "score": -0.6914,
       "currencies": []
     },
     {
-      "title": "Gore Street Energy Storage Fund urges vote against Saba resolutions",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "British retail sales soften in July after June World Cup boost",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9295,
-      "currencies": []
-    },
-    {
-      "title": "Hyundai Motor\u2019s South Korean union stages first full strike in a decade over pay",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9334,
-      "currencies": []
-    },
-    {
-      "title": "Optima Health schedules AGM for Sept. 22, sends annual report",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Helios Underwriting increases share buyback program to \u00a32.5m",
+      "title": "Morgan Stanley upgrades Ternium stock rating on tariff outlook",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9237,
+      "score": 0.6683,
       "currencies": []
     },
     {
-      "title": "Public Policy Holding issues 181,822 shares from RSU vesting",
+      "title": "Citizens initiates Builders FirstSource stock at Market Perform",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Analysis-China tax crackdown forces wealthy investors to assess their offshore trusts",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9308,
+      "currencies": []
+    },
+    {
+      "title": "German business activity grows in August, PMI shows",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7211,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Arendals Fossekompani lifts q2 2026 profit as shares slip",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8881,
+      "currencies": []
+    },
+    {
+      "title": "Vp plc appoints Corinne Ripoche as non-executive director",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "KeyBanc upgrades Innovage stock rating on turnaround completion",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6932,
       "currencies": []
     }
   ],
