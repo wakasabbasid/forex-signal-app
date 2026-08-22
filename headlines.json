@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "U.S.-Japan \u2018Currency Alliance\u2019 Signals Deeper Coordination on Yen and Dollar - CryptoRank",
       "source": "Google News",
       "label": "bullish",
@@ -9,13 +16,6 @@
     },
     {
       "title": "Breaking down the U.S.-Japan \u201ccurrency alliance\u201d - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -62,14 +62,14 @@
       "currencies": []
     },
     {
-      "title": "The Dollar: from Debt Crisis to Currency Crisis - Action Forex",
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "title": "The Dollar: from Debt Crisis to Currency Crisis - Action Forex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -83,10 +83,17 @@
       "currencies": []
     },
     {
-      "title": "Wizzmoni Partners with Oman Air to Launch AI-Powered Co-Branded 'Wizz Voyager' Multi-Currency Travel Card - PR Newswire",
+      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.653,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Braze CBO Astha Malik sells $464,910 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -136,13 +143,6 @@
       "source": "Investing.com",
       "label": "bearish",
       "score": -0.8034,
-      "currencies": []
-    },
-    {
-      "title": "Iran grants permission for a number of Iraqi oil tankers to pass through Hormuz",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8685,
       "currencies": []
     }
   ],
