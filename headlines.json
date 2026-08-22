@@ -29,6 +29,13 @@
       "currencies": []
     },
     {
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "USD/MXN Forecast: Mexican Peso Reaches Levels Not Seen Since 2024 - FOREX.com",
       "source": "Google News",
       "label": "bullish",
@@ -48,14 +55,14 @@
       ]
     },
     {
-      "title": "Wise flags hidden forex markups in remittances - Philstar.com",
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "title": "Wise flags hidden forex markups in remittances - Philstar.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -69,20 +76,6 @@
       "currencies": []
     },
     {
-      "title": "RBI forex swap draws $73 billion till Aug 21; FCNR-B deposits account for $65 billion - CNBC TV18",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Best Multicurrency Bank Accounts For 2026 - Forbes",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -91,6 +84,20 @@
         "GBP",
         "USD"
       ]
+    },
+    {
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Iran condemns US plans to announce new sanctions",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5928,
+      "currencies": []
     },
     {
       "title": "Will Apple\u2019s risk appetite change under John Ternus?",
@@ -139,13 +146,6 @@
       "source": "Investing.com",
       "label": "bearish",
       "score": -0.8812,
-      "currencies": []
-    },
-    {
-      "title": "Wolfe Research sees CNH stock flat 2027 outlook on commodity prices",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8971,
       "currencies": []
     }
   ],
