@@ -69,6 +69,13 @@
       "currencies": []
     },
     {
+      "title": "Wizzmoni Partners with Oman Air to Launch AI-Powered Co-Branded 'Wizz Voyager' Multi-Currency Travel Card - PR Newswire",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.653,
+      "currencies": []
+    },
+    {
       "title": "EUR/USD forecast: Forex Friday, August 21, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -86,10 +93,24 @@
       "currencies": []
     },
     {
-      "title": "Emerging market currencies hit new highs amid dollar weakness - Investing.com",
-      "source": "Google News",
+      "title": "Vatican to build \u20ac100 million renewable energy plant, sources say",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin RSI hits 87 with MFI maxed at 100: Hourly levels",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8454,
+      "currencies": []
+    },
+    {
+      "title": "U.S. judge strikes down immigrant visa suspension covering 75 countries",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9335,
       "currencies": []
     },
     {
@@ -125,27 +146,6 @@
       "source": "Investing.com",
       "label": "bearish",
       "score": -0.6572,
-      "currencies": []
-    },
-    {
-      "title": "springbig Holdings earnings missed by $0.03, revenue fell short of estimates",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9697,
-      "currencies": []
-    },
-    {
-      "title": "U.S. tariffs on Canada take effect after trade talks collapse",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Universal safety products: Director Ault buys $183,344 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     }
   ],
