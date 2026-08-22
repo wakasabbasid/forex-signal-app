@@ -55,7 +55,7 @@
       ]
     },
     {
-      "title": "RBI forex swap draws $73 billion till Aug 21; FCNR-B deposits account for $65 billion - CNBC TV18",
+      "title": "Wise flags hidden forex markups in remittances - Philstar.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -63,6 +63,13 @@
     },
     {
       "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "RBI forex swap draws $73 billion till Aug 21; FCNR-B deposits account for $65 billion - CNBC TV18",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -83,14 +90,11 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
+      "title": "Putin says Ukraine opened \u2019Pandora\u2019s box\u2019 with strikes on economic targets",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7455,
+      "currencies": []
     },
     {
       "title": "Iran lets Iraqi oil tankers pass Hormuz as Trump claims \"total control\"",
@@ -139,13 +143,6 @@
       "source": "Investing.com",
       "label": "bearish",
       "score": -0.5833,
-      "currencies": []
-    },
-    {
-      "title": "BofA says CTA Treasury shorts stable, euro short-cover risk rises",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8242,
       "currencies": []
     }
   ],
