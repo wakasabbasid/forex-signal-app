@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg",
+      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -90,6 +90,13 @@
       "currencies": []
     },
     {
+      "title": "CTA equity positioning back to pre-Iran levels: BofA",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "BofA maintains underperform ratings on six BDC stocks",
       "source": "Investing.com",
       "label": "bearish",
@@ -136,13 +143,6 @@
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "World Kinect\u2019s 64% surge validates InvestingPro Fair Value analysis",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7324,
       "currencies": []
     }
   ],
