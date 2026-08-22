@@ -11,30 +11,10 @@
     ],
     "GBP/USD": [
       {
-        "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - DailyForex",
+        "title": "GBP/USD Signal 20/08: Golden Cross, Inverted H/S - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "US Dollar Price Forecast: DXY Breaks 99.38 as EUR/USD and GBP/USD Extend Gain",
-        "source": "Yahoo Finance",
-        "label": "bullish",
-        "score": 0.7951
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/USD forecast: Forex Friday, August 21, 2026 - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "US Dollar Price Forecast: DXY Breaks 99.38 as EUR/USD and GBP/USD Extend Gain",
-        "source": "Yahoo Finance",
-        "label": "bullish",
-        "score": 0.7951
       }
     ],
     "AUD/USD": [

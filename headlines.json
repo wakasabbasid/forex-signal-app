@@ -8,13 +8,6 @@
       "currencies": []
     },
     {
-      "title": "India's forex pile rises to six-month peak on sustained capital inflows - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8974,
-      "currencies": []
-    },
-    {
       "title": "Breaking down the U.S.-Japan \u201ccurrency alliance\u201d - Investing.com",
       "source": "Google News",
       "label": "neutral",
@@ -38,6 +31,13 @@
       ]
     },
     {
+      "title": "India's forex pile rises to six-month peak on sustained capital inflows - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8974,
+      "currencies": []
+    },
+    {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -45,7 +45,7 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - DailyForex",
+      "title": "GBP/USD Signal 20/08: Golden Cross, Inverted H/S - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -53,6 +53,13 @@
         "GBP",
         "USD"
       ]
+    },
+    {
+      "title": "RBI forex swap draws $73 billion till Aug 21; FCNR-B deposits account for $65 billion - CNBC TV18",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "The Dollar: from Debt Crisis to Currency Crisis - Action Forex",
@@ -76,18 +83,50 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD forecast: Forex Friday, August 21, 2026 - FOREX.com",
+      "title": "Wizzmoni Partners with Oman Air to Launch AI-Powered Co-Branded 'Wizz Voyager' Multi-Currency Travel Card - PR Newswire",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
+      "label": "bullish",
+      "score": 0.653,
+      "currencies": []
     },
     {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
-      "source": "Google News",
+      "title": "Bitcoin holds above $77,000 after Treasury-fuelled short squeeze",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7505,
+      "currencies": []
+    },
+    {
+      "title": "Braze CTO Hyman sells $282,288 of company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Trinet SVP Anthony Treadway sells $74,546 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Heritage Insurance president Johns sells $117,864 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Iran leaders urge end to war as U.S. prepares tougher sanctions",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Circle internet director M. Michele Burns sells $283,653 in stock",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
@@ -104,48 +143,6 @@
       "source": "Investing.com",
       "label": "bullish",
       "score": 0.8685,
-      "currencies": []
-    },
-    {
-      "title": "Goosehead Insurance director Serena Jones sells $2.05m in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Fossil group director Pamela Edwards buys $40,220 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "CoreCivic EVP David Garfinkle sells $1.7m in CXW stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "PTC Therapeutics director Schmertzler disposes of $1.8m in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Where are central banks keeping their gold?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Ukrainian drones hit warehouse of Russian online retailer Ozon in overnight strikes",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8266,
       "currencies": []
     }
   ],
