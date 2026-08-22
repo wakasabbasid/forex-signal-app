@@ -22,6 +22,13 @@
       "currencies": []
     },
     {
+      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "USD/MXN Forecast: Mexican Peso Reaches Levels Not Seen Since 2024 - FOREX.com",
       "source": "Google News",
       "label": "bullish",
@@ -29,13 +36,6 @@
       "currencies": [
         "USD"
       ]
-    },
-    {
-      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
     },
     {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
@@ -93,6 +93,41 @@
       "currencies": []
     },
     {
+      "title": "Ukrainian drones hit Ozon warehouse as Russia reports major overnight attack",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8034,
+      "currencies": []
+    },
+    {
+      "title": "Iran grants permission for a number of Iraqi oil tankers to pass through Hormuz",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8685,
+      "currencies": []
+    },
+    {
+      "title": "Goosehead Insurance director Serena Jones sells $2.05m in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Fossil group director Pamela Edwards buys $40,220 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "CoreCivic EVP David Garfinkle sells $1.7m in CXW stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "PTC Therapeutics director Schmertzler disposes of $1.8m in stock",
       "source": "Investing.com",
       "label": "neutral",
@@ -111,41 +146,6 @@
       "source": "Investing.com",
       "label": "bearish",
       "score": -0.8266,
-      "currencies": []
-    },
-    {
-      "title": "Vatican plans \u20ac100 million agrivoltaic energy plant near Rome",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Vatican to build \u20ac100 million renewable energy plant, sources say",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Bitcoin RSI hits 87 with MFI maxed at 100: Hourly levels",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8454,
-      "currencies": []
-    },
-    {
-      "title": "U.S. judge strikes down immigrant visa suspension covering 75 countries",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9335,
-      "currencies": []
-    },
-    {
-      "title": "China\u2019s robot games evolve from science fair to strategic showcase",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     }
   ],
