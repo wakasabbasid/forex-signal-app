@@ -83,10 +83,20 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s forex reserves fall by $7.7 billion to $690 billion: RBI - News On AIR",
+      "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9552,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
+      "title": "Iran lets Iraqi oil tankers pass Hormuz as Trump claims \"total control\"",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -136,13 +146,6 @@
       "source": "Investing.com",
       "label": "bullish",
       "score": 0.8242,
-      "currencies": []
-    },
-    {
-      "title": "e.l.f. Beauty SVP Joshua Franks sells $571,800 in common stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     }
   ],
