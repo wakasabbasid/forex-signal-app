@@ -24,6 +24,13 @@
       "currencies": []
     },
     {
+      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -55,13 +62,6 @@
       ]
     },
     {
-      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
@@ -90,6 +90,27 @@
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "springbig Holdings earnings missed by $0.03, revenue fell short of estimates",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9697,
+      "currencies": []
+    },
+    {
+      "title": "U.S. tariffs on Canada take effect after trade talks collapse",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US, Canada fail to reach a tariff deal, deepen trade war",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8458,
       "currencies": []
     },
     {
@@ -125,27 +146,6 @@
       "source": "Investing.com",
       "label": "bearish",
       "score": -0.8089,
-      "currencies": []
-    },
-    {
-      "title": "CoreWeave COO Sachin Jain sells $582,427 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Archer Aviation CSO Eric Lentell sells $631,000 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Crowdstrike CEO George Kurtz sells $1.93m in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     }
   ],
