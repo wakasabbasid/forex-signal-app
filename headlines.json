@@ -38,13 +38,6 @@
       ]
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "GBP/USD Signal 20/08: Golden Cross, Inverted H/S - Daily Forex",
       "source": "Google News",
       "label": "neutral",
@@ -69,13 +62,6 @@
       "currencies": []
     },
     {
-      "title": "RBI forex swap draws $73 billion till Aug 21; FCNR-B deposits account for $65 billion - CNBC TV18",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Wizzmoni Partners with Oman Air to Launch AI-Powered Co-Branded 'Wizz Voyager' Multi-Currency Travel Card - PR Newswire",
       "source": "Google News",
       "label": "bullish",
@@ -83,10 +69,48 @@
       "currencies": []
     },
     {
+      "title": "RBI forex swap draws $73 billion till Aug 21; FCNR-B deposits account for $65 billion - CNBC TV18",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Best Multicurrency Bank Accounts For 2026 - Forbes",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
+      "title": "Will Apple\u2019s risk appetite change under John Ternus?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Monthly market brief: equities, bonds, crypto, and commodities in August 2026",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Canada to match U.S. tariffs dollar for dollar after trade talks collapse",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9047,
       "currencies": []
     },
     {
@@ -122,27 +146,6 @@
       "source": "Investing.com",
       "label": "bearish",
       "score": -0.8971,
-      "currencies": []
-    },
-    {
-      "title": "Jefferies sees metals breakout on currency concerns",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8025,
-      "currencies": []
-    },
-    {
-      "title": "US hits Canadian goods with 50% tariffs after trade talks fail",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7524,
-      "currencies": []
-    },
-    {
-      "title": "Gamma, dealer hedging, and the 0DTE effect on market dynamics",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5833,
       "currencies": []
     }
   ],
