@@ -93,6 +93,27 @@
       "currencies": []
     },
     {
+      "title": "Paramount and California to hold preliminary talks on Warner Bros deal, NYT reports",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin hits RSI 83.7 with MFI maxed out: Live levels",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "What happens when the AI capex cycle slows?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5223,
+      "currencies": []
+    },
+    {
       "title": "Iran condemns US plans to announce new sanctions",
       "source": "Investing.com",
       "label": "bearish",
@@ -125,27 +146,6 @@
       "source": "Investing.com",
       "label": "bearish",
       "score": -0.7455,
-      "currencies": []
-    },
-    {
-      "title": "Iran lets Iraqi oil tankers pass Hormuz as Trump claims \"total control\"",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "CTA equity positioning back to pre-Iran levels: BofA",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "BofA maintains underperform ratings on six BDC stocks",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8812,
       "currencies": []
     }
   ],
