@@ -69,13 +69,6 @@
       "currencies": []
     },
     {
-      "title": "Best Multicurrency Bank Accounts For 2026 - Forbes",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Wizzmoni Partners with Oman Air to Launch AI-Powered Co-Branded 'Wizz Voyager' Multi-Currency Travel Card - PR Newswire",
       "source": "Google News",
       "label": "bullish",
@@ -83,14 +76,18 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
+      "title": "Best Multicurrency Bank Accounts For 2026 - Forbes",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
+      "currencies": []
+    },
+    {
+      "title": "India\u2019s forex reserves fall by $7.7 billion to $690 billion: RBI - News On AIR",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9552,
+      "currencies": []
     },
     {
       "title": "BofA maintains underperform ratings on six BDC stocks",
