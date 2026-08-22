@@ -36,11 +36,12 @@
       "currencies": []
     },
     {
-      "title": "USD/MXN Forecast: Mexican Peso Reaches Levels Not Seen Since 2024 - FOREX.com",
+      "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.5384,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
+        "GBP",
         "USD"
       ]
     },
@@ -62,13 +63,6 @@
       "currencies": []
     },
     {
-      "title": "Wise flags hidden forex markups in remittances - Philstar.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Wizzmoni Partners with Oman Air to Launch AI-Powered Co-Branded 'Wizz Voyager' Multi-Currency Travel Card - PR Newswire",
       "source": "Google News",
       "label": "bullish",
@@ -76,13 +70,20 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
+      "title": "Wise flags hidden forex markups in remittances - Philstar.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "USD/CHF bears stir as franc haven demand returns - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
-        "GBP",
-        "USD"
+        "USD",
+        "CHF"
       ]
     },
     {
@@ -90,6 +91,13 @@
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8736,
       "currencies": []
     },
     {
@@ -139,13 +147,6 @@
       "source": "Investing.com",
       "label": "bullish",
       "score": 0.9047,
-      "currencies": []
-    },
-    {
-      "title": "Putin says Ukraine opened \u2019Pandora\u2019s box\u2019 with strikes on economic targets",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7455,
       "currencies": []
     }
   ],

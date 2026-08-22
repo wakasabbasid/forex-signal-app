@@ -1,26 +1,32 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/JPY": [
-      {
-        "title": "USD/MXN Forecast: Mexican Peso Reaches Levels Not Seen Since 2024 - FOREX.com",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.5384
-      }
-    ],
     "GBP/USD": [
-      {
-        "title": "GBP/USD Signal 20/08: Golden Cross, Inverted H/S - Daily Forex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
       {
         "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "GBP/USD Signal 20/08: Golden Cross, Inverted H/S - Daily Forex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "USD/CHF": [
+      {
+        "title": "USD/CHF bears stir as franc haven demand returns - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "USD/CHF Price Forecast: Bulls reclaim 0.8000 as recovery stalls",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.5922
       }
     ],
     "AUD/USD": [
@@ -29,14 +35,6 @@
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.8524
-      }
-    ],
-    "USD/CHF": [
-      {
-        "title": "USD/CHF Price Forecast: Bulls reclaim 0.8000 as recovery stalls",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.5922
       }
     ]
   }
