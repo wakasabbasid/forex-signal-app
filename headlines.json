@@ -1,95 +1,24 @@
 {
   "headlines": [
     {
-      "title": "India's forex pile rises to six-month peak on sustained capital inflows - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8974,
-      "currencies": []
-    },
-    {
-      "title": "USD/MXN Forecast: Mexican Peso Reaches Levels Not Seen Since 2024 - FOREX.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5384,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg.com",
-      "source": "Google News",
+      "title": "Breaking down the U.S.-Japan \u201ccurrency alliance\u201d",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "title": "US, Canada fail to reach a tariff deal, deepen trade war",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8458,
       "currencies": []
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "The Dollar: from Debt Crisis to Currency Crisis - Action Forex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Emerging market currencies hit new highs amid dollar weakness - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Best Multicurrency Bank Accounts For 2026 - Forbes",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD forecast: Forex Friday, August 21, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "title": "Pentagon removes Stars and Stripes newspaper leadership",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6572,
       "currencies": []
     },
     {
@@ -104,13 +33,6 @@
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US, Canada fail to reach a tariff deal, deepen trade war",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8458,
       "currencies": []
     },
     {
@@ -146,6 +68,76 @@
       "source": "Investing.com",
       "label": "bearish",
       "score": -0.8089,
+      "currencies": []
+    },
+    {
+      "title": "investingLive Americas FX news wrap 21 Aug: Trump folds on beef tariffs.",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.6639,
+      "currencies": []
+    },
+    {
+      "title": "Nasdaq and S&P indices are settling between risk/bias defining MAs as the week comes to a close",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.5747,
+      "currencies": []
+    },
+    {
+      "title": "USDJPY sets the close guardrails for next week's trading",
+      "source": "ForexLive",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "AUDUSD is the biggest mover today and trades at highest level since early June",
+      "source": "ForexLive",
+      "label": "bullish",
+      "score": 0.7647,
+      "currencies": []
+    },
+    {
+      "title": "Baker Hughes rig count -5 at 588",
+      "source": "ForexLive",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "European stocks rebound Friday, but weekly losses dominate",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.9634,
+      "currencies": []
+    },
+    {
+      "title": "Brazil's Lula and US Pres. Trump held phone call on Friday.",
+      "source": "ForexLive",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Gold surges and breaks away from its 200 day MA",
+      "source": "ForexLive",
+      "label": "bullish",
+      "score": 0.5742,
+      "currencies": []
+    },
+    {
+      "title": "SNB Tschudin: Swiss inflation is low because of low inflation expectations",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.7188,
+      "currencies": []
+    },
+    {
+      "title": "Trump: Gets rid of 26.4% tariffs on imported beef and prices will come down by 25%",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.8746,
       "currencies": []
     }
   ],
