@@ -24,7 +24,7 @@
       "currencies": []
     },
     {
-      "title": "Forex Focus - tastylive",
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -32,13 +32,6 @@
     },
     {
       "title": "The Dollar: from Debt Crisis to Currency Crisis - Action Forex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -69,14 +62,14 @@
       "currencies": []
     },
     {
-      "title": "Best Multicurrency Bank Accounts For 2026 - Forbes",
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "title": "Best Multicurrency Bank Accounts For 2026 - Forbes",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -93,56 +86,63 @@
       ]
     },
     {
-      "title": "Karat packaging VP Cheng\u2019s spouse sells $212,985 in shares",
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Universal safety products: Director Ault buys $183,344 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Acm Research CFO Mark McKechnie sells $4.2m in stock",
+      "title": "Texas Roadhouse CEO Gerald Morgan sells $3.03m in TXRH stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Legalzoom COO & CFO Noel Watson sells $2.9m of LZ stock",
+      "title": "Trump says Iran not ready to make the \u2019right deal\u2019",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Lumentum EVP retort sells $2.05m in shares",
+      "title": "Moderna cancer vaccine breakthrough revives hopes for biotech turnaround",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9009,
       "currencies": []
     },
     {
-      "title": "Lumentum SVP, general counsel Jae Kim sells $1.58 million in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Judge narrows Ben & Jerry\u2019s lawsuit over alleged silencing of activism",
+      "title": "Iran threatens military response to US sanctions",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7819,
+      "score": -0.8089,
       "currencies": []
     },
     {
-      "title": "American Securities sells 7.9m SOLV Energy shares for $0",
+      "title": "CoreWeave COO Sachin Jain sells $582,427 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Illumina director Keith Meister sells $145.5m in shares",
+      "title": "Archer Aviation CSO Eric Lentell sells $631,000 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Crowdstrike CEO George Kurtz sells $1.93m in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
