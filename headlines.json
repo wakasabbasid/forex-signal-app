@@ -15,6 +15,13 @@
       "currencies": []
     },
     {
+      "title": "India's forex pile rises to six-month peak on sustained capital inflows - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8974,
+      "currencies": []
+    },
+    {
       "title": "Breaking down the U.S.-Japan \u201ccurrency alliance\u201d - Investing.com",
       "source": "Google News",
       "label": "neutral",
@@ -31,13 +38,6 @@
       ]
     },
     {
-      "title": "India's forex pile rises to six-month peak on sustained capital inflows - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8974,
-      "currencies": []
-    },
-    {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -45,7 +45,7 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Signal 20/08: Golden Cross, Inverted H/S - DailyForex",
+      "title": "GBP/USD Signal 20/08: Golden Cross, Inverted H/S - Daily Forex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -69,13 +69,6 @@
       "currencies": []
     },
     {
-      "title": "The Dollar: from Debt Crisis to Currency Crisis - Action Forex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Best Multicurrency Bank Accounts For 2026 - Forbes",
       "source": "Google News",
       "label": "neutral",
@@ -83,66 +76,76 @@
       "currencies": []
     },
     {
-      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg",
+      "title": "Wizzmoni Partners with Oman Air to Launch AI-Powered Co-Branded 'Wizz Voyager' Multi-Currency Travel Card - PR Newswire",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.653,
+      "currencies": []
+    },
+    {
+      "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
     },
     {
-      "title": "Braze CBO Astha Malik sells $464,910 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Bitcoin holds above $77,000 after Treasury-fuelled short squeeze",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7505,
-      "currencies": []
-    },
-    {
-      "title": "Braze CTO Hyman sells $282,288 of company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Trinet SVP Anthony Treadway sells $74,546 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Heritage Insurance president Johns sells $117,864 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Iran leaders urge end to war as U.S. prepares tougher sanctions",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Circle internet director M. Michele Burns sells $283,653 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Ukrainian drones hit Ozon warehouse as Russia reports major overnight attack",
+      "title": "BofA maintains underperform ratings on six BDC stocks",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8034,
+      "score": -0.8812,
+      "currencies": []
+    },
+    {
+      "title": "Wolfe Research sees CNH stock flat 2027 outlook on commodity prices",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8971,
+      "currencies": []
+    },
+    {
+      "title": "Jefferies sees metals breakout on currency concerns",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8025,
+      "currencies": []
+    },
+    {
+      "title": "US hits Canadian goods with 50% tariffs after trade talks fail",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7524,
+      "currencies": []
+    },
+    {
+      "title": "Gamma, dealer hedging, and the 0DTE effect on market dynamics",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5833,
+      "currencies": []
+    },
+    {
+      "title": "BofA says CTA Treasury shorts stable, euro short-cover risk rises",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8242,
+      "currencies": []
+    },
+    {
+      "title": "e.l.f. Beauty SVP Joshua Franks sells $571,800 in common stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "World Kinect\u2019s 64% surge validates InvestingPro Fair Value analysis",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7324,
       "currencies": []
     }
   ],
