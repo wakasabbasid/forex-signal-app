@@ -1,6 +1,30 @@
 {
   "run_id": 1,
   "pairs": {
+    "USD/JPY": [
+      {
+        "title": "USD/MXN Forecast: Mexican Peso Reaches Levels Not Seen Since 2024 - FOREX.com",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.5384
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Signal 18/08: Inverted H&S Pattern Forms Ahead - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/USD forecast: Forex Friday, August 21, 2026 - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
     "AUD/USD": [
       {
         "title": "AUD/USD Price Forecast: Bulls target YTD high after breakout",
