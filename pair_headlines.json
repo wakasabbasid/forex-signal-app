@@ -1,20 +1,6 @@
 {
   "run_id": 1,
   "pairs": {
-    "GBP/USD": [
-      {
-        "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "GBP/USD Signal 20/08: Golden Cross, Inverted H/S - Daily Forex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
     "USD/CHF": [
       {
         "title": "USD/CHF bears stir as franc haven demand returns - FOREX.com",
@@ -29,7 +15,27 @@
         "score": 0.5922
       }
     ],
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Signal 20/08: Golden Cross, Inverted H/S - Daily Forex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
     "AUD/USD": [
+      {
+        "title": "AUD/USD Signal 20/08: Bullish Breakout Above - Daily Forex",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.8134
+      },
       {
         "title": "AUD/USD Price Forecast: Bulls target YTD high after breakout",
         "source": "FXStreet",

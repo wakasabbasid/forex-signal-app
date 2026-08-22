@@ -8,6 +8,13 @@
       "currencies": []
     },
     {
+      "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0411\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0438",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "U.S.-Japan \u2018Currency Alliance\u2019 Signals Deeper Coordination on Yen and Dollar - CryptoRank",
       "source": "Google News",
       "label": "bullish",
@@ -29,20 +36,13 @@
       "currencies": []
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
+      "title": "USD/CHF bears stir as franc haven demand returns - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
-        "GBP",
-        "USD"
+        "USD",
+        "CHF"
       ]
     },
     {
@@ -54,13 +54,6 @@
         "GBP",
         "USD"
       ]
-    },
-    {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
     },
     {
       "title": "Wizzmoni Partners with Oman Air to Launch AI-Powered Co-Branded 'Wizz Voyager' Multi-Currency Travel Card - PR Newswire",
@@ -77,18 +70,56 @@
       "currencies": []
     },
     {
-      "title": "USD/CHF bears stir as franc haven demand returns - FOREX.com",
+      "title": "RBI forex swap draws $73 billion till Aug 21; FCNR-B deposits account for $65 billion - CNBC TV18",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
-        "USD",
-        "CHF"
+        "GBP",
+        "USD"
       ]
     },
     {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "title": "AUD/USD Signal 20/08: Bullish Breakout Above - Daily Forex",
       "source": "Google News",
+      "label": "bullish",
+      "score": 0.8134,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
+    },
+    {
+      "title": "Iran lets Iraqi oil tankers pass Hormuz as Trump claims \"total control\"",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Nvidia customers face over 15% server price hikes as memory costs soar - report",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.958,
+      "currencies": []
+    },
+    {
+      "title": "Canada\u2019s Unifor union, GM reach tentative agreements",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8815,
+      "currencies": []
+    },
+    {
+      "title": "Will Bessent\u2019s intervention mark a turning point for the yen?",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
@@ -119,34 +150,6 @@
       "source": "Investing.com",
       "label": "bearish",
       "score": -0.5223,
-      "currencies": []
-    },
-    {
-      "title": "Iran condemns US plans to announce new sanctions",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5928,
-      "currencies": []
-    },
-    {
-      "title": "Will Apple\u2019s risk appetite change under John Ternus?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Monthly market brief: equities, bonds, crypto, and commodities in August 2026",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Canada to match U.S. tariffs dollar for dollar after trade talks collapse",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9047,
       "currencies": []
     }
   ],
