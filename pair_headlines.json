@@ -15,6 +15,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "US Dollar Price Forecast: DXY Breaks 99.38 as EUR/USD and GBP/USD Extend Gain",
+        "source": "Yahoo Finance",
+        "label": "bullish",
+        "score": 0.7951
       }
     ],
     "EUR/USD": [
@@ -23,6 +29,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "US Dollar Price Forecast: DXY Breaks 99.38 as EUR/USD and GBP/USD Extend Gain",
+        "source": "Yahoo Finance",
+        "label": "bullish",
+        "score": 0.7951
       }
     ],
     "AUD/USD": [

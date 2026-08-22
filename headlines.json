@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "U.S.-Japan \u2018Currency Alliance\u2019 Signals Deeper Coordination on Yen and Dollar - CryptoRank",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9301,
+      "currencies": []
+    },
+    {
       "title": "India's forex pile rises to six-month peak on sustained capital inflows - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -69,13 +76,6 @@
       "currencies": []
     },
     {
-      "title": "Wizzmoni Partners with Oman Air to Launch AI-Powered Co-Branded 'Wizz Voyager' Multi-Currency Travel Card - PR Newswire",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.653,
-      "currencies": []
-    },
-    {
       "title": "EUR/USD forecast: Forex Friday, August 21, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -88,6 +88,34 @@
     {
       "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "PTC Therapeutics director Schmertzler disposes of $1.8m in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Where are central banks keeping their gold?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Ukrainian drones hit warehouse of Russian online retailer Ozon in overnight strikes",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8266,
+      "currencies": []
+    },
+    {
+      "title": "Vatican plans \u20ac100 million agrivoltaic energy plant near Rome",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
@@ -118,34 +146,6 @@
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Reform UK infighting complicates Farage\u2019s push to prepare party to govern",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9254,
-      "currencies": []
-    },
-    {
-      "title": "US hits Canadian goods with 50% tariffs after trade talks fail",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7524,
-      "currencies": []
-    },
-    {
-      "title": "Breaking down the U.S.-Japan \u201ccurrency alliance\u201d",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Pentagon removes Stars and Stripes newspaper leadership",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6572,
       "currencies": []
     }
   ],
