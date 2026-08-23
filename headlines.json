@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "India's forex pile rises to six-month peak on sustained capital inflows - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8974,
+      "currencies": []
+    },
+    {
       "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
@@ -8,11 +15,45 @@
       "currencies": []
     },
     {
-      "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0411\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0438",
+      "title": "EUR/USD weekly outlook: Dollar weakness ahead of Jackson Hole - FOREX.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9089,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "Sell U.S. dollar versus these currencies, BCA says - Investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
+    },
+    {
+      "title": "Markets Weekly 24 to 28/08: At a Tense Crossroads of Rates - Daily Forex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Dollar near three-month low on Treasury buyback worries - CNBC",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8254,
+      "currencies": []
+    },
+    {
+      "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - bfsi.economictimes.indiatimes.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "USD"
+      ]
     },
     {
       "title": "U.S.-Japan \u2018Currency Alliance\u2019 Signals Deeper Coordination on Yen and Dollar - CryptoRank",
@@ -22,55 +63,14 @@
       "currencies": []
     },
     {
-      "title": "India's forex pile rises to six-month peak on sustained capital inflows - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8974,
-      "currencies": []
-    },
-    {
-      "title": "Breaking down the U.S.-Japan \u201ccurrency alliance\u201d - Investing.com",
+      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "USD/CHF bears stir as franc haven demand returns - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "CHF"
-      ]
-    },
-    {
-      "title": "GBP/USD Signal 20/08: Golden Cross, Inverted H/S - Daily Forex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "Wizzmoni Partners with Oman Air to Launch AI-Powered Co-Branded 'Wizz Voyager' Multi-Currency Travel Card - PR Newswire",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.653,
-      "currencies": []
-    },
-    {
-      "title": "Wise flags hidden forex markups in remittances - Philstar.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "RBI forex swap draws $73 billion till Aug 21; FCNR-B deposits account for $65 billion - CNBC TV18",
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -87,69 +87,66 @@
       ]
     },
     {
-      "title": "AUD/USD Signal 20/08: Bullish Breakout Above - Daily Forex",
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.8134,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
-    },
-    {
-      "title": "Iran lets Iraqi oil tankers pass Hormuz as Trump claims \"total control\"",
-      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Nvidia customers face over 15% server price hikes as memory costs soar - report",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.958,
-      "currencies": []
-    },
-    {
-      "title": "Canada\u2019s Unifor union, GM reach tentative agreements",
+      "title": "Europe EV market share tops 25% in July as France, Germany drive growth",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8815,
+      "score": 0.9436,
       "currencies": []
     },
     {
-      "title": "Will Bessent\u2019s intervention mark a turning point for the yen?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports",
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8736,
+      "score": -0.9603,
       "currencies": []
     },
     {
-      "title": "Paramount and California to hold preliminary talks on Warner Bros deal, NYT reports",
+      "title": "Japan\u2019s stock market setup looks similar to late 2023. Here\u2019s what it means",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Bitcoin hits RSI 83.7 with MFI maxed out: Live levels",
+      "title": "Italy extends diesel tax cut to Wednesday amid rising fuel prices",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5828,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin coils in bull flag near $77K: Live levels",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "What happens when the AI capex cycle slows?",
+      "title": "Burry exits Alibaba, builds large JD.com position over valuation concerns",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5223,
+      "label": "bullish",
+      "score": 0.864,
+      "currencies": []
+    },
+    {
+      "title": "Turkey\u2019s central bank to restart one-week repo auctions",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

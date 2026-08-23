@@ -1,27 +1,23 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/CHF": [
+    "EUR/USD": [
       {
-        "title": "USD/CHF bears stir as franc haven demand returns - FOREX.com",
+        "title": "EUR/USD weekly outlook: Dollar weakness ahead of Jackson Hole - FOREX.com",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9089
+      }
+    ],
+    "USD/JPY": [
+      {
+        "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - bfsi.economictimes.indiatimes.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "USD/CHF Price Forecast: Bulls reclaim 0.8000 as recovery stalls",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.5922
       }
     ],
     "GBP/USD": [
-      {
-        "title": "GBP/USD Signal 20/08: Golden Cross, Inverted H/S - Daily Forex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
       {
         "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
         "source": "Google News",
@@ -29,18 +25,28 @@
         "score": 0.0
       }
     ],
-    "AUD/USD": [
+    "USD/CAD": [
       {
-        "title": "AUD/USD Signal 20/08: Bullish Breakout Above - Daily Forex",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.8134
-      },
+        "title": "Monday open indicative forex prices, 24 August 2026 - CAD weaker on trade war",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.9464
+      }
+    ],
+    "AUD/USD": [
       {
         "title": "AUD/USD Price Forecast: Bulls target YTD high after breakout",
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.8524
+      }
+    ],
+    "USD/CHF": [
+      {
+        "title": "USD/CHF Price Forecast: Bulls reclaim 0.8000 as recovery stalls",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.5922
       }
     ]
   }
