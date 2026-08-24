@@ -15,7 +15,17 @@
       "currencies": []
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "title": "EUR/USD Signal 24/08: Bullish Bond Market Jitters Remain - Daily Forex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7635,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "Rupee climbs to 95.64 against US dollar; Iran sanctions, crude prices in focus - The Times of India",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -32,7 +42,7 @@
       ]
     },
     {
-      "title": "Rupee climbs to 95.64 against US dollar; Iran sanctions, crude prices in focus - The Times of India",
+      "title": "Sterling Targets Fresh Highs as Dollar Weakness - TradingPedia",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -53,16 +63,6 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Signal 20/08: Golden Cross, Inverted H/S - Daily Forex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
       "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
@@ -77,10 +77,10 @@
       "currencies": []
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
+      "title": "Rupee rises 7 paise to 95.64 against U.S. dollar in early trade - The Hindu",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9371,
+      "score": 0.8832,
       "currencies": []
     },
     {
@@ -91,59 +91,59 @@
       "currencies": []
     },
     {
-      "title": "Dollar trading near multi-month lows, restrained by debt nerves",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.848,
-      "currencies": []
-    },
-    {
-      "title": "Hanmi Pharm shares jump 30% on Genentech obesity drug deal",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.929,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: GDI posts strong FY 2025 growth as Perth market tightens",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9508,
-      "currencies": []
-    },
-    {
-      "title": "Up +28% ahead of Q2 earnings, this software giant still has 49%+ upside",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9456,
-      "currencies": []
-    },
-    {
-      "title": "Norway will drill in Arctic regardless of EU\u2019s position, says energy minister",
+      "title": "Oil falls as US prepares to unveil new Iran sanctions",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "California expected to seek TV channel sales from Paramount-Warner, WSJ reports",
+      "title": "Wall St futures fall amid elevated yields; Nvidia results, Jackson Hole in focus",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9521,
+      "currencies": []
+    },
+    {
+      "title": "Rockhopper plans capital raise for second Sea Lion FPSO",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is Xiaomi stock sliding today?",
+      "title": "JPMorgan initiates Jersey Mike\u2019s stock with overweight rating",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9404,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "UAW members reject Deere contract extension offer",
+      "title": "Xiaomi launches new chip in partnership with TSMC, Reuters reports",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "High oil prices, subsidies and affordable models rev up European EV sales",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9218,
+      "currencies": []
+    },
+    {
+      "title": "Telecom Egypt upgraded to FTSE Russell mid-cap segment",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9193,
+      "currencies": []
+    },
+    {
+      "title": "Celsius Resources files disbarment complaint against lawyers",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8156,
+      "score": -0.8888,
       "currencies": []
     }
   ],
