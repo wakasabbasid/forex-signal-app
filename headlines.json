@@ -8,6 +8,13 @@
       "currencies": []
     },
     {
+      "title": "Ethiopia: Why $625m within nine days cannot close the dollar gap - The Africa Report",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "USD/MXN Tests 2024 Lows as Dollar Weakness Deepens - Daily Forex",
       "source": "Google News",
       "label": "bearish",
@@ -17,7 +24,7 @@
       ]
     },
     {
-      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg.com",
+      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -86,66 +93,59 @@
       "currencies": []
     },
     {
-      "title": "Sell U.S. dollar versus these currencies, BCA says - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "title": "Trellus Health enters administration, AIM delisting expected",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5067,
       "currencies": []
     },
     {
-      "title": "Why is Biomea Fusion stock climbing today?",
+      "title": "Wall Street futures under pressure ahead of Bessent briefing, Nvidia earnings",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5987,
+      "currencies": []
+    },
+    {
+      "title": "Alnylam to present clinical data on ATTR, hypertension drugs at ESC",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Oppenheimer raises Workday stock price target to $220 on AI momentum",
+      "title": "Booz Allen completes $720 million Ultra acquisition",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Moody\u2019s affirms Philippines\u2019 Baa2 rating with stable outlook",
+      "title": "Global Payments launches Genius World event in Las Vegas",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Better board defends CEO transition amid founder dispute",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8245,
+      "currencies": []
+    },
+    {
+      "title": "Lexicon earns $10M milestone from Novo Nordisk for obesity drug",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7075,
+      "score": 0.8984,
       "currencies": []
     },
     {
-      "title": "Gledhow Investments confirms director appointments, CLN reduction",
+      "title": "Expion Energy raises $9m through convertible debt offering",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Norwegian energy firms team up for frontier exploration",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Ashland launches intestinal permeation enhancer for oral drugs",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Solstice Gold expands Strathy project, acquires Leckie zone",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Mayfair Gold appoints two senior executives for Fenn-Gib project",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.7636,
       "currencies": []
     }
   ],
