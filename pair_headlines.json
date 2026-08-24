@@ -7,6 +7,20 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.9089
+      },
+      {
+        "title": "EUR/JPY Price Forecast: Softens to near 185.50, but maintaining constructive bias above 100-day SMA",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8556
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Signal 20/08: Golden Cross, Inverted H/S - Daily Forex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "USD/JPY": [
@@ -29,6 +43,18 @@
         "score": 0.0
       },
       {
+        "title": "EUR/JPY Price Forecast: Softens to near 185.50, but maintaining constructive bias above 100-day SMA",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8556
+      },
+      {
+        "title": "Gold hits fresh high since mid-May as lower bond yields and fading Fed bets undermine USD",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8578
+      },
+      {
         "title": "Silver Price Forecast: XAG/USD holds bullish below $70.00/two-month high set on Friday",
         "source": "FXStreet",
         "label": "bullish",
@@ -45,28 +71,6 @@
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.6661
-      },
-      {
-        "title": "PBOC sets USD/CNY reference rate at 6.7841 vs. 6.7817 previous",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "GBP/USD Signal 20/08: Golden Cross, Inverted H/S - Daily Forex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "USD/CHF": [
-      {
-        "title": "USD/CHF bears stir as franc haven demand returns - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
       }
     ]
   }

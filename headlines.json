@@ -32,21 +32,18 @@
       ]
     },
     {
-      "title": "Sell U.S. dollar versus these currencies, BCA says - Investing.com",
+      "title": "Rupee climbs to 95.64 against US dollar; Iran sanctions, crude prices in focus - The Times of India",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - bfsi.economictimes.indiatimes.com",
+      "title": "Sell U.S. dollar versus these currencies, BCA says - Investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "USD",
-        "USD"
-      ]
+      "currencies": []
     },
     {
       "title": "U.S.-Japan \u2018Currency Alliance\u2019 Signals Deeper Coordination on Yen and Dollar - CryptoRank",
@@ -87,69 +84,69 @@
       "currencies": []
     },
     {
-      "title": "USD/CHF bears stir as franc haven demand returns - FOREX.com",
+      "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - bfsi.economictimes.indiatimes.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
         "USD",
-        "CHF"
+        "USD"
       ]
     },
     {
-      "title": "Shein to pay up to $3.5 billion to select pre-IPO investors around Hong Kong listing",
+      "title": "Factbox-From Australia to Europe, countries move to curb children\u2019s social media access",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is Data3 stock surging today?",
+      "title": "California expected to seek TV channel sales from Paramount-Warner, WSJ reports",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Fast-fashion giant Shein shrinks value to $27 billion, at best, in Hong Kong IPO",
+      "title": "Morning Bid: Mixing economic wars, trade wars and actual wars",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Asian stocks sink as Samsung, Alibaba lead tech rout; Nvidia, Fed in focus",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9678,
+      "score": -0.927,
       "currencies": []
     },
     {
-      "title": "Alibaba shares plunge as Burry exits stake, shifts to JD.com",
+      "title": "Samsung vs SK Hynix: how their latest shareholder return plans compare",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why did MMG stock rise today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Scandal-hit KPMG Australia to cut nearly 400 jobs, warns of difficult market",
+      "title": "GDEV Inc earnings matched, revenue fell short of estimates",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9604,
+      "score": -0.9539,
       "currencies": []
     },
     {
-      "title": "Alibaba stock slumps in Hong Kong after $10.2 billion share placement to fund AI",
+      "title": "Why is Toei Animation stock surging today?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why is Endeavour stock falling today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9679,
+      "score": -0.8423,
       "currencies": []
     }
   ],
