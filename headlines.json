@@ -39,17 +39,17 @@
       "currencies": []
     },
     {
-      "title": "Sell U.S. dollar versus these currencies, BCA says - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "U.S.-Japan \u2018Currency Alliance\u2019 Signals Deeper Coordination on Yen and Dollar - CryptoRank",
       "source": "Google News",
       "label": "bullish",
       "score": 0.9301,
+      "currencies": []
+    },
+    {
+      "title": "Sell U.S. dollar versus these currencies, BCA says - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -63,14 +63,14 @@
       ]
     },
     {
-      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -84,17 +84,42 @@
       "currencies": []
     },
     {
-      "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - bfsi.economictimes.indiatimes.com",
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "USD",
-        "USD"
-      ]
+      "currencies": []
     },
     {
-      "title": "Factbox-From Australia to Europe, countries move to curb children\u2019s social media access",
+      "title": "Dollar trading near multi-month lows, restrained by debt nerves",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.848,
+      "currencies": []
+    },
+    {
+      "title": "Hanmi Pharm shares jump 30% on Genentech obesity drug deal",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.929,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: GDI posts strong FY 2025 growth as Perth market tightens",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9508,
+      "currencies": []
+    },
+    {
+      "title": "Up +28% ahead of Q2 earnings, this software giant still has 49%+ upside",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9456,
+      "currencies": []
+    },
+    {
+      "title": "Norway will drill in Arctic regardless of EU\u2019s position, says energy minister",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
@@ -108,45 +133,17 @@
       "currencies": []
     },
     {
-      "title": "Morning Bid: Mixing economic wars, trade wars and actual wars",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Asian stocks sink as Samsung, Alibaba lead tech rout; Nvidia, Fed in focus",
+      "title": "Why is Xiaomi stock sliding today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.927,
+      "score": -0.9404,
       "currencies": []
     },
     {
-      "title": "Samsung vs SK Hynix: how their latest shareholder return plans compare",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "GDEV Inc earnings matched, revenue fell short of estimates",
+      "title": "UAW members reject Deere contract extension offer",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9539,
-      "currencies": []
-    },
-    {
-      "title": "Why is Toei Animation stock surging today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is Endeavour stock falling today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8423,
+      "score": -0.8156,
       "currencies": []
     }
   ],

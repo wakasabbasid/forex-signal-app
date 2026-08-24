@@ -25,19 +25,7 @@
     ],
     "USD/JPY": [
       {
-        "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - bfsi.economictimes.indiatimes.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
         "title": "PBOC sets USD/ CNY reference rate for today at 6.7841 (vs. estimate at 6.7248)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7248 \u2013 Reuters estimate",
         "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
@@ -65,12 +53,14 @@
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.792
-      },
+      }
+    ],
+    "NZD/USD": [
       {
-        "title": "British Pound holds near Feb. 11 highs vs weak USD as bulls await breakout above 1.3660",
+        "title": "NZD/USD Price Forecast: Consolidates near June high as bulls await breakout through 0.6000",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.6661
+        "score": 0.7989
       }
     ]
   }
