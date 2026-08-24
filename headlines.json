@@ -36,7 +36,7 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg",
+      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -83,14 +83,26 @@
       ]
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "title": "RBI's USD-INR Swap Facility Sparks Unprecedented Forex Inflows, Banks Raise USD 73 Billion in 11 weeks - DD India",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
+      "label": "bullish",
+      "score": 0.9272,
+      "currencies": [
+        "USD",
+        "USD"
+      ]
     },
     {
-      "title": "Energys Group acquires lighting and solar installation firms",
+      "title": "Brinker International stock hits all-time high at 253.72 USD",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6203,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Teradyne declares $0.13 quarterly dividend",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
@@ -104,45 +116,38 @@
       "currencies": []
     },
     {
-      "title": "AeroVironment plans $100M California campus consolidation",
+      "title": "Tech drags S&P 500, Nasdaq lower as more Iran sanctions, Nvidia earnings loom",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9384,
+      "currencies": []
+    },
+    {
+      "title": "Chinese hackers use DeepSeek AI to boost attacks",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Tenon Medical regains Nasdaq minimum bid price compliance",
+      "title": "US unveils \u2019economic D-Day\u2019 of sanctions to isolate Iran",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Protolabs names Sam Ramahi as chief operations officer",
+      "title": "Progressive CIO Steven Broz sells $268,765 in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "P&G chief brand officer Marc Pritchard sells $579,473 in stock",
+      "title": "SLB options activity surges as call volume outpaces puts nearly 6-to-1",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Top Infrastructure Services Stocks to Watch, Says DA Davidson",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Axis Bank to redeem $600 million AT1 notes on Sept. 8",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9334,
       "currencies": []
     }
   ],
