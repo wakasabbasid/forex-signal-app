@@ -13,14 +13,18 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      }
-    ],
-    "USD/CHF": [
+      },
       {
-        "title": "USD/CHF bears stir as franc haven demand returns - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "title": "Global Payments stock hits 52-week high at 95.59 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.5649
+      },
+      {
+        "title": "USDCHF stretches higher with USD selling but finds willing sellers against technical targets",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.6867
       }
     ]
   }

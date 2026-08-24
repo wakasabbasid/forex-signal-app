@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "Dollar forecast: All eyes on bond markets - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "India's forex pile rises to six-month peak on sustained capital inflows - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -24,7 +31,7 @@
       ]
     },
     {
-      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg",
+      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -62,16 +69,6 @@
       "currencies": []
     },
     {
-      "title": "USD/CHF bears stir as franc haven demand returns - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "CHF"
-      ]
-    },
-    {
       "title": "Sterling Targets Fresh Highs as Dollar Weakness - TradingPedia",
       "source": "Google News",
       "label": "neutral",
@@ -93,59 +90,61 @@
       "currencies": []
     },
     {
-      "title": "Trellus Health enters administration, AIM delisting expected",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5067,
-      "currencies": []
-    },
-    {
-      "title": "Wall Street futures under pressure ahead of Bessent briefing, Nvidia earnings",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5987,
-      "currencies": []
-    },
-    {
-      "title": "Alnylam to present clinical data on ATTR, hypertension drugs at ESC",
+      "title": "Karo Platinum secures mining lease for Zimbabwe project",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Booz Allen completes $720 million Ultra acquisition",
+      "title": "T Stamp CEO Genner buys $3,210 in Class A common stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Global Payments launches Genius World event in Las Vegas",
+      "title": "Heimstaden Bostad issues SEK 1.5 billion in green notes",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Better board defends CEO transition amid founder dispute",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8245,
-      "currencies": []
-    },
-    {
-      "title": "Lexicon earns $10M milestone from Novo Nordisk for obesity drug",
+      "title": "Match Group stock hits 52-week high at $41.43",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8984,
+      "score": 0.7454,
       "currencies": []
     },
     {
-      "title": "Expion Energy raises $9m through convertible debt offering",
+      "title": "Global Payments stock hits 52-week high at 95.59 USD",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7636,
+      "score": 0.5649,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Zillow settles FTC claims it paid Redfin to stop competing on apartment listings",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9143,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin rises above $78k after regulatory hopes drive strong rebound",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8921,
+      "currencies": []
+    },
+    {
+      "title": "Why is Vital Farms stock rallying today?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
