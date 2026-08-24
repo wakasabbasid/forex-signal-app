@@ -8,7 +8,7 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg.com",
+      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -56,11 +56,14 @@
       "currencies": []
     },
     {
-      "title": "Markets Weekly 24 to 28/08: At a Tense Crossroads of Rates - Daily Forex",
+      "title": "GBP/USD Signal 20/08: Golden Cross, Inverted H/S - Daily Forex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
     },
     {
       "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
@@ -84,17 +87,55 @@
       "currencies": []
     },
     {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "title": "USD/CHF bears stir as franc haven demand returns - FOREX.com",
       "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "CHF"
+      ]
+    },
+    {
+      "title": "Shein to pay up to $3.5 billion to select pre-IPO investors around Hong Kong listing",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US vows \u2019economic D-Day\u2019 as Iran threatens to halt all oil exports",
+      "title": "Why is Data3 stock surging today?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Fast-fashion giant Shein shrinks value to $27 billion, at best, in Hong Kong IPO",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7372,
+      "score": -0.9678,
+      "currencies": []
+    },
+    {
+      "title": "Alibaba shares plunge as Burry exits stake, shifts to JD.com",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why did MMG stock rise today?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -105,45 +146,10 @@
       "currencies": []
     },
     {
-      "title": "Ventia HY26 slides: record 9.4% margin amid revenue transition",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9505,
-      "currencies": []
-    },
-    {
-      "title": "Adairs FY26 slides: two brands thrive as Focus turnaround begins",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9093,
-      "currencies": []
-    },
-    {
-      "title": "Adairs FY26 slides: core brands gain as Focus turnaround begins",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8001,
-      "currencies": []
-    },
-    {
-      "title": "Ampol profit surges nearly five-fold as Iran war boosts refining margins",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9464,
-      "currencies": []
-    },
-    {
-      "title": "Samsung Electronics shares skid as record shareholder returns disappoint",
+      "title": "Alibaba stock slumps in Hong Kong after $10.2 billion share placement to fund AI",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9647,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Ventia lifts margin in H1 2026 as stock rises",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9432,
+      "score": -0.9679,
       "currencies": []
     }
   ],

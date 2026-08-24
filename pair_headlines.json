@@ -29,6 +29,12 @@
         "score": 0.0
       },
       {
+        "title": "Silver Price Forecast: XAG/USD holds bullish below $70.00/two-month high set on Friday",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.7405
+      },
+      {
         "title": "Canadian Dollar bears seem hesitant as weak USD counters US-Canada trade war",
         "source": "FXStreet",
         "label": "bearish",
@@ -47,12 +53,20 @@
         "score": 0.0
       }
     ],
-    "AUD/USD": [
+    "GBP/USD": [
       {
-        "title": "AUD/USD Price Forecast: Bulls target YTD high after breakout",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8524
+        "title": "GBP/USD Signal 20/08: Golden Cross, Inverted H/S - Daily Forex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "USD/CHF": [
+      {
+        "title": "USD/CHF bears stir as franc haven demand returns - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }
