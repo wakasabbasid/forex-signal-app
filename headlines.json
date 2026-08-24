@@ -15,6 +15,13 @@
       "currencies": []
     },
     {
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "EUR/USD weekly outlook: Dollar weakness ahead of Jackson Hole - FOREX.com",
       "source": "Google News",
       "label": "bearish",
@@ -29,20 +36,6 @@
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Markets Weekly 24 to 28/08: At a Tense Crossroads of Rates - Daily Forex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Dollar near three-month low on Treasury buyback worries - CNBC",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8254,
       "currencies": []
     },
     {
@@ -63,6 +56,13 @@
       "currencies": []
     },
     {
+      "title": "Markets Weekly 24 to 28/08: At a Tense Crossroads of Rates - Daily Forex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
       "source": "Google News",
       "label": "neutral",
@@ -77,14 +77,11 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
+      "label": "bullish",
+      "score": 0.9371,
+      "currencies": []
     },
     {
       "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
@@ -94,59 +91,59 @@
       "currencies": []
     },
     {
-      "title": "Europe EV market share tops 25% in July as France, Germany drive growth",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9436,
-      "currencies": []
-    },
-    {
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "title": "US vows \u2019economic D-Day\u2019 as Iran threatens to halt all oil exports",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9603,
+      "score": -0.7372,
       "currencies": []
     },
     {
-      "title": "Japan\u2019s stock market setup looks similar to late 2023. Here\u2019s what it means",
+      "title": "Scandal-hit KPMG Australia to cut nearly 400 jobs, warns of difficult market",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9604,
       "currencies": []
     },
     {
-      "title": "Italy extends diesel tax cut to Wednesday amid rising fuel prices",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5828,
-      "currencies": []
-    },
-    {
-      "title": "Bitcoin coils in bull flag near $77K: Live levels",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Burry exits Alibaba, builds large JD.com position over valuation concerns",
+      "title": "Ventia HY26 slides: record 9.4% margin amid revenue transition",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.864,
+      "score": 0.9505,
       "currencies": []
     },
     {
-      "title": "Turkey\u2019s central bank to restart one-week repo auctions",
+      "title": "Adairs FY26 slides: two brands thrive as Focus turnaround begins",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9093,
       "currencies": []
     },
     {
-      "title": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending",
+      "title": "Adairs FY26 slides: core brands gain as Focus turnaround begins",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.8001,
+      "currencies": []
+    },
+    {
+      "title": "Ampol profit surges nearly five-fold as Iran war boosts refining margins",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9464,
+      "currencies": []
+    },
+    {
+      "title": "Samsung Electronics shares skid as record shareholder returns disappoint",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9647,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Ventia lifts margin in H1 2026 as stock rises",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9432,
       "currencies": []
     }
   ],

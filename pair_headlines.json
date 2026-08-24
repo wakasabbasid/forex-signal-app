@@ -15,22 +15,36 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      }
-    ],
-    "GBP/USD": [
+      },
       {
-        "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
-        "source": "Google News",
+        "title": "PBOC sets USD/ CNY reference rate for today at 6.7841 (vs. estimate at 6.7248)",
+        "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
-      }
-    ],
-    "USD/CAD": [
+      },
       {
-        "title": "Monday open indicative forex prices, 24 August 2026 - CAD weaker on trade war",
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7248 \u2013 Reuters estimate",
         "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Canadian Dollar bears seem hesitant as weak USD counters US-Canada trade war",
+        "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9464
+        "score": -0.792
+      },
+      {
+        "title": "British Pound holds near Feb. 11 highs vs weak USD as bulls await breakout above 1.3660",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.6661
+      },
+      {
+        "title": "PBOC sets USD/CNY reference rate at 6.7841 vs. 6.7817 previous",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "AUD/USD": [
@@ -39,14 +53,6 @@
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.8524
-      }
-    ],
-    "USD/CHF": [
-      {
-        "title": "USD/CHF Price Forecast: Bulls reclaim 0.8000 as recovery stalls",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.5922
       }
     ]
   }
