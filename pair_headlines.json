@@ -19,18 +19,14 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.9272
-      },
+      }
+    ],
+    "USD/CAD": [
       {
-        "title": "Brinker International stock hits all-time high at 253.72 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.6203
-      },
-      {
-        "title": "USDCHF stretches higher with USD selling but finds willing sellers against technical targets",
-        "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.6867
+        "title": "USD/CAD rises as US-Canada trade talks fall through",
+        "source": "Bloomberg",
+        "label": "bearish",
+        "score": -0.9429
       }
     ]
   }

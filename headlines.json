@@ -8,13 +8,6 @@
       "currencies": []
     },
     {
-      "title": "Dollar forecast: All eyes on bond markets - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "India's forex pile rises to six-month peak on sustained capital inflows - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -22,14 +15,7 @@
       "currencies": []
     },
     {
-      "title": "RBI\u2019s FCNR(B) forex swap scheme mobilises $73 billion in foreign exchange inflows - TradingView",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Ethiopia: Why $625m within nine days cannot close the dollar gap - The Africa Report",
+      "title": "Dollar forecast: All eyes on bond markets - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -37,6 +23,13 @@
     },
     {
       "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Ethiopia: Why $625m within nine days cannot close the dollar gap - The Africa Report",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -93,40 +86,59 @@
       ]
     },
     {
-      "title": "Brinker International stock hits all-time high at 253.72 USD",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6203,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Teradyne declares $0.13 quarterly dividend",
-      "source": "Investing.com",
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Trump threatens 50% tariffs on all cars and trucks from Canada amid trade fight",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Tech drags S&P 500, Nasdaq lower as more Iran sanctions, Nvidia earnings loom",
+      "title": "Bernstein SocGen cuts XPeng stock price target on wider losses",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9384,
+      "score": -0.5849,
       "currencies": []
     },
     {
-      "title": "Chinese hackers use DeepSeek AI to boost attacks",
+      "title": "Safety Insurance Group stock hits 52-week high at $103.76",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6546,
+      "currencies": []
+    },
+    {
+      "title": "California cancels talks with Paramount over Warner Bros deal",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8622,
+      "currencies": []
+    },
+    {
+      "title": "US ethanol credit prices slump after EPA delays biofuel compliance deadline",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9707,
+      "currencies": []
+    },
+    {
+      "title": "Tesla stops selling solar roofs a decade after launch",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5125,
+      "currencies": []
+    },
+    {
+      "title": "Treasury launches task force to prepare finance sector for quantum computing risks",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Automakers down on Trump threats: is there a TACO trade here?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6955,
       "currencies": []
     },
     {
@@ -134,20 +146,6 @@
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Progressive CIO Steven Broz sells $268,765 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "SLB options activity surges as call volume outpaces puts nearly 6-to-1",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9334,
       "currencies": []
     }
   ],
