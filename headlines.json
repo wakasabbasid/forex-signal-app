@@ -8,21 +8,20 @@
       "currencies": []
     },
     {
+      "title": "USD/MXN Tests 2024 Lows as Dollar Weakness Deepens - Daily Forex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9336,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
-    },
-    {
-      "title": "GBP/USD: Breakout Momentum Faces a Crucial Test - Daily Forex",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8382,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
     },
     {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
@@ -32,17 +31,7 @@
       "currencies": []
     },
     {
-      "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - bfsi.economictimes.indiatimes.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "USD"
-      ]
-    },
-    {
-      "title": "Sterling Targets Fresh Highs as Dollar Weakness - TradingPedia",
+      "title": "Rupee climbs to 95.64 against US dollar; Iran sanctions, crude prices in focus - The Times of India",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -64,6 +53,13 @@
         "USD",
         "CHF"
       ]
+    },
+    {
+      "title": "Gold Extends Rally as Treasury Buyback Plan Pressures Dollar - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6841,
+      "currencies": []
     },
     {
       "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
@@ -94,59 +90,59 @@
       "currencies": []
     },
     {
-      "title": "Why is Coca-Cola Icecek stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9274,
-      "currencies": []
-    },
-    {
-      "title": "Why is Hennessy Capital Investment VII stock surging today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Take Five: Six months of war",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is Cellnex Telecom stock climbing today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is Sadot stock surging today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is Picard Medical stock surging over 40% today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Citizens reiterates Market Perform on Tesla stock after robotaxi approval",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Mizuho initiates Jersey Mike\u2019s stock with Outperform on growth outlook",
+      "title": "Orange receives EU approval for Nexera acquisition with APG",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6724,
+      "score": 0.8867,
+      "currencies": []
+    },
+    {
+      "title": "TD Cowen initiates Jersey Mike\u2019s stock with buy rating on growth",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Wolfe Research initiates Jersey Mike\u2019s stock rating at Peerperform",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Wolfe Research raises Humana stock price target to $450 on margin outlook",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "XPeng robotics unit raises over $900 million in funding round",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8562,
+      "currencies": []
+    },
+    {
+      "title": "Union Jack Oil shareholders approve board overhaul",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why is Siegfried stock sliding today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8858,
+      "currencies": []
+    },
+    {
+      "title": "BofA raises Williams-Sonoma stock price target to $261 on growth",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5417,
       "currencies": []
     }
   ],
