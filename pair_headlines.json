@@ -1,30 +1,12 @@
 {
   "run_id": 1,
   "pairs": {
-    "EUR/USD": [
+    "USD/CHF": [
       {
-        "title": "EUR/USD Signal 24/08: Bullish Bond Market Jitters Remain - Daily Forex",
+        "title": "USD/CHF bears stir as franc haven demand returns - FOREX.com",
         "source": "Google News",
-        "label": "bearish",
-        "score": -0.7635
-      },
-      {
-        "title": "EUR/USD weekly outlook: Dollar weakness ahead of Jackson Hole - FOREX.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9089
-      },
-      {
-        "title": "EUR/USD Price Forecast: Holds steady below 1.1700 as overbought momentum tempers further gains",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.7629
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Softens to near 185.50, but maintaining constructive bias above 100-day SMA",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8556
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "USD/JPY": [
@@ -35,18 +17,26 @@
         "score": 0.0
       },
       {
-        "title": "EUR/JPY Price Forecast: Softens to near 185.50, but maintaining constructive bias above 100-day SMA",
+        "title": "Silver Price Forecast: XAG/USD steadies around $69.00 amid US bond buybacks",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.8556
+        "score": 0.8865
       }
     ],
-    "NZD/USD": [
+    "EUR/USD": [
       {
-        "title": "NZD/USD Price Forecast: Consolidates near June high as bulls await breakout through 0.6000",
+        "title": "EUR/GBP Price Forecast: Bears remain in control with 0.8550 support area on focus",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.7989
+        "score": 0.8978
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "EUR/GBP Price Forecast: Bears remain in control with 0.8550 support area on focus",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8978
       }
     ]
   }

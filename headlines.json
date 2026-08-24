@@ -8,21 +8,18 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg",
+      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "EUR/USD Signal 24/08: Bullish Bond Market Jitters Remain - Daily Forex",
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.7635,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "Rupee climbs to 95.64 against US dollar; Iran sanctions, crude prices in focus - The Times of India",
@@ -30,16 +27,6 @@
       "label": "neutral",
       "score": 0.0,
       "currencies": []
-    },
-    {
-      "title": "EUR/USD weekly outlook: Dollar weakness ahead of Jackson Hole - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9089,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
     },
     {
       "title": "Sterling Targets Fresh Highs as Dollar Weakness - TradingPedia",
@@ -56,7 +43,17 @@
       "currencies": []
     },
     {
-      "title": "Sell U.S. dollar versus these currencies, BCA says - Investing.com",
+      "title": "USD/CHF bears stir as franc haven demand returns - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "CHF"
+      ]
+    },
+    {
+      "title": "Breaking down the U.S.-Japan \u201ccurrency alliance\u201d - Investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -77,10 +74,10 @@
       "currencies": []
     },
     {
-      "title": "Rupee rises 7 paise to 95.64 against U.S. dollar in early trade - The Hindu",
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8832,
+      "score": 0.9371,
       "currencies": []
     },
     {
@@ -91,59 +88,59 @@
       "currencies": []
     },
     {
-      "title": "Oil falls as US prepares to unveil new Iran sanctions",
+      "title": "PDI Gold completes name change and share consolidation",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Wall St futures fall amid elevated yields; Nvidia results, Jackson Hole in focus",
+      "title": "Wall St futures under pressure ahead of Bessent briefing, Nvidia earnings",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9521,
+      "score": -0.6685,
       "currencies": []
     },
     {
-      "title": "Rockhopper plans capital raise for second Sea Lion FPSO",
+      "title": "Morgan Stanley initiates Reformation stock coverage at Equalweight",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "JPMorgan initiates Jersey Mike\u2019s stock with overweight rating",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Xiaomi launches new chip in partnership with TSMC, Reuters reports",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "High oil prices, subsidies and affordable models rev up European EV sales",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9218,
-      "currencies": []
-    },
-    {
-      "title": "Telecom Egypt upgraded to FTSE Russell mid-cap segment",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9193,
-      "currencies": []
-    },
-    {
-      "title": "Celsius Resources files disbarment complaint against lawyers",
+      "title": "Indonesia stocks lower at close of trade; IDX Composite Index down 0.60%",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8888,
+      "score": -0.968,
+      "currencies": []
+    },
+    {
+      "title": "Six countries want EU talks in September on taxing windfall profits of oil companies",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why is Tracsis stock surging today?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Alibaba launches Wan3.0 AI video model after $10 billion\u00a0share sale",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Barclays upgrades Segro stock rating on Prologis deal terms",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6341,
       "currencies": []
     }
   ],
