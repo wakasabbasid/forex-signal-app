@@ -22,6 +22,13 @@
       "currencies": []
     },
     {
+      "title": "RBI\u2019s FCNR(B) forex swap scheme mobilises $73 billion in foreign exchange inflows - TradingView",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Ethiopia: Why $625m within nine days cannot close the dollar gap - The Africa Report",
       "source": "Google News",
       "label": "neutral",
@@ -29,20 +36,20 @@
       "currencies": []
     },
     {
-      "title": "USD/MXN Tests 2024 Lows as Dollar Weakness Deepens - Daily Forex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9336,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
       "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
+    },
+    {
+      "title": "USD/MXN Tests 2024 Lows as Dollar Weakness Deepens - DailyForex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8948,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
@@ -76,75 +83,66 @@
       ]
     },
     {
-      "title": "India\u2019s forex reserves fall by $7.7 billion to $690 billion: RBI - News On AIR",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9552,
-      "currencies": []
-    },
-    {
-      "title": "Sterling Targets Fresh Highs as Dollar Weakness - TradingPedia",
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "MTN H1 2026 slides: record margins drive 21% earnings growth",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9442,
-      "currencies": []
-    },
-    {
-      "title": "Evercore ISI raises MetLife stock price target to $106 on earnings",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Trump administration moves to impose more than $100,000 fee for H-1B worker visas",
+      "title": "Wall Street mixed amid falling tech stocks, rising U.S.-Canada trade tensions",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7823,
+      "score": -0.9523,
       "currencies": []
     },
     {
-      "title": "Trump threatens 50% tariffs on all cars and trucks from Canada amid trade fight",
+      "title": "Exclusive-Japan eyes tax breaks for non-core business sales in governance reform push, sources say",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Itron\u2019s SVP, Networked Solutions Marcolini sells $26,902 of stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Itron CEO Thomas Deitrich sells $76,597 in ITRI shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Alto Neuroscience stock hits all-time high at 35.42 USD",
+      "title": "Microchip Technology options surge to record call volume as diagonal spread signals institutional bet",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7722,
-      "currencies": [
-        "USD"
-      ]
+      "score": 0.9311,
+      "currencies": []
     },
     {
-      "title": "Benchmark maintains Warner Brothers Discovery stock rating amid Paramount merger talks",
+      "title": "France stocks lower at close of trade; CAC 40 down 0.37%",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6497,
+      "score": -0.9641,
+      "currencies": []
+    },
+    {
+      "title": "Belgium stocks higher at close of trade; BEL 20 up 0.11%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9426,
+      "currencies": []
+    },
+    {
+      "title": "European stocks close mixed as markets await Iran sanctions",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8044,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: NAPCO Security tops Q4 estimates, shares jump 11% on outlook",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9383,
+      "currencies": []
+    },
+    {
+      "title": "Sweden stocks lower at close of trade; OMX Stockholm 30 down 0.05%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9671,
       "currencies": []
     }
   ],

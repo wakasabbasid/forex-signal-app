@@ -3,10 +3,10 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "USD/MXN Tests 2024 Lows as Dollar Weakness Deepens - Daily Forex",
+        "title": "USD/MXN Tests 2024 Lows as Dollar Weakness Deepens - DailyForex",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.9336
+        "score": -0.8948
       },
       {
         "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - Economic Times BFSI",
@@ -15,22 +15,16 @@
         "score": 0.0
       },
       {
-        "title": "Alto Neuroscience stock hits all-time high at 35.42 USD",
+        "title": "Walker & Dunlop stock hits 52-week low at 39.43 USD",
         "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.7722
+        "label": "bearish",
+        "score": -0.9533
       },
       {
         "title": "USDCHF stretches higher with USD selling but finds willing sellers against technical targets",
         "source": "ForexLive",
         "label": "bullish",
         "score": 0.6867
-      },
-      {
-        "title": "Dollar (USD) Outlook: What Is the \u2018Debasement Trade\u2019 and Why Does It Matter?",
-        "source": "Bloomberg",
-        "label": "neutral",
-        "score": 0.0
       }
     ]
   }
