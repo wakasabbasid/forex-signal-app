@@ -15,6 +15,16 @@
       "currencies": []
     },
     {
+      "title": "GBP/USD: Breakout Momentum Faces a Crucial Test - Daily Forex",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8382,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -22,11 +32,14 @@
       "currencies": []
     },
     {
-      "title": "Rupee climbs to 95.64 against US dollar; Iran sanctions, crude prices in focus - The Times of India",
+      "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - bfsi.economictimes.indiatimes.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "USD",
+        "USD"
+      ]
     },
     {
       "title": "Sterling Targets Fresh Highs as Dollar Weakness - TradingPedia",
@@ -53,13 +66,6 @@
       ]
     },
     {
-      "title": "Breaking down the U.S.-Japan \u201ccurrency alliance\u201d - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
@@ -74,6 +80,13 @@
       "currencies": []
     },
     {
+      "title": "Sell U.S. dollar versus these currencies, BCA says - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
       "source": "Google News",
       "label": "bullish",
@@ -81,66 +94,59 @@
       "currencies": []
     },
     {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "PDI Gold completes name change and share consolidation",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Wall St futures under pressure ahead of Bessent briefing, Nvidia earnings",
+      "title": "Why is Coca-Cola Icecek stock sliding today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6685,
+      "score": -0.9274,
       "currencies": []
     },
     {
-      "title": "Morgan Stanley initiates Reformation stock coverage at Equalweight",
+      "title": "Why is Hennessy Capital Investment VII stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Indonesia stocks lower at close of trade; IDX Composite Index down 0.60%",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.968,
-      "currencies": []
-    },
-    {
-      "title": "Six countries want EU talks in September on taxing windfall profits of oil companies",
+      "title": "Take Five: Six months of war",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is Tracsis stock surging today?",
+      "title": "Why is Cellnex Telecom stock climbing today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Alibaba launches Wan3.0 AI video model after $10 billion\u00a0share sale",
+      "title": "Why is Sadot stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Barclays upgrades Segro stock rating on Prologis deal terms",
+      "title": "Why is Picard Medical stock surging over 40% today?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Citizens reiterates Market Perform on Tesla stock after robotaxi approval",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Mizuho initiates Jersey Mike\u2019s stock with Outperform on growth outlook",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6341,
+      "score": 0.6724,
       "currencies": []
     }
   ],

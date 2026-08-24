@@ -1,42 +1,40 @@
 {
   "run_id": 1,
   "pairs": {
+    "GBP/USD": [
+      {
+        "title": "GBP/USD: Breakout Momentum Faces a Crucial Test - Daily Forex",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.8382
+      }
+    ],
+    "USD/JPY": [
+      {
+        "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - bfsi.economictimes.indiatimes.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Japanese Yen weakens against recovering USD; seems vulnerable amid US-Japan rate gap",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9498
+      },
+      {
+        "title": "Gold sticks to gains near mid-May highs; bulls turn cautious amid notable USD strength",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.7828
+      }
+    ],
     "USD/CHF": [
       {
         "title": "USD/CHF bears stir as franc haven demand returns - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      }
-    ],
-    "USD/JPY": [
-      {
-        "title": "PBOC sets USD/ CNY reference rate for today at 6.7841 (vs. estimate at 6.7248)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD steadies around $69.00 amid US bond buybacks",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8865
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/GBP Price Forecast: Bears remain in control with 0.8550 support area on focus",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8978
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "EUR/GBP Price Forecast: Bears remain in control with 0.8550 support area on focus",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8978
       }
     ]
   }
