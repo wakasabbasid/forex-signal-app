@@ -31,14 +31,7 @@
       ]
     },
     {
-      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "News by CNBC TV18 on TradingView, 2026-08-24 \u2014 cnbctv:5079516ec094b:0 - TradingView",
+      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -49,6 +42,13 @@
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Canada\u2019s Dollar Falls After Trade Talks With U.S. Collapse - Baystreet.ca",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9281,
       "currencies": []
     },
     {
@@ -90,61 +90,61 @@
       "currencies": []
     },
     {
-      "title": "Karo Platinum secures mining lease for Zimbabwe project",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "T Stamp CEO Genner buys $3,210 in Class A common stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Heimstaden Bostad issues SEK 1.5 billion in green notes",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Match Group stock hits 52-week high at $41.43",
+      "title": "DA Davidson raises Private Bancorp of America price target on growth outlook",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7454,
+      "score": 0.5874,
       "currencies": []
     },
     {
-      "title": "Global Payments stock hits 52-week high at 95.59 USD",
+      "title": "H.C. Wainwright reiterates Biomea Fusion stock rating on trial enrollment",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Crinetics Pharmaceuticals stock hits all-time high at 84.8 USD",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5649,
+      "score": 0.6858,
       "currencies": [
         "USD"
       ]
     },
     {
-      "title": "Zillow settles FTC claims it paid Redfin to stop competing on apartment listings",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9143,
-      "currencies": []
-    },
-    {
-      "title": "Bitcoin rises above $78k after regulatory hopes drive strong rebound",
+      "title": "Banca Transilvania H1 2026 slides: profit surges 27% amid macro headwinds",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8921,
+      "score": 0.6982,
       "currencies": []
     },
     {
-      "title": "Why is Vital Farms stock rallying today?",
+      "title": "Utorg Becomes Main Sponsor of Agust\u00edn Tapia, the No. 1 Padel Player in the World",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5863,
+      "currencies": []
+    },
+    {
+      "title": "Norway will drill in Arctic regardless of EU\u2019s position, says energy minister",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Trump threatens 50% tariffs on all cars and trucks amid Canada trade spat",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Nanalysis Scientific misses Q2 2026 estimates as shares fall",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9554,
       "currencies": []
     }
   ],

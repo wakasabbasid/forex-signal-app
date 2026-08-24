@@ -15,16 +15,22 @@
         "score": 0.0
       },
       {
-        "title": "Global Payments stock hits 52-week high at 95.59 USD",
+        "title": "Crinetics Pharmaceuticals stock hits all-time high at 84.8 USD",
         "source": "Investing.com",
         "label": "bullish",
-        "score": 0.5649
+        "score": 0.6858
       },
       {
         "title": "USDCHF stretches higher with USD selling but finds willing sellers against technical targets",
         "source": "ForexLive",
         "label": "bullish",
         "score": 0.6867
+      },
+      {
+        "title": "Dollar (USD) Outlook: What Is the \u2018Debasement Trade\u2019 and Why Does It Matter?",
+        "source": "Bloomberg",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }
