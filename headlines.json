@@ -22,13 +22,6 @@
       "currencies": []
     },
     {
-      "title": "RBI\u2019s FCNR(B) forex swap scheme mobilises $73 billion in foreign exchange inflows - TradingView",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
@@ -89,59 +82,69 @@
       "currencies": []
     },
     {
-      "title": "Bond market anxiety raises stakes for Warsh\u2019s debut Jackson Hole speech",
+      "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - Economic Times BFSI",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "USD"
+      ]
+    },
+    {
+      "title": "Boeing awarded contract with ceiling value of $131.2 billion for F-15 program",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5108,
+      "score": 0.9367,
       "currencies": []
     },
     {
-      "title": "As US border reopens to Mexican cattle, concerns persist over screwworm spread",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.947,
-      "currencies": []
-    },
-    {
-      "title": "Trading Day: Tech, tariffs & Treasuries",
+      "title": "Honest company CEO Carla Vernon sells $588,286 of stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Philips prices \u20ac650 million green bond under new EU standard",
+      "title": "Globalstar director Benjamin Wolff sells $1.64m in GSAT stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Moody\u2019s downgrades Crane NXT senior secured debt on recovery value",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7915,
-      "currencies": []
-    },
-    {
-      "title": "Hormel Foods names former Tyson executive Ash Bhumbla as CFO",
+      "title": "Peoples Financial CEO Swetman buys $23,250 PFBX stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "California Orange County DA announces $100 million for 50,000 evacuated residents in GKN incident",
+      "title": "McEwen names Shaver\u2019s successor, promotes three executives",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.4683,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Oil slips as improved Hormuz shipping traffic offsets U.S. economic escalation",
+      "title": "US widens sanctions on Iran but withholds more punishing options",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.4834,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Goosehead Insurance director Adrienne Kebodeaux sells $490,000 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Honest company SVP, supply chain, sells $35,994 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

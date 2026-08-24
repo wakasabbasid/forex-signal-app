@@ -13,6 +13,34 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.6494
+      },
+      {
+        "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - Economic Times BFSI",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "GBP/JPY Price Forecast: 217.00 caps bulls as RSI stalls",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/JPY Price Forecast: 217.00 caps bulls as RSI stalls",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/USD Price Forecast: 1.1700 caps bulls as RSI overheats",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9474
       }
     ]
   }
