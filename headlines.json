@@ -52,6 +52,15 @@
       "currencies": []
     },
     {
+      "title": "USD/MXN Update: Mexican Peso Shows Limited Reaction to Preliminary Inflation Data - City Index UK",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6494,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "Canada\u2019s Dollar Falls After Trade Talks With U.S. Collapse - Baystreet.ca",
       "source": "Google News",
       "label": "bearish",
@@ -86,66 +95,59 @@
       ]
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Bernstein SocGen cuts XPeng stock price target on wider losses",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5849,
-      "currencies": []
-    },
-    {
-      "title": "Safety Insurance Group stock hits 52-week high at $103.76",
+      "title": "Gorilla Technology raises 2026 revenue guidance to $200 million",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6546,
+      "score": 0.9272,
       "currencies": []
     },
     {
-      "title": "California cancels talks with Paramount over Warner Bros deal",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8622,
-      "currencies": []
-    },
-    {
-      "title": "US ethanol credit prices slump after EPA delays biofuel compliance deadline",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9707,
-      "currencies": []
-    },
-    {
-      "title": "Tesla stops selling solar roofs a decade after launch",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5125,
-      "currencies": []
-    },
-    {
-      "title": "Treasury launches task force to prepare finance sector for quantum computing risks",
+      "title": "Procter & Gamble SVP, chief accounting officer sells $22,431 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Automakers down on Trump threats: is there a TACO trade here?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6955,
-      "currencies": []
-    },
-    {
-      "title": "US unveils \u2019economic D-Day\u2019 of sanctions to isolate Iran",
+      "title": "P&G CFO Andre Schulten sells $776,753 in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "TTM Technologies director Rex Geveden buys $524,500 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "The Trade Desk stock falls after filing shelf prospectus",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9515,
+      "currencies": []
+    },
+    {
+      "title": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9448,
+      "currencies": []
+    },
+    {
+      "title": "Lula\u2019s campaign considers curbing on independent contractors in potential new term",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Wall Street ends mixed amid fall in tech stocks, rising U.S.-Canada trade tensions",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9593,
       "currencies": []
     }
   ],
