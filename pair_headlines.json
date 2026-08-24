@@ -21,13 +21,11 @@
         "score": 0.0
       },
       {
-        "title": "GBP/JPY Price Forecast: 217.00 caps bulls as RSI stalls",
+        "title": "EUR/JPY Price Forecast: Bulls struggle at 187 amid intervention fears",
         "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "GBP/USD": [
+        "label": "bearish",
+        "score": -0.9594
+      },
       {
         "title": "GBP/JPY Price Forecast: 217.00 caps bulls as RSI stalls",
         "source": "FXStreet",
@@ -37,10 +35,24 @@
     ],
     "EUR/USD": [
       {
+        "title": "EUR/JPY Price Forecast: Bulls struggle at 187 amid intervention fears",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9594
+      },
+      {
         "title": "EUR/USD Price Forecast: 1.1700 caps bulls as RSI overheats",
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.9474
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/JPY Price Forecast: 217.00 caps bulls as RSI stalls",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }
