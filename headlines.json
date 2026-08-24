@@ -22,6 +22,13 @@
       "currencies": []
     },
     {
+      "title": "RBI\u2019s FCNR(B) forex swap scheme mobilises $73 billion in foreign exchange inflows - TradingView",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
@@ -43,6 +50,13 @@
       "currencies": [
         "USD"
       ]
+    },
+    {
+      "title": "Undervalued Asian Currencies - Seeking Alpha",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6549,
+      "currencies": []
     },
     {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
@@ -75,79 +89,59 @@
       "currencies": []
     },
     {
-      "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - Economic Times BFSI",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "USD"
-      ]
-    },
-    {
-      "title": "RBI's USD-INR Swap Facility Sparks Unprecedented Forex Inflows, Banks Raise USD 73 Billion in 11 weeks - DD India",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9272,
-      "currencies": [
-        "USD",
-        "USD"
-      ]
-    },
-    {
-      "title": "Gorilla Technology raises 2026 revenue guidance to $200 million",
+      "title": "Bond market anxiety raises stakes for Warsh\u2019s debut Jackson Hole speech",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9272,
+      "score": 0.5108,
       "currencies": []
     },
     {
-      "title": "Procter & Gamble SVP, chief accounting officer sells $22,431 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "P&G CFO Andre Schulten sells $776,753 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "TTM Technologies director Rex Geveden buys $524,500 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "The Trade Desk stock falls after filing shelf prospectus",
+      "title": "As US border reopens to Mexican cattle, concerns persist over screwworm spread",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9515,
+      "score": -0.947,
       "currencies": []
     },
     {
-      "title": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9448,
-      "currencies": []
-    },
-    {
-      "title": "Lula\u2019s campaign considers curbing on independent contractors in potential new term",
+      "title": "Trading Day: Tech, tariffs & Treasuries",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Wall Street ends mixed amid fall in tech stocks, rising U.S.-Canada trade tensions",
+      "title": "Philips prices \u20ac650 million green bond under new EU standard",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Moody\u2019s downgrades Crane NXT senior secured debt on recovery value",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9593,
+      "score": -0.7915,
+      "currencies": []
+    },
+    {
+      "title": "Hormel Foods names former Tyson executive Ash Bhumbla as CFO",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "California Orange County DA announces $100 million for 50,000 evacuated residents in GKN incident",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.4683,
+      "currencies": []
+    },
+    {
+      "title": "Oil slips as improved Hormuz shipping traffic offsets U.S. economic escalation",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.4834,
       "currencies": []
     }
   ],
