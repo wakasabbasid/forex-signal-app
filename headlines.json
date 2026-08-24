@@ -24,6 +24,13 @@
       "currencies": []
     },
     {
+      "title": "News by CNBC TV18 on TradingView, 2026-08-24 \u2014 cnbctv:5079516ec094b:0 - TradingView",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -31,11 +38,14 @@
       "currencies": []
     },
     {
-      "title": "Rupee climbs to 95.64 against US dollar; Iran sanctions, crude prices in focus - The Times of India",
+      "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - Economic Times BFSI",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "USD",
+        "USD"
+      ]
     },
     {
       "title": "U.S.-Japan \u2018Currency Alliance\u2019 Signals Deeper Coordination on Yen and Dollar - CryptoRank",
@@ -55,10 +65,10 @@
       ]
     },
     {
-      "title": "Gold Extends Rally as Treasury Buyback Plan Pressures Dollar - TradingPedia",
+      "title": "Sterling Targets Fresh Highs as Dollar Weakness - TradingPedia",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.6841,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -83,66 +93,59 @@
       "currencies": []
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
-      "currencies": []
-    },
-    {
-      "title": "Orange receives EU approval for Nexera acquisition with APG",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8867,
-      "currencies": []
-    },
-    {
-      "title": "TD Cowen initiates Jersey Mike\u2019s stock with buy rating on growth",
+      "title": "Why is Biomea Fusion stock climbing today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Wolfe Research initiates Jersey Mike\u2019s stock rating at Peerperform",
+      "title": "Oppenheimer raises Workday stock price target to $220 on AI momentum",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Wolfe Research raises Humana stock price target to $450 on margin outlook",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "XPeng robotics unit raises over $900 million in funding round",
+      "title": "Moody\u2019s affirms Philippines\u2019 Baa2 rating with stable outlook",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8562,
+      "score": 0.7075,
       "currencies": []
     },
     {
-      "title": "Union Jack Oil shareholders approve board overhaul",
+      "title": "Gledhow Investments confirms director appointments, CLN reduction",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is Siegfried stock sliding today?",
+      "title": "Norwegian energy firms team up for frontier exploration",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8858,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "BofA raises Williams-Sonoma stock price target to $261 on growth",
+      "title": "Ashland launches intestinal permeation enhancer for oral drugs",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5417,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Solstice Gold expands Strathy project, acquires Leckie zone",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Mayfair Gold appoints two senior executives for Fenn-Gib project",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

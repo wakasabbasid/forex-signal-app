@@ -9,16 +9,16 @@
         "score": -0.9336
       },
       {
+        "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - Economic Times BFSI",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
         "title": "Gold Price Forecast: XAU/USD pushes higher, but overbought RSI warns bulls",
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.9148
-      },
-      {
-        "title": "Japanese Yen weakens against recovering USD; seems vulnerable amid US-Japan rate gap",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9498
       }
     ],
     "USD/CHF": [
@@ -27,6 +27,14 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "AUD/USD Price Forecast: Aussie eases from 12-week highs with bulls still in command",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8833
       }
     ]
   }
