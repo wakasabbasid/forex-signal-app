@@ -22,7 +22,7 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg",
+      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -52,11 +52,12 @@
       "currencies": []
     },
     {
-      "title": "USD/MXN Update: Mexican Peso Shows Limited Reaction to Preliminary Inflation Data - City Index UK",
+      "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - Economic Times BFSI",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.6494,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
+        "USD",
         "USD"
       ]
     },
@@ -66,16 +67,6 @@
       "label": "bullish",
       "score": 0.9301,
       "currencies": []
-    },
-    {
-      "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - Economic Times BFSI",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "USD"
-      ]
     },
     {
       "title": "Ethiopia: Why $625m within nine days cannot close the dollar gap - The Africa Report",
@@ -92,56 +83,63 @@
       "currencies": []
     },
     {
-      "title": "Scentre Group H1 distributions up 4.9%, hikes 2026 guidance",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9262,
+      "title": "Sell U.S. dollar versus these currencies, BCA says - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "AUB Group FY26 slides: 7-year transformation drives 12% profit growth",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9147,
-      "currencies": []
-    },
-    {
-      "title": "Big River FY26 slides: margins expand despite soft residential market",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9509,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Nanosonics shares drop 14% after FY26 results",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9708,
-      "currencies": []
-    },
-    {
-      "title": "Coles FY26 slides: profit growth outpaces sales on digital gains",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9111,
-      "currencies": []
-    },
-    {
-      "title": "Hang Seng stuck near 25,400 in bull-bear standoff: Live levels",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9009,
-      "currencies": []
-    },
-    {
-      "title": "Innsuites Hospitality Trust\u2019s James Wirth sells $1.82 billion in shares",
+      "title": "Ctt pharmaceutical holdings CEO Ryan Khouri buys $115 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Fold Holdings CEO Reeves sells $9,143 in stock",
+      "title": "GenusPlus FY2026 slides: EBITDA tops $100M, revenue surges 70%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9528,
+      "currencies": []
+    },
+    {
+      "title": "Monadelphous FY26 slides: record revenue, shares fall on outlook",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9714,
+      "currencies": []
+    },
+    {
+      "title": "WOTSO FY26 slides: coworking network doubles as margins compress",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Acrow FY26 slides: revenue surges 27%, margins compress on mix shift",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9289,
+      "currencies": []
+    },
+    {
+      "title": "WOTSO FY26 slides: coworking network hits 40 sites, EBITDA up 1%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9551,
+      "currencies": []
+    },
+    {
+      "title": "US removes Syria from terrorism sponsor list, lifting major investment obstacle",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8955,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: GenusPlus posts record H2 2026 results, shares slip",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
