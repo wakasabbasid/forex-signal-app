@@ -91,59 +91,61 @@
       "currencies": []
     },
     {
-      "title": "Dell at the Six Five Summit: ai push shifts from pilots to production",
+      "title": "Four Fed bank boards wanted rate hike, minutes show",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "European wheat futures drop on potential Black Sea talks",
+      "title": "California AG says no settlement talks scheduled with Paramount",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9613,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "New US home sales drop 10.5% in July on high mortgage rates",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9739,
-      "currencies": []
-    },
-    {
-      "title": "Phoenix Financial H1 2026 slides: asset management surges 48% in Q2",
+      "title": "Semtech options activity points to bullish bets on a breakout by September 18",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9326,
+      "score": 0.9078,
       "currencies": []
     },
     {
-      "title": "Target shares drop after Halloween costume backlash",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9592,
-      "currencies": []
-    },
-    {
-      "title": "WTI Midland crude weakens as Chevron lowers offer",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9564,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Phoenix Financial posts strong H1 2026 growth",
+      "title": "Wall Street boosted by tech stocks, falling oil prices, and bond market rally",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9478,
+      "score": 0.6208,
       "currencies": []
     },
     {
-      "title": "Canada slaps retaliatory tariffs on US goods worth $20 billion as trade war intensifies",
+      "title": "Oil falls 4% as investors shrug off US sanctions on Iran",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9495,
+      "score": -0.8738,
+      "currencies": []
+    },
+    {
+      "title": "Factbox-Companies face backlash over controversial products and advertisement campaigns",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9545,
+      "currencies": []
+    },
+    {
+      "title": "AAMI stock hits all-time high at 94.0 USD",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7056,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Kohl\u2019s options show heavy put volume and elevated volatility ahead of earnings",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
