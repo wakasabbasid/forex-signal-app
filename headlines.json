@@ -29,13 +29,6 @@
       "currencies": []
     },
     {
-      "title": "Ethiopia: Why $625m within nine days cannot close the dollar gap - The Africa Report",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "USD/MXN Tests 2024 Lows as Dollar Weakness Deepens - DailyForex",
       "source": "Google News",
       "label": "bearish",
@@ -45,17 +38,17 @@
       ]
     },
     {
-      "title": "Undervalued Asian Currencies - Seeking Alpha",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6549,
-      "currencies": []
-    },
-    {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Undervalued Asian Currencies - Seeking Alpha",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6549,
       "currencies": []
     },
     {
@@ -66,13 +59,6 @@
       "currencies": [
         "USD"
       ]
-    },
-    {
-      "title": "Canada\u2019s Dollar Falls After Trade Talks With U.S. Collapse - Baystreet.ca",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9281,
-      "currencies": []
     },
     {
       "title": "U.S.-Japan \u2018Currency Alliance\u2019 Signals Deeper Coordination on Yen and Dollar - CryptoRank",
@@ -92,56 +78,70 @@
       ]
     },
     {
-      "title": "Japan eyes tax breaks for non-core business sales in governance reform push, sources say",
-      "source": "Investing.com",
+      "title": "Ethiopia: Why $625m within nine days cannot close the dollar gap - The Africa Report",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Judge rejects First Brands\u2019 plan to pay down debts by pursuing lawsuits",
+      "title": "Canada\u2019s Dollar Falls After Trade Talks With U.S. Collapse - Baystreet.ca",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9281,
+      "currencies": []
+    },
+    {
+      "title": "Scentre Group H1 distributions up 4.9%, hikes 2026 guidance",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9262,
+      "currencies": []
+    },
+    {
+      "title": "AUB Group FY26 slides: 7-year transformation drives 12% profit growth",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9147,
+      "currencies": []
+    },
+    {
+      "title": "Big River FY26 slides: margins expand despite soft residential market",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9509,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Nanosonics shares drop 14% after FY26 results",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7953,
+      "score": -0.9708,
       "currencies": []
     },
     {
-      "title": "FDA approves J&J\u2019s Imaavy for rare blood disorder treatment",
+      "title": "Coles FY26 slides: profit growth outpaces sales on digital gains",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.4953,
+      "score": 0.9111,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Vulcan Steel posts stronger FY2026 as growth builds in H2",
+      "title": "Hang Seng stuck near 25,400 in bull-bear standoff: Live levels",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9482,
+      "label": "bearish",
+      "score": -0.9009,
       "currencies": []
     },
     {
-      "title": "Grocery outlet EVP Frank Kerr sells $16,181 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Gevo chief legal officer Kettner buys $19,368 in common stock",
+      "title": "Innsuites Hospitality Trust\u2019s James Wirth sells $1.82 billion in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Gevo director James Barber acquires $77,000 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Lifetime Brands director Siegel sells $24,450 in common stock",
+      "title": "Fold Holdings CEO Reeves sells $9,143 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

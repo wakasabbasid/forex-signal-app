@@ -21,6 +21,30 @@
         "score": 0.0
       },
       {
+        "title": "PBOC sets USD/ CNY central rate at 6.7852 (vs. estimate at 6.7219)",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7219 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Japanese Yen consolidates around 159.00 vs USD as bearish potential remains intact",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.5395
+      },
+      {
+        "title": "PBOC sets USD/CNY reference rate at 6.7852 vs. 6.7841 previous",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
         "title": "EUR/JPY Price Forecast: Bulls struggle at 187 amid intervention fears",
         "source": "FXStreet",
         "label": "bearish",
@@ -33,18 +57,20 @@
         "score": 0.0
       }
     ],
+    "AUD/USD": [
+      {
+        "title": "China leans hardest against yuan gains in six months, AUD softens",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.862
+      }
+    ],
     "EUR/USD": [
       {
         "title": "EUR/JPY Price Forecast: Bulls struggle at 187 amid intervention fears",
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.9594
-      },
-      {
-        "title": "EUR/USD Price Forecast: 1.1700 caps bulls as RSI overheats",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9474
       }
     ],
     "GBP/USD": [
