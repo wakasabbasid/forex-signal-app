@@ -7,12 +7,6 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.5483
-      },
-      {
-        "title": "US Dollar Price Forecast: Fiscal Risks Weigh on DXY; EUR/USD and GBP/USD Test Key Resistance",
-        "source": "Yahoo Finance",
-        "label": "bullish",
-        "score": 0.5778
       }
     ],
     "USD/JPY": [
@@ -21,12 +15,6 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "AAMI stock hits all-time high at 94.0 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.7056
       },
       {
         "title": "Silver Price Forecast: XAG/USD reclaims 100-day SMA, eyes $70",
@@ -41,14 +29,6 @@
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.8134
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "US Dollar Price Forecast: Fiscal Risks Weigh on DXY; EUR/USD and GBP/USD Test Key Resistance",
-        "source": "Yahoo Finance",
-        "label": "bullish",
-        "score": 0.5778
       }
     ]
   }

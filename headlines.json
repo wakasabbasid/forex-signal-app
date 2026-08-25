@@ -63,17 +63,17 @@
       ]
     },
     {
-      "title": "Canadian Dollar Slips as US-Canada Trade Talks Collapse - CryptoRank",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9014,
-      "currencies": []
-    },
-    {
       "title": "Ethiopia: Why $625m within nine days cannot close the dollar gap - The Africa Report",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "U.S.-Japan \u2018Currency Alliance\u2019 Signals Deeper Coordination on Yen and Dollar - CryptoRank",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9301,
       "currencies": []
     },
     {
@@ -91,61 +91,59 @@
       "currencies": []
     },
     {
-      "title": "Four Fed bank boards wanted rate hike, minutes show",
+      "title": "McKesson stock jumps on $2.25B Precision Medicine deal",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "California AG says no settlement talks scheduled with Paramount",
+      "title": "Oracle at Six Five Summit: ai shifts to distributed cloud",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Semtech options activity points to bullish bets on a breakout by September 18",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9078,
-      "currencies": []
-    },
-    {
-      "title": "Wall Street boosted by tech stocks, falling oil prices, and bond market rally",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6208,
-      "currencies": []
-    },
-    {
-      "title": "Oil falls 4% as investors shrug off US sanctions on Iran",
+      "title": "Dollar edges lower as Iran sanctions, Treasury buybacks weighed",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8738,
+      "score": -0.9348,
       "currencies": []
     },
     {
-      "title": "Factbox-Companies face backlash over controversial products and advertisement campaigns",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9545,
-      "currencies": []
-    },
-    {
-      "title": "AAMI stock hits all-time high at 94.0 USD",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7056,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Kohl\u2019s options show heavy put volume and elevated volatility ahead of earnings",
+      "title": "Guggenheim says affiliates may buy discounted loan after debt falls - Bloomberg",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "PepsiCo drops coverage of weight-loss drugs due to costs - Bloomberg",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9697,
+      "currencies": []
+    },
+    {
+      "title": "Trump administration defends Kennedy Center renaming plan, warns of demolition risk",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Abbott receives FDA authorization for dual glucose-ketone sensor",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8473,
+      "currencies": []
+    },
+    {
+      "title": "Why is Thomson Reuters stock sliding today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9055,
       "currencies": []
     }
   ],
