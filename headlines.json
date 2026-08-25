@@ -15,6 +15,13 @@
       "currencies": []
     },
     {
+      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "GBP/USD Price Forecast 25/08: Bullish Setup - Daily Forex",
       "source": "Google News",
       "label": "bullish",
@@ -23,13 +30,6 @@
         "GBP",
         "USD"
       ]
-    },
-    {
-      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
     },
     {
       "title": "Dollar forecast: All eyes on bond markets - FOREX.com",
@@ -91,59 +91,59 @@
       "currencies": []
     },
     {
-      "title": "Palo Alto Networks stock may move 8.6% on Sept. 1 earnings",
+      "title": "United CEO expects gradual fare increases in 2027 as demand stays strong",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9453,
+      "currencies": []
+    },
+    {
+      "title": "Why is Netflix stock climbing today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "MongoDB stock may move 14% on Sept. 1 earnings release",
+      "title": "Google expands Gemini Enterprise AI platform for law firms, lawyers",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7515,
+      "score": 0.6685,
       "currencies": []
     },
     {
-      "title": "Credo Technology shares may move 12% on Sept. 1 earnings",
+      "title": "Canada announces retaliatory tariffs on $20 billion worth of US goods, unveils support measures",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6722,
+      "currencies": []
+    },
+    {
+      "title": "Poland stocks higher at close of trade; WIG30 up 0.31%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9329,
+      "currencies": []
+    },
+    {
+      "title": "Madison Air stock jumps on $2.25B placement for ebm-papst buy",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5034,
+      "currencies": []
+    },
+    {
+      "title": "United Community names head of international banking unit",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Click Holdings reports 42% annual logistics revenue growth in Q4",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9031,
-      "currencies": []
-    },
-    {
-      "title": "Gitlab stock may move 14% on Sept. 1 earnings report",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7007,
-      "currencies": []
-    },
-    {
-      "title": "Fintech stocks with strong momentum: neobanks, market makers, and value plays",
+      "title": "Livermore Investments shareholders approve all AGM resolutions",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Dell, AMD among market cap stock movers on Tuesday",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Medtronic shares may move 4% on Sept. 1 earnings release",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7366,
       "currencies": []
     }
   ],
