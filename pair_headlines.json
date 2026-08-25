@@ -11,12 +11,6 @@
     ],
     "USD/JPY": [
       {
-        "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - bfsi.economictimes.indiatimes.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
         "title": "Silver Price Forecast: XAG/USD reclaims 100-day SMA, eyes $70",
         "source": "FXStreet",
         "label": "bullish",
