@@ -1,13 +1,21 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/JPY": [
+    "GBP/USD": [
       {
-        "title": "USD/MXN Tests 2024 Lows as Dollar Weakness Deepens - DailyForex",
+        "title": "GBP/USD Price Forecast 25/08: Bullish Setup - DailyForex",
         "source": "Google News",
-        "label": "bearish",
-        "score": -0.8948
+        "label": "neutral",
+        "score": 0.0
       },
+      {
+        "title": "GBP/USD Price Forecast: Rally pauses below 1.3700",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8289
+      }
+    ],
+    "USD/JPY": [
       {
         "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - bfsi.economictimes.indiatimes.com",
         "source": "Google News",
@@ -19,40 +27,14 @@
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.9565
-      },
-      {
-        "title": "Gold remains depressed below $4,650 on firmer USD, Fed risks, Middle East tensions",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9512
-      },
-      {
-        "title": "WTI slides below $84.00 on firmer USD but US-Iran tensions limit deeper losses",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.6739
-      },
-      {
-        "title": "USD/JPY Price Forecast: US Dollar keeps crawling towards the key 160.00 area",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8058
       }
     ],
-    "AUD/USD": [
+    "USD/CAD": [
       {
-        "title": "China leans hardest against yuan gains in six months, AUD softens",
-        "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.862
-      }
-    ],
-    "USD/CHF": [
-      {
-        "title": "Swiss Franc: Export strains with strong CHF \u2013 Commerzbank",
+        "title": "USD/CAD Price Forecast: Could surpass 1.3900 as break above 38.2% Fibo. comes into play",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8893
+        "label": "bullish",
+        "score": 0.6467
       }
     ]
   }

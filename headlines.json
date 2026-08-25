@@ -15,6 +15,16 @@
       "currencies": []
     },
     {
+      "title": "GBP/USD Price Forecast 25/08: Bullish Setup - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
       "title": "Dollar forecast: All eyes on bond markets - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -22,10 +32,17 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg",
+      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Rupee falls 4 paise to 95.74 against U.S. dollar in early trade - The Hindu",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9248,
       "currencies": []
     },
     {
@@ -43,27 +60,11 @@
       "currencies": []
     },
     {
-      "title": "Rupee falls 4 paise to 95.74 against U.S. dollar in early trade - The Hindu",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9248,
-      "currencies": []
-    },
-    {
       "title": "Iran\u2019s rial currency plunges to record low as citizens try to cash out while US pushes new sanctions - Forex Factory",
       "source": "Google News",
       "label": "bearish",
       "score": -0.939,
       "currencies": []
-    },
-    {
-      "title": "USD/MXN Tests 2024 Lows as Dollar Weakness Deepens - DailyForex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8948,
-      "currencies": [
-        "USD"
-      ]
     },
     {
       "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - bfsi.economictimes.indiatimes.com",
@@ -90,59 +91,59 @@
       "currencies": []
     },
     {
-      "title": "Tungsten West grants share options to executives",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Shein\u2019s up to $1.8 billion Hong Kong IPO order book covered, sources say",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "National Bank downgrades Nutrien stock rating on valuation",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7151,
-      "currencies": []
-    },
-    {
-      "title": "Siemens Energy hires Goldman for steam turbine unit stake sale; shares climb",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "FTSE 100 today: Stocks edge higher as bitcoin extends surge",
+      "title": "Earnings call transcript: SMG Swiss Marketplace Group H1 2026 stock jumps on strong growth",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9418,
+      "score": 0.938,
       "currencies": []
     },
     {
-      "title": "Why is Siemens Energy stock climbing today?",
+      "title": "PACS group CEO Jason Hulse sells $6.61M in company shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is Vistry stock surging today?",
+      "title": "EssilorLuxottica founder\u2019s son quits management roles after reported rift with CEO",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.8399,
       "currencies": []
     },
     {
-      "title": "Glenstone urges AIRE shareholders to accept 70p cash offer",
+      "title": "Raymond James upgrades AMD stock rating on AI server growth outlook",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.7075,
+      "currencies": []
+    },
+    {
+      "title": "Chesnara shares jump 3% on stronger capital generation, dividend growth",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9516,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Loyal Solutions posts profit milestone in H2 2026",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9006,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Terranor Q2 2026 revenue beats forecast, shares fall 6.7%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9744,
+      "currencies": []
+    },
+    {
+      "title": "German business sentiment rises more than expected in August, Ifo survey finds",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9447,
       "currencies": []
     }
   ],
