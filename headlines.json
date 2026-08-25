@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "Sudan central bank eases forex rules as currency slides - Sudan Tribune",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.875,
+      "currencies": []
+    },
+    {
       "title": "Iran Central Bank Chief Blames U.S. \u2018Propaganda\u2019 for Rising Forex Rates - IranWire",
       "source": "Google News",
       "label": "bearish",
@@ -8,23 +15,16 @@
       "currencies": []
     },
     {
-      "title": "Rupee bolted in place by central bank muscle, traders wince - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "USD/ZAR Tests 16.00 as Jackson Hole Puts Rand Rally at Risk - DailyForex",
+      "title": "USD/ZAR Tests 16.00 as Jackson Hole Puts Rand Rally at Risk - Daily Forex",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.5493,
+      "score": 0.5823,
       "currencies": [
         "USD"
       ]
     },
     {
-      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg.com",
+      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -59,10 +59,10 @@
       "currencies": []
     },
     {
-      "title": "Iran\u2019s rial currency plunges to record low as citizens try to cash out while US pushes new sanctions - Forex Factory",
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.939,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -76,6 +76,13 @@
       ]
     },
     {
+      "title": "Iran\u2019s rial currency plunges to record low as citizens try to cash out while US pushes new sanctions - Forex Factory",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.939,
+      "currencies": []
+    },
+    {
       "title": "RBI\u2019s USD-INR swap facility mobilises $73 bn in less than 11 weeks - Manorama Yearbook",
       "source": "Google News",
       "label": "bullish",
@@ -85,63 +92,56 @@
       ]
     },
     {
-      "title": "Ethiopia: Why $625m within nine days cannot close the dollar gap - The Africa Report",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Hedge funds cut Asia tech holdings in second-largest selloff",
+      "title": "Earnings call transcript: Canatu H1 2026 revenue slump weighs on shares",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9696,
+      "score": -0.9687,
       "currencies": []
     },
     {
-      "title": "Why is Chesnara stock surging today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Citizens reiterates Uber stock rating on Waymo data analysis",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "QleanAir Q2 2026 slides: FX masks underlying growth momentum",
+      "title": "Nvidia faces growth test as Rubin debut meets AI financing scrutiny",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6339,
+      "score": 0.6708,
       "currencies": []
     },
     {
-      "title": "US lawmakers question Health Secretary Kennedy on vaccine settlement disclosures",
+      "title": "Earnings call transcript: ZhongAn Online Insurance posts H1 2026 profit jump",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Lanxess at German Select VIII Conference: cost cuts drive resilience",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9417,
+      "currencies": []
+    },
+    {
+      "title": "Why is Shift4 Payments stock rallying today?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why is Fidelity National Information Services stock sliding today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7675,
+      "score": -0.9289,
       "currencies": []
     },
     {
-      "title": "Volex shares surge nearly 21% on strong trading, upgraded profit outlook",
+      "title": "Exclusive-The AI founders who walked away from Bezos-backed Prometheus to model the universe",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9461,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Gift Nifty 50 tests $24,140 support amid bearish squeeze: Live",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8425,
-      "currencies": []
-    },
-    {
-      "title": "Wolfe Research upgrades Bread Financial stock rating on growth outlook",
+      "title": "Pizza Hut launches football campaign with Josh Allen",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
