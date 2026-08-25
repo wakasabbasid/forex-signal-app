@@ -76,6 +76,13 @@
       ]
     },
     {
+      "title": "Forex Focus - tastylive",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Iran\u2019s rial currency plunges to record low as citizens try to cash out while US pushes new sanctions - Forex Factory",
       "source": "Google News",
       "label": "bearish",
@@ -83,65 +90,56 @@
       "currencies": []
     },
     {
-      "title": "RBI\u2019s USD-INR swap facility mobilises $73 bn in less than 11 weeks - Manorama Yearbook",
-      "source": "Google News",
+      "title": "United Airlines expects enough Airbus A321XLR deliveries for 2027 Europe expansion",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6811,
-      "currencies": [
-        "USD"
-      ]
+      "score": 0.7803,
+      "currencies": []
     },
     {
-      "title": "Earnings call transcript: Canatu H1 2026 revenue slump weighs on shares",
+      "title": "Needham raises Teleflex stock price target on Freesolve potential",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Celea to present deupirfenidone trial data at ERS congress",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Citi Trends beats estimates but stock slips on guidance concerns",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9687,
+      "score": -0.9481,
       "currencies": []
     },
     {
-      "title": "Nvidia faces growth test as Rubin debut meets AI financing scrutiny",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6708,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: ZhongAn Online Insurance posts H1 2026 profit jump",
+      "title": "Why is Capricor Therapeutics stock rallying today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Lanxess at German Select VIII Conference: cost cuts drive resilience",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9417,
-      "currencies": []
-    },
-    {
-      "title": "Why is Shift4 Payments stock rallying today?",
+      "title": "Parabilis Medicines adds former J&J oncology executive to board",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is Fidelity National Information Services stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9289,
-      "currencies": []
-    },
-    {
-      "title": "Exclusive-The AI founders who walked away from Bezos-backed Prometheus to model the universe",
+      "title": "Madison Air announces $2.25 billion private placement",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Pizza Hut launches football campaign with Josh Allen",
+      "title": "Beyond Air to sell NeuroNOS stake to Univo for 19.99% equity",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
