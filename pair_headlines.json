@@ -15,10 +15,24 @@
         "score": 0.0
       },
       {
-        "title": "Gold Price Forecast: XAU/USD holds onto early losses near $4,630, US Yields plunge",
-        "source": "FXStreet",
+        "title": "Morning Kickstart: USD mixed as ranges remain tight. Stocks higher.  Oil and yields lower.",
+        "source": "ForexLive",
         "label": "bearish",
-        "score": -0.9416
+        "score": -0.7348
+      },
+      {
+        "title": "GBP/JPY Price Forecast: Bulls recover lost ground as intervention effect wears off",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.5192
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/JPY Price Forecast: Bulls recover lost ground as intervention effect wears off",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.5192
       }
     ]
   }
