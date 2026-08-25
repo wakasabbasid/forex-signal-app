@@ -39,13 +39,6 @@
       "currencies": []
     },
     {
-      "title": "Rupee falls 4 paise to 95.74 against US dollar in early trade - bfsi.economictimes.indiatimes.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7726,
-      "currencies": []
-    },
-    {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -60,17 +53,20 @@
       "currencies": []
     },
     {
+      "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - bfsi.economictimes.indiatimes.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "USD"
+      ]
+    },
+    {
       "title": "Ethiopia: Why $625m within nine days cannot close the dollar gap - The Africa Report",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Canadian Dollar Slips as US-Canada Trade Talks Collapse - CryptoRank",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9014,
       "currencies": []
     },
     {
@@ -81,6 +77,15 @@
       "currencies": []
     },
     {
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
       "source": "Google News",
       "label": "neutral",
@@ -88,59 +93,59 @@
       "currencies": []
     },
     {
-      "title": "Wall Street ends higher on tech stocks, falling oil prices, and bond market rally",
+      "title": "Zoom forecasts quarterly profit below estimates",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5362,
+      "score": -0.5464,
       "currencies": []
     },
     {
-      "title": "QumulusAI reports Q2 revenue doubles to $6.7 million",
+      "title": "D-Wave Quantum stock slips as CFO announces retirement",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9362,
+      "currencies": []
+    },
+    {
+      "title": "Gold prices tick up marginally amid weaker dollar, falling oil, and sliding yields",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.942,
+      "score": 0.6953,
       "currencies": []
     },
     {
-      "title": "Electromed CEO Jim Cunniff to retire in April 2027",
+      "title": "Jones Trading initiates Seaport Therapeutics stock with buy rating",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Semtech surges on strong Q2 beat and upbeat Q3 guidance",
+      "title": "F&M Bank announces board transition with new director",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9413,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Wall Street ends higher as tech rebounds before Nvidia results",
+      "title": "D-Wave Quantum names Greg Golkov acting CFO as Markovich retires",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7758,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Intuit issues conservative full-year guidance amid strategy shift, shares slide",
+      "title": "Optum CEO Conway sells $455,910 in UnitedHealth Group stock",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5368,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US SEC subpoenas Wall Street lenders over Situational Awareness meltdown, source says",
+      "title": "Diana Shipping sells $32.06m Genco Shipping & Trading shares",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9477,
-      "currencies": []
-    },
-    {
-      "title": "Intuit\u2019s annual forecast falls short of estimates as it prioritizes customer growth",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9694,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
