@@ -29,10 +29,10 @@
       "currencies": []
     },
     {
-      "title": "Rupee falls 4 paise to 95.74 against U.S. dollar in early trade - The Hindu",
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9248,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -43,10 +43,17 @@
       "currencies": []
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "title": "Rupee falls 4 paise to 95.74 against U.S. dollar in early trade - The Hindu",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9248,
+      "currencies": []
+    },
+    {
+      "title": "Iran\u2019s rial currency plunges to record low as citizens try to cash out while US pushes new sanctions - Forex Factory",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.939,
       "currencies": []
     },
     {
@@ -76,70 +83,63 @@
       "currencies": []
     },
     {
-      "title": "Canada\u2019s Dollar Falls After Trade Talks With U.S. Collapse - Baystreet.ca",
+      "title": "LOOK: Foreign Exchange Rate as of August 25, 2026 Source: BSP via https://www.bsp.gov.ph/sitepages/statistics/exchangerate.aspx - facebook.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9281,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
-      "currencies": []
-    },
-    {
-      "title": "Morning Bid: Waiting on Nvidia for next leg of AI rally",
+      "title": "Tungsten West grants share options to executives",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is SK Hynix stock falling today?",
+      "title": "Shein\u2019s up to $1.8 billion Hong Kong IPO order book covered, sources say",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9244,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is Xpeng stock tumbling today?",
+      "title": "National Bank downgrades Nutrien stock rating on valuation",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.655,
+      "score": -0.7151,
       "currencies": []
     },
     {
-      "title": "Oil steadies as investors weigh impact of latest US sanctions on Iran",
+      "title": "Siemens Energy hires Goldman for steam turbine unit stake sale; shares climb",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6265,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Gorilla Tech earnings missed by $0.69, revenue topped estimates",
+      "title": "FTSE 100 today: Stocks edge higher as bitcoin extends surge",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9581,
+      "label": "bullish",
+      "score": 0.9418,
       "currencies": []
     },
     {
-      "title": "Asian stocks fall as tech jitters deepen ahead of Nvidia earnings",
+      "title": "Why is Siemens Energy stock climbing today?",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9312,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Iran vows to retaliate after US widens sanctions",
+      "title": "Why is Vistry stock surging today?",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6244,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "KKR to acquire Japanese beauty platform Ci FLAVORS",
+      "title": "Glenstone urges AIRE shareholders to accept 70p cash offer",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

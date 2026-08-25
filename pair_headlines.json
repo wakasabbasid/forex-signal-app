@@ -15,6 +15,18 @@
         "score": 0.0
       },
       {
+        "title": "Silver Price Forecast: XAG/USD slips below $68.50 despite revived debasement trading",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9565
+      },
+      {
+        "title": "Gold remains depressed below $4,650 on firmer USD, Fed risks, Middle East tensions",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9512
+      },
+      {
         "title": "WTI slides below $84.00 on firmer USD but US-Iran tensions limit deeper losses",
         "source": "FXStreet",
         "label": "bearish",
@@ -25,18 +37,6 @@
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.8058
-      },
-      {
-        "title": "Gold sticks to modest losses below $4,650 as Fed risks and Middle East tensions lift USD",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.7988
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Rises toward 186.00 after rebounding from ascending channel bottom",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9304
       }
     ],
     "AUD/USD": [
@@ -47,18 +47,12 @@
         "score": 0.862
       }
     ],
-    "EUR/USD": [
+    "USD/CHF": [
       {
-        "title": "EUR/USD Price Forecast: Corrects further as US Dollar extends recovery",
+        "title": "Swiss Franc: Export strains with strong CHF \u2013 Commerzbank",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.8111
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Rises toward 186.00 after rebounding from ascending channel bottom",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9304
+        "score": -0.8893
       }
     ]
   }
