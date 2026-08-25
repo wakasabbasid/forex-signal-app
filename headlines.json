@@ -15,7 +15,7 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg.com",
+      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -53,13 +53,6 @@
       "currencies": []
     },
     {
-      "title": "Canadian Dollar Slips as US-Canada Trade Talks Collapse - CryptoRank",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9014,
-      "currencies": []
-    },
-    {
       "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - bfsi.economictimes.indiatimes.com",
       "source": "Google News",
       "label": "neutral",
@@ -70,10 +63,10 @@
       ]
     },
     {
-      "title": "Rupee falls 4 paise to 95.74 against U.S. dollar in early trade - The Hindu",
+      "title": "Canadian Dollar Slips as US-Canada Trade Talks Collapse - CryptoRank",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9248,
+      "score": -0.9014,
       "currencies": []
     },
     {
@@ -84,68 +77,73 @@
       "currencies": []
     },
     {
-      "title": "Forex Focus - tastylive",
+      "title": "Rupee falls 4 paise to 95.74 against U.S. dollar in early trade - The Hindu",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9248,
       "currencies": []
     },
     {
-      "title": "Snowflake at the Six Five Summit: data, not models, is the moat",
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9371,
+      "currencies": []
+    },
+    {
+      "title": "Dell at the Six Five Summit: ai push shifts from pilots to production",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Estee Lauder exec VP La Lande sells $553,896 in company stock",
+      "title": "European wheat futures drop on potential Black Sea talks",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9613,
       "currencies": []
     },
     {
-      "title": "Michigan Broadband to acquire wireless assets from Northern Michigan University",
+      "title": "New US home sales drop 10.5% in July on high mortgage rates",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9739,
       "currencies": []
     },
     {
-      "title": "Why is Standard Nuclear stock surging today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "PPHC executives sell shares to cover taxes on vested equity",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Honda says it may not build new plant in North America without trade deal extension",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Rumble stock hits 52-week high at 10.54 USD",
+      "title": "Phoenix Financial H1 2026 slides: asset management surges 48% in Q2",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5276,
-      "currencies": [
-        "USD"
-      ]
+      "score": 0.9326,
+      "currencies": []
     },
     {
-      "title": "U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 0.33%",
+      "title": "Target shares drop after Halloween costume backlash",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9592,
+      "currencies": []
+    },
+    {
+      "title": "WTI Midland crude weakens as Chevron lowers offer",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9564,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Phoenix Financial posts strong H1 2026 growth",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9245,
+      "score": 0.9478,
+      "currencies": []
+    },
+    {
+      "title": "Canada slaps retaliatory tariffs on US goods worth $20 billion as trade war intensifies",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9495,
       "currencies": []
     }
   ],
