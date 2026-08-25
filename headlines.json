@@ -91,59 +91,61 @@
       "currencies": []
     },
     {
-      "title": "Bitcoin takes a beat after debasement trade sparks best week in over three years",
+      "title": "Scales 1H26 slides: record earnings lift guidance to NZD 55-60m",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6768,
-      "currencies": []
+      "score": 0.9316,
+      "currencies": [
+        "NZD"
+      ]
     },
     {
-      "title": "Earnings call transcript: Box tops revenue in Q2 2026, lifts full-year outlook",
+      "title": "Steel & Tube FY26 slides: revenue up 14%, but $61m loss on impairments",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9348,
+      "score": 0.7913,
       "currencies": []
     },
     {
-      "title": "nCino Q2 FY27 slides reveal subscription reacceleration, margin gains",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "BOJ to speed up its tightening campaign, raise key rate to 1.25% in September: Reuters poll",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8224,
-      "currencies": []
-    },
-    {
-      "title": "electroCore CFO Joshua Lev sells $200,120 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US appeals court blocks FCC plan to expand discounted political advertising rates",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "SpaceX to build $100 billion Starship rocket complex in Louisiana",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: nCino Q2 2026 profit miss sends shares lower",
+      "title": "US oil prices extend losses on hopes of Iran-Oman talks on Strait of Hormuz",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8807,
+      "score": -0.8633,
+      "currencies": []
+    },
+    {
+      "title": "Meridian Energy FY26 slides: record results driven by hydrology",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.78,
+      "currencies": []
+    },
+    {
+      "title": "Six months into Iran war, almost half of global oil flows from war zones",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Seacor Marine Sr. VP Andrew Everett II sells $2,000 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Omeros VP of finance David Borges sells $206,804 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Hoyne Bancorp CEO Walter Healy buys $25,670 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

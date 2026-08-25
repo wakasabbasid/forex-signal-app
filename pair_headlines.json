@@ -28,6 +28,14 @@
         "label": "neutral",
         "score": 0.0
       }
+    ],
+    "NZD/USD": [
+      {
+        "title": "Scales 1H26 slides: record earnings lift guidance to NZD 55-60m",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.9316
+      }
     ]
   }
 }
