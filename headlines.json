@@ -45,17 +45,17 @@
       "currencies": []
     },
     {
-      "title": "Canadian Dollar Slips as US-Canada Trade Talks Collapse - CryptoRank",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9014,
-      "currencies": []
-    },
-    {
       "title": "Rupee falls 4 paise to 95.74 against U.S. dollar in early trade - The Hindu",
       "source": "Google News",
       "label": "bearish",
       "score": -0.9248,
+      "currencies": []
+    },
+    {
+      "title": "Canadian Dollar Slips as US-Canada Trade Talks Collapse - CryptoRank",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9014,
       "currencies": []
     },
     {
@@ -76,13 +76,6 @@
       ]
     },
     {
-      "title": "Forex Focus - tastylive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Ethiopia: Why $625m within nine days cannot close the dollar gap - The Africa Report",
       "source": "Google News",
       "label": "neutral",
@@ -90,59 +83,66 @@
       "currencies": []
     },
     {
-      "title": "Raymond James upgrades AMD, sees $201 billion server CPU market by 2030",
-      "source": "Investing.com",
+      "title": "Forex Focus - tastylive",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "TSX futures edge higher amid U.S. tariffs, bank earnings",
+      "title": "Earnings call transcript: Scotiabank tops Q3 2026 estimates on record results",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6435,
+      "score": 0.9236,
       "currencies": []
     },
     {
-      "title": "Enphase expands outreach in Netherlands ahead of net metering end",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Truist expands premier banking for clients with $100,000 in assets",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5261,
-      "currencies": []
-    },
-    {
-      "title": "Recon Technology wins $1.33 million oilfield digitalization contract",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9021,
-      "currencies": []
-    },
-    {
-      "title": "Sandvik stock gains after winning Congo mining order",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8883,
-      "currencies": []
-    },
-    {
-      "title": "Google expands Gemini AI platform for law firms, lawyers",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7561,
-      "currencies": []
-    },
-    {
-      "title": "Global yields stabilize following U.S. sanctions threat and potential cash plan",
+      "title": "Earnings call transcript: SelectQuote Q4 2026 misses estimates, shares fall premarket",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8411,
+      "score": -0.9439,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Kanzhun posts stronger Q2 2026 growth, shares slip premarket",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.639,
+      "currencies": []
+    },
+    {
+      "title": "Trump administration moves to impose more than $100,000 fee for H-1B worker visas",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7823,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: DICK\u2019S Sporting Goods Q2 2026 results miss as shares sink",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: EHang posts Q2 2026 profit but misses on revenue",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9589,
+      "currencies": []
+    },
+    {
+      "title": "Gold wavers as investors await U.S. inflation, Warsh speech",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.4619,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Cadeler posts strong H1 2026 results, shares jump 8%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9474,
       "currencies": []
     }
   ],
