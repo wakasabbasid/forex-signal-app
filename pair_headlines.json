@@ -17,16 +17,16 @@
         "score": 0.0
       },
       {
-        "title": "Morning Kickstart: USD mixed as ranges remain tight. Stocks higher.  Oil and yields lower.",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.7348
+        "title": "Rumble stock hits 52-week high at 10.54 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.5276
       },
       {
-        "title": "US Dollar: Credibility risks for USD \u2013 TD Securities",
+        "title": "Australian Dollar up modestly on RBA, weak USD",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.6755
+        "label": "bullish",
+        "score": 0.5141
       }
     ]
   }
