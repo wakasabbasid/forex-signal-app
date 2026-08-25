@@ -77,15 +77,6 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
       "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
       "source": "Google News",
       "label": "neutral",
@@ -93,59 +84,66 @@
       "currencies": []
     },
     {
-      "title": "Zoom forecasts quarterly profit below estimates",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5464,
+      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "D-Wave Quantum stock slips as CFO announces retirement",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9362,
-      "currencies": []
-    },
-    {
-      "title": "Gold prices tick up marginally amid weaker dollar, falling oil, and sliding yields",
+      "title": "Bitcoin takes a beat after debasement trade sparks best week in over three years",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6953,
+      "score": 0.6768,
       "currencies": []
     },
     {
-      "title": "Jones Trading initiates Seaport Therapeutics stock with buy rating",
+      "title": "Earnings call transcript: Box tops revenue in Q2 2026, lifts full-year outlook",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9348,
+      "currencies": []
+    },
+    {
+      "title": "nCino Q2 FY27 slides reveal subscription reacceleration, margin gains",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "F&M Bank announces board transition with new director",
+      "title": "BOJ to speed up its tightening campaign, raise key rate to 1.25% in September: Reuters poll",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8224,
+      "currencies": []
+    },
+    {
+      "title": "electroCore CFO Joshua Lev sells $200,120 in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "D-Wave Quantum names Greg Golkov acting CFO as Markovich retires",
+      "title": "US appeals court blocks FCC plan to expand discounted political advertising rates",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Optum CEO Conway sells $455,910 in UnitedHealth Group stock",
+      "title": "SpaceX to build $100 billion Starship rocket complex in Louisiana",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Diana Shipping sells $32.06m Genco Shipping & Trading shares",
+      "title": "Earnings call transcript: nCino Q2 2026 profit miss sends shares lower",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.8807,
       "currencies": []
     }
   ],
