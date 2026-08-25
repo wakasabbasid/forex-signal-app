@@ -15,11 +15,12 @@
       "currencies": []
     },
     {
-      "title": "USD/ZAR Tests 16.00 as Jackson Hole Puts Rand Rally at Risk - Daily Forex",
+      "title": "GBP/USD Price Forecast 25/08: Bullish Setup - Daily Forex",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.5823,
+      "score": 0.5483,
       "currencies": [
+        "GBP",
         "USD"
       ]
     },
@@ -42,13 +43,6 @@
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Rupee falls 4 paise to 95.74 against U.S. dollar in early trade - The Hindu",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9248,
       "currencies": []
     },
     {
@@ -76,6 +70,13 @@
       ]
     },
     {
+      "title": "Rupee falls 4 paise to 95.74 against U.S. dollar in early trade - The Hindu",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9248,
+      "currencies": []
+    },
+    {
       "title": "Ethiopia: Why $625m within nine days cannot close the dollar gap - The Africa Report",
       "source": "Google News",
       "label": "neutral",
@@ -90,59 +91,59 @@
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Scotiabank tops Q3 2026 estimates on record results",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9236,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: SelectQuote Q4 2026 misses estimates, shares fall premarket",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9439,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Kanzhun posts stronger Q2 2026 growth, shares slip premarket",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.639,
-      "currencies": []
-    },
-    {
-      "title": "Trump administration moves to impose more than $100,000 fee for H-1B worker visas",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7823,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: DICK\u2019S Sporting Goods Q2 2026 results miss as shares sink",
+      "title": "Palo Alto Networks stock may move 8.6% on Sept. 1 earnings",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: EHang posts Q2 2026 profit but misses on revenue",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9589,
-      "currencies": []
-    },
-    {
-      "title": "Gold wavers as investors await U.S. inflation, Warsh speech",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.4619,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Cadeler posts strong H1 2026 results, shares jump 8%",
+      "title": "MongoDB stock may move 14% on Sept. 1 earnings release",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9474,
+      "score": 0.7515,
+      "currencies": []
+    },
+    {
+      "title": "Credo Technology shares may move 12% on Sept. 1 earnings",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Click Holdings reports 42% annual logistics revenue growth in Q4",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9031,
+      "currencies": []
+    },
+    {
+      "title": "Gitlab stock may move 14% on Sept. 1 earnings report",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7007,
+      "currencies": []
+    },
+    {
+      "title": "Fintech stocks with strong momentum: neobanks, market makers, and value plays",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Dell, AMD among market cap stock movers on Tuesday",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Medtronic shares may move 4% on Sept. 1 earnings release",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7366,
       "currencies": []
     }
   ],

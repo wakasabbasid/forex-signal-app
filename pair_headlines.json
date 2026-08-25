@@ -1,18 +1,26 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/JPY": [
+    "GBP/USD": [
       {
-        "title": "USD/ZAR Tests 16.00 as Jackson Hole Puts Rand Rally at Risk - Daily Forex",
+        "title": "GBP/USD Price Forecast 25/08: Bullish Setup - Daily Forex",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.5823
-      },
+        "score": 0.5483
+      }
+    ],
+    "USD/JPY": [
       {
         "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - bfsi.economictimes.indiatimes.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "Invesco stock hits 52-week high at 32.82 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.7125
       },
       {
         "title": "Morning Kickstart: USD mixed as ranges remain tight. Stocks higher.  Oil and yields lower.",
@@ -21,18 +29,10 @@
         "score": -0.7348
       },
       {
-        "title": "GBP/JPY Price Forecast: Bulls recover lost ground as intervention effect wears off",
+        "title": "US Dollar: Credibility risks for USD \u2013 TD Securities",
         "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.5192
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "GBP/JPY Price Forecast: Bulls recover lost ground as intervention effect wears off",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.5192
+        "label": "bearish",
+        "score": -0.6755
       }
     ]
   }
