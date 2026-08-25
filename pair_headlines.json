@@ -9,40 +9,34 @@
         "score": -0.8948
       },
       {
-        "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - Economic Times BFSI",
+        "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - bfsi.economictimes.indiatimes.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "Gold moves away from multi\u2011month top as Fed rate fears and Middle East jitters support USD",
+        "title": "WTI slides below $84.00 on firmer USD but US-Iran tensions limit deeper losses",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.8804
+        "score": -0.6739
+      },
+      {
+        "title": "USD/JPY Price Forecast: US Dollar keeps crawling towards the key 160.00 area",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8058
+      },
+      {
+        "title": "Gold sticks to modest losses below $4,650 as Fed risks and Middle East tensions lift USD",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.7988
       },
       {
         "title": "EUR/JPY Price Forecast: Rises toward 186.00 after rebounding from ascending channel bottom",
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.9304
-      },
-      {
-        "title": "Canadian Dollar remains depressed as firmer USD and trade war counter higher oil prices",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9653
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD corrects below $68 in countdown to US PCE Inflation data",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9436
-      },
-      {
-        "title": "British Pound holds range below mid-1.3600s as USD firms  amid Fed risks and Iran tensions",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9255
       }
     ],
     "AUD/USD": [
@@ -54,6 +48,12 @@
       }
     ],
     "EUR/USD": [
+      {
+        "title": "EUR/USD Price Forecast: Corrects further as US Dollar extends recovery",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8111
+      },
       {
         "title": "EUR/JPY Price Forecast: Rises toward 186.00 after rebounding from ascending channel bottom",
         "source": "FXStreet",
