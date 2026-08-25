@@ -15,14 +15,20 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Price Forecast 25/08: Bullish Setup - DailyForex",
+      "title": "USD/ZAR Tests 16.00 as Jackson Hole Puts Rand Rally at Risk - DailyForex",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5493,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
+      "currencies": []
     },
     {
       "title": "Dollar forecast: All eyes on bond markets - FOREX.com",
@@ -32,7 +38,7 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg.com",
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -43,13 +49,6 @@
       "source": "Google News",
       "label": "bearish",
       "score": -0.9248,
-      "currencies": []
-    },
-    {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -77,6 +76,15 @@
       ]
     },
     {
+      "title": "RBI\u2019s USD-INR swap facility mobilises $73 bn in less than 11 weeks - Manorama Yearbook",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6811,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "Ethiopia: Why $625m within nine days cannot close the dollar gap - The Africa Report",
       "source": "Google News",
       "label": "neutral",
@@ -84,66 +92,59 @@
       "currencies": []
     },
     {
-      "title": "LOOK: Foreign Exchange Rate as of August 25, 2026 Source: BSP via https://www.bsp.gov.ph/sitepages/statistics/exchangerate.aspx - facebook.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: SMG Swiss Marketplace Group H1 2026 stock jumps on strong growth",
+      "title": "Hedge funds cut Asia tech holdings in second-largest selloff",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.938,
+      "label": "bearish",
+      "score": -0.9696,
       "currencies": []
     },
     {
-      "title": "PACS group CEO Jason Hulse sells $6.61M in company shares",
+      "title": "Why is Chesnara stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "EssilorLuxottica founder\u2019s son quits management roles after reported rift with CEO",
+      "title": "Citizens reiterates Uber stock rating on Waymo data analysis",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "QleanAir Q2 2026 slides: FX masks underlying growth momentum",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6339,
+      "currencies": []
+    },
+    {
+      "title": "US lawmakers question Health Secretary Kennedy on vaccine settlement disclosures",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8399,
+      "score": -0.7675,
       "currencies": []
     },
     {
-      "title": "Raymond James upgrades AMD stock rating on AI server growth outlook",
+      "title": "Volex shares surge nearly 21% on strong trading, upgraded profit outlook",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7075,
+      "score": 0.9461,
       "currencies": []
     },
     {
-      "title": "Chesnara shares jump 3% on stronger capital generation, dividend growth",
+      "title": "Gift Nifty 50 tests $24,140 support amid bearish squeeze: Live",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9516,
+      "score": 0.8425,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Loyal Solutions posts profit milestone in H2 2026",
+      "title": "Wolfe Research upgrades Bread Financial stock rating on growth outlook",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9006,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Terranor Q2 2026 revenue beats forecast, shares fall 6.7%",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9744,
-      "currencies": []
-    },
-    {
-      "title": "German business sentiment rises more than expected in August, Ifo survey finds",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9447,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

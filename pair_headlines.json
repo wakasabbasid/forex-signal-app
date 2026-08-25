@@ -1,21 +1,13 @@
 {
   "run_id": 1,
   "pairs": {
-    "GBP/USD": [
-      {
-        "title": "GBP/USD Price Forecast 25/08: Bullish Setup - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "GBP/USD Price Forecast: Rally pauses below 1.3700",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8289
-      }
-    ],
     "USD/JPY": [
+      {
+        "title": "USD/ZAR Tests 16.00 as Jackson Hole Puts Rand Rally at Risk - DailyForex",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.5493
+      },
       {
         "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - bfsi.economictimes.indiatimes.com",
         "source": "Google News",
@@ -23,18 +15,16 @@
         "score": 0.0
       },
       {
-        "title": "Silver Price Forecast: XAG/USD slips below $68.50 despite revived debasement trading",
+        "title": "RBI\u2019s USD-INR swap facility mobilises $73 bn in less than 11 weeks - Manorama Yearbook",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.6811
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD faces rejection near $70.00 as upside momentum fades",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9565
-      }
-    ],
-    "USD/CAD": [
-      {
-        "title": "USD/CAD Price Forecast: Could surpass 1.3900 as break above 38.2% Fibo. comes into play",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.6467
+        "score": -0.9303
       }
     ]
   }
