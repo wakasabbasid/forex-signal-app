@@ -29,13 +29,11 @@
       "currencies": []
     },
     {
-      "title": "USD/MXN Tests 2024 Lows as Dollar Weakness Deepens - DailyForex",
+      "title": "Canadian Dollar Slips as US-Canada Trade Talks Collapse - CryptoRank",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.8948,
-      "currencies": [
-        "USD"
-      ]
+      "score": -0.9014,
+      "currencies": []
     },
     {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
@@ -43,6 +41,15 @@
       "label": "neutral",
       "score": 0.0,
       "currencies": []
+    },
+    {
+      "title": "USD/MXN Tests 2024 Lows as Dollar Weakness Deepens - DailyForex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8948,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - Economic Times BFSI",
@@ -53,20 +60,6 @@
         "USD",
         "USD"
       ]
-    },
-    {
-      "title": "Undervalued Asian Currencies - Seeking Alpha",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6549,
-      "currencies": []
-    },
-    {
-      "title": "U.S.-Japan \u2018Currency Alliance\u2019 Signals Deeper Coordination on Yen and Dollar - CryptoRank",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9301,
-      "currencies": []
     },
     {
       "title": "Ethiopia: Why $625m within nine days cannot close the dollar gap - The Africa Report",
@@ -87,6 +80,34 @@
       "source": "Google News",
       "label": "bullish",
       "score": 0.9371,
+      "currencies": []
+    },
+    {
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Morning Bid: Waiting on Nvidia for next leg of AI rally",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why is SK Hynix stock falling today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9244,
+      "currencies": []
+    },
+    {
+      "title": "Why is Xpeng stock tumbling today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.655,
       "currencies": []
     },
     {
@@ -122,27 +143,6 @@
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Gift Nifty 50 bear flag 80% done at 24,208: Hourly levels",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Nvidia earnings on tap: watch these Asian chip stocks for exposure",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Australian developer Bathla calls administrators, citing \u2019perfect storm\u2019",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.952,
       "currencies": []
     }
   ],
