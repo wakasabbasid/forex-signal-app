@@ -22,7 +22,7 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg.com",
+      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -45,13 +45,6 @@
       "currencies": []
     },
     {
-      "title": "Undervalued Asian Currencies - Seeking Alpha",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6549,
-      "currencies": []
-    },
-    {
       "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - Economic Times BFSI",
       "source": "Google News",
       "label": "neutral",
@@ -60,6 +53,13 @@
         "USD",
         "USD"
       ]
+    },
+    {
+      "title": "Undervalued Asian Currencies - Seeking Alpha",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6549,
+      "currencies": []
     },
     {
       "title": "U.S.-Japan \u2018Currency Alliance\u2019 Signals Deeper Coordination on Yen and Dollar - CryptoRank",
@@ -83,66 +83,66 @@
       "currencies": []
     },
     {
-      "title": "Sell U.S. dollar versus these currencies, BCA says - Investing.com",
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Ctt pharmaceutical holdings CEO Ryan Khouri buys $115 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "GenusPlus FY2026 slides: EBITDA tops $100M, revenue surges 70%",
-      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9528,
+      "score": 0.9371,
       "currencies": []
     },
     {
-      "title": "Monadelphous FY26 slides: record revenue, shares fall on outlook",
+      "title": "Oil steadies as investors weigh impact of latest US sanctions on Iran",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9714,
+      "score": -0.6265,
       "currencies": []
     },
     {
-      "title": "WOTSO FY26 slides: coworking network doubles as margins compress",
+      "title": "Gorilla Tech earnings missed by $0.69, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9581,
+      "currencies": []
+    },
+    {
+      "title": "Asian stocks fall as tech jitters deepen ahead of Nvidia earnings",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9312,
+      "currencies": []
+    },
+    {
+      "title": "Iran vows to retaliate after US widens sanctions",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6244,
+      "currencies": []
+    },
+    {
+      "title": "KKR to acquire Japanese beauty platform Ci FLAVORS",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Acrow FY26 slides: revenue surges 27%, margins compress on mix shift",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9289,
-      "currencies": []
-    },
-    {
-      "title": "WOTSO FY26 slides: coworking network hits 40 sites, EBITDA up 1%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9551,
-      "currencies": []
-    },
-    {
-      "title": "US removes Syria from terrorism sponsor list, lifting major investment obstacle",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8955,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: GenusPlus posts record H2 2026 results, shares slip",
+      "title": "Gift Nifty 50 bear flag 80% done at 24,208: Hourly levels",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Nvidia earnings on tap: watch these Asian chip stocks for exposure",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Australian developer Bathla calls administrators, citing \u2019perfect storm\u2019",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.952,
       "currencies": []
     }
   ],
