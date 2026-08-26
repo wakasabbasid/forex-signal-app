@@ -8,15 +8,11 @@
       "currencies": []
     },
     {
-      "title": "AUD/USD Signal 26/08: Inflation Puts the AUD in Focus - Daily Forex",
+      "title": "Why RBI ended its dollar hunt ahead of time - Forbes India",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "AUD",
-        "USD",
-        "AUD"
-      ]
+      "currencies": []
     },
     {
       "title": "Sudan central bank eases forex curbs to stabilize currency - Sudan Tribune",
@@ -45,6 +41,15 @@
       "label": "neutral",
       "score": 0.0,
       "currencies": []
+    },
+    {
+      "title": "USD/ZAR Tests 16.00 as Jackson Hole Puts Rand Rally at Risk - Daily Forex",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5823,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
@@ -85,66 +90,59 @@
       "currencies": []
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Alligator Bioscience pivots in Q2 2026 as stock rises",
+      "title": "Truist downgrades Nike as DKS update clouds turnaround progress",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5991,
+      "score": -0.886,
       "currencies": []
     },
     {
-      "title": "Why is Booking stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8869,
-      "currencies": []
-    },
-    {
-      "title": "Synopsys faces earnings test on Ansys integration, AI tools",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.914,
-      "currencies": []
-    },
-    {
-      "title": "VIG H1 2026 slides: profit surges 21%, CEE diversification pays off",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9381,
-      "currencies": []
-    },
-    {
-      "title": "Meta reaches $18 billion settlement with 52 state attorneys general",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7257,
-      "currencies": []
-    },
-    {
-      "title": "Agilent earnings up next as investors eye margin protection",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7886,
-      "currencies": []
-    },
-    {
-      "title": "CMB.TECH earnings on deck as tanker volatility tests margins",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8571,
-      "currencies": []
-    },
-    {
-      "title": "Why is Vision Marine Technologies stock surging today?",
+      "title": "Iran and Oman still working on Strait of Hormuz accord, says senior Iranian source",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US imposes sanctions on Palestine Action group",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8614,
+      "currencies": []
+    },
+    {
+      "title": "U.S. crude inventories rise as fuel stocks decline",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.748,
+      "currencies": []
+    },
+    {
+      "title": "Reaction roundup: Experts, analysts weigh in on July PCE data",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Sodexo plans to cut over 1,000 jobs in France",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9691,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: SFL beats Q2 2026 profit view as tanker rates soar",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7956,
+      "currencies": []
+    },
+    {
+      "title": "AWS to acquire DuckLabs to boost analytics capabilities",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8766,
       "currencies": []
     }
   ],
