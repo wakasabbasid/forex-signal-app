@@ -1,17 +1,17 @@
 {
   "headlines": [
     {
-      "title": "Sudan central bank eases forex curbs to stabilize currency - Sudan Tribune",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7755,
-      "currencies": []
-    },
-    {
       "title": "Iran Central Bank Chief Blames U.S. \u2018Propaganda\u2019 for Rising Forex Rates - IranWire",
       "source": "Google News",
       "label": "bearish",
       "score": -0.8825,
+      "currencies": []
+    },
+    {
+      "title": "Sudan central bank eases forex curbs to stabilize currency - Sudan Tribune",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7755,
       "currencies": []
     },
     {
@@ -77,10 +77,10 @@
       "currencies": []
     },
     {
-      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
+      "title": "How Malawi\u2019s forex crisis disrupts everyday life - dandc.eu",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.5956,
       "currencies": []
     },
     {
@@ -91,59 +91,59 @@
       "currencies": []
     },
     {
-      "title": "Why is SK Biopharmaceuticals stock surging today?",
+      "title": "OppFi CEO Todd Schwartz buys $24,830 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is Jiangxi Copper stock surging today?",
+      "title": "SoftBank weighs up to $20 bln bond sale to refinance OpenAI loan - Bloomberg",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6857,
+      "currencies": []
+    },
+    {
+      "title": "Exclusive-BNP Paribas, KB Kookmin in talks for $2 billion Vietnam Techcombank stake, sources say",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Australian Indigenous group appeals compensation ruling over Fortescue\u2019s mining impact",
+      "title": "Arista Networks (ANET) director sells $79,057 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why is SJM Holdings stock falling today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9036,
+      "score": -0.9383,
       "currencies": []
     },
     {
-      "title": "JOYY Inc earnings missed by $0.20, revenue topped estimates",
+      "title": "55% off: Lock in InvestingPro for less than $2 a week BEFORE OUR SUMMER SALE ENDS",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Gold slips but stays near 3-month high as oil, yields ease inflation pressure",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9722,
+      "score": -0.5083,
       "currencies": []
     },
     {
-      "title": "Tela Bio CEO Heather Getz buys $8,311 in company stock",
+      "title": "As war strands Qatari gas for 6 months, US sales rise and European stocks plummet",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Interface VP, chief supply chain officer, Blackorby sells $110,807 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Miax EVP & CFO Lance Emmons sells shares worth $1.5 million",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "SK Biopharmaceuticals signs epilepsy drug licensing deal with Biohaven",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9591,
       "currencies": []
     }
   ],

@@ -29,6 +29,12 @@
         "score": 0.0
       },
       {
+        "title": "Gold trades with negative bias below $4,650 as USD edges higher ahead of US PCE",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8917
+      },
+      {
         "title": "British Pound edges lower but remains close to multi-month top as USD awaits US PCE",
         "source": "FXStreet",
         "label": "bearish",
@@ -56,6 +62,12 @@
       }
     ],
     "EUR/USD": [
+      {
+        "title": "EUR/USD Price Forecast: Declines to near 1.1650, overbought signals curb upside bias",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9695
+      },
       {
         "title": "EUR/USD Price Forecast: Remains sideways ahead of key US events",
         "source": "FXStreet",
