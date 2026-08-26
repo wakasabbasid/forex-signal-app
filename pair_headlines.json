@@ -1,18 +1,38 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/JPY": [
+    "AUD/USD": [
       {
-        "title": "USD/ZAR Tests 16.00 as Jackson Hole Puts Rand Rally at Risk - Daily Forex",
+        "title": "AUD/USD Signal 26/08: Inflation Puts the AUD in Focus - Daily Forex",
         "source": "Google News",
-        "label": "bullish",
-        "score": 0.5823
+        "label": "neutral",
+        "score": 0.0
       },
+      {
+        "title": "investingLive Asia-Pacific market news: Oil down, AUD 3 month high",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.7361
+      }
+    ],
+    "USD/JPY": [
       {
         "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - bfsi.economictimes.indiatimes.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "Gold Price Forecast: XAU/USD corrects to near $4,620 in countdown to US PCE Inflation data",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.7652
+      },
+      {
+        "title": "Japanese Yen: BoJ hike expectations support JPY against US Dollar \u2013 MUFG",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8123
       },
       {
         "title": "EUR/JPY Price Forecast: Tests nine-day EMA confluence support near 185.00",
@@ -25,26 +45,6 @@
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.9091
-      },
-      {
-        "title": "AUD/JPY Price Forecast: Rally extends further to near 114.30 as hawkish RBA bets accelerate",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.794
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "investingLive Asia-Pacific market news: Oil down, AUD 3 month high",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.7361
-      },
-      {
-        "title": "AUD/JPY Price Forecast: Rally extends further to near 114.30 as hawkish RBA bets accelerate",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.794
       }
     ],
     "EUR/USD": [

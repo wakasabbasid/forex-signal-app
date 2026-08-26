@@ -8,11 +8,15 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg",
+      "title": "AUD/USD Signal 26/08: Inflation Puts the AUD in Focus - Daily Forex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "AUD",
+        "USD",
+        "AUD"
+      ]
     },
     {
       "title": "Euro Holds Tight Range vs Pound Prior to Fresh Catalysts - TradingPedia",
@@ -41,15 +45,6 @@
       "label": "neutral",
       "score": 0.0,
       "currencies": []
-    },
-    {
-      "title": "USD/ZAR Tests 16.00 as Jackson Hole Puts Rand Rally at Risk - Daily Forex",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5823,
-      "currencies": [
-        "USD"
-      ]
     },
     {
       "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
@@ -90,59 +85,66 @@
       "currencies": []
     },
     {
-      "title": "Dollar treads water ahead of PCE; Aussie gains on hot CPI",
-      "source": "Investing.com",
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
+      "source": "Google News",
       "label": "bullish",
-      "score": 0.7814,
+      "score": 0.9371,
       "currencies": []
     },
     {
-      "title": "Li Auto tops quarterly revenue estimates but issues weak Q3 guidance; shares dip",
+      "title": "Jefferies raises trucking sector outlook on capacity cuts despite summer slowdown",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9715,
+      "score": -0.5989,
       "currencies": []
     },
     {
-      "title": "Dollar inches higher ahead of US inflation data; Aussie gains on rate bets",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8993,
-      "currencies": []
-    },
-    {
-      "title": "Gold slips ahead of key inflation data",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8432,
-      "currencies": []
-    },
-    {
-      "title": "Thailand central bank holds key rate at 1.00% amid weak growth",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8931,
-      "currencies": []
-    },
-    {
-      "title": "BHP faces copper price risk as tariff concerns inflate rally",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9551,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Aroundtown H1 2026 profit steady as debt costs rise",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7971,
-      "currencies": []
-    },
-    {
-      "title": "Ming Yang Smart Energy issues third green bond tranche",
+      "title": "Prudential to sell 2% stake in ICICI Prudential Asset Management",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Trump administration moves to impose more than $100,000 fee for H-1B worker visas",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7823,
+      "currencies": []
+    },
+    {
+      "title": "US stock futures subdued in run-up to Nvidia results, inflation print",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8997,
+      "currencies": []
+    },
+    {
+      "title": "Boston Scientific reports cybersecurity incident affecting operations, shares fall",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9566,
+      "currencies": []
+    },
+    {
+      "title": "Exclusive-Hack of water sector supplier draws FBI scrutiny as Iran-linked cyber concerns grow",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9317,
+      "currencies": []
+    },
+    {
+      "title": "Exclusive-US produce supplier Taylor Farms frequently fails to disclose workplace injury tallies, records show",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9626,
+      "currencies": []
+    },
+    {
+      "title": "Wells Fargo cuts Intuit stock price target to $300 on tax growth concerns",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7208,
       "currencies": []
     }
   ],
