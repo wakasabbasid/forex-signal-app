@@ -15,7 +15,7 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg",
+      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -77,6 +77,13 @@
       "currencies": []
     },
     {
+      "title": "How Malawi\u2019s forex crisis disrupts everyday life - dandc.eu",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5956,
+      "currencies": []
+    },
+    {
       "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
       "source": "Google News",
       "label": "neutral",
@@ -84,68 +91,59 @@
       "currencies": []
     },
     {
-      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Scales 1H26 slides: record earnings lift guidance to NZD 55-60m",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9316,
-      "currencies": [
-        "NZD"
-      ]
-    },
-    {
-      "title": "Steel & Tube FY26 slides: revenue up 14%, but $61m loss on impairments",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7913,
-      "currencies": []
-    },
-    {
-      "title": "US oil prices extend losses on hopes of Iran-Oman talks on Strait of Hormuz",
+      "title": "Hang Seng stuck in chop zone at 25,750: Hourly levels",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8633,
+      "score": -0.7797,
       "currencies": []
     },
     {
-      "title": "Meridian Energy FY26 slides: record results driven by hydrology",
+      "title": "Ardelyx chief patient officer sells $41,419 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Meta, US states have discussed settling teen social media harm case, Bloomberg News reports",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "COG FY 2026 slides: salary packaging drives 28% EBITDA growth",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.78,
+      "score": 0.9147,
       "currencies": []
     },
     {
-      "title": "Six months into Iran war, almost half of global oil flows from war zones",
+      "title": "Dollar moves in a narrow range ahead of inflation data, Jackson Hole",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Seacor Marine Sr. VP Andrew Everett II sells $2,000 in shares",
+      "title": "Earnings call transcript: Airtasker lifts FY 2026 growth, shares jump on outlook",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9308,
       "currencies": []
     },
     {
-      "title": "Omeros VP of finance David Borges sells $206,804 in shares",
+      "title": "Earnings call transcript: Neuren Technologies lifts outlook in H1 2026",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.7885,
       "currencies": []
     },
     {
-      "title": "Hoyne Bancorp CEO Walter Healy buys $25,670 in company stock",
+      "title": "IVE Group FY26 slides: margins expand despite revenue softness",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9467,
       "currencies": []
     }
   ],

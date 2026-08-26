@@ -7,12 +7,6 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.5483
-      },
-      {
-        "title": "GBP/JPY Price Forecast: Bulls hold 217.00 after trendline break",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
       }
     ],
     "USD/JPY": [
@@ -23,18 +17,36 @@
         "score": 0.0
       },
       {
-        "title": "GBP/JPY Price Forecast: Bulls hold 217.00 after trendline break",
+        "title": "PBOC sets USD/ CNY mid-point today at 6.7829 (vs. estimate at 6.7166)",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7166 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Canadian Dollar weakens amid falling oil prices as USD holds steady ahead of US PCE",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9625
+      },
+      {
+        "title": "PBOC sets USD/CNY reference rate at 6.7829 vs. 6.7852 previous",
         "source": "FXStreet",
         "label": "neutral",
         "score": 0.0
       }
     ],
-    "NZD/USD": [
+    "AUD/USD": [
       {
-        "title": "Scales 1H26 slides: record earnings lift guidance to NZD 55-60m",
-        "source": "Investing.com",
+        "title": "AUD higher, Australian CPI beats forecasts as core inflation surprises to the upside",
+        "source": "ForexLive",
         "label": "bullish",
-        "score": 0.9316
+        "score": 0.7995
       }
     ]
   }
