@@ -15,7 +15,14 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg.com",
+      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Dollar forecast: All eyes on bond markets - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -32,13 +39,6 @@
       ]
     },
     {
-      "title": "Dollar forecast: All eyes on bond markets - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -53,6 +53,13 @@
       "currencies": []
     },
     {
+      "title": "Ethiopia: Why $625m within nine days cannot close the dollar gap - The Africa Report",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - bfsi.economictimes.indiatimes.com",
       "source": "Google News",
       "label": "neutral",
@@ -61,13 +68,6 @@
         "USD",
         "USD"
       ]
-    },
-    {
-      "title": "Ethiopia: Why $625m within nine days cannot close the dollar gap - The Africa Report",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
     },
     {
       "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
@@ -91,59 +91,59 @@
       "currencies": []
     },
     {
-      "title": "Hang Seng stuck in chop zone at 25,750: Hourly levels",
+      "title": "Prime Financial FY26 slides: revenue jumps 22%, recurring income hits 85%",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7797,
+      "label": "bullish",
+      "score": 0.9436,
       "currencies": []
     },
     {
-      "title": "Ardelyx chief patient officer sells $41,419 in stock",
+      "title": "Alibaba shares rise as Jack Ma buys $76 million stake amid AI push",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Meta, US states have discussed settling teen social media harm case, Bloomberg News reports",
+      "title": "Worley wins three U.S. contracts for data center energy projects",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7548,
+      "currencies": []
+    },
+    {
+      "title": "China\u2019s Huawei, US PC maker HP sign multi-year Wi-Fi patent deal",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8857,
+      "currencies": []
+    },
+    {
+      "title": "Why is Woolworths stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "COG FY 2026 slides: salary packaging drives 28% EBITDA growth",
+      "title": "Earnings call transcript: Prime Financial Group lifts FY26 revenue 22% in H2 2026",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9147,
+      "score": 0.9314,
       "currencies": []
     },
     {
-      "title": "Dollar moves in a narrow range ahead of inflation data, Jackson Hole",
+      "title": "Sandfire FY26 slides: profit triples, returns to dividend after debt repayment",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8525,
+      "currencies": []
+    },
+    {
+      "title": "Why is Alibaba stock climbing today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Airtasker lifts FY 2026 growth, shares jump on outlook",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9308,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Neuren Technologies lifts outlook in H1 2026",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7885,
-      "currencies": []
-    },
-    {
-      "title": "IVE Group FY26 slides: margins expand despite revenue softness",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9467,
       "currencies": []
     }
   ],

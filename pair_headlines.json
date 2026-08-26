@@ -29,6 +29,12 @@
         "score": 0.0
       },
       {
+        "title": "Silver Price Forecast: XAG/USD holds firmly above $69 ahead of US PCE Inflation data",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9213
+      },
+      {
         "title": "Canadian Dollar weakens amid falling oil prices as USD holds steady ahead of US PCE",
         "source": "FXStreet",
         "label": "bearish",
@@ -42,6 +48,12 @@
       }
     ],
     "AUD/USD": [
+      {
+        "title": "investingLive Asia-Pacific market news: Oil down, AUD 3 month high",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.7361
+      },
       {
         "title": "AUD higher, Australian CPI beats forecasts as core inflation surprises to the upside",
         "source": "ForexLive",
