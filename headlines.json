@@ -8,7 +8,7 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg.com",
+      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -20,6 +20,15 @@
       "label": "bullish",
       "score": 0.7755,
       "currencies": []
+    },
+    {
+      "title": "USD/ZAR Tests 16.00 as Jackson Hole Puts Rand Rally at Risk - Daily Forex",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5823,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "Dollar forecast: All eyes on bond markets - FOREX.com",
@@ -41,16 +50,6 @@
       "label": "neutral",
       "score": 0.0,
       "currencies": []
-    },
-    {
-      "title": "GBP/USD Price Forecast 25/08: Bullish Setup - Daily Forex",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5483,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
     },
     {
       "title": "Ethiopia: Why $625m within nine days cannot close the dollar gap - The Africa Report",
@@ -91,59 +90,59 @@
       "currencies": []
     },
     {
-      "title": "Couche-Tard launches $8.6 billion \u017babka tender offer in its biggest deal yet",
+      "title": "Torm A earnings missed by $0.05, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8859,
+      "currencies": []
+    },
+    {
+      "title": "Some Chinese workers see an ally in Brussels as EU trade tensions mount",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.4896,
+      "currencies": []
+    },
+    {
+      "title": "Nordic Aqua Q2 2026 slides: record harvest, China premium pricing",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.549,
+      "score": 0.8191,
       "currencies": []
     },
     {
-      "title": "MPC Container Ships Q2 2026 slides: $2.2bn backlog, fleet renewal",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9217,
-      "currencies": []
-    },
-    {
-      "title": "JPMorgan downgrades EPAM Systems stock rating on reorganization",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5048,
-      "currencies": []
-    },
-    {
-      "title": "Jefferies downgrades TJX stock rating on Marmaxx slowdown concerns",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9352,
-      "currencies": []
-    },
-    {
-      "title": "Roth/MKM initiates Aureus Greenway stock with buy rating",
+      "title": "Siemens Energy starts plans to spin off industrial unit as power demand surges",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Roth/MKM cuts ReNew Power stock rating on take-private deal",
+      "title": "Australia transport safety regulator probes two more incidents at Sydney airport",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8852,
+      "score": -0.9506,
       "currencies": []
     },
     {
-      "title": "Lynas expands global footprint, eyes new rare earths supply deals",
+      "title": "European shares edge higher as oil falls; Nvidia earnings in focus",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5667,
+      "score": 0.7316,
       "currencies": []
     },
     {
-      "title": "Why is ANTA Sports stock surging today?",
+      "title": "Nordic Aqua Q2 2026 slides: record harvest, China growth accelerate",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.8872,
+      "currencies": []
+    },
+    {
+      "title": "SoftwareOne shares rise 9% on strong H1 growth, margin expansion",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9522,
       "currencies": []
     }
   ],

@@ -1,15 +1,13 @@
 {
   "run_id": 1,
   "pairs": {
-    "GBP/USD": [
+    "USD/JPY": [
       {
-        "title": "GBP/USD Price Forecast 25/08: Bullish Setup - Daily Forex",
+        "title": "USD/ZAR Tests 16.00 as Jackson Hole Puts Rand Rally at Risk - Daily Forex",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.5483
-      }
-    ],
-    "USD/JPY": [
+        "score": 0.5823
+      },
       {
         "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - bfsi.economictimes.indiatimes.com",
         "source": "Google News",
@@ -17,16 +15,16 @@
         "score": 0.0
       },
       {
+        "title": "Silver Price Forecast: XAG/USD rises to near $69.00 ahead of US PCE inflation data",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9401
+      },
+      {
         "title": "USD/JPY Price Forecast: 20-day EMA continues to act as key barrier",
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.5402
-      },
-      {
-        "title": "Gold remains depressed below $4,650 on firmer USD; looks to US PCE for Fed rate outlook",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9364
       }
     ],
     "AUD/USD": [
@@ -41,20 +39,14 @@
         "source": "ForexLive",
         "label": "bullish",
         "score": 0.7995
-      },
-      {
-        "title": "AUD/USD Price Forecast: Hot Australian CPI data boosts hawkish RBA bets",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.6616
       }
     ],
-    "EUR/USD": [
+    "NZD/USD": [
       {
-        "title": "EUR/USD Price Forecast: Declines to near 1.1650, overbought signals curb upside bias",
+        "title": "NZD/USD Price Forecast: Dips below 0.5950, fresh weekly low as USD firms ahead of US PCE",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9695
+        "score": -0.969
       }
     ]
   }
