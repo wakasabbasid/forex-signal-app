@@ -17,10 +17,34 @@
         "score": 0.0
       },
       {
-        "title": "USD rises after PCE data, recoups half of buyback losses",
-        "source": "Bloomberg",
+        "title": "USD/JPY Price Forecast: 160.00 caps bulls as intervention risk lingers",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.58
+      }
+    ],
+    "USD/CAD": [
+      {
+        "title": "USD/CAD Price Forecast: Bulls eye 1.3900 as RSI recovers",
+        "source": "FXStreet",
         "label": "bullish",
-        "score": 0.7943
+        "score": 0.8225
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "US Dollar Price Forecast: Warsh Speech Looms as EUR/USD and GBP/USD Hold Firm",
+        "source": "Yahoo Finance",
+        "label": "bearish",
+        "score": -0.8241
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "US Dollar Price Forecast: Warsh Speech Looms as EUR/USD and GBP/USD Hold Firm",
+        "source": "Yahoo Finance",
+        "label": "bearish",
+        "score": -0.8241
       }
     ]
   }

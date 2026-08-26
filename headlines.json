@@ -68,13 +68,6 @@
       "currencies": []
     },
     {
-      "title": "Market Threads \u2013 The Debasement Trade Takes Centre Stage Across Markets - FXCM Markets",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - bfsi.economictimes.indiatimes.com",
       "source": "Google News",
       "label": "neutral",
@@ -92,59 +85,66 @@
       "currencies": []
     },
     {
-      "title": "National Bank Q3 2026 slides: strong growth amid capital concerns",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9438,
+      "title": "Market Threads \u2013 The Debasement Trade Takes Centre Stage Across Markets - FXCM Markets",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Russia weighs ballistic missile strikes on Kyiv as peace talks collapse",
+      "title": "Chris Rittiner, Fifth District Bancorp director, sells $163,774 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Mark Walter\u2019s TWG is working with regulators, says \u2019no fraud\u2019",
+      "title": "Macy\u2019s options activity heats up ahead of earnings next month",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5137,
+      "currencies": []
+    },
+    {
+      "title": "BofA raises Box stock price target to $42 on AI momentum",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Vanguard strikes deal for fintech platform Altruist",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7895,
-      "currencies": []
-    },
-    {
-      "title": "William Blair reiterates Palantir stock rating on Pentagon contract growth",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Morgan Stanley sees Thai refiners boosting dividends sharply",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9476,
-      "currencies": []
-    },
-    {
-      "title": "Why is Qfin Holdings stock plummeting today?",
+      "title": "Wall Street dips on hot inflation data ahead of Nvidia earnings",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.936,
+      "score": -0.8758,
       "currencies": []
     },
     {
-      "title": "Why is EPAM Systems stock sliding today?",
+      "title": "Brazil vote offers opposing politics, similar fiscal outcomes",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8916,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Brazil\u2019s inflation cools as prices post first monthly decline in a year",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5903,
+      "currencies": []
+    },
+    {
+      "title": "Intel at Deutsche Bank 2026 Technology Conference: turnaround gains pace",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9381,
+      "currencies": []
+    },
+    {
+      "title": "Monterey Peninsula College receives $25,000 workforce grant",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.759,
       "currencies": []
     }
   ],
