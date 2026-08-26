@@ -15,22 +15,22 @@
         "score": 0.0
       },
       {
+        "title": "EUR/JPY Price Forecast: Tests nine-day EMA confluence support near 185.00",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD bulls await break above $70.00 amid mixed setup",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9091
+      },
+      {
         "title": "AUD/JPY Price Forecast: Rally extends further to near 114.30 as hawkish RBA bets accelerate",
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.794
-      },
-      {
-        "title": "Gold refreshes daily low, around $4,625 as USD sticks to modest gains ahead of US PCE",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9205
-      },
-      {
-        "title": "Euro holds above mid-1.1600s vs USD; looks to US PCE data for fresh impetus",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8181
       }
     ],
     "AUD/USD": [
@@ -41,16 +41,18 @@
         "score": -0.7361
       },
       {
-        "title": "AUD higher, Australian CPI beats forecasts as core inflation surprises to the upside",
-        "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.7995
-      },
-      {
         "title": "AUD/JPY Price Forecast: Rally extends further to near 114.30 as hawkish RBA bets accelerate",
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.794
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/JPY Price Forecast: Tests nine-day EMA confluence support near 185.00",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }

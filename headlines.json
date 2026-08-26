@@ -8,7 +8,7 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg.com",
+      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -36,6 +36,13 @@
       "currencies": []
     },
     {
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "USD/ZAR Tests 16.00 as Jackson Hole Puts Rand Rally at Risk - Daily Forex",
       "source": "Google News",
       "label": "bullish",
@@ -45,14 +52,21 @@
       ]
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "title": "Forex Daily: The Boredom Trade Before the Triple Threat - Investing.com Nigeria",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Ethiopia: Why $625m within nine days cannot close the dollar gap - The Africa Report",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -69,77 +83,63 @@
       ]
     },
     {
-      "title": "Ethiopia: Why $625m within nine days cannot close the dollar gap - The Africa Report",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
-      "currencies": []
-    },
-    {
-      "title": "How Malawi\u2019s forex crisis disrupts everyday life - dandc.eu",
+      "title": "India\u2019s forex reserves fall by $7.7 billion to $690 billion: RBI - News On AIR",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.5956,
+      "score": -0.9552,
       "currencies": []
     },
     {
-      "title": "Piper Sandler upgrades Neogen stock rating on turnaround progress",
+      "title": "Dollar treads water ahead of PCE; Aussie gains on hot CPI",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.4702,
+      "score": 0.7814,
       "currencies": []
     },
     {
-      "title": "Piper Sandler cuts Trupanion stock rating on macro headwinds",
+      "title": "Li Auto tops quarterly revenue estimates but issues weak Q3 guidance; shares dip",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9046,
+      "score": -0.9715,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: DEME posts record H1 2026 results, stock rises 5.5%",
+      "title": "Dollar inches higher ahead of US inflation data; Aussie gains on rate bets",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9128,
+      "score": 0.8993,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Ocean Sun posts H1 loss as stock falls to 52-week low",
+      "title": "Gold slips ahead of key inflation data",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9721,
+      "score": -0.8432,
       "currencies": []
     },
     {
-      "title": "Ambu shares plunge as company cuts full-year revenue guidance",
+      "title": "Thailand central bank holds key rate at 1.00% amid weak growth",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9684,
+      "score": -0.8931,
       "currencies": []
     },
     {
-      "title": "Bernstein SocGen cuts Strategy stock price target on Bitcoin outlook",
+      "title": "BHP faces copper price risk as tariff concerns inflate rally",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9551,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: BioArctic Q2 2026 revenue growth offsets softer profit",
+      "title": "Earnings call transcript: Aroundtown H1 2026 profit steady as debt costs rise",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9474,
+      "label": "bearish",
+      "score": -0.7971,
       "currencies": []
     },
     {
-      "title": "Australian property developer Ingenia offers to buy Peet in $711 million deal",
+      "title": "Ming Yang Smart Energy issues third green bond tranche",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
