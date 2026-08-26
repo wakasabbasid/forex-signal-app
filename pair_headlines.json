@@ -7,46 +7,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "investingLive Asia-Pacific market news: Oil down, AUD 3 month high",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.7361
       }
     ],
     "USD/JPY": [
       {
         "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - bfsi.economictimes.indiatimes.com",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Gold Price Forecast: XAU/USD corrects to near $4,620 in countdown to US PCE Inflation data",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.7652
-      },
-      {
-        "title": "Japanese Yen: BoJ hike expectations support JPY against US Dollar \u2013 MUFG",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8123
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "GBP/USD Price Forecast: Hits fresh intra-week lows after failure at 1.3660 resistance",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9561
-      }
-    ],
-    "USD/CAD": [
-      {
-        "title": "USD/CAD Price Forecast: Approaches 20-day EMA on the back of US-Canada trade dispute",
-        "source": "FXStreet",
         "label": "neutral",
         "score": 0.0
       }
