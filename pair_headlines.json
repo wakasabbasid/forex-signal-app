@@ -33,23 +33,19 @@
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.8123
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Tests nine-day EMA confluence support near 185.00",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD bulls await break above $70.00 amid mixed setup",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9091
       }
     ],
-    "EUR/USD": [
+    "GBP/USD": [
       {
-        "title": "EUR/JPY Price Forecast: Tests nine-day EMA confluence support near 185.00",
+        "title": "GBP/USD Price Forecast: Hits fresh intra-week lows after failure at 1.3660 resistance",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9561
+      }
+    ],
+    "USD/CAD": [
+      {
+        "title": "USD/CAD Price Forecast: Approaches 20-day EMA on the back of US-Canada trade dispute",
         "source": "FXStreet",
         "label": "neutral",
         "score": 0.0
