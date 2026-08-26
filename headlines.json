@@ -8,17 +8,17 @@
       "currencies": []
     },
     {
+      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Sudan central bank eases forex curbs to stabilize currency - Sudan Tribune",
       "source": "Google News",
       "label": "bullish",
       "score": 0.7755,
-      "currencies": []
-    },
-    {
-      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -27,16 +27,6 @@
       "label": "neutral",
       "score": 0.0,
       "currencies": []
-    },
-    {
-      "title": "GBP/USD Price Forecast 25/08: Bullish Setup - Daily Forex",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5483,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
     },
     {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
@@ -51,6 +41,16 @@
       "label": "neutral",
       "score": 0.0,
       "currencies": []
+    },
+    {
+      "title": "GBP/USD Price Forecast 25/08: Bullish Setup - Daily Forex",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5483,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
     },
     {
       "title": "Ethiopia: Why $625m within nine days cannot close the dollar gap - The Africa Report",
@@ -91,59 +91,59 @@
       "currencies": []
     },
     {
-      "title": "OppFi CEO Todd Schwartz buys $24,830 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "SoftBank weighs up to $20 bln bond sale to refinance OpenAI loan - Bloomberg",
+      "title": "Couche-Tard launches $8.6 billion \u017babka tender offer in its biggest deal yet",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6857,
+      "score": 0.549,
       "currencies": []
     },
     {
-      "title": "Exclusive-BNP Paribas, KB Kookmin in talks for $2 billion Vietnam Techcombank stake, sources say",
+      "title": "MPC Container Ships Q2 2026 slides: $2.2bn backlog, fleet renewal",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9217,
+      "currencies": []
+    },
+    {
+      "title": "JPMorgan downgrades EPAM Systems stock rating on reorganization",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5048,
+      "currencies": []
+    },
+    {
+      "title": "Jefferies downgrades TJX stock rating on Marmaxx slowdown concerns",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9352,
+      "currencies": []
+    },
+    {
+      "title": "Roth/MKM initiates Aureus Greenway stock with buy rating",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Arista Networks (ANET) director sells $79,057 in stock",
+      "title": "Roth/MKM cuts ReNew Power stock rating on take-private deal",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8852,
+      "currencies": []
+    },
+    {
+      "title": "Lynas expands global footprint, eyes new rare earths supply deals",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5667,
+      "currencies": []
+    },
+    {
+      "title": "Why is ANTA Sports stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is SJM Holdings stock falling today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9383,
-      "currencies": []
-    },
-    {
-      "title": "55% off: Lock in InvestingPro for less than $2 a week BEFORE OUR SUMMER SALE ENDS",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Gold slips but stays near 3-month high as oil, yields ease inflation pressure",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5083,
-      "currencies": []
-    },
-    {
-      "title": "As war strands Qatari gas for 6 months, US sales rise and European stocks plummet",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9591,
       "currencies": []
     }
   ],

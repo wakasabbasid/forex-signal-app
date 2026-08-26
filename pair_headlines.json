@@ -17,34 +17,16 @@
         "score": 0.0
       },
       {
-        "title": "PBOC sets USD/ CNY mid-point today at 6.7829 (vs. estimate at 6.7166)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7166 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Gold trades with negative bias below $4,650 as USD edges higher ahead of US PCE",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8917
-      },
-      {
-        "title": "British Pound edges lower but remains close to multi-month top as USD awaits US PCE",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.7305
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD holds firmly above $69 ahead of US PCE Inflation data",
+        "title": "USD/JPY Price Forecast: 20-day EMA continues to act as key barrier",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.9213
+        "score": 0.5402
+      },
+      {
+        "title": "Gold remains depressed below $4,650 on firmer USD; looks to US PCE for Fed rate outlook",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9364
       }
     ],
     "AUD/USD": [
@@ -59,6 +41,12 @@
         "source": "ForexLive",
         "label": "bullish",
         "score": 0.7995
+      },
+      {
+        "title": "AUD/USD Price Forecast: Hot Australian CPI data boosts hawkish RBA bets",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.6616
       }
     ],
     "EUR/USD": [
@@ -67,12 +55,6 @@
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.9695
-      },
-      {
-        "title": "EUR/USD Price Forecast: Remains sideways ahead of key US events",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9456
       }
     ]
   }
