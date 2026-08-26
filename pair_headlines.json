@@ -15,16 +15,22 @@
         "score": 0.0
       },
       {
-        "title": "Silver Price Forecast: XAG/USD rises to near $69.00 ahead of US PCE inflation data",
+        "title": "AUD/JPY Price Forecast: Rally extends further to near 114.30 as hawkish RBA bets accelerate",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.9401
+        "score": 0.794
       },
       {
-        "title": "USD/JPY Price Forecast: 20-day EMA continues to act as key barrier",
+        "title": "Gold refreshes daily low, around $4,625 as USD sticks to modest gains ahead of US PCE",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9205
+      },
+      {
+        "title": "Euro holds above mid-1.1600s vs USD; looks to US PCE data for fresh impetus",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.5402
+        "score": 0.8181
       }
     ],
     "AUD/USD": [
@@ -39,14 +45,12 @@
         "source": "ForexLive",
         "label": "bullish",
         "score": 0.7995
-      }
-    ],
-    "NZD/USD": [
+      },
       {
-        "title": "NZD/USD Price Forecast: Dips below 0.5950, fresh weekly low as USD firms ahead of US PCE",
+        "title": "AUD/JPY Price Forecast: Rally extends further to near 114.30 as hawkish RBA bets accelerate",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.969
+        "label": "bullish",
+        "score": 0.794
       }
     ]
   }

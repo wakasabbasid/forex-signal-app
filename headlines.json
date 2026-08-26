@@ -8,7 +8,14 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg",
+      "title": "India\u2019s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Euro Holds Tight Range vs Pound Prior to Fresh Catalysts - TradingPedia",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -22,6 +29,13 @@
       "currencies": []
     },
     {
+      "title": "Dollar forecast: All eyes on bond markets - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "USD/ZAR Tests 16.00 as Jackson Hole Puts Rand Rally at Risk - Daily Forex",
       "source": "Google News",
       "label": "bullish",
@@ -29,13 +43,6 @@
       "currencies": [
         "USD"
       ]
-    },
-    {
-      "title": "Dollar forecast: All eyes on bond markets - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
     },
     {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
@@ -52,13 +59,6 @@
       "currencies": []
     },
     {
-      "title": "Ethiopia: Why $625m within nine days cannot close the dollar gap - The Africa Report",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - bfsi.economictimes.indiatimes.com",
       "source": "Google News",
       "label": "neutral",
@@ -67,6 +67,13 @@
         "USD",
         "USD"
       ]
+    },
+    {
+      "title": "Ethiopia: Why $625m within nine days cannot close the dollar gap - The Africa Report",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
@@ -83,66 +90,59 @@
       "currencies": []
     },
     {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
-      "source": "Google News",
+      "title": "Piper Sandler upgrades Neogen stock rating on turnaround progress",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.4702,
+      "currencies": []
+    },
+    {
+      "title": "Piper Sandler cuts Trupanion stock rating on macro headwinds",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9046,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: DEME posts record H1 2026 results, stock rises 5.5%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9128,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Ocean Sun posts H1 loss as stock falls to 52-week low",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9721,
+      "currencies": []
+    },
+    {
+      "title": "Ambu shares plunge as company cuts full-year revenue guidance",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9684,
+      "currencies": []
+    },
+    {
+      "title": "Bernstein SocGen cuts Strategy stock price target on Bitcoin outlook",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Torm A earnings missed by $0.05, revenue topped estimates",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8859,
-      "currencies": []
-    },
-    {
-      "title": "Some Chinese workers see an ally in Brussels as EU trade tensions mount",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.4896,
-      "currencies": []
-    },
-    {
-      "title": "Nordic Aqua Q2 2026 slides: record harvest, China premium pricing",
+      "title": "Earnings call transcript: BioArctic Q2 2026 revenue growth offsets softer profit",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8191,
+      "score": 0.9474,
       "currencies": []
     },
     {
-      "title": "Siemens Energy starts plans to spin off industrial unit as power demand surges",
+      "title": "Australian property developer Ingenia offers to buy Peet in $711 million deal",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Australia transport safety regulator probes two more incidents at Sydney airport",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9506,
-      "currencies": []
-    },
-    {
-      "title": "European shares edge higher as oil falls; Nvidia earnings in focus",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7316,
-      "currencies": []
-    },
-    {
-      "title": "Nordic Aqua Q2 2026 slides: record harvest, China growth accelerate",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8872,
-      "currencies": []
-    },
-    {
-      "title": "SoftwareOne shares rise 9% on strong H1 growth, margin expansion",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9522,
       "currencies": []
     }
   ],
