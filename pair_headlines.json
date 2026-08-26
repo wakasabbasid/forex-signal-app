@@ -1,18 +1,34 @@
 {
   "run_id": 1,
   "pairs": {
-    "AUD/USD": [
-      {
-        "title": "AUD/USD Signal 26/08: Inflation Puts the AUD in Focus - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
     "USD/JPY": [
+      {
+        "title": "Gold forecast: XAU/USD retreats along with dollar debasement trade - FOREX.com",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9578
+      },
+      {
+        "title": "USD/ZAR Tests 16.00 as Jackson Hole Puts Rand Rally at Risk - DailyForex",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.5493
+      },
       {
         "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - bfsi.economictimes.indiatimes.com",
         "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "investingLive Americas FX news wrap 26 Aug  The USD is mostly higher with higher yields the catalyst",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.9222
+      },
+      {
+        "title": "GBP/JPY Price Forecast: Evening star threatens 216.00 support",
+        "source": "FXStreet",
         "label": "neutral",
         "score": 0.0
       },
@@ -23,28 +39,12 @@
         "score": -0.58
       }
     ],
-    "USD/CAD": [
-      {
-        "title": "USD/CAD Price Forecast: Bulls eye 1.3900 as RSI recovers",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8225
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "US Dollar Price Forecast: Warsh Speech Looms as EUR/USD and GBP/USD Hold Firm",
-        "source": "Yahoo Finance",
-        "label": "bearish",
-        "score": -0.8241
-      }
-    ],
     "GBP/USD": [
       {
-        "title": "US Dollar Price Forecast: Warsh Speech Looms as EUR/USD and GBP/USD Hold Firm",
-        "source": "Yahoo Finance",
-        "label": "bearish",
-        "score": -0.8241
+        "title": "GBP/JPY Price Forecast: Evening star threatens 216.00 support",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }

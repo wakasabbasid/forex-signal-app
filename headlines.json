@@ -1,22 +1,20 @@
 {
   "headlines": [
     {
+      "title": "Gold forecast: XAU/USD retreats along with dollar debasement trade - FOREX.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9578,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "Iran Central Bank Chief Blames U.S. \u2018Propaganda\u2019 for Rising Forex Rates - IranWire",
       "source": "Google News",
       "label": "bearish",
       "score": -0.8825,
       "currencies": []
-    },
-    {
-      "title": "AUD/USD Signal 26/08: Inflation Puts the AUD in Focus - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "AUD",
-        "USD",
-        "AUD"
-      ]
     },
     {
       "title": "Sudan central bank eases forex curbs to stabilize currency - Sudan Tribune",
@@ -33,6 +31,13 @@
       "currencies": []
     },
     {
+      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Euro Holds Tight Range vs Pound Prior to Fresh Catalysts - TradingPedia",
       "source": "Google News",
       "label": "neutral",
@@ -40,18 +45,13 @@
       "currencies": []
     },
     {
-      "title": "Dollar forecast: All eyes on bond markets - FOREX.com",
+      "title": "USD/ZAR Tests 16.00 as Jackson Hole Puts Rand Rally at Risk - DailyForex",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
+      "label": "bullish",
+      "score": 0.5493,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
@@ -85,66 +85,66 @@
       "currencies": []
     },
     {
-      "title": "Market Threads \u2013 The Debasement Trade Takes Centre Stage Across Markets - FXCM Markets",
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Chris Rittiner, Fifth District Bancorp director, sells $163,774 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Macy\u2019s options activity heats up ahead of earnings next month",
+      "title": "Earnings call transcript: Salesforce tops Q2 2026 profit forecasts, shares jump",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5137,
+      "score": 0.8905,
       "currencies": []
     },
     {
-      "title": "BofA raises Box stock price target to $42 on AI momentum",
+      "title": "Viemed at Midwest IDEAS: growth, cash flow and a wider runway",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Wall Street dips on hot inflation data ahead of Nvidia earnings",
+      "title": "Everpure Q2 FY27 slides: 38% revenue growth, guidance raised sharply",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9499,
+      "currencies": []
+    },
+    {
+      "title": "Urban Outfitters Q2 FY\u201927 slides: record sales, Nuuly surges 29%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9049,
+      "currencies": []
+    },
+    {
+      "title": "Veeva Q2\u201927 slides: revenue beats drive raised guidance, margins hold",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9349,
+      "currencies": []
+    },
+    {
+      "title": "MediaAlpha director Eugene Nonko sells $428,228 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Boeing posts contract jobs in labor dispute\u2019s latest escalation",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8758,
+      "score": -0.9626,
       "currencies": []
     },
     {
-      "title": "Brazil vote offers opposing politics, similar fiscal outcomes",
+      "title": "Netscout director Michael Szabados sells $150,800 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Brazil\u2019s inflation cools as prices post first monthly decline in a year",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5903,
-      "currencies": []
-    },
-    {
-      "title": "Intel at Deutsche Bank 2026 Technology Conference: turnaround gains pace",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9381,
-      "currencies": []
-    },
-    {
-      "title": "Monterey Peninsula College receives $25,000 workforce grant",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.759,
       "currencies": []
     }
   ],
