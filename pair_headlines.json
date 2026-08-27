@@ -9,10 +9,10 @@
         "score": -0.9578
       },
       {
-        "title": "USD/ZAR Tests 16.00 as Jackson Hole Puts Rand Rally at Risk - DailyForex",
+        "title": "USD/ZAR Tests 16.00 as Jackson Hole Puts Rand Rally at Risk - Daily Forex",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.5493
+        "score": 0.5823
       },
       {
         "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - bfsi.economictimes.indiatimes.com",
@@ -21,30 +21,54 @@
         "score": 0.0
       },
       {
-        "title": "investingLive Americas FX news wrap 26 Aug  The USD is mostly higher with higher yields the catalyst",
+        "title": "PBOC sets USD/ CNY reference rate for today at 6.7840 (vs. estimate at 6.7261)",
         "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.9222
-      },
-      {
-        "title": "GBP/JPY Price Forecast: Evening star threatens 216.00 support",
-        "source": "FXStreet",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "USD/JPY Price Forecast: 160.00 caps bulls as intervention risk lingers",
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7261 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "AUD/JPY Price Forecast: Gains ground to near 114.50, bullish tone prevails above 100-day SMA",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9346
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD holds above $69.00 as traders assess Fed stance",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8808
+      },
+      {
+        "title": "Canadian Dollar consolidates near weekly low as USD bulls seem hesitant",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.58
-      }
-    ],
-    "GBP/USD": [
+        "score": -0.9039
+      },
       {
-        "title": "GBP/JPY Price Forecast: Evening star threatens 216.00 support",
+        "title": "PBOC sets USD/CNY reference rate at 6.7840 vs. 6.7829 previous",
         "source": "FXStreet",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "Japanese Yen edges higher as USD bulls seem hesitant amid Hormuz optimism",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.6801
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "AUD/JPY Price Forecast: Gains ground to near 114.50, bullish tone prevails above 100-day SMA",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9346
       }
     ]
   }

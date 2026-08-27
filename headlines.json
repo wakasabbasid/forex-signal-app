@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "Iran Central Bank Chief Blames U.S. \u2018Propaganda\u2019 for Rising Forex Rates - IranWire",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8825,
+      "currencies": []
+    },
+    {
       "title": "Gold forecast: XAU/USD retreats along with dollar debasement trade - FOREX.com",
       "source": "Google News",
       "label": "bearish",
@@ -10,10 +17,10 @@
       ]
     },
     {
-      "title": "Iran Central Bank Chief Blames U.S. \u2018Propaganda\u2019 for Rising Forex Rates - IranWire",
+      "title": "Trajan FY26 slides: H2 profit surges 61% despite forex headwinds - Investing.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.8825,
+      "label": "bullish",
+      "score": 0.8765,
       "currencies": []
     },
     {
@@ -24,13 +31,6 @@
       "currencies": []
     },
     {
-      "title": "Why RBI ended its dollar hunt ahead of time - Forbes India",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -38,17 +38,10 @@
       "currencies": []
     },
     {
-      "title": "Euro Holds Tight Range vs Pound Prior to Fresh Catalysts - TradingPedia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "USD/ZAR Tests 16.00 as Jackson Hole Puts Rand Rally at Risk - DailyForex",
+      "title": "USD/ZAR Tests 16.00 as Jackson Hole Puts Rand Rally at Risk - Daily Forex",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.5493,
+      "score": 0.5823,
       "currencies": [
         "USD"
       ]
@@ -61,7 +54,21 @@
       "currencies": []
     },
     {
+      "title": "Why RBI ended its dollar hunt ahead of time - Forbes India",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Ethiopia: Why $625m within nine days cannot close the dollar gap - The Africa Report",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Euro Holds Tight Range vs Pound Prior to Fresh Catalysts - TradingPedia",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -85,63 +92,56 @@
       "currencies": []
     },
     {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Salesforce tops Q2 2026 profit forecasts, shares jump",
+      "title": "Waypoint REIT 1H26 slides: earnings rise 3.4% amid rate headwinds",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8905,
+      "score": 0.8215,
       "currencies": []
     },
     {
-      "title": "Viemed at Midwest IDEAS: growth, cash flow and a wider runway",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Everpure Q2 FY27 slides: 38% revenue growth, guidance raised sharply",
+      "title": "Earnings call transcript: Bapcor\u2019s H2 2026 reset lifts shares 20%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9499,
+      "score": 0.8316,
       "currencies": []
     },
     {
-      "title": "Urban Outfitters Q2 FY\u201927 slides: record sales, Nuuly surges 29%",
+      "title": "Cromwell FY26 slides: FFO up 5%, institutional capital grows $748M",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9049,
+      "score": 0.9483,
       "currencies": []
     },
     {
-      "title": "Veeva Q2\u201927 slides: revenue beats drive raised guidance, margins hold",
+      "title": "Aurelia Metals FY26 slides: margins near 40% as production scales",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9349,
+      "score": 0.9283,
       "currencies": []
     },
     {
-      "title": "MediaAlpha director Eugene Nonko sells $428,228 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Boeing posts contract jobs in labor dispute\u2019s latest escalation",
+      "title": "Experience Co FY26 slides: revenue rises but earnings slip on costs",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9626,
+      "score": -0.928,
       "currencies": []
     },
     {
-      "title": "Netscout director Michael Szabados sells $150,800 in stock",
+      "title": "Airbnb CSO Nathan Blecharczyk sells $67.3m of stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Arthur J. Gallagher general counsel sells $3.24m in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "CoreWeave chief development officer McBee sells $42,755 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
