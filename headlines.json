@@ -1,26 +1,19 @@
 {
   "headlines": [
     {
-      "title": "Iran Central Bank Chief Blames U.S. \u2018Propaganda\u2019 for Rising Forex Rates - IranWire",
+      "title": "USD/BRL Forecast 27/8: Brazil Election and Fed Risk in Focus - Daily Forex",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.8825,
-      "currencies": []
-    },
-    {
-      "title": "Gold forecast: XAU/USD retreats along with dollar debasement trade - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9578,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
         "USD"
       ]
     },
     {
-      "title": "Trajan FY26 slides: H2 profit surges 61% despite forex headwinds - Investing.com",
+      "title": "Iran Central Bank Chief Blames U.S. \u2018Propaganda\u2019 for Rising Forex Rates - IranWire",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.8765,
+      "label": "bearish",
+      "score": -0.8825,
       "currencies": []
     },
     {
@@ -31,17 +24,64 @@
       "currencies": []
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Encyclopedia Britannica",
+      "title": "Dollar forecast: All eyes on bond markets - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "USD/ZAR Tests 16.00 as Jackson Hole Puts Rand Rally at Risk - Daily Forex",
+      "title": "India's forex reserves climb past $700 billion on robust inflows - Reuters",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.5823,
+      "score": 0.8728,
+      "currencies": []
+    },
+    {
+      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Trajan FY26 slides: H2 profit surges 61% despite forex headwinds - Investing.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8765,
+      "currencies": []
+    },
+    {
+      "title": "Bank of Korea hikes again, adding to USD/KRW pressure - FXCM Markets",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7312,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Zloty Outlook Shifts Hawkish as Import Costs & Euro Rise - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8184,
+      "currencies": []
+    },
+    {
+      "title": "GBP/USD Forecast 27/8: Bearish Reversal Puts 1.3600 in Focus - Daily Forex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8949,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
+      "title": "Gold forecast: XAU/USD retreats along with dollar debasement trade - FOREX.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9578,
       "currencies": [
         "USD"
       ]
@@ -54,97 +94,59 @@
       "currencies": []
     },
     {
-      "title": "Why RBI ended its dollar hunt ahead of time - Forbes India",
-      "source": "Google News",
+      "title": "Israel election could swing shekel by up to 3%, JPMorgan estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6709,
+      "currencies": []
+    },
+    {
+      "title": "Nvidia to start employee-funded US political action committee",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Ethiopia: Why $625m within nine days cannot close the dollar gap - The Africa Report",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Euro Holds Tight Range vs Pound Prior to Fresh Catalysts - TradingPedia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Banks mobilise USD 65.4 billion of FCNR(B) deposits, total forex inflows hit USD 72.8 billion: RBI - bfsi.economictimes.indiatimes.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "USD"
-      ]
-    },
-    {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
-      "currencies": []
-    },
-    {
-      "title": "Waypoint REIT 1H26 slides: earnings rise 3.4% amid rate headwinds",
+      "title": "Citrini Research sees bond rally ahead amid Fed policy shift",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8215,
+      "score": 0.9308,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Bapcor\u2019s H2 2026 reset lifts shares 20%",
+      "title": "EQB Q3 2026 slides: PC Financial deal reshapes revenue mix",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8316,
+      "score": 0.5344,
       "currencies": []
     },
     {
-      "title": "Cromwell FY26 slides: FFO up 5%, institutional capital grows $748M",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9483,
-      "currencies": []
-    },
-    {
-      "title": "Aurelia Metals FY26 slides: margins near 40% as production scales",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9283,
-      "currencies": []
-    },
-    {
-      "title": "Experience Co FY26 slides: revenue rises but earnings slip on costs",
+      "title": "EQB Q3 2026 slides: PC Financial reshapes revenue mix amid credit concerns",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.928,
+      "score": -0.9323,
       "currencies": []
     },
     {
-      "title": "Airbnb CSO Nathan Blecharczyk sells $67.3m of stock",
+      "title": "Matador Resources at 17th Annual Midwest IDEAS Conference: growth with discipline",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Arthur J. Gallagher general counsel sells $3.24m in stock",
+      "title": "Earnings call transcript: Clear Blue posts profit in Q2 2026 as stock rises",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.6249,
       "currencies": []
     },
     {
-      "title": "CoreWeave chief development officer McBee sells $42,755 in shares",
+      "title": "US states sue to block new conditions for family-planning grants",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.8371,
       "currencies": []
     }
   ],
