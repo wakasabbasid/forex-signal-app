@@ -3,34 +3,22 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "USD/BRL Forecast 27/8: Brazil Election and Fed Risk in Focus - Daily Forex",
+        "title": "Gold Forecast: XAU/USD Stalls Around $4,600 Ahead of Jackson Hole - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "Bank of Korea hikes again, adding to USD/KRW pressure - FXCM Markets",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.7312
+        "title": "PBOC sets USD/ CNY reference rate for today at 6.7811 (vs. estimate at 6.7208)",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
       },
       {
-        "title": "Gold forecast: XAU/USD retreats along with dollar debasement trade - FOREX.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9578
-      },
-      {
-        "title": "Argenx stock hits all-time high at 1059.86 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.7233
-      },
-      {
-        "title": "British Pound slips on solid US jobless claims as Fed hawks lift USD",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.899
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7208 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "GBP/USD": [

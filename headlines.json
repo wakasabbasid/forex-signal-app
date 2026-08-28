@@ -1,7 +1,28 @@
 {
   "headlines": [
     {
-      "title": "USD/BRL Forecast 27/8: Brazil Election and Fed Risk in Focus - Daily Forex",
+      "title": "Salida man accused of defrauding investors of $2.7M in foreign currency scheme - Modesto Bee",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5814,
+      "currencies": []
+    },
+    {
+      "title": "Stanislaus County man indicted, charged with $2.7 million forex trading fraud - FOX40",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6058,
+      "currencies": []
+    },
+    {
+      "title": "FBI seeks more victims in Salida man's $2.7M forex fraud case - Action News Now",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Gold Forecast: XAU/USD Stalls Around $4,600 Ahead of Jackson Hole - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -17,57 +38,6 @@
       "currencies": []
     },
     {
-      "title": "Sudan central bank eases forex curbs to stabilize currency - Sudan Tribune",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7755,
-      "currencies": []
-    },
-    {
-      "title": "Dollar forecast: All eyes on bond markets - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "India's forex reserves climb past $700 billion on robust inflows - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8728,
-      "currencies": []
-    },
-    {
-      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Trajan FY26 slides: H2 profit surges 61% despite forex headwinds - Investing.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8765,
-      "currencies": []
-    },
-    {
-      "title": "Bank of Korea hikes again, adding to USD/KRW pressure - FXCM Markets",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7312,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Zloty Outlook Shifts Hawkish as Import Costs & Euro Rise - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8184,
-      "currencies": []
-    },
-    {
       "title": "GBP/USD Forecast 27/8: Bearish Reversal Puts 1.3600 in Focus - Daily Forex",
       "source": "Google News",
       "label": "bearish",
@@ -78,75 +48,101 @@
       ]
     },
     {
-      "title": "Gold forecast: XAU/USD retreats along with dollar debasement trade - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9578,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Israel election could swing shekel by up to 3%, JPMorgan estimates",
-      "source": "Investing.com",
+      "title": "Sudan central bank eases forex curbs to stabilize currency - Sudan Tribune",
+      "source": "Google News",
       "label": "bullish",
-      "score": 0.6709,
+      "score": 0.7755,
       "currencies": []
     },
     {
-      "title": "Nvidia to start employee-funded US political action committee",
+      "title": "India's forex reserves climb past $700 billion on robust inflows - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8728,
+      "currencies": []
+    },
+    {
+      "title": "Philippine Peso: Policy behind curve keeps currency lagging \u2013 BBH - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8903,
+      "currencies": []
+    },
+    {
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: IREN Q4 2026 revenue misses as AI cloud expands",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9661,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Affirm tops Q4 2026 estimates as profit jumps",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Citrini Research sees bond rally ahead amid Fed policy shift",
+      "title": "Earnings call transcript: Elastic tops Q1 2026 estimates, shares jump 20%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9308,
+      "score": 0.9204,
       "currencies": []
     },
     {
-      "title": "EQB Q3 2026 slides: PC Financial deal reshapes revenue mix",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5344,
-      "currencies": []
-    },
-    {
-      "title": "EQB Q3 2026 slides: PC Financial reshapes revenue mix amid credit concerns",
+      "title": "Earnings call transcript: Autodesk beats Q2 2026 estimates, shares reverse after hours",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9323,
+      "score": -0.8136,
       "currencies": []
     },
     {
-      "title": "Matador Resources at 17th Annual Midwest IDEAS Conference: growth with discipline",
+      "title": "Earnings call transcript: SentinelOne beats Q2 2026 estimates, shares slip after hours",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.961,
+      "currencies": []
+    },
+    {
+      "title": "Boise Cascade SVP Jill Twedt sells $99,250 in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Clear Blue posts profit in Q2 2026 as stock rises",
+      "title": "Slb CEO Olivier Le Peuch disposes of $275,000 in company shares.",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6249,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US states sue to block new conditions for family-planning grants",
+      "title": "Earnings call transcript: Rubrik tops Q2 2026 estimates, but stock slips after hours",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8371,
+      "score": -0.6481,
       "currencies": []
     }
   ],
