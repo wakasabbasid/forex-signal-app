@@ -1,6 +1,20 @@
 {
   "run_id": 1,
   "pairs": {
+    "EUR/USD": [
+      {
+        "title": "EUR/USD forecast: All eyes on Warsh at Jackson Hole - Forex Friday - City Index UK",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "US Dollar Price Forecast: Sticky Inflation Lifts DXY as EUR/USD and GBP/USD Pull Back",
+        "source": "Yahoo Finance",
+        "label": "bullish",
+        "score": 0.5385
+      }
+    ],
     "USD/JPY": [
       {
         "title": "Gold Forecast: XAU/USD Stalls Around $4,600 Ahead of Jackson Hole - FOREX.com",
@@ -9,24 +23,36 @@
         "score": 0.0
       },
       {
-        "title": "PBOC sets USD/ CNY reference rate for today at 6.7811 (vs. estimate at 6.7208)",
+        "title": "USD/JPY Forecast 28/08: Waits for Warsh (Video) - Daily Forex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Revvity Inc stock hits 52-week high at 130.07 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.5467
+      },
+      {
+        "title": "How will Warsh influence the technicals for USD vs some of the major currencies",
         "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7208 \u2013 Reuters estimate",
+        "title": "USD/JPY extends gains as focus turns to Fed Chair Warsh's speech",
         "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bullish",
+        "score": 0.7349
       }
     ],
     "GBP/USD": [
       {
-        "title": "GBP/USD Forecast 27/8: Bearish Reversal Puts 1.3600 in Focus - Daily Forex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.8949
+        "title": "US Dollar Price Forecast: Sticky Inflation Lifts DXY as EUR/USD and GBP/USD Pull Back",
+        "source": "Yahoo Finance",
+        "label": "bullish",
+        "score": 0.5385
       }
     ]
   }

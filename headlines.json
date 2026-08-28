@@ -1,10 +1,31 @@
 {
   "headlines": [
     {
+      "title": "India's forex reserves hit record $729 billion on sustained capital inflows - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8822,
+      "currencies": []
+    },
+    {
       "title": "Salida man accused of defrauding investors of $2.7M in foreign currency scheme - Modesto Bee",
       "source": "Google News",
       "label": "bearish",
       "score": -0.5814,
+      "currencies": []
+    },
+    {
+      "title": "Japan reveals $96bn yen-buying intervention in July-August - Nikkei Asia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "FBI seeks more victims in Salida man's $2.7M forex fraud case - Action News Now",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -15,7 +36,17 @@
       "currencies": []
     },
     {
-      "title": "FBI seeks more victims in Salida man's $2.7M forex fraud case - Action News Now",
+      "title": "EUR/USD forecast: All eyes on Warsh at Jackson Hole - Forex Friday - City Index UK",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -31,30 +62,6 @@
       ]
     },
     {
-      "title": "Iran Central Bank Chief Blames U.S. \u2018Propaganda\u2019 for Rising Forex Rates - IranWire",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8825,
-      "currencies": []
-    },
-    {
-      "title": "GBP/USD Forecast 27/8: Bearish Reversal Puts 1.3600 in Focus - Daily Forex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8949,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Sudan central bank eases forex curbs to stabilize currency - Sudan Tribune",
       "source": "Google News",
       "label": "bullish",
@@ -62,87 +69,83 @@
       "currencies": []
     },
     {
-      "title": "India's forex reserves climb past $700 billion on robust inflows - Reuters",
+      "title": "USD/JPY Forecast 28/08: Waits for Warsh (Video) - Daily Forex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "India's forex reserves hit record high of $729.33 billion after $12.4 billion weekly jump - The Economic Times",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8728,
+      "score": 0.9276,
       "currencies": []
     },
     {
-      "title": "Philippine Peso: Policy behind curve keeps currency lagging \u2013 BBH - FXStreet",
+      "title": "Pound Nears 1.3600 as BoE Hike Bets Lose Momentum - TradingPedia",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.8903,
+      "score": -0.8677,
       "currencies": []
     },
     {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: IREN Q4 2026 revenue misses as AI cloud expands",
+      "title": "Why is BioNTech stock sliding today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9661,
+      "score": -0.9272,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Affirm tops Q4 2026 estimates as profit jumps",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Elastic tops Q1 2026 estimates, shares jump 20%",
+      "title": "Paratus Energy Q2 2026 slides: Fontis sale cuts leverage by 40%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9204,
+      "score": 0.7306,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Autodesk beats Q2 2026 estimates, shares reverse after hours",
+      "title": "Paratus Energy Q2 2026 slides: strong H1 offset by Q2 decline",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8136,
+      "label": "bullish",
+      "score": 0.9358,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: SentinelOne beats Q2 2026 estimates, shares slip after hours",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.961,
-      "currencies": []
-    },
-    {
-      "title": "Boise Cascade SVP Jill Twedt sells $99,250 in company stock",
+      "title": "UBS Names its Top European Financial Stock Picks",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Slb CEO Olivier Le Peuch disposes of $275,000 in company shares.",
+      "title": "Earnings call transcript: NTG Clarity Q2 2026 revenue miss sends shares lower",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9578,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Rubrik tops Q2 2026 estimates, but stock slips after hours",
+      "title": "Walmart settles US government\u2019s opioid lawsuit",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6481,
+      "score": -0.7385,
+      "currencies": []
+    },
+    {
+      "title": "SuperX secures order for 128 Nvidia B300 AI servers from Ezisight",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8447,
+      "currencies": []
+    },
+    {
+      "title": "Chicago PMI falls short of expectations, indicating contraction",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9591,
       "currencies": []
     }
   ],
