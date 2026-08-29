@@ -29,14 +29,14 @@
       "currencies": []
     },
     {
-      "title": "FBI seeks more victims in Salida man's $2.7M forex fraud case - Action News Now",
+      "title": "FCNR(B) deposits push forex reserves to all-time high of $729 billion in August - The Indian Express",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9139,
       "currencies": []
     },
     {
-      "title": "EUR/USD forecast: All eyes on Warsh at Jackson Hole - Forex Friday - FOREX.com",
+      "title": "DAX and EUR/USD forecast: Lower energy prices, yields offer support - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "title": "Japan reveals $96bn yen-buying intervention in July-August - Nikkei Asia",
+      "title": "FBI seeks more victims in Salida man's $2.7M forex fraud case - Action News Now",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -60,13 +60,6 @@
       "currencies": []
     },
     {
-      "title": "India's forex reserves rise to record high - Az\u0259rtac",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9281,
-      "currencies": []
-    },
-    {
       "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -74,70 +67,80 @@
       "currencies": []
     },
     {
-      "title": "India's forex reserves hit all-time high of $729.33 billion after $12.42 billion jump - The Times of India",
+      "title": "GBP/USD Forecast 27/8: Bearish Reversal Puts 1.3600 in Focus - Daily Forex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8949,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
+      "title": "India's forex reserves rise to record high - Az\u0259rtac",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9136,
+      "score": 0.9281,
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex Reserves Hit Record $729.3 Billion on Inflows - Sahi",
+      "title": "Japan reveals $96bn yen-buying intervention in July-August - Nikkei Asia",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.862,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Rocket Lab SVP Arjun Kampani sells $402,186 in stock",
+      "title": "China\u2019s massive oil reserves give Beijing leverage during Iran war",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Koil Energy director Neal Goldman sells $19,603 in stock",
+      "title": "OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with Musk",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9468,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin stalls at $77,465 with bearish momentum: Live levels",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8735,
+      "currencies": []
+    },
+    {
+      "title": "How networking became the critical layer of AI",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "FDA approves Takeda\u2019s Mimrylo for polycythemia vera treatment",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5937,
-      "currencies": []
-    },
-    {
-      "title": "Asana CEO Daniel Rogers sells $16,550 in company stock",
+      "title": "Freeport-McMoRan director Lydia Kennard sells $300,470 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Innsuites Hospitality Trust CEO James Wirth sells $825 million in shares.",
+      "title": "Globalstar director Benjamin Wolff sells $1.64 million in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Fulgent Genetics CSO Gao Hanlin sells $18,691 in stock",
+      "title": "DST Global Advisors sells $38.6 million of Chime Financial shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Fulgent Genetics COO Xie Jian disposes of $23,747 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Aeluma director Steven Denbaars sells $345,741 in ALMU shares",
+      "title": "Randy Shefman, Royal Gold SVP, sells $131,400 in common stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

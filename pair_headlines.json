@@ -3,10 +3,18 @@
   "pairs": {
     "EUR/USD": [
       {
-        "title": "EUR/USD forecast: All eyes on Warsh at Jackson Hole - Forex Friday - FOREX.com",
+        "title": "DAX and EUR/USD forecast: Lower energy prices, yields offer support - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Forecast 27/8: Bearish Reversal Puts 1.3600 in Focus - Daily Forex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.8949
       }
     ]
   }
