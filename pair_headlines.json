@@ -1,14 +1,6 @@
 {
   "run_id": 1,
   "pairs": {
-    "EUR/USD": [
-      {
-        "title": "DAX and EUR/USD forecast: Lower energy prices, yields offer support - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
     "GBP/USD": [
       {
         "title": "GBP/USD Forecast 27/8: Bearish Reversal Puts 1.3600 in Focus - Daily Forex",

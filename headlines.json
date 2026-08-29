@@ -36,6 +36,20 @@
       "currencies": []
     },
     {
+      "title": "BoK\u2019s front-loaded rate hikes support won, says Commerzbank - CryptoRank",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9338,
+      "currencies": []
+    },
+    {
+      "title": "Yen weakens past \u00a5160 per dollar, eroding intervention gains - The Japan Times",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9396,
+      "currencies": []
+    },
+    {
       "title": "Forex Factory calendar tracks economic data for traders worldwide - eciks.org",
       "source": "Google News",
       "label": "neutral",
@@ -43,27 +57,17 @@
       "currencies": []
     },
     {
-      "title": "DAX and EUR/USD forecast: Lower energy prices, yields offer support - FOREX.com",
+      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
+      "currencies": []
     },
     {
       "title": "Sudan central bank eases forex curbs to stabilize currency - Sudan Tribune",
       "source": "Google News",
       "label": "bullish",
       "score": 0.7755,
-      "currencies": []
-    },
-    {
-      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -84,8 +88,43 @@
       "currencies": []
     },
     {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
-      "source": "Google News",
+      "title": "Rival factions stand off in Niger capital after mutineers attack airport, presidency",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9147,
+      "currencies": []
+    },
+    {
+      "title": "US Treasury\u2019s Bessent warns yen volatility risks spillover to global markets",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7905,
+      "currencies": []
+    },
+    {
+      "title": "Bessent says disorderly yen moves can destabilize global markets",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9428,
+      "currencies": []
+    },
+    {
+      "title": "HDFC Bank CEO Jagdishan to step down in October as governance pressures mount",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8933,
+      "currencies": []
+    },
+    {
+      "title": "Iceland votes in tight referendum on whether to start EU membership talks",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "What do households want from the UK Budget?",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
@@ -98,52 +137,10 @@
       "currencies": []
     },
     {
-      "title": "Mutinous soldiers attack airport, presidency in Niger capital",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8543,
-      "currencies": []
-    },
-    {
       "title": "Tenax presents additional Phase 3 trial data for TNX-103",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "CBIZ soars 78% in 4 months after InvestingPro Fair Value signal",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8791,
-      "currencies": []
-    },
-    {
-      "title": "How InvestingPro\u2019s Fair Value spotted Ouster\u2019s 48% decline",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "LESS THAN 48 HOURS TO GO: Get InvestingPro for 55% off BEFORE THE SALE ENDS",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Russian strike kills 27 near Kyiv as Moscow militarizes schools",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8891,
-      "currencies": []
-    },
-    {
-      "title": "EOS Climbs 12% In Bullish Trade",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.892,
       "currencies": []
     }
   ],
