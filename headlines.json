@@ -22,6 +22,13 @@
       "currencies": []
     },
     {
+      "title": "FBI seeks more victims in Salida man's $2.7M forex fraud case - Action News Now",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "FCNR(B) deposits push forex reserves to all-time high of $729 billion in August - The Indian Express",
       "source": "Google News",
       "label": "bullish",
@@ -29,7 +36,14 @@
       "currencies": []
     },
     {
-      "title": "FBI seeks more victims in Salida man's $2.7M forex fraud case - Action News Now",
+      "title": "Forex Factory calendar tracks economic data for traders worldwide - eciks.org",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -50,18 +64,14 @@
       "currencies": []
     },
     {
-      "title": "Forex Factory calendar tracks economic data for traders worldwide - eciks.org",
+      "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
     },
     {
       "title": "Sudan central bank eases forex curbs to stabilize currency - Sudan Tribune",
@@ -71,18 +81,57 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Forecast 27/8: Bearish Reversal Puts 1.3600 in Focus - Daily Forex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8949,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
       "title": "Japan Spends Record 15.3 T. Yen in July-Aug. Forex Interventions - nippon.com",
       "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Warsh at Jackson Hole: 8 key takeaways",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "UAE investigates Egypt\u2019s Banque Misr after U.S. moves to block dollar clearing",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8506,
+      "currencies": []
+    },
+    {
+      "title": "What\u2019s in store for the week ahead",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin consolidates between $77.2K-$78.7K: Hourly levels",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7593,
+      "currencies": []
+    },
+    {
+      "title": "Iran foreign trade plunges 35% under US blockade as six-month war drags on",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9684,
+      "currencies": []
+    },
+    {
+      "title": "GM deal with workers would add Sierra pickup assembly to Canadian plant despite US tariff threat",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9017,
+      "currencies": []
+    },
+    {
+      "title": "Glencore takes $480 mln provision on Radiant World exposure - Bloomberg",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
@@ -92,55 +141,6 @@
       "source": "Investing.com",
       "label": "bearish",
       "score": -0.9147,
-      "currencies": []
-    },
-    {
-      "title": "US Treasury\u2019s Bessent warns yen volatility risks spillover to global markets",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7905,
-      "currencies": []
-    },
-    {
-      "title": "Bessent says disorderly yen moves can destabilize global markets",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9428,
-      "currencies": []
-    },
-    {
-      "title": "HDFC Bank CEO Jagdishan to step down in October as governance pressures mount",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8933,
-      "currencies": []
-    },
-    {
-      "title": "Iceland votes in tight referendum on whether to start EU membership talks",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "What do households want from the UK Budget?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Goldman draws 3 lessons from economic research on U.S. inflation expectations",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Tenax presents additional Phase 3 trial data for TNX-103",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     }
   ],
