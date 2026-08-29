@@ -1,13 +1,4 @@
 {
   "run_id": 1,
-  "pairs": {
-    "GBP/USD": [
-      {
-        "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ]
-  }
+  "pairs": {}
 }

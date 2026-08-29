@@ -29,13 +29,6 @@
       "currencies": []
     },
     {
-      "title": "FCNR(B) deposits push forex reserves to all-time high of $729 billion in August - The Indian Express",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9139,
-      "currencies": []
-    },
-    {
       "title": "Forex Factory calendar tracks economic data for traders worldwide - eciks.org",
       "source": "Google News",
       "label": "neutral",
@@ -57,21 +50,11 @@
       "currencies": []
     },
     {
-      "title": "Yen weakens past \u00a5160 per dollar, eroding intervention gains - The Japan Times",
+      "title": "FCNR(B) deposits push forex reserves to all-time high of $729 billion in August - The Indian Express",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9396,
+      "label": "bullish",
+      "score": 0.9139,
       "currencies": []
-    },
-    {
-      "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
     },
     {
       "title": "Sudan central bank eases forex curbs to stabilize currency - Sudan Tribune",
@@ -81,8 +64,50 @@
       "currencies": []
     },
     {
-      "title": "Japan Spends Record 15.3 T. Yen in July-Aug. Forex Interventions - nippon.com",
+      "title": "Yen weakens past \u00a5160 per dollar, eroding intervention gains - The Japan Times",
       "source": "Google News",
+      "label": "bearish",
+      "score": -0.9396,
+      "currencies": []
+    },
+    {
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Rival factions stand off in Niger capital after mutineers attack airport, presidency",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9147,
+      "currencies": []
+    },
+    {
+      "title": "Iceland counts votes in tight referendum on EU membership talks",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.4955,
+      "currencies": []
+    },
+    {
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9603,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin price holds at $78,000 as \u2018digital gold\u2019 narrative faces fresh test",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
@@ -113,34 +138,6 @@
       "source": "Investing.com",
       "label": "bearish",
       "score": -0.7593,
-      "currencies": []
-    },
-    {
-      "title": "Iran foreign trade plunges 35% under US blockade as six-month war drags on",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9684,
-      "currencies": []
-    },
-    {
-      "title": "GM deal with workers would add Sierra pickup assembly to Canadian plant despite US tariff threat",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9017,
-      "currencies": []
-    },
-    {
-      "title": "Glencore takes $480 mln provision on Radiant World exposure - Bloomberg",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Rival factions stand off in Niger capital after mutineers attack airport, presidency",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9147,
       "currencies": []
     }
   ],
