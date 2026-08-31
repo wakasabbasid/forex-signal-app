@@ -1,4 +1,21 @@
 {
   "run_id": 1,
-  "pairs": {}
+  "pairs": {
+    "GBP/USD": [
+      {
+        "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "USD/JPY": [
+      {
+        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.6676
+      }
+    ]
+  }
 }

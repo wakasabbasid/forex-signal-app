@@ -15,27 +15,6 @@
       "currencies": []
     },
     {
-      "title": "Stanislaus County man indicted, charged with $2.7 million forex trading fraud - FOX40",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6058,
-      "currencies": []
-    },
-    {
-      "title": "FBI seeks more victims in Salida man's $2.7M forex fraud case - Action News Now",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Factory calendar tracks economic data for traders worldwide - eciks.org",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -43,11 +22,21 @@
       "currencies": []
     },
     {
-      "title": "BoK\u2019s front-loaded rate hikes support won, says Commerzbank - CryptoRank",
+      "title": "FCNR-B deposits: Why the RBI\u2019s strategic swap scheme is a winner - ET Government",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.9338,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
+    },
+    {
+      "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
     },
     {
       "title": "FCNR(B) deposits push forex reserves to all-time high of $729 billion in August - The Indian Express",
@@ -61,6 +50,13 @@
       "source": "Google News",
       "label": "bullish",
       "score": 0.7755,
+      "currencies": []
+    },
+    {
+      "title": "BoK\u2019s front-loaded rate hikes support won, says Commerzbank - CryptoRank",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9338,
       "currencies": []
     },
     {
@@ -85,17 +81,61 @@
       "currencies": []
     },
     {
-      "title": "Rival factions stand off in Niger capital after mutineers attack airport, presidency",
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6676,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Japan industrial production unexpectedly grows in July, retail sales surge",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9147,
+      "score": -0.927,
       "currencies": []
     },
     {
-      "title": "Iceland counts votes in tight referendum on EU membership talks",
+      "title": "Bessent says yen moves \u2019pretty contained\u2019 and not disorderly",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Bessent expects new US secondary sanctions weekly, aiming to increase pressure on Iran",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.4955,
+      "score": 0.739,
+      "currencies": []
+    },
+    {
+      "title": "G20 countries should consider more trade barriers with China to cut imbalances, Bessent says",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8787,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Michael Hill posts record revenue in H2 2026 turnaround",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8956,
+      "currencies": []
+    },
+    {
+      "title": "Oil jumps more than 2% after US attack on Iran\u2019s Larak island",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8029,
+      "currencies": []
+    },
+    {
+      "title": "Is a \u2018Bessent doctrine\u2019 taking shape in global FX policy?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -103,41 +143,6 @@
       "source": "Investing.com",
       "label": "bearish",
       "score": -0.9603,
-      "currencies": []
-    },
-    {
-      "title": "Bitcoin price holds at $78,000 as \u2018digital gold\u2019 narrative faces fresh test",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Warsh at Jackson Hole: 8 key takeaways",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "UAE investigates Egypt\u2019s Banque Misr after U.S. moves to block dollar clearing",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8506,
-      "currencies": []
-    },
-    {
-      "title": "What\u2019s in store for the week ahead",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Bitcoin consolidates between $77.2K-$78.7K: Hourly levels",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7593,
       "currencies": []
     }
   ],
