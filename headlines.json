@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "Understanding Real-Time Forex Charts for Informed Trading Decisions - finchannel",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "India's forex reserves hit record $729 billion on sustained capital inflows - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -15,13 +22,11 @@
       "currencies": []
     },
     {
-      "title": "EUR to U.S. Dollar - EUR/USD Exchange Rate Chart - FOREX.com",
+      "title": "USD/MXN Forecast: Mexican Peso Remains Under Pressure Following Jackson Hole - forex.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.8026,
       "currencies": [
-        "EUR",
-        "EUR",
         "USD"
       ]
     },
@@ -49,31 +54,10 @@
       "currencies": []
     },
     {
-      "title": "Yen might be on its way to \u00a5164 to the dollar - The Japan Times",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5014,
-      "currencies": []
-    },
-    {
-      "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0431\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Euro Eases Versus Yen as Markets Eye BoJ and German CPI - TradingPedia",
       "source": "Google News",
       "label": "bearish",
       "score": -0.7002,
-      "currencies": []
-    },
-    {
-      "title": "News by CNBC TV18 on TradingView, 2026-08-31 \u2014 cnbctv:fe19c190d094b:0 - TradingView",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -84,66 +68,80 @@
       "currencies": []
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
+      "title": "News by CNBC TV18 on TradingView, 2026-08-31 \u2014 cnbctv:fe19c190d094b:0 - tradingview.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Cantor Fitzgerald raises MongoDB stock price target on Atlas strength",
+      "title": "What Is the Foreign Exchange Market: A Guide - britannica.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - wsj.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.674,
+      "currencies": []
+    },
+    {
+      "title": "FutureFuel declares $0.01 Q4 dividend, payable Dec. 18",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Sony, Warner Music sue Anthropic over songs used in AI training",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7783,
-      "currencies": []
-    },
-    {
-      "title": "Bessent says Iran sanctions aim to bring them to talks",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Prediction market startup Kalshi permanently bans ex-US lawmaker Santos from trading",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9013,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Snipp Interactive posts Q2 2026 revenue beat",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Howmet, GE Vernova and Siemens shares fall on Musk solar plan",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9447,
-      "currencies": []
-    },
-    {
-      "title": "Aon strikes $17 billion deal for rival USI as insurance consolidation accelerates",
+      "title": "Latin American markets mixed as dollar softens, oil prices rise",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7394,
+      "score": 0.4761,
       "currencies": []
     },
     {
-      "title": "Nvidia to invest $3.5 billion in chipmaker MediaTek, expand partnership",
+      "title": "Estee Lauder exec VP La Lande sells $802k in company shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 0.70%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9681,
+      "currencies": []
+    },
+    {
+      "title": "Wall Street closes lower as oil prices jump, indexes notch monthly gains",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9501,
+      "currencies": []
+    },
+    {
+      "title": "Bullion prices rally in August, with spot gold notching best month since January",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6698,
+      "score": 0.9116,
+      "currencies": []
+    },
+    {
+      "title": "Canada stocks lower at close of trade; S&P/TSX Composite down 0.78%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9701,
+      "currencies": []
+    },
+    {
+      "title": "Brazil stocks higher at close of trade; Bovespa up 1.00%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9471,
       "currencies": []
     }
   ],

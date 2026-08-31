@@ -1,15 +1,13 @@
 {
   "run_id": 1,
   "pairs": {
-    "EUR/USD": [
-      {
-        "title": "EUR to U.S. Dollar - EUR/USD Exchange Rate Chart - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
     "USD/JPY": [
+      {
+        "title": "USD/MXN Forecast: Mexican Peso Remains Under Pressure Following Jackson Hole - forex.com",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.8026
+      },
       {
         "title": "USD/MXN 31/08: Is the Market\u2019s Recent Calm Starting to Fade? - DailyForex",
         "source": "Google News",
@@ -17,18 +15,16 @@
         "score": 0.0
       },
       {
-        "title": "The USD is lower vs major currencies. In the video, I ake a look at the EURUSD, USDJPY and GBPUSD to kickstart the week",
-        "source": "ForexLive",
+        "title": "Mexican Peso appreciates as USD/MXN dives on USD weakness",
+        "source": "FXStreet",
         "label": "bearish",
-        "score": -0.649
-      }
-    ],
-    "NZD/USD": [
+        "score": -0.5025
+      },
       {
-        "title": "NZD/USD pulls back on hawkish Warsh; focus turns to RBNZ decision",
-        "source": "ForexLive",
+        "title": "Silver Price Forecast: XAG/USD consolidates below 100-Day SMA as momentum fades",
+        "source": "FXStreet",
         "label": "bearish",
-        "score": -0.7827
+        "score": -0.8878
       }
     ]
   }
