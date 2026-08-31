@@ -1,9 +1,9 @@
 {
   "run_id": 1,
   "pairs": {
-    "GBP/USD": [
+    "EUR/USD": [
       {
-        "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
+        "title": "EUR to U.S. Dollar - EUR/USD Exchange Rate Chart - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -11,36 +11,24 @@
     ],
     "USD/JPY": [
       {
-        "title": "A pop for yen despite USD/JPY weakening earlier past 160 as Warsh's hawkish tone clashes with Bessent",
-        "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.4715
-      },
-      {
-        "title": "Gold pares intraday losses to sub-$4,400 levels on softer USD; not out of the woods yet",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8466
-      },
-      {
-        "title": "USD/JPY Price Forecast: Retreats from one-month top as bullish bias remains below 160.00",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9698
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "Euro: Warsh speech weighs on EUR against US Dollar \u2013 Danske Bank",
-        "source": "FXStreet",
+        "title": "USD/MXN 31/08: Is the Market\u2019s Recent Calm Starting to Fade? - DailyForex",
+        "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "EUR/USD Price Forecast: Gains ground to near 1.1600, bullish vibe prevails above 100-day SMA",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9405
+        "title": "The USD is lower vs major currencies. In the video, I ake a look at the EURUSD, USDJPY and GBPUSD to kickstart the week",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.649
+      }
+    ],
+    "NZD/USD": [
+      {
+        "title": "NZD/USD pulls back on hawkish Warsh; focus turns to RBNZ decision",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.7827
       }
     ]
   }

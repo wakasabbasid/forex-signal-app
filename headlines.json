@@ -15,10 +15,72 @@
       "currencies": []
     },
     {
-      "title": "Rupee Weakens on Fed Hike Bets, Oil - TradingView",
+      "title": "EUR to U.S. Dollar - EUR/USD Exchange Rate Chart - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "USD/MXN 31/08: Is the Market\u2019s Recent Calm Starting to Fade? - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Bessent: Yen Moves \u2018Pretty Contained,\u2019 No Disorderly Action Seen - CryptoRank",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "The Fed Just Changed Everything: What It Means for Your Forex Trades - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Yen might be on its way to \u00a5164 to the dollar - The Japan Times",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5014,
+      "currencies": []
+    },
+    {
+      "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0431\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Euro Eases Versus Yen as Markets Eye BoJ and German CPI - TradingPedia",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9006,
+      "score": -0.7002,
+      "currencies": []
+    },
+    {
+      "title": "News by CNBC TV18 on TradingView, 2026-08-31 \u2014 cnbctv:fe19c190d094b:0 - TradingView",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Top 10 African countries with the strongest currencies in August 2026 - Business Insider Africa",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -29,118 +91,59 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD forecast: Currency Pair of the Week | August 17, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "FCNR(B) deposits push forex reserves to all-time high of $729 billion in August - The Indian Express",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9139,
-      "currencies": []
-    },
-    {
-      "title": "Sudan central bank eases forex curbs to stabilize currency - Sudan Tribune",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7755,
-      "currencies": []
-    },
-    {
-      "title": "FCNR-B deposits: Why the RBI\u2019s strategic swap scheme is a winner - ET Government",
-      "source": "Google News",
+      "title": "Cantor Fitzgerald raises MongoDB stock price target on Atlas strength",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "BoK\u2019s front-loaded rate hikes support won, says Commerzbank - CryptoRank",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9338,
-      "currencies": []
-    },
-    {
-      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "InPost Q2 profit falls 30%, cuts 2026 profit outlook as UK turnaround lags",
+      "title": "Sony, Warner Music sue Anthropic over songs used in AI training",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.969,
+      "score": -0.7783,
       "currencies": []
     },
     {
-      "title": "ONLY A FEW HOURS LEFT: Lock in InvestingPro for 55% off BEFORE SALE ENDS TODAY",
+      "title": "Bessent says Iran sanctions aim to bring them to talks",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "BofA Names Top European Software Stocks for 2026",
+      "title": "Prediction market startup Kalshi permanently bans ex-US lawmaker Santos from trading",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9013,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Snipp Interactive posts Q2 2026 revenue beat",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Take Five: Summer\u2019s over, buckle up!",
+      "title": "Howmet, GE Vernova and Siemens shares fall on Musk solar plan",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9447,
       "currencies": []
     },
     {
-      "title": "Oil jumps more than 2% after US attack on Iran\u2019s Larak Island",
+      "title": "Aon strikes $17 billion deal for rival USI as insurance consolidation accelerates",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8029,
+      "score": 0.7394,
       "currencies": []
     },
     {
-      "title": "Why is BYD stock sliding today?",
+      "title": "Nvidia to invest $3.5 billion in chipmaker MediaTek, expand partnership",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9207,
-      "currencies": []
-    },
-    {
-      "title": "AI-driven cyber risk is top concern for global financial stability, watchdog says",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Taiwan stocks lower at close of trade; Taiwan Weighted down 0.76%",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9684,
+      "label": "bullish",
+      "score": 0.6698,
       "currencies": []
     }
   ],
