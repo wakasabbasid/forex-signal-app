@@ -15,14 +15,14 @@
       "currencies": []
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
+      "title": "Rupee Weakens on Fed Hike Bets, Oil - TradingView",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9006,
       "currencies": []
     },
     {
-      "title": "FCNR-B deposits: Why the RBI\u2019s strategic swap scheme is a winner - ET Government",
+      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -53,17 +53,10 @@
       "currencies": []
     },
     {
-      "title": "BoK\u2019s front-loaded rate hikes support won, says Commerzbank - CryptoRank",
+      "title": "FCNR-B deposits: Why the RBI\u2019s strategic swap scheme is a winner - ET Government",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.9338,
-      "currencies": []
-    },
-    {
-      "title": "Yen weakens past \u00a5160 per dollar, eroding intervention gains - The Japan Times",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9396,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -74,6 +67,13 @@
       "currencies": []
     },
     {
+      "title": "BoK\u2019s front-loaded rate hikes support won, says Commerzbank - CryptoRank",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9338,
+      "currencies": []
+    },
+    {
       "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
       "source": "Google News",
       "label": "neutral",
@@ -81,68 +81,66 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Japan industrial production unexpectedly grows in July, retail sales surge",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.927,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Bessent says yen moves \u2019pretty contained\u2019 and not disorderly",
+      "title": "InPost Q2 profit falls 30%, cuts 2026 profit outlook as UK turnaround lags",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.969,
+      "currencies": []
+    },
+    {
+      "title": "ONLY A FEW HOURS LEFT: Lock in InvestingPro for 55% off BEFORE SALE ENDS TODAY",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Bessent expects new US secondary sanctions weekly, aiming to increase pressure on Iran",
+      "title": "BofA Names Top European Software Stocks for 2026",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.739,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "G20 countries should consider more trade barriers with China to cut imbalances, Bessent says",
+      "title": "Take Five: Summer\u2019s over, buckle up!",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8787,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Michael Hill posts record revenue in H2 2026 turnaround",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8956,
-      "currencies": []
-    },
-    {
-      "title": "Oil jumps more than 2% after US attack on Iran\u2019s Larak island",
+      "title": "Oil jumps more than 2% after US attack on Iran\u2019s Larak Island",
       "source": "Investing.com",
       "label": "bullish",
       "score": 0.8029,
       "currencies": []
     },
     {
-      "title": "Is a \u2018Bessent doctrine\u2019 taking shape in global FX policy?",
+      "title": "Why is BYD stock sliding today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9207,
+      "currencies": []
+    },
+    {
+      "title": "AI-driven cyber risk is top concern for global financial stability, watchdog says",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "title": "Taiwan stocks lower at close of trade; Taiwan Weighted down 0.76%",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9603,
+      "score": -0.9684,
       "currencies": []
     }
   ],

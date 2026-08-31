@@ -11,10 +11,36 @@
     ],
     "USD/JPY": [
       {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-        "source": "Google News",
+        "title": "A pop for yen despite USD/JPY weakening earlier past 160 as Warsh's hawkish tone clashes with Bessent",
+        "source": "ForexLive",
         "label": "bullish",
-        "score": 0.6676
+        "score": 0.4715
+      },
+      {
+        "title": "Gold pares intraday losses to sub-$4,400 levels on softer USD; not out of the woods yet",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8466
+      },
+      {
+        "title": "USD/JPY Price Forecast: Retreats from one-month top as bullish bias remains below 160.00",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9698
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "Euro: Warsh speech weighs on EUR against US Dollar \u2013 Danske Bank",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "EUR/USD Price Forecast: Gains ground to near 1.1600, bullish vibe prevails above 100-day SMA",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9405
       }
     ]
   }
