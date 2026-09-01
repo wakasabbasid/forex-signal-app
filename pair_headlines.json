@@ -15,16 +15,50 @@
         "score": 0.0
       },
       {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7170 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "investingLive Americas FX news wrap 31 Aug: The USD moves lower. USD corrects after Warsh's hawkish speech at Jackson Hole",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.905
+      },
+      {
+        "title": "GBP/JPY Price Forecast: 217.00 caps bulls as RSI fades",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
         "title": "Mexican Peso appreciates as USD/MXN dives on USD weakness",
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.5025
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Signal 31/08: Retreats After Hitting Key Resistance - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9617
       },
       {
-        "title": "Silver Price Forecast: XAG/USD consolidates below 100-Day SMA as momentum fades",
+        "title": "GBP/JPY Price Forecast: 217.00 caps bulls as RSI fades",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8878
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "NZD/USD": [
+      {
+        "title": "NZD/USD Price Forecast: Bulls defend trendline above 0.5900",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.4112
       }
     ]
   }

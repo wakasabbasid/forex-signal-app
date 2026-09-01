@@ -61,6 +61,20 @@
       "currencies": []
     },
     {
+      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "News by CNBC TV18 on TradingView, 2026-08-31 \u2014 cnbctv:fe19c190d094b:0 - TradingView",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Top 10 African countries with the strongest currencies in August 2026 - Business Insider Africa",
       "source": "Google News",
       "label": "neutral",
@@ -68,80 +82,69 @@
       "currencies": []
     },
     {
-      "title": "News by CNBC TV18 on TradingView, 2026-08-31 \u2014 cnbctv:fe19c190d094b:0 - tradingview.com",
+      "title": "GBP/USD Signal 31/08: Retreats After Hitting Key Resistance - DailyForex",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
+      "label": "bearish",
+      "score": -0.9617,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - britannica.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - wsj.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.674,
-      "currencies": []
-    },
-    {
-      "title": "FutureFuel declares $0.01 Q4 dividend, payable Dec. 18",
+      "title": "Remitly CBO Pankaj Sharma sells $554k in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Latin American markets mixed as dollar softens, oil prices rise",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.4761,
-      "currencies": []
-    },
-    {
-      "title": "Estee Lauder exec VP La Lande sells $802k in company shares",
+      "title": "Blaise Aguirre, director, buys $7,049 of United States Antimony stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 0.70%",
+      "title": "Trinet group director Paul Chamberlain sells $167,280 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US irks G20 ministers by bringing back Russia, barring journalists",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9681,
+      "score": -0.5472,
       "currencies": []
     },
     {
-      "title": "Wall Street closes lower as oil prices jump, indexes notch monthly gains",
+      "title": "Northrim Bancorp director Anthony Drabek sells $30,624 in shares",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9501,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Bullion prices rally in August, with spot gold notching best month since January",
+      "title": "Boeing, engineers union to resume contract negotiations on Sept 8, union says",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9116,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Canada stocks lower at close of trade; S&P/TSX Composite down 0.78%",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9701,
-      "currencies": []
-    },
-    {
-      "title": "Brazil stocks higher at close of trade; Bovespa up 1.00%",
+      "title": "Firms including Chevron, ONGC, GE Vernova on track to sign final pacts in Venezuela, sources say",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9471,
+      "score": 0.7793,
+      "currencies": []
+    },
+    {
+      "title": "Exclusive-US oil firm to take over some Venezuelan oilfields previously run by Chinese, Russian companies, officials say",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
