@@ -3,10 +3,16 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "USD/MXN Forecast: Mexican Peso Remains Under Pressure Following Jackson Hole - forex.com",
+        "title": "USD/MXN Forecast: Mexican Peso Remains Under Pressure Following Jackson Hole - FOREX.com",
         "source": "Google News",
         "label": "bearish",
         "score": -0.8026
+      },
+      {
+        "title": "USD/INR Monthly Forecast: September 2026 - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       },
       {
         "title": "USD/MXN 31/08: Is the Market\u2019s Recent Calm Starting to Fade? - DailyForex",
@@ -15,50 +21,58 @@
         "score": 0.0
       },
       {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7170 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "investingLive Americas FX news wrap 31 Aug: The USD moves lower. USD corrects after Warsh's hawkish speech at Jackson Hole",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.905
-      },
-      {
-        "title": "GBP/JPY Price Forecast: 217.00 caps bulls as RSI fades",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Mexican Peso appreciates as USD/MXN dives on USD weakness",
+        "title": "Gold sticks to modest losses below $4,450 on Fed hike bets, firm USD",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.5025
+        "score": -0.6532
+      },
+      {
+        "title": "Euro struggles near 1.1600 amid firm USD; looks to Eurozone HICP for some impetus",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.7209
+      },
+      {
+        "title": "AUD/JPY Price Forecast: Strengthens above 114.50 as bullish technical setup holds",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9074
+      },
+      {
+        "title": "EUR/JPY Price Forecast: Hovers around 185.50 near nine-day EMA support",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.4672
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "China private PMI beats forecast, longest upturn in five years. AUD support.",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.557
+      },
+      {
+        "title": "AUD/JPY Price Forecast: Strengthens above 114.50 as bullish technical setup holds",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9074
       }
     ],
     "GBP/USD": [
       {
-        "title": "GBP/USD Signal 31/08: Retreats After Hitting Key Resistance - DailyForex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9617
-      },
-      {
-        "title": "GBP/JPY Price Forecast: 217.00 caps bulls as RSI fades",
+        "title": "GBP/USD Price Forecast: Declines below 1.3550, while maintaining bullish bias above 100-day SMA",
         "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bearish",
+        "score": -0.9603
       }
     ],
-    "NZD/USD": [
+    "EUR/USD": [
       {
-        "title": "NZD/USD Price Forecast: Bulls defend trendline above 0.5900",
+        "title": "EUR/JPY Price Forecast: Hovers around 185.50 near nine-day EMA support",
         "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.4112
+        "label": "bearish",
+        "score": -0.4672
       }
     ]
   }

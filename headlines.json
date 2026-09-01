@@ -1,17 +1,17 @@
 {
   "headlines": [
     {
-      "title": "Understanding Real-Time Forex Charts for Informed Trading Decisions - finchannel",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "India's forex reserves hit record $729 billion on sustained capital inflows - Reuters",
       "source": "Google News",
       "label": "bullish",
       "score": 0.8822,
+      "currencies": []
+    },
+    {
+      "title": "Understanding Real-Time Forex Charts for Informed Trading Decisions - finchannel",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -22,7 +22,7 @@
       "currencies": []
     },
     {
-      "title": "USD/MXN Forecast: Mexican Peso Remains Under Pressure Following Jackson Hole - forex.com",
+      "title": "USD/MXN Forecast: Mexican Peso Remains Under Pressure Following Jackson Hole - FOREX.com",
       "source": "Google News",
       "label": "bearish",
       "score": -0.8026,
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "title": "USD/MXN 31/08: Is the Market\u2019s Recent Calm Starting to Fade? - DailyForex",
+      "title": "USD/INR Monthly Forecast: September 2026 - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -47,21 +47,21 @@
       "currencies": []
     },
     {
-      "title": "The Fed Just Changed Everything: What It Means for Your Forex Trades - Investing.com",
+      "title": "Top 10 African countries with the strongest currencies in August 2026 - Business Insider Africa",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Euro Eases Versus Yen as Markets Eye BoJ and German CPI - TradingPedia",
+      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.7002,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
+      "title": "The Fed Just Changed Everything: What It Means for Your Forex Trades - Investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -75,73 +75,72 @@
       "currencies": []
     },
     {
-      "title": "Top 10 African countries with the strongest currencies in August 2026 - Business Insider Africa",
+      "title": "Euro Eases Versus Yen as Markets Eye BoJ and German CPI - TradingPedia",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.7002,
       "currencies": []
     },
     {
-      "title": "GBP/USD Signal 31/08: Retreats After Hitting Key Resistance - DailyForex",
+      "title": "USD/MXN 31/08: Is the Market\u2019s Recent Calm Starting to Fade? - DailyForex",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9617,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
-        "GBP",
         "USD"
       ]
     },
     {
-      "title": "Remitly CBO Pankaj Sharma sells $554k in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Blaise Aguirre, director, buys $7,049 of United States Antimony stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Trinet group director Paul Chamberlain sells $167,280 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US irks G20 ministers by bringing back Russia, barring journalists",
+      "title": "Why is China Cinda Asset Management stock sliding today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5472,
+      "score": -0.9468,
       "currencies": []
     },
     {
-      "title": "Northrim Bancorp director Anthony Drabek sells $30,624 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Boeing, engineers union to resume contract negotiations on Sept 8, union says",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Firms including Chevron, ONGC, GE Vernova on track to sign final pacts in Venezuela, sources say",
+      "title": "Global AI boom fuels Asia factory expansion in August",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7793,
+      "score": 0.8839,
       "currencies": []
     },
     {
-      "title": "Exclusive-US oil firm to take over some Venezuelan oilfields previously run by Chinese, Russian companies, officials say",
+      "title": "Earnings call transcript: Mega We Care posts $0.59 EPS in Q2 2026 as stock slips",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "France targets Shein and Temu with fast fashion fines",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Top European IT Services & Payments Stocks, According to BofA",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "OpenAI says Apple has only itself to blame in trade-secret fight",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japan, US agree to continue coordination on yen, Katayama says",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.901,
+      "currencies": []
+    },
+    {
+      "title": "What stocks offer the best exposure to India\u2019s stellar economic growth?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
