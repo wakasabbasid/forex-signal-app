@@ -1,9 +1,23 @@
 {
   "run_id": 1,
   "pairs": {
+    "EUR/USD": [
+      {
+        "title": "Forex Seasonality \u2013 September 2026: Can EUR/USD Extend its Gains to Three Straight Months? - FOREX.com",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.6449
+      }
+    ],
     "USD/JPY": [
       {
         "title": "USD/MXN Monthly Forecast: September 2026 - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "USD/ZAR Forecast: Fed Uncertainty Drives Rand Volatility - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -15,16 +29,24 @@
         "score": -0.8026
       },
       {
-        "title": "Cornerstone Strategic Value Fund stock hits 52-week low at 6.57 USD",
+        "title": "Boyd Gaming stock hits 52-week low at 76.33 USD",
         "source": "Investing.com",
         "label": "bearish",
-        "score": -0.9592
+        "score": -0.949
       },
       {
-        "title": "Kickstart September 1: The USD is stronger as yields move higher.",
+        "title": "USD moves to new highs vs most of the major currencies. What next for the major currency pairs?",
         "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "AUD/USD leads major pairs in YTD performance with strong multi-timeframe technicals",
+        "source": "Investing.com",
         "label": "bullish",
-        "score": 0.9445
+        "score": 0.9522
       }
     ]
   }
