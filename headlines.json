@@ -18,15 +18,6 @@
       ]
     },
     {
-      "title": "USD/MXN Monthly Forecast: September 2026 - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
       "title": "Euroclear and HSBC to launch automated FX service - Euroclear",
       "source": "Google News",
       "label": "neutral",
@@ -41,14 +32,23 @@
       "currencies": []
     },
     {
-      "title": "Dollar holds near two-week high as JOLTS data keeps Fed hike bets alive - Investing.com",
+      "title": "USD/MXN 31/08: Is the Market\u2019s Recent Calm Starting to Fade? - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Bessent: Yen Moves \u2018Pretty Contained,\u2019 No Disorderly Action Seen - CryptoRank",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Bessent: Yen Moves \u2018Pretty Contained,\u2019 No Disorderly Action Seen - CryptoRank",
+      "title": "The Fed Just Changed Everything: What It Means for Your Forex Trades - Investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -62,6 +62,13 @@
       "currencies": []
     },
     {
+      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "The dollar rises and attention turns to US employment data - \u0627\u0644\u0645\u062a\u062f\u0627\u0648\u0644 \u0627\u0644\u0639\u0631\u0628\u064a",
       "source": "Google News",
       "label": "neutral",
@@ -69,13 +76,11 @@
       "currencies": []
     },
     {
-      "title": "USD/ZAR Forecast: Fed Uncertainty Drives Rand Volatility - DailyForex",
+      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
+      "currencies": []
     },
     {
       "title": "USD/MXN Forecast: Mexican Peso Remains Under Pressure Following Jackson Hole - FOREX.com",
@@ -87,68 +92,56 @@
       ]
     },
     {
-      "title": "India's forex reserves climb past $700 billion on robust inflows - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8728,
-      "currencies": []
-    },
-    {
-      "title": "Micware at Micro-Cap Virtual Conference: platform push and global ambitions",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Boyd Gaming stock hits 52-week low at 76.33 USD",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.949,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Nestle to offload mainstream vitamin brands for $1 billion",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Trading timeframes guide: how to structure your sessions for better decisions",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "AUD/USD leads major pairs in YTD performance with strong multi-timeframe technicals",
+      "title": "Earnings call transcript: Dell beats Q2 2027 estimates, shares rebound after hours",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9522,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
-    },
-    {
-      "title": "Oil prices settle up more than $4 a barrel on renewed US-Iran fighting",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9047,
+      "score": 0.896,
       "currencies": []
     },
     {
-      "title": "BP vs Shell: value, quality and relative performance compared",
+      "title": "+89%, +46%, these stocks are out of our AI-picks for September - See what\u2019s in",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "TFS Financial director Anderson sells $108,762 in common stock",
+      "title": "Adecoagro completes acquisition of Caarap\u00f3 mill for $136M",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Guidewire CEO Michael Rosenbaum sells $245,328 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Slb CEO Le Peuch sells $2.1m in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Palo Alto Networks Q4 FY2026 slides: record growth, margin concerns",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6477,
+      "currencies": []
+    },
+    {
+      "title": "Five9 president Andy Dignan sells $622k in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Medalist Diversified CFO Winn buys $120 in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

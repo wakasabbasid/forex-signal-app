@@ -7,17 +7,17 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.6449
+      },
+      {
+        "title": "EUR/USD Price Forecast: 200-day SMA caps Euro as Dollar firms",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "USD/JPY": [
       {
-        "title": "USD/MXN Monthly Forecast: September 2026 - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "USD/ZAR Forecast: Fed Uncertainty Drives Rand Volatility - DailyForex",
+        "title": "USD/MXN 31/08: Is the Market\u2019s Recent Calm Starting to Fade? - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -29,24 +29,22 @@
         "score": -0.8026
       },
       {
-        "title": "Boyd Gaming stock hits 52-week low at 76.33 USD",
-        "source": "Investing.com",
-        "label": "bearish",
-        "score": -0.949
-      },
-      {
         "title": "USD moves to new highs vs most of the major currencies. What next for the major currency pairs?",
         "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
-      }
-    ],
-    "AUD/USD": [
+      },
       {
-        "title": "AUD/USD leads major pairs in YTD performance with strong multi-timeframe technicals",
-        "source": "Investing.com",
+        "title": "Australian Dollar falls as US-Iran conflict lifts USD, GDP data eyed",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8605
+      },
+      {
+        "title": "Asia FX: KRW and MYR lead firmer profile vs USD \u2013 OCBC",
+        "source": "FXStreet",
         "label": "bullish",
-        "score": 0.9522
+        "score": 0.909
       }
     ]
   }
