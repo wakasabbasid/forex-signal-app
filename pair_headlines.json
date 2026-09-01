@@ -3,7 +3,7 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "USD/MXN Forecast: Mexican Peso Remains Under Pressure Following Jackson Hole - FOREX.com",
+        "title": "USD/MXN Forecast: Mexican Peso Remains Under Pressure Following Jackson Hole - forex.com",
         "source": "Google News",
         "label": "bearish",
         "score": -0.8026
@@ -15,64 +15,44 @@
         "score": 0.0
       },
       {
-        "title": "USD/MXN 31/08: Is the Market\u2019s Recent Calm Starting to Fade? - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Gold sticks to modest losses below $4,450 on Fed hike bets, firm USD",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.6532
-      },
-      {
-        "title": "Euro struggles near 1.1600 amid firm USD; looks to Eurozone HICP for some impetus",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.7209
-      },
-      {
-        "title": "AUD/JPY Price Forecast: Strengthens above 114.50 as bullish technical setup holds",
-        "source": "FXStreet",
+        "title": "Kickstart September 1: The USD is stronger as yields move higher.",
+        "source": "ForexLive",
         "label": "bullish",
-        "score": 0.9074
+        "score": 0.9445
       },
       {
-        "title": "EUR/JPY Price Forecast: Hovers around 185.50 near nine-day EMA support",
+        "title": "USD/JPY continues to test the waters at the 160 mark",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.7832
+      },
+      {
+        "title": "Gold Price Forecast: XAU/USD extends reversal below $4.400 amid Fed hawkish repricing",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.4672
+        "score": -0.8747
+      },
+      {
+        "title": "Silver drops below $65 as hawkish Fed bets weigh on XAG/USD",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.908
       }
     ],
     "AUD/USD": [
       {
-        "title": "China private PMI beats forecast, longest upturn in five years. AUD support.",
-        "source": "ForexLive",
+        "title": "Aussie Dollar Holds Firm as China Boosts AUD/USD - TradingPedia",
+        "source": "Google News",
         "label": "bullish",
-        "score": 0.557
-      },
-      {
-        "title": "AUD/JPY Price Forecast: Strengthens above 114.50 as bullish technical setup holds",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9074
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "GBP/USD Price Forecast: Declines below 1.3550, while maintaining bullish bias above 100-day SMA",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9603
+        "score": 0.9232
       }
     ],
     "EUR/USD": [
       {
-        "title": "EUR/JPY Price Forecast: Hovers around 185.50 near nine-day EMA support",
+        "title": "EUR/USD Price Forecast: Upbeat US Dollar stresses on major currency pair",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.4672
+        "label": "bullish",
+        "score": 0.862
       }
     ]
   }

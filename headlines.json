@@ -1,10 +1,24 @@
 {
   "headlines": [
     {
+      "title": "Euroclear and HSBC to launch automated FX service - Euroclear",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "India's forex reserves hit record $729 billion on sustained capital inflows - Reuters",
       "source": "Google News",
       "label": "bullish",
       "score": 0.8822,
+      "currencies": []
+    },
+    {
+      "title": "India Rupee at Two-Month High as Central Bank Supports Currency - Bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -22,13 +36,41 @@
       "currencies": []
     },
     {
-      "title": "USD/MXN Forecast: Mexican Peso Remains Under Pressure Following Jackson Hole - FOREX.com",
+      "title": "Dollar ascendancy leaves rivals fragile as bond yields surge to multi-year peaks - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "USD/MXN Forecast: Mexican Peso Remains Under Pressure Following Jackson Hole - forex.com",
       "source": "Google News",
       "label": "bearish",
       "score": -0.8026,
       "currencies": [
         "USD"
       ]
+    },
+    {
+      "title": "Iran says it has enough foreign currency despite US sanctions - Dawn",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6624,
+      "currencies": []
+    },
+    {
+      "title": "Yen resumes losses amid Japan-US coordination on currency market - Economies.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.782,
+      "currencies": []
+    },
+    {
+      "title": "Japan's Failed Yen Intervention Leaves Bulls in Control. Forecast as of 01.09.2026 - LiteFinance",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "USD/INR Monthly Forecast: September 2026 - DailyForex",
@@ -40,110 +82,69 @@
       ]
     },
     {
-      "title": "Bessent: Yen Moves \u2018Pretty Contained,\u2019 No Disorderly Action Seen - CryptoRank",
+      "title": "Aussie Dollar Holds Firm as China Boosts AUD/USD - TradingPedia",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Top 10 African countries with the strongest currencies in August 2026 - Business Insider Africa",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "The Fed Just Changed Everything: What It Means for Your Forex Trades - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "News by CNBC TV18 on TradingView, 2026-08-31 \u2014 cnbctv:fe19c190d094b:0 - TradingView",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Euro Eases Versus Yen as Markets Eye BoJ and German CPI - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7002,
-      "currencies": []
-    },
-    {
-      "title": "USD/MXN 31/08: Is the Market\u2019s Recent Calm Starting to Fade? - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9232,
       "currencies": [
+        "AUD",
         "USD"
       ]
     },
     {
-      "title": "Why is China Cinda Asset Management stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9468,
-      "currencies": []
-    },
-    {
-      "title": "Global AI boom fuels Asia factory expansion in August",
+      "title": "Morgan Stanley upgrades Robinhood, sees 43% upside",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8839,
+      "score": 0.5961,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Mega We Care posts $0.59 EPS in Q2 2026 as stock slips",
+      "title": "Stifel reiterates Hayward Holdings stock rating on growth outlook",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "France targets Shein and Temu with fast fashion fines",
+      "title": "H.C. Wainwright raises Energy Fuels stock price target on acquisition",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Top European IT Services & Payments Stocks, According to BofA",
+      "title": "H.C. Wainwright reiterates Terra Innovatum stock rating at buy",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "OpenAI says Apple has only itself to blame in trade-secret fight",
+      "title": "H.C. Wainwright raises Protagonist stock price target on FDA approval",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Japan, US agree to continue coordination on yen, Katayama says",
+      "title": "Sekur Private Data targets profitability with government focus",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Cyber Enviro-Tech plans subsidiary spinoff for shareholders",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Yext expands AI marketing platform, launches SMB product",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.901,
-      "currencies": []
-    },
-    {
-      "title": "What stocks offer the best exposure to India\u2019s stellar economic growth?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "score": 0.71,
       "currencies": []
     }
   ],
