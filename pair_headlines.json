@@ -3,56 +3,28 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "USD/MXN Forecast: Mexican Peso Remains Under Pressure Following Jackson Hole - forex.com",
+        "title": "USD/MXN Monthly Forecast: September 2026 - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "USD/MXN Forecast: Mexican Peso Remains Under Pressure Following Jackson Hole - FOREX.com",
         "source": "Google News",
         "label": "bearish",
         "score": -0.8026
       },
       {
-        "title": "USD/INR Monthly Forecast: September 2026 - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "title": "Cornerstone Strategic Value Fund stock hits 52-week low at 6.57 USD",
+        "source": "Investing.com",
+        "label": "bearish",
+        "score": -0.9592
       },
       {
         "title": "Kickstart September 1: The USD is stronger as yields move higher.",
         "source": "ForexLive",
         "label": "bullish",
         "score": 0.9445
-      },
-      {
-        "title": "USD/JPY continues to test the waters at the 160 mark",
-        "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.7832
-      },
-      {
-        "title": "Gold Price Forecast: XAU/USD extends reversal below $4.400 amid Fed hawkish repricing",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8747
-      },
-      {
-        "title": "Silver drops below $65 as hawkish Fed bets weigh on XAG/USD",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.908
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "Aussie Dollar Holds Firm as China Boosts AUD/USD - TradingPedia",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.9232
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/USD Price Forecast: Upbeat US Dollar stresses on major currency pair",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.862
       }
     ]
   }

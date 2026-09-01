@@ -1,17 +1,17 @@
 {
   "headlines": [
     {
-      "title": "Euroclear and HSBC to launch automated FX service - Euroclear",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "India's forex reserves hit record $729 billion on sustained capital inflows - Reuters",
       "source": "Google News",
       "label": "bullish",
       "score": 0.8822,
+      "currencies": []
+    },
+    {
+      "title": "Euroclear and HSBC to launch automated FX service - Euroclear",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -22,11 +22,13 @@
       "currencies": []
     },
     {
-      "title": "Understanding Real-Time Forex Charts for Informed Trading Decisions - finchannel",
+      "title": "USD/MXN Monthly Forecast: September 2026 - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "Salida man accused of defrauding investors of $2.7M in foreign currency scheme - Modesto Bee",
@@ -36,27 +38,27 @@
       "currencies": []
     },
     {
-      "title": "Dollar ascendancy leaves rivals fragile as bond yields surge to multi-year peaks - Investing.com",
+      "title": "Understanding Real-Time Forex Charts for Informed Trading Decisions - finchannel",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "USD/MXN Forecast: Mexican Peso Remains Under Pressure Following Jackson Hole - forex.com",
+      "title": "Dollar holds near two-week high as JOLTS data keeps Fed hike bets alive - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "USD/MXN Forecast: Mexican Peso Remains Under Pressure Following Jackson Hole - FOREX.com",
       "source": "Google News",
       "label": "bearish",
       "score": -0.8026,
       "currencies": [
         "USD"
       ]
-    },
-    {
-      "title": "Iran says it has enough foreign currency despite US sanctions - Dawn",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6624,
-      "currencies": []
     },
     {
       "title": "Yen resumes losses amid Japan-US coordination on currency market - Economies.com",
@@ -66,85 +68,82 @@
       "currencies": []
     },
     {
-      "title": "Japan's Failed Yen Intervention Leaves Bulls in Control. Forecast as of 01.09.2026 - LiteFinance",
+      "title": "Iran says it has enough foreign currency despite US sanctions - dawn.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "USD/INR Monthly Forecast: September 2026 - DailyForex",
+      "title": "Bessent: Yen Moves \u2018Pretty Contained,\u2019 No Disorderly Action Seen - CryptoRank",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Iran says it has enough foreign currency despite US sanctions - thestar.com.my",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Interactive Brokers stock falls after UBS neutral rating",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9337,
+      "currencies": []
+    },
+    {
+      "title": "Nestl\u00e9 sells vitamin and supplements unit for $1 billion",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "BTIG raises MiniMed Group stock price target on pipeline progress",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Goldman Sachs refreshes conviction lists on both sides of the Atlantic",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Cornerstone Strategic Value Fund stock hits 52-week low at 6.57 USD",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9592,
       "currencies": [
         "USD"
       ]
     },
     {
-      "title": "Aussie Dollar Holds Firm as China Boosts AUD/USD - TradingPedia",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9232,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
-    },
-    {
-      "title": "Morgan Stanley upgrades Robinhood, sees 43% upside",
+      "title": "BofA vice president Piacenti killed in Times Square stabbing",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5961,
+      "label": "bearish",
+      "score": -0.6829,
       "currencies": []
     },
     {
-      "title": "Stifel reiterates Hayward Holdings stock rating on growth outlook",
+      "title": "U.S. retaliates against IRGC in Iran after Strait of Hormuz attacks",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8301,
+      "currencies": []
+    },
+    {
+      "title": "Jefferies raises Science Applications stock price target on margin outlook",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "H.C. Wainwright raises Energy Fuels stock price target on acquisition",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "H.C. Wainwright reiterates Terra Innovatum stock rating at buy",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "H.C. Wainwright raises Protagonist stock price target on FDA approval",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Sekur Private Data targets profitability with government focus",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Cyber Enviro-Tech plans subsidiary spinoff for shareholders",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Yext expands AI marketing platform, launches SMB product",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.71,
       "currencies": []
     }
   ],
