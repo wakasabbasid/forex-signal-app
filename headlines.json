@@ -1,6 +1,20 @@
 {
   "headlines": [
     {
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8977,
+      "currencies": []
+    },
+    {
+      "title": "India Raises Record $127 Billion in Forex Deposits From Diaspora - Bloomberg.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7697,
+      "currencies": []
+    },
+    {
       "title": "USD/JPY Forecast: Can BOJ Expectations Continue to Support the Yen? - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -11,24 +25,28 @@
       ]
     },
     {
-      "title": "EUR/USD Forex Signal 02/09: Bears Eye a Break Below 1.1574 - dailyforex.com",
+      "title": "EUR/USD Forex Signal 02/09: Bears Eye a Break Below 1.1574 - DailyForex",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.6368,
+      "score": -0.7452,
       "currencies": [
         "EUR",
         "USD"
       ]
     },
     {
-      "title": "USD/JPY Forecast: Can BOJ Expectations Continue to Support the Yen? - City Index UK",
+      "title": "NRIs Pour in $127 Billion as Reserve Bank's Dollar Scheme Beats Targets - NDTV",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.7271,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Understanding Real-Time Forex Charts for Informed Trading Decisions - finchannel",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "Indian Rupee: Strong GDP Underpins Higher INR Yields \u2013 MUFG - CryptoRank",
@@ -38,17 +56,10 @@
       "currencies": []
     },
     {
-      "title": "India Rupee at Two-Month High as Central Bank Supports Currency - Bloomberg.com",
+      "title": "The Fed Just Changed Everything: What It Means for Your Forex Trades - investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "RBI\u2019s Diaspora Dollars Gave The Rupee Some Breathing Room - Finimize",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6957,
       "currencies": []
     },
     {
@@ -62,99 +73,84 @@
       ]
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
-      "currencies": []
-    },
-    {
-      "title": "The Fed Just Changed Everything: What It Means for Your Forex Trades - Investing.com",
+      "title": "Japanese Yen Surges, Forex Traders Brace for Intervention - fxleaders.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "AFRICA-FX-Ugandan and Kenyan currencies could climb, Zambia's may slide - Reuters",
+      "title": "USD/MXN Forecast: Mexican Peso Remains Under Pressure Following Jackson Hole - FOREX.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.6939,
-      "currencies": []
+      "score": -0.8026,
+      "currencies": [
+        "USD"
+      ]
     },
     {
-      "title": "GBP/USD Signal 02/09: UK Bond Yields and Macro Risks Rise - dailyforex.com",
+      "title": "USD/MXN 31/08: Is the Market\u2019s Recent Calm Starting to Fade? - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
-        "GBP",
         "USD"
       ]
     },
     {
-      "title": "Cantor Fitzgerald raises Sprinklr stock price target on turnaround progress",
+      "title": "Earnings call transcript: Gold.com posts transformational Q4 2026 on surging revenue",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6764,
+      "currencies": []
+    },
+    {
+      "title": "Colombia stocks higher at close of trade; COLCAP up 0.77%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9418,
+      "currencies": []
+    },
+    {
+      "title": "Exclusive-Private equity firms Carlyle, Bain, Oaktree readying bids for\u00a0Serie A international media unit, sources say",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Explainer-Why is Senegal reworking its debt and what makes it different?",
+      "title": "Freedom Gold appoints John Shurko as CEO, plans C$800k offering",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Economic activity edged up and prices rose moderately in recent weeks, Fed survey shows",
+      "title": "Capital Southwest amends credit facility, boosts size to $595M",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9444,
+      "score": 0.943,
       "currencies": []
     },
     {
-      "title": "MongoDB options analysis: cautious hedging, not a collapse bet",
+      "title": "Guggenheim downgrades Alumis stock rating after trial miss",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.8838,
       "currencies": []
     },
     {
-      "title": "Dorian LPG stock hits all-time high at 52.11 USD",
+      "title": "Earnings call transcript: Petco shares rise after q2 2026 sales stabilize",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5041,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Scorpio Gold trading halt imposed in error, resumes trading",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "score": 0.9398,
       "currencies": []
     },
     {
-      "title": "Star Bulk Carriers Corp stock hits 52-week high at $31.82",
+      "title": "Earnings call transcript: ChargePoint tops Q2 2026 estimates as shares jump",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5902,
-      "currencies": []
-    },
-    {
-      "title": "Wall Street rises on Dell, Nvidia boost and a let up in oil prices, yields",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9031,
+      "score": 0.627,
       "currencies": []
     }
   ],

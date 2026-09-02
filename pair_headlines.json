@@ -9,24 +9,36 @@
         "score": 0.0
       },
       {
-        "title": "USD/JPY Forecast: Can BOJ Expectations Continue to Support the Yen? - City Index UK",
+        "title": "USD/MXN Forecast: Mexican Peso Remains Under Pressure Following Jackson Hole - FOREX.com",
         "source": "Google News",
-        "label": "bullish",
-        "score": 0.7271
+        "label": "bearish",
+        "score": -0.8026
       },
       {
-        "title": "Dorian LPG stock hits all-time high at 52.11 USD",
-        "source": "Investing.com",
+        "title": "USD/MXN 31/08: Is the Market\u2019s Recent Calm Starting to Fade? - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "investingLive Americas FX news wrap 2 Sept: USD mixed, stocks rise as Iran tensions simmer",
+        "source": "ForexLive",
         "label": "bullish",
-        "score": 0.5041
+        "score": 0.8701
+      },
+      {
+        "title": "USD/JPY Eyes Breakout as Rising Yields Support US Dollar",
+        "source": "Yahoo Finance",
+        "label": "bullish",
+        "score": 0.741
       }
     ],
     "EUR/USD": [
       {
-        "title": "EUR/USD Forex Signal 02/09: Bears Eye a Break Below 1.1574 - dailyforex.com",
+        "title": "EUR/USD Forex Signal 02/09: Bears Eye a Break Below 1.1574 - DailyForex",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.6368
+        "score": -0.7452
       }
     ],
     "NZD/USD": [
@@ -35,14 +47,20 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.922
+      },
+      {
+        "title": "NZD/USD fell post RBNZ, 0.5890 and 0.5840 now the levels to watch",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.9678
       }
     ],
-    "GBP/USD": [
+    "USD/CHF": [
       {
-        "title": "GBP/USD Signal 02/09: UK Bond Yields and Macro Risks Rise - dailyforex.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "title": "USD/CHF Price Forecast: Bulls eye 0.8200 as RSI turns higher",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8401
       }
     ]
   }
