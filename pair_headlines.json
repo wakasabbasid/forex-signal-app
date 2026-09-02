@@ -1,13 +1,21 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/JPY": [
+    "EUR/USD": [
       {
-        "title": "USD/JPY Forecast: Can BOJ Expectations Continue to Support the Yen? - FOREX.com",
+        "title": "EUR/USD Forex Signal 02/09: Bears Eye a Break Below 1.1574 - DailyForex",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bearish",
+        "score": -0.7452
       },
+      {
+        "title": "Forex Seasonality \u2013 September 2026: Can EUR/USD Extend its Gains to Three Straight Months? - FOREX.com",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.6449
+      }
+    ],
+    "USD/JPY": [
       {
         "title": "USD/MXN Forecast: Mexican Peso Remains Under Pressure Following Jackson Hole - FOREX.com",
         "source": "Google News",
@@ -27,18 +35,10 @@
         "score": 0.8701
       },
       {
-        "title": "USD/JPY Eyes Breakout as Rising Yields Support US Dollar",
-        "source": "Yahoo Finance",
-        "label": "bullish",
-        "score": 0.741
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/USD Forex Signal 02/09: Bears Eye a Break Below 1.1574 - DailyForex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.7452
+        "title": "GBP/JPY Price Forecast: Sellers eye 214.00 after SMA break",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "NZD/USD": [
@@ -49,10 +49,38 @@
         "score": -0.922
       },
       {
+        "title": "AUD/NZD tests key resistance after RBNZ 'sell the fact' hike and Australia GDP beat",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.5802
+      },
+      {
         "title": "NZD/USD fell post RBNZ, 0.5890 and 0.5840 now the levels to watch",
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.9678
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "AUD/NZD tests key resistance after RBNZ 'sell the fact' hike and Australia GDP beat",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.5802
+      },
+      {
+        "title": "Australian Dollar rises as soft US jobs, GDP beat lift AUD, PMIs ahead",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.6939
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/JPY Price Forecast: Sellers eye 214.00 after SMA break",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "USD/CHF": [

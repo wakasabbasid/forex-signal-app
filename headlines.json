@@ -8,23 +8,6 @@
       "currencies": []
     },
     {
-      "title": "India Raises Record $127 Billion in Forex Deposits From Diaspora - Bloomberg.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7697,
-      "currencies": []
-    },
-    {
-      "title": "USD/JPY Forecast: Can BOJ Expectations Continue to Support the Yen? - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
       "title": "EUR/USD Forex Signal 02/09: Bears Eye a Break Below 1.1574 - DailyForex",
       "source": "Google News",
       "label": "bearish",
@@ -35,7 +18,7 @@
       ]
     },
     {
-      "title": "NRIs Pour in $127 Billion as Reserve Bank's Dollar Scheme Beats Targets - NDTV",
+      "title": "India draws record $127 billion through forex deposits: RBI - The Times of India",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -49,6 +32,15 @@
       "currencies": []
     },
     {
+      "title": "USD/MXN Forecast: Mexican Peso Remains Under Pressure Following Jackson Hole - FOREX.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8026,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "Indian Rupee: Strong GDP Underpins Higher INR Yields \u2013 MUFG - CryptoRank",
       "source": "Google News",
       "label": "bullish",
@@ -56,7 +48,7 @@
       "currencies": []
     },
     {
-      "title": "The Fed Just Changed Everything: What It Means for Your Forex Trades - investing.com",
+      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -73,18 +65,12 @@
       ]
     },
     {
-      "title": "Japanese Yen Surges, Forex Traders Brace for Intervention - fxleaders.com",
+      "title": "Forex Seasonality \u2013 September 2026: Can EUR/USD Extend its Gains to Three Straight Months? - FOREX.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "USD/MXN Forecast: Mexican Peso Remains Under Pressure Following Jackson Hole - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8026,
+      "label": "bullish",
+      "score": 0.6449,
       "currencies": [
+        "EUR",
         "USD"
       ]
     },
@@ -98,59 +84,73 @@
       ]
     },
     {
-      "title": "Earnings call transcript: Gold.com posts transformational Q4 2026 on surging revenue",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6764,
+      "title": "Bessent: Yen Moves \u2018Pretty Contained,\u2019 No Disorderly Action Seen - CryptoRank",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Colombia stocks higher at close of trade; COLCAP up 0.77%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9418,
+      "title": "AFRICA-FX-Ugandan and Kenyan currencies could climb, Zambia's may slide - Reuters",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6939,
       "currencies": []
     },
     {
-      "title": "Exclusive-Private equity firms Carlyle, Bain, Oaktree readying bids for\u00a0Serie A international media unit, sources say",
+      "title": "Biomerica director Gary M. Huff acquires $50,000 in BMRA stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Freedom Gold appoints John Shurko as CEO, plans C$800k offering",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Capital Southwest amends credit facility, boosts size to $595M",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.943,
-      "currencies": []
-    },
-    {
-      "title": "Guggenheim downgrades Alumis stock rating after trial miss",
+      "title": "Australia raises capital requirements for ING\u2019s local unit after overstating liquidity position",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8838,
+      "score": -0.8907,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Petco shares rise after q2 2026 sales stabilize",
+      "title": "Diversified Energy to acquire Birch for $1.8 billion",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9398,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: ChargePoint tops Q2 2026 estimates as shares jump",
+      "title": "Avalo Therapeutics CFO Sullivan sells over $1.4m in stock",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.627,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "ThredUp COO Christopher Homer sells $155,465 of stock at $2.58",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Grindr CLO Zachary Katz sells $161,022 in GRND stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "From hunger to obesity: Developing world faces growing threat to child health",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.698,
+      "currencies": []
+    },
+    {
+      "title": "Uber launches autonomous rides in London with Wayve AI",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
