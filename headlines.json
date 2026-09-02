@@ -1,11 +1,28 @@
 {
   "headlines": [
     {
-      "title": "India's forex reserves hit record $729 billion on sustained capital inflows - Reuters",
+      "title": "India draws $136.38 billion in forex inflows, bolstering support for rupee - Reuters",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8822,
+      "score": 0.9401,
       "currencies": []
+    },
+    {
+      "title": "India Raises Record $127 Billion in Forex Deposits From Diaspora - Bloomberg.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7697,
+      "currencies": []
+    },
+    {
+      "title": "EUR/USD Forex Signal 02/09: Bears Eye a Break Below 1.1574 - DailyForex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7452,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
     },
     {
       "title": "Forex Seasonality \u2013 September 2026: Can EUR/USD Extend its Gains to Three Straight Months? - FOREX.com",
@@ -18,21 +35,27 @@
       ]
     },
     {
-      "title": "USD/JPY stumbles lower after brief trip to near five-week highs earlier in the day - investingLive",
+      "title": "Indian Rupee: Strong GDP Underpins Higher INR Yields \u2013 MUFG - CryptoRank",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9587,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
+      "label": "bullish",
+      "score": 0.9434,
+      "currencies": []
     },
     {
-      "title": "India Rupee at Two-Month High as Central Bank Supports Currency - Bloomberg.com",
+      "title": "Understanding Real-Time Forex Charts for Informed Trading Decisions - finchannel",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
+    },
+    {
+      "title": "Banks mobilise USD 127.23 billion in deposits from Indian diaspora: RBI - ThePrint",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "NZD/USD falls on dovish RBNZ rate hike - FXCM Markets",
@@ -45,20 +68,17 @@
       ]
     },
     {
-      "title": "AUD/USD Signal: Drops to Key Support as Australia GDP Beats Estimates - DailyForex",
+      "title": "BREAKING: Japanese Yen Surges, Forex Traders Brace for Intervention - FXLeaders",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.965,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
+      "score": -0.4251,
+      "currencies": []
     },
     {
-      "title": "Bessent: Yen Moves \u2018Pretty Contained,\u2019 No Disorderly Action Seen - CryptoRank",
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - wsj.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.674,
       "currencies": []
     },
     {
@@ -69,91 +89,69 @@
       "currencies": []
     },
     {
-      "title": "Peso hits fourth straight record low - Inquirer.net",
+      "title": "GBP/USD Signal 02/09: UK Bond Yields and Macro Risks Rise - DailyForex",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.7994,
-      "currencies": []
-    },
-    {
-      "title": "Swiss Franc Gains as Markets Discount Near-Term Fed Hike - TradingPedia",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.692,
-      "currencies": []
-    },
-    {
-      "title": "USD/MXN Forecast: Mexican Peso Remains Under Pressure Following Jackson Hole - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8026,
+      "score": -0.5095,
       "currencies": [
+        "GBP",
         "USD"
       ]
     },
     {
-      "title": "USD/MXN 31/08: Is the Market\u2019s Recent Calm Starting to Fade? - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Glenstone offer for Alternative Income REIT gets 2.25% acceptance",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5826,
-      "currencies": []
-    },
-    {
-      "title": "Bank of Canada set to hold rates as strong growth collides with trade risks",
+      "title": "Norway stocks lower at close of trade; Oslo OBX down 0.39%",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5107,
+      "score": -0.9687,
       "currencies": []
     },
     {
-      "title": "Trump pledged fiscal restraint. Instead, debt tops $40 trillion as borrowing costs rise",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6863,
-      "currencies": []
-    },
-    {
-      "title": "Why is Universe Pharmaceuticals stock up 22% today?",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8644,
-      "currencies": []
-    },
-    {
-      "title": "BofA cuts Credo Tech stock price target on valuation reset",
+      "title": "Mexico presses US on auto, steel tariffs in meeting with Lutnick",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "BofA raises MiniMed stock price target to $28 on FDA submission",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "BofA raises GitLab stock price target to $54 on strong results",
+      "title": "Yen gains sharply against US dollar",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8844,
+      "score": 0.7416,
       "currencies": []
     },
     {
-      "title": "Analysis-Rising Treasury yields could rattle US stocks as earnings season ends",
+      "title": "Israel stocks higher at close of trade; TA 35 up 1.30%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9359,
+      "currencies": []
+    },
+    {
+      "title": "US government backs OpenAI in New York Times copyright case",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8715,
+      "score": -0.5162,
+      "currencies": []
+    },
+    {
+      "title": "Jefferies sees bottlenecks in critical minerals as electrification demand builds",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7667,
+      "currencies": []
+    },
+    {
+      "title": "US crude oil inventories drop 4.5 million barrels last week",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9721,
+      "currencies": []
+    },
+    {
+      "title": "Greece stocks lower at close of trade; Athens General Composite down 0.32%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.969,
       "currencies": []
     }
   ],

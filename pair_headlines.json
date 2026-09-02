@@ -3,6 +3,12 @@
   "pairs": {
     "EUR/USD": [
       {
+        "title": "EUR/USD Forex Signal 02/09: Bears Eye a Break Below 1.1574 - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.7452
+      },
+      {
         "title": "Forex Seasonality \u2013 September 2026: Can EUR/USD Extend its Gains to Three Straight Months? - FOREX.com",
         "source": "Google News",
         "label": "bullish",
@@ -11,40 +17,16 @@
     ],
     "USD/JPY": [
       {
-        "title": "USD/JPY stumbles lower after brief trip to near five-week highs earlier in the day - investingLive",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9587
-      },
-      {
-        "title": "USD/MXN Forecast: Mexican Peso Remains Under Pressure Following Jackson Hole - FOREX.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.8026
-      },
-      {
-        "title": "USD/MXN 31/08: Is the Market\u2019s Recent Calm Starting to Fade? - DailyForex",
+        "title": "Banks mobilise USD 127.23 billion in deposits from Indian diaspora: RBI - ThePrint",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "USD/JPY corrects lower but remains skewed to the upside; faster BoJ tightening needed to reverse the trend",
+        "title": "The USD is mixed vs the EURUSD, USDJPY and GBPUSD.  What traders should eye technically?",
         "source": "ForexLive",
         "label": "bearish",
-        "score": -0.8514
-      },
-      {
-        "title": "USD/JPY stumbles lower after brief trip to near five-week highs earlier in the day",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.9646
-      },
-      {
-        "title": "Gold Price Forecast: XAU/USD tests $4,300 amid Fed tightening hopes, geopolitical tensions",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9144
+        "score": -0.4922
       }
     ],
     "NZD/USD": [
@@ -55,20 +37,12 @@
         "score": -0.922
       }
     ],
-    "AUD/USD": [
-      {
-        "title": "AUD/USD Signal: Drops to Key Support as Australia GDP Beats Estimates - DailyForex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.965
-      }
-    ],
     "GBP/USD": [
       {
-        "title": "GBP/USD Price Forecast: Likely fall further towards 1.3420",
-        "source": "FXStreet",
+        "title": "GBP/USD Signal 02/09: UK Bond Yields and Macro Risks Rise - DailyForex",
+        "source": "Google News",
         "label": "bearish",
-        "score": -0.9713
+        "score": -0.5095
       }
     ]
   }
