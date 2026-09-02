@@ -1,37 +1,33 @@
 {
   "headlines": [
     {
-      "title": "India draws $136.38 billion in forex inflows, bolstering support for rupee - Reuters",
+      "title": "USD/JPY Forecast: Can BOJ Expectations Continue to Support the Yen? - FOREX.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.9401,
-      "currencies": []
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
     },
     {
-      "title": "India Raises Record $127 Billion in Forex Deposits From Diaspora - Bloomberg.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7697,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD Forex Signal 02/09: Bears Eye a Break Below 1.1574 - DailyForex",
+      "title": "EUR/USD Forex Signal 02/09: Bears Eye a Break Below 1.1574 - dailyforex.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.7452,
+      "score": -0.6368,
       "currencies": [
         "EUR",
         "USD"
       ]
     },
     {
-      "title": "Forex Seasonality \u2013 September 2026: Can EUR/USD Extend its Gains to Three Straight Months? - FOREX.com",
+      "title": "USD/JPY Forecast: Can BOJ Expectations Continue to Support the Yen? - City Index UK",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.6449,
+      "score": 0.7271,
       "currencies": [
-        "EUR",
-        "USD"
+        "USD",
+        "JPY"
       ]
     },
     {
@@ -42,20 +38,18 @@
       "currencies": []
     },
     {
-      "title": "Understanding Real-Time Forex Charts for Informed Trading Decisions - finchannel",
+      "title": "India Rupee at Two-Month High as Central Bank Supports Currency - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Banks mobilise USD 127.23 billion in deposits from Indian diaspora: RBI - ThePrint",
+      "title": "RBI\u2019s Diaspora Dollars Gave The Rupee Some Breathing Room - Finimize",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
+      "label": "bullish",
+      "score": 0.6957,
+      "currencies": []
     },
     {
       "title": "NZD/USD falls on dovish RBNZ rate hike - FXCM Markets",
@@ -68,17 +62,10 @@
       ]
     },
     {
-      "title": "BREAKING: Japanese Yen Surges, Forex Traders Brace for Intervention - FXLeaders",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.4251,
-      "currencies": []
-    },
-    {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - wsj.com",
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.674,
+      "score": 0.9371,
       "currencies": []
     },
     {
@@ -89,69 +76,85 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Signal 02/09: UK Bond Yields and Macro Risks Rise - DailyForex",
+      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "AFRICA-FX-Ugandan and Kenyan currencies could climb, Zambia's may slide - Reuters",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.5095,
+      "score": -0.6939,
+      "currencies": []
+    },
+    {
+      "title": "GBP/USD Signal 02/09: UK Bond Yields and Macro Risks Rise - dailyforex.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
         "GBP",
         "USD"
       ]
     },
     {
-      "title": "Norway stocks lower at close of trade; Oslo OBX down 0.39%",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9687,
-      "currencies": []
-    },
-    {
-      "title": "Mexico presses US on auto, steel tariffs in meeting with Lutnick",
+      "title": "Cantor Fitzgerald raises Sprinklr stock price target on turnaround progress",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Yen gains sharply against US dollar",
+      "title": "Explainer-Why is Senegal reworking its debt and what makes it different?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Economic activity edged up and prices rose moderately in recent weeks, Fed survey shows",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7416,
+      "score": 0.9444,
       "currencies": []
     },
     {
-      "title": "Israel stocks higher at close of trade; TA 35 up 1.30%",
+      "title": "MongoDB options analysis: cautious hedging, not a collapse bet",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Dorian LPG stock hits all-time high at 52.11 USD",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9359,
+      "score": 0.5041,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Scorpio Gold trading halt imposed in error, resumes trading",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US government backs OpenAI in New York Times copyright case",
+      "title": "Star Bulk Carriers Corp stock hits 52-week high at $31.82",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5162,
+      "label": "bullish",
+      "score": 0.5902,
       "currencies": []
     },
     {
-      "title": "Jefferies sees bottlenecks in critical minerals as electrification demand builds",
+      "title": "Wall Street rises on Dell, Nvidia boost and a let up in oil prices, yields",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7667,
-      "currencies": []
-    },
-    {
-      "title": "US crude oil inventories drop 4.5 million barrels last week",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9721,
-      "currencies": []
-    },
-    {
-      "title": "Greece stocks lower at close of trade; Athens General Composite down 0.32%",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.969,
+      "label": "bullish",
+      "score": 0.9031,
       "currencies": []
     }
   ],

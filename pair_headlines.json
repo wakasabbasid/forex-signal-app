@@ -1,32 +1,32 @@
 {
   "run_id": 1,
   "pairs": {
-    "EUR/USD": [
-      {
-        "title": "EUR/USD Forex Signal 02/09: Bears Eye a Break Below 1.1574 - DailyForex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.7452
-      },
-      {
-        "title": "Forex Seasonality \u2013 September 2026: Can EUR/USD Extend its Gains to Three Straight Months? - FOREX.com",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.6449
-      }
-    ],
     "USD/JPY": [
       {
-        "title": "Banks mobilise USD 127.23 billion in deposits from Indian diaspora: RBI - ThePrint",
+        "title": "USD/JPY Forecast: Can BOJ Expectations Continue to Support the Yen? - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "The USD is mixed vs the EURUSD, USDJPY and GBPUSD.  What traders should eye technically?",
-        "source": "ForexLive",
+        "title": "USD/JPY Forecast: Can BOJ Expectations Continue to Support the Yen? - City Index UK",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.7271
+      },
+      {
+        "title": "Dorian LPG stock hits all-time high at 52.11 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.5041
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/USD Forex Signal 02/09: Bears Eye a Break Below 1.1574 - dailyforex.com",
+        "source": "Google News",
         "label": "bearish",
-        "score": -0.4922
+        "score": -0.6368
       }
     ],
     "NZD/USD": [
@@ -39,10 +39,10 @@
     ],
     "GBP/USD": [
       {
-        "title": "GBP/USD Signal 02/09: UK Bond Yields and Macro Risks Rise - DailyForex",
+        "title": "GBP/USD Signal 02/09: UK Bond Yields and Macro Risks Rise - dailyforex.com",
         "source": "Google News",
-        "label": "bearish",
-        "score": -0.5095
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }
