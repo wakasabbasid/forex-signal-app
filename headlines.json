@@ -8,24 +8,78 @@
       "currencies": []
     },
     {
-      "title": "Salida man accused of defrauding investors of $2.7M in foreign currency scheme - Modesto Bee",
+      "title": "Forex Seasonality \u2013 September 2026: Can EUR/USD Extend its Gains to Three Straight Months? - FOREX.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.5814,
-      "currencies": []
+      "label": "bullish",
+      "score": 0.6449,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
     },
     {
-      "title": "Euroclear and HSBC to launch automated FX service - Euroclear",
+      "title": "USD/JPY stumbles lower after brief trip to near five-week highs earlier in the day - investingLive",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
+      "label": "bearish",
+      "score": -0.9587,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
     },
     {
       "title": "India Rupee at Two-Month High as Central Bank Supports Currency - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "NZD/USD falls on dovish RBNZ rate hike - FXCM Markets",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.922,
+      "currencies": [
+        "NZD",
+        "USD"
+      ]
+    },
+    {
+      "title": "AUD/USD Signal: Drops to Key Support as Australia GDP Beats Estimates - DailyForex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.965,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
+    },
+    {
+      "title": "Bessent: Yen Moves \u2018Pretty Contained,\u2019 No Disorderly Action Seen - CryptoRank",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "The Fed Just Changed Everything: What It Means for Your Forex Trades - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Peso hits fourth straight record low - Inquirer.net",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7994,
+      "currencies": []
+    },
+    {
+      "title": "Swiss Franc Gains as Markets Discount Near-Term Fed Hike - TradingPedia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.692,
       "currencies": []
     },
     {
@@ -47,104 +101,59 @@
       ]
     },
     {
-      "title": "Dollar holds near two-week high as JOLTS data keeps Fed hike bets alive - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Bessent: Yen Moves \u2018Pretty Contained,\u2019 No Disorderly Action Seen - CryptoRank",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
-      "currencies": []
-    },
-    {
-      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "India's forex reserves climb past $700 billion on robust inflows - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8728,
-      "currencies": []
-    },
-    {
-      "title": "Forex Pairs in Focus: USD/CAD Rallies as Wheat and Soybeans Break Out - DailyForex",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8414,
-      "currencies": [
-        "USD",
-        "CAD"
-      ]
-    },
-    {
-      "title": "Dollar steadies near two-week high as Middle East hostilities lift oil",
+      "title": "Glenstone offer for Alternative Income REIT gets 2.25% acceptance",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6982,
+      "score": 0.5826,
       "currencies": []
     },
     {
-      "title": "Why is Seres stock sliding today?",
+      "title": "Bank of Canada set to hold rates as strong growth collides with trade risks",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9334,
+      "score": -0.5107,
       "currencies": []
     },
     {
-      "title": "CATL falls to 6-month low after Hungary plant halted over worker nickel exposure",
+      "title": "Trump pledged fiscal restraint. Instead, debt tops $40 trillion as borrowing costs rise",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9619,
+      "score": -0.6863,
       "currencies": []
     },
     {
-      "title": "Analysis-No shortage of culprits in panic over long US Treasury yields",
+      "title": "Why is Universe Pharmaceuticals stock up 22% today?",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6114,
+      "label": "bullish",
+      "score": 0.8644,
       "currencies": []
     },
     {
-      "title": "The history of financing America, in six crisis episodes",
+      "title": "BofA cuts Credo Tech stock price target on valuation reset",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Asian markets tumble as US-Iran fighting lifts oil and bond yields",
+      "title": "BofA raises MiniMed stock price target to $28 on FDA submission",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "BofA raises GitLab stock price target to $54 on strong results",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8844,
+      "currencies": []
+    },
+    {
+      "title": "Analysis-Rising Treasury yields could rattle US stocks as earnings season ends",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9516,
-      "currencies": []
-    },
-    {
-      "title": "US, Australia commit $580 million in support for Pacific Islands",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8692,
-      "currencies": []
-    },
-    {
-      "title": "Nikkei 225 teeters above 61.8% Fib support: Live levels",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6128,
+      "score": -0.8715,
       "currencies": []
     }
   ],
