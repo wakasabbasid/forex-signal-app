@@ -8,14 +8,11 @@
       "currencies": []
     },
     {
-      "title": "Forex Seasonality \u2013 September 2026: Can EUR/USD Extend its Gains to Three Straight Months? - FOREX.com",
+      "title": "Salida man accused of defrauding investors of $2.7M in foreign currency scheme - Modesto Bee",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.6449,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
+      "label": "bearish",
+      "score": -0.5814,
+      "currencies": []
     },
     {
       "title": "Euroclear and HSBC to launch automated FX service - Euroclear",
@@ -25,58 +22,7 @@
       "currencies": []
     },
     {
-      "title": "Salida man accused of defrauding investors of $2.7M in foreign currency scheme - Modesto Bee",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5814,
-      "currencies": []
-    },
-    {
-      "title": "USD/MXN 31/08: Is the Market\u2019s Recent Calm Starting to Fade? - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Bessent: Yen Moves \u2018Pretty Contained,\u2019 No Disorderly Action Seen - CryptoRank",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "The Fed Just Changed Everything: What It Means for Your Forex Trades - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Iran says it has enough foreign currency despite US sanctions - Dawn",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6624,
-      "currencies": []
-    },
-    {
-      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "The dollar rises and attention turns to US employment data - \u0627\u0644\u0645\u062a\u062f\u0627\u0648\u0644 \u0627\u0644\u0639\u0631\u0628\u064a",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "How Malawi\u2019s forex crisis disrupts everyday life | D+C - Development + Cooperation - dandc.eu",
+      "title": "India Rupee at Two-Month High as Central Bank Supports Currency - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -92,59 +38,113 @@
       ]
     },
     {
-      "title": "Earnings call transcript: Dell beats Q2 2027 estimates, shares rebound after hours",
+      "title": "USD/MXN 31/08: Is the Market\u2019s Recent Calm Starting to Fade? - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Dollar holds near two-week high as JOLTS data keeps Fed hike bets alive - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Bessent: Yen Moves \u2018Pretty Contained,\u2019 No Disorderly Action Seen - CryptoRank",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9371,
+      "currencies": []
+    },
+    {
+      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "India's forex reserves climb past $700 billion on robust inflows - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8728,
+      "currencies": []
+    },
+    {
+      "title": "Forex Pairs in Focus: USD/CAD Rallies as Wheat and Soybeans Break Out - DailyForex",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8414,
+      "currencies": [
+        "USD",
+        "CAD"
+      ]
+    },
+    {
+      "title": "Dollar steadies near two-week high as Middle East hostilities lift oil",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.896,
+      "score": 0.6982,
       "currencies": []
     },
     {
-      "title": "+89%, +46%, these stocks are out of our AI-picks for September - See what\u2019s in",
+      "title": "Why is Seres stock sliding today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9334,
+      "currencies": []
+    },
+    {
+      "title": "CATL falls to 6-month low after Hungary plant halted over worker nickel exposure",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9619,
+      "currencies": []
+    },
+    {
+      "title": "Analysis-No shortage of culprits in panic over long US Treasury yields",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6114,
+      "currencies": []
+    },
+    {
+      "title": "The history of financing America, in six crisis episodes",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Adecoagro completes acquisition of Caarap\u00f3 mill for $136M",
+      "title": "Asian markets tumble as US-Iran fighting lifts oil and bond yields",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9516,
       "currencies": []
     },
     {
-      "title": "Guidewire CEO Michael Rosenbaum sells $245,328 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Slb CEO Le Peuch sells $2.1m in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Palo Alto Networks Q4 FY2026 slides: record growth, margin concerns",
+      "title": "US, Australia commit $580 million in support for Pacific Islands",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6477,
+      "score": 0.8692,
       "currencies": []
     },
     {
-      "title": "Five9 president Andy Dignan sells $622k in company stock",
+      "title": "Nikkei 225 teeters above 61.8% Fib support: Live levels",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Medalist Diversified CFO Winn buys $120 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.6128,
       "currencies": []
     }
   ],

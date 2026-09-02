@@ -1,27 +1,7 @@
 {
   "run_id": 1,
   "pairs": {
-    "EUR/USD": [
-      {
-        "title": "Forex Seasonality \u2013 September 2026: Can EUR/USD Extend its Gains to Three Straight Months? - FOREX.com",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.6449
-      },
-      {
-        "title": "EUR/USD Price Forecast: 200-day SMA caps Euro as Dollar firms",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
     "USD/JPY": [
-      {
-        "title": "USD/MXN 31/08: Is the Market\u2019s Recent Calm Starting to Fade? - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
       {
         "title": "USD/MXN Forecast: Mexican Peso Remains Under Pressure Following Jackson Hole - FOREX.com",
         "source": "Google News",
@@ -29,22 +9,60 @@
         "score": -0.8026
       },
       {
-        "title": "USD moves to new highs vs most of the major currencies. What next for the major currency pairs?",
+        "title": "USD/MXN 31/08: Is the Market\u2019s Recent Calm Starting to Fade? - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC sets USD/ CNY mid-point today at 6.7829 (vs. estimate at 6.7238)",
         "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "Australian Dollar falls as US-Iran conflict lifts USD, GDP data eyed",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8605
-      },
-      {
-        "title": "Asia FX: KRW and MYR lead firmer profile vs USD \u2013 OCBC",
+        "title": "USD/JPY Price Forecast: Sits near late July high; bulls retain control above 160.00",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.909
+        "score": 0.8954
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD slips below $64.00 as inflation fears increase",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9719
+      }
+    ],
+    "USD/CAD": [
+      {
+        "title": "Forex Pairs in Focus: USD/CAD Rallies as Wheat and Soybeans Break Out - DailyForex",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.8414
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "AUD/USD Price Forecast: Slides to over one-week low; 0.7125 confluence holds the key",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9705
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/USD Price Forecast: Weakens below 1.1600, further consolidation cannot be ruled out",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9295
+      }
+    ],
+    "NZD/USD": [
+      {
+        "title": "NZD/USD Price Forecast: New Zealand Dollar moves little following RBNZ Breman\u2019s remarks",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.6375
       }
     ]
   }
