@@ -1,7 +1,28 @@
 {
   "headlines": [
     {
-      "title": "BREAKING NEWS: Japan remains on high alert over forex moves: top currency diplomat - Japan Wire by Kyodo News",
+      "title": "Japan remains on high alert over forex moves: top currency diplomat - Japan Wire by Kyodo News",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8977,
+      "currencies": []
+    },
+    {
+      "title": "\u2018Stratospheric\u2019 $127 Billion From India\u2019s Diaspora to Aid Rupee - Bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Bank of Korea: Stablecoin Rules Spur Kimchi Premium, Curb Forex Risks - \uc870\uc120\uc77c\ubcf4",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -17,10 +38,10 @@
       ]
     },
     {
-      "title": "South Korea's Stablecoin Rules Amplify 'Kimchi Premium', Buffer Forex - \uc870\uc120\uc77c\ubcf4",
+      "title": "Lack of dollar hedging among U.S. asset holders risks fueling sell-off - The Japan Times",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9467,
       "currencies": []
     },
     {
@@ -31,28 +52,21 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: Japanese Yen extends rally, markets await US data - FXStreet",
+      "title": "AFRICA-FX- Ugandan and Ghanaian currencies seen extending losses - Reuters",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9154,
+      "currencies": []
+    },
+    {
+      "title": "Yen surges on new intervention talk, oil prices climb - France 24",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.466,
+      "score": 0.72,
       "currencies": []
     },
     {
       "title": "Aussie Dollar Gains as RBA Hike Bets Surge - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan, US agree to continue coordination on yen, Katayama says - reuters.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "NRIs Pour In $127 Billion As Reserve Bank's Dollar Scheme Beats Targets - NDTV",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -76,72 +90,56 @@
       ]
     },
     {
-      "title": "Rupee jumps 47 paise to 94.26 against US dollar in early trade - The New Indian Express",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8791,
-      "currencies": []
-    },
-    {
-      "title": "India Mobilises $127 Billion in Diaspora Deposits to Boost Forex Reserves - The Indian EYE",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8135,
-      "currencies": []
-    },
-    {
-      "title": "Why is Energizer stock sliding today?",
+      "title": "European wheat drops on Putin peace talk comments",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9162,
+      "score": -0.8991,
       "currencies": []
     },
     {
-      "title": "Cardano Climbs 10% In a Green Day",
+      "title": "OpenAI launches GPT-6 Astra for enterprise users today",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Bank of England economist says rate rise could avoid bigger hikes",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9203,
+      "score": 0.8858,
       "currencies": []
     },
     {
-      "title": "Romande Energie H1 2026 slides: EBITDA surges 38% on strong margins",
+      "title": "Thinking Machines Lab seeks $1b raise at $40b valuation - report",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9505,
+      "score": 0.8367,
       "currencies": []
     },
     {
-      "title": "Ignitis Group updates EUR 2 billion debt programme",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR"
-      ]
-    },
-    {
-      "title": "Oddity Tech options flow signals defensive positioning ahead of September earnings",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8496,
-      "currencies": []
-    },
-    {
-      "title": "Materion director Emily Liggett sells $235,210 in company stock",
+      "title": "Jobs report and average hourly earnings among economic data due Friday",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Standex (SXI) director Thomas Chorman sells $14,244 in shares",
+      "title": "Victoria\u2019s Secret earnings analysis: questions answered and next catalysts",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Energy Vault acquires land for Australia battery storage project",
+      "title": "U.S. bond market extends global rally, Fed\u2019s Waller provides some relief",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7294,
+      "currencies": []
+    },
+    {
+      "title": "CrowdStrike at Fal.Con: pushes deeper into ai-driven security",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

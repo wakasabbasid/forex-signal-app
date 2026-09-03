@@ -15,24 +15,16 @@
         "score": 0.0
       },
       {
-        "title": "Vici Properties stock hits 52-week low at 25.36 USD",
-        "source": "Investing.com",
+        "title": "USDCHF Technicals: The USDCHF is sharply lower on USD selling. What has the technicals been telling traders?",
+        "source": "ForexLive",
         "label": "bearish",
-        "score": -0.954
+        "score": -0.9328
       },
       {
         "title": "Markets react to Gov. Waller comments. Stocks higher. Yields lower, and the USD lower",
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.7535
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "Ignitis Group updates EUR 2 billion debt programme",
-        "source": "Investing.com",
-        "label": "neutral",
-        "score": 0.0
       }
     ]
   }
