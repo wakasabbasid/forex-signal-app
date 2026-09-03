@@ -1,10 +1,10 @@
 {
   "headlines": [
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - reuters.com",
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8017,
+      "score": 0.8977,
       "currencies": []
     },
     {
@@ -36,13 +36,6 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: Japanese Yen extends rally, markets await US data - FXStreet",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.466,
-      "currencies": []
-    },
-    {
       "title": "Japan top currency diplomat Mimura declines to comment on whether rate checks were made in the FX market - Forex Factory",
       "source": "Google News",
       "label": "neutral",
@@ -64,10 +57,24 @@
       "currencies": []
     },
     {
+      "title": "Yen surges on new intervention talk; oil prices climb - Japan Today",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6801,
+      "currencies": []
+    },
+    {
       "title": "Forex Is Becoming More Like Crypto Without Moving Onto a Blockchain - FX News Group",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Yen surges on new intervention talk, US stocks rally - France 24",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6999,
       "currencies": []
     },
     {
@@ -78,63 +85,56 @@
       "currencies": []
     },
     {
-      "title": "Forex market report: Currency movements and September risks - Elev8 broker - FXStreet",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "SentinelOne expands AI services with OpenAI cyber models",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8061,
-      "currencies": []
-    },
-    {
-      "title": "Elastic plans to integrate OpenAI cyber models into security platform",
+      "title": "Etsy chief product & tech officer Colburn sells $239,000 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Lululemon cuts annual revenue, profit outlook again a week before new CEO takes over",
+      "title": "Etsy executive chair Josh Silverman sells $1.1m in Etsy shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "OppFi CEO Todd Schwartz buys $25,377 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Etsy director Frederick R. Wilson sells $1.64m of Etsy stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Flex to acquire EPC Power for $4.4 billion",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Lululemon cuts outlook again, highlighting to-do list for new CEO",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9574,
+      "score": -0.7825,
       "currencies": []
     },
     {
-      "title": "Newmont president & CEO Natascha Viljoen sells $477,486 in stock",
+      "title": "Pulmonx chief science officer sells $32,192 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Mizuho cuts Intel stock price target to $92 on multiple compression",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8765,
-      "currencies": []
-    },
-    {
-      "title": "Oil prices extend weekly gains, touch their highest levels in three months",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.837,
-      "currencies": []
-    },
-    {
-      "title": "Quanex Building Products beats Q3 estimates on margin gains",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9331,
-      "currencies": []
-    },
-    {
-      "title": "Adobe names longtime exec Anil Chakravarthy CEO, Narayen shifts to executive chair",
+      "title": "Pagaya Technologies director Tami Rosen sells $29,183 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

@@ -9,18 +9,24 @@
         "score": -0.9328
       },
       {
-        "title": "Markets react to Gov. Waller comments. Stocks higher. Yields lower, and the USD lower",
-        "source": "ForexLive",
+        "title": "GBP/JPY Price Forecast: Intervention shock exposes 210.00",
+        "source": "FXStreet",
         "label": "bearish",
-        "score": -0.7535
+        "score": -0.6253
+      },
+      {
+        "title": "The Australian Dollar thanks Waller's comments, which sink the USD",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8936
       }
     ],
-    "USD/CHF": [
+    "GBP/USD": [
       {
-        "title": "USD/CHF Price Forecast: Break of 50-day SMA exposes 0.8040",
+        "title": "GBP/JPY Price Forecast: Intervention shock exposes 210.00",
         "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bearish",
+        "score": -0.6253
       }
     ]
   }
