@@ -1,6 +1,62 @@
 {
   "run_id": 1,
   "pairs": {
+    "USD/JPY": [
+      {
+        "title": "USD/JPY Forecast: Can BOJ Expectations Continue to Support the Yen? - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "USD/JPY extends fall today in drop back below 158, what's next? - investingLive",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.8553
+      },
+      {
+        "title": "USD/JPY extends fall today in drop back below 158, what's next?",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.8927
+      },
+      {
+        "title": "PBOC sets USD/ CNY reference rate for today at 6.7807 (vs. estimate at 6.7167)",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7167 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Gold bulls eye $4,450 as sliding bond yields counter Fed hike bets and undermine USD",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9359
+      },
+      {
+        "title": "EUR/JPY Price Forecast: Falls to near 183.00 near symmetrical triangle bottom",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9568
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD extends gains as US Dollar falls further, NFP comes into focus",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9095
+      },
+      {
+        "title": "NGN/USD:  Naira Set for Strongest Annual Gain Since 2018 Despite Elections",
+        "source": "Bloomberg",
+        "label": "bullish",
+        "score": 0.9411
+      }
+    ],
     "EUR/USD": [
       {
         "title": "EUR/USD Forex Signal 02/09: Bears Eye a Break Below 1.1574 - DailyForex",
@@ -9,86 +65,10 @@
         "score": -0.7452
       },
       {
-        "title": "Forex Seasonality \u2013 September 2026: Can EUR/USD Extend its Gains to Three Straight Months? - FOREX.com",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.6449
-      }
-    ],
-    "USD/JPY": [
-      {
-        "title": "USD/MXN Forecast: Mexican Peso Remains Under Pressure Following Jackson Hole - FOREX.com",
-        "source": "Google News",
+        "title": "EUR/JPY Price Forecast: Falls to near 183.00 near symmetrical triangle bottom",
+        "source": "FXStreet",
         "label": "bearish",
-        "score": -0.8026
-      },
-      {
-        "title": "USD/MXN 31/08: Is the Market\u2019s Recent Calm Starting to Fade? - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "investingLive Americas FX news wrap 2 Sept: USD mixed, stocks rise as Iran tensions simmer",
-        "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.8701
-      },
-      {
-        "title": "GBP/JPY Price Forecast: Sellers eye 214.00 after SMA break",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "NZD/USD": [
-      {
-        "title": "NZD/USD falls on dovish RBNZ rate hike - FXCM Markets",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.922
-      },
-      {
-        "title": "AUD/NZD tests key resistance after RBNZ 'sell the fact' hike and Australia GDP beat",
-        "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.5802
-      },
-      {
-        "title": "NZD/USD fell post RBNZ, 0.5890 and 0.5840 now the levels to watch",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.9678
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "AUD/NZD tests key resistance after RBNZ 'sell the fact' hike and Australia GDP beat",
-        "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.5802
-      },
-      {
-        "title": "Australian Dollar rises as soft US jobs, GDP beat lift AUD, PMIs ahead",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.6939
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "GBP/JPY Price Forecast: Sellers eye 214.00 after SMA break",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "USD/CHF": [
-      {
-        "title": "USD/CHF Price Forecast: Bulls eye 0.8200 as RSI turns higher",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8401
+        "score": -0.9568
       }
     ]
   }

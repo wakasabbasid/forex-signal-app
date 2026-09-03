@@ -1,24 +1,38 @@
 {
   "headlines": [
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "title": "Rupee gains 47 paise as record FCNR inflows boost forex liquidity - The Times of India",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8977,
+      "score": 0.8958,
       "currencies": []
     },
     {
-      "title": "EUR/USD Forex Signal 02/09: Bears Eye a Break Below 1.1574 - DailyForex",
+      "title": "India Mobilises $127 Billion in Diaspora Deposits to Boost Forex Reserves - The Indian EYE",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.7452,
+      "label": "bullish",
+      "score": 0.8135,
+      "currencies": []
+    },
+    {
+      "title": "Japan, US agree to continue coordination on yen, Katayama says - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7759,
+      "currencies": []
+    },
+    {
+      "title": "USD/JPY Forecast: Can BOJ Expectations Continue to Support the Yen? - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
-        "EUR",
-        "USD"
+        "USD",
+        "JPY"
       ]
     },
     {
-      "title": "India draws record $127 billion through forex deposits: RBI - The Times of India",
+      "title": "NRIs Pour In $127 Billion As Reserve Bank's Dollar Scheme Beats Targets - NDTV",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -32,56 +46,45 @@
       "currencies": []
     },
     {
-      "title": "USD/MXN Forecast: Mexican Peso Remains Under Pressure Following Jackson Hole - FOREX.com",
+      "title": "USD/JPY extends fall today in drop back below 158, what's next? - investingLive",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.8026,
+      "score": -0.8553,
       "currencies": [
-        "USD"
+        "USD",
+        "JPY"
       ]
     },
     {
-      "title": "Indian Rupee: Strong GDP Underpins Higher INR Yields \u2013 MUFG - CryptoRank",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9434,
-      "currencies": []
-    },
-    {
-      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "NZD/USD falls on dovish RBNZ rate hike - FXCM Markets",
+      "title": "Bank of Korea warns stablecoin market opening could sway Korea\u2019s forex - CHOSUNBIZ - Chosunbiz",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.922,
-      "currencies": [
-        "NZD",
-        "USD"
-      ]
+      "score": -0.9561,
+      "currencies": []
     },
     {
-      "title": "Forex Seasonality \u2013 September 2026: Can EUR/USD Extend its Gains to Three Straight Months? - FOREX.com",
+      "title": "EUR/USD Forex Signal 02/09: Bears Eye a Break Below 1.1574 - DailyForex",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.6449,
+      "label": "bearish",
+      "score": -0.7452,
       "currencies": [
         "EUR",
         "USD"
       ]
     },
     {
-      "title": "USD/MXN 31/08: Is the Market\u2019s Recent Calm Starting to Fade? - DailyForex",
+      "title": "RBI\u2019s forex swap draws $136.37 billion, FCNR(B) deposits drive surge - The Indian Express",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
+      "currencies": []
+    },
+    {
+      "title": "RBI Mobilizes $127B from Diaspora via Forex Swap Facility - money.rediff.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "Bessent: Yen Moves \u2018Pretty Contained,\u2019 No Disorderly Action Seen - CryptoRank",
@@ -91,66 +94,59 @@
       "currencies": []
     },
     {
-      "title": "AFRICA-FX-Ugandan and Kenyan currencies could climb, Zambia's may slide - Reuters",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6939,
+      "title": "Yen gets boost from hawkish BOJ repricing of rate expectations",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8264,
       "currencies": []
     },
     {
-      "title": "Biomerica director Gary M. Huff acquires $50,000 in BMRA stock",
+      "title": "Avalo Therapeutics CMO Mittie Doyle sells $20,000 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Australia raises capital requirements for ING\u2019s local unit after overstating liquidity position",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8907,
-      "currencies": []
-    },
-    {
-      "title": "Diversified Energy to acquire Birch for $1.8 billion",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Avalo Therapeutics CFO Sullivan sells over $1.4m in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "ThredUp COO Christopher Homer sells $155,465 of stock at $2.58",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Grindr CLO Zachary Katz sells $161,022 in GRND stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "From hunger to obesity: Developing world faces growing threat to child health",
+      "title": "India\u2019s services growth picks up in August but stays near four-year low, PMI shows",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.698,
+      "score": -0.9322,
       "currencies": []
     },
     {
-      "title": "Uber launches autonomous rides in London with Wayve AI",
+      "title": "Shares, bonds rally as markets await signals for Fed rates",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Nikkei 225 teeters above 64,006 support: Live levels",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "SK Hynix doji atop key floor as bear flag forms: Live levels",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Fast Retailing shares at near five-month low after Uniqlo August sales decline",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9574,
+      "currencies": []
+    },
+    {
+      "title": "BOJ set to hike rates further: These stocks are best-positioned for higher rates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5725,
       "currencies": []
     }
   ],
