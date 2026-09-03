@@ -3,16 +3,10 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "USD/JPY Forecast: Can BOJ Expectations Continue to Support the Yen? - FOREX.com",
+        "title": "Indian diaspora puts USD 127 billion in forex deposits under RBI scheme; total fund inflow crosses USD 136 billion - connectedtoindia.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "USD/JPY extends fall today in drop back below 158, what's next? - investingLive",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.8553
       },
       {
         "title": "USD/JPY extends fall today in drop back below 158, what's next?",
@@ -21,54 +15,38 @@
         "score": -0.8927
       },
       {
-        "title": "PBOC sets USD/ CNY reference rate for today at 6.7807 (vs. estimate at 6.7167)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7167 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Gold bulls eye $4,450 as sliding bond yields counter Fed hike bets and undermine USD",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9359
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Falls to near 183.00 near symmetrical triangle bottom",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9568
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD extends gains as US Dollar falls further, NFP comes into focus",
+        "title": "Gold Price Forecast: XAU/USD recovery, likely to be challenged around $4,470",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.9095
-      },
-      {
-        "title": "NGN/USD:  Naira Set for Strongest Annual Gain Since 2018 Despite Elections",
-        "source": "Bloomberg",
-        "label": "bullish",
-        "score": 0.9411
+        "score": 0.938
       }
     ],
     "EUR/USD": [
       {
-        "title": "EUR/USD Forex Signal 02/09: Bears Eye a Break Below 1.1574 - DailyForex",
+        "title": "EUR/USD Signal: Remains on Edge Ahead of August US NFP Report - DailyForex",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.7452
+        "score": -0.5698
       },
       {
-        "title": "EUR/JPY Price Forecast: Falls to near 183.00 near symmetrical triangle bottom",
-        "source": "FXStreet",
+        "title": "EUR/USD pulls back as hawkish Fed bets stabilise; traders await the key US CPI report",
+        "source": "ForexLive",
         "label": "bearish",
-        "score": -0.9568
+        "score": -0.6513
+      },
+      {
+        "title": "0.8600 under pressure: EUR/GBP at two-month highs following Services PMIs",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "0.8600 under pressure: EUR/GBP at two-month highs following Services PMIs",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }

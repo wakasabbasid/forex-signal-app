@@ -1,11 +1,66 @@
 {
   "headlines": [
     {
-      "title": "Rupee gains 47 paise as record FCNR inflows boost forex liquidity - The Times of India",
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8958,
+      "score": 0.8977,
       "currencies": []
+    },
+    {
+      "title": "BREAKING NEWS: Japan remains on high alert over forex moves: top currency diplomat - Japan Wire by Kyodo News",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "\u2018Stratospheric\u2019 $127 Billion From India\u2019s Diaspora to Aid Rupee - Bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Is Becoming More Like Crypto Without Moving Onto a Blockchain - FX News Group",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "South Korea's Stablecoin Rules Amplify 'Kimchi Premium', Buffer Forex - \uc870\uc120\uc77c\ubcf4",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Indian diaspora puts USD 127 billion in forex deposits under RBI scheme; total fund inflow crosses USD 136 billion - connectedtoindia.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "USD"
+      ]
+    },
+    {
+      "title": "This is Asia\u2019s best-performing currency so far in 2026 - Investing.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.4705,
+      "currencies": []
+    },
+    {
+      "title": "EUR/USD Signal: Remains on Edge Ahead of August US NFP Report - DailyForex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5698,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
     },
     {
       "title": "India Mobilises $127 Billion in Diaspora Deposits to Boost Forex Reserves - The Indian EYE",
@@ -15,138 +70,80 @@
       "currencies": []
     },
     {
-      "title": "Japan, US agree to continue coordination on yen, Katayama says - Reuters",
+      "title": "India draws record $127 billion through forex deposits: RBI - The Times of India",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japan FX chief Mimura says on alert over yen moves, not reassured - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Rupee jumps 47 paise to 94.26 against U.S. dollar in early trade - The Hindu",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.7759,
+      "score": 0.8742,
       "currencies": []
     },
     {
-      "title": "USD/JPY Forecast: Can BOJ Expectations Continue to Support the Yen? - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
-      "title": "NRIs Pour In $127 Billion As Reserve Bank's Dollar Scheme Beats Targets - NDTV",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Understanding Real-Time Forex Charts for Informed Trading Decisions - finchannel",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "USD/JPY extends fall today in drop back below 158, what's next? - investingLive",
-      "source": "Google News",
+      "title": "US judge bars EPA effort to send California vehicle emissions rules to Congress",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8553,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
-      "title": "Bank of Korea warns stablecoin market opening could sway Korea\u2019s forex - CHOSUNBIZ - Chosunbiz",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9561,
+      "score": -0.6124,
       "currencies": []
     },
     {
-      "title": "EUR/USD Forex Signal 02/09: Bears Eye a Break Below 1.1574 - DailyForex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7452,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "RBI\u2019s forex swap draws $136.37 billion, FCNR(B) deposits drive surge - The Indian Express",
-      "source": "Google News",
+      "title": "Why is Legrand stock climbing today?",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "RBI Mobilizes $127B from Diaspora via Forex Swap Facility - money.rediff.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Bessent: Yen Moves \u2018Pretty Contained,\u2019 No Disorderly Action Seen - CryptoRank",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Yen gets boost from hawkish BOJ repricing of rate expectations",
+      "title": "Marti reaches 4.9 million riders, sets year-end targets",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8264,
+      "score": 0.8537,
       "currencies": []
     },
     {
-      "title": "Avalo Therapeutics CMO Mittie Doyle sells $20,000 in stock",
+      "title": "American Healthcare REIT acquires 8 senior housing communities for $696m",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "India\u2019s services growth picks up in August but stays near four-year low, PMI shows",
+      "title": "Cango\u2019s AI unit begins GPU compute services at Georgia facility",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why is Intercos stock dropping today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9322,
+      "score": -0.9223,
       "currencies": []
     },
     {
-      "title": "Shares, bonds rally as markets await signals for Fed rates",
+      "title": "Mkango subsidiary files amended F-4 for SPAC merger with CPTK",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Nikkei 225 teeters above 64,006 support: Live levels",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "SK Hynix doji atop key floor as bear flag forms: Live levels",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Fast Retailing shares at near five-month low after Uniqlo August sales decline",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9574,
-      "currencies": []
-    },
-    {
-      "title": "BOJ set to hike rates further: These stocks are best-positioned for higher rates",
+      "title": "Impala Platinum FY2026 slides: stellar profit growth, reserves surge 9%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5725,
+      "score": 0.9527,
       "currencies": []
     }
   ],
