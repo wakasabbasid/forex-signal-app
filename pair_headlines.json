@@ -3,48 +3,34 @@
   "pairs": {
     "USD/JPY": [
       {
+        "title": "USD/BRL Forecast 03/09: Can the Pair Hold Below 5.10? - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
         "title": "Indian diaspora puts USD 127 billion in forex deposits under RBI scheme; total fund inflow crosses USD 136 billion - connectedtoindia.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "USD/JPY extends fall today in drop back below 158, what's next?",
-        "source": "ForexLive",
+        "title": "Vici Properties stock hits 52-week low at 25.36 USD",
+        "source": "Investing.com",
         "label": "bearish",
-        "score": -0.8927
+        "score": -0.954
       },
       {
-        "title": "Gold Price Forecast: XAU/USD recovery, likely to be challenged around $4,470",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.938
+        "title": "Markets react to Gov. Waller comments. Stocks higher. Yields lower, and the USD lower",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.7535
       }
     ],
     "EUR/USD": [
       {
-        "title": "EUR/USD Signal: Remains on Edge Ahead of August US NFP Report - DailyForex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.5698
-      },
-      {
-        "title": "EUR/USD pulls back as hawkish Fed bets stabilise; traders await the key US CPI report",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.6513
-      },
-      {
-        "title": "0.8600 under pressure: EUR/GBP at two-month highs following Services PMIs",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "0.8600 under pressure: EUR/GBP at two-month highs following Services PMIs",
-        "source": "FXStreet",
+        "title": "Ignitis Group updates EUR 2 billion debt programme",
+        "source": "Investing.com",
         "label": "neutral",
         "score": 0.0
       }

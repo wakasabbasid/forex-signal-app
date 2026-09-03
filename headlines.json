@@ -1,13 +1,6 @@
 {
   "headlines": [
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8977,
-      "currencies": []
-    },
-    {
       "title": "BREAKING NEWS: Japan remains on high alert over forex moves: top currency diplomat - Japan Wire by Kyodo News",
       "source": "Google News",
       "label": "neutral",
@@ -15,24 +8,61 @@
       "currencies": []
     },
     {
-      "title": "\u2018Stratospheric\u2019 $127 Billion From India\u2019s Diaspora to Aid Rupee - Bloomberg.com",
+      "title": "USD/BRL Forecast 03/09: Can the Pair Hold Below 5.10? - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Is Becoming More Like Crypto Without Moving Onto a Blockchain - FX News Group",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "South Korea's Stablecoin Rules Amplify 'Kimchi Premium', Buffer Forex - \uc870\uc120\uc77c\ubcf4",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japan\u2019s currency diplomat warns of ongoing yen market concerns - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: Japanese Yen extends rally, markets await US data - FXStreet",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.466,
+      "currencies": []
+    },
+    {
+      "title": "Aussie Dollar Gains as RBA Hike Bets Surge - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japan, US agree to continue coordination on yen, Katayama says - reuters.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "NRIs Pour In $127 Billion As Reserve Bank's Dollar Scheme Beats Targets - NDTV",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Indian Rupee Hits Two-Month High, $136.38 Billion Forex Inflow Boosts Central Bank Flexibility - finance.biggo.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7327,
       "currencies": []
     },
     {
@@ -46,21 +76,11 @@
       ]
     },
     {
-      "title": "This is Asia\u2019s best-performing currency so far in 2026 - Investing.com",
+      "title": "Rupee jumps 47 paise to 94.26 against US dollar in early trade - The New Indian Express",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.4705,
+      "score": 0.8791,
       "currencies": []
-    },
-    {
-      "title": "EUR/USD Signal: Remains on Edge Ahead of August US NFP Report - DailyForex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5698,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
     },
     {
       "title": "India Mobilises $127 Billion in Diaspora Deposits to Boost Forex Reserves - The Indian EYE",
@@ -70,80 +90,61 @@
       "currencies": []
     },
     {
-      "title": "India draws record $127 billion through forex deposits: RBI - The Times of India",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan FX chief Mimura says on alert over yen moves, not reassured - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Rupee jumps 47 paise to 94.26 against U.S. dollar in early trade - The Hindu",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8742,
-      "currencies": []
-    },
-    {
-      "title": "US judge bars EPA effort to send California vehicle emissions rules to Congress",
+      "title": "Why is Energizer stock sliding today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6124,
+      "score": -0.9162,
       "currencies": []
     },
     {
-      "title": "Why is Legrand stock climbing today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Marti reaches 4.9 million riders, sets year-end targets",
+      "title": "Cardano Climbs 10% In a Green Day",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8537,
+      "score": 0.9203,
       "currencies": []
     },
     {
-      "title": "American Healthcare REIT acquires 8 senior housing communities for $696m",
+      "title": "Romande Energie H1 2026 slides: EBITDA surges 38% on strong margins",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9505,
+      "currencies": []
+    },
+    {
+      "title": "Ignitis Group updates EUR 2 billion debt programme",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "EUR"
+      ]
     },
     {
-      "title": "Cango\u2019s AI unit begins GPU compute services at Georgia facility",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is Intercos stock dropping today?",
+      "title": "Oddity Tech options flow signals defensive positioning ahead of September earnings",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9223,
+      "score": -0.8496,
       "currencies": []
     },
     {
-      "title": "Mkango subsidiary files amended F-4 for SPAC merger with CPTK",
+      "title": "Materion director Emily Liggett sells $235,210 in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Impala Platinum FY2026 slides: stellar profit growth, reserves surge 9%",
+      "title": "Standex (SXI) director Thomas Chorman sells $14,244 in shares",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9527,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Energy Vault acquires land for Australia battery storage project",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
