@@ -1,6 +1,34 @@
 {
   "headlines": [
     {
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - reuters.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8017,
+      "currencies": []
+    },
+    {
+      "title": "\u2018Stratospheric\u2019 $127 Billion From India\u2019s Diaspora to Aid Rupee - Bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "NRIs Pour In $127 Billion As Reserve Bank's Dollar Scheme Beats Targets - NDTV",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Rupee gains 47 paise as record FCNR inflows boost forex liquidity - The Times of India",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8958,
+      "currencies": []
+    },
+    {
       "title": "Japan remains on high alert over forex moves: top currency diplomat - Japan Wire by Kyodo News",
       "source": "Google News",
       "label": "neutral",
@@ -8,14 +36,21 @@
       "currencies": []
     },
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "title": "Forex Today: Japanese Yen extends rally, markets await US data - FXStreet",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8977,
+      "score": 0.466,
       "currencies": []
     },
     {
-      "title": "\u2018Stratospheric\u2019 $127 Billion From India\u2019s Diaspora to Aid Rupee - Bloomberg.com",
+      "title": "Japan top currency diplomat Mimura declines to comment on whether rate checks were made in the FX market - Forex Factory",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "India draws record $127 billion through forex deposits: RBI - The Times of India",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -29,13 +64,11 @@
       "currencies": []
     },
     {
-      "title": "USD/BRL Forecast 03/09: Can the Pair Hold Below 5.10? - DailyForex",
+      "title": "Forex Is Becoming More Like Crypto Without Moving Onto a Blockchain - FX News Group",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
+      "currencies": []
     },
     {
       "title": "Lack of dollar hedging among U.S. asset holders risks fueling sell-off - The Japan Times",
@@ -45,101 +78,63 @@
       "currencies": []
     },
     {
-      "title": "Japan\u2019s currency diplomat warns of ongoing yen market concerns - Investing.com",
+      "title": "Forex market report: Currency movements and September risks - Elev8 broker - FXStreet",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "AFRICA-FX- Ugandan and Ghanaian currencies seen extending losses - Reuters",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9154,
-      "currencies": []
-    },
-    {
-      "title": "Yen surges on new intervention talk, oil prices climb - France 24",
-      "source": "Google News",
+      "title": "SentinelOne expands AI services with OpenAI cyber models",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.72,
+      "score": 0.8061,
       "currencies": []
     },
     {
-      "title": "Aussie Dollar Gains as RBA Hike Bets Surge - FOREX.com",
-      "source": "Google News",
+      "title": "Elastic plans to integrate OpenAI cyber models into security platform",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Indian Rupee Hits Two-Month High, $136.38 Billion Forex Inflow Boosts Central Bank Flexibility - finance.biggo.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7327,
-      "currencies": []
-    },
-    {
-      "title": "Indian diaspora puts USD 127 billion in forex deposits under RBI scheme; total fund inflow crosses USD 136 billion - connectedtoindia.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "USD"
-      ]
-    },
-    {
-      "title": "European wheat drops on Putin peace talk comments",
+      "title": "Lululemon cuts annual revenue, profit outlook again a week before new CEO takes over",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8991,
+      "score": -0.9574,
       "currencies": []
     },
     {
-      "title": "OpenAI launches GPT-6 Astra for enterprise users today",
+      "title": "Newmont president & CEO Natascha Viljoen sells $477,486 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Bank of England economist says rate rise could avoid bigger hikes",
+      "title": "Mizuho cuts Intel stock price target to $92 on multiple compression",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8765,
+      "currencies": []
+    },
+    {
+      "title": "Oil prices extend weekly gains, touch their highest levels in three months",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8858,
+      "score": 0.837,
       "currencies": []
     },
     {
-      "title": "Thinking Machines Lab seeks $1b raise at $40b valuation - report",
+      "title": "Quanex Building Products beats Q3 estimates on margin gains",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8367,
+      "score": 0.9331,
       "currencies": []
     },
     {
-      "title": "Jobs report and average hourly earnings among economic data due Friday",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Victoria\u2019s Secret earnings analysis: questions answered and next catalysts",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "U.S. bond market extends global rally, Fed\u2019s Waller provides some relief",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7294,
-      "currencies": []
-    },
-    {
-      "title": "CrowdStrike at Fal.Con: pushes deeper into ai-driven security",
+      "title": "Adobe names longtime exec Anil Chakravarthy CEO, Narayen shifts to executive chair",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

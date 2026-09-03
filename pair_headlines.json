@@ -3,18 +3,6 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "USD/BRL Forecast 03/09: Can the Pair Hold Below 5.10? - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Indian diaspora puts USD 127 billion in forex deposits under RBI scheme; total fund inflow crosses USD 136 billion - connectedtoindia.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
         "title": "USDCHF Technicals: The USDCHF is sharply lower on USD selling. What has the technicals been telling traders?",
         "source": "ForexLive",
         "label": "bearish",
@@ -25,6 +13,14 @@
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.7535
+      }
+    ],
+    "USD/CHF": [
+      {
+        "title": "USD/CHF Price Forecast: Break of 50-day SMA exposes 0.8040",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }
