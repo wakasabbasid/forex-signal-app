@@ -8,14 +8,11 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD forecast: Trump loses grip on markets amid re-escalation of tensions | Forex Friday - stonex.com",
+      "title": "Forex Is Becoming More Like Crypto Without Moving Onto a Blockchain - fxnewsgroup.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.8728,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "\u2018Stratospheric\u2019 $127 Billion From India\u2019s Diaspora to Aid Rupee - Bloomberg.com",
@@ -25,124 +22,122 @@
       "currencies": []
     },
     {
-      "title": "USD/CAD Analysis: Can the Canadian Dollar Maintain Its Momentum? - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "CAD"
-      ]
-    },
-    {
-      "title": "Japan remains on high alert over forex moves: top currency diplomat - \u6bce\u65e5\u65b0\u805e",
+      "title": "Japan remains on high alert over forex moves: top currency diplomat - Japan Wire by Kyodo News",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Trade Forex without currency hassles? Discover TradingPRO's IDR Account - FXStreet",
+      "title": "Rupee gains 47 paise as record FCNR inflows boost forex liquidity - The Times of India",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8958,
+      "currencies": []
+    },
+    {
+      "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28 - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9121,
+      "currencies": []
+    },
+    {
+      "title": "Indian banks pitch FX sell/buy swaps to drain surplus liquidity, sources say - Reuters",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7298,
+      "currencies": []
+    },
+    {
+      "title": "India draws record $127 billion through forex deposits: RBI - The Times of India",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "USD/BRL Forecast 03/09: Can the Pair Hold Below 5.10? - DailyForex",
+      "title": "\u2018Forex, trade policies must be reviewed in line with current conditions\u2019 - tehrantimes.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "SPAYZ.io brings Africa\u2019s payment growth story to Forex Expo Dubai 2026 - finance.yahoo.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Seasonality \u2013 September 2026: Can EUR/USD Extend its Gains to Three Straight Months? - stonex.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5648,
       "currencies": [
+        "EUR",
         "USD"
       ]
     },
     {
-      "title": "Yen surges on new intervention talk; oil prices climb - Japan Today",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6801,
-      "currencies": []
-    },
-    {
-      "title": "Iran says it has enough foreign currency despite US sanctions By Reuters - Investing.com",
+      "title": "How India built a record forex shield amid the US-Iran war - The Times of India",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Salida man accused of defrauding investors of $2.7M in foreign currency scheme - Modesto Bee",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5814,
-      "currencies": []
-    },
-    {
-      "title": "FOREX-Yen set for strongest week in a month, dollar steady ahead of US jobs data - Devdiscourse",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.536,
-      "currencies": []
-    },
-    {
-      "title": "AFRICA-FX- Ugandan and Ghanaian currencies seen extending losses - Reuters",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9154,
-      "currencies": []
-    },
-    {
-      "title": "Exclusive-China\u2019s Xi to bring large CEO delegation on US visit, sources say",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5116,
-      "currencies": []
-    },
-    {
-      "title": "BofA double upgrades Renishaw as demand upcycle proves stronger than expected",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9517,
-      "currencies": []
-    },
-    {
-      "title": "Brazil\u2019s richest captured record income share despite Lula\u2019s effort to prioritize the poor",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8805,
-      "currencies": []
-    },
-    {
-      "title": "Morning Bid: Bonds\u2019 reality check",
+      "title": "US opens probe into Tesla Cybercab compliance with federal safety rules",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Oil rallies for the week as\u00a0U.S.-Iran fighting resumes; diesel hits record high",
+      "title": "DA Davidson reiterates JFrog stock rating on security demand",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "DA Davidson cuts Broadcom stock price target on guidance concerns",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Freedom Broker upgrades Argan stock rating on strong project execution",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8326,
+      "score": 0.9462,
       "currencies": []
     },
     {
-      "title": "Mizuho cuts Chewy stock price target on growth concerns",
+      "title": "DA Davidson raises Asana stock price target on revenue beat",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6733,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Dhoot Transmission posts 50% revenue growth in Q1 2027",
+      "title": "DA Davidson cuts Phreesia stock price target on revenue assumptions",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8844,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Invesco Markets III declares dividends for 11 ETFs",
+      "title": "DA Davidson maintains UiPath stock rating on stable growth outlook",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "DA Davidson reiterates Guidewire stock Buy rating on solid Q4 beat",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

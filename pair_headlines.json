@@ -3,44 +3,24 @@
   "pairs": {
     "EUR/USD": [
       {
-        "title": "EUR/USD forecast: Trump loses grip on markets amid re-escalation of tensions | Forex Friday - stonex.com",
+        "title": "Forex Seasonality \u2013 September 2026: Can EUR/USD Extend its Gains to Three Straight Months? - stonex.com",
         "source": "Google News",
-        "label": "bearish",
-        "score": -0.8728
-      }
-    ],
-    "USD/CAD": [
-      {
-        "title": "USD/CAD Analysis: Can the Canadian Dollar Maintain Its Momentum? - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bullish",
+        "score": 0.5648
       }
     ],
     "USD/JPY": [
       {
-        "title": "USD/BRL Forecast 03/09: Can the Pair Hold Below 5.10? - DailyForex",
-        "source": "Google News",
+        "title": "USD Technicals: US dollar has a mixed reaction to blockbuster US jobs report.",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.9123
+      },
+      {
+        "title": "USD Technical Analysis:What levels are in play for the EURUSD, USDJPY & GBPUSD ahead of the jobs data?",
+        "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "USD/JPY bounces near the major 155.00 support; pullback or the start of a rally into new highs?",
-        "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.6245
-      },
-      {
-        "title": "JPMorgan flags a $103 bn yen short position, unwind could push USD/JPY to 142",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.9455
-      },
-      {
-        "title": "Gold Price Forecast: XAU/USD recovery stalls below $4.500 awaiting US Nonfarm Payrolls",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8626
       }
     ]
   }
