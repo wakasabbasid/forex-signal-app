@@ -1,17 +1,17 @@
 {
   "headlines": [
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8977,
-      "currencies": []
-    },
-    {
-      "title": "Forex Is Becoming More Like Crypto Without Moving Onto a Blockchain - fxnewsgroup.com",
+      "title": "Forex Is Becoming More Like Crypto Without Moving Onto a Blockchain - FX News Group",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28 - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9121,
       "currencies": []
     },
     {
@@ -36,10 +36,17 @@
       "currencies": []
     },
     {
-      "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28 - Reuters",
+      "title": "Forex Today: Japanese Yen extends rally, markets await US data - FXStreet",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9121,
+      "score": 0.466,
+      "currencies": []
+    },
+    {
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8977,
       "currencies": []
     },
     {
@@ -57,7 +64,14 @@
       "currencies": []
     },
     {
-      "title": "\u2018Forex, trade policies must be reviewed in line with current conditions\u2019 - tehrantimes.com",
+      "title": "Central Bank Chief Claims No Severe Forex Deficit Despite Rial Collapse - IranWire",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5553,
+      "currencies": []
+    },
+    {
+      "title": "\u2018Forex, trade policies must be reviewed in line with current conditions\u2019 - Tehran Times",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -71,76 +85,59 @@
       "currencies": []
     },
     {
-      "title": "Forex Seasonality \u2013 September 2026: Can EUR/USD Extend its Gains to Three Straight Months? - stonex.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5648,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "How India built a record forex shield amid the US-Iran war - The Times of India",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US opens probe into Tesla Cybercab compliance with federal safety rules",
+      "title": "Tesla, KLAC among market cap stock movers on Friday",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "DA Davidson reiterates JFrog stock rating on security demand",
+      "title": "HP unveils AI-powered OmniBook laptops and OmniDesk desktop",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "DA Davidson cuts Broadcom stock price target on guidance concerns",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Freedom Broker upgrades Argan stock rating on strong project execution",
+      "title": "AMC options flow shows strong call bias with $3 strike as near-term target",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9462,
+      "score": 0.8876,
       "currencies": []
     },
     {
-      "title": "DA Davidson raises Asana stock price target on revenue beat",
+      "title": "TradeQuo Launches Weekend Gold Trading, Expanding XAUUSD Market Access Beyond Traditional Hours",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8952,
+      "currencies": []
+    },
+    {
+      "title": "Strong job gains signal Fed hike as Trump levels new rate-cut demand",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.711,
+      "currencies": []
+    },
+    {
+      "title": "Top Leisure Hotel Stocks According to WarrenAI Rankings",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "DA Davidson cuts Phreesia stock price target on revenue assumptions",
+      "title": "Lululemon stock price target cut to $115 by Freedom Broker on weak quarter",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.935,
       "currencies": []
     },
     {
-      "title": "DA Davidson maintains UiPath stock rating on stable growth outlook",
+      "title": "US energy rig count holds steady for second week, Baker Hughes says",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "DA Davidson reiterates Guidewire stock Buy rating on solid Q4 beat",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.4578,
       "currencies": []
     }
   ],
