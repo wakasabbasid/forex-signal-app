@@ -7,34 +7,6 @@
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.9123
-      },
-      {
-        "title": "USD Technical Analysis:What levels are in play for the EURUSD, USDJPY & GBPUSD ahead of the jobs data?",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/USD Price Forecast: Euro forms potential higher low above 100-day SMA",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.5573
-      },
-      {
-        "title": "US Dollar Price Forecast: Weak ADP Hits DXY as NFP Becomes the Next Test; Key Levels for EUR/USD and GBP/USD Today",
-        "source": "Yahoo Finance",
-        "label": "bearish",
-        "score": -0.6321
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "US Dollar Price Forecast: Weak ADP Hits DXY as NFP Becomes the Next Test; Key Levels for EUR/USD and GBP/USD Today",
-        "source": "Yahoo Finance",
-        "label": "bearish",
-        "score": -0.6321
       }
     ]
   }
