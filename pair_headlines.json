@@ -1,6 +1,22 @@
 {
   "run_id": 1,
   "pairs": {
+    "EUR/USD": [
+      {
+        "title": "EUR/USD forecast: Trump loses grip on markets amid re-escalation of tensions | Forex Friday - stonex.com",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.8728
+      }
+    ],
+    "USD/CAD": [
+      {
+        "title": "USD/CAD Analysis: Can the Canadian Dollar Maintain Its Momentum? - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
     "USD/JPY": [
       {
         "title": "USD/BRL Forecast 03/09: Can the Pair Hold Below 5.10? - DailyForex",
@@ -9,10 +25,10 @@
         "score": 0.0
       },
       {
-        "title": "USD/JPY Unwind Accelerates as Suspected Intervention, Fed Hike Doubts Collide - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "title": "USD/JPY bounces near the major 155.00 support; pullback or the start of a rally into new highs?",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.6245
       },
       {
         "title": "JPMorgan flags a $103 bn yen short position, unwind could push USD/JPY to 142",
@@ -21,62 +37,10 @@
         "score": -0.9455
       },
       {
-        "title": "PBOC sets USD/ CNY reference rate for today at 6.7787 (vs. estimate at 6.7093)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7098 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Japanese Yen retreats from August highs as USD bears turn cautious ahead of US NFP",
+        "title": "Gold Price Forecast: XAU/USD recovery stalls below $4.500 awaiting US Nonfarm Payrolls",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9305
-      },
-      {
-        "title": "AUD/JPY Price Forecast: Rebounds above 112.50, while staying constrained below 100-day SMA",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8298
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Trades near 181.50 after rebounding from descending channel bottom",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8793
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD trades below $67.00 amid mixed setup as US NFP looms",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9597
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "AUD/JPY Price Forecast: Rebounds above 112.50, while staying constrained below 100-day SMA",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8298
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/JPY Price Forecast: Trades near 181.50 after rebounding from descending channel bottom",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8793
-      },
-      {
-        "title": "EUR/USD Price Forecast: Strong recovery from 100-day MA ahead of US NFP data",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9462
+        "score": -0.8626
       }
     ]
   }

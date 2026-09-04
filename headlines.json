@@ -1,11 +1,21 @@
 {
   "headlines": [
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - reuters.com",
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8017,
+      "score": 0.8977,
       "currencies": []
+    },
+    {
+      "title": "EUR/USD forecast: Trump loses grip on markets amid re-escalation of tensions | Forex Friday - stonex.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8728,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
     },
     {
       "title": "\u2018Stratospheric\u2019 $127 Billion From India\u2019s Diaspora to Aid Rupee - Bloomberg.com",
@@ -15,42 +25,24 @@
       "currencies": []
     },
     {
-      "title": "NRIs Pour In $127 Billion As Reserve Bank's Dollar Scheme Beats Targets - NDTV",
+      "title": "USD/CAD Analysis: Can the Canadian Dollar Maintain Its Momentum? - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Rupee gains 47 paise as record FCNR inflows boost forex liquidity - The Times of India",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8958,
-      "currencies": []
-    },
-    {
-      "title": "Japan remains on high alert over forex moves: top currency diplomat - Japan Wire by Kyodo News",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan top currency diplomat Mimura declines to comment on whether rate checks were made in the FX market - Forex Factory",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "India draws record $127 billion through forex deposits: RBI - The Times of India",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "USD",
+        "CAD"
+      ]
     },
     {
       "title": "Japan remains on high alert over forex moves: top currency diplomat - \u6bce\u65e5\u65b0\u805e",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Trade Forex without currency hassles? Discover TradingPRO's IDR Account - FXStreet",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -66,80 +58,91 @@
       ]
     },
     {
-      "title": "Bank of Korea: Stablecoin Rules Curb Forex Risks Despite Premium - \uc870\uc120\uc77c\ubcf4",
+      "title": "Yen surges on new intervention talk; oil prices climb - Japan Today",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6801,
+      "currencies": []
+    },
+    {
+      "title": "Iran says it has enough foreign currency despite US sanctions By Reuters - Investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Yen surges on new intervention talk; oil prices climb - japantoday.com",
+      "title": "Salida man accused of defrauding investors of $2.7M in foreign currency scheme - Modesto Bee",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5814,
+      "currencies": []
+    },
+    {
+      "title": "FOREX-Yen set for strongest week in a month, dollar steady ahead of US jobs data - Devdiscourse",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.4554,
+      "score": 0.536,
       "currencies": []
     },
     {
-      "title": "USD/JPY Unwind Accelerates as Suspected Intervention, Fed Hike Doubts Collide - FOREX.com",
+      "title": "AFRICA-FX- Ugandan and Ghanaian currencies seen extending losses - Reuters",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
-      "title": "Two people pulled alive from Nepal hydropower tunnel",
-      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7238,
+      "score": -0.9154,
       "currencies": []
     },
     {
-      "title": "China\u2019s Longfor says it has enough funds to repay loans, shares surge",
+      "title": "Exclusive-China\u2019s Xi to bring large CEO delegation on US visit, sources say",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7249,
+      "score": 0.5116,
       "currencies": []
     },
     {
-      "title": "Top India Stock Picks From Jefferies Across Key Sectors",
+      "title": "BofA double upgrades Renishaw as demand upcycle proves stronger than expected",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9517,
+      "currencies": []
+    },
+    {
+      "title": "Brazil\u2019s richest captured record income share despite Lula\u2019s effort to prioritize the poor",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8805,
+      "currencies": []
+    },
+    {
+      "title": "Morning Bid: Bonds\u2019 reality check",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Volkswagen flags 50,000 job cuts across group as board approves turnaround plan",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9261,
-      "currencies": []
-    },
-    {
-      "title": "Two people rescued alive from Nepal hydropower tunnel",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6071,
-      "currencies": []
-    },
-    {
-      "title": "South Korea says chip investments under discussion with US amid tariff concerns",
+      "title": "Oil rallies for the week as\u00a0U.S.-Iran fighting resumes; diesel hits record high",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8333,
+      "score": 0.8326,
       "currencies": []
     },
     {
-      "title": "Nikkei 225 wedged at 65,000 amid bearish pressure: Live levels",
+      "title": "Mizuho cuts Chewy stock price target on growth concerns",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9511,
+      "score": -0.6733,
       "currencies": []
     },
     {
-      "title": "SK Hynix tests resistance at \u20a91,665,000: Live levels",
+      "title": "Earnings call transcript: Dhoot Transmission posts 50% revenue growth in Q1 2027",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8844,
+      "currencies": []
+    },
+    {
+      "title": "Invesco Markets III declares dividends for 11 ETFs",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
