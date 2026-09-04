@@ -7,6 +7,20 @@
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.9123
+      },
+      {
+        "title": "USD/MXN Price Forecast: Peso rally targets April 2024 low",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "USD/CHF": [
+      {
+        "title": "USD/CHF Price Forecast: NFP rally stalls at 0.8100, retraces",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8225
       }
     ]
   }
