@@ -1,10 +1,10 @@
 {
   "headlines": [
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - reuters.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8977,
+      "score": 0.8017,
       "currencies": []
     },
     {
@@ -50,91 +50,96 @@
       "currencies": []
     },
     {
-      "title": "Bank of Korea: Stablecoin Rules Spur Kimchi Premium, Curb Forex Risks - \uc870\uc120\uc77c\ubcf4",
+      "title": "Japan remains on high alert over forex moves: top currency diplomat - \u6bce\u65e5\u65b0\u805e",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Yen surges on new intervention talk; oil prices climb - Japan Today",
+      "title": "USD/BRL Forecast 03/09: Can the Pair Hold Below 5.10? - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Bank of Korea: Stablecoin Rules Curb Forex Risks Despite Premium - \uc870\uc120\uc77c\ubcf4",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Yen surges on new intervention talk; oil prices climb - japantoday.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.6801,
+      "score": 0.4554,
       "currencies": []
     },
     {
-      "title": "Forex Is Becoming More Like Crypto Without Moving Onto a Blockchain - FX News Group",
+      "title": "USD/JPY Unwind Accelerates as Suspected Intervention, Fed Hike Doubts Collide - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "Two people pulled alive from Nepal hydropower tunnel",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7238,
       "currencies": []
     },
     {
-      "title": "Yen surges on new intervention talk, US stocks rally - France 24",
-      "source": "Google News",
+      "title": "China\u2019s Longfor says it has enough funds to repay loans, shares surge",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6999,
+      "score": 0.7249,
       "currencies": []
     },
     {
-      "title": "Lack of dollar hedging among U.S. asset holders risks fueling sell-off - The Japan Times",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9467,
-      "currencies": []
-    },
-    {
-      "title": "Etsy chief product & tech officer Colburn sells $239,000 in shares",
+      "title": "Top India Stock Picks From Jefferies Across Key Sectors",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Etsy executive chair Josh Silverman sells $1.1m in Etsy shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "OppFi CEO Todd Schwartz buys $25,377 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Etsy director Frederick R. Wilson sells $1.64m of Etsy stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Flex to acquire EPC Power for $4.4 billion",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Lululemon cuts outlook again, highlighting to-do list for new CEO",
+      "title": "Volkswagen flags 50,000 job cuts across group as board approves turnaround plan",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7825,
+      "score": -0.9261,
       "currencies": []
     },
     {
-      "title": "Pulmonx chief science officer sells $32,192 in stock",
+      "title": "Two people rescued alive from Nepal hydropower tunnel",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.6071,
       "currencies": []
     },
     {
-      "title": "Pagaya Technologies director Tami Rosen sells $29,183 in shares",
+      "title": "South Korea says chip investments under discussion with US amid tariff concerns",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8333,
+      "currencies": []
+    },
+    {
+      "title": "Nikkei 225 wedged at 65,000 amid bearish pressure: Live levels",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9511,
+      "currencies": []
+    },
+    {
+      "title": "SK Hynix tests resistance at \u20a91,665,000: Live levels",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
