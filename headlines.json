@@ -1,17 +1,17 @@
 {
   "headlines": [
     {
+      "title": "Forex Is Becoming More Like Crypto Without Moving Onto a Blockchain - FX News Group",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28 - Reuters",
       "source": "Google News",
       "label": "bullish",
       "score": 0.9121,
-      "currencies": []
-    },
-    {
-      "title": "\u2018Stratospheric\u2019 $127 Billion From India\u2019s Diaspora to Aid Rupee - Bloomberg.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -22,14 +22,14 @@
       "currencies": []
     },
     {
-      "title": "Japan remains on high alert over forex moves: top currency diplomat - Japan Wire by Kyodo News",
+      "title": "\u2018Stratospheric\u2019 $127 Billion From India\u2019s Diaspora to Aid Rupee - bloomberg.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Forex Is Becoming More Like Crypto Without Moving Onto a Blockchain - FX News Group",
+      "title": "Japan remains on high alert over forex moves: top currency diplomat - Japan Wire by Kyodo News",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -71,73 +71,73 @@
       "currencies": []
     },
     {
-      "title": "Central Bank Chief Claims No Severe Forex Deficit Despite Rial Collapse - iranwire.com",
+      "title": "Central Bank Chief Claims No Severe Forex Deficit Despite Rial Collapse - IranWire",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5553,
+      "currencies": []
+    },
+    {
+      "title": "Yen\u2019s changing fortunes might finally be spooking the bears - The Japan Times",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Yen\u2019s changing fortunes might finally be spooking the bears - japantimes.co.jp",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "The Venezuelan billionaire the US investigated for money laundering now has a Pentagon oil deal",
+      "title": "Iranian tanker hit near Kharg Island in US attack, Tasnim reports",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.7959,
       "currencies": []
     },
     {
-      "title": "Nvidia partner Hon Hai\u2019s August sales jump 52% on AI server demand - Bloomberg",
+      "title": "Foxconn expects Q3 to beat market expectations as AI demand stays strong",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.936,
+      "score": 0.9526,
       "currencies": []
     },
     {
-      "title": "Bitcoin falls below $80,000 as strong U.S. jobs data revives Fed rate hike fears",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.604,
-      "currencies": []
-    },
-    {
-      "title": "Nepali foreman rescued from tunnel says he stayed behind to help others",
+      "title": "Families of missing pilgrims in Tibet demand answers from China",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "South Korea exports surpass annual record as AI chip boom drives shipments",
+      "title": "Citi pushes Fed rate-cut forecast to June 2027 after resilient jobs market",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9161,
+      "label": "bearish",
+      "score": -0.4302,
       "currencies": []
     },
     {
-      "title": "Foxconn says third quarter to outperform market expectations on AI strength",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9373,
-      "currencies": []
-    },
-    {
-      "title": "Barclays sees a $3.6 trillion annual investment opportunity in this sector",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7494,
-      "currencies": []
-    },
-    {
-      "title": "Another false dawn? China\u2019s luxury spending revival seems to be fading: Bernstein",
+      "title": "How InvestingPro\u2019s Fair Value spotted Hanmi Financial\u2019s 65% gain",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Americans hit with record-high Labor Day Weekend gasoline prices",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7696,
+      "currencies": []
+    },
+    {
+      "title": "InvestingPro\u2019s fair value warned CAVA was 43% overvalued before 50% drop",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8365,
+      "currencies": []
+    },
+    {
+      "title": "States reach agreement at autonomous weapons talks in Geneva",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9119,
       "currencies": []
     }
   ],
