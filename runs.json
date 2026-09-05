@@ -5,8 +5,20 @@
       "engine": "finbert",
       "headline_count": 70,
       "source_count": 6,
-      "created_at": "2026-09-05T05:33:50.319827+00:00",
+      "created_at": "2026-09-05T10:27:17.909398+00:00",
       "signals": [
+        {
+          "pair": "EUR/USD",
+          "signal": "SELL",
+          "avg_score": -0.9679,
+          "headline_count": 1
+        },
+        {
+          "pair": "GBP/USD",
+          "signal": "SELL",
+          "avg_score": -0.9679,
+          "headline_count": 1
+        },
         {
           "pair": "USD/CHF",
           "signal": "SELL",

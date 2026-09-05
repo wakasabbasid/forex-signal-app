@@ -22,6 +22,22 @@
         "label": "bearish",
         "score": -0.8225
       }
+    ],
+    "EUR/USD": [
+      {
+        "title": "US Dollar Price Forecast: DXY Weakens Ahead of NFP; EUR/USD and GBP/USD Recover",
+        "source": "Yahoo Finance",
+        "label": "bearish",
+        "score": -0.9679
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "US Dollar Price Forecast: DXY Weakens Ahead of NFP; EUR/USD and GBP/USD Recover",
+        "source": "Yahoo Finance",
+        "label": "bearish",
+        "score": -0.9679
+      }
     ]
   }
 }

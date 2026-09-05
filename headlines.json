@@ -1,20 +1,6 @@
 {
   "headlines": [
     {
-      "title": "Forex Is Becoming More Like Crypto Without Moving Onto a Blockchain - FX News Group",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Inside the $9.5 Trillion Forex Market: Tag Markets on How Technology Is Changing Access - GeekWire",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28 - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -29,7 +15,21 @@
       "currencies": []
     },
     {
+      "title": "Inside the $9.5 Trillion Forex Market: Tag Markets on How Technology Is Changing Access - GeekWire",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Japan remains on high alert over forex moves: top currency diplomat - Japan Wire by Kyodo News",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Is Becoming More Like Crypto Without Moving Onto a Blockchain - FX News Group",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -43,10 +43,10 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: Japanese Yen extends rally, markets await US data - fxstreet.com",
+      "title": "Forex Today: Japanese Yen extends rally, markets await US data - FXStreet",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.466,
       "currencies": []
     },
     {
@@ -71,70 +71,70 @@
       "currencies": []
     },
     {
-      "title": "Central Bank Chief Claims No Severe Forex Deficit Despite Rial Collapse - IranWire",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5553,
-      "currencies": []
-    },
-    {
-      "title": "Forex Factory remains traders\u2019 go-to for economic calendar data - eciks.org",
+      "title": "Central Bank Chief Claims No Severe Forex Deficit Despite Rial Collapse - iranwire.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Gevo director Patrick Gruber sells $5,671 in company stock",
+      "title": "Yen\u2019s changing fortunes might finally be spooking the bears - japantimes.co.jp",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "The Venezuelan billionaire the US investigated for money laundering now has a Pentagon oil deal",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Beta bionics CEO Sean Saint sells $113,258 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Iran\u2019s oil blockade leverage weakens as U.S. keeps Gulf crude flowing",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9499,
-      "currencies": []
-    },
-    {
-      "title": "Hong Kong targets bigger offshore yuan role, mainland links, in first 5-year plan",
+      "title": "Nvidia partner Hon Hai\u2019s August sales jump 52% on AI server demand - Bloomberg",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5461,
+      "score": 0.936,
       "currencies": []
     },
     {
-      "title": "Japan, U.S. advance $550 billion investment pact with AI, chips in focus",
+      "title": "Bitcoin falls below $80,000 as strong U.S. jobs data revives Fed rate hike fears",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.604,
+      "currencies": []
+    },
+    {
+      "title": "Nepali foreman rescued from tunnel says he stayed behind to help others",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement",
+      "title": "South Korea exports surpass annual record as AI chip boom drives shipments",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9161,
       "currencies": []
     },
     {
-      "title": "Howmet\u2019s SpaceX threat looks more like a buying opportunity: Bernstein",
+      "title": "Foxconn says third quarter to outperform market expectations on AI strength",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9373,
       "currencies": []
     },
     {
-      "title": "Xos director Dietmar Ostermann sells $45,220 in company stock",
+      "title": "Barclays sees a $3.6 trillion annual investment opportunity in this sector",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7494,
+      "currencies": []
+    },
+    {
+      "title": "Another false dawn? China\u2019s luxury spending revival seems to be fading: Bernstein",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
