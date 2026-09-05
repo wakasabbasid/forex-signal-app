@@ -1,7 +1,28 @@
 {
   "headlines": [
     {
+      "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28 - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9121,
+      "currencies": []
+    },
+    {
       "title": "\u2018Stratospheric\u2019 $127 Billion From India\u2019s Diaspora to Aid Rupee - Bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Inside the $9.5 Trillion Forex Market: Tag Markets on How Technology Is Changing Access - geekwire.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japan remains on high alert over forex moves: top currency diplomat - english.kyodonews.net",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -15,31 +36,10 @@
       "currencies": []
     },
     {
-      "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28 - Reuters",
+      "title": "Rupee gains 47 paise as record FCNR inflows boost forex liquidity - timesofindia.indiatimes.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9121,
-      "currencies": []
-    },
-    {
-      "title": "Inside the $9.5 Trillion Forex Market: Tag Markets on How Technology Is Changing Access - GeekWire",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan remains on high alert over forex moves: top currency diplomat - Japan Wire by Kyodo News",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Rupee gains 47 paise as record FCNR inflows boost forex liquidity - The Times of India",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8958,
+      "score": 0.8758,
       "currencies": []
     },
     {
@@ -57,10 +57,10 @@
       "currencies": []
     },
     {
-      "title": "Central Bank Chief Claims No Severe Forex Deficit Despite Rial Collapse - IranWire",
+      "title": "Central Bank Chief Claims No Severe Forex Deficit Despite Rial Collapse - iranwire.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.5553,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -88,6 +88,48 @@
       "currencies": []
     },
     {
+      "title": "Milei finds unity in pushback against Falkland Islands oil project",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6764,
+      "currencies": []
+    },
+    {
+      "title": "US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.788,
+      "currencies": []
+    },
+    {
+      "title": "Greek PM unveils\u00a0plan to boost incomes ahead of elections",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8462,
+      "currencies": []
+    },
+    {
+      "title": "EOS Climbs 14% In Bullish Trade",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8857,
+      "currencies": []
+    },
+    {
+      "title": "UBS sees better bond carry in 3-5 year debt after global selloff",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9552,
+      "currencies": []
+    },
+    {
+      "title": "Americans hit with record-high Labor Day Weekend gasoline prices",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7696,
+      "currencies": []
+    },
+    {
       "title": "Fuel tanker explosion after traffic accident kills 10 in Western Iran, state media says",
       "source": "Investing.com",
       "label": "bearish",
@@ -99,48 +141,6 @@
       "source": "Investing.com",
       "label": "bearish",
       "score": -0.6726,
-      "currencies": []
-    },
-    {
-      "title": "Federal appeals court upholds ban on Trump\u2019s bid to use citizenship data for voter checks",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7423,
-      "currencies": []
-    },
-    {
-      "title": "Americans hit with record-high Labor Day Weekend gasoline prices",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7696,
-      "currencies": []
-    },
-    {
-      "title": "US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.788,
-      "currencies": []
-    },
-    {
-      "title": "Japanese stocks face continued risk aversion despite record profits, Nomura says",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8208,
-      "currencies": []
-    },
-    {
-      "title": "U.S. strikes three Iranian oil tankers near Kharg Island, CENTCOM says",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9195,
-      "currencies": []
-    },
-    {
-      "title": "OpenAI acknowledges \u2019wiki incident\u2019 and need for more transparency around unintended AI behavior",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     }
   ],
