@@ -8,6 +8,20 @@
       "currencies": []
     },
     {
+      "title": "Forex Is Becoming More Like Crypto Without Moving Onto a Blockchain - fxnewsgroup.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Inside the $9.5 Trillion Forex Market: Tag Markets on How Technology Is Changing Access - GeekWire",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "\u2018Stratospheric\u2019 $127 Billion From India\u2019s Diaspora to Aid Rupee - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
@@ -15,31 +29,17 @@
       "currencies": []
     },
     {
-      "title": "Inside the $9.5 Trillion Forex Market: Tag Markets on How Technology Is Changing Access - geekwire.com",
+      "title": "Japan remains on high alert over forex moves: top currency diplomat - Japan Wire by Kyodo News",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Japan remains on high alert over forex moves: top currency diplomat - english.kyodonews.net",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Is Becoming More Like Crypto Without Moving Onto a Blockchain - FX News Group",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Rupee gains 47 paise as record FCNR inflows boost forex liquidity - timesofindia.indiatimes.com",
+      "title": "Rupee gains 47 paise as record FCNR inflows boost forex liquidity - The Times of India",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8758,
+      "score": 0.8958,
       "currencies": []
     },
     {
@@ -50,17 +50,17 @@
       "currencies": []
     },
     {
-      "title": "Indian banks pitch FX sell/buy swaps to drain surplus liquidity, sources say - Reuters",
+      "title": "India\u2019s Forex Reserves Hit Record $740.8 Billion on Strong Foreign Currency Inflows - INDIA New England News",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.7298,
+      "label": "bullish",
+      "score": 0.8486,
       "currencies": []
     },
     {
-      "title": "Central Bank Chief Claims No Severe Forex Deficit Despite Rial Collapse - iranwire.com",
+      "title": "Central Bank Chief Claims No Severe Forex Deficit Despite Rial Collapse - IranWire",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.5553,
       "currencies": []
     },
     {
@@ -71,7 +71,7 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Price Outlook as Dollar Strength Pressures Sterling - DailyForex",
+      "title": "GBP/USD Price Outlook as Dollar Strength Pressures Sterling - dailyforex.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -88,6 +88,27 @@
       "currencies": []
     },
     {
+      "title": "Greek PM unveils\u00a0plan to boost incomes ahead of elections",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8462,
+      "currencies": []
+    },
+    {
+      "title": "UBS: Commodities can add diversification as inflation, geopolitical risks rise",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9077,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin consolidates near $82K resistance: Live levels",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6332,
+      "currencies": []
+    },
+    {
       "title": "Milei finds unity in pushback against Falkland Islands oil project",
       "source": "Investing.com",
       "label": "bullish",
@@ -99,13 +120,6 @@
       "source": "Investing.com",
       "label": "bearish",
       "score": -0.788,
-      "currencies": []
-    },
-    {
-      "title": "Greek PM unveils\u00a0plan to boost incomes ahead of elections",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8462,
       "currencies": []
     },
     {
@@ -127,20 +141,6 @@
       "source": "Investing.com",
       "label": "bearish",
       "score": -0.7696,
-      "currencies": []
-    },
-    {
-      "title": "Fuel tanker explosion after traffic accident kills 10 in Western Iran, state media says",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9447,
-      "currencies": []
-    },
-    {
-      "title": "Bitcoin holds below $80,000 as jobs data lifts Fed hike bets; ETF inflows continue",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6726,
       "currencies": []
     }
   ],
