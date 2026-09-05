@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "\u2018Stratospheric\u2019 $127 Billion From India\u2019s Diaspora to Aid Rupee - Bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Forex Is Becoming More Like Crypto Without Moving Onto a Blockchain - FX News Group",
       "source": "Google News",
       "label": "neutral",
@@ -22,13 +29,6 @@
       "currencies": []
     },
     {
-      "title": "\u2018Stratospheric\u2019 $127 Billion From India\u2019s Diaspora to Aid Rupee - bloomberg.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Japan remains on high alert over forex moves: top currency diplomat - Japan Wire by Kyodo News",
       "source": "Google News",
       "label": "neutral",
@@ -40,13 +40,6 @@
       "source": "Google News",
       "label": "bullish",
       "score": 0.8958,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: Japanese Yen extends rally, markets await US data - FXStreet",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.466,
       "currencies": []
     },
     {
@@ -64,13 +57,6 @@
       "currencies": []
     },
     {
-      "title": "India's ICICI Bank mobilises $17.9 billion under RBI foreign currency deposit scheme - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Central Bank Chief Claims No Severe Forex Deficit Despite Rial Collapse - IranWire",
       "source": "Google News",
       "label": "bearish",
@@ -78,45 +64,48 @@
       "currencies": []
     },
     {
-      "title": "Yen\u2019s changing fortunes might finally be spooking the bears - The Japan Times",
+      "title": "Salida man accused of defrauding investors of $2.7M in foreign currency scheme - Modesto Bee",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5814,
+      "currencies": []
+    },
+    {
+      "title": "GBP/USD Price Outlook as Dollar Strength Pressures Sterling - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
+      "title": "Forex Factory remains traders\u2019 go-to for economic calendar data - eciks.org",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Iranian tanker hit near Kharg Island in US attack, Tasnim reports",
+      "title": "Fuel tanker explosion after traffic accident kills 10 in Western Iran, state media says",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7959,
+      "score": -0.9447,
       "currencies": []
     },
     {
-      "title": "Foxconn expects Q3 to beat market expectations as AI demand stays strong",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9526,
-      "currencies": []
-    },
-    {
-      "title": "Families of missing pilgrims in Tibet demand answers from China",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Citi pushes Fed rate-cut forecast to June 2027 after resilient jobs market",
+      "title": "Bitcoin holds below $80,000 as jobs data lifts Fed hike bets; ETF inflows continue",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.4302,
+      "score": -0.6726,
       "currencies": []
     },
     {
-      "title": "How InvestingPro\u2019s Fair Value spotted Hanmi Financial\u2019s 65% gain",
+      "title": "Federal appeals court upholds ban on Trump\u2019s bid to use citizenship data for voter checks",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.7423,
       "currencies": []
     },
     {
@@ -127,17 +116,31 @@
       "currencies": []
     },
     {
-      "title": "InvestingPro\u2019s fair value warned CAVA was 43% overvalued before 50% drop",
+      "title": "US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8365,
+      "label": "bearish",
+      "score": -0.788,
       "currencies": []
     },
     {
-      "title": "States reach agreement at autonomous weapons talks in Geneva",
+      "title": "Japanese stocks face continued risk aversion despite record profits, Nomura says",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9119,
+      "label": "bearish",
+      "score": -0.8208,
+      "currencies": []
+    },
+    {
+      "title": "U.S. strikes three Iranian oil tankers near Kharg Island, CENTCOM says",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9195,
+      "currencies": []
+    },
+    {
+      "title": "OpenAI acknowledges \u2019wiki incident\u2019 and need for more transparency around unintended AI behavior",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

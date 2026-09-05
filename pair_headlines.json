@@ -1,6 +1,14 @@
 {
   "run_id": 1,
   "pairs": {
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Price Outlook as Dollar Strength Pressures Sterling - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
     "USD/JPY": [
       {
         "title": "USD/MXN Price Forecast: Peso rally targets April 2024 low",
