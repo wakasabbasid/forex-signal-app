@@ -1,18 +1,24 @@
 {
   "run_id": 1,
   "pairs": {
-    "GBP/USD": [
+    "USD/JPY": [
       {
-        "title": "GBP/USD Price Outlook as Dollar Strength Pressures Sterling - dailyforex.com",
+        "title": "XAU USD Chart & Rate - XAU USD Trading - FOREX.com",
         "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "USD/MXN Price Forecast: Peso rally targets April 2024 low",
+        "source": "FXStreet",
         "label": "neutral",
         "score": 0.0
       }
     ],
-    "USD/JPY": [
+    "EUR/USD": [
       {
-        "title": "USD/MXN Price Forecast: Peso rally targets April 2024 low",
-        "source": "FXStreet",
+        "title": "EUR/USD Outlook: Dollar Strength Tests 1.17 Resistance - DailyForex",
+        "source": "Google News",
         "label": "neutral",
         "score": 0.0
       }

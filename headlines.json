@@ -1,14 +1,14 @@
 {
   "headlines": [
     {
-      "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28 - Reuters",
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9121,
+      "score": 0.8977,
       "currencies": []
     },
     {
-      "title": "Forex Is Becoming More Like Crypto Without Moving Onto a Blockchain - fxnewsgroup.com",
+      "title": "Exchange rate | Foreign Exchange, Currency Fluctuations, Exchange Rates - Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -22,6 +22,13 @@
       "currencies": []
     },
     {
+      "title": "Global forex shifts: Yen carry trade unwinds amid policy divergence. - marketpulse.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7565,
+      "currencies": []
+    },
+    {
       "title": "\u2018Stratospheric\u2019 $127 Billion From India\u2019s Diaspora to Aid Rupee - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
@@ -29,24 +36,34 @@
       "currencies": []
     },
     {
-      "title": "Japan remains on high alert over forex moves: top currency diplomat - Japan Wire by Kyodo News",
+      "title": "XAU USD Chart & Rate - XAU USD Trading - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "USD"
+      ]
+    },
+    {
+      "title": "Central Bank Chief Claims No Severe Forex Deficit Despite Rial Collapse - IranWire",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5553,
+      "currencies": []
+    },
+    {
+      "title": "Trump: Canada\u2019s currency imbalance with US will be \u2018no longer\u2019 - Forex Factory",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Rupee gains 47 paise as record FCNR inflows boost forex liquidity - The Times of India",
+      "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28 - Reuters",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8958,
-      "currencies": []
-    },
-    {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8977,
+      "score": 0.9121,
       "currencies": []
     },
     {
@@ -57,11 +74,14 @@
       "currencies": []
     },
     {
-      "title": "Central Bank Chief Claims No Severe Forex Deficit Despite Rial Collapse - IranWire",
+      "title": "EUR/USD Outlook: Dollar Strength Tests 1.17 Resistance - DailyForex",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.5553,
-      "currencies": []
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
     },
     {
       "title": "Salida man accused of defrauding investors of $2.7M in foreign currency scheme - Modesto Bee",
@@ -71,76 +91,59 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Price Outlook as Dollar Strength Pressures Sterling - dailyforex.com",
-      "source": "Google News",
+      "title": "UK recruiters see first rise in permanent role hiring since 2022",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.892,
+      "currencies": []
+    },
+    {
+      "title": "At least 5 killed in Amazon Prime Air cargo plane crash in Miami",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8966,
+      "currencies": []
+    },
+    {
+      "title": "UK finance minister Healey seeks growth through decentralising power",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7347,
+      "currencies": []
+    },
+    {
+      "title": "How to position as France is entering a new political cycle?",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
+      "currencies": []
     },
     {
-      "title": "Forex Factory remains traders\u2019 go-to for economic calendar data - eciks.org",
-      "source": "Google News",
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9603,
+      "currencies": []
+    },
+    {
+      "title": "Eli Lilly\u2019s $100B incretin opportunity: Is more upside coming?",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Greek PM unveils\u00a0plan to boost incomes ahead of elections",
+      "title": "Goldman sees Cybercab giving Tesla a cost advantage in robotaxis",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8462,
+      "score": 0.9029,
       "currencies": []
     },
     {
-      "title": "UBS: Commodities can add diversification as inflation, geopolitical risks rise",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9077,
-      "currencies": []
-    },
-    {
-      "title": "Bitcoin consolidates near $82K resistance: Live levels",
+      "title": "Boeing 767 cargo plane bearing Amazon logo overruns Miami runway, halts flights",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6332,
-      "currencies": []
-    },
-    {
-      "title": "Milei finds unity in pushback against Falkland Islands oil project",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6764,
-      "currencies": []
-    },
-    {
-      "title": "US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.788,
-      "currencies": []
-    },
-    {
-      "title": "EOS Climbs 14% In Bullish Trade",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8857,
-      "currencies": []
-    },
-    {
-      "title": "UBS sees better bond carry in 3-5 year debt after global selloff",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9552,
-      "currencies": []
-    },
-    {
-      "title": "Americans hit with record-high Labor Day Weekend gasoline prices",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7696,
+      "score": -0.9253,
       "currencies": []
     }
   ],
