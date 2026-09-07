@@ -3,32 +3,64 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "XAU USD Chart & Rate - XAU USD Trading - FOREX.com",
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7086 \u2013 Reuters estimate - investingLive",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "USD/MXN Price Forecast: Peso rally targets April 2024 low",
-        "source": "FXStreet",
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7086 \u2013 Reuters estimate",
+        "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "EUR/JPY Price Forecast: Declines below 181.50 with emerging oversold RSI",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9662
+      },
+      {
+        "title": "Gold remains depressed as reviving Fed rate hike bets and Iran risks underpin USD",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9495
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD holds losses near $66.00 due to Fed rate hike bets",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9489
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Price Forecast: Struggles near 1.3500 amid modest USD uptick; bears seem hesitant",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.4899
       }
     ],
     "EUR/USD": [
       {
-        "title": "EUR/USD Outlook: Dollar Strength Tests 1.17 Resistance - DailyForex",
-        "source": "Google News",
+        "title": "EUR/JPY Price Forecast: Declines below 181.50 with emerging oversold RSI",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9662
+      },
+      {
+        "title": "EUR/USD Price Forecast: Holds key 100-day SMA at start of the US CPI week",
+        "source": "FXStreet",
         "label": "neutral",
         "score": 0.0
       }
     ],
-    "USD/CHF": [
+    "AUD/USD": [
       {
-        "title": "USD/CHF Price Forecast: NFP rally stalls at 0.8100, retraces",
+        "title": "AUD/USD Price Forecast: Consolidates around 0.7200; bullish potential seems intact",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8225
+        "label": "bullish",
+        "score": 0.878
       }
     ]
   }

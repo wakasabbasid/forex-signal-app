@@ -22,10 +22,10 @@
       "currencies": []
     },
     {
-      "title": "Global forex shifts: Yen carry trade unwinds amid policy divergence. - marketpulse.com",
+      "title": "Japan likely sold Treasurys to fund record yen intervention - The Japan Times",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.7565,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -36,14 +36,18 @@
       "currencies": []
     },
     {
-      "title": "XAU USD Chart & Rate - XAU USD Trading - FOREX.com",
+      "title": "Global forex shifts: Yen carry trade unwinds amid policy divergence. - marketpulse.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "USD"
-      ]
+      "label": "bearish",
+      "score": -0.7565,
+      "currencies": []
+    },
+    {
+      "title": "India builds a record $740.8 billion forex war chest as wars disrupt global capital flows - ET Government",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.4359,
+      "currencies": []
     },
     {
       "title": "Central Bank Chief Claims No Severe Forex Deficit Despite Rial Collapse - IranWire",
@@ -53,11 +57,13 @@
       "currencies": []
     },
     {
-      "title": "Trump: Canada\u2019s currency imbalance with US will be \u2018no longer\u2019 - Forex Factory",
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.7086 \u2013 Reuters estimate - investingLive",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28 - Reuters",
@@ -74,16 +80,6 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD Outlook: Dollar Strength Tests 1.17 Resistance - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
       "title": "Salida man accused of defrauding investors of $2.7M in foreign currency scheme - Modesto Bee",
       "source": "Google News",
       "label": "bearish",
@@ -91,59 +87,59 @@
       "currencies": []
     },
     {
-      "title": "UK recruiters see first rise in permanent role hiring since 2022",
+      "title": "Burkhalter H1 earnings per share climb 8% on energy demand",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.892,
+      "score": 0.9305,
       "currencies": []
     },
     {
-      "title": "At least 5 killed in Amazon Prime Air cargo plane crash in Miami",
+      "title": "Bitcoin slips below $80k as Fed hike bets, oil surge weigh",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8966,
+      "score": -0.6526,
       "currencies": []
     },
     {
-      "title": "UK finance minister Healey seeks growth through decentralising power",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7347,
-      "currencies": []
-    },
-    {
-      "title": "How to position as France is entering a new political cycle?",
+      "title": "Why is Austal stock rallying today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "title": "Volkswagen\u2019s surprise turnaround deal averts showdown as job cuts loom",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9603,
+      "score": -0.9211,
       "currencies": []
     },
     {
-      "title": "Eli Lilly\u2019s $100B incretin opportunity: Is more upside coming?",
+      "title": "Asian currencies rise as yen strengthens, dollar pressured by fiscal concerns",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8211,
+      "currencies": []
+    },
+    {
+      "title": "SK Hynix tests KRW 1,770,000 resistance: Live levels",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Goldman sees Cybercab giving Tesla a cost advantage in robotaxis",
+      "title": "Nikkei 225 tests 66,550 resistance at make-or-break zone: Live",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9029,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Boeing 767 cargo plane bearing Amazon logo overruns Miami runway, halts flights",
+      "title": "Fear and compromise: How Volkswagen struck a deal over historic job cuts",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9253,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
