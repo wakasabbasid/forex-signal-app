@@ -3,13 +3,7 @@
   "pairs": {
     "EUR/USD": [
       {
-        "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - City Index UK",
+        "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - forex.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -19,12 +13,6 @@
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.9646
-      },
-      {
-        "title": "EUR/USD at a crossroads as traders await the US CPI for the next major move",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.6064
       }
     ],
     "AUD/USD": [
@@ -33,6 +21,12 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.4818
+      },
+      {
+        "title": "Preview: China trade data due today, a beat could firm up AUD as a demand proxy trade",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.9448
       }
     ],
     "USD/JPY": [
@@ -43,10 +37,10 @@
         "score": 0.0
       },
       {
-        "title": "British Pound climbs as USD fades, Hormuz risk keeps Fed in play",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.5781
+        "title": "investingLive Americas FX news wrap 7 Sept: USD falls as the yen surges on BOJ rate-hike expectations",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.9658
       }
     ],
     "GBP/USD": [
@@ -55,14 +49,6 @@
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.9646
-      }
-    ],
-    "USD/CHF": [
-      {
-        "title": "USD/CHF Price Forecast: Pair consolidates around the 50-day SMA",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.5613
       }
     ]
   }

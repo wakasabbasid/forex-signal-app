@@ -1,14 +1,7 @@
 {
   "headlines": [
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - britannica.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
+      "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - forex.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -16,6 +9,13 @@
         "EUR",
         "USD"
       ]
+    },
+    {
+      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
@@ -25,27 +25,17 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - City Index UK",
+      "title": "Inside the $9.5 Trillion Forex Market: Tag Markets on How Technology Is Changing Access - GeekWire",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
+      "currencies": []
     },
     {
       "title": "China's forex reserves rise more than expected in August - Yahoo Finance",
       "source": "Google News",
       "label": "bullish",
       "score": 0.938,
-      "currencies": []
-    },
-    {
-      "title": "Inside the $9.5 Trillion Forex Market: Tag Markets on How Technology Is Changing Access - GeekWire",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -66,20 +56,10 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY remains heavy as the new week gets underway, what are the technicals saying? - investingLive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
-      "title": "SNB Reserves Edge Higher as Summer Surge Loses Momentum - actionforex.com",
+      "title": "SNB Reserves Edge Higher as Summer Surge Loses Momentum - Action Forex",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.7026,
+      "score": -0.8661,
       "currencies": []
     },
     {
@@ -97,59 +77,76 @@
       "currencies": []
     },
     {
-      "title": "Oil prices rise to six-week highs on worsening Middle East conflict",
-      "source": "Investing.com",
+      "title": "Salida man accused of defrauding investors of $2.7M in foreign currency scheme - Modesto Bee",
+      "source": "Google News",
       "label": "bearish",
-      "score": -0.4692,
+      "score": -0.5814,
       "currencies": []
     },
     {
-      "title": "Haiti gangs shift operations into countryside, report says",
+      "title": "USD/JPY remains heavy as the new week gets underway, what are the technicals saying? - investingLive",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "Trump says Canada\u2019s Bombardier cannot sell in US unless it builds there",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "NTSB to give updates on deadly Amazon Prime Air cargo plane crash in Miami",
+      "title": "Bitcoin trapped in $76K-$82K range: Live levels",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "At least five killed in Amazon Prime Air cargo plane crash in Miami",
+      "title": "Brent Oil stalls at resistance with RSI at 72: Live levels",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8978,
+      "score": -0.9122,
       "currencies": []
     },
     {
-      "title": "Volkswagen finds defence future for German plant amid major overhaul",
+      "title": "Crude Oil WTI tests $93.64 resistance with overbought RSI: Live levels",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8453,
+      "score": 0.7818,
       "currencies": []
     },
     {
-      "title": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.11%",
+      "title": "Dow Jones squeezed at 53,111 ahead of breakout: Live levels",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9626,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Spain stocks lower at close of trade; IBEX 35 down 0.14%",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9694,
-      "currencies": []
-    },
-    {
-      "title": "Portugal stocks higher at close of trade; PSI up 0.32%",
+      "title": "London Gas Oil spikes 12% above 50-MA, overbought: Live levels",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9433,
+      "score": 0.9259,
+      "currencies": []
+    },
+    {
+      "title": "Copper trapped near $6.70 with ADX at 8.8: Live levels",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7128,
+      "currencies": []
+    },
+    {
+      "title": "Natural Gas stalls below $3.00 resistance: Live levels",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
