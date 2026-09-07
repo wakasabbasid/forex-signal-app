@@ -1,6 +1,32 @@
 {
   "run_id": 1,
   "pairs": {
+    "EUR/USD": [
+      {
+        "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - City Index UK",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Kickstart the North American FX session. The USDJPY is the big mover. The EUR and GBP are down modestly",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.9646
+      },
+      {
+        "title": "EUR/USD at a crossroads as traders await the US CPI for the next major move",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.6064
+      }
+    ],
     "AUD/USD": [
       {
         "title": "AUD/USD Forex Signal 07/09: Buy Setups Above 0.7188 - DailyForex",
@@ -17,38 +43,26 @@
         "score": 0.0
       },
       {
-        "title": "USD/JPY tumbles lower, breaks below 155 for the first time since February",
+        "title": "British Pound climbs as USD fades, Hormuz risk keeps Fed in play",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.5781
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "Kickstart the North American FX session. The USDJPY is the big mover. The EUR and GBP are down modestly",
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.9646
       }
     ],
-    "EUR/USD": [
+    "USD/CHF": [
       {
-        "title": "EUR/USD at a crossroads as traders await the US CPI for the next major move",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.6063
-      },
-      {
-        "title": "EUR/USD Price Forecast: Remains sticky to 20-day EMA",
+        "title": "USD/CHF Price Forecast: Pair consolidates around the 50-day SMA",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.4109
-      },
-      {
-        "title": "EUR/GBP Price Forecast: Testing support at previous highs in the 0.8585 area",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9363
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "EUR/GBP Price Forecast: Testing support at previous highs in the 0.8585 area",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9363
+        "score": 0.5613
       }
     ]
   }

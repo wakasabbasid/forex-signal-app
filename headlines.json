@@ -1,11 +1,38 @@
 {
   "headlines": [
     {
+      "title": "What Is the Foreign Exchange Market: A Guide - britannica.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
       "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
       "source": "Google News",
       "label": "bullish",
       "score": 0.8977,
       "currencies": []
+    },
+    {
+      "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - City Index UK",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
     },
     {
       "title": "China's forex reserves rise more than expected in August - Yahoo Finance",
@@ -15,7 +42,7 @@
       "currencies": []
     },
     {
-      "title": "Exchange rate | Foreign Exchange, Currency Fluctuations, Exchange Rates - Britannica",
+      "title": "Inside the $9.5 Trillion Forex Market: Tag Markets on How Technology Is Changing Access - GeekWire",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -32,17 +59,10 @@
       ]
     },
     {
-      "title": "Inside the $9.5 Trillion Forex Market: Tag Markets on How Technology Is Changing Access - GeekWire",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "SNB Reserves Edge Higher as Summer Surge Loses Momentum - Action Forex",
+      "title": "Central Bank Chief Claims No Severe Forex Deficit Despite Rial Collapse - IranWire",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.8661,
+      "score": -0.5553,
       "currencies": []
     },
     {
@@ -56,31 +76,17 @@
       ]
     },
     {
-      "title": "Central Bank Chief Claims No Severe Forex Deficit Despite Rial Collapse - iranwire.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Global forex shifts: Yen carry trade unwinds amid policy divergence. - marketpulse.com",
+      "title": "SNB Reserves Edge Higher as Summer Surge Loses Momentum - actionforex.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.7565,
+      "score": -0.7026,
       "currencies": []
     },
     {
-      "title": "India builds a record $740.8 billion forex war chest as wars disrupt global capital flows - ET Government",
+      "title": "India\u2019s Forex Reserves Hit Record $740.8 Billion on Strong Foreign Currency Inflows - INDIA New England News",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.4359,
-      "currencies": []
-    },
-    {
-      "title": "Yen surges to 6-month high on aggressive BOJ rate bets ; dollar slips - Investing.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8053,
+      "score": 0.8486,
       "currencies": []
     },
     {
@@ -91,59 +97,59 @@
       "currencies": []
     },
     {
-      "title": "European shares sag on Tehran\u2019s Hormuz zone plan and imminent ECB hike",
+      "title": "Oil prices rise to six-week highs on worsening Middle East conflict",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7577,
+      "score": -0.4692,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: AVI H2 2026 profit rises as second half weakens",
+      "title": "Haiti gangs shift operations into countryside, report says",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "NTSB to give updates on deadly Amazon Prime Air cargo plane crash in Miami",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "At least five killed in Amazon Prime Air cargo plane crash in Miami",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8978,
+      "currencies": []
+    },
+    {
+      "title": "Volkswagen finds defence future for German plant amid major overhaul",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5724,
+      "score": 0.8453,
       "currencies": []
     },
     {
-      "title": "CPI Property H1 2026 slides: disposal gains offset earnings pressure",
+      "title": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.11%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9626,
+      "currencies": []
+    },
+    {
+      "title": "Spain stocks lower at close of trade; IBEX 35 down 0.14%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9694,
+      "currencies": []
+    },
+    {
+      "title": "Portugal stocks higher at close of trade; PSI up 0.32%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6425,
-      "currencies": []
-    },
-    {
-      "title": "CPI Property Group H1 2026 slides: CEE focus amid portfolio transition",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "J.P. Morgan starts Bytes, Bechtle coverage on limited AI upside",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "IHS Holding validates Fair Value analysis with 84% return over 29 months",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: CPI Property Group posts stable H1 2026 results, shares slip",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Novo Nordisk says semaglutide cut obesity rates in young children in trial",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8006,
+      "score": 0.9433,
       "currencies": []
     }
   ],
