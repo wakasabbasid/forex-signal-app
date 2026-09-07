@@ -1,66 +1,54 @@
 {
   "run_id": 1,
   "pairs": {
+    "AUD/USD": [
+      {
+        "title": "AUD/USD Forex Signal 07/09: Buy Setups Above 0.7188 - DailyForex",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.4818
+      }
+    ],
     "USD/JPY": [
       {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7086 \u2013 Reuters estimate - investingLive",
+        "title": "USD/JPY remains heavy as the new week gets underway, what are the technicals saying? - investingLive",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7086 \u2013 Reuters estimate",
+        "title": "USD/JPY tumbles lower, breaks below 155 for the first time since February",
         "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Declines below 181.50 with emerging oversold RSI",
-        "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9662
-      },
-      {
-        "title": "Gold remains depressed as reviving Fed rate hike bets and Iran risks underpin USD",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9495
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD holds losses near $66.00 due to Fed rate hike bets",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9489
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "GBP/USD Price Forecast: Struggles near 1.3500 amid modest USD uptick; bears seem hesitant",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.4899
+        "score": -0.9646
       }
     ],
     "EUR/USD": [
       {
-        "title": "EUR/JPY Price Forecast: Declines below 181.50 with emerging oversold RSI",
-        "source": "FXStreet",
+        "title": "EUR/USD at a crossroads as traders await the US CPI for the next major move",
+        "source": "ForexLive",
         "label": "bearish",
-        "score": -0.9662
+        "score": -0.6063
       },
       {
-        "title": "EUR/USD Price Forecast: Holds key 100-day SMA at start of the US CPI week",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "AUD/USD Price Forecast: Consolidates around 0.7200; bullish potential seems intact",
+        "title": "EUR/USD Price Forecast: Remains sticky to 20-day EMA",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.878
+        "score": 0.4109
+      },
+      {
+        "title": "EUR/GBP Price Forecast: Testing support at previous highs in the 0.8585 area",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9363
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "EUR/GBP Price Forecast: Testing support at previous highs in the 0.8585 area",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9363
       }
     ]
   }

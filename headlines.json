@@ -8,11 +8,28 @@
       "currencies": []
     },
     {
+      "title": "China's forex reserves rise more than expected in August - Yahoo Finance",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.938,
+      "currencies": []
+    },
+    {
       "title": "Exchange rate | Foreign Exchange, Currency Fluctuations, Exchange Rates - Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
+    },
+    {
+      "title": "AUD/USD Forex Signal 07/09: Buy Setups Above 0.7188 - DailyForex",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.4818,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
     },
     {
       "title": "Inside the $9.5 Trillion Forex Market: Tag Markets on How Technology Is Changing Access - GeekWire",
@@ -22,14 +39,24 @@
       "currencies": []
     },
     {
-      "title": "Japan likely sold Treasurys to fund record yen intervention - The Japan Times",
+      "title": "SNB Reserves Edge Higher as Summer Surge Loses Momentum - Action Forex",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.8661,
       "currencies": []
     },
     {
-      "title": "\u2018Stratospheric\u2019 $127 Billion From India\u2019s Diaspora to Aid Rupee - Bloomberg.com",
+      "title": "USD/JPY remains heavy as the new week gets underway, what are the technicals saying? - investingLive",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "Central Bank Chief Claims No Severe Forex Deficit Despite Rial Collapse - iranwire.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -50,20 +77,11 @@
       "currencies": []
     },
     {
-      "title": "Central Bank Chief Claims No Severe Forex Deficit Despite Rial Collapse - IranWire",
+      "title": "Yen surges to 6-month high on aggressive BOJ rate bets ; dollar slips - Investing.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.5553,
+      "label": "bullish",
+      "score": 0.8053,
       "currencies": []
-    },
-    {
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.7086 \u2013 Reuters estimate - investingLive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
     },
     {
       "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28 - Reuters",
@@ -73,73 +91,59 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex Reserves Hit Record $740.8 Billion on Strong Foreign Currency Inflows - INDIA New England News",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8486,
-      "currencies": []
-    },
-    {
-      "title": "Salida man accused of defrauding investors of $2.7M in foreign currency scheme - Modesto Bee",
-      "source": "Google News",
+      "title": "European shares sag on Tehran\u2019s Hormuz zone plan and imminent ECB hike",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5814,
+      "score": -0.7577,
       "currencies": []
     },
     {
-      "title": "Burkhalter H1 earnings per share climb 8% on energy demand",
+      "title": "Earnings call transcript: AVI H2 2026 profit rises as second half weakens",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9305,
+      "score": 0.5724,
       "currencies": []
     },
     {
-      "title": "Bitcoin slips below $80k as Fed hike bets, oil surge weigh",
+      "title": "CPI Property H1 2026 slides: disposal gains offset earnings pressure",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6526,
+      "label": "bullish",
+      "score": 0.6425,
       "currencies": []
     },
     {
-      "title": "Why is Austal stock rallying today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Volkswagen\u2019s surprise turnaround deal averts showdown as job cuts loom",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9211,
-      "currencies": []
-    },
-    {
-      "title": "Asian currencies rise as yen strengthens, dollar pressured by fiscal concerns",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8211,
-      "currencies": []
-    },
-    {
-      "title": "SK Hynix tests KRW 1,770,000 resistance: Live levels",
+      "title": "CPI Property Group H1 2026 slides: CEE focus amid portfolio transition",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Nikkei 225 tests 66,550 resistance at make-or-break zone: Live",
+      "title": "J.P. Morgan starts Bytes, Bechtle coverage on limited AI upside",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Fear and compromise: How Volkswagen struck a deal over historic job cuts",
+      "title": "IHS Holding validates Fair Value analysis with 84% return over 29 months",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: CPI Property Group posts stable H1 2026 results, shares slip",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Novo Nordisk says semaglutide cut obesity rates in young children in trial",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8006,
       "currencies": []
     }
   ],
