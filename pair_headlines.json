@@ -3,10 +3,36 @@
   "pairs": {
     "EUR/USD": [
       {
-        "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
+        "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - forex.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      }
+    ],
+    "USD/JPY": [
+      {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7104 \u2013 Reuters estimate - investingLive",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC sets USD/ CNY central rate at 6.7804 (vs. estimate at 6.7104)",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD jumps to near $67 amid drop in US Dollar, bond yields",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.7697
+      },
+      {
+        "title": "Gold benefits from weak USD; eyes $4,450 as focus remains on US CPI data",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8797
       }
     ],
     "AUD/USD": [
@@ -17,18 +43,38 @@
         "score": 0.4818
       },
       {
-        "title": "Preview: China trade data due today, a beat could firm up AUD as a demand proxy trade",
+        "title": "China's Rio Tinto ore purchasing halt appears set to take effect. AUD down.",
         "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.953
+      },
+      {
+        "title": "ASX, AUD, NZD softer as NAB business conditions hit six-year low",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.6566
+      },
+      {
+        "title": "AUD/USD Price Forecast: Poised to test multi-year top near 0.7270-0.7275 amid bullish setup",
+        "source": "FXStreet",
         "label": "bullish",
-        "score": 0.9448
+        "score": 0.8733
+      }
+    ],
+    "NZD/USD": [
+      {
+        "title": "ASX, AUD, NZD softer as NAB business conditions hit six-year low",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.6566
       }
     ],
     "GBP/USD": [
       {
-        "title": "BRC data shows summer retail boost fading fast as GBP watches consumer signals",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.9443
+        "title": "GBP/USD Price Forecast: Consolidates below mid-1.3500s; bullish potential seems intact",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.6536
       }
     ]
   }

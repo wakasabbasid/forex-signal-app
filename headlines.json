@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
+      "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - forex.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -18,10 +18,17 @@
       "currencies": []
     },
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "title": "Yen reclaims \u00a5153 to the dollar and continues to rally - The Japan Times",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8977,
+      "score": 0.8778,
+      "currencies": []
+    },
+    {
+      "title": "China's forex reserves rise more than expected in August - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9388,
       "currencies": []
     },
     {
@@ -32,17 +39,33 @@
       "currencies": []
     },
     {
-      "title": "Global forex shifts: Yen carry trade unwinds amid policy divergence. - marketpulse.com",
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.7104 \u2013 Reuters estimate - investingLive",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.7565,
-      "currencies": []
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "China's forex reserves rise more than expected in August - Yahoo Finance",
       "source": "Google News",
       "label": "bullish",
       "score": 0.938,
+      "currencies": []
+    },
+    {
+      "title": "Central Bank Chief Claims No Severe Forex Deficit Despite Rial Collapse - IranWire",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5553,
+      "currencies": []
+    },
+    {
+      "title": "Rupee falls 10 paise to 94.66 against U.S. dollar in early trade - The Hindu",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.916,
       "currencies": []
     },
     {
@@ -56,94 +79,73 @@
       ]
     },
     {
-      "title": "Central Bank Chief Claims No Severe Forex Deficit Despite Rial Collapse - IranWire",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5553,
-      "currencies": []
-    },
-    {
-      "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28 - Reuters",
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9121,
+      "score": 0.8977,
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex Reserves Hit Record $740.8 Billion on Strong Foreign Currency Inflows - indianewengland.com",
+      "title": "India\u2019s Forex Reserves Hit Record $740.8 Billion on Strong Foreign Currency Inflows - INDIA New England News",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.7936,
+      "score": 0.8486,
       "currencies": []
     },
     {
-      "title": "Yen surges to 6-month high on aggressive BOJ rate bets ; dollar slips - Investing.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8053,
-      "currencies": []
-    },
-    {
-      "title": "Salida man accused of defrauding investors of $2.7M in foreign currency scheme - Modesto Bee",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5814,
-      "currencies": []
-    },
-    {
-      "title": "Japan July real wages rise 2.4%, biggest gain since 2021",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9291,
-      "currencies": []
-    },
-    {
-      "title": "Colombia 12-month inflation edges up more than expected in August",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9307,
-      "currencies": []
-    },
-    {
-      "title": "UK retail sales growth slows to 4-month low in August, BRC says",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9695,
-      "currencies": []
-    },
-    {
-      "title": "At least five killed in Amazon Prime Air cargo plane crash in Miami",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8978,
-      "currencies": []
-    },
-    {
-      "title": "EverBank to combine with WaFd in $3.9 billion reverse merger",
+      "title": "Australia targets social media algorithms with new user-choice rules",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Mexico stocks lower at close of trade; S&P/BMV IPC down 0.21%",
+      "title": "Japan Q2 GDP growth revised higher, supporting case for BOJ rate hike",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9665,
+      "label": "bullish",
+      "score": 0.9391,
       "currencies": []
     },
     {
-      "title": "Colombia stocks higher at close of trade; COLCAP up 0.82%",
+      "title": "Gift Nifty 50 Doji at 61.8% Fib support: Live levels",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9417,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Russia stocks higher at close of trade; MOEX Russia Index up 0.61%",
+      "title": "China\u2019s exports surge as demand for high-tech, AI help prop up economic growth",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9447,
+      "score": 0.9429,
+      "currencies": []
+    },
+    {
+      "title": "Yen extends rally to new seven-month high; dollar subdued ahead of CPI",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.4731,
+      "currencies": []
+    },
+    {
+      "title": "Why isn\u2019t oil above $100 despite supply disruptions?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Discovery Mining appoints Shaver to board, promotes executives",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "China exports surge 25% in August, trade surplus widens",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9453,
       "currencies": []
     }
   ],
