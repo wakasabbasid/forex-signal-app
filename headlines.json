@@ -15,7 +15,14 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - forex.com",
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8977,
+      "currencies": []
+    },
+    {
+      "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -23,13 +30,6 @@
         "EUR",
         "USD"
       ]
-    },
-    {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8977,
-      "currencies": []
     },
     {
       "title": "USD/ZAR Tests 16.00 Ahead of CPI and Fed Decision - DailyForex",
@@ -55,15 +55,6 @@
       "currencies": []
     },
     {
-      "title": "INR to USD: Rupee falls 10 paise to 94.66 against U.S. dollar in early trade - The Hindu",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9518,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
       "title": "China's forex reserves rise more than expected in August - Yahoo Finance",
       "source": "Google News",
       "label": "bullish",
@@ -78,6 +69,13 @@
       "currencies": []
     },
     {
+      "title": "Salida man accused of defrauding investors of $2.7M in foreign currency scheme - Modesto Bee",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5814,
+      "currencies": []
+    },
+    {
       "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28 - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -85,7 +83,7 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY Analysis: Japan's Interventions Continue to Support Yen Strength - forex.com",
+      "title": "USD/JPY Analysis: Japan's Interventions Continue to Support Yen Strength - FOREX.com",
       "source": "Google News",
       "label": "bullish",
       "score": 0.8052,
@@ -95,59 +93,59 @@
       ]
     },
     {
-      "title": "Morning Bid: Yen at work",
+      "title": "Philips launches IPL hair removal device with audio guidance",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Old Mutual H1 2026 slides: returns top cost of capital as bank scales",
+      "title": "Intel, AMD among market cap stock movers on Tuesday",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "UBS raises Marathon Petroleum stock price target on refining margins",
+      "title": "Philip Morris International at Barclays conference: smoke-free push stays on track",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "UBS raises Phillips 66 stock price target on margin tailwinds",
+      "title": "Why is Bombardier stock dropping today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6955,
+      "score": -0.9225,
       "currencies": []
     },
     {
-      "title": "M&T Bank stock rating upgraded by Morgan Stanley on NII outlook",
+      "title": "Robinhood to route football contracts through OG.com exchange",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "BofA reiterates Buy on Apple stock ahead of iPhone 18 launch",
+      "title": "WEEX returns to TOKEN2049 Singapore as platinum sponsor, as trading moves beyond crypto",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.6916,
       "currencies": []
     },
     {
-      "title": "UBS lowers Peloton stock price target on churn concerns",
+      "title": "Bombardier shares drop as Trump threatens U.S. sales ban",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9536,
       "currencies": []
     },
     {
-      "title": "UBS raises HF Sinclair stock price target on margin strength",
+      "title": "Power Metallic Defines High-Grade Maiden Resource at Lion Averaging ~3.9% CuEq, with >85% Indicated and Significant Expansion Potential",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.7556,
       "currencies": []
     }
   ],

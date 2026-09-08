@@ -3,10 +3,16 @@
   "pairs": {
     "EUR/USD": [
       {
-        "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - forex.com",
+        "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "Euro: ECB expectations support EUR against US Dollar \u2013 Scotiabank",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.7593
       }
     ],
     "USD/JPY": [
@@ -17,36 +23,10 @@
         "score": 0.6154
       },
       {
-        "title": "INR to USD: Rupee falls 10 paise to 94.66 against U.S. dollar in early trade - The Hindu",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9518
-      },
-      {
-        "title": "USD/JPY Analysis: Japan's Interventions Continue to Support Yen Strength - forex.com",
+        "title": "USD/JPY Analysis: Japan's Interventions Continue to Support Yen Strength - FOREX.com",
         "source": "Google News",
         "label": "bullish",
         "score": 0.8052
-      },
-      {
-        "title": "USD/JPY selloff extends further as Yen hits seven-month high; US CPI and BoJ in focus next",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.5417
-      },
-      {
-        "title": "Gold Price Forecast: XAU/USD dips below $4,400 as Middle East tensions grow",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9684
-      }
-    ],
-    "NZD/USD": [
-      {
-        "title": "NZD/USD Price Forecast: Bears test support at 200-day SMA as risk appetite fades",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9162
       }
     ]
   }
