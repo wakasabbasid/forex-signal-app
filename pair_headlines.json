@@ -7,12 +7,6 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "Dual Hawkish Repricing Masks EUR/USD Trap - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
       }
     ],
     "USD/JPY": [
@@ -23,16 +17,10 @@
         "score": 0.6154
       },
       {
-        "title": "Patrick Industries stock hits 52-week low at 80.55 USD",
-        "source": "Investing.com",
+        "title": "investingLive Americas FX news wrap 8 Sept: USD mixed, yields rise. Trader await inflation data.",
+        "source": "ForexLive",
         "label": "bearish",
-        "score": -0.9484
-      },
-      {
-        "title": "Japanese Yen: Policy scenarios favor stronger JPY against US Dollar \u2013 BBH",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8273
+        "score": -0.5486
       }
     ]
   }

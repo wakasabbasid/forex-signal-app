@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - britannica.com",
+      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -25,10 +25,10 @@
       ]
     },
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28 - Reuters",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8977,
+      "score": 0.9121,
       "currencies": []
     },
     {
@@ -41,24 +41,17 @@
       ]
     },
     {
-      "title": "Inside the $9.5 Trillion Forex Market: Tag Markets on How Technology Is Changing Access - geekwire.com",
+      "title": "Inside the $9.5 Trillion Forex Market: Tag Markets on How Technology Is Changing Access - GeekWire",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Czech Republic Forex Reserves Hit Record High - tradingview.com",
+      "title": "Czech Republic Forex Reserves Hit Record High - TradingView",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Dollar slips as yen hits seven-month high on BOJ hike bets - Investing.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6824,
+      "label": "bullish",
+      "score": 0.9341,
       "currencies": []
     },
     {
@@ -69,6 +62,13 @@
       "currencies": []
     },
     {
+      "title": "Forex Today: Japanese Yen extends rally, Oil prices climb higher - FXStreet",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9126,
+      "currencies": []
+    },
+    {
       "title": "Salida man accused of defrauding investors of $2.7M in foreign currency scheme - Modesto Bee",
       "source": "Google News",
       "label": "bearish",
@@ -76,75 +76,70 @@
       "currencies": []
     },
     {
-      "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28 - Reuters",
+      "title": "India\u2019s Forex Reserves Hit Record $740.8 Billion on Strong Foreign Currency Inflows - INDIA New England News",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9121,
+      "score": 0.8486,
       "currencies": []
     },
     {
-      "title": "Dual Hawkish Repricing Masks EUR/USD Trap - DailyForex",
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "Jefferies reiterates Sarepta Therapeutics stock rating on trial data outlook",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.8977,
       "currencies": []
     },
     {
-      "title": "Buyout firm CVC explores $2 billion sale of Dr Teal\u2019s parent company, sources say",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is Tenable stock slipping today?",
+      "title": "Paramount says California AG\u00a0contradicted bond arguments in TV interviews",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.915,
+      "score": -0.6922,
       "currencies": []
     },
     {
-      "title": "Patrick Industries stock hits 52-week low at 80.55 USD",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9484,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Qualcomm stock surges on Amazon AI deal & 25M share warrant",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6842,
-      "currencies": []
-    },
-    {
-      "title": "Navitas Semiconductor at Citi\u2019s 2026 Global TMT Conference: pivot to ai power",
+      "title": "Ieh corp director Michael Rosenfeld sells $163,221 of IEHC stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "AvePoint at Citi\u2019s 2026 Global TMT Conference: ai governance push",
+      "title": "US accuses Chinese AI firms of \u2019malicious\u2019 copying of AI technology",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9001,
+      "currencies": []
+    },
+    {
+      "title": "Mexico stocks higher at close of trade; S&P/BMV IPC up 0.52%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9423,
+      "currencies": []
+    },
+    {
+      "title": "Constellation Brands to redeem $600m senior notes due 2027",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Intel, AMD among market cap stock movers on Tuesday",
+      "title": "Northrop Grumman wins $4.8bn Army countermeasure contract",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8452,
+      "currencies": []
+    },
+    {
+      "title": "Colombia stocks higher at close of trade; COLCAP up 0.15%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9409,
+      "currencies": []
+    },
+    {
+      "title": "Why is Assembly Biosciences stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
