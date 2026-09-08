@@ -3,16 +3,10 @@
   "pairs": {
     "EUR/USD": [
       {
-        "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - forex.com",
+        "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "Kickstart the North American FX session. The USDJPY is the big mover. The EUR and GBP are down modestly",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.9646
       }
     ],
     "AUD/USD": [
@@ -29,26 +23,12 @@
         "score": 0.9448
       }
     ],
-    "USD/JPY": [
-      {
-        "title": "USD/JPY remains heavy as the new week gets underway, what are the technicals saying? - investingLive",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "investingLive Americas FX news wrap 7 Sept: USD falls as the yen surges on BOJ rate-hike expectations",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.9658
-      }
-    ],
     "GBP/USD": [
       {
-        "title": "Kickstart the North American FX session. The USDJPY is the big mover. The EUR and GBP are down modestly",
+        "title": "BRC data shows summer retail boost fading fast as GBP watches consumer signals",
         "source": "ForexLive",
         "label": "bearish",
-        "score": -0.9646
+        "score": -0.9443
       }
     ]
   }

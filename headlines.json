@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - forex.com",
+      "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -32,6 +32,13 @@
       "currencies": []
     },
     {
+      "title": "Global forex shifts: Yen carry trade unwinds amid policy divergence. - marketpulse.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7565,
+      "currencies": []
+    },
+    {
       "title": "China's forex reserves rise more than expected in August - Yahoo Finance",
       "source": "Google News",
       "label": "bullish",
@@ -56,24 +63,24 @@
       "currencies": []
     },
     {
-      "title": "SNB Reserves Edge Higher as Summer Surge Loses Momentum - Action Forex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8661,
-      "currencies": []
-    },
-    {
-      "title": "India\u2019s Forex Reserves Hit Record $740.8 Billion on Strong Foreign Currency Inflows - INDIA New England News",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8486,
-      "currencies": []
-    },
-    {
       "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28 - Reuters",
       "source": "Google News",
       "label": "bullish",
       "score": 0.9121,
+      "currencies": []
+    },
+    {
+      "title": "India\u2019s Forex Reserves Hit Record $740.8 Billion on Strong Foreign Currency Inflows - indianewengland.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7936,
+      "currencies": []
+    },
+    {
+      "title": "Yen surges to 6-month high on aggressive BOJ rate bets ; dollar slips - Investing.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8053,
       "currencies": []
     },
     {
@@ -84,69 +91,59 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY remains heavy as the new week gets underway, what are the technicals saying? - investingLive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
-      "title": "Trump says Canada\u2019s Bombardier cannot sell in US unless it builds there",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Bitcoin trapped in $76K-$82K range: Live levels",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Brent Oil stalls at resistance with RSI at 72: Live levels",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9122,
-      "currencies": []
-    },
-    {
-      "title": "Crude Oil WTI tests $93.64 resistance with overbought RSI: Live levels",
+      "title": "Japan July real wages rise 2.4%, biggest gain since 2021",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7818,
+      "score": 0.9291,
       "currencies": []
     },
     {
-      "title": "Dow Jones squeezed at 53,111 ahead of breakout: Live levels",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "London Gas Oil spikes 12% above 50-MA, overbought: Live levels",
+      "title": "Colombia 12-month inflation edges up more than expected in August",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9259,
+      "score": 0.9307,
       "currencies": []
     },
     {
-      "title": "Copper trapped near $6.70 with ADX at 8.8: Live levels",
+      "title": "UK retail sales growth slows to 4-month low in August, BRC says",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7128,
+      "score": -0.9695,
       "currencies": []
     },
     {
-      "title": "Natural Gas stalls below $3.00 resistance: Live levels",
+      "title": "At least five killed in Amazon Prime Air cargo plane crash in Miami",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8978,
+      "currencies": []
+    },
+    {
+      "title": "EverBank to combine with WaFd in $3.9 billion reverse merger",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Mexico stocks lower at close of trade; S&P/BMV IPC down 0.21%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9665,
+      "currencies": []
+    },
+    {
+      "title": "Colombia stocks higher at close of trade; COLCAP up 0.82%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9417,
+      "currencies": []
+    },
+    {
+      "title": "Russia stocks higher at close of trade; MOEX Russia Index up 0.61%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9447,
       "currencies": []
     }
   ],
