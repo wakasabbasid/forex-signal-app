@@ -1,6 +1,20 @@
 {
   "headlines": [
     {
+      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Yen makes dash across \u00a5153, raising possibility that trend has turned - The Japan Times",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6328,
+      "currencies": []
+    },
+    {
       "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - forex.com",
       "source": "Google News",
       "label": "neutral",
@@ -11,25 +25,20 @@
       ]
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.8977,
       "currencies": []
     },
     {
-      "title": "Yen reclaims \u00a5153 to the dollar and continues to rally - The Japan Times",
+      "title": "USD/ZAR Tests 16.00 Ahead of CPI and Fed Decision - DailyForex",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8778,
-      "currencies": []
-    },
-    {
-      "title": "China's forex reserves rise more than expected in August - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9388,
-      "currencies": []
+      "score": 0.6154,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "Inside the $9.5 Trillion Forex Market: Tag Markets on How Technology Is Changing Access - GeekWire",
@@ -39,10 +48,17 @@
       "currencies": []
     },
     {
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.7104 \u2013 Reuters estimate - investingLive",
+      "title": "Czech Republic Forex Reserves Hit Record High - TradingView",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9341,
+      "currencies": []
+    },
+    {
+      "title": "INR to USD: Rupee falls 10 paise to 94.66 against U.S. dollar in early trade - The Hindu",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9518,
       "currencies": [
         "USD"
       ]
@@ -55,97 +71,83 @@
       "currencies": []
     },
     {
-      "title": "Central Bank Chief Claims No Severe Forex Deficit Despite Rial Collapse - IranWire",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5553,
-      "currencies": []
-    },
-    {
-      "title": "Rupee falls 10 paise to 94.66 against U.S. dollar in early trade - The Hindu",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.916,
-      "currencies": []
-    },
-    {
-      "title": "AUD/USD Forex Signal 07/09: Buy Setups Above 0.7188 - DailyForex",
+      "title": "Yen surges to 7-month high as BOJ hike bets and carry-trade unwind - Investing.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.4818,
+      "score": 0.6589,
+      "currencies": []
+    },
+    {
+      "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28 - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9121,
+      "currencies": []
+    },
+    {
+      "title": "USD/JPY Analysis: Japan's Interventions Continue to Support Yen Strength - forex.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8052,
       "currencies": [
-        "AUD",
-        "USD"
+        "USD",
+        "JPY"
       ]
     },
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8977,
-      "currencies": []
-    },
-    {
-      "title": "India\u2019s Forex Reserves Hit Record $740.8 Billion on Strong Foreign Currency Inflows - INDIA New England News",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8486,
-      "currencies": []
-    },
-    {
-      "title": "Australia targets social media algorithms with new user-choice rules",
+      "title": "Morning Bid: Yen at work",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Japan Q2 GDP growth revised higher, supporting case for BOJ rate hike",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9391,
-      "currencies": []
-    },
-    {
-      "title": "Gift Nifty 50 Doji at 61.8% Fib support: Live levels",
+      "title": "Old Mutual H1 2026 slides: returns top cost of capital as bank scales",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "China\u2019s exports surge as demand for high-tech, AI help prop up economic growth",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9429,
-      "currencies": []
-    },
-    {
-      "title": "Yen extends rally to new seven-month high; dollar subdued ahead of CPI",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.4731,
-      "currencies": []
-    },
-    {
-      "title": "Why isn\u2019t oil above $100 despite supply disruptions?",
+      "title": "UBS raises Marathon Petroleum stock price target on refining margins",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Discovery Mining appoints Shaver to board, promotes executives",
+      "title": "UBS raises Phillips 66 stock price target on margin tailwinds",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6955,
+      "currencies": []
+    },
+    {
+      "title": "M&T Bank stock rating upgraded by Morgan Stanley on NII outlook",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "China exports surge 25% in August, trade surplus widens",
+      "title": "BofA reiterates Buy on Apple stock ahead of iPhone 18 launch",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9453,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "UBS lowers Peloton stock price target on churn concerns",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "UBS raises HF Sinclair stock price target on margin strength",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

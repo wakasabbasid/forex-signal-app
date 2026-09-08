@@ -11,70 +11,42 @@
     ],
     "USD/JPY": [
       {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7104 \u2013 Reuters estimate - investingLive",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "PBOC sets USD/ CNY central rate at 6.7804 (vs. estimate at 6.7104)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD jumps to near $67 amid drop in US Dollar, bond yields",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.7697
-      },
-      {
-        "title": "Gold benefits from weak USD; eyes $4,450 as focus remains on US CPI data",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8797
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "AUD/USD Forex Signal 07/09: Buy Setups Above 0.7188 - DailyForex",
+        "title": "USD/ZAR Tests 16.00 Ahead of CPI and Fed Decision - DailyForex",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.4818
+        "score": 0.6154
       },
       {
-        "title": "China's Rio Tinto ore purchasing halt appears set to take effect. AUD down.",
-        "source": "ForexLive",
+        "title": "INR to USD: Rupee falls 10 paise to 94.66 against U.S. dollar in early trade - The Hindu",
+        "source": "Google News",
         "label": "bearish",
-        "score": -0.953
+        "score": -0.9518
       },
       {
-        "title": "ASX, AUD, NZD softer as NAB business conditions hit six-year low",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.6566
-      },
-      {
-        "title": "AUD/USD Price Forecast: Poised to test multi-year top near 0.7270-0.7275 amid bullish setup",
-        "source": "FXStreet",
+        "title": "USD/JPY Analysis: Japan's Interventions Continue to Support Yen Strength - forex.com",
+        "source": "Google News",
         "label": "bullish",
-        "score": 0.8733
+        "score": 0.8052
+      },
+      {
+        "title": "USD/JPY selloff extends further as Yen hits seven-month high; US CPI and BoJ in focus next",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.5417
+      },
+      {
+        "title": "Gold Price Forecast: XAU/USD dips below $4,400 as Middle East tensions grow",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9684
       }
     ],
     "NZD/USD": [
       {
-        "title": "ASX, AUD, NZD softer as NAB business conditions hit six-year low",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.6566
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "GBP/USD Price Forecast: Consolidates below mid-1.3500s; bullish potential seems intact",
+        "title": "NZD/USD Price Forecast: Bears test support at 200-day SMA as risk appetite fades",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.6536
+        "score": 0.9162
       }
     ]
   }
