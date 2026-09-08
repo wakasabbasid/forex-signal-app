@@ -9,10 +9,10 @@
         "score": 0.0
       },
       {
-        "title": "Euro: ECB expectations support EUR against US Dollar \u2013 Scotiabank",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.7593
+        "title": "Dual Hawkish Repricing Masks EUR/USD Trap - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "USD/JPY": [
@@ -23,10 +23,16 @@
         "score": 0.6154
       },
       {
-        "title": "USD/JPY Analysis: Japan's Interventions Continue to Support Yen Strength - FOREX.com",
-        "source": "Google News",
+        "title": "Patrick Industries stock hits 52-week low at 80.55 USD",
+        "source": "Investing.com",
+        "label": "bearish",
+        "score": -0.9484
+      },
+      {
+        "title": "Japanese Yen: Policy scenarios favor stronger JPY against US Dollar \u2013 BBH",
+        "source": "FXStreet",
         "label": "bullish",
-        "score": 0.8052
+        "score": 0.8273
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
+      "title": "What Is the Foreign Exchange Market: A Guide - britannica.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -15,13 +15,6 @@
       "currencies": []
     },
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8977,
-      "currencies": []
-    },
-    {
       "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -30,6 +23,13 @@
         "EUR",
         "USD"
       ]
+    },
+    {
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8977,
+      "currencies": []
     },
     {
       "title": "USD/ZAR Tests 16.00 Ahead of CPI and Fed Decision - DailyForex",
@@ -41,17 +41,24 @@
       ]
     },
     {
-      "title": "Inside the $9.5 Trillion Forex Market: Tag Markets on How Technology Is Changing Access - GeekWire",
+      "title": "Inside the $9.5 Trillion Forex Market: Tag Markets on How Technology Is Changing Access - geekwire.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Czech Republic Forex Reserves Hit Record High - TradingView",
+      "title": "Czech Republic Forex Reserves Hit Record High - tradingview.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.9341,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Dollar slips as yen hits seven-month high on BOJ hike bets - Investing.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6824,
       "currencies": []
     },
     {
@@ -59,13 +66,6 @@
       "source": "Google News",
       "label": "bullish",
       "score": 0.938,
-      "currencies": []
-    },
-    {
-      "title": "Yen surges to 7-month high as BOJ hike bets and carry-trade unwind - Investing.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6589,
       "currencies": []
     },
     {
@@ -83,17 +83,61 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY Analysis: Japan's Interventions Continue to Support Yen Strength - FOREX.com",
+      "title": "Dual Hawkish Repricing Masks EUR/USD Trap - DailyForex",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.8052,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
-        "USD",
-        "JPY"
+        "EUR",
+        "USD"
       ]
     },
     {
-      "title": "Philips launches IPL hair removal device with audio guidance",
+      "title": "Jefferies reiterates Sarepta Therapeutics stock rating on trial data outlook",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Buyout firm CVC explores $2 billion sale of Dr Teal\u2019s parent company, sources say",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why is Tenable stock slipping today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.915,
+      "currencies": []
+    },
+    {
+      "title": "Patrick Industries stock hits 52-week low at 80.55 USD",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9484,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Qualcomm stock surges on Amazon AI deal & 25M share warrant",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6842,
+      "currencies": []
+    },
+    {
+      "title": "Navitas Semiconductor at Citi\u2019s 2026 Global TMT Conference: pivot to ai power",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "AvePoint at Citi\u2019s 2026 Global TMT Conference: ai governance push",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
@@ -104,48 +148,6 @@
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Philip Morris International at Barclays conference: smoke-free push stays on track",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is Bombardier stock dropping today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9225,
-      "currencies": []
-    },
-    {
-      "title": "Robinhood to route football contracts through OG.com exchange",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "WEEX returns to TOKEN2049 Singapore as platinum sponsor, as trading moves beyond crypto",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6916,
-      "currencies": []
-    },
-    {
-      "title": "Bombardier shares drop as Trump threatens U.S. sales ban",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9536,
-      "currencies": []
-    },
-    {
-      "title": "Power Metallic Defines High-Grade Maiden Resource at Lion Averaging ~3.9% CuEq, with >85% Indicated and Significant Expansion Potential",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7556,
       "currencies": []
     }
   ],
