@@ -32,13 +32,11 @@
       "currencies": []
     },
     {
-      "title": "USD/ZAR Tests 16.00 Ahead of CPI and Fed Decision - DailyForex",
+      "title": "Yen hovers near seven-month high, dollar steadies - cnbc.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.6154,
-      "currencies": [
-        "USD"
-      ]
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "Inside the $9.5 Trillion Forex Market: Tag Markets on How Technology Is Changing Access - GeekWire",
@@ -46,6 +44,15 @@
       "label": "neutral",
       "score": 0.0,
       "currencies": []
+    },
+    {
+      "title": "USD/ZAR Tests 16.00 Ahead of CPI and Fed Decision - DailyForex",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6154,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "Czech Republic Forex Reserves Hit Record High - TradingView",
@@ -59,13 +66,6 @@
       "source": "Google News",
       "label": "bullish",
       "score": 0.938,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: Japanese Yen extends rally, Oil prices climb higher - FXStreet",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9126,
       "currencies": []
     },
     {
@@ -83,63 +83,63 @@
       "currencies": []
     },
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "title": "Forex Today: Japanese Yen extends rally, Oil prices climb higher - FXStreet",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8977,
+      "score": 0.9126,
       "currencies": []
     },
     {
-      "title": "Paramount says California AG\u00a0contradicted bond arguments in TV interviews",
+      "title": "Chalice Mining at Resources Rising Stars: pushes Gonneville toward FID",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6922,
+      "label": "bullish",
+      "score": 0.7595,
       "currencies": []
     },
     {
-      "title": "Ieh corp director Michael Rosenfeld sells $163,221 of IEHC stock",
+      "title": "US to ban Canadian dairy, alcohol, motor vehicle imports on September 29",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US accuses Chinese AI firms of \u2019malicious\u2019 copying of AI technology",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9001,
-      "currencies": []
-    },
-    {
-      "title": "Mexico stocks higher at close of trade; S&P/BMV IPC up 0.52%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9423,
-      "currencies": []
-    },
-    {
-      "title": "Constellation Brands to redeem $600m senior notes due 2027",
+      "title": "Palladyne AI president & CEO Wolff buys $99,128 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Northrop Grumman wins $4.8bn Army countermeasure contract",
+      "title": "IRS under Trump unlawfully shared taxpayer info with immigration authorities, court rules",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8452,
+      "label": "bearish",
+      "score": -0.7428,
       "currencies": []
     },
     {
-      "title": "Colombia stocks higher at close of trade; COLCAP up 0.15%",
+      "title": "New Zealand to allow wealthy migrants to build rental housing",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9409,
+      "score": 0.5113,
       "currencies": []
     },
     {
-      "title": "Why is Assembly Biosciences stock surging today?",
+      "title": "Amalgamated Financial: 10% owner sells $7.6m in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Workers United sells $7.68m in Amalgamated Financial stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Contineum Therapeutics CEO Stengone sells $41,141 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

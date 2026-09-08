@@ -21,6 +21,12 @@
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.5486
+      },
+      {
+        "title": "USD/JPY Price Forecast: Hammer teases rebound after 650-pip slide",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.7676
       }
     ]
   }
