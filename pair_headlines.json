@@ -3,38 +3,38 @@
   "pairs": {
     "EUR/USD": [
       {
-        "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
+        "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - forex.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "Euro: Hawkish ECB hike expected to support EUR against US Dollar \u2013 Scotiabank",
+        "title": "EUR/USD Price Forecast: Buyers seek a decisive break above the 200-day SMA",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.5129
+        "score": 0.919
       }
     ],
-    "GBP/USD": [
+    "USD/CAD": [
       {
-        "title": "GBP/USD Forex Signal 09/09: Buy Setups Above 1.3554 - DailyForex",
+        "title": "USD/CAD Tests Critical Support Ahead of Fed Rate Decision Week - DailyForex",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.574
+        "score": 0.9201
       }
     ],
     "USD/JPY": [
-      {
-        "title": "USD/JPY Falls to Seven-Month Low: What\u2019s Going On? - Action Forex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.904
-      },
       {
         "title": "USDCAD Technicals: Why isn't the Canadian dollar weakening vs the USD given the trade war?",
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.9368
+      },
+      {
+        "title": "Australian Dollar stabilizes as rebound in US yields supports USD",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8938
       }
     ]
   }

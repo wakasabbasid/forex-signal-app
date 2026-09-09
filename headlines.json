@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
+      "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - forex.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -25,16 +25,6 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Forex Signal 09/09: Buy Setups Above 1.3554 - DailyForex",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.574,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
       "title": "Exchange rate | Foreign Exchange, Currency Fluctuations, Exchange Rates - Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -42,10 +32,34 @@
       "currencies": []
     },
     {
-      "title": "RBI to expand retail forex access with five new currency pairs, plans wider global currency bouquet - The Economic Times",
+      "title": "RBI to expand retail forex access with five new currency pairs, plans wider global currency bouquet - economictimes.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.68,
+      "score": 0.5437,
+      "currencies": []
+    },
+    {
+      "title": "Yen makes dash across \u00a5153, raising possibility that trend has turned - japantimes.co.jp",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "USD/CAD Tests Critical Support Ahead of Fed Rate Decision Week - DailyForex",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9201,
+      "currencies": [
+        "USD",
+        "CAD"
+      ]
+    },
+    {
+      "title": "Inside the $9.5 Trillion Forex Market: Tag Markets on How Technology Is Changing Access - geekwire.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -56,24 +70,17 @@
       "currencies": []
     },
     {
-      "title": "Yen makes dash across \u00a5153, raising possibility that trend has turned - The Japan Times",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6328,
-      "currencies": []
-    },
-    {
-      "title": "Inside the $9.5 Trillion Forex Market: Tag Markets on How Technology Is Changing Access - GeekWire",
+      "title": "Dollar sinks as yen surges, oil nears $100 and ECB hike bets grow - Investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar retreats as markets gear up for key events - fxstreet.com",
+      "title": "China's forex reserves rise more than expected in August - Yahoo Finance",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9387,
+      "label": "bullish",
+      "score": 0.938,
       "currencies": []
     },
     {
@@ -84,66 +91,56 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY Falls to Seven-Month Low: What\u2019s Going On? - Action Forex",
-      "source": "Google News",
+      "title": "Asana at Citi\u2019s 2026 Global TMT Conference: AI push deepens",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.904,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
+      "score": -0.5758,
+      "currencies": []
     },
     {
-      "title": "AEVEX at Jefferies Global Industrials Conference 2026: growth, scale and a new deal",
+      "title": "Murphy Oil at Barclays energy conference: cash flow, appraisal and optionality",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Denali at Cantor global healthcare conference: launch gains traction",
+      "title": "Trump boards Qatar-gifted Air Force One after saying slide being checked",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Zscaler at Citi\u2019s 2026 Global TMT Conference: growth broadens",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8216,
+      "score": 0.805,
       "currencies": []
     },
     {
-      "title": "Why is MercadoLibre stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9074,
-      "currencies": []
-    },
-    {
-      "title": "Germany\u2019s 4.5 gigawatt gas power plant tender oversubscribed",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9636,
-      "currencies": []
-    },
-    {
-      "title": "Las Vegas Sands stock hits 52-week low at $43.35",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9549,
-      "currencies": []
-    },
-    {
-      "title": "Parsons at Jefferies global industrials conference: bookings surge",
+      "title": "Corebridge at KBW Insurance Conference 2026: merger pitch centers on growth",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is Alphabet stock sliding today?",
+      "title": "Exclusive-OpenAI\u2019s rogue agents used at least 10 more sites for unauthorized comms, researchers say",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8746,
+      "score": -0.6523,
       "currencies": []
     },
     {
-      "title": "Clorox at Boston Global Staples Conference 2026: growth plan in focus",
+      "title": "AptarGroup at Wells Fargo healthcare conference: execution takes center stage",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Palvella at Cantor global healthcare conference: rare-disease push",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
