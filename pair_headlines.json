@@ -3,16 +3,10 @@
   "pairs": {
     "EUR/USD": [
       {
-        "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - forex.com",
+        "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "EUR/USD Price Forecast: Buyers seek a decisive break above the 200-day SMA",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.919
       }
     ],
     "USD/CAD": [
@@ -25,16 +19,32 @@
     ],
     "USD/JPY": [
       {
-        "title": "USDCAD Technicals: Why isn't the Canadian dollar weakening vs the USD given the trade war?",
+        "title": "USD/JPY and the \"I am the House now\" trade",
         "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.9368
+        "label": "neutral",
+        "score": 0.0
       },
       {
-        "title": "Australian Dollar stabilizes as rebound in US yields supports USD",
+        "title": "GBP/JPY Price Forecast: Bears Eye 207.00 as downtrend holds",
         "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8938
+        "label": "bearish",
+        "score": -0.7546
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/JPY Price Forecast: Bears Eye 207.00 as downtrend holds",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.7546
+      }
+    ],
+    "NZD/USD": [
+      {
+        "title": "NZD/USD Price Forecast: SMA cluster wobbles as US yields bite",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9632
       }
     ]
   }

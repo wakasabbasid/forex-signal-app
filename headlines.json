@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - forex.com",
+      "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -18,28 +18,28 @@
       "currencies": []
     },
     {
-      "title": "India RBI Uses Currency Swaps to Cut $115 Billion Cash Surplus - Bloomberg.com",
+      "title": "India RBI Uses Currency Swaps to Cut $115 Billion Cash Surplus - Bloomberg",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.435,
       "currencies": []
     },
     {
-      "title": "Exchange rate | Foreign Exchange, Currency Fluctuations, Exchange Rates - Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "RBI to expand retail forex access with five new currency pairs, plans wider global currency bouquet - economictimes.com",
+      "title": "RBI to expand retail forex access with five new currency pairs, plans wider global currency bouquet - The Economic Times",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.5437,
+      "score": 0.68,
       "currencies": []
     },
     {
-      "title": "Yen makes dash across \u00a5153, raising possibility that trend has turned - japantimes.co.jp",
+      "title": "Yen makes dash across \u00a5153, raising possibility that trend has turned - The Japan Times",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6328,
+      "currencies": []
+    },
+    {
+      "title": "Inside the $9.5 Trillion Forex Market: Tag Markets on How Technology Is Changing Access - GeekWire",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -56,13 +56,6 @@
       ]
     },
     {
-      "title": "Inside the $9.5 Trillion Forex Market: Tag Markets on How Technology Is Changing Access - geekwire.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "G10\u2019s \u2018surprise\u2019 currency star could stumble as peers hike interest rates - Forex Factory",
       "source": "Google News",
       "label": "bearish",
@@ -70,10 +63,10 @@
       "currencies": []
     },
     {
-      "title": "Dollar sinks as yen surges, oil nears $100 and ECB hike bets grow - Investing.com",
+      "title": "Forex Today: US Dollar retreats as markets gear up for key events - FXStreet",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9582,
       "currencies": []
     },
     {
@@ -84,63 +77,70 @@
       "currencies": []
     },
     {
-      "title": "Iran Loosens Forex Rules to Let Exporters Settle Trade in Bitcoin and Tether - finance.biggo.com",
+      "title": "Dollar sinks as yen surges, oil nears $100 and ECB hike bets grow - Investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Asana at Citi\u2019s 2026 Global TMT Conference: AI push deepens",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5758,
-      "currencies": []
-    },
-    {
-      "title": "Murphy Oil at Barclays energy conference: cash flow, appraisal and optionality",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Trump boards Qatar-gifted Air Force One after saying slide being checked",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Zscaler at Citi\u2019s 2026 Global TMT Conference: growth broadens",
-      "source": "Investing.com",
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "source": "Google News",
       "label": "bullish",
-      "score": 0.805,
+      "score": 0.8977,
       "currencies": []
     },
     {
-      "title": "Corebridge at KBW Insurance Conference 2026: merger pitch centers on growth",
+      "title": "Acumen at Cantor Fitzgerald conference: sabirnetug, brain-shuttle push",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Exclusive-OpenAI\u2019s rogue agents used at least 10 more sites for unauthorized comms, researchers say",
+      "title": "Earnings call transcript: Lakeland Fire and Safety posts mixed Q2 2026 results",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6523,
+      "score": -0.8747,
       "currencies": []
     },
     {
-      "title": "AptarGroup at Wells Fargo healthcare conference: execution takes center stage",
+      "title": "ADP at Citi\u2019s 2026 Global TMT Conference: ai lifts growth view",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Palvella at Cantor global healthcare conference: rare-disease push",
+      "title": "Citi Private Bank hires\u00a0Radzinski from Bank of America",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Canada\u2019s Enbridge to buy Tallgrass crude oil business for $2.55 billion",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Democratic senators urge Delta to remain neutral in union organizing effort",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "OpenAI restricts rival AI ad campaigns in ChatGPT as competition heats up - report",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7088,
+      "currencies": []
+    },
+    {
+      "title": "Omnicell at Wells Fargo healthcare conference: betting on refresh cycle",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
