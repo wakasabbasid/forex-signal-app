@@ -9,33 +9,21 @@
         "score": 0.0
       },
       {
-        "title": "EUR/USD Price Forecast: 1.1686-1.1710 zone remains key hurdle",
+        "title": "Euro: Hawkish ECB hike expected to support EUR against US Dollar \u2013 Scotiabank",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.5074
+        "score": 0.5129
       }
     ],
     "GBP/USD": [
       {
-        "title": "GBP/USD Forex Signal 09/09: Buy Setups Above 1.3554 - dailyforex.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "GBP/USD Bulls Break 1.3554 as Uptrend Gains Strength - Forex Factory",
+        "title": "GBP/USD Forex Signal 09/09: Buy Setups Above 1.3554 - DailyForex",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.6508
+        "score": 0.574
       }
     ],
     "USD/JPY": [
-      {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7042 \u2013 Reuters estimate - investingLive",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
       {
         "title": "USD/JPY Falls to Seven-Month Low: What\u2019s Going On? - Action Forex",
         "source": "Google News",
@@ -43,26 +31,10 @@
         "score": -0.904
       },
       {
-        "title": "Gold Price Forecast: XAU/USD bounces up to $4,400 with the bearish trend intact",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9394
-      }
-    ],
-    "USD/CAD": [
-      {
-        "title": "USD/CAD Price Forecast: Remains below 1.3800 as bearish bias prevails",
-        "source": "FXStreet",
+        "title": "USDCAD Technicals: Why isn't the Canadian dollar weakening vs the USD given the trade war?",
+        "source": "ForexLive",
         "label": "bearish",
-        "score": -0.9618
-      }
-    ],
-    "USD/CHF": [
-      {
-        "title": "USD/CHF Price Forecast: Flat lines near 0.8100 as bulls await US inflation data",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.7768
+        "score": -0.9368
       }
     ]
   }

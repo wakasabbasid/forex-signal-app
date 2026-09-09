@@ -11,16 +11,6 @@
       ]
     },
     {
-      "title": "GBP/USD Forex Signal 09/09: Buy Setups Above 1.3554 - dailyforex.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
       "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28 - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -28,10 +18,41 @@
       "currencies": []
     },
     {
-      "title": "EXPLAINER: What is the yen carry trade? - Japan Wire by Kyodo News",
+      "title": "India RBI Uses Currency Swaps to Cut $115 Billion Cash Surplus - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "GBP/USD Forex Signal 09/09: Buy Setups Above 1.3554 - DailyForex",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.574,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
+      "title": "Exchange rate | Foreign Exchange, Currency Fluctuations, Exchange Rates - Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "RBI to expand retail forex access with five new currency pairs, plans wider global currency bouquet - The Economic Times",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.68,
+      "currencies": []
+    },
+    {
+      "title": "G10\u2019s \u2018surprise\u2019 currency star could stumble as peers hike interest rates - Forex Factory",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8173,
       "currencies": []
     },
     {
@@ -42,7 +63,7 @@
       "currencies": []
     },
     {
-      "title": "Inside the $9.5 Trillion Forex Market: Tag Markets on How Technology Is Changing Access - geekwire.com",
+      "title": "Inside the $9.5 Trillion Forex Market: Tag Markets on How Technology Is Changing Access - GeekWire",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -56,13 +77,11 @@
       "currencies": []
     },
     {
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.7042 \u2013 Reuters estimate - investingLive",
+      "title": "Iran Loosens Forex Rules to Let Exporters Settle Trade in Bitcoin and Tether - finance.biggo.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
+      "currencies": []
     },
     {
       "title": "USD/JPY Falls to Seven-Month Low: What\u2019s Going On? - Action Forex",
@@ -75,80 +94,56 @@
       ]
     },
     {
-      "title": "Bybit Launches FX Perpetual Contracts, Adding Major Currency Pairs to TradFi Derivatives - PR Newswire",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "China's forex reserves rise more than expected in August - Yahoo Finance",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.938,
-      "currencies": []
-    },
-    {
-      "title": "GBP/USD Bulls Break 1.3554 as Uptrend Gains Strength - Forex Factory",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6508,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "Oppenheimer initiates Aktis Oncology stock rating at Outperform",
+      "title": "AEVEX at Jefferies Global Industrials Conference 2026: growth, scale and a new deal",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "William Blair initiates Obsidian Therapeutics stock with outperform rating",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Jersey Mike\u2019s reports 2.3% same-store sales growth in Q2",
+      "title": "Denali at Cantor global healthcare conference: launch gains traction",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9299,
+      "score": 0.8216,
       "currencies": []
     },
     {
-      "title": "NIQ launches Optiq AI platform within Discover system",
+      "title": "Why is MercadoLibre stock sliding today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9074,
+      "currencies": []
+    },
+    {
+      "title": "Germany\u2019s 4.5 gigawatt gas power plant tender oversubscribed",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9636,
+      "currencies": []
+    },
+    {
+      "title": "Las Vegas Sands stock hits 52-week low at $43.35",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9549,
+      "currencies": []
+    },
+    {
+      "title": "Parsons at Jefferies global industrials conference: bookings surge",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Korn Ferry earnings beat by $0.07, revenue topped estimates",
+      "title": "Why is Alphabet stock sliding today?",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9456,
+      "label": "bearish",
+      "score": -0.8746,
       "currencies": []
     },
     {
-      "title": "Why is Lithium Americas stock rallying 3% today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is Figure Technology Solutions stock gaining today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Crypto, banks take lobbying war to US senators\u2019 home states ahead of key vote",
+      "title": "Clorox at Boston Global Staples Conference 2026: growth plan in focus",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
