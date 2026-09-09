@@ -1,19 +1,22 @@
 {
   "headlines": [
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
         "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "GBP/USD Forex Signal 09/09: Buy Setups Above 1.3554 - dailyforex.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
         "USD"
       ]
     },
@@ -25,6 +28,13 @@
       "currencies": []
     },
     {
+      "title": "EXPLAINER: What is the yen carry trade? - Japan Wire by Kyodo News",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Yen makes dash across \u00a5153, raising possibility that trend has turned - The Japan Times",
       "source": "Google News",
       "label": "bullish",
@@ -32,10 +42,17 @@
       "currencies": []
     },
     {
-      "title": "Inside the $9.5 Trillion Forex Market: Tag Markets on How Technology Is Changing Access - GeekWire",
+      "title": "Inside the $9.5 Trillion Forex Market: Tag Markets on How Technology Is Changing Access - geekwire.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: US Dollar retreats as markets gear up for key events - fxstreet.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9387,
       "currencies": []
     },
     {
@@ -48,27 +65,21 @@
       ]
     },
     {
+      "title": "USD/JPY Falls to Seven-Month Low: What\u2019s Going On? - Action Forex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.904,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
       "title": "Bybit Launches FX Perpetual Contracts, Adding Major Currency Pairs to TradFi Derivatives - PR Newswire",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
-    },
-    {
-      "title": "Asian currencies gain as yen holds near seven-month high, dollar slips - Investing.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6835,
-      "currencies": []
-    },
-    {
-      "title": "USD/ZAR Tests 16.00 Ahead of CPI and Fed Decision - DailyForex",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6154,
-      "currencies": [
-        "USD"
-      ]
     },
     {
       "title": "China's forex reserves rise more than expected in August - Yahoo Finance",
@@ -78,73 +89,69 @@
       "currencies": []
     },
     {
-      "title": "Salida man accused of defrauding investors of $2.7M in foreign currency scheme - Modesto Bee",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5814,
-      "currencies": []
-    },
-    {
-      "title": "India\u2019s Forex Reserves Hit Record $740.8 Billion on Strong Foreign Currency Inflows - INDIA New England News",
+      "title": "GBP/USD Bulls Break 1.3554 as Uptrend Gains Strength - Forex Factory",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8486,
+      "score": 0.6508,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
+      "title": "Oppenheimer initiates Aktis Oncology stock rating at Outperform",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Amgen and AstraZeneca report positive lung cancer trial results",
+      "title": "William Blair initiates Obsidian Therapeutics stock with outperform rating",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Jersey Mike\u2019s reports 2.3% same-store sales growth in Q2",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9426,
+      "score": 0.9299,
       "currencies": []
     },
     {
-      "title": "Asian currencies gain as yen holds near seven-month high, dollar slips",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5214,
-      "currencies": []
-    },
-    {
-      "title": "Dutch consumer spending growth slows to 1.2% in July",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.97,
-      "currencies": []
-    },
-    {
-      "title": "Meta platforms chief accounting officer Aaron Anderson sells $2m",
+      "title": "NIQ launches Optiq AI platform within Discover system",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Morning Bid: $100 Brent in sight, yen defies gravity",
+      "title": "Korn Ferry earnings beat by $0.07, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9456,
+      "currencies": []
+    },
+    {
+      "title": "Why is Lithium Americas stock rallying 3% today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Pilots considered aborting landing after touchdown in Miami cargo crash, NTSB says",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8282,
-      "currencies": []
-    },
-    {
-      "title": "Gift Nifty 50 plunges to oversold RSI 19 territory: Live levels",
+      "title": "Why is Figure Technology Solutions stock gaining today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Asian stocks mixed as chip rally offsets oil-fueled inflation concerns",
+      "title": "Crypto, banks take lobbying war to US senators\u2019 home states ahead of key vote",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8879,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

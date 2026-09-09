@@ -9,16 +9,24 @@
         "score": 0.0
       },
       {
-        "title": "EUR/JPY Price Forecast: Softens to near 178.50, retains bearish bias despite oversold RSI",
+        "title": "EUR/USD Price Forecast: 1.1686-1.1710 zone remains key hurdle",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.744
+        "score": 0.5074
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Forex Signal 09/09: Buy Setups Above 1.3554 - dailyforex.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       },
       {
-        "title": "EUR/USD Price Forecast: Bullish bias remains above 1.1600 ahead of ECB and US inflation",
-        "source": "FXStreet",
+        "title": "GBP/USD Bulls Break 1.3554 as Uptrend Gains Strength - Forex Factory",
+        "source": "Google News",
         "label": "bullish",
-        "score": 0.5659
+        "score": 0.6508
       }
     ],
     "USD/JPY": [
@@ -29,34 +37,32 @@
         "score": 0.0
       },
       {
-        "title": "USD/ZAR Tests 16.00 Ahead of CPI and Fed Decision - DailyForex",
+        "title": "USD/JPY Falls to Seven-Month Low: What\u2019s Going On? - Action Forex",
         "source": "Google News",
-        "label": "bullish",
-        "score": 0.6154
+        "label": "bearish",
+        "score": -0.904
       },
       {
-        "title": "PBOC sets USD/ CNY mid-point today at 6.7769 (vs. estimate at 6.7042)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Softens to near 178.50, retains bearish bias despite oversold RSI",
+        "title": "Gold Price Forecast: XAU/USD bounces up to $4,400 with the bearish trend intact",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.744
-      },
+        "score": 0.9394
+      }
+    ],
+    "USD/CAD": [
       {
-        "title": "Gold sticks to modest gains on soft USD; Fed hike bets cap upside ahead of US inflation",
+        "title": "USD/CAD Price Forecast: Remains below 1.3800 as bearish bias prevails",
         "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.7972
-      },
+        "label": "bearish",
+        "score": -0.9618
+      }
+    ],
+    "USD/CHF": [
       {
-        "title": "Silver Price Forecast: XAG/USD rises to near $66.40 as US Dollar declines, US CPI in focus",
+        "title": "USD/CHF Price Forecast: Flat lines near 0.8100 as bulls await US inflation data",
         "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.6202
+        "label": "bearish",
+        "score": -0.7768
       }
     ]
   }
