@@ -7,9 +7,27 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "EUR/JPY Price Forecast: Softens to near 178.50, retains bearish bias despite oversold RSI",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.744
+      },
+      {
+        "title": "EUR/USD Price Forecast: Bullish bias remains above 1.1600 ahead of ECB and US inflation",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.5659
       }
     ],
     "USD/JPY": [
+      {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7042 \u2013 Reuters estimate - investingLive",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
       {
         "title": "USD/ZAR Tests 16.00 Ahead of CPI and Fed Decision - DailyForex",
         "source": "Google News",
@@ -17,16 +35,28 @@
         "score": 0.6154
       },
       {
-        "title": "investingLive Americas FX news wrap 8 Sept: USD mixed, yields rise. Trader await inflation data.",
+        "title": "PBOC sets USD/ CNY mid-point today at 6.7769 (vs. estimate at 6.7042)",
         "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.5486
+        "label": "neutral",
+        "score": 0.0
       },
       {
-        "title": "USD/JPY Price Forecast: Hammer teases rebound after 650-pip slide",
+        "title": "EUR/JPY Price Forecast: Softens to near 178.50, retains bearish bias despite oversold RSI",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.7676
+        "score": 0.744
+      },
+      {
+        "title": "Gold sticks to modest gains on soft USD; Fed hike bets cap upside ahead of US inflation",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.7972
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD rises to near $66.40 as US Dollar declines, US CPI in focus",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.6202
       }
     ]
   }

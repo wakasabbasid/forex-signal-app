@@ -8,13 +8,6 @@
       "currencies": []
     },
     {
-      "title": "Yen makes dash across \u00a5153, raising possibility that trend has turned - The Japan Times",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6328,
-      "currencies": []
-    },
-    {
       "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -32,10 +25,10 @@
       "currencies": []
     },
     {
-      "title": "Yen hovers near seven-month high, dollar steadies - cnbc.com",
+      "title": "Yen makes dash across \u00a5153, raising possibility that trend has turned - The Japan Times",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.6328,
       "currencies": []
     },
     {
@@ -46,6 +39,29 @@
       "currencies": []
     },
     {
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.7042 \u2013 Reuters estimate - investingLive",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Bybit Launches FX Perpetual Contracts, Adding Major Currency Pairs to TradFi Derivatives - PR Newswire",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Asian currencies gain as yen holds near seven-month high, dollar slips - Investing.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6835,
+      "currencies": []
+    },
+    {
       "title": "USD/ZAR Tests 16.00 Ahead of CPI and Fed Decision - DailyForex",
       "source": "Google News",
       "label": "bullish",
@@ -53,13 +69,6 @@
       "currencies": [
         "USD"
       ]
-    },
-    {
-      "title": "Czech Republic Forex Reserves Hit Record High - TradingView",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9341,
-      "currencies": []
     },
     {
       "title": "China's forex reserves rise more than expected in August - Yahoo Finance",
@@ -83,66 +92,59 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: Japanese Yen extends rally, Oil prices climb higher - FXStreet",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9126,
-      "currencies": []
-    },
-    {
-      "title": "Chalice Mining at Resources Rising Stars: pushes Gonneville toward FID",
+      "title": "Amgen and AstraZeneca report positive lung cancer trial results",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7595,
+      "score": 0.9426,
       "currencies": []
     },
     {
-      "title": "US to ban Canadian dairy, alcohol, motor vehicle imports on September 29",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Palladyne AI president & CEO Wolff buys $99,128 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "IRS under Trump unlawfully shared taxpayer info with immigration authorities, court rules",
+      "title": "Asian currencies gain as yen holds near seven-month high, dollar slips",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7428,
+      "score": -0.5214,
       "currencies": []
     },
     {
-      "title": "New Zealand to allow wealthy migrants to build rental housing",
+      "title": "Dutch consumer spending growth slows to 1.2% in July",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5113,
+      "label": "bearish",
+      "score": -0.97,
       "currencies": []
     },
     {
-      "title": "Amalgamated Financial: 10% owner sells $7.6m in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Workers United sells $7.68m in Amalgamated Financial stock",
+      "title": "Meta platforms chief accounting officer Aaron Anderson sells $2m",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Contineum Therapeutics CEO Stengone sells $41,141 in stock",
+      "title": "Morning Bid: $100 Brent in sight, yen defies gravity",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Pilots considered aborting landing after touchdown in Miami cargo crash, NTSB says",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8282,
+      "currencies": []
+    },
+    {
+      "title": "Gift Nifty 50 plunges to oversold RSI 19 territory: Live levels",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Asian stocks mixed as chip rally offsets oil-fueled inflation concerns",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8879,
       "currencies": []
     }
   ],
