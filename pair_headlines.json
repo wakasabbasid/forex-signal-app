@@ -1,40 +1,28 @@
 {
   "run_id": 1,
   "pairs": {
-    "EUR/USD": [
-      {
-        "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "EUR rates rising? WTI falling despite attacks \u2013 Forex trading GBP/USD in rising wedge [Video] - FXStreet",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.7929
-      }
-    ],
     "USD/JPY": [
       {
         "title": "USD/BRL Holds Near 5.10 as US CPI and Fed Risks Approach - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "As yields/USD move higher, gold is falling sharply. The price cracks below it 100 day MA/trendline",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.9495
       }
     ],
-    "GBP/USD": [
+    "EUR/USD": [
       {
-        "title": "EUR rates rising? WTI falling despite attacks \u2013 Forex trading GBP/USD in rising wedge [Video] - FXStreet",
+        "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - forex.com",
         "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "NZD/USD": [
+      {
+        "title": "NZD/USD Price Forecast: Kiwi breaks below 0.5800 as bears take control",
+        "source": "FXStreet",
         "label": "bearish",
-        "score": -0.7929
+        "score": -0.917
       }
     ]
   }

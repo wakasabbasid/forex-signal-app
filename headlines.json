@@ -1,16 +1,6 @@
 {
   "headlines": [
     {
-      "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
       "title": "USD/BRL Holds Near 5.10 as US CPI and Fed Risks Approach - DailyForex",
       "source": "Google News",
       "label": "neutral",
@@ -20,17 +10,20 @@
       ]
     },
     {
-      "title": "Barclays Traders Grapple With Repeated Risk-Platform Outages - Bloomberg.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8548,
-      "currencies": []
-    },
-    {
-      "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28 - reuters.com",
+      "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - forex.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8977,
       "currencies": []
     },
     {
@@ -41,17 +34,17 @@
       "currencies": []
     },
     {
-      "title": "Forex Daily Hot Take: The ECB Hawks May Have Set the Bar Too High - thedarksideoftheboom.substack.com",
+      "title": "Forex Daily Hot Take: The ECB Hawks May Have Set the Bar Too High - The Dark Side Of The Boom",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.7814,
+      "score": -0.8924,
       "currencies": []
     },
     {
-      "title": "MobiKwik expands digital forex retail service to six currencies - The Economic Times",
+      "title": "Forex Today: US Dollar rebounds on hot PPI ahead of US CPI - FXStreet",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.8344,
       "currencies": []
     },
     {
@@ -62,7 +55,7 @@
       "currencies": []
     },
     {
-      "title": "UPI Now Works in 11 Nations, But Is It Really Cheaper Than Forex Cards or Cash? - NDTV",
+      "title": "MobiKwik expands digital forex retail service to six currencies - The Economic Times",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -76,77 +69,80 @@
       "currencies": []
     },
     {
-      "title": "EUR rates rising? WTI falling despite attacks \u2013 Forex trading GBP/USD in rising wedge [Video] - FXStreet",
+      "title": "UPI Now Works in 11 Nations, But Is It Really Cheaper Than Forex Cards or Cash? - ndtv.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Salida man accused of defrauding investors of $2.7M in foreign currency scheme - Modesto Bee",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.7929,
-      "currencies": [
-        "EUR",
-        "GBP",
-        "USD"
-      ]
+      "score": -0.5814,
+      "currencies": []
     },
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - reuters.com",
+      "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28 - Reuters",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8017,
+      "score": 0.9121,
       "currencies": []
     },
     {
-      "title": "Analysis-Edgy bond\u00a0investors unconsoled by Bessent\u2019s big buyback",
+      "title": "Wedbush initiates Datadog stock coverage with Outperform rating",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "MongoDB at Goldman Sachs Communacopia + Technology Conference: AI push",
+      "title": "Goldcana Resources announces private placement terms",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Oil surges 6%, Brent and US crude both surpass $100 on more tanker attacks",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9237,
-      "currencies": []
-    },
-    {
-      "title": "Shift4 at Goldman Sachs conference: growth plan meets FX headwinds",
+      "title": "Franklin BSP Realty Trust declares Q3 dividend, reauthorizes buyback",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Supermicro at Goldman Sachs conference: bold AI growth push",
+      "title": "Anthropic disrupts Russian, Chinese AI campaigns targeting its Claude models",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6532,
+      "label": "bearish",
+      "score": -0.929,
       "currencies": []
     },
     {
-      "title": "Seagate at Goldman Sachs conference: hamr drives margin gains",
+      "title": "Bath & Body Works gains in extended trading as Barington pushes for a sale",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.861,
+      "score": 0.8883,
       "currencies": []
     },
     {
-      "title": "Nestle increases cocoa sourcing in Brazil amid supply shift",
+      "title": "Nvidia stock edges higher on Microsoft data center expansion report",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6896,
+      "score": 0.914,
       "currencies": []
     },
     {
-      "title": "Rocket Pharmaceuticals at cantor healthcare conference: cardiomyopathy focus",
+      "title": "Trading Day: Inflation palpitations",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9208,
+      "currencies": []
+    },
+    {
+      "title": "US diesel prices top $6 per gallon for first time",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5716,
       "currencies": []
     }
   ],
