@@ -18,17 +18,17 @@
       "currencies": []
     },
     {
-      "title": "India RBI Uses Currency Swaps to Cut $115 Billion Cash Surplus - Bloomberg",
+      "title": "India RBI Uses Currency Swaps to Cut $115 Billion Cash Surplus - Bloomberg.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.435,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "RBI to expand retail forex access with five new currency pairs, plans wider global currency bouquet - The Economic Times",
+      "title": "Dollar, euro little changed, yen extends rally ahead of Fed, ECB, and BoJ meetings - Investing.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.68,
+      "score": 0.5665,
       "currencies": []
     },
     {
@@ -36,6 +36,13 @@
       "source": "Google News",
       "label": "bullish",
       "score": 0.6328,
+      "currencies": []
+    },
+    {
+      "title": "RBI to expand retail forex access with five new currency pairs, plans wider global currency bouquet - The Economic Times",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.68,
       "currencies": []
     },
     {
@@ -63,24 +70,17 @@
       "currencies": []
     },
     {
+      "title": "China's forex reserves rise more than expected in August - finance.yahoo.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7117,
+      "currencies": []
+    },
+    {
       "title": "Forex Today: US Dollar retreats as markets gear up for key events - FXStreet",
       "source": "Google News",
       "label": "bearish",
       "score": -0.9582,
-      "currencies": []
-    },
-    {
-      "title": "China's forex reserves rise more than expected in August - Yahoo Finance",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.938,
-      "currencies": []
-    },
-    {
-      "title": "Dollar sinks as yen surges, oil nears $100 and ECB hike bets grow - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -91,56 +91,56 @@
       "currencies": []
     },
     {
-      "title": "Acumen at Cantor Fitzgerald conference: sabirnetug, brain-shuttle push",
+      "title": "Saturn Metals at resources rising stars: Apollo Hill builds scale",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Lakeland Fire and Safety posts mixed Q2 2026 results",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8747,
-      "currencies": []
-    },
-    {
-      "title": "ADP at Citi\u2019s 2026 Global TMT Conference: ai lifts growth view",
+      "title": "Exclusive-After outrunning Bolt, China\u2019s robot champion races towards real-world work",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Citi Private Bank hires\u00a0Radzinski from Bank of America",
+      "title": "C.H. Robinson at Jefferies conference: lean ai, legal risk, growth",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Canada\u2019s Enbridge to buy Tallgrass crude oil business for $2.55 billion",
+      "title": "Charter at Goldman Sachs conference: growth push after Cox deal",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Democratic senators urge Delta to remain neutral in union organizing effort",
+      "title": "Vertex at Wells Fargo healthcare conference: renal pipeline takes center stage",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "OpenAI restricts rival AI ad campaigns in ChatGPT as competition heats up - report",
+      "title": "Chime at Goldman Sachs Communacopia + Technology Conference 2026: growth quickens",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7088,
+      "label": "bullish",
+      "score": 0.5113,
       "currencies": []
     },
     {
-      "title": "Omnicell at Wells Fargo healthcare conference: betting on refresh cycle",
+      "title": "Nvidia enters partnerships to build out more Australian data center capacity",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9088,
+      "currencies": []
+    },
+    {
+      "title": "OpenAI pushes for mandatory national AI safety requirements",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
