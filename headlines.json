@@ -18,17 +18,17 @@
       "currencies": []
     },
     {
-      "title": "India RBI Uses Currency Swaps to Cut $115 Billion Cash Surplus - Bloomberg.com",
+      "title": "UPI Now Works in 11 Nations, But Is It Really Cheaper Than Forex Cards or Cash? - NDTV",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Dollar, euro little changed, yen extends rally ahead of Fed, ECB, and BoJ meetings - Investing.com",
+      "title": "RBI to expand retail forex access with five new currency pairs, plans wider global currency bouquet - economictimes.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.5665,
+      "score": 0.5437,
       "currencies": []
     },
     {
@@ -39,10 +39,10 @@
       "currencies": []
     },
     {
-      "title": "RBI to expand retail forex access with five new currency pairs, plans wider global currency bouquet - The Economic Times",
+      "title": "Dollar, euro little changed, yen extends rally ahead of Fed, ECB, and BoJ meetings - Investing.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.68,
+      "score": 0.5665,
       "currencies": []
     },
     {
@@ -53,13 +53,29 @@
       "currencies": []
     },
     {
-      "title": "USD/CAD Tests Critical Support Ahead of Fed Rate Decision Week - DailyForex",
+      "title": "India RBI Uses Currency Swaps to Cut $115 Billion Cash Surplus - Bloomberg.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.9201,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "USD/CAD Tests Critical Support Ahead of Fed Rate Decision Week - dailyforex.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
         "USD",
         "CAD"
+      ]
+    },
+    {
+      "title": "Brazil's $1B Dollar Auction: How Reverse FX Swaps Affect USD/BRL - EBC Financial Group",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
       ]
     },
     {
@@ -70,80 +86,66 @@
       "currencies": []
     },
     {
-      "title": "China's forex reserves rise more than expected in August - finance.yahoo.com",
+      "title": "China's forex reserves rise more than expected in August - Yahoo Finance",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.7117,
+      "score": 0.938,
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar retreats as markets gear up for key events - FXStreet",
-      "source": "Google News",
+      "title": "Bitcoin down to $78.3k on Iran jitters, higher yields",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9582,
+      "score": -0.9557,
       "currencies": []
     },
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8977,
-      "currencies": []
-    },
-    {
-      "title": "Saturn Metals at resources rising stars: Apollo Hill builds scale",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Exclusive-After outrunning Bolt, China\u2019s robot champion races towards real-world work",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "C.H. Robinson at Jefferies conference: lean ai, legal risk, growth",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Charter at Goldman Sachs conference: growth push after Cox deal",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Vertex at Wells Fargo healthcare conference: renal pipeline takes center stage",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Chime at Goldman Sachs Communacopia + Technology Conference 2026: growth quickens",
+      "title": "FDA grants priority review for Enspryng in rare disease MOGAD",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5113,
+      "score": 0.6943,
       "currencies": []
     },
     {
-      "title": "Nvidia enters partnerships to build out more Australian data center capacity",
+      "title": "Portugal debt upgrade seals PIIGS passage from pariahs to pin-ups",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9088,
+      "score": 0.8596,
       "currencies": []
     },
     {
-      "title": "OpenAI pushes for mandatory national AI safety requirements",
+      "title": "Axe Compute director Theodore Zhu buys $98,325 shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "HIVE Digital appoints Mark Volk as revenue chief at BUZZ HPC unit",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Exclusive-China\u2019s AI chipmakers raise prices as high-bandwidth memory shortage bites",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5491,
+      "currencies": []
+    },
+    {
+      "title": "Starbucks plans $1 bln cafe makeover to lure customers back, FT reports",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9167,
+      "currencies": []
+    },
+    {
+      "title": "Nikkei 225 tests 64,000 support as bearish trend holds: Live",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.4363,
       "currencies": []
     }
   ],
