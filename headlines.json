@@ -1,7 +1,14 @@
 {
   "headlines": [
     {
-      "title": "USD/BRL Holds Near 5.10 as US CPI and Fed Risks Approach - DailyForex",
+      "title": "Exchange rate | Foreign Exchange, Currency Fluctuations, Exchange Rates - Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "USD/BRL Holds Near 5.10 as US CPI and Fed Risks Approach - dailyforex.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -27,13 +34,6 @@
       "currencies": []
     },
     {
-      "title": "Dollar rises as hot U.S. inflation, ECB hike reshape currency markets - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Forex Daily Hot Take: The ECB Hawks May Have Set the Bar Too High - The Dark Side Of The Boom",
       "source": "Google News",
       "label": "bearish",
@@ -45,6 +45,13 @@
       "source": "Google News",
       "label": "bearish",
       "score": -0.8344,
+      "currencies": []
+    },
+    {
+      "title": "Dollar rises as hot U.S. inflation, ECB hike reshape currency markets - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -69,17 +76,10 @@
       "currencies": []
     },
     {
-      "title": "UPI Now Works in 11 Nations, But Is It Really Cheaper Than Forex Cards or Cash? - ndtv.com",
+      "title": "UPI Now Works in 11 Nations, But Is It Really Cheaper Than Forex Cards or Cash? - NDTV",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Salida man accused of defrauding investors of $2.7M in foreign currency scheme - Modesto Bee",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5814,
       "currencies": []
     },
     {
@@ -90,59 +90,59 @@
       "currencies": []
     },
     {
-      "title": "Wedbush initiates Datadog stock coverage with Outperform rating",
+      "title": "Texas Stock Exchange captures first primary equity market listings from NYSE",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Goldcana Resources announces private placement terms",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Franklin BSP Realty Trust declares Q3 dividend, reauthorizes buyback",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Anthropic disrupts Russian, Chinese AI campaigns targeting its Claude models",
+      "title": "Bitcoin dips to $77.1k as PPI data boosts Fed rate hike bets, oil prices jump",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.929,
+      "score": -0.7862,
       "currencies": []
     },
     {
-      "title": "Bath & Body Works gains in extended trading as Barington pushes for a sale",
+      "title": "Earnings call transcript: Alliance Entertainment rallies on Q4 2026 growth",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8883,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Nvidia stock edges higher on Microsoft data center expansion report",
+      "title": "Nexstar at Goldman Sachs conference: growth bets meet regulatory lift",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.914,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Trading Day: Inflation palpitations",
+      "title": "Lyft at Goldman Sachs Communacopia + Technology Conference 2026: growth shifts",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "PAR Technology at Goldman Sachs Communacopia + Technology Conference 2026: AI push",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Portuguese group D3 sues Meta, TikTok and YouTube over addictive design",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9208,
+      "score": -0.9499,
       "currencies": []
     },
     {
-      "title": "US diesel prices top $6 per gallon for first time",
+      "title": "Earnings call transcript: Zumiez posts Q2 2026 miss as stock sinks after hours",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5716,
+      "label": "bearish",
+      "score": -0.8099,
       "currencies": []
     }
   ],
