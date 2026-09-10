@@ -1,8 +1,78 @@
 {
   "headlines": [
     {
-      "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
-      "source": "Google News",
+      "title": "Deutsche Bank starts bullish Kongsberg coverage on missile growth",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Instacart (CART) stock analysis: fundamentals solid, technicals mixed",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9079,
+      "currencies": []
+    },
+    {
+      "title": "Uber stock analysis: strong fundamentals but technical signals point to caution",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.716,
+      "currencies": []
+    },
+    {
+      "title": "Why is Centrus Energy stock sliding today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.948,
+      "currencies": []
+    },
+    {
+      "title": "BofA raises Signet Jewelers stock price target on strong results",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8058,
+      "currencies": []
+    },
+    {
+      "title": "UBS cuts Bunge stock price target on valuation, keeps buy rating",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "BofA cuts Apple stock price target to $370 on margin pressure",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9161,
+      "currencies": []
+    },
+    {
+      "title": "Wells Fargo cuts Kimberly-Clark stock price target on earnings concerns",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9229,
+      "currencies": []
+    },
+    {
+      "title": "UBS raises American Water stock price target on valuation update",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "BofA raises Jersey Mike\u2019s Subs stock price target on traffic gains",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "EUR/USD almost erased Warsh-driven selloff ahead of the ECB decision. What to watch next?",
+      "source": "ForexLive",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
@@ -11,141 +81,66 @@
       ]
     },
     {
-      "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28 - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9121,
-      "currencies": []
-    },
-    {
-      "title": "UPI Now Works in 11 Nations, But Is It Really Cheaper Than Forex Cards or Cash? - NDTV",
-      "source": "Google News",
+      "title": "Stock movers today: Meta leads AI optimism while ServiceTitan and Navan show the cost of missing expectations",
+      "source": "ForexLive",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "RBI to expand retail forex access with five new currency pairs, plans wider global currency bouquet - economictimes.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5437,
-      "currencies": []
-    },
-    {
-      "title": "Yen makes dash across \u00a5153, raising possibility that trend has turned - The Japan Times",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6328,
-      "currencies": []
-    },
-    {
-      "title": "Dollar, euro little changed, yen extends rally ahead of Fed, ECB, and BoJ meetings - Investing.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5665,
-      "currencies": []
-    },
-    {
-      "title": "Inside the $9.5 Trillion Forex Market: Tag Markets on How Technology Is Changing Access - GeekWire",
-      "source": "Google News",
+      "title": "The debasement trade is working - just not through Bitcoin",
+      "source": "ForexLive",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "India RBI Uses Currency Swaps to Cut $115 Billion Cash Surplus - Bloomberg.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "USD/CAD Tests Critical Support Ahead of Fed Rate Decision Week - dailyforex.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "CAD"
-      ]
-    },
-    {
-      "title": "Brazil's $1B Dollar Auction: How Reverse FX Swaps Affect USD/BRL - EBC Financial Group",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "G10\u2019s \u2018surprise\u2019 currency star could stumble as peers hike interest rates - Forex Factory",
-      "source": "Google News",
+      "title": "Oracle earnings preview: AI spending, cloud growth and a $638 billion backlog in focus",
+      "source": "ForexLive",
       "label": "bearish",
-      "score": -0.8173,
+      "score": -0.6682,
       "currencies": []
     },
     {
-      "title": "China's forex reserves rise more than expected in August - Yahoo Finance",
-      "source": "Google News",
+      "title": "European stocks edge higher as investors brace for ECB decision",
+      "source": "ForexLive",
       "label": "bullish",
-      "score": 0.938,
+      "score": 0.7995,
       "currencies": []
     },
     {
-      "title": "Bitcoin down to $78.3k on Iran jitters, higher yields",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9557,
-      "currencies": []
-    },
-    {
-      "title": "FDA grants priority review for Enspryng in rare disease MOGAD",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6943,
-      "currencies": []
-    },
-    {
-      "title": "Portugal debt upgrade seals PIIGS passage from pariahs to pin-ups",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8596,
-      "currencies": []
-    },
-    {
-      "title": "Axe Compute director Theodore Zhu buys $98,325 shares",
-      "source": "Investing.com",
+      "title": "ECB preview: what is expected, what is priced in and what could surprise",
+      "source": "ForexLive",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "HIVE Digital appoints Mark Volk as revenue chief at BUZZ HPC unit",
-      "source": "Investing.com",
+      "title": "ECB preview: What major banks and analysts expect from Lagarde and interest rates",
+      "source": "ForexLive",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Exclusive-China\u2019s AI chipmakers raise prices as high-bandwidth memory shortage bites",
-      "source": "Investing.com",
+      "title": "What are the main events for today?",
+      "source": "ForexLive",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "FX option expiries for 10 September 10am New York cut",
+      "source": "ForexLive",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Germany August CPI: Energy shock keeps inflation pressures elevated",
+      "source": "ForexLive",
       "label": "bearish",
-      "score": -0.5491,
-      "currencies": []
-    },
-    {
-      "title": "Starbucks plans $1 bln cafe makeover to lure customers back, FT reports",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9167,
-      "currencies": []
-    },
-    {
-      "title": "Nikkei 225 tests 64,000 support as bearish trend holds: Live",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.4363,
+      "score": -0.9059,
       "currencies": []
     }
   ],

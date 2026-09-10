@@ -3,82 +3,26 @@
   "pairs": {
     "EUR/USD": [
       {
-        "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Stays near 178.50 amid ongoing bearish bias",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9244
-      },
-      {
-        "title": "EUR/USD Price Forecast: Sticks to gains above 1.1600 as bulls await ECB, US PPI",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9018
-      }
-    ],
-    "USD/CAD": [
-      {
-        "title": "USD/CAD Tests Critical Support Ahead of Fed Rate Decision Week - dailyforex.com",
-        "source": "Google News",
+        "title": "EUR/USD almost erased Warsh-driven selloff ahead of the ECB decision. What to watch next?",
+        "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
       }
     ],
     "USD/JPY": [
       {
-        "title": "Brazil's $1B Dollar Auction: How Reverse FX Swaps Affect USD/BRL - EBC Financial Group",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "PBOC sets USD/ CNY reference rate for today at 6.7766 (vs. estimate at 6.7074)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7074 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "AUD/JPY Price Forecast: Softens below 111.00, bearish vibe prevails below 100-day SMA",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.5721
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Stays near 178.50 amid ongoing bearish bias",
+        "title": "Gold Price Forecast: XAU/USD holds below $4,400 with Oil, yields surging",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9244
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD trades firmly near $67.60 ahead of US PPI, CPI data",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8234
+        "score": -0.7854
       }
     ],
-    "AUD/USD": [
+    "GBP/USD": [
       {
-        "title": "AUD/JPY Price Forecast: Softens below 111.00, bearish vibe prevails below 100-day SMA",
+        "title": "GBP/USD Price Forecast: Positions above 1.3550, nine-day EMA support",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.5721
-      },
-      {
-        "title": "AUD/USD Price Forecast: Sits near May 14 high, above 0.7200 as US inflation data looms",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8464
+        "score": 0.6482
       }
     ]
   }
