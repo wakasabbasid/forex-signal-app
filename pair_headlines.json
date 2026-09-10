@@ -1,28 +1,40 @@
 {
   "run_id": 1,
   "pairs": {
-    "EUR/USD": [
-      {
-        "title": "EUR/USD almost erased Warsh-driven selloff ahead of the ECB decision. What to watch next?",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
     "USD/JPY": [
       {
-        "title": "Gold Price Forecast: XAU/USD holds below $4,400 with Oil, yields surging",
-        "source": "FXStreet",
+        "title": "USD/BRL Holds Near 5.10 as US CPI and Fed Risks Approach - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "As yields/USD move higher, gold is falling sharply. The price cracks below it 100 day MA/trendline",
+        "source": "ForexLive",
         "label": "bearish",
-        "score": -0.7854
+        "score": -0.9495
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "EUR rates rising? WTI falling despite attacks \u2013 Forex trading GBP/USD in rising wedge [Video] - FXStreet",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.7929
       }
     ],
     "GBP/USD": [
       {
-        "title": "GBP/USD Price Forecast: Positions above 1.3550, nine-day EMA support",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.6482
+        "title": "EUR rates rising? WTI falling despite attacks \u2013 Forex trading GBP/USD in rising wedge [Video] - FXStreet",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.7929
       }
     ]
   }

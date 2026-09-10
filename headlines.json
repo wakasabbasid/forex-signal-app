@@ -1,78 +1,17 @@
 {
   "headlines": [
     {
-      "title": "Deutsche Bank starts bullish Kongsberg coverage on missile growth",
-      "source": "Investing.com",
+      "title": "USD/BRL Holds Near 5.10 as US CPI and Fed Risks Approach - DailyForex",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "USD"
+      ]
     },
     {
-      "title": "Instacart (CART) stock analysis: fundamentals solid, technicals mixed",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9079,
-      "currencies": []
-    },
-    {
-      "title": "Uber stock analysis: strong fundamentals but technical signals point to caution",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.716,
-      "currencies": []
-    },
-    {
-      "title": "Why is Centrus Energy stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.948,
-      "currencies": []
-    },
-    {
-      "title": "BofA raises Signet Jewelers stock price target on strong results",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8058,
-      "currencies": []
-    },
-    {
-      "title": "UBS cuts Bunge stock price target on valuation, keeps buy rating",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "BofA cuts Apple stock price target to $370 on margin pressure",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9161,
-      "currencies": []
-    },
-    {
-      "title": "Wells Fargo cuts Kimberly-Clark stock price target on earnings concerns",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9229,
-      "currencies": []
-    },
-    {
-      "title": "UBS raises American Water stock price target on valuation update",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "BofA raises Jersey Mike\u2019s Subs stock price target on traffic gains",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD almost erased Warsh-driven selloff ahead of the ECB decision. What to watch next?",
-      "source": "ForexLive",
+      "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
@@ -81,66 +20,133 @@
       ]
     },
     {
-      "title": "Stock movers today: Meta leads AI optimism while ServiceTitan and Navan show the cost of missing expectations",
-      "source": "ForexLive",
+      "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28 - reuters.com",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "The debasement trade is working - just not through Bitcoin",
-      "source": "ForexLive",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Oracle earnings preview: AI spending, cloud growth and a $638 billion backlog in focus",
-      "source": "ForexLive",
+      "title": "Forex Daily Hot Take: The ECB Hawks May Have Set the Bar Too High - The Dark Side Of The Boom",
+      "source": "Google News",
       "label": "bearish",
-      "score": -0.6682,
+      "score": -0.8924,
       "currencies": []
     },
     {
-      "title": "European stocks edge higher as investors brace for ECB decision",
-      "source": "ForexLive",
+      "title": "Yen makes dash across \u00a5153, raising possibility that trend has turned - japantimes.co.jp",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "UPI Now Works in 11 Nations, But Is It Really Cheaper Than Forex Cards or Cash? - NDTV",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Inside the $9.5 Trillion Forex Market: Tag Markets on How Technology Is Changing Access - GeekWire",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Dollar, euro little changed, yen extends rally ahead of Fed, ECB, and BoJ meetings - Investing.com",
+      "source": "Google News",
       "label": "bullish",
-      "score": 0.7995,
+      "score": 0.5665,
       "currencies": []
     },
     {
-      "title": "ECB preview: what is expected, what is priced in and what could surprise",
-      "source": "ForexLive",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "ECB preview: What major banks and analysts expect from Lagarde and interest rates",
-      "source": "ForexLive",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "What are the main events for today?",
-      "source": "ForexLive",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "FX option expiries for 10 September 10am New York cut",
-      "source": "ForexLive",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Germany August CPI: Energy shock keeps inflation pressures elevated",
-      "source": "ForexLive",
+      "title": "EUR rates rising? WTI falling despite attacks \u2013 Forex trading GBP/USD in rising wedge [Video] - FXStreet",
+      "source": "Google News",
       "label": "bearish",
-      "score": -0.9059,
+      "score": -0.7929,
+      "currencies": [
+        "EUR",
+        "GBP",
+        "USD"
+      ]
+    },
+    {
+      "title": "UPI International Payments: Is it Cheaper Than Forex Cards Abroad? - analyticsinsight.net",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "China's forex reserves rise more than expected in August - Yahoo Finance",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.938,
+      "currencies": []
+    },
+    {
+      "title": "MobiKwik expands digital forex retail service to six currencies - The Economic Times",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Aflac at KBW Insurance Conference 2026: capital, growth and AI",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: GURU Organic Energy tops Q3 2026 estimates",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why is Digital Brands stock surging today?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Wall St slips after hotter-than-expected producer inflation data",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9551,
+      "currencies": []
+    },
+    {
+      "title": "Tevogen regains Nasdaq compliance with minimum market value requirement",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9555,
+      "currencies": []
+    },
+    {
+      "title": "Boeing technical analysis: Strong Sell signal across daily, weekly and hourly charts",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9412,
+      "currencies": []
+    },
+    {
+      "title": "Faeth Therapeutics at Cantor Fitzgerald conference: oral PI3K push",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Oracle earnings read-throughs: cloud rivals, AI suppliers, and hyperscalers to watch",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
