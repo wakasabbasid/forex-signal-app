@@ -1,15 +1,6 @@
 {
   "headlines": [
     {
-      "title": "USD/BRL Holds Near 5.10 as US CPI and Fed Risks Approach - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
       "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -20,6 +11,22 @@
       ]
     },
     {
+      "title": "USD/BRL Holds Near 5.10 as US CPI and Fed Risks Approach - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Barclays Traders Grapple With Repeated Risk-Platform Outages - Bloomberg.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8548,
+      "currencies": []
+    },
+    {
       "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28 - reuters.com",
       "source": "Google News",
       "label": "neutral",
@@ -27,17 +34,31 @@
       "currencies": []
     },
     {
-      "title": "Forex Daily Hot Take: The ECB Hawks May Have Set the Bar Too High - The Dark Side Of The Boom",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8924,
-      "currencies": []
-    },
-    {
-      "title": "Yen makes dash across \u00a5153, raising possibility that trend has turned - japantimes.co.jp",
+      "title": "Dollar rises as hot U.S. inflation, ECB hike reshape currency markets - Investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Daily Hot Take: The ECB Hawks May Have Set the Bar Too High - thedarksideoftheboom.substack.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7814,
+      "currencies": []
+    },
+    {
+      "title": "MobiKwik expands digital forex retail service to six currencies - The Economic Times",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Yen makes dash across \u00a5153, raising possibility that trend has turned - The Japan Times",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6328,
       "currencies": []
     },
     {
@@ -55,13 +76,6 @@
       "currencies": []
     },
     {
-      "title": "Dollar, euro little changed, yen extends rally ahead of Fed, ECB, and BoJ meetings - Investing.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5665,
-      "currencies": []
-    },
-    {
       "title": "EUR rates rising? WTI falling despite attacks \u2013 Forex trading GBP/USD in rising wedge [Video] - FXStreet",
       "source": "Google News",
       "label": "bearish",
@@ -73,77 +87,63 @@
       ]
     },
     {
-      "title": "UPI International Payments: Is it Cheaper Than Forex Cards Abroad? - analyticsinsight.net",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "China's forex reserves rise more than expected in August - Yahoo Finance",
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - reuters.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.938,
+      "score": 0.8017,
       "currencies": []
     },
     {
-      "title": "MobiKwik expands digital forex retail service to six currencies - The Economic Times",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Aflac at KBW Insurance Conference 2026: capital, growth and AI",
+      "title": "Analysis-Edgy bond\u00a0investors unconsoled by Bessent\u2019s big buyback",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: GURU Organic Energy tops Q3 2026 estimates",
+      "title": "MongoDB at Goldman Sachs Communacopia + Technology Conference: AI push",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is Digital Brands stock surging today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Wall St slips after hotter-than-expected producer inflation data",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9551,
-      "currencies": []
-    },
-    {
-      "title": "Tevogen regains Nasdaq compliance with minimum market value requirement",
+      "title": "Oil surges 6%, Brent and US crude both surpass $100 on more tanker attacks",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9555,
+      "score": 0.9237,
       "currencies": []
     },
     {
-      "title": "Boeing technical analysis: Strong Sell signal across daily, weekly and hourly charts",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9412,
-      "currencies": []
-    },
-    {
-      "title": "Faeth Therapeutics at Cantor Fitzgerald conference: oral PI3K push",
+      "title": "Shift4 at Goldman Sachs conference: growth plan meets FX headwinds",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Oracle earnings read-throughs: cloud rivals, AI suppliers, and hyperscalers to watch",
+      "title": "Supermicro at Goldman Sachs conference: bold AI growth push",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6532,
+      "currencies": []
+    },
+    {
+      "title": "Seagate at Goldman Sachs conference: hamr drives margin gains",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.861,
+      "currencies": []
+    },
+    {
+      "title": "Nestle increases cocoa sourcing in Brazil amid supply shift",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6896,
+      "currencies": []
+    },
+    {
+      "title": "Rocket Pharmaceuticals at cantor healthcare conference: cardiomyopathy focus",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

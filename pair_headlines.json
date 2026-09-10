@@ -1,20 +1,6 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/JPY": [
-      {
-        "title": "USD/BRL Holds Near 5.10 as US CPI and Fed Risks Approach - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "As yields/USD move higher, gold is falling sharply. The price cracks below it 100 day MA/trendline",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.9495
-      }
-    ],
     "EUR/USD": [
       {
         "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
@@ -27,6 +13,20 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.7929
+      }
+    ],
+    "USD/JPY": [
+      {
+        "title": "USD/BRL Holds Near 5.10 as US CPI and Fed Risks Approach - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "As yields/USD move higher, gold is falling sharply. The price cracks below it 100 day MA/trendline",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.9495
       }
     ],
     "GBP/USD": [
