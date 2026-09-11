@@ -1,10 +1,10 @@
 {
   "headlines": [
     {
-      "title": "Japan to maintain close communication with US on currency markets, Katayama says - reuters.com",
+      "title": "Japan to maintain close communication with US on currency markets, Katayama says - Reuters",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.6482,
       "currencies": []
     },
     {
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "title": "India's forex reserves jump $44.90 billion to record $785.71 billion as of September 4 - The Economic Times",
+      "title": "Dollar steadies after US inflation data, yen set for second weekly gain - Investing.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.7996,
+      "score": 0.4768,
       "currencies": []
     },
     {
@@ -73,6 +73,20 @@
       ]
     },
     {
+      "title": "India's forex reserves jump $44.90 billion to record $785.71 billion as of September 4 - The Economic Times",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7996,
+      "currencies": []
+    },
+    {
+      "title": "Inside the $9.5 Trillion Forex Market: Tag Markets on How Technology Is Changing Access - GeekWire",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Forex Today: US Dollar consolidates gains as focus shifts to cricital inflation report - FXStreet",
       "source": "Google News",
       "label": "bullish",
@@ -80,75 +94,59 @@
       "currencies": []
     },
     {
-      "title": "Dollar rises as hot U.S. inflation, ECB hike reshape currency markets - Investing.com",
-      "source": "Google News",
+      "title": "Silver Bow Mining completes initial closing on Montana Tunnels asset acquisition",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "India\u2019s forex reserves jump by a record $44.903 billion - thehindu.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5644,
-      "currencies": []
-    },
-    {
-      "title": "Williams Trading cuts Shoe Station Group stock price target on lower sales outlook",
+      "title": "Eastern International receives Nasdaq delisting warning",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9437,
+      "score": -0.496,
       "currencies": []
     },
     {
-      "title": "Federal Budget Deficit Narrows More Than Expected",
+      "title": "Fitch upgrades Citizens Financial rating on profitability",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7457,
+      "score": 0.8882,
       "currencies": []
     },
     {
-      "title": "GSK to close German vaccine plant, 641 jobs at risk",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9529,
-      "currencies": []
-    },
-    {
-      "title": "Pool stock hits 52-week low at $172.62",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9567,
-      "currencies": []
-    },
-    {
-      "title": "Anvi Global Holdings to implement 1-for-20 reverse stock split after shareholder approval",
+      "title": "Home Depot SVP Scardino sells $206k in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Investing.com\u2019s stocks of the week",
+      "title": "Fitch upgrades Kite Realty rating on lower leverage outlook",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9039,
+      "currencies": []
+    },
+    {
+      "title": "Q/C Technologies ends two consulting agreements and announces board resignation",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6115,
+      "currencies": []
+    },
+    {
+      "title": "Dare Bioscience amends bylaws to lower quorum for shareholder meetings",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Blackrock Muni Target Term stock hits 52-week low at 22.18 USD",
+      "title": "Goldman Sachs, BofA compete for Anthropic employee wealth management - Bloomberg",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9564,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "US consumer sentiment deteriorates in September, inflation expectations rise",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9709,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

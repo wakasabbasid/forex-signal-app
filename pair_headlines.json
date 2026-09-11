@@ -7,12 +7,6 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "US Dollar Price Forecast: DXY Stays Weak as ECB Hike Looms and Inflation Risks Rise; EUR/USD and GBP/USD in Focus",
-        "source": "Yahoo Finance",
-        "label": "bearish",
-        "score": -0.9401
       }
     ],
     "USD/JPY": [
@@ -21,18 +15,6 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.9417
-      },
-      {
-        "title": "Blackrock Muni Target Term stock hits 52-week low at 22.18 USD",
-        "source": "Investing.com",
-        "label": "bearish",
-        "score": -0.9564
-      },
-      {
-        "title": "Forex Kickstart: USD mixed as markets await the US CPI report",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.6714
       }
     ],
     "USD/CHF": [
@@ -41,14 +23,12 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.8831
-      }
-    ],
-    "GBP/USD": [
+      },
       {
-        "title": "US Dollar Price Forecast: DXY Stays Weak as ECB Hike Looms and Inflation Risks Rise; EUR/USD and GBP/USD in Focus",
-        "source": "Yahoo Finance",
+        "title": "USD/CHF Price Forecast: Bulls break 0.8150 as CPI fuels Fed bets",
+        "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9401
+        "score": -0.7392
       }
     ]
   }
