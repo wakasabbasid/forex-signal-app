@@ -7,56 +7,28 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
+      }
+    ],
+    "USD/CHF": [
       {
-        "title": "EUR/JPY Price Forecast: Softens to near 179.00, bearish bias remains intact below 100-day SMA",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.6568
+        "title": "USD/CHF Signal 11/09: US Rate Edge Supports Bullish Bias - dailyforex.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "USD/JPY": [
       {
-        "title": "USD/INR Above 95.00 as US CPI Risks Fuel Volatility - DailyForex",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.422
-      },
-      {
-        "title": "PBOC sets USD/ CNY reference rate for today at 6.7743 (vs. estimate at 6.7174)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7174 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Gold bounces off one-week low as USD bulls await US CPI; Fed hike bets to cap gains",
+        "title": "Australian Dollar steadies vs Japanese Yen as hawkish RBA signals offset JPY strength",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.6577
+        "score": -0.5578
       },
       {
-        "title": "Euro struggles near 1.1600 vs USD as Fed hike bets and hawkish ECB clash ahead of US CPI",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9451
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Softens to near 179.00, bearish bias remains intact below 100-day SMA",
+        "title": "Gold Price Forecast: XAU/USD clings to a key support area around $4,300",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.6568
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD slips below $63.50 amid rising Fed rate hike odds",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9666
+        "score": 0.5403
       }
     ]
   }

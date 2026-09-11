@@ -18,47 +18,48 @@
       ]
     },
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - reuters.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8977,
+      "score": 0.8017,
       "currencies": []
     },
     {
-      "title": "USD/INR Above 95.00 as US CPI Risks Fuel Volatility - DailyForex",
+      "title": "Forex Today: US Dollar consolidates gains as focus shifts to cricital inflation report - FXStreet",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.422,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Yen makes dash across \u00a5153, raising possibility that trend has turned - The Japan Times",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6328,
+      "score": 0.7171,
       "currencies": []
     },
     {
-      "title": "Forex Daily Hot Take: The ECB Hawks May Have Set the Bar Too High - thedarksideoftheboom.substack.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7814,
-      "currencies": []
-    },
-    {
-      "title": "Dollar rises as hot U.S. inflation, ECB hike reshape currency markets - Investing.com",
+      "title": "USD/CHF Signal 11/09: US Rate Edge Supports Bullish Bias - dailyforex.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": [
+        "USD",
+        "CHF"
+      ]
+    },
+    {
+      "title": "Asian currencies subdued as dollar holds near weekly high, yen slips - Investing.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7943,
       "currencies": []
     },
     {
-      "title": "RBI to expand retail forex access with five new currency pairs, plans wider global currency bouquet - The Economic Times",
+      "title": "RBI to expand retail forex access with five new currency pairs, plans wider global currency bouquet - economictimes.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.68,
+      "score": 0.5437,
+      "currencies": []
+    },
+    {
+      "title": "Euro extends decline under US pressure - Economies.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7435,
       "currencies": []
     },
     {
@@ -69,80 +70,80 @@
       "currencies": []
     },
     {
-      "title": "SBP forex reserves rise by $1.21bn to $18.33bn on loan proceeds - The News Pakistan",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9366,
-      "currencies": []
-    },
-    {
-      "title": "RBI\u2019s Forex Deposit U-Turn Exposes Wider Communication Gap - Bloomberg.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Salida man accused of defrauding investors of $2.7M in foreign currency scheme - Modesto Bee",
+      "title": "Forex Daily Hot Take: The ECB Hawks May Have Set the Bar Too High - The Dark Side Of The Boom",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.5814,
+      "score": -0.8924,
       "currencies": []
     },
     {
-      "title": "Iran, Gulf states to meet in push for Hormuz deal, FT reports",
-      "source": "Investing.com",
+      "title": "September 11: Cedi sells at GHS12.15 on forex market, GHS11.46 on BoG interbank - Modern Ghana",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Analysis-Edgy bond\u00a0investors unconsoled by Bessent\u2019s big buyback",
-      "source": "Investing.com",
+      "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28 - reuters.com",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Russian air strikes injure eight in Kyiv, Ukraine hits Ozon in Saratov",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9041,
-      "currencies": []
-    },
-    {
-      "title": "Premier of Germany\u2019s Lower Saxony walks high wire between VW cuts and AfD",
+      "title": "Mexico, Washington sprint toward bilateral trade deal before US elections",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6524,
+      "score": 0.7711,
       "currencies": []
     },
     {
-      "title": "SK Hynix nears key resistance after 44% rally: Live levels",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5295,
-      "currencies": []
-    },
-    {
-      "title": "Nikkei 225 breaks 61.8% Fib in bearish grip: Live levels",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8519,
-      "currencies": []
-    },
-    {
-      "title": "Novartis investors turn spotlight on M&A after trial setbacks",
+      "title": "Russia\u2019s central bank holds key rate at 14%",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Hong Kong court jails two Tiananmen vigil group leaders for 7 years",
+      "title": "Vail Resorts receives director nominations from shareholders",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Trump and Musk super PACs unleash millions to boost Republicans in battleground races",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Needham reiterates Buy on Nu Holdings stock, cites U.S. expansion",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Russian attack on Kyiv petrol stations kills two, Ukrainian strikes kill two in Russia",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8775,
+      "score": -0.9141,
+      "currencies": []
+    },
+    {
+      "title": "Three AI-powered strategies pull ahead of the S&P 500 in September",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5798,
+      "currencies": []
+    },
+    {
+      "title": "India stocks lower at close of trade; Nifty 50 down 0.34%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9645,
       "currencies": []
     }
   ],
