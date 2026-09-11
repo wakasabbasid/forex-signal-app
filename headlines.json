@@ -1,10 +1,10 @@
 {
   "headlines": [
     {
-      "title": "Japan to maintain close communication with US on currency markets, Katayama says - Reuters",
+      "title": "Japan to maintain close communication with US on currency markets, Katayama says - reuters.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.6482,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -39,6 +39,23 @@
       "currencies": []
     },
     {
+      "title": "India's forex reserves surge record $44.9 billion to all-time high of $785.7 billion - The Times of India",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9092,
+      "currencies": []
+    },
+    {
+      "title": "Forex reserves surge by a record USD 44.9 billion to USD 785.7 billion - PSU Watch",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9417,
+      "currencies": [
+        "USD",
+        "USD"
+      ]
+    },
+    {
       "title": "India's forex reserves jump $44.90 billion to record $785.71 billion as of September 4 - The Economic Times",
       "source": "Google News",
       "label": "bullish",
@@ -63,23 +80,6 @@
       "currencies": []
     },
     {
-      "title": "Forex Focus - tastylive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Record Weekly Jump Of USD 44.9 Bn Takes Forex Reserves To New Lifetime High Of USD 785.71 Bn - ETV Bharat",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9326,
-      "currencies": [
-        "USD",
-        "USD"
-      ]
-    },
-    {
       "title": "Dollar rises as hot U.S. inflation, ECB hike reshape currency markets - Investing.com",
       "source": "Google News",
       "label": "neutral",
@@ -87,68 +87,68 @@
       "currencies": []
     },
     {
-      "title": "Inside the $9.5 Trillion Forex Market: Tag Markets on How Technology Is Changing Access - GeekWire",
+      "title": "India\u2019s forex reserves jump by a record $44.903 billion - thehindu.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.5644,
       "currencies": []
     },
     {
-      "title": "Bernstein SocGen cuts Linde stock price target on project analysis",
+      "title": "Williams Trading cuts Shoe Station Group stock price target on lower sales outlook",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9437,
+      "currencies": []
+    },
+    {
+      "title": "Federal Budget Deficit Narrows More Than Expected",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7457,
+      "currencies": []
+    },
+    {
+      "title": "GSK to close German vaccine plant, 641 jobs at risk",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9529,
+      "currencies": []
+    },
+    {
+      "title": "Pool stock hits 52-week low at $172.62",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9567,
+      "currencies": []
+    },
+    {
+      "title": "Anvi Global Holdings to implement 1-for-20 reverse stock split after shareholder approval",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Stifel reiterates Salesforce stock Buy rating on revenue growth",
+      "title": "Investing.com\u2019s stocks of the week",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Stifel reiterates Taiwan Semi stock rating on strong August sales",
+      "title": "Blackrock Muni Target Term stock hits 52-week low at 22.18 USD",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Barrington upgrades Copart stock rating on ACV acquisition",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Bernstein reiterates Oracle stock rating on solid execution",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is Hewlett Packard Enterprise stock surging today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Dell stock reaches all-time high at 563.19 USD",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9564,
       "currencies": [
         "USD"
       ]
     },
     {
-      "title": "Bitcoin rebounds to near $79k after in-line inflation report",
+      "title": "US consumer sentiment deteriorates in September, inflation expectations rise",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6528,
+      "label": "bearish",
+      "score": -0.9709,
       "currencies": []
     }
   ],

@@ -7,6 +7,32 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "US Dollar Price Forecast: DXY Stays Weak as ECB Hike Looms and Inflation Risks Rise; EUR/USD and GBP/USD in Focus",
+        "source": "Yahoo Finance",
+        "label": "bearish",
+        "score": -0.9401
+      }
+    ],
+    "USD/JPY": [
+      {
+        "title": "Forex reserves surge by a record USD 44.9 billion to USD 785.7 billion - PSU Watch",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.9417
+      },
+      {
+        "title": "Blackrock Muni Target Term stock hits 52-week low at 22.18 USD",
+        "source": "Investing.com",
+        "label": "bearish",
+        "score": -0.9564
+      },
+      {
+        "title": "Forex Kickstart: USD mixed as markets await the US CPI report",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.6714
       }
     ],
     "USD/CHF": [
@@ -17,24 +43,12 @@
         "score": 0.8831
       }
     ],
-    "USD/JPY": [
+    "GBP/USD": [
       {
-        "title": "Record Weekly Jump Of USD 44.9 Bn Takes Forex Reserves To New Lifetime High Of USD 785.71 Bn - ETV Bharat",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.9326
-      },
-      {
-        "title": "Dell stock reaches all-time high at 563.19 USD",
-        "source": "Investing.com",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Forex Kickstart: USD mixed as markets await the US CPI report",
-        "source": "ForexLive",
+        "title": "US Dollar Price Forecast: DXY Stays Weak as ECB Hike Looms and Inflation Risks Rise; EUR/USD and GBP/USD in Focus",
+        "source": "Yahoo Finance",
         "label": "bearish",
-        "score": -0.6714
+        "score": -0.9401
       }
     ]
   }
