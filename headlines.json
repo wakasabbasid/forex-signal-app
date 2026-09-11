@@ -1,17 +1,17 @@
 {
   "headlines": [
     {
+      "title": "India Forex Reserves Jump to Record $785.7 Billion on Flows - bloomberg.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5029,
+      "currencies": []
+    },
+    {
       "title": "Japan to maintain close communication with US on currency markets, Katayama says - Reuters",
       "source": "Google News",
       "label": "bullish",
       "score": 0.6482,
-      "currencies": []
-    },
-    {
-      "title": "India Forex Reserves Jump to Record $785.7 Billion on Flows - Bloomberg.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5029,
       "currencies": []
     },
     {
@@ -39,23 +39,6 @@
       "currencies": []
     },
     {
-      "title": "India's forex reserves surge record $44.9 billion to all-time high of $785.7 billion - The Times of India",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9092,
-      "currencies": []
-    },
-    {
-      "title": "Forex reserves surge by a record USD 44.9 billion to USD 785.7 billion - PSU Watch",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9417,
-      "currencies": [
-        "USD",
-        "USD"
-      ]
-    },
-    {
       "title": "Dollar steadies after US inflation data, yen set for second weekly gain - Investing.com",
       "source": "Google News",
       "label": "bullish",
@@ -63,21 +46,31 @@
       "currencies": []
     },
     {
-      "title": "USD/CHF Signal 11/09: US Rate Edge Supports Bullish Bias - DailyForex",
+      "title": "India's forex reserves surge record $44.9 billion to all-time high of $785.7 billion - The Times of India",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8831,
+      "score": 0.9092,
+      "currencies": []
+    },
+    {
+      "title": "Forex reserves surge by a record USD 44.9 billion to USD 785.7 billion - psuwatch.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9157,
       "currencies": [
         "USD",
-        "CHF"
+        "USD"
       ]
     },
     {
-      "title": "India's forex reserves jump $44.90 billion to record $785.71 billion as of September 4 - The Economic Times",
+      "title": "GBP/JPY Analysis Today 11/09: Yen Strength Keeps Pressure On - DailyForex",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.7996,
-      "currencies": []
+      "label": "bearish",
+      "score": -0.5977,
+      "currencies": [
+        "GBP",
+        "JPY"
+      ]
     },
     {
       "title": "Inside the $9.5 Trillion Forex Market: Tag Markets on How Technology Is Changing Access - GeekWire",
@@ -87,63 +80,70 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar consolidates gains as focus shifts to cricital inflation report - FXStreet",
+      "title": "India's forex reserves jump $44.90 billion to record $785.71 billion as of September 4 - The Economic Times",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.7171,
+      "score": 0.7996,
       "currencies": []
     },
     {
-      "title": "Silver Bow Mining completes initial closing on Montana Tunnels asset acquisition",
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8977,
+      "currencies": []
+    },
+    {
+      "title": "Life time EVP Singh sells $7.29m in LTH shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Eastern International receives Nasdaq delisting warning",
+      "title": "Meta CPO Christopher Cox sells $13m in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Silver Lake Partners IV sells $29.5m of Dell Technologies stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Silver Lake sells $262,633 of Dell Technologies stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Apollo in talks to buy J&J orthopedics unit for nearly $20 billion",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.496,
+      "score": -0.5184,
       "currencies": []
     },
     {
-      "title": "Fitch upgrades Citizens Financial rating on profitability",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8882,
-      "currencies": []
-    },
-    {
-      "title": "Home Depot SVP Scardino sells $206k in shares",
+      "title": "Exclusive-Nvidia in talks to invest in Anthropic\u2019s mega IPO, sources say",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Fitch upgrades Kite Realty rating on lower leverage outlook",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9039,
-      "currencies": []
-    },
-    {
-      "title": "Q/C Technologies ends two consulting agreements and announces board resignation",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6115,
-      "currencies": []
-    },
-    {
-      "title": "Dare Bioscience amends bylaws to lower quorum for shareholder meetings",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Goldman Sachs, BofA compete for Anthropic employee wealth management - Bloomberg",
+      "title": "SentinelOne chief accounting officer sells $265,511 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

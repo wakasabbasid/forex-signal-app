@@ -11,19 +11,35 @@
     ],
     "USD/JPY": [
       {
-        "title": "Forex reserves surge by a record USD 44.9 billion to USD 785.7 billion - PSU Watch",
+        "title": "Forex reserves surge by a record USD 44.9 billion to USD 785.7 billion - psuwatch.com",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.9417
+        "score": 0.9157
+      },
+      {
+        "title": "GBP/JPY Analysis Today 11/09: Yen Strength Keeps Pressure On - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.5977
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/JPY Analysis Today 11/09: Yen Strength Keeps Pressure On - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.5977
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "AUD/USD Price Forecast: Doji high guards bulls as Fed bets bite",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "USD/CHF": [
-      {
-        "title": "USD/CHF Signal 11/09: US Rate Edge Supports Bullish Bias - DailyForex",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.8831
-      },
       {
         "title": "USD/CHF Price Forecast: Bulls break 0.8150 as CPI fuels Fed bets",
         "source": "FXStreet",
