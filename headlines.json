@@ -1,6 +1,20 @@
 {
   "headlines": [
     {
+      "title": "Japan to maintain close communication with US on currency markets, Katayama says - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6482,
+      "currencies": []
+    },
+    {
+      "title": "India Forex Reserves Jump to Record $785.7 Billion on Flows - Bloomberg.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5029,
+      "currencies": []
+    },
+    {
       "title": "Exchange rate | Foreign Exchange, Currency Fluctuations, Exchange Rates - Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -18,11 +32,28 @@
       ]
     },
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - reuters.com",
+      "title": "Forex kitty rockets to a historic $45 billion to $786 billion - The New Indian Express",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8017,
+      "score": 0.7979,
       "currencies": []
+    },
+    {
+      "title": "India's forex reserves jump $44.90 billion to record $785.71 billion as of September 4 - The Economic Times",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7996,
+      "currencies": []
+    },
+    {
+      "title": "USD/CHF Signal 11/09: US Rate Edge Supports Bullish Bias - DailyForex",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8831,
+      "currencies": [
+        "USD",
+        "CHF"
+      ]
     },
     {
       "title": "Forex Today: US Dollar consolidates gains as focus shifts to cricital inflation report - FXStreet",
@@ -32,34 +63,27 @@
       "currencies": []
     },
     {
-      "title": "USD/CHF Signal 11/09: US Rate Edge Supports Bullish Bias - dailyforex.com",
+      "title": "Forex Focus - tastylive",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Record Weekly Jump Of USD 44.9 Bn Takes Forex Reserves To New Lifetime High Of USD 785.71 Bn - ETV Bharat",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9326,
       "currencies": [
         "USD",
-        "CHF"
+        "USD"
       ]
     },
     {
-      "title": "Asian currencies subdued as dollar holds near weekly high, yen slips - Investing.com",
+      "title": "Dollar rises as hot U.S. inflation, ECB hike reshape currency markets - Investing.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.7943,
-      "currencies": []
-    },
-    {
-      "title": "RBI to expand retail forex access with five new currency pairs, plans wider global currency bouquet - economictimes.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5437,
-      "currencies": []
-    },
-    {
-      "title": "Euro extends decline under US pressure - Economies.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7435,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -70,80 +94,61 @@
       "currencies": []
     },
     {
-      "title": "Forex Daily Hot Take: The ECB Hawks May Have Set the Bar Too High - The Dark Side Of The Boom",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8924,
-      "currencies": []
-    },
-    {
-      "title": "September 11: Cedi sells at GHS12.15 on forex market, GHS11.46 on BoG interbank - Modern Ghana",
-      "source": "Google News",
+      "title": "Bernstein SocGen cuts Linde stock price target on project analysis",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28 - reuters.com",
-      "source": "Google News",
+      "title": "Stifel reiterates Salesforce stock Buy rating on revenue growth",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Mexico, Washington sprint toward bilateral trade deal before US elections",
+      "title": "Stifel reiterates Taiwan Semi stock rating on strong August sales",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Barrington upgrades Copart stock rating on ACV acquisition",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Bernstein reiterates Oracle stock rating on solid execution",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why is Hewlett Packard Enterprise stock surging today?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Dell stock reaches all-time high at 563.19 USD",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Bitcoin rebounds to near $79k after in-line inflation report",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7711,
-      "currencies": []
-    },
-    {
-      "title": "Russia\u2019s central bank holds key rate at 14%",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Vail Resorts receives director nominations from shareholders",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Trump and Musk super PACs unleash millions to boost Republicans in battleground races",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Needham reiterates Buy on Nu Holdings stock, cites U.S. expansion",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Russian attack on Kyiv petrol stations kills two, Ukrainian strikes kill two in Russia",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9141,
-      "currencies": []
-    },
-    {
-      "title": "Three AI-powered strategies pull ahead of the S&P 500 in September",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5798,
-      "currencies": []
-    },
-    {
-      "title": "India stocks lower at close of trade; Nifty 50 down 0.34%",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9645,
+      "score": 0.6528,
       "currencies": []
     }
   ],

@@ -11,24 +11,30 @@
     ],
     "USD/CHF": [
       {
-        "title": "USD/CHF Signal 11/09: US Rate Edge Supports Bullish Bias - dailyforex.com",
+        "title": "USD/CHF Signal 11/09: US Rate Edge Supports Bullish Bias - DailyForex",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bullish",
+        "score": 0.8831
       }
     ],
     "USD/JPY": [
       {
-        "title": "Australian Dollar steadies vs Japanese Yen as hawkish RBA signals offset JPY strength",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.5578
+        "title": "Record Weekly Jump Of USD 44.9 Bn Takes Forex Reserves To New Lifetime High Of USD 785.71 Bn - ETV Bharat",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.9326
       },
       {
-        "title": "Gold Price Forecast: XAU/USD clings to a key support area around $4,300",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.5403
+        "title": "Dell stock reaches all-time high at 563.19 USD",
+        "source": "Investing.com",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Forex Kickstart: USD mixed as markets await the US CPI report",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.6714
       }
     ]
   }
