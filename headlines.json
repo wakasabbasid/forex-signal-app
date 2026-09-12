@@ -53,20 +53,6 @@
       "currencies": []
     },
     {
-      "title": "India Forex Reserves Hit Record $785.7B - Briefs Finance",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.903,
-      "currencies": []
-    },
-    {
-      "title": "India now among world\u2019s top 4 forex reserve holders as stockpile hits record $785.7 billion - Firstpost",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8831,
-      "currencies": []
-    },
-    {
       "title": "RBI to expand retail forex access with five new currency pairs, plans wider global currency bouquet - The Economic Times",
       "source": "Google News",
       "label": "bullish",
@@ -83,10 +69,24 @@
       ]
     },
     {
+      "title": "India now among world\u2019s top 4 forex reserve holders as stockpile hits record $785.7 billion - Firstpost",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8831,
+      "currencies": []
+    },
+    {
       "title": "Forex Daily Hot Take: The ECB Hawks May Have Set the Bar Too High - The Dark Side Of The Boom",
       "source": "Google News",
       "label": "bearish",
       "score": -0.8924,
+      "currencies": []
+    },
+    {
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8977,
       "currencies": []
     },
     {
