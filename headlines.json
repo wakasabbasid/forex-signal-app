@@ -1,13 +1,6 @@
 {
   "headlines": [
     {
-      "title": "India Forex Reserves Jump to Record $785.7 Billion on Flows - bloomberg.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5029,
-      "currencies": []
-    },
-    {
       "title": "Exchange rate | Foreign Exchange, Currency Fluctuations, Exchange Rates - Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -15,14 +8,14 @@
       "currencies": []
     },
     {
-      "title": "Japan to maintain close communication with US on currency markets, Katayama says - Reuters",
+      "title": "Japan to maintain close communication with US on currency markets, Katayama says - reuters.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.6482,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - forex.com",
+      "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -30,6 +23,13 @@
         "EUR",
         "USD"
       ]
+    },
+    {
+      "title": "India Forex Reserves Jump to Record $785.7 Billion on Flows - Bloomberg.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5029,
+      "currencies": []
     },
     {
       "title": "Forex Reserves Jump $45 Billion - Rediff",
@@ -46,6 +46,15 @@
       "currencies": []
     },
     {
+      "title": "India now 4th-largest forex holder after hitting record USD 44.9 billion inflow in 1 week - The Tribune",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9064,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "India now among world\u2019s top 4 forex reserve holders as stockpile hits record $785.7 billion - Firstpost",
       "source": "Google News",
       "label": "bullish",
@@ -60,13 +69,6 @@
       "currencies": []
     },
     {
-      "title": "Forex kitty rockets to a historic $45 billion to $786 billion - The New Indian Express",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7979,
-      "currencies": []
-    },
-    {
       "title": "RBI to expand retail forex access with five new currency pairs, plans wider global currency bouquet - The Economic Times",
       "source": "Google News",
       "label": "bullish",
@@ -74,75 +76,75 @@
       "currencies": []
     },
     {
-      "title": "USD/INR Above 95.00 as US CPI Risks Fuel Volatility - DailyForex",
+      "title": "USD/INR Above 95.00 as US CPI Risks Fuel Volatility - dailyforex.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.422,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
         "USD"
       ]
     },
     {
-      "title": "India's forex reserves surge record $44.9 billion to all-time high of $785.7 billion - timesofindia.indiatimes.com",
+      "title": "Forex Daily Hot Take: The ECB Hawks May Have Set the Bar Too High - The Dark Side Of The Boom",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.8683,
+      "label": "bearish",
+      "score": -0.8924,
       "currencies": []
     },
     {
-      "title": "Fastly CTO Artur Bergman sells $203,613 in FSLY stock",
+      "title": "Trump says Iran war likely to end after midterms as Yemen fighting escalates",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.7574,
       "currencies": []
     },
     {
-      "title": "Toro 18 Holdings LLC sells $602k in Universal Electronics shares",
+      "title": "Analysis-Houthi advance in Yemen puts U.S. in a new bind",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.4942,
       "currencies": []
     },
     {
-      "title": "Global industrial SVP Claudia Hughes acquires $3,966 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Marzetti Co strategic advisor sells $100,512 in common stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "BRICS agrees on joint declaration before New Delhi summit, sources say",
+      "title": "Canadian boycott of US products pushes grocers to adapt, explore new supply sources",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.817,
+      "score": 0.8488,
       "currencies": []
     },
     {
-      "title": "How Europeans save \u2014 and why it matters for the economy",
+      "title": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.883,
+      "currencies": []
+    },
+    {
+      "title": "Carlyle group director David Rubenstein sells $17.1m in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Sharon Binnun sells $221,995 in Heritage Insurance stock",
+      "title": "How Fair Value spotted Mercury General\u2019s 76% rally in advance",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.648,
+      "currencies": []
+    },
+    {
+      "title": "how Fair Value analysis predicted Fervo Energy\u2019s 47% decline",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "PTC Therapeutics director Schmertzler sells $1.35m in stock",
+      "title": "Citi sees Fed delivering \"a dovish hike\" next week",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.8917,
       "currencies": []
     }
   ],

@@ -3,7 +3,7 @@
   "pairs": {
     "EUR/USD": [
       {
-        "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - forex.com",
+        "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -11,10 +11,16 @@
     ],
     "USD/JPY": [
       {
-        "title": "USD/INR Above 95.00 as US CPI Risks Fuel Volatility - DailyForex",
+        "title": "India now 4th-largest forex holder after hitting record USD 44.9 billion inflow in 1 week - The Tribune",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.422
+        "score": 0.9064
+      },
+      {
+        "title": "USD/INR Above 95.00 as US CPI Risks Fuel Volatility - dailyforex.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "AUD/USD": [
