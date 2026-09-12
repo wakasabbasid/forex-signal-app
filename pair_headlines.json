@@ -3,19 +3,13 @@
   "pairs": {
     "EUR/USD": [
       {
-        "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
+        "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - forex.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       }
     ],
     "USD/JPY": [
-      {
-        "title": "Forex reserves surge by a record USD 44.9 billion to USD 785.7 billion - PSU Watch",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.9417
-      },
       {
         "title": "USD/INR Above 95.00 as US CPI Risks Fuel Volatility - DailyForex",
         "source": "Google News",

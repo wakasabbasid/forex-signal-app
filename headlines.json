@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "India Forex Reserves Jump to Record $785.7 Billion on Flows - Bloomberg.com",
+      "title": "India Forex Reserves Jump to Record $785.7 Billion on Flows - bloomberg.com",
       "source": "Google News",
       "label": "bullish",
       "score": 0.5029,
@@ -22,7 +22,7 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
+      "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - forex.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -32,6 +32,13 @@
       ]
     },
     {
+      "title": "Forex Reserves Jump $45 Billion - Rediff",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6593,
+      "currencies": []
+    },
+    {
       "title": "India Forex Reserves Hit Record $785.7B - Briefs Finance",
       "source": "Google News",
       "label": "bullish",
@@ -39,17 +46,10 @@
       "currencies": []
     },
     {
-      "title": "Forex kitty rockets to a historic $45 billion to $786 billion - newindianexpress.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "India's forex reserves surge record $44.9 billion to all-time high of $785.7 billion - The Times of India",
+      "title": "India now among world\u2019s top 4 forex reserve holders as stockpile hits record $785.7 billion - Firstpost",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9092,
+      "score": 0.8831,
       "currencies": []
     },
     {
@@ -60,28 +60,18 @@
       "currencies": []
     },
     {
+      "title": "Forex kitty rockets to a historic $45 billion to $786 billion - The New Indian Express",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7979,
+      "currencies": []
+    },
+    {
       "title": "RBI to expand retail forex access with five new currency pairs, plans wider global currency bouquet - The Economic Times",
       "source": "Google News",
       "label": "bullish",
       "score": 0.68,
       "currencies": []
-    },
-    {
-      "title": "Dollar rises as hot U.S. inflation, ECB hike reshape currency markets - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex reserves surge by a record USD 44.9 billion to USD 785.7 billion - PSU Watch",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9417,
-      "currencies": [
-        "USD",
-        "USD"
-      ]
     },
     {
       "title": "USD/INR Above 95.00 as US CPI Risks Fuel Volatility - DailyForex",
@@ -93,59 +83,66 @@
       ]
     },
     {
-      "title": "AnaptysBio earnings missed by $0.34, revenue fell short of estimates",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9708,
+      "title": "India's forex reserves surge record $44.9 billion to all-time high of $785.7 billion - timesofindia.indiatimes.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8683,
       "currencies": []
     },
     {
-      "title": "UBS sees Chinese carmakers reach 37% globally by 2030",
+      "title": "Fastly CTO Artur Bergman sells $203,613 in FSLY stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Toro 18 Holdings LLC sells $602k in Universal Electronics shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Global industrial SVP Claudia Hughes acquires $3,966 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Marzetti Co strategic advisor sells $100,512 in common stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "BRICS agrees on joint declaration before New Delhi summit, sources say",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9162,
+      "score": 0.817,
       "currencies": []
     },
     {
-      "title": "Ocugen CEO Musunuri sells $589,109 in shares, priced $1.06-$1.31",
+      "title": "How Europeans save \u2014 and why it matters for the economy",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Health in tech director Timothy Hayes sells $16,248 in stock",
+      "title": "Sharon Binnun sells $221,995 in Heritage Insurance stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "U.S. links Chinese satellite imagery to deadly Iranian strike - WSJ",
+      "title": "PTC Therapeutics director Schmertzler sells $1.35m in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Hyperscale data executive chairman Ault buys $33,651 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Hinge Health CFO James Budge sells $4.97m in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.883,
       "currencies": []
     }
   ],
