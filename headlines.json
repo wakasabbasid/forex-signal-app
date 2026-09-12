@@ -8,7 +8,21 @@
       "currencies": []
     },
     {
-      "title": "Japan to maintain close communication with US on currency markets, Katayama says - reuters.com",
+      "title": "Japan to maintain close communication with US on currency markets, Katayama says - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6482,
+      "currencies": []
+    },
+    {
+      "title": "India Forex Reserves Jump to Record $785.7 Billion on Flows - Bloomberg.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5029,
+      "currencies": []
+    },
+    {
+      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -25,13 +39,6 @@
       ]
     },
     {
-      "title": "India Forex Reserves Jump to Record $785.7 Billion on Flows - Bloomberg.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5029,
-      "currencies": []
-    },
-    {
       "title": "Forex Reserves Jump $45 Billion - Rediff",
       "source": "Google News",
       "label": "bullish",
@@ -46,13 +53,11 @@
       "currencies": []
     },
     {
-      "title": "India now 4th-largest forex holder after hitting record USD 44.9 billion inflow in 1 week - The Tribune",
+      "title": "Tag Markets and the $9.5 Trillion FX Market: What the Number Actually Means for Traders - flaunt.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.9064,
-      "currencies": [
-        "USD"
-      ]
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "India now among world\u2019s top 4 forex reserve holders as stockpile hits record $785.7 billion - Firstpost",
@@ -69,14 +74,7 @@
       "currencies": []
     },
     {
-      "title": "RBI to expand retail forex access with five new currency pairs, plans wider global currency bouquet - The Economic Times",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.68,
-      "currencies": []
-    },
-    {
-      "title": "USD/INR Above 95.00 as US CPI Risks Fuel Volatility - dailyforex.com",
+      "title": "India now 4th-largest forex holder after hitting record USD 44.9 billion inflow in 1 week - tribuneindia.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -85,24 +83,10 @@
       ]
     },
     {
-      "title": "Forex Daily Hot Take: The ECB Hawks May Have Set the Bar Too High - The Dark Side Of The Boom",
+      "title": "RBI to expand retail forex access with five new currency pairs, plans wider global currency bouquet - The Economic Times",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.8924,
-      "currencies": []
-    },
-    {
-      "title": "Trump says Iran war likely to end after midterms as Yemen fighting escalates",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7574,
-      "currencies": []
-    },
-    {
-      "title": "Analysis-Houthi advance in Yemen puts U.S. in a new bind",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.4942,
+      "label": "bullish",
+      "score": 0.68,
       "currencies": []
     },
     {
@@ -113,6 +97,27 @@
       "currencies": []
     },
     {
+      "title": "US judge rules that Trump plan to halve\u00a0FEMA workforce violated law",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8096,
+      "currencies": []
+    },
+    {
+      "title": "Iran and UAE back joint BRICS statement urging restraint in war",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Anthropic CEO calls for slower AI development after security incidents",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
       "source": "Investing.com",
       "label": "bearish",
@@ -120,31 +125,24 @@
       "currencies": []
     },
     {
-      "title": "Carlyle group director David Rubenstein sells $17.1m in shares",
+      "title": "Anthropic CEO urges AI companies to slow model development",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7908,
+      "currencies": []
+    },
+    {
+      "title": "SeaStar Medical at H.C. Wainwright: adult trial looms over small cap",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "How Fair Value spotted Mercury General\u2019s 76% rally in advance",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.648,
-      "currencies": []
-    },
-    {
-      "title": "how Fair Value analysis predicted Fervo Energy\u2019s 47% decline",
+      "title": "Outlook Therapeutics at H.C. Wainwright: launch hinges on access",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Citi sees Fed delivering \"a dovish hike\" next week",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8917,
       "currencies": []
     }
   ],
