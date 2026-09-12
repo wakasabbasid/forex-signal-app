@@ -1,17 +1,10 @@
 {
   "headlines": [
     {
-      "title": "India Forex Reserves Jump to Record $785.7 Billion on Flows - bloomberg.com",
+      "title": "India Forex Reserves Jump to Record $785.7 Billion on Flows - Bloomberg.com",
       "source": "Google News",
       "label": "bullish",
       "score": 0.5029,
-      "currencies": []
-    },
-    {
-      "title": "Japan to maintain close communication with US on currency markets, Katayama says - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6482,
       "currencies": []
     },
     {
@@ -19,6 +12,13 @@
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japan to maintain close communication with US on currency markets, Katayama says - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6482,
       "currencies": []
     },
     {
@@ -32,17 +32,17 @@
       ]
     },
     {
-      "title": "Forex kitty rockets to a historic $45 billion to $786 billion - The New Indian Express",
+      "title": "India Forex Reserves Hit Record $785.7B - Briefs Finance",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.7979,
+      "score": 0.903,
       "currencies": []
     },
     {
-      "title": "Dollar steadies after US inflation data, yen set for second weekly gain - Investing.com",
+      "title": "Forex kitty rockets to a historic $45 billion to $786 billion - newindianexpress.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.4768,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -53,26 +53,6 @@
       "currencies": []
     },
     {
-      "title": "Forex reserves surge by a record USD 44.9 billion to USD 785.7 billion - psuwatch.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9157,
-      "currencies": [
-        "USD",
-        "USD"
-      ]
-    },
-    {
-      "title": "GBP/JPY Analysis Today 11/09: Yen Strength Keeps Pressure On - DailyForex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5977,
-      "currencies": [
-        "GBP",
-        "JPY"
-      ]
-    },
-    {
       "title": "Inside the $9.5 Trillion Forex Market: Tag Markets on How Technology Is Changing Access - GeekWire",
       "source": "Google News",
       "label": "neutral",
@@ -80,73 +60,92 @@
       "currencies": []
     },
     {
-      "title": "India's forex reserves jump $44.90 billion to record $785.71 billion as of September 4 - The Economic Times",
+      "title": "RBI to expand retail forex access with five new currency pairs, plans wider global currency bouquet - The Economic Times",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.7996,
+      "score": 0.68,
       "currencies": []
     },
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "title": "Dollar rises as hot U.S. inflation, ECB hike reshape currency markets - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex reserves surge by a record USD 44.9 billion to USD 785.7 billion - PSU Watch",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8977,
-      "currencies": []
+      "score": 0.9417,
+      "currencies": [
+        "USD",
+        "USD"
+      ]
     },
     {
-      "title": "Life time EVP Singh sells $7.29m in LTH shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
+      "title": "USD/INR Above 95.00 as US CPI Risks Fuel Volatility - DailyForex",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.422,
+      "currencies": [
+        "USD"
+      ]
     },
     {
-      "title": "Meta CPO Christopher Cox sells $13m in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Silver Lake Partners IV sells $29.5m of Dell Technologies stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Silver Lake sells $262,633 of Dell Technologies stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Apollo in talks to buy J&J orthopedics unit for nearly $20 billion",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say",
+      "title": "AnaptysBio earnings missed by $0.34, revenue fell short of estimates",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5184,
+      "score": -0.9708,
       "currencies": []
     },
     {
-      "title": "Exclusive-Nvidia in talks to invest in Anthropic\u2019s mega IPO, sources say",
+      "title": "UBS sees Chinese carmakers reach 37% globally by 2030",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9162,
+      "currencies": []
+    },
+    {
+      "title": "Ocugen CEO Musunuri sells $589,109 in shares, priced $1.06-$1.31",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "SentinelOne chief accounting officer sells $265,511 in shares",
+      "title": "Health in tech director Timothy Hayes sells $16,248 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "U.S. links Chinese satellite imagery to deadly Iranian strike - WSJ",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Hyperscale data executive chairman Ault buys $33,651 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Hinge Health CFO James Budge sells $4.97m in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.883,
       "currencies": []
     }
   ],

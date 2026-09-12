@@ -11,24 +11,16 @@
     ],
     "USD/JPY": [
       {
-        "title": "Forex reserves surge by a record USD 44.9 billion to USD 785.7 billion - psuwatch.com",
+        "title": "Forex reserves surge by a record USD 44.9 billion to USD 785.7 billion - PSU Watch",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.9157
+        "score": 0.9417
       },
       {
-        "title": "GBP/JPY Analysis Today 11/09: Yen Strength Keeps Pressure On - DailyForex",
+        "title": "USD/INR Above 95.00 as US CPI Risks Fuel Volatility - DailyForex",
         "source": "Google News",
-        "label": "bearish",
-        "score": -0.5977
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "GBP/JPY Analysis Today 11/09: Yen Strength Keeps Pressure On - DailyForex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.5977
+        "label": "bullish",
+        "score": 0.422
       }
     ],
     "AUD/USD": [
