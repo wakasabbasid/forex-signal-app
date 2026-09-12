@@ -22,13 +22,6 @@
       "currencies": []
     },
     {
-      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -46,24 +39,10 @@
       "currencies": []
     },
     {
-      "title": "India Forex Reserves Hit Record $785.7B - Briefs Finance",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.903,
-      "currencies": []
-    },
-    {
-      "title": "Tag Markets and the $9.5 Trillion FX Market: What the Number Actually Means for Traders - flaunt.com",
+      "title": "Tag Markets and the $9.5 Trillion FX Market: What the Number Actually Means for Traders - Flaunt Magazine",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "India now among world\u2019s top 4 forex reserve holders as stockpile hits record $785.7 billion - Firstpost",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8831,
       "currencies": []
     },
     {
@@ -74,19 +53,75 @@
       "currencies": []
     },
     {
-      "title": "India now 4th-largest forex holder after hitting record USD 44.9 billion inflow in 1 week - tribuneindia.com",
+      "title": "India Forex Reserves Hit Record $785.7B - Briefs Finance",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
+      "label": "bullish",
+      "score": 0.903,
+      "currencies": []
+    },
+    {
+      "title": "India now among world\u2019s top 4 forex reserve holders as stockpile hits record $785.7 billion - Firstpost",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8831,
+      "currencies": []
     },
     {
       "title": "RBI to expand retail forex access with five new currency pairs, plans wider global currency bouquet - The Economic Times",
       "source": "Google News",
       "label": "bullish",
       "score": 0.68,
+      "currencies": []
+    },
+    {
+      "title": "USD/INR Above 95.00 as US CPI Risks Fuel Volatility - DailyForex",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.422,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Forex Daily Hot Take: The ECB Hawks May Have Set the Bar Too High - The Dark Side Of The Boom",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8924,
+      "currencies": []
+    },
+    {
+      "title": "Russian attacks on Kyiv petrol stations kill two, Ukrainian strikes kill three in Russia",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9045,
+      "currencies": []
+    },
+    {
+      "title": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.883,
+      "currencies": []
+    },
+    {
+      "title": "Ukraine braces for harsh winter as Russian attacks hit economy",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8273,
+      "currencies": []
+    },
+    {
+      "title": "Iran says Hormuz reopening depends on U.S. meeting its conditions",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "India\u2019s Modi and China\u2019s Xi push business links, border peace as ties revive",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5534,
       "currencies": []
     },
     {
@@ -105,41 +140,6 @@
     },
     {
       "title": "Iran and UAE back joint BRICS statement urging restraint in war",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Anthropic CEO calls for slower AI development after security incidents",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.883,
-      "currencies": []
-    },
-    {
-      "title": "Anthropic CEO urges AI companies to slow model development",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7908,
-      "currencies": []
-    },
-    {
-      "title": "SeaStar Medical at H.C. Wainwright: adult trial looms over small cap",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Outlook Therapeutics at H.C. Wainwright: launch hinges on access",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
