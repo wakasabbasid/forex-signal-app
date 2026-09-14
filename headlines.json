@@ -15,7 +15,7 @@
       "currencies": []
     },
     {
-      "title": "India Forex Reserves Jump to Record $785.7 Billion on Flows - Bloomberg.com",
+      "title": "India Forex Reserves Jump to Record $785.7 Billion on Flows - bloomberg.com",
       "source": "Google News",
       "label": "bullish",
       "score": 0.5029,
@@ -29,6 +29,15 @@
       "currencies": []
     },
     {
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.7083 \u2013 Reuters estimate - investingLive",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -39,13 +48,6 @@
       ]
     },
     {
-      "title": "India Rises to Fourth-Largest Forex Reserve Holder - The Indian EYE",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8818,
-      "currencies": []
-    },
-    {
       "title": "Tag Markets and the $9.5 Trillion FX Market: What the Number Actually Means for Traders - Flaunt Magazine",
       "source": "Google News",
       "label": "neutral",
@@ -53,10 +55,17 @@
       "currencies": []
     },
     {
-      "title": "Weekly Forex Forecast of Major Markets: Mixed Performance Amid Rate Decision Anticipation - DailyForex",
+      "title": "India Rises to Fourth-Largest Forex Reserve Holder - The Indian EYE",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9516,
+      "label": "bullish",
+      "score": 0.8818,
+      "currencies": []
+    },
+    {
+      "title": "Expectations Begin to Shift Against the US Dollar - Action Forex",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.659,
       "currencies": []
     },
     {
@@ -67,6 +76,15 @@
       "currencies": []
     },
     {
+      "title": "USD/INR Above 95.00 as US CPI Risks Fuel Volatility - DailyForex",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.422,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "India Forex Reserves Hit Record $785.7B - Briefs Finance",
       "source": "Google News",
       "label": "bullish",
@@ -74,76 +92,59 @@
       "currencies": []
     },
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8977,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD forecast: Forex Friday | September 11, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "Oil prices jump over 3% on more M.East action, Hormuz meeting delay",
+      "title": "Sampo buys back 4.3 million shares in week 37",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Michael Dell\u2019s DFO Management nears take-private deal for Baldwin Insurance Group, FT reports",
+      "title": "Why is SoftBank stock tumbling today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7087,
+      "currencies": []
+    },
+    {
+      "title": "Sampo buys back 4.27 million shares in week 37",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Zipalertinib plus chemo shows survival benefit in lung cancer trial",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.932,
-      "currencies": []
-    },
-    {
-      "title": "Diplomacy stumbles with postponement of meeting on Strait of Hormuz proposal",
+      "title": "Shares skid in Asia as oil climbs, rate hikes loom",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9286,
+      "score": -0.9448,
       "currencies": []
     },
     {
-      "title": "Shares slip in Asia as oil climbs, rate hikes loom",
+      "title": "Softbank Group stock slides 11% after OpenAI says it will not seek a 2026 IPO",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9548,
+      "score": -0.952,
       "currencies": []
     },
     {
-      "title": "Anthropic tells investors it will be profitable for second straight quarter, FT reports",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8944,
-      "currencies": []
-    },
-    {
-      "title": "Oil prices jump more than $3 after new strikes on Saudi, Strait of Hormuz",
+      "title": "Asian currencies weaken as dollar rises, yen holds near seven-month high",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7395,
+      "score": -0.9555,
       "currencies": []
     },
     {
-      "title": "Bitcoin little changed at $77k as rate pressure clashes with diversification case",
+      "title": "BOJ executive saw need for vigilance to \u2019non-linear\u2019 inflation spikes",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Trump calls $5,000 payouts \u2019easy\u2019 to fit into federal budget",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8866,
+      "score": 0.5175,
       "currencies": []
     }
   ],

@@ -1,6 +1,56 @@
 {
   "run_id": 1,
   "pairs": {
+    "USD/JPY": [
+      {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7083 \u2013 Reuters estimate - investingLive",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "USD/INR Above 95.00 as US CPI Risks Fuel Volatility - DailyForex",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.422
+      },
+      {
+        "title": "PBOC sets USD/ CNY reference rate for today at 6.7698 (vs. estimate at 6.7083)",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7083 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "AUD/JPY Price Forecast: Holds steady near 110.00, bearish technicals persist",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.493
+      },
+      {
+        "title": "Gold flat lines above $4,300 as firmer USD caps upside amid hawkish central bank bets",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.5401
+      },
+      {
+        "title": "EUR/JPY Price Forecast: Trades near 178.50 after rebounding from descending channel bottom",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8718
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD bears have the upper hand below $64.75-$64.85 confluence",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
     "EUR/USD": [
       {
         "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
@@ -9,26 +59,30 @@
         "score": 0.0
       },
       {
-        "title": "EUR/USD forecast: Forex Friday | September 11, 2026 - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "title": "EUR/USD Price Forecast: Slides to four-week low as hawkish Fed bets accelerate",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9682
+      },
+      {
+        "title": "EUR/JPY Price Forecast: Trades near 178.50 after rebounding from descending channel bottom",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8718
       }
     ],
     "AUD/USD": [
       {
-        "title": "AUD/USD Price Forecast: Doji high guards bulls as Fed bets bite",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "USD/CHF": [
-      {
-        "title": "USD/CHF Price Forecast: Bulls break 0.8150 as CPI fuels Fed bets",
+        "title": "AUD/JPY Price Forecast: Holds steady near 110.00, bearish technicals persist",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.7392
+        "score": -0.493
+      },
+      {
+        "title": "AUD/USD Price Forecast: Shows resilience below 38.2% Fibo. near mid-0.7100s",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.5087
       }
     ]
   }
