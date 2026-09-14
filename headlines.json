@@ -1,28 +1,73 @@
 {
   "headlines": [
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
+      "title": "Yen appreciation has carry-trade seekers looking at these two currencies - CNBC",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Japan to maintain close communication with US on currency markets, Katayama says - Reuters",
+      "title": "EUR/USD Signal 14/09: Rising Wedge Points to a Pullback - DailyForex",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.6482,
+      "score": 0.6742,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "COT on forex and commodities - Week to 8 Sept 2026 - Saxo",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "India Forex Reserves Jump to Record $785.7 Billion on Flows - bloomberg.com",
+      "title": "Japan to maintain close communication with US on currency markets, Katayama says - reuters.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Yen appreciation has carry-trade seekers looking at these two currencies - Forex Factory",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "India Forex Reserves Jump to Record $785.7 Billion on Flows - Bloomberg.com",
       "source": "Google News",
       "label": "bullish",
       "score": 0.5029,
       "currencies": []
     },
     {
+      "title": "Exchange rate | Foreign Exchange, Currency Fluctuations, Exchange Rates - Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Asian currencies weaken as dollar rises, yen holds near seven-month high - Investing.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9458,
+      "currencies": []
+    },
+    {
+      "title": "In 2014, India\u2019s forex reserves were just over $300 billion; 12 years later, amid US-Iran war, they hit a - The Times of India",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -48,103 +93,59 @@
       ]
     },
     {
-      "title": "Tag Markets and the $9.5 Trillion FX Market: What the Number Actually Means for Traders - Flaunt Magazine",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "India Rises to Fourth-Largest Forex Reserve Holder - The Indian EYE",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8818,
-      "currencies": []
-    },
-    {
-      "title": "Expectations Begin to Shift Against the US Dollar - Action Forex",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.659,
-      "currencies": []
-    },
-    {
-      "title": "Forex Reserves Jump $45 Billion - Rediff",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6593,
-      "currencies": []
-    },
-    {
-      "title": "USD/INR Above 95.00 as US CPI Risks Fuel Volatility - DailyForex",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.422,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "India Forex Reserves Hit Record $785.7B - Briefs Finance",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.903,
-      "currencies": []
-    },
-    {
-      "title": "Sampo buys back 4.3 million shares in week 37",
+      "title": "Alpha Compute Corp president buys $35,455 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is SoftBank stock tumbling today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7087,
-      "currencies": []
-    },
-    {
-      "title": "Sampo buys back 4.27 million shares in week 37",
+      "title": "Alpha Compute (ALP) CEO Brittany Kaiser acquires $49,997 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Shares skid in Asia as oil climbs, rate hikes loom",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9448,
-      "currencies": []
-    },
-    {
-      "title": "Softbank Group stock slides 11% after OpenAI says it will not seek a 2026 IPO",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.952,
-      "currencies": []
-    },
-    {
-      "title": "Asian currencies weaken as dollar rises, yen holds near seven-month high",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9555,
-      "currencies": []
-    },
-    {
-      "title": "BOJ executive saw need for vigilance to \u2019non-linear\u2019 inflation spikes",
+      "title": "Fitch affirms Halyk Bank at BBB- with stable outlook",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Trump calls $5,000 payouts \u2019easy\u2019 to fit into federal budget",
+      "title": "Why is Definium Therapeutics stock surging today?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Cantor Fitzgerald reiterates ASML stock rating on litho intensity outlook",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Director\u2019s wife purchases shares in Kromek Group",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Bowman\u2019s go-shop period ends with no alternative bids",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Caliber refinances $3.4M in debt, secures buyback option",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5175,
+      "score": 0.8498,
       "currencies": []
     }
   ],
