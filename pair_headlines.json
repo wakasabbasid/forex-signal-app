@@ -7,14 +7,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      }
-    ],
-    "USD/JPY": [
+      },
       {
-        "title": "USD/INR Above 95.00 as US CPI Risks Fuel Volatility - DailyForex",
+        "title": "EUR/USD forecast: Forex Friday | September 11, 2026 - FOREX.com",
         "source": "Google News",
-        "label": "bullish",
-        "score": 0.422
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "AUD/USD": [
