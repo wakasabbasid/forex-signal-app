@@ -1,40 +1,28 @@
 {
   "run_id": 1,
   "pairs": {
-    "EUR/USD": [
-      {
-        "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
     "GBP/USD": [
       {
-        "title": "GBP/USD Signal: Forecast Ahead of Fed and BoE Interest Rate Decisions - DailyForex",
-        "source": "Google News",
+        "title": "GBP/JPY Price Forecast: Bears circle 207.00 as RSI rebounds",
+        "source": "FXStreet",
         "label": "neutral",
         "score": 0.0
       }
     ],
     "USD/JPY": [
       {
-        "title": "Cloudflare stock hits all-time high at 332.27 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.5658
-      },
-      {
-        "title": "The 'house' is losing, USD/JPY rises over 155.00",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.9247
-      },
-      {
-        "title": "Japanese Yen: JPY underperforms into BoJ \u2013 Scotiabank",
+        "title": "GBP/JPY Price Forecast: Bears circle 207.00 as RSI rebounds",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8915
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "USD/CHF": [
+      {
+        "title": "USD/CHF Price Forecast: Shooting star warns bulls below 0.8200",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "USD/CAD": [
