@@ -3,13 +3,15 @@
   "pairs": {
     "EUR/USD": [
       {
-        "title": "EUR/USD Signal 14/09: Rising Wedge Points to a Pullback - DailyForex",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.6742
-      },
-      {
         "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Signal: Forecast Ahead of Fed and BoE Interest Rate Decisions - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -17,24 +19,30 @@
     ],
     "USD/JPY": [
       {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7083 \u2013 Reuters estimate - investingLive",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "title": "Cloudflare stock hits all-time high at 332.27 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.5658
       },
       {
-        "title": "Japanese Yen: Policy-regime shift backs JPY against US Dollar \u2013 DBS",
+        "title": "The 'house' is losing, USD/JPY rises over 155.00",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.9247
+      },
+      {
+        "title": "Japanese Yen: JPY underperforms into BoJ \u2013 Scotiabank",
         "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.6075
+        "label": "bearish",
+        "score": -0.8915
       }
     ],
-    "AUD/USD": [
+    "USD/CAD": [
       {
-        "title": "AUD/USD Price Forecast: Aussie bears aim for a key support area around 0.7110",
+        "title": "USD/CAD Price Forecast: Buyers challenge 100-day SMA after double-bottom formation",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.7777
+        "score": 0.7201
       }
     ]
   }

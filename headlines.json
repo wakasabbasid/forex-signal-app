@@ -8,24 +8,28 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD Signal 14/09: Rising Wedge Points to a Pullback - DailyForex",
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.6742,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
+      "score": 0.8977,
+      "currencies": []
     },
     {
-      "title": "COT on forex and commodities - Week to 8 Sept 2026 - Saxo",
+      "title": "India Forex Reserves Jump to Record $785.7 Billion on Flows - bloomberg.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5029,
+      "currencies": []
+    },
+    {
+      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Japan to maintain close communication with US on currency markets, Katayama says - reuters.com",
+      "title": "COT on forex and commodities - Week to 8 Sept 2026 - Saxo",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -39,31 +43,24 @@
       "currencies": []
     },
     {
-      "title": "India Forex Reserves Jump to Record $785.7 Billion on Flows - Bloomberg.com",
+      "title": "India Becomes 4th Largest Forex Holder As Reserves Rise To $785.7 Billion - NDTV",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.5029,
+      "score": 0.891,
       "currencies": []
     },
     {
-      "title": "Exchange rate | Foreign Exchange, Currency Fluctuations, Exchange Rates - Britannica",
+      "title": "Dollar charges to near two-week peak as Fed hike bets hit near-certainty - Investing.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.7911,
       "currencies": []
     },
     {
-      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Asian currencies weaken as dollar rises, yen holds near seven-month high - Investing.com",
+      "title": "NPCIL\u2019s forex loss jumps 40-fold as adverse currency moves raise nuclear project costs - Moneycontrol.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9458,
+      "score": -0.5886,
       "currencies": []
     },
     {
@@ -72,15 +69,6 @@
       "label": "neutral",
       "score": 0.0,
       "currencies": []
-    },
-    {
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.7083 \u2013 Reuters estimate - investingLive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
     },
     {
       "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
@@ -93,59 +81,69 @@
       ]
     },
     {
-      "title": "Alpha Compute Corp president buys $35,455 in shares",
-      "source": "Investing.com",
+      "title": "GBP/USD Signal: Forecast Ahead of Fed and BoE Interest Rate Decisions - DailyForex",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
+      "title": "RF Industries earnings missed by $0.01, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9679,
       "currencies": []
     },
     {
-      "title": "Alpha Compute (ALP) CEO Brittany Kaiser acquires $49,997 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Fitch affirms Halyk Bank at BBB- with stable outlook",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is Definium Therapeutics stock surging today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Cantor Fitzgerald reiterates ASML stock rating on litho intensity outlook",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Director\u2019s wife purchases shares in Kromek Group",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Bowman\u2019s go-shop period ends with no alternative bids",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Caliber refinances $3.4M in debt, secures buyback option",
+      "title": "Trex at Goldman Sachs conference: demand, growth plan lift outlook",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8498,
+      "score": 0.8706,
+      "currencies": []
+    },
+    {
+      "title": "GE Vernova and Corning among market cap stock movers on Monday",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why is Bank of America stock sliding today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9132,
+      "currencies": []
+    },
+    {
+      "title": "Donegal Mutual Insurance buys $1.05m of Donegal Group stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "ADP employment, Empire State index, and oil inventories due Tuesday",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US Senate Republicans release new\u00a0crypto bill text ahead of critical vote",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Xeris at H.C. Wainwright conference: growth engine widens",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.633,
       "currencies": []
     }
   ],
