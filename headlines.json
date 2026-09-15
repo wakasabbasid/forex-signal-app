@@ -1,11 +1,38 @@
 {
   "headlines": [
     {
+      "title": "EBC Financial Group Named Best CFD Provider - Global at Global Forex Awards 2026 - Yahoo Finance",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8632,
+      "currencies": []
+    },
+    {
+      "title": "GBP/USD Forex Signal 15/09: Sell Setups Below 1.3493 - DailyForex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6864,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
       "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
       "source": "Google News",
       "label": "bullish",
       "score": 0.8977,
       "currencies": []
+    },
+    {
+      "title": "EUR/USD forecast: Sentiment deteriorates amid turmoil in bond and oil markets - FOREX.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9675,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
     },
     {
       "title": "Yen appreciation has carry-trade seekers looking at these two currencies - CNBC",
@@ -29,23 +56,6 @@
       "currencies": []
     },
     {
-      "title": "AUD/USD Faces a Fed Test as Bearish Signals Build - DailyForex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.872,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
-    },
-    {
-      "title": "Exchange rate | Foreign Exchange, Currency Fluctuations, Exchange Rates - Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "PBOC is expected to set the USD/CNY reference rate at 6.7051 \u2013 Reuters estimate - investingLive",
       "source": "Google News",
       "label": "neutral",
@@ -55,6 +65,13 @@
       ]
     },
     {
+      "title": "September 15: Cedi sells at GHS12.20 on forex market, GHS11.47 on BoG interbank - Modern Ghana",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "India Becomes 4th Largest Forex Holder As Reserves Rise To $785.7 Billion - NDTV",
       "source": "Google News",
       "label": "bullish",
@@ -62,27 +79,10 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
+      "title": "FOREX Dollar ticks higher as oil prices climb, Fed rate hike chances firm - \u0635\u062d\u064a\u0641\u0629 \u0645\u0627\u0644",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "Asian currencies slip as yen pulls back, Fed and BOJ decisions loom - Investing.com Nigeria",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5486,
-      "currencies": []
-    },
-    {
-      "title": "NPCIL\u2019s forex loss jumps 40-fold as adverse currency moves raise nuclear project costs - Moneycontrol.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5886,
+      "label": "bullish",
+      "score": 0.883,
       "currencies": []
     },
     {
@@ -93,59 +93,59 @@
       "currencies": []
     },
     {
-      "title": "Pollen Street Group declares 28.5 pence interim dividend",
+      "title": "Mattel at Goldman Sachs conference: bets on brands, growth",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Trustpilot revenue jumps 23% on U.S. and Enterprise momentum",
+      "title": "KKR at barclays conference: private credit push gains scale",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9443,
+      "score": 0.927,
       "currencies": []
     },
     {
-      "title": "Japan stocks lower at close of trade; Nikkei 225 down 0.00%",
+      "title": "Bernstein resumes coverage on National Grid on regulated growth outlook",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "European equities slide to multi-month lows as Fed hike odds batters sentiment",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9675,
+      "score": -0.9408,
       "currencies": []
     },
     {
-      "title": "JPMorgan downgrades Rapid7 stock rating on transition concerns",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8322,
-      "currencies": []
-    },
-    {
-      "title": "Enbridge stock resumes at Outperform by National Bank Financial",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.651,
-      "currencies": []
-    },
-    {
-      "title": "Arctic Minerals at Aktiedagen 2026: swedish copper push gains pace",
+      "title": "Bioceres Q4 FY26 slides: profitability improves despite revenue miss",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9397,
+      "score": 0.9544,
       "currencies": []
     },
     {
-      "title": "Zenith Energy to appeal arbitration case to European court",
+      "title": "Wells Fargo at barclays global financial services conference: growth broadens",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9017,
       "currencies": []
     },
     {
-      "title": "Bitcoin steadies at $77.4k with focus on Clarity vote, Fed meeting",
+      "title": "India\u2019s balance of payments surplus jumps to $20.8 billion",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.802,
+      "currencies": []
+    },
+    {
+      "title": "Limit AI now or humanity will lose its agency, says Nobel laureate Ressa",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.61,
       "currencies": []
     }
   ],

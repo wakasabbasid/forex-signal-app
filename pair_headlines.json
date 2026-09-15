@@ -1,12 +1,26 @@
 {
   "run_id": 1,
   "pairs": {
-    "AUD/USD": [
+    "GBP/USD": [
       {
-        "title": "AUD/USD Faces a Fed Test as Bearish Signals Build - DailyForex",
+        "title": "GBP/USD Forex Signal 15/09: Sell Setups Below 1.3493 - DailyForex",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.872
+        "score": -0.6864
+      },
+      {
+        "title": "GBP/JPY Price Forecast: Bearish structure remains intact ahead of BoE and BoJ decisions",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.7051
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/USD forecast: Sentiment deteriorates amid turmoil in bond and oil markets - FOREX.com",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9675
       }
     ],
     "USD/JPY": [
@@ -17,24 +31,22 @@
         "score": 0.0
       },
       {
-        "title": "Silver Price Forecast: XAG/USD remains under pressure near $63 ahead of Fed\u2019s policy decision",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.931
+        "title": "Morning Kickstart: USD higher as markets await tomorrow\u2019s expected Fed rate hike",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.9184
       },
       {
-        "title": "Gold remains vulnerable near one-month low, below $4,300 amid Fed hike bets, bullish USD",
-        "source": "FXStreet",
+        "title": "USD/INR erases all RBI intervention gains as surging oil prices weigh on the Indian Rupee",
+        "source": "ForexLive",
         "label": "bearish",
-        "score": -0.9252
-      }
-    ],
-    "EUR/USD": [
+        "score": -0.9493
+      },
       {
-        "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "title": "GBP/JPY Price Forecast: Bearish structure remains intact ahead of BoE and BoJ decisions",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.7051
       }
     ]
   }
