@@ -1,10 +1,27 @@
 {
   "headlines": [
     {
+      "title": "USD/JPY outlook: Currency Pair of the Week | September 15, 2026 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
       "title": "EBC Financial Group Named Best CFD Provider - Global at Global Forex Awards 2026 - Yahoo Finance",
       "source": "Google News",
       "label": "bullish",
       "score": 0.8632,
+      "currencies": []
+    },
+    {
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8977,
       "currencies": []
     },
     {
@@ -18,17 +35,10 @@
       ]
     },
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8977,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD forecast: Sentiment deteriorates amid turmoil in bond and oil markets - FOREX.com",
+      "title": "EUR/USD forecast: Sentiment deteriorates amid turmoil in bond and oil markets - stonex.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9675,
+      "score": -0.9667,
       "currencies": [
         "EUR",
         "USD"
@@ -42,13 +52,6 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar strengthens on hotter US inflation, rising Fed hike expectations - FXStreet",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.814,
-      "currencies": []
-    },
-    {
       "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
       "source": "Google News",
       "label": "neutral",
@@ -56,96 +59,103 @@
       "currencies": []
     },
     {
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.7051 \u2013 Reuters estimate - investingLive",
+      "title": "Forex Today: US Dollar strengthens on hotter US inflation, rising Fed hike expectations - FXStreet",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.814,
+      "currencies": []
+    },
+    {
+      "title": "Rupee slumps 38 paise to close at 95.92 against U.S. dollar - The Hindu",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8807,
+      "currencies": []
+    },
+    {
+      "title": "NY Forex at 24:00: Dollar-Yen Stuck Around 155 as Market Awaits FOMC - finance.biggo.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9013,
+      "currencies": []
+    },
+    {
+      "title": "Japan to maintain close communication with US on currency markets, Katayama says - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6482,
+      "currencies": []
+    },
+    {
+      "title": "USD/JPY Grinds Higher ahead of FOMC, AUD/JPY Clings to Support - stonex.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8158,
+      "currencies": [
+        "USD",
+        "JPY",
+        "AUD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "Cms Energy Corp stock hits 52-week low at 19.25 USD",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9575,
       "currencies": [
         "USD"
       ]
     },
     {
-      "title": "September 15: Cedi sells at GHS12.20 on forex market, GHS11.47 on BoG interbank - Modern Ghana",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "India Becomes 4th Largest Forex Holder As Reserves Rise To $785.7 Billion - NDTV",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.891,
-      "currencies": []
-    },
-    {
-      "title": "FOREX Dollar ticks higher as oil prices climb, Fed rate hike chances firm - \u0635\u062d\u064a\u0641\u0629 \u0645\u0627\u0644",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.883,
-      "currencies": []
-    },
-    {
-      "title": "Yen appreciation has carry-trade seekers looking at these two currencies - Forex Factory",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Mattel at Goldman Sachs conference: bets on brands, growth",
+      "title": "Agnico Eagle says it is not interested in participating in Barrick\u2019s North American IPO",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "KKR at barclays conference: private credit push gains scale",
+      "title": "US Treasury\u2019s Bessent says bond yields reflect \u2019global issues\u2019",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.927,
+      "score": 0.4093,
       "currencies": []
     },
     {
-      "title": "Bernstein resumes coverage on National Grid on regulated growth outlook",
+      "title": "Redwood Trust CFO Brooke Carillo buys $100,238 in common stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "European equities slide to multi-month lows as Fed hike odds batters sentiment",
+      "title": "Fidelity D&D Bancorp chairman Brian Cali buys 250 shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "EOG Resources stock hits all-time high at 153.71 USD",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6489,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Hundreds march in Toronto against Carney\u2019s investment summit",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9408,
+      "score": -0.9046,
       "currencies": []
     },
     {
-      "title": "Bioceres Q4 FY26 slides: profitability improves despite revenue miss",
+      "title": "Revolut gets banking license in Colombia, plans 2027 launch",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9544,
-      "currencies": []
-    },
-    {
-      "title": "Wells Fargo at barclays global financial services conference: growth broadens",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9017,
-      "currencies": []
-    },
-    {
-      "title": "India\u2019s balance of payments surplus jumps to $20.8 billion",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.802,
-      "currencies": []
-    },
-    {
-      "title": "Limit AI now or humanity will lose its agency, says Nobel laureate Ressa",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.61,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

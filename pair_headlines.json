@@ -1,52 +1,54 @@
 {
   "run_id": 1,
   "pairs": {
+    "USD/JPY": [
+      {
+        "title": "USD/JPY outlook: Currency Pair of the Week | September 15, 2026 - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "USD/JPY Grinds Higher ahead of FOMC, AUD/JPY Clings to Support - stonex.com",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.8158
+      },
+      {
+        "title": "Cms Energy Corp stock hits 52-week low at 19.25 USD",
+        "source": "Investing.com",
+        "label": "bearish",
+        "score": -0.9575
+      },
+      {
+        "title": "EOG Resources stock hits all-time high at 153.71 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.6489
+      }
+    ],
     "GBP/USD": [
       {
         "title": "GBP/USD Forex Signal 15/09: Sell Setups Below 1.3493 - DailyForex",
         "source": "Google News",
         "label": "bearish",
         "score": -0.6864
-      },
-      {
-        "title": "GBP/JPY Price Forecast: Bearish structure remains intact ahead of BoE and BoJ decisions",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.7051
       }
     ],
     "EUR/USD": [
       {
-        "title": "EUR/USD forecast: Sentiment deteriorates amid turmoil in bond and oil markets - FOREX.com",
+        "title": "EUR/USD forecast: Sentiment deteriorates amid turmoil in bond and oil markets - stonex.com",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.9675
+        "score": -0.9667
       }
     ],
-    "USD/JPY": [
+    "AUD/USD": [
       {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7051 \u2013 Reuters estimate - investingLive",
+        "title": "USD/JPY Grinds Higher ahead of FOMC, AUD/JPY Clings to Support - stonex.com",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Morning Kickstart: USD higher as markets await tomorrow\u2019s expected Fed rate hike",
-        "source": "ForexLive",
         "label": "bullish",
-        "score": 0.9184
-      },
-      {
-        "title": "USD/INR erases all RBI intervention gains as surging oil prices weigh on the Indian Rupee",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.9493
-      },
-      {
-        "title": "GBP/JPY Price Forecast: Bearish structure remains intact ahead of BoE and BoJ decisions",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.7051
+        "score": 0.8158
       }
     ]
   }
