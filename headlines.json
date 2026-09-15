@@ -1,143 +1,147 @@
 {
   "headlines": [
     {
-      "title": "Ascendis Pharma authorizes $400 million share buyback program",
+      "title": "Yen appreciation has carry-trade seekers looking at these two currencies - CNBC",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8977,
+      "currencies": []
+    },
+    {
+      "title": "Why USD/MXN Holds Above 17.00 Before the Fed - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "India Forex Reserves Jump to Record $785.7 Billion on Flows - Bloomberg.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5029,
+      "currencies": []
+    },
+    {
+      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Exchange rate | Foreign Exchange, Currency Fluctuations, Exchange Rates - britannica.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: US Dollar firms ahead of UK jobs and a midweek Fed decision - FXStreet",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "India Becomes 4th Largest Forex Holder As Reserves Rise To $785.7 Billion - NDTV",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.891,
+      "currencies": []
+    },
+    {
+      "title": "COT on forex and commodities - Week to 8 Sept 2026 - Saxo",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Yen appreciation has carry-trade seekers looking at these two currencies - Forex Factory",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.7051 \u2013 Reuters estimate - investingLive",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Dollar charges to near two-week peak as Fed hike bets hit near-certainty - Investing.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7911,
+      "currencies": []
+    },
+    {
+      "title": "Devon Energy CEO Clay Gaspar buys $199,876 in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Eagle Point Credit reports estimated net asset value per share for August",
+      "title": "Rhythm Pharmaceuticals president & CEO Meeker sells $5.13m stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Trump nominates Republican lawmaker as ambassador to Saudi Arabia",
+      "title": "Devon Energy EVP Lowe sells $344,218 in company stock on Sept. 14",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Stewards, Inc. board pauses review of equity plan recognition awards",
+      "title": "CPI Card Group director Marc Sheinbaum buys $99,996 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Bitcoin up 2% after Trump agrees to ethics requirements in latest Clarity Act text",
+      "title": "Fed\u2019s table is set for a rate hike, a first under\u00a0Warsh",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8374,
+      "score": 0.6394,
       "currencies": []
     },
     {
-      "title": "Rekor Systems adjourns annual meeting due to lack of quorum, reschedules for October",
+      "title": "Accenture to pay $25 million to settle US government allegations over DEI",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.902,
+      "score": -0.4161,
       "currencies": []
     },
     {
-      "title": "Canada\u2019s inflation picture is getting complicated \u2014 what analysts see ahead",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6763,
-      "currencies": []
-    },
-    {
-      "title": "Top TSX movers today: Talamore Mining, Thomson Reuters and Descartes lead gains",
+      "title": "Jean Smart makes Emmy history with fifth win for \u2019Hacks\u2019",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Loonie holds near 12-day low as oil support fails to offset dollar strength",
+      "title": "Oil prices rise as Houthis attack Saudi Arabia, Hormuz talks delayed",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9299,
-      "currencies": []
-    },
-    {
-      "title": "Canada 10-year yield rises as inflation, oil prices keep bond markets on edge",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5678,
-      "currencies": []
-    },
-    {
-      "title": "Ethereum hits record 203.9 million transactions in Q2 as active users slide",
-      "source": "ForexLive",
-      "label": "bullish",
-      "score": 0.751,
-      "currencies": []
-    },
-    {
-      "title": "Preview: Goldman Sachs sees yen and Nikkei risk building on faster BoJ rate path",
-      "source": "ForexLive",
-      "label": "bullish",
-      "score": 0.9202,
-      "currencies": []
-    },
-    {
-      "title": "investingLive Americas FX news wrap 14 Sept: It\u2019s a Wrap: Oil tops $100 as higher yields and AI worries pressure stocks",
-      "source": "ForexLive",
-      "label": "bullish",
-      "score": 0.8797,
-      "currencies": []
-    },
-    {
-      "title": "Oil catch-up: Iran says tanker hit mine in Hormuz; Centcom says drone struck it instead",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.6606,
-      "currencies": []
-    },
-    {
-      "title": "Economic & event calendar Asia Tuesday, September 15, 2026: China set to report August activity",
-      "source": "ForexLive",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "AI and chip stocks tumble as weekend warnings challenge the sector\u2019s growth assumptions",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.9586,
-      "currencies": []
-    },
-    {
-      "title": "AUDUSD and NZDUSD rebound after sellers fail to sustain key technical breaks",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.9317,
-      "currencies": []
-    },
-    {
-      "title": "Trump: AI will be the greatest economic development engine in history",
-      "source": "ForexLive",
-      "label": "bullish",
-      "score": 0.6575,
-      "currencies": []
-    },
-    {
-      "title": "Risk trades steadily rebound on Trump's talk about AI and energy",
-      "source": "ForexLive",
-      "label": "bullish",
-      "score": 0.5194,
-      "currencies": []
-    },
-    {
-      "title": "USDJPY buyers had their shot today\u2014and ran into the targeted resistance.",
-      "source": "ForexLive",
-      "label": "bullish",
-      "score": 0.8927,
+      "score": -0.5011,
       "currencies": []
     }
   ],

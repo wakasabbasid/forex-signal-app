@@ -1,36 +1,50 @@
 {
   "run_id": 1,
   "pairs": {
+    "USD/JPY": [
+      {
+        "title": "Why USD/MXN Holds Above 17.00 Before the Fed - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7051 \u2013 Reuters estimate - investingLive",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7051 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC sets USD/CNY reference rate at 6.7670 vs. 6.7698 previous",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Canadian Dollar consolidates near 1.3900 as oil gains offset bullish USD ahead of Fed",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8256
+      },
+      {
+        "title": "GBP/JPY Price Forecast: Bears circle 207.00 as RSI rebounds",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
     "GBP/USD": [
       {
         "title": "GBP/JPY Price Forecast: Bears circle 207.00 as RSI rebounds",
         "source": "FXStreet",
         "label": "neutral",
         "score": 0.0
-      }
-    ],
-    "USD/JPY": [
-      {
-        "title": "GBP/JPY Price Forecast: Bears circle 207.00 as RSI rebounds",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "USD/CHF": [
-      {
-        "title": "USD/CHF Price Forecast: Shooting star warns bulls below 0.8200",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "USD/CAD": [
-      {
-        "title": "USD/CAD Price Forecast: Buyers challenge 100-day SMA after double-bottom formation",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.7201
       }
     ]
   }
