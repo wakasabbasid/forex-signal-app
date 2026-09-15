@@ -1,13 +1,15 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/JPY": [
+    "AUD/USD": [
       {
-        "title": "Why USD/MXN Holds Above 17.00 Before the Fed - DailyForex",
+        "title": "AUD/USD Faces a Fed Test as Bearish Signals Build - DailyForex",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
+        "label": "bearish",
+        "score": -0.872
+      }
+    ],
+    "USD/JPY": [
       {
         "title": "PBOC is expected to set the USD/CNY reference rate at 6.7051 \u2013 Reuters estimate - investingLive",
         "source": "Google News",
@@ -15,34 +17,22 @@
         "score": 0.0
       },
       {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7051 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
+        "title": "Silver Price Forecast: XAG/USD remains under pressure near $63 ahead of Fed\u2019s policy decision",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.931
       },
       {
-        "title": "PBOC sets USD/CNY reference rate at 6.7670 vs. 6.7698 previous",
+        "title": "Gold remains vulnerable near one-month low, below $4,300 amid Fed hike bets, bullish USD",
         "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Canadian Dollar consolidates near 1.3900 as oil gains offset bullish USD ahead of Fed",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8256
-      },
-      {
-        "title": "GBP/JPY Price Forecast: Bears circle 207.00 as RSI rebounds",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bearish",
+        "score": -0.9252
       }
     ],
-    "GBP/USD": [
+    "EUR/USD": [
       {
-        "title": "GBP/JPY Price Forecast: Bears circle 207.00 as RSI rebounds",
-        "source": "FXStreet",
+        "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
+        "source": "Google News",
         "label": "neutral",
         "score": 0.0
       }

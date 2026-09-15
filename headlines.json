@@ -1,13 +1,6 @@
 {
   "headlines": [
     {
-      "title": "Yen appreciation has carry-trade seekers looking at these two currencies - CNBC",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -15,19 +8,17 @@
       "currencies": []
     },
     {
-      "title": "Why USD/MXN Holds Above 17.00 Before the Fed - DailyForex",
+      "title": "Yen appreciation has carry-trade seekers looking at these two currencies - CNBC",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
+      "currencies": []
     },
     {
-      "title": "India Forex Reserves Jump to Record $785.7 Billion on Flows - Bloomberg.com",
+      "title": "Forex Today: US Dollar strengthens on hotter US inflation, rising Fed hike expectations - FXStreet",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.5029,
+      "score": 0.814,
       "currencies": []
     },
     {
@@ -38,35 +29,17 @@
       "currencies": []
     },
     {
-      "title": "Exchange rate | Foreign Exchange, Currency Fluctuations, Exchange Rates - britannica.com",
+      "title": "AUD/USD Faces a Fed Test as Bearish Signals Build - DailyForex",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
+      "label": "bearish",
+      "score": -0.872,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
     },
     {
-      "title": "Forex Today: US Dollar firms ahead of UK jobs and a midweek Fed decision - FXStreet",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "India Becomes 4th Largest Forex Holder As Reserves Rise To $785.7 Billion - NDTV",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.891,
-      "currencies": []
-    },
-    {
-      "title": "COT on forex and commodities - Week to 8 Sept 2026 - Saxo",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Yen appreciation has carry-trade seekers looking at these two currencies - Forex Factory",
+      "title": "Exchange rate | Foreign Exchange, Currency Fluctuations, Exchange Rates - Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -82,66 +55,97 @@
       ]
     },
     {
-      "title": "Dollar charges to near two-week peak as Fed hike bets hit near-certainty - Investing.com",
+      "title": "India Becomes 4th Largest Forex Holder As Reserves Rise To $785.7 Billion - NDTV",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.7911,
+      "score": 0.891,
       "currencies": []
     },
     {
-      "title": "Devon Energy CEO Clay Gaspar buys $199,876 in company stock",
+      "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "Asian currencies slip as yen pulls back, Fed and BOJ decisions loom - Investing.com Nigeria",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5486,
+      "currencies": []
+    },
+    {
+      "title": "NPCIL\u2019s forex loss jumps 40-fold as adverse currency moves raise nuclear project costs - Moneycontrol.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5886,
+      "currencies": []
+    },
+    {
+      "title": "Yen appreciation has carry-trade seekers looking at these two currencies - Forex Factory",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Pollen Street Group declares 28.5 pence interim dividend",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Rhythm Pharmaceuticals president & CEO Meeker sells $5.13m stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Devon Energy EVP Lowe sells $344,218 in company stock on Sept. 14",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "CPI Card Group director Marc Sheinbaum buys $99,996 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Fed\u2019s table is set for a rate hike, a first under\u00a0Warsh",
+      "title": "Trustpilot revenue jumps 23% on U.S. and Enterprise momentum",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6394,
+      "score": 0.9443,
       "currencies": []
     },
     {
-      "title": "Accenture to pay $25 million to settle US government allegations over DEI",
+      "title": "Japan stocks lower at close of trade; Nikkei 225 down 0.00%",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.4161,
+      "score": -0.9675,
       "currencies": []
     },
     {
-      "title": "Jean Smart makes Emmy history with fifth win for \u2019Hacks\u2019",
+      "title": "JPMorgan downgrades Rapid7 stock rating on transition concerns",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8322,
+      "currencies": []
+    },
+    {
+      "title": "Enbridge stock resumes at Outperform by National Bank Financial",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.651,
+      "currencies": []
+    },
+    {
+      "title": "Arctic Minerals at Aktiedagen 2026: swedish copper push gains pace",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9397,
+      "currencies": []
+    },
+    {
+      "title": "Zenith Energy to appeal arbitration case to European court",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Oil prices rise as Houthis attack Saudi Arabia, Hormuz talks delayed",
+      "title": "Bitcoin steadies at $77.4k with focus on Clarity vote, Fed meeting",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5011,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
