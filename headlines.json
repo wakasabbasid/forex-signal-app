@@ -11,17 +11,17 @@
       ]
     },
     {
-      "title": "EBC Financial Group Named Best CFD Provider - Global at Global Forex Awards 2026 - Yahoo Finance",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8632,
-      "currencies": []
-    },
-    {
       "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
       "source": "Google News",
       "label": "bullish",
       "score": 0.8977,
+      "currencies": []
+    },
+    {
+      "title": "EBC Financial Group Named Best CFD Provider - Global at Global Forex Awards 2026 - Yahoo Finance",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8632,
       "currencies": []
     },
     {
@@ -52,6 +52,13 @@
       "currencies": []
     },
     {
+      "title": "Forex Today: US Dollar firms as markets brace for Fed rate decision - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5725,
+      "currencies": []
+    },
+    {
       "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
       "source": "Google News",
       "label": "neutral",
@@ -59,24 +66,10 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar strengthens on hotter US inflation, rising Fed hike expectations - FXStreet",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.814,
-      "currencies": []
-    },
-    {
-      "title": "Rupee slumps 38 paise to close at 95.92 against U.S. dollar - The Hindu",
+      "title": "Rupee slumps 38 paise to close at 95.92 against U.S. dollar - thehindu.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.8807,
-      "currencies": []
-    },
-    {
-      "title": "NY Forex at 24:00: Dollar-Yen Stuck Around 155 as Market Awaits FOMC - finance.biggo.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9013,
+      "score": -0.6966,
       "currencies": []
     },
     {
@@ -99,63 +92,66 @@
       ]
     },
     {
-      "title": "Cms Energy Corp stock hits 52-week low at 19.25 USD",
+      "title": "Fed tightening cycles and the US dollar: what history shows - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Avidia Bancorp stockholders elect directors and approve incentive plan at annual meeting",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "American National Group declares dividend on Series D preferred shares",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9575,
-      "currencies": [
-        "USD"
-      ]
+      "score": -0.4931,
+      "currencies": []
     },
     {
-      "title": "Agnico Eagle says it is not interested in participating in Barrick\u2019s North American IPO",
+      "title": "Entergy officer Viamontes sells $942,437 in common stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US Treasury\u2019s Bessent says bond yields reflect \u2019global issues\u2019",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.4093,
-      "currencies": []
-    },
-    {
-      "title": "Redwood Trust CFO Brooke Carillo buys $100,238 in common stock",
+      "title": "Oxford Industries EVP Scott Grassmyer acquires $29,730 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Fidelity D&D Bancorp chairman Brian Cali buys 250 shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "EOG Resources stock hits all-time high at 153.71 USD",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6489,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Hundreds march in Toronto against Carney\u2019s investment summit",
+      "title": "Indivior Pharmaceuticals to end supply agreement with Reckitt Benckiser in January",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9046,
+      "score": -0.7998,
       "currencies": []
     },
     {
-      "title": "Revolut gets banking license in Colombia, plans 2027 launch",
+      "title": "Asana at piper sandler growth frontiers: ai push broadens growth",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5685,
+      "currencies": []
+    },
+    {
+      "title": "FG Nexus repurchases 46% of outstanding common shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "JPMorgan expects investment banking, trading to shine in third quarter",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9427,
       "currencies": []
     }
   ],

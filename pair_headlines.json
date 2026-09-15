@@ -15,16 +15,16 @@
         "score": 0.8158
       },
       {
-        "title": "Cms Energy Corp stock hits 52-week low at 19.25 USD",
-        "source": "Investing.com",
-        "label": "bearish",
-        "score": -0.9575
+        "title": "Clarity failure: What the BTC/USD chart is showing, and what to watch next",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
       },
       {
-        "title": "EOG Resources stock hits all-time high at 153.71 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.6489
+        "title": "Mexican Peso retreats as USD/MXN bounces from near YTD low",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9547
       }
     ],
     "GBP/USD": [
@@ -41,6 +41,12 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.9667
+      },
+      {
+        "title": "EUR/USD Price Forecast: Bears crack 100-day SMA, eye 1.1500",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.5232
       }
     ],
     "AUD/USD": [
@@ -49,6 +55,14 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.8158
+      }
+    ],
+    "NZD/USD": [
+      {
+        "title": "NZD/USD Price Forecast: Bears break 0.5800 as Kiwi slide deepens",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9057
       }
     ]
   }
