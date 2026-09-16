@@ -11,6 +11,13 @@
       ]
     },
     {
+      "title": "CentFX Recognized as Best Execution Platform at Money Expo India 2026 - finance.yahoo.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8456,
+      "currencies": []
+    },
+    {
       "title": "Why de-dollarization discussions are more talk, less action - CNBC",
       "source": "Google News",
       "label": "neutral",
@@ -18,10 +25,34 @@
       "currencies": []
     },
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - reuters.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8977,
+      "score": 0.8017,
+      "currencies": []
+    },
+    {
+      "title": "GBP/USD Forex Signal 16/09: Key 1.3465 and 1.3500 Level - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
+      "title": "Malawi\u2019s Forex Crisis is Feeding Into the Fertiliser Market - AfricaBrief",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: US Dollar holds steady ahead of Fed rate decision - FXStreet",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8249,
       "currencies": []
     },
     {
@@ -32,57 +63,7 @@
       "currencies": []
     },
     {
-      "title": "EBC Financial Group Named Best CFD Provider - Global at Global Forex Awards 2026 - Yahoo Finance",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8632,
-      "currencies": []
-    },
-    {
       "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "GBP/USD Forex Signal 15/09: Sell Setups Below 1.3493 - DailyForex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6864,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "EUR/USD forecast: Sentiment deteriorates amid turmoil in bond and oil markets - stonex.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9667,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.7148 \u2013 Reuters estimate - investingLive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Forex Today: US Dollar firms as markets brace for Fed rate decision - FXStreet",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5725,
-      "currencies": []
-    },
-    {
-      "title": "exchange rate - Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -96,59 +77,73 @@
       "currencies": []
     },
     {
-      "title": "France would back Dutch veteran Knot to lead ECB, wants chief economist job, sources say",
+      "title": "September 16: Cedi sells at GHS12.20 on forex market, GHS11.49 on BoG interbank - Modern Ghana",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japan to maintain close communication with US on currency markets, Katayama says - reuters.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "The Italian Sea Group stock surges on 11 non-binding takeover offers",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8171,
+      "currencies": []
+    },
+    {
+      "title": "Why is LuxExperience stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is Contemporary Amperex Technology stock sliding today?",
+      "title": "Beneficient reports insider share purchases by executives and directors",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9299,
+      "score": -0.6077,
       "currencies": []
     },
     {
-      "title": "U.S. 10-yr Treasury yields cool below 5% as Fed rate decision approaches",
+      "title": "LuxExperience shares leap 16% on revenue beat despite earnings miss",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8362,
+      "label": "bullish",
+      "score": 0.878,
       "currencies": []
     },
     {
-      "title": "Exclusive-A decade after mercury ban, toxic skin bleachers still offered on top retailers\u2019 websites",
+      "title": "Kepler downgrades ABF as delayed split removes potential catalyst",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9185,
+      "currencies": []
+    },
+    {
+      "title": "European stocks rise from 3-month lows as traders await high-stakes Fed decision",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7636,
+      "currencies": []
+    },
+    {
+      "title": "Why is Beta Bionics stock sliding today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8693,
+      "currencies": []
+    },
+    {
+      "title": "Circle launches Arc blockchain with institutional validators",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Oil slips on US stock build, Middle East disruptions limit losses",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9091,
-      "currencies": []
-    },
-    {
-      "title": "Nikkei 225 trapped in bear flag below \u00a564,600: Live levels",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8563,
-      "currencies": []
-    },
-    {
-      "title": "SK Hynix coils between 20/50 SMA at \u20a91,740,000: Live levels",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Asian currencies mixed as dollar holds gains, yen slips to one-week low",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9605,
       "currencies": []
     }
   ],

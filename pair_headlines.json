@@ -9,58 +9,24 @@
         "score": 0.0
       },
       {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7148 \u2013 Reuters estimate - investingLive",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "PBOC sets USD/ CNY central rate at 6.7628 (vs. estimate at 6.7148)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Gold sticks to modest gains below $4,350 as USD bulls await Fed rate decision",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.7127
-      },
-      {
-        "title": "Japanese Yen remains depressed near one-week low vs USD as traders await Fed, BoJ",
+        "title": "Gold Price Forecast: XAU/USD consolidates below $4,350 ahead of Fed decision",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9334
-      },
-      {
-        "title": "AUD/JPY Price Forecast: Holds gains above 110.50, but maintains bearish bias below 100-day SMA",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8847
+        "score": -0.9576
       }
     ],
     "GBP/USD": [
       {
-        "title": "GBP/USD Forex Signal 15/09: Sell Setups Below 1.3493 - DailyForex",
+        "title": "GBP/USD Forex Signal 16/09: Key 1.3465 and 1.3500 Level - DailyForex",
         "source": "Google News",
-        "label": "bearish",
-        "score": -0.6864
-      }
-    ],
-    "EUR/USD": [
+        "label": "neutral",
+        "score": 0.0
+      },
       {
-        "title": "EUR/USD forecast: Sentiment deteriorates amid turmoil in bond and oil markets - stonex.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9667
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "AUD/JPY Price Forecast: Holds gains above 110.50, but maintains bearish bias below 100-day SMA",
+        "title": "GBP/USD Price Forecast: Fails near 1.3500 as bears eye 200-SMA ahead of Fed decision",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.8847
+        "score": 0.4633
       }
     ]
   }
