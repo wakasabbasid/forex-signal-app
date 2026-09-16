@@ -21,6 +21,12 @@
         "score": 0.0
       },
       {
+        "title": "GBP/JPY Price Forecast: Rebounds above 207.00 as oversold risk eases",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.7583
+      },
+      {
         "title": "Mexican Peso retreats as USD/MXN bounces from near YTD low",
         "source": "FXStreet",
         "label": "bearish",
@@ -33,6 +39,12 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.6864
+      },
+      {
+        "title": "GBP/JPY Price Forecast: Rebounds above 207.00 as oversold risk eases",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.7583
       }
     ],
     "EUR/USD": [
@@ -55,14 +67,12 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.8158
-      }
-    ],
-    "NZD/USD": [
+      },
       {
-        "title": "NZD/USD Price Forecast: Bears break 0.5800 as Kiwi slide deepens",
-        "source": "FXStreet",
+        "title": "Australian Dollar Outlook: AUD/USD Rally Stalls as Fed Risk Returns - FOREX.com",
+        "source": "Google News",
         "label": "bearish",
-        "score": -0.9057
+        "score": -0.9311
       }
     ]
   }

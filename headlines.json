@@ -11,6 +11,13 @@
       ]
     },
     {
+      "title": "Why de-dollarization discussions are more talk, less action - CNBC",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -45,7 +52,7 @@
       ]
     },
     {
-      "title": "Yen appreciation has carry-trade seekers looking at these two currencies - CNBC",
+      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -59,24 +66,17 @@
       "currencies": []
     },
     {
-      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Rupee slumps 38 paise to close at 95.92 against U.S. dollar - thehindu.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6966,
-      "currencies": []
-    },
-    {
       "title": "Japan to maintain close communication with US on currency markets, Katayama says - Reuters",
       "source": "Google News",
       "label": "bullish",
       "score": 0.6482,
+      "currencies": []
+    },
+    {
+      "title": "Yen appreciation has carry-trade seekers looking at these two currencies - CNBC",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -92,66 +92,69 @@
       ]
     },
     {
-      "title": "Fed tightening cycles and the US dollar: what history shows - FOREX.com",
+      "title": "Australian Dollar Outlook: AUD/USD Rally Stalls as Fed Risk Returns - FOREX.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Avidia Bancorp stockholders elect directors and approve incentive plan at annual meeting",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "American National Group declares dividend on Series D preferred shares",
-      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.4931,
-      "currencies": []
+      "score": -0.9311,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
     },
     {
-      "title": "Entergy officer Viamontes sells $942,437 in common stock",
+      "title": "Century Therapeutics CTO Gregory Russotti sells $4,992 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Oxford Industries EVP Scott Grassmyer acquires $29,730 in shares",
+      "title": "Century Therapeutics SVP Douglas Carr sells $3,199 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Indivior Pharmaceuticals to end supply agreement with Reckitt Benckiser in January",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7998,
-      "currencies": []
-    },
-    {
-      "title": "Asana at piper sandler growth frontiers: ai push broadens growth",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5685,
-      "currencies": []
-    },
-    {
-      "title": "FG Nexus repurchases 46% of outstanding common shares",
+      "title": "Pagaya director Tami Rosen sells $143,915 of PGY shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "JPMorgan expects investment banking, trading to shine in third quarter",
+      "title": "AI is not a \u2019monopoly of great powers\u2019, China\u2019s top newspaper says",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9427,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Hewlett Packard Enterprise CEO Antonio F. Neri sells $15.1m shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Radian Group Sr EVP Meghan Bartholomew sells $280,763 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Uber president Jill Hazelbaker sells $2.01m in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Pagaya Technologies president Sanjiv Das sells $268,813 in stock.",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
