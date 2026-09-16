@@ -1,14 +1,7 @@
 {
   "headlines": [
     {
-      "title": "Olympus Capital Set to Shine at Forex Expo Dubai 2026: The Big Stage Awaits - finance.yahoo.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "The Best Way to Learn Forex Trading in 2026 - litefinance.org",
+      "title": "Olympus Capital Set to Shine at Forex Expo Dubai 2026: The Big Stage Awaits - Yahoo Finance",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -49,14 +42,14 @@
       ]
     },
     {
-      "title": "Malawi\u2019s Forex Crisis is Feeding Into the Fertiliser Market - AfricaBrief",
+      "title": "Yen appreciation has carry-trade seekers looking at these two currencies - CNBC",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why de-dollarization discussions are more talk, less action - CNBC",
+      "title": "Malawi\u2019s Forex Crisis is Feeding Into the Fertiliser Market - AfricaBrief",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -70,13 +63,6 @@
       "currencies": []
     },
     {
-      "title": "Is Papua New Guinea\u2019s forex market edging closer to balance? - Business Advantage PNG",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Forex Today: US Dollar holds steady ahead of Fed rate decision - FXStreet",
       "source": "Google News",
       "label": "bullish",
@@ -84,66 +70,86 @@
       "currencies": []
     },
     {
-      "title": "CentFX Recognized as Best Execution Platform at Money Expo India 2026 - finance.yahoo.com",
+      "title": "Is Papua New Guinea\u2019s forex market edging closer to balance? - Business Advantage PNG",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "CentFX Recognized as Best Execution Platform at Money Expo India 2026 - Yahoo Finance",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8456,
+      "score": 0.9282,
       "currencies": []
     },
     {
-      "title": "Marsh names Matt Stadler as CEO of Marsh Agency unit",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Metlen Energy & Metals grants share awards to executives",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Saputo at Scotiabank back to school conference: bets on protein",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Robust US retail sales underscore economy\u2019s resilience; inflation pressures building",
-      "source": "Investing.com",
+      "title": "Japan to maintain close communication with US on currency markets, Katayama says - Reuters",
+      "source": "Google News",
       "label": "bullish",
-      "score": 0.8859,
+      "score": 0.6482,
       "currencies": []
     },
     {
-      "title": "Thrivent Financial buys $6m in Ares Dynamic Credit preferred shares",
+      "title": "Palisade Bio at H.C. Wainwright conference: IBD drug push",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Exclusive-OpenAI\u2019s rogue agents\u00a0probed Hugging Face for weaknesses two months before major hack",
+      "title": "KeyCorp raises prime rate after Fed decision",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "SGF Capital sells $1.9 billion stake in Diamondback Energy",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Knife River Corp stock hits 52-week low at 55.27 USD",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5597,
+      "score": -0.9488,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Coupang stock hits 52-week low at 14.44 USD",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9384,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "MasterBrand stock hits 52-week low at 6.6 USD",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9515,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Six Flags Entertainment stock hits 52-week low at $12.51",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9496,
       "currencies": []
     },
     {
-      "title": "Sweden stocks higher at close of trade; OMX Stockholm 30 up 0.98%",
+      "title": "Goldman Sachs stock falls after CEO warns of softer trading",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9408,
-      "currencies": []
-    },
-    {
-      "title": "Finland stocks higher at close of trade; OMX Helsinki 25 up 0.77%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9418,
+      "label": "bearish",
+      "score": -0.877,
       "currencies": []
     }
   ],
