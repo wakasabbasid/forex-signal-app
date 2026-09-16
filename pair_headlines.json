@@ -3,30 +3,18 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "USD/JPY outlook: Currency Pair of the Week | September 15, 2026 - FOREX.com",
+        "title": "USD/JPY outlook: Currency Pair of the Week | September 15, 2026 - forex.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "Gold Price Forecast: XAU/USD consolidates below $4,350 ahead of Fed decision",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9576
       }
     ],
     "GBP/USD": [
       {
-        "title": "GBP/USD Forex Signal 16/09: Key 1.3465 and 1.3500 Level - DailyForex",
+        "title": "GBP/USD Forex Signal 16/09: Key 1.3465 and 1.3500 Level - dailyforex.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "GBP/USD Price Forecast: Fails near 1.3500 as bears eye 200-SMA ahead of Fed decision",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.4633
       }
     ]
   }

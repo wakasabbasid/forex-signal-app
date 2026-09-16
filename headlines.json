@@ -1,7 +1,21 @@
 {
   "headlines": [
     {
-      "title": "USD/JPY outlook: Currency Pair of the Week | September 15, 2026 - FOREX.com",
+      "title": "Olympus Capital Set to Shine at Forex Expo Dubai 2026: The Big Stage Awaits - finance.yahoo.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "The Best Way to Learn Forex Trading in 2026 - litefinance.org",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "USD/JPY outlook: Currency Pair of the Week | September 15, 2026 - forex.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -11,28 +25,21 @@
       ]
     },
     {
-      "title": "CentFX Recognized as Best Execution Platform at Money Expo India 2026 - finance.yahoo.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8456,
-      "currencies": []
-    },
-    {
-      "title": "Why de-dollarization discussions are more talk, less action - CNBC",
+      "title": "Carry traders eye franc and krona as yen\u2019s funding appeal ebbs - The Japan Times",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - reuters.com",
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8017,
+      "score": 0.8977,
       "currencies": []
     },
     {
-      "title": "GBP/USD Forex Signal 16/09: Key 1.3465 and 1.3500 Level - DailyForex",
+      "title": "GBP/USD Forex Signal 16/09: Key 1.3465 and 1.3500 Level - dailyforex.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -49,14 +56,7 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar holds steady ahead of Fed rate decision - FXStreet",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8249,
-      "currencies": []
-    },
-    {
-      "title": "Is Papua New Guinea\u2019s forex market edging closer to balance? - Business Advantage PNG",
+      "title": "Why de-dollarization discussions are more talk, less action - CNBC",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -70,80 +70,80 @@
       "currencies": []
     },
     {
-      "title": "Asian currencies mixed as dollar holds gains, yen slips to one-week low - Investing.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9375,
-      "currencies": []
-    },
-    {
-      "title": "September 16: Cedi sells at GHS12.20 on forex market, GHS11.49 on BoG interbank - Modern Ghana",
+      "title": "Is Papua New Guinea\u2019s forex market edging closer to balance? - Business Advantage PNG",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Japan to maintain close communication with US on currency markets, Katayama says - reuters.com",
+      "title": "Forex Today: US Dollar holds steady ahead of Fed rate decision - FXStreet",
       "source": "Google News",
+      "label": "bullish",
+      "score": 0.8249,
+      "currencies": []
+    },
+    {
+      "title": "CentFX Recognized as Best Execution Platform at Money Expo India 2026 - finance.yahoo.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8456,
+      "currencies": []
+    },
+    {
+      "title": "Marsh names Matt Stadler as CEO of Marsh Agency unit",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "The Italian Sea Group stock surges on 11 non-binding takeover offers",
+      "title": "Metlen Energy & Metals grants share awards to executives",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Saputo at Scotiabank back to school conference: bets on protein",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Robust US retail sales underscore economy\u2019s resilience; inflation pressures building",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8171,
+      "score": 0.8859,
       "currencies": []
     },
     {
-      "title": "Why is LuxExperience stock surging today?",
+      "title": "Thrivent Financial buys $6m in Ares Dynamic Credit preferred shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Beneficient reports insider share purchases by executives and directors",
+      "title": "Exclusive-OpenAI\u2019s rogue agents\u00a0probed Hugging Face for weaknesses two months before major hack",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6077,
+      "score": -0.5597,
       "currencies": []
     },
     {
-      "title": "LuxExperience shares leap 16% on revenue beat despite earnings miss",
+      "title": "Sweden stocks higher at close of trade; OMX Stockholm 30 up 0.98%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.878,
+      "score": 0.9408,
       "currencies": []
     },
     {
-      "title": "Kepler downgrades ABF as delayed split removes potential catalyst",
+      "title": "Finland stocks higher at close of trade; OMX Helsinki 25 up 0.77%",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9185,
-      "currencies": []
-    },
-    {
-      "title": "European stocks rise from 3-month lows as traders await high-stakes Fed decision",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7636,
-      "currencies": []
-    },
-    {
-      "title": "Why is Beta Bionics stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8693,
-      "currencies": []
-    },
-    {
-      "title": "Circle launches Arc blockchain with institutional validators",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9418,
       "currencies": []
     }
   ],
