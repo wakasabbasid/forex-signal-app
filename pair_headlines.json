@@ -3,40 +3,32 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "USD/JPY outlook: Currency Pair of the Week | September 15, 2026 - forex.com",
+        "title": "USD/JPY outlook: Currency Pair of the Week | September 15, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "Knife River Corp stock hits 52-week low at 55.27 USD",
-        "source": "Investing.com",
-        "label": "bearish",
-        "score": -0.9488
-      },
-      {
-        "title": "Coupang stock hits 52-week low at 14.44 USD",
-        "source": "Investing.com",
-        "label": "bearish",
-        "score": -0.9384
-      },
-      {
-        "title": "MasterBrand stock hits 52-week low at 6.6 USD",
-        "source": "Investing.com",
-        "label": "bearish",
-        "score": -0.9515
-      },
-      {
-        "title": "Grab stock hits 52-week low at 2.88 USD",
-        "source": "Investing.com",
-        "label": "bearish",
-        "score": -0.949
       }
     ],
     "GBP/USD": [
       {
-        "title": "GBP/USD Forex Signal 16/09: Key 1.3465 and 1.3500 Level - dailyforex.com",
+        "title": "GBP/USD Forex Signal 16/09: Key 1.3465 and 1.3500 Level - DailyForex",
         "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "USD/CAD": [
+      {
+        "title": "Why USD/CAD\u2019s 1.3750 Support Has Traders Divided - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "NZD/USD": [
+      {
+        "title": "NZD/USD braces for NZ GDP data: Three scenarios for the Kiwi",
+        "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
       }

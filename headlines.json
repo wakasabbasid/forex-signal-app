@@ -1,14 +1,7 @@
 {
   "headlines": [
     {
-      "title": "Olympus Capital Set to Shine at Forex Expo Dubai 2026: The Big Stage Awaits - Yahoo Finance",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "USD/JPY outlook: Currency Pair of the Week | September 15, 2026 - forex.com",
+      "title": "USD/JPY outlook: Currency Pair of the Week | September 15, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -18,7 +11,7 @@
       ]
     },
     {
-      "title": "Carry traders eye franc and krona as yen\u2019s funding appeal ebbs - The Japan Times",
+      "title": "Olympus Capital Set to Shine at Forex Expo Dubai 2026: The Big Stage Awaits - Yahoo Finance",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -32,7 +25,14 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Forex Signal 16/09: Key 1.3465 and 1.3500 Level - dailyforex.com",
+      "title": "Carry traders eye franc and krona as yen\u2019s funding appeal ebbs - The Japan Times",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "GBP/USD Forex Signal 16/09: Key 1.3465 and 1.3500 Level - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "title": "Yen appreciation has carry-trade seekers looking at these two currencies - CNBC",
+      "title": "Yen appreciation has carry-trade seekers looking at these two currencies - cnbc.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -70,13 +70,6 @@
       "currencies": []
     },
     {
-      "title": "Is Papua New Guinea\u2019s forex market edging closer to balance? - Business Advantage PNG",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "CentFX Recognized as Best Execution Platform at Money Expo India 2026 - Yahoo Finance",
       "source": "Google News",
       "label": "bullish",
@@ -91,65 +84,69 @@
       "currencies": []
     },
     {
-      "title": "Palisade Bio at H.C. Wainwright conference: IBD drug push",
+      "title": "Why USD/CAD\u2019s 1.3750 Support Has Traders Divided - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "CAD"
+      ]
+    },
+    {
+      "title": "Sunbelt Rentals at Morgan Stanley conference: record quarter lifts outlook",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8904,
+      "currencies": []
+    },
+    {
+      "title": "Ibex director Daniella Ballou-Aares sells $60,436 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "KeyCorp raises prime rate after Fed decision",
+      "title": "Xometry CEO Sanjeev Sahni disposes of $127,838 in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "SGF Capital sells $1.9 billion stake in Diamondback Energy",
+      "title": "Hyatt Hotels executive Lalvani sells $222,413 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Knife River Corp stock hits 52-week low at 55.27 USD",
+      "title": "Belden EVP Brian Lieser sells $217,341 in BDC stock",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9488,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Coupang stock hits 52-week low at 14.44 USD",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9384,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "MasterBrand stock hits 52-week low at 6.6 USD",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9515,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Six Flags Entertainment stock hits 52-week low at $12.51",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9496,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Goldman Sachs stock falls after CEO warns of softer trading",
+      "title": "Ibex chief sales/marketing officer Casteel sells $706k in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Exclusive-OpenAI\u2019s rogue agents\u00a0probed Hugging Face for weaknesses two months before major hack",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.877,
+      "score": -0.5597,
+      "currencies": []
+    },
+    {
+      "title": "Natera at 2026 Global Healthcare Conference: growth broadens",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8575,
       "currencies": []
     }
   ],
