@@ -25,10 +25,24 @@
       "currencies": []
     },
     {
+      "title": "Is Papua New Guinea\u2019s forex market edging closer to balance? - Business Advantage PNG",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "EBC Financial Group Named Best CFD Provider - Global at Global Forex Awards 2026 - Yahoo Finance",
       "source": "Google News",
       "label": "bullish",
       "score": 0.8632,
+      "currencies": []
+    },
+    {
+      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -52,11 +66,13 @@
       ]
     },
     {
-      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.7148 \u2013 Reuters estimate - investingLive",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "Forex Today: US Dollar firms as markets brace for Fed rate decision - FXStreet",
@@ -66,95 +82,73 @@
       "currencies": []
     },
     {
-      "title": "Japan to maintain close communication with US on currency markets, Katayama says - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6482,
-      "currencies": []
-    },
-    {
-      "title": "Yen appreciation has carry-trade seekers looking at these two currencies - CNBC",
+      "title": "exchange rate - Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "USD/JPY Grinds Higher ahead of FOMC, AUD/JPY Clings to Support - stonex.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8158,
-      "currencies": [
-        "USD",
-        "JPY",
-        "AUD",
-        "JPY"
-      ]
-    },
-    {
-      "title": "Australian Dollar Outlook: AUD/USD Rally Stalls as Fed Risk Returns - FOREX.com",
+      "title": "Asian currencies mixed as dollar holds gains, yen slips to one-week low - Investing.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9311,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
+      "score": -0.9375,
+      "currencies": []
     },
     {
-      "title": "Century Therapeutics CTO Gregory Russotti sells $4,992 in stock",
+      "title": "France would back Dutch veteran Knot to lead ECB, wants chief economist job, sources say",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Century Therapeutics SVP Douglas Carr sells $3,199 in shares",
+      "title": "Why is Contemporary Amperex Technology stock sliding today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9299,
+      "currencies": []
+    },
+    {
+      "title": "U.S. 10-yr Treasury yields cool below 5% as Fed rate decision approaches",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8362,
+      "currencies": []
+    },
+    {
+      "title": "Exclusive-A decade after mercury ban, toxic skin bleachers still offered on top retailers\u2019 websites",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Pagaya director Tami Rosen sells $143,915 of PGY shares",
+      "title": "Oil slips on US stock build, Middle East disruptions limit losses",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9091,
+      "currencies": []
+    },
+    {
+      "title": "Nikkei 225 trapped in bear flag below \u00a564,600: Live levels",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8563,
+      "currencies": []
+    },
+    {
+      "title": "SK Hynix coils between 20/50 SMA at \u20a91,740,000: Live levels",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "AI is not a \u2019monopoly of great powers\u2019, China\u2019s top newspaper says",
+      "title": "Asian currencies mixed as dollar holds gains, yen slips to one-week low",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Hewlett Packard Enterprise CEO Antonio F. Neri sells $15.1m shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Radian Group Sr EVP Meghan Bartholomew sells $280,763 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Uber president Jill Hazelbaker sells $2.01m in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Pagaya Technologies president Sanjiv Das sells $268,813 in stock.",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9605,
       "currencies": []
     }
   ],

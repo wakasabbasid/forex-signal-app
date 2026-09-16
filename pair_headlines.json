@@ -9,28 +9,34 @@
         "score": 0.0
       },
       {
-        "title": "USD/JPY Grinds Higher ahead of FOMC, AUD/JPY Clings to Support - stonex.com",
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7148 \u2013 Reuters estimate - investingLive",
         "source": "Google News",
-        "label": "bullish",
-        "score": 0.8158
+        "label": "neutral",
+        "score": 0.0
       },
       {
-        "title": "Clarity failure: What the BTC/USD chart is showing, and what to watch next",
+        "title": "PBOC sets USD/ CNY central rate at 6.7628 (vs. estimate at 6.7148)",
         "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "GBP/JPY Price Forecast: Rebounds above 207.00 as oversold risk eases",
+        "title": "Gold sticks to modest gains below $4,350 as USD bulls await Fed rate decision",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.7583
+        "score": 0.7127
       },
       {
-        "title": "Mexican Peso retreats as USD/MXN bounces from near YTD low",
+        "title": "Japanese Yen remains depressed near one-week low vs USD as traders await Fed, BoJ",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9547
+        "score": -0.9334
+      },
+      {
+        "title": "AUD/JPY Price Forecast: Holds gains above 110.50, but maintains bearish bias below 100-day SMA",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8847
       }
     ],
     "GBP/USD": [
@@ -39,12 +45,6 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.6864
-      },
-      {
-        "title": "GBP/JPY Price Forecast: Rebounds above 207.00 as oversold risk eases",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.7583
       }
     ],
     "EUR/USD": [
@@ -53,26 +53,14 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.9667
-      },
-      {
-        "title": "EUR/USD Price Forecast: Bears crack 100-day SMA, eye 1.1500",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.5232
       }
     ],
     "AUD/USD": [
       {
-        "title": "USD/JPY Grinds Higher ahead of FOMC, AUD/JPY Clings to Support - stonex.com",
-        "source": "Google News",
+        "title": "AUD/JPY Price Forecast: Holds gains above 110.50, but maintains bearish bias below 100-day SMA",
+        "source": "FXStreet",
         "label": "bullish",
-        "score": 0.8158
-      },
-      {
-        "title": "Australian Dollar Outlook: AUD/USD Rally Stalls as Fed Risk Returns - FOREX.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9311
+        "score": 0.8847
       }
     ]
   }
