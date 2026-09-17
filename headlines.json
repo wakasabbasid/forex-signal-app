@@ -11,6 +11,23 @@
       ]
     },
     {
+      "title": "GBP/USD After the Fed: Is the Bearish Move Over? - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8977,
+      "currencies": []
+    },
+    {
       "title": "Olympus Capital Set to Shine at Forex Expo Dubai 2026: The Big Stage Awaits - Yahoo Finance",
       "source": "Google News",
       "label": "neutral",
@@ -18,10 +35,10 @@
       "currencies": []
     },
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "title": "Forex Today: All eyes on BoE rate decision - FXStreet",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.8977,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -39,24 +56,7 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Forex Signal 16/09: Key 1.3465 and 1.3500 Level - dailyforex.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "Malawi\u2019s Forex Crisis is Feeding Into the Fertiliser Market - AfricaBrief",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
+      "title": "Yen begins to recover as Bank of Japan meeting gets underway - Economies.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -70,83 +70,85 @@
       "currencies": []
     },
     {
-      "title": "Japan to maintain close communication with US on currency markets, Katayama says - Reuters",
+      "title": "Dollar higher as oil lifts yields and Fed hike looms - Reuters",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.6482,
+      "score": 0.7946,
       "currencies": []
     },
     {
-      "title": "US Dollar Rallies on Hawkish Fed Hike, Though Upside Could be Limited - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why USD/CAD\u2019s 1.3750 Support Has Traders Divided - dailyforex.com",
+      "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
-        "USD",
-        "CAD"
+        "EUR",
+        "USD"
       ]
     },
     {
-      "title": "SK Hynix stuck in \u20a91,670K-\u20a91,888K range: Live levels",
+      "title": "Why USD/MXN Holds Above 17.00 Before the Fed - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Bitcoin steady at $76.5k as markets digest Fed rate hike, M.East tensions",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Byron Donalds from Florida\u2019s 19th District Makes Moves in Howmet Aerospace, Netflix, and Parker-Hannifin Stocks",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "First Interstate BancSystem director Julie A. Scott sells $101,628 shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Hennessy Advisors director Newton sells $8,188 of stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Ouster COO Darien Spencer sells $434k in common stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Butler National director Michael Loh buys $39,100 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Snap launches $2,195 Specs augmented-reality glasses as AI push expands",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "IMF says Australia may need further interest rate rises to tame inflation",
+      "title": "STARPRIME Responds to Diverging Gold Market Demand with AM/PM Fixing and XAU24/7",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6217,
+      "score": 0.6926,
+      "currencies": []
+    },
+    {
+      "title": "Japan stocks higher at close of trade; Nikkei 225 up 0.53%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9329,
+      "currencies": []
+    },
+    {
+      "title": "Asian stocks edge higher as Fed hike eases bond fears, China shares lag",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5952,
+      "currencies": []
+    },
+    {
+      "title": "Wizz Air cuts H2 capacity by 5%, unveils medium-term growth targets",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8711,
+      "currencies": []
+    },
+    {
+      "title": "Spruce Biosciences at H.C. Wainwright: BLA path comes into focus",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Oil prices extend losses on easing fears of Middle East supply disruption",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7616,
+      "currencies": []
+    },
+    {
+      "title": "Capricorn Energy agrees to revised DNO takeover terms",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

@@ -9,32 +9,56 @@
         "score": 0.0
       },
       {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7241 \u2013 Reuters estimate",
+        "title": "Why USD/MXN Holds Above 17.00 Before the Fed - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC sets USD/ CNY central rate at 6.7580 (vs. estimate at 6.7241)",
         "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "British Pound languishes near late July lows as hawkish Fed underpins USD ahead of BoE",
+        "title": "Gold retakes $4,300 amid modest USD pullback but hawkish Fed caps upside",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8588
+        "label": "bullish",
+        "score": 0.6531
       }
     ],
     "GBP/USD": [
       {
-        "title": "GBP/USD Forex Signal 16/09: Key 1.3465 and 1.3500 Level - dailyforex.com",
+        "title": "GBP/USD After the Fed: Is the Bearish Move Over? - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "EUR/GBP Price Forecast: Euro struggles below 0.8570 with all eyes on the BoE",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9099
       }
     ],
-    "USD/CAD": [
+    "EUR/USD": [
       {
-        "title": "Why USD/CAD\u2019s 1.3750 Support Has Traders Divided - dailyforex.com",
+        "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "EUR/GBP Price Forecast: Euro struggles below 0.8570 with all eyes on the BoE",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9099
+      },
+      {
+        "title": "EUR/USD Price Forecast: Holds steady near 1.1450, bearish tone remains intact",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.5614
       }
     ]
   }
