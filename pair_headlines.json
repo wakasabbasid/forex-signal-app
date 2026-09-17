@@ -15,10 +15,22 @@
         "score": 0.0
       },
       {
-        "title": "Gold forecast: XAU/USD breakout needs confirmation - FOREX.com",
+        "title": "USD/MXN Analysis: Can the Peso Recover Against a More Aggressive Fed? - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "USD Trades at Seven-Week High After FOMC - FOREX.com",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.4306
+      },
+      {
+        "title": "GBP/JPY Price Forecast: Evening star puts 207.00 back in play",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.6686
       }
     ],
     "GBP/USD": [
@@ -27,14 +39,20 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "GBP/JPY Price Forecast: Evening star puts 207.00 back in play",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.6686
       }
     ],
-    "USD/CHF": [
+    "EUR/USD": [
       {
-        "title": "USD/CHF Price Forecast: RSI nears overbought territory",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.6992
+        "title": "EUR/USD: The Dollar\u2019s Strength Faces an Important Test - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }

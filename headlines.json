@@ -27,31 +27,17 @@
       "currencies": []
     },
     {
-      "title": "Yen appreciation has carry-trade seekers looking at these two currencies - CNBC",
+      "title": "Africa FX outlook: What's next for key African currencies? - CNBC Africa",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Carry traders eye franc and krona as yen\u2019s funding appeal ebbs - The Japan Times",
+      "title": "Forex Today: US Dollar eases ahead of Bank of Japan decision - FXStreet",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "exchange rate - Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: All eyes on BoE rate decision - FXStreet",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.553,
       "currencies": []
     },
     {
@@ -60,6 +46,15 @@
       "label": "neutral",
       "score": 0.0,
       "currencies": []
+    },
+    {
+      "title": "USD/MXN Analysis: Can the Peso Recover Against a More Aggressive Fed? - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "GBP/USD After the Fed: Is the Bearish Move Over? - DailyForex",
@@ -79,40 +74,50 @@
       "currencies": []
     },
     {
-      "title": "Gold forecast: XAU/USD breakout needs confirmation - FOREX.com",
+      "title": "Forex Today: All eyes on BoE rate decision - FXStreet",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "USD Trades at Seven-Week High After FOMC - FOREX.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.4306,
       "currencies": [
         "USD"
       ]
     },
     {
-      "title": "FP Markets wins three awards at the Global Forex Awards 2026 - Yahoo Finance",
+      "title": "EUR/USD: The Dollar\u2019s Strength Faces an Important Test - DailyForex",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.7717,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "US to allow Iranian leaders to attend UN General Assembly",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "CFTC expands crypto trading with new software provider rules",
+      "title": "Oil dips, Brent turns negative for the week amid easing Middle East supply fears",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6455,
+      "label": "bearish",
+      "score": -0.9684,
       "currencies": []
     },
     {
-      "title": "FAA sees $100 million impact from tariffs on air traffic control modernization plan",
+      "title": "Ocean container shipping rates could test record highs as Iran war fuel spike drives rise, analysts say",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8462,
-      "currencies": []
-    },
-    {
-      "title": "U.S. stocks and bonds rally as Fed rate uncertainty fades, oil prices slip",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.4589,
+      "score": 0.9035,
       "currencies": []
     },
     {
@@ -123,31 +128,31 @@
       "currencies": []
     },
     {
-      "title": "Nakamoto chief investment officer Evans sells $7,492 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Russia projects 2% budget deficit for 2027, says Putin",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7746,
-      "currencies": []
-    },
-    {
-      "title": "Lyntris to supply antenna systems for Intuitive Machines network",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US approves $24.3 billion F-35 fighter jet sale to Saudi Arabia",
+      "title": "Tech leads Wall St to higher close as oil eases, Treasury yields dip",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9059,
+      "score": 0.7335,
+      "currencies": []
+    },
+    {
+      "title": "Jefferies cuts Kinder Morgan stock price target on project timing",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "GMR Solutions reprices $2.9 billion term loan, cuts interest rate",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8281,
+      "currencies": []
+    },
+    {
+      "title": "AJB Investment Fund II acquires $28,947 of Jewett Cameron Trading Co Ltd stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
