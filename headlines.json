@@ -25,6 +25,13 @@
       "currencies": []
     },
     {
+      "title": "Yen appreciation has carry-trade seekers looking at these two currencies - CNBC",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Carry traders eye franc and krona as yen\u2019s funding appeal ebbs - The Japan Times",
       "source": "Google News",
       "label": "neutral",
@@ -32,7 +39,7 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Forex Signal 16/09: Key 1.3465 and 1.3500 Level - DailyForex",
+      "title": "GBP/USD Forex Signal 16/09: Key 1.3465 and 1.3500 Level - dailyforex.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -40,13 +47,6 @@
         "GBP",
         "USD"
       ]
-    },
-    {
-      "title": "Yen appreciation has carry-trade seekers looking at these two currencies - cnbc.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
     },
     {
       "title": "Malawi\u2019s Forex Crisis is Feeding Into the Fertiliser Market - AfricaBrief",
@@ -63,17 +63,10 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar holds steady ahead of Fed rate decision - FXStreet",
+      "title": "FP Markets wins three awards at the Global Forex Awards 2026 - Yahoo Finance",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8249,
-      "currencies": []
-    },
-    {
-      "title": "CentFX Recognized as Best Execution Platform at Money Expo India 2026 - Yahoo Finance",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9282,
+      "score": 0.7717,
       "currencies": []
     },
     {
@@ -84,7 +77,14 @@
       "currencies": []
     },
     {
-      "title": "Why USD/CAD\u2019s 1.3750 Support Has Traders Divided - DailyForex",
+      "title": "US Dollar Rallies on Hawkish Fed Hike, Though Upside Could be Limited - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why USD/CAD\u2019s 1.3750 Support Has Traders Divided - dailyforex.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -94,59 +94,59 @@
       ]
     },
     {
-      "title": "Sunbelt Rentals at Morgan Stanley conference: record quarter lifts outlook",
+      "title": "SK Hynix stuck in \u20a91,670K-\u20a91,888K range: Live levels",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Byron Donalds from Florida\u2019s 19th District Makes Moves in Howmet Aerospace, Netflix, and Parker-Hannifin Stocks",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "First Interstate BancSystem director Julie A. Scott sells $101,628 shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Hennessy Advisors director Newton sells $8,188 of stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Ouster COO Darien Spencer sells $434k in common stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Butler National director Michael Loh buys $39,100 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Snap launches $2,195 Specs augmented-reality glasses as AI push expands",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "IMF says Australia may need further interest rate rises to tame inflation",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8904,
-      "currencies": []
-    },
-    {
-      "title": "Ibex director Daniella Ballou-Aares sells $60,436 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Xometry CEO Sanjeev Sahni disposes of $127,838 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Hyatt Hotels executive Lalvani sells $222,413 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Belden EVP Brian Lieser sells $217,341 in BDC stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Ibex chief sales/marketing officer Casteel sells $706k in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Exclusive-OpenAI\u2019s rogue agents\u00a0probed Hugging Face for weaknesses two months before major hack",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5597,
-      "currencies": []
-    },
-    {
-      "title": "Natera at 2026 Global Healthcare Conference: growth broadens",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8575,
+      "score": 0.6217,
       "currencies": []
     }
   ],

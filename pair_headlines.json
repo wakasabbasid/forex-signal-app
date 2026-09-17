@@ -7,11 +7,23 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7241 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "British Pound languishes near late July lows as hawkish Fed underpins USD ahead of BoE",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8588
       }
     ],
     "GBP/USD": [
       {
-        "title": "GBP/USD Forex Signal 16/09: Key 1.3465 and 1.3500 Level - DailyForex",
+        "title": "GBP/USD Forex Signal 16/09: Key 1.3465 and 1.3500 Level - dailyforex.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -19,16 +31,8 @@
     ],
     "USD/CAD": [
       {
-        "title": "Why USD/CAD\u2019s 1.3750 Support Has Traders Divided - DailyForex",
+        "title": "Why USD/CAD\u2019s 1.3750 Support Has Traders Divided - dailyforex.com",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "NZD/USD": [
-      {
-        "title": "NZD/USD braces for NZ GDP data: Three scenarios for the Kiwi",
-        "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
       }
