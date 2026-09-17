@@ -9,8 +9,14 @@
         "score": 0.0
       },
       {
-        "title": "USD/JPY Price Forecast: 20-day acts key barrier near 156.45",
-        "source": "FXStreet",
+        "title": "USD/BRL: Why the Post-Fed Calm May Not Last - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Gold forecast: XAU/USD breakout needs confirmation - FOREX.com",
+        "source": "Google News",
         "label": "neutral",
         "score": 0.0
       }
@@ -23,12 +29,12 @@
         "score": 0.0
       }
     ],
-    "EUR/USD": [
+    "USD/CHF": [
       {
-        "title": "EUR/USD: Short-Term Bounce Meets 1.1487 - Forex Factory",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "title": "USD/CHF Price Forecast: RSI nears overbought territory",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.6992
       }
     ]
   }

@@ -11,12 +11,11 @@
       ]
     },
     {
-      "title": "GBP/USD After the Fed: Is the Bearish Move Over? - DailyForex",
+      "title": "USD/BRL: Why the Post-Fed Calm May Not Last - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
-        "GBP",
         "USD"
       ]
     },
@@ -29,6 +28,20 @@
     },
     {
       "title": "Yen appreciation has carry-trade seekers looking at these two currencies - CNBC",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Carry traders eye franc and krona as yen\u2019s funding appeal ebbs - The Japan Times",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "exchange rate - Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -49,104 +62,92 @@
       "currencies": []
     },
     {
-      "title": "Carry traders eye franc and krona as yen\u2019s funding appeal ebbs - japantimes.co.jp",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "exchange rate - Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Yen rise as markets price BOJ rate hike while dollar pauses post-Fed - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD: Short-Term Bounce Meets 1.1487 - Forex Factory",
+      "title": "GBP/USD After the Fed: Is the Bearish Move Over? - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
-        "EUR",
+        "GBP",
         "USD"
       ]
     },
     {
-      "title": "Emerging Asian currencies trim losses after hawkish Fed propels dollar; shares muted - The Edge Malaysia",
+      "title": "Dollar higher as oil lifts yields and Fed hike looms - Reuters",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.6847,
+      "label": "bullish",
+      "score": 0.7946,
       "currencies": []
     },
     {
-      "title": "September 17: Cedi sells at GHS12.15 on forex market, GHS11.51 on BoG interbank - Modern Ghana",
+      "title": "Gold forecast: XAU/USD breakout needs confirmation - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "FP Markets wins three awards at the Global Forex Awards 2026 - Yahoo Finance",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7717,
       "currencies": []
     },
     {
-      "title": "Hungary\u2019s ABZ Innovation opens $8 million factory to boost drone output",
+      "title": "CFTC expands crypto trading with new software provider rules",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8246,
+      "score": 0.6455,
       "currencies": []
     },
     {
-      "title": "Caldwell adds Ali Palmer as partner in London HR practice",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Applied Materials to invest $5 billion in India as Modi\u2019s flagship chip event kicks off",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Oil falls 3% to one-week low as supply disruption fears ease",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9571,
-      "currencies": []
-    },
-    {
-      "title": "Canada and EU should ally to protect democracies, Carney says, after \u2019associate member\u2019 proposal angers Trump",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.3888,
-      "currencies": []
-    },
-    {
-      "title": "Why is Affirm stock surging today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Bernstein Flags Three Stocks as Best Placed for Modular Data-Centre Shift",
+      "title": "FAA sees $100 million impact from tariffs on air traffic control modernization plan",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6031,
+      "score": 0.8462,
       "currencies": []
     },
     {
-      "title": "Why is Lucid stock rallying today?",
+      "title": "U.S. stocks and bonds rally as Fed rate uncertainty fades, oil prices slip",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.4589,
+      "currencies": []
+    },
+    {
+      "title": "Saudis and Houthis exchange strikes, Yemenis take to boats to flee as Middle East war spreads",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8696,
+      "currencies": []
+    },
+    {
+      "title": "Nakamoto chief investment officer Evans sells $7,492 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Russia projects 2% budget deficit for 2027, says Putin",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7746,
+      "currencies": []
+    },
+    {
+      "title": "Lyntris to supply antenna systems for Intuitive Machines network",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US approves $24.3 billion F-35 fighter jet sale to Saudi Arabia",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9059,
       "currencies": []
     }
   ],
