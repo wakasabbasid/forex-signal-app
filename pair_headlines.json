@@ -21,16 +21,34 @@
         "score": 0.0
       },
       {
-        "title": "USD Trades at Seven-Week High After FOMC - FOREX.com",
+        "title": "Gold forecast: XAU/USD breakout needs confirmation - FOREX.com",
         "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Australian Dollar finds a floor as Oil retreat loosens USD\u2019s grip",
+        "source": "FXStreet",
         "label": "bullish",
-        "score": 0.4306
+        "score": 0.5233
+      },
+      {
+        "title": "EUR/JPY Price Forecast: Spinning tops warn bulls near 180.00",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.4994
       },
       {
         "title": "GBP/JPY Price Forecast: Evening star puts 207.00 back in play",
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.6686
+      },
+      {
+        "title": "Carry Trade Explained: Why the Japanese Yen Is Losing Its Appeal (JPY/USD)",
+        "source": "Bloomberg",
+        "label": "bearish",
+        "score": -0.9524
       }
     ],
     "GBP/USD": [
@@ -49,10 +67,10 @@
     ],
     "EUR/USD": [
       {
-        "title": "EUR/USD: The Dollar\u2019s Strength Faces an Important Test - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "title": "EUR/JPY Price Forecast: Spinning tops warn bulls near 180.00",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.4994
       }
     ]
   }

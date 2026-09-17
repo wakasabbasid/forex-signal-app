@@ -11,6 +11,13 @@
       ]
     },
     {
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - reuters.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8017,
+      "currencies": []
+    },
+    {
       "title": "USD/BRL: Why the Post-Fed Calm May Not Last - DailyForex",
       "source": "Google News",
       "label": "neutral",
@@ -20,10 +27,10 @@
       ]
     },
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "title": "Forex Today: US Dollar eases ahead of Bank of Japan decision - FXStreet",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8977,
+      "score": 0.553,
       "currencies": []
     },
     {
@@ -34,10 +41,10 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar eases ahead of Bank of Japan decision - FXStreet",
+      "title": "Carry traders eye franc and krona as yen\u2019s funding appeal ebbs - The Japan Times",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.553,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -57,6 +64,13 @@
       ]
     },
     {
+      "title": "Dollar higher as oil lifts yields and Fed hike looms - reuters.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "GBP/USD After the Fed: Is the Bearish Move Over? - DailyForex",
       "source": "Google News",
       "label": "neutral",
@@ -67,13 +81,6 @@
       ]
     },
     {
-      "title": "Dollar higher as oil lifts yields and Fed hike looms - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7946,
-      "currencies": []
-    },
-    {
       "title": "Forex Today: All eyes on BoE rate decision - FXStreet",
       "source": "Google News",
       "label": "neutral",
@@ -81,75 +88,65 @@
       "currencies": []
     },
     {
-      "title": "USD Trades at Seven-Week High After FOMC - FOREX.com",
+      "title": "Gold forecast: XAU/USD breakout needs confirmation - FOREX.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.4306,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
         "USD"
       ]
     },
     {
-      "title": "EUR/USD: The Dollar\u2019s Strength Faces an Important Test - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "US to allow Iranian leaders to attend UN General Assembly",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Oil dips, Brent turns negative for the week amid easing Middle East supply fears",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9684,
-      "currencies": []
-    },
-    {
-      "title": "Ocean container shipping rates could test record highs as Iran war fuel spike drives rise, analysts say",
+      "title": "Japan\u2019s August core consumer prices rise 1.7% yr/yr",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9035,
+      "score": 0.9227,
       "currencies": []
     },
     {
-      "title": "Saudis and Houthis exchange strikes, Yemenis take to boats to flee as Middle East war spreads",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8696,
-      "currencies": []
-    },
-    {
-      "title": "Tech leads Wall St to higher close as oil eases, Treasury yields dip",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7335,
-      "currencies": []
-    },
-    {
-      "title": "Jefferies cuts Kinder Morgan stock price target on project timing",
+      "title": "DataMeds AI settles litigation, repurchases shares and reduces liabilities",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "GMR Solutions reprices $2.9 billion term loan, cuts interest rate",
+      "title": "Pitney Bowes president & CEO Kurt Wolf sells $3.45m in PBI shares",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8281,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "AJB Investment Fund II acquires $28,947 of Jewett Cameron Trading Co Ltd stock",
+      "title": "Meta platforms CPO Christopher Cox sells $13.5 million in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Planet Labs co-founder Schingler sells $886k in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Amphastar\u2019s senior EVP Rong Zhou sells $239,404 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japan CPI steady in August, core inflation eases ahead of BOJ rate hike",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8044,
+      "currencies": []
+    },
+    {
+      "title": "Aon announces $13.4 billion senior notes offering to support USI acquisition",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
