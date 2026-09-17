@@ -9,22 +9,10 @@
         "score": 0.0
       },
       {
-        "title": "Why USD/MXN Holds Above 17.00 Before the Fed - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "PBOC sets USD/ CNY central rate at 6.7580 (vs. estimate at 6.7241)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Gold retakes $4,300 amid modest USD pullback but hawkish Fed caps upside",
+        "title": "USD/JPY Price Forecast: 20-day acts key barrier near 156.45",
         "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.6531
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "GBP/USD": [
@@ -33,32 +21,14 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "EUR/GBP Price Forecast: Euro struggles below 0.8570 with all eyes on the BoE",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9099
       }
     ],
     "EUR/USD": [
       {
-        "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
+        "title": "EUR/USD: Short-Term Bounce Meets 1.1487 - Forex Factory",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "EUR/GBP Price Forecast: Euro struggles below 0.8570 with all eyes on the BoE",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9099
-      },
-      {
-        "title": "EUR/USD Price Forecast: Holds steady near 1.1450, bearish tone remains intact",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.5614
       }
     ]
   }
