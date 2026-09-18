@@ -13,6 +13,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "Singapore Dollar: Strong NODX but USD still drives USD/SGD \u2013 OCBC",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8581
       }
     ],
     "EUR/USD": [
