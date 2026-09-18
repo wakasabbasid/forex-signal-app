@@ -18,34 +18,31 @@
       "currencies": []
     },
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - reuters.com",
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8017,
+      "score": 0.8977,
       "currencies": []
     },
     {
-      "title": "India\u2019s forex reserves fall USD 4.92 billion to USD 780.78 billion - The Tribune",
+      "title": "Beware of intervention: USDJPY retraces earlier gains, but is stalling at a key retracement target. - investingLive",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9678,
-      "currencies": [
-        "USD",
-        "USD"
-      ]
-    },
-    {
-      "title": "FOREX-Yen slumps to two-week low after BOJ rate hike underwhelms - Devdiscourse",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9617,
+      "score": -0.7938,
       "currencies": []
     },
     {
-      "title": "Forex Today: Japanese Yen falls despite BoJ's rate hike; Fedspeak in focus - FXStreet",
+      "title": "Canadian dollar weakens against major currencies in the week ending September 18 - Investing.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.875,
+      "score": -0.9682,
+      "currencies": []
+    },
+    {
+      "title": "India's Forex Reserves Dip by $4.92 Billion Amidst Fall in FCA, Gold - rediff.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9626,
       "currencies": []
     },
     {
@@ -63,17 +60,17 @@
       "currencies": []
     },
     {
-      "title": "Yuan hits 4-year high ahead of Trump-Xi meeting as China broadens clearing - Investing.com",
+      "title": "Forex Today: Japanese Yen falls despite BoJ's rate hike; Fedspeak in focus - FXStreet",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.6535,
+      "label": "bearish",
+      "score": -0.875,
       "currencies": []
     },
     {
-      "title": "September 18: Cedi sells at GHS12.15 on forex market, GHS11.53 on BoG interbank - Modern Ghana",
+      "title": "FOREX-Dollar jumps against yen as BOJ dissent clouds rate-hike outlook - Devdiscourse",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.6111,
       "currencies": []
     },
     {
@@ -84,66 +81,63 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s forex reserves drop by USD 4.924 billion to USD 780.782 billion: RBI data - ThePrint",
+      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9654,
-      "currencies": [
-        "USD",
-        "USD"
-      ]
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
-      "title": "D.A. Davidson reiterates Almonty Industries stock buy rating",
+      "title": "Westinghouse said to seek over $50 billion valuation in planned IPO",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "DA Davidson reiterates Buy on EVI Industries stock, $32 target",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "DA Davidson reiterates Crane NXT stock rating on currency tech strength",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "HSBC expands Premier banking services in the US",
+      "title": "Caviar and champagne: Air France\u2019s luxury shift helps ride out Iran war impact",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.837,
+      "score": 0.4963,
       "currencies": []
     },
     {
-      "title": "Gold.com director Jeffrey D. Benjamin sells $1.08m in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Alphabet C stalls at $355 resistance after surge: Live levels",
+      "title": "U.S. stocks slip at end of eventful week marked by Fed rate hike, AI safety uproar",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6336,
+      "score": -0.9339,
       "currencies": []
     },
     {
-      "title": "Dow Jones oversold near 51,614 support: Live levels",
+      "title": "Euronext wheat drops as traders weigh Black Sea export disruption",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9518,
       "currencies": []
     },
     {
-      "title": "Tesla trapped between $357-$378 in tight range: Live levels",
+      "title": "Explainer-Why France\u2019s budget problems have driven its bond risk premium to 2012 highs",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8484,
+      "currencies": []
+    },
+    {
+      "title": "European diesel margins dip but stay near record highs",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9679,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Kromek H2 2026 results meet expectations as shares fall",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8841,
+      "currencies": []
+    },
+    {
+      "title": "Exozymes sets date for 2026 annual meeting and announces record date",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
