@@ -11,17 +11,17 @@
       ]
     },
     {
-      "title": "New Forex Services at Vizag Airport Make International Travel Easier for Passengers - IndianEagle",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7066,
-      "currencies": []
-    },
-    {
       "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
       "source": "Google News",
       "label": "bullish",
       "score": 0.8977,
+      "currencies": []
+    },
+    {
+      "title": "New Forex Services at Vizag Airport Make International Travel Easier for Passengers - IndianEagle",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7066,
       "currencies": []
     },
     {
@@ -32,24 +32,17 @@
       "currencies": []
     },
     {
+      "title": "FOREX-Dollar advances vs yen as BOJ dissent clouds rate-hike outlook - Devdiscourse",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7243,
+      "currencies": []
+    },
+    {
       "title": "Canadian dollar weakens against major currencies in the week ending September 18 - Investing.com",
       "source": "Google News",
       "label": "bearish",
       "score": -0.9682,
-      "currencies": []
-    },
-    {
-      "title": "India's Forex Reserves Dip by $4.92 Billion Amidst Fall in FCA, Gold - rediff.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9626,
-      "currencies": []
-    },
-    {
-      "title": "exchange rate - Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -60,17 +53,17 @@
       "currencies": []
     },
     {
+      "title": "India's Forex Reserves Dip by $4.92 Billion Amidst Fall in FCA, Gold - Rediff",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9727,
+      "currencies": []
+    },
+    {
       "title": "Forex Today: Japanese Yen falls despite BoJ's rate hike; Fedspeak in focus - FXStreet",
       "source": "Google News",
       "label": "bearish",
       "score": -0.875,
-      "currencies": []
-    },
-    {
-      "title": "FOREX-Dollar jumps against yen as BOJ dissent clouds rate-hike outlook - Devdiscourse",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6111,
       "currencies": []
     },
     {
@@ -88,56 +81,65 @@
       "currencies": []
     },
     {
-      "title": "Westinghouse said to seek over $50 billion valuation in planned IPO",
+      "title": "USD/BRL: Why the Post-Fed Calm May Not Last - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "GeneDx CEO Katherine Stueland sells $1.03m in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Caviar and champagne: Air France\u2019s luxury shift helps ride out Iran war impact",
+      "title": "Marqeta director Martha Cummings sells $11,415 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Oil prices snap two-week winning streak on easing Middle East supply fears",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.4963,
+      "score": 0.7142,
       "currencies": []
     },
     {
-      "title": "U.S. stocks slip at end of eventful week marked by Fed rate hike, AI safety uproar",
+      "title": "First Atlantic Nickel closes $6.2M flow-through financing",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9339,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Euronext wheat drops as traders weigh Black Sea export disruption",
+      "title": "David J. Taylor from Ohio\u2019s 2nd district buys stocks in Installed Building Products and Procter & Gamble Company",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9518,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Explainer-Why France\u2019s budget problems have driven its bond risk premium to 2012 highs",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8484,
-      "currencies": []
-    },
-    {
-      "title": "European diesel margins dip but stay near record highs",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9679,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Kromek H2 2026 results meet expectations as shares fall",
+      "title": "Global shares edge higher as central banks double down on inflation fight",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8841,
+      "score": 0.5145,
       "currencies": []
     },
     {
-      "title": "Exozymes sets date for 2026 annual meeting and announces record date",
+      "title": "Anthropic, Accenture to invest $2 billion in AI model evaluation as safety concerns rise",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Scott Franklin purchases Accenture and McDonald\u2019s shares, sells Alphabet and JP Morgan Chase stocks",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

@@ -7,6 +7,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "USD/BRL: Why the Post-Fed Calm May Not Last - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "EUR/USD": [
@@ -15,20 +21,22 @@
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.8883
-      },
-      {
-        "title": "US Dollar Price Forecast: Dollar Strengthens as Fed-BoE Policy Divergence Widens; Key Levels for EUR/USD and GBP/USD",
-        "source": "Yahoo Finance",
-        "label": "bullish",
-        "score": 0.9473
       }
     ],
-    "GBP/USD": [
+    "AUD/USD": [
       {
-        "title": "US Dollar Price Forecast: Dollar Strengthens as Fed-BoE Policy Divergence Widens; Key Levels for EUR/USD and GBP/USD",
-        "source": "Yahoo Finance",
-        "label": "bullish",
-        "score": 0.9473
+        "title": "AUD/USD Price Forecast: Bulls eye 0.7200 after 0.7100 break",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "NZD/USD": [
+      {
+        "title": "NZD/USD Price Forecast: Kiwi reversal puts 0.5700 under pressure",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.7518
       }
     ]
   }
