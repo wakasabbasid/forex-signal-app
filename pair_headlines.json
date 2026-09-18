@@ -9,68 +9,68 @@
         "score": 0.0
       },
       {
-        "title": "USD/BRL: Why the Post-Fed Calm May Not Last - DailyForex",
+        "title": "USD/BRL: Why the Post-Fed Calm May Not Last - dailyforex.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "USD/MXN Analysis: Can the Peso Recover Against a More Aggressive Fed? - FOREX.com",
+        "title": "USD Trades at Seven-Week High After FOMC - FOREX.com",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Gold forecast: XAU/USD breakout needs confirmation - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Australian Dollar finds a floor as Oil retreat loosens USD\u2019s grip",
-        "source": "FXStreet",
         "label": "bullish",
-        "score": 0.5233
+        "score": 0.4306
       },
       {
-        "title": "EUR/JPY Price Forecast: Spinning tops warn bulls near 180.00",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.4994
-      },
-      {
-        "title": "GBP/JPY Price Forecast: Evening star puts 207.00 back in play",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.6686
-      },
-      {
-        "title": "Carry Trade Explained: Why the Japanese Yen Is Losing Its Appeal (JPY/USD)",
-        "source": "Bloomberg",
+        "title": "USD/JPY jumps to 157 after BOJ rate hike as dovish dissents weigh on yen",
+        "source": "ForexLive",
         "label": "bearish",
-        "score": -0.9524
+        "score": -0.6754
+      },
+      {
+        "title": "PBOC sets USD/ CNY reference rate for today at 6.7521 (vs. estimate at 6.7065)",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7065 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Gold sticks to gains on softer bond yields and subdued USD; hawkish Fed caps upside",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.7259
+      },
+      {
+        "title": "New Zealand Dollar steadies as softer US bond yields keep USD on the defensive",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.5489
+      },
+      {
+        "title": "British Pound jumps to two-week top as JPY declines after BoJ's rate-hike to 31-year high",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.5822
       }
     ],
     "GBP/USD": [
       {
-        "title": "GBP/USD After the Fed: Is the Bearish Move Over? - DailyForex",
+        "title": "GBP/USD After the Fed: Is the Bearish Move Over? - dailyforex.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "GBP/JPY Price Forecast: Evening star puts 207.00 back in play",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.6686
       }
     ],
     "EUR/USD": [
       {
-        "title": "EUR/JPY Price Forecast: Spinning tops warn bulls near 180.00",
+        "title": "EUR/USD Price Forecast: Strengthens to near 1.1500, while bearish bias persists below 100-day SMA",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.4994
+        "score": 0.9058
       }
     ]
   }

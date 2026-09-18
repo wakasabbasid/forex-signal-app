@@ -11,14 +11,14 @@
       ]
     },
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - reuters.com",
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8017,
+      "score": 0.8977,
       "currencies": []
     },
     {
-      "title": "USD/BRL: Why the Post-Fed Calm May Not Last - DailyForex",
+      "title": "USD/BRL: Why the Post-Fed Calm May Not Last - dailyforex.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -34,14 +34,21 @@
       "currencies": []
     },
     {
-      "title": "Africa FX outlook: What's next for key African currencies? - CNBC Africa",
+      "title": "FOREX-Yen slumps after BOJ hikes rates as expected - Devdiscourse",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9462,
+      "currencies": []
+    },
+    {
+      "title": "Carry traders eye franc and krona as yen\u2019s funding appeal ebbs - The Japan Times",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Carry traders eye franc and krona as yen\u2019s funding appeal ebbs - The Japan Times",
+      "title": "Africa FX outlook: What's next for key African currencies? - CNBC Africa",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -55,23 +62,30 @@
       "currencies": []
     },
     {
-      "title": "USD/MXN Analysis: Can the Peso Recover Against a More Aggressive Fed? - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Dollar higher as oil lifts yields and Fed hike looms - reuters.com",
+      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "GBP/USD After the Fed: Is the Bearish Move Over? - DailyForex",
+      "title": "Dollar higher as oil lifts yields and Fed hike looms - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7946,
+      "currencies": []
+    },
+    {
+      "title": "USD Trades at Seven-Week High After FOMC - FOREX.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.4306,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "GBP/USD After the Fed: Is the Bearish Move Over? - dailyforex.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -81,75 +95,59 @@
       ]
     },
     {
-      "title": "Forex Today: All eyes on BoE rate decision - FXStreet",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Gold forecast: XAU/USD breakout needs confirmation - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Japan\u2019s August core consumer prices rise 1.7% yr/yr",
+      "title": "Exclusive-China\u2019s CXMT eyes flash-memory push amid global shortage; firm to take on Samsung, YMTC",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9227,
+      "score": 0.9257,
       "currencies": []
     },
     {
-      "title": "DataMeds AI settles litigation, repurchases shares and reduces liabilities",
+      "title": "Barclays backs November BoE hike, warns Middle East conflict could spur more",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.903,
       "currencies": []
     },
     {
-      "title": "Pitney Bowes president & CEO Kurt Wolf sells $3.45m in PBI shares",
+      "title": "Hyundai CEO warns Chinese auto competition could spread to U.S., Reuters reports",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.8738,
       "currencies": []
     },
     {
-      "title": "Meta platforms CPO Christopher Cox sells $13.5 million in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Planet Labs co-founder Schingler sells $886k in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Amphastar\u2019s senior EVP Rong Zhou sells $239,404 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan CPI steady in August, core inflation eases ahead of BOJ rate hike",
+      "title": "Apple Pay eyes India rollout with Axis Bank, sources say",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8044,
+      "score": 0.602,
       "currencies": []
     },
     {
-      "title": "Aon announces $13.4 billion senior notes offering to support USI acquisition",
+      "title": "Gold prices rise, eye weekly gain as oil and yields ease after Fed hike",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.717,
+      "currencies": []
+    },
+    {
+      "title": "Asia FX mixed as yen slides despite BOJ rate hike",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.767,
+      "currencies": []
+    },
+    {
+      "title": "SK Hynix nears bull trap resistance at KRW 1,911,000: Live",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Nikkei 225 squeezed at resistance 65,345 amid bull trap risk: Live",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9299,
       "currencies": []
     }
   ],
