@@ -18,27 +18,27 @@
       "currencies": []
     },
     {
-      "title": "USD/BRL: Why the Post-Fed Calm May Not Last - dailyforex.com",
+      "title": "Forex Today: Japanese Yen falls despite BoJ's rate hike; Fedspeak in focus - fxstreet.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.872,
+      "currencies": []
+    },
+    {
+      "title": "Yuan hits 4-year high ahead of Trump-Xi meeting as China broadens clearing - Investing.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6535,
+      "currencies": []
+    },
+    {
+      "title": "USD/BRL: Why the Post-Fed Calm May Not Last - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
         "USD"
       ]
-    },
-    {
-      "title": "Forex Today: US Dollar eases ahead of Bank of Japan decision - FXStreet",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.553,
-      "currencies": []
-    },
-    {
-      "title": "FOREX-Yen slumps after BOJ hikes rates as expected - Devdiscourse",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9462,
-      "currencies": []
     },
     {
       "title": "Carry traders eye franc and krona as yen\u2019s funding appeal ebbs - The Japan Times",
@@ -48,7 +48,14 @@
       "currencies": []
     },
     {
-      "title": "Africa FX outlook: What's next for key African currencies? - CNBC Africa",
+      "title": "FOREX-Yen slumps to two-week low after BOJ rate hike underwhelms - devdiscourse.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9603,
+      "currencies": []
+    },
+    {
+      "title": "Who Is \u201cMrs Watanabe\u201d? How Japan\u2019s Retail Traders Shaped the Yen Carry Trade - EBC Financial Group",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -62,13 +69,6 @@
       "currencies": []
     },
     {
-      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Dollar higher as oil lifts yields and Fed hike looms - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -76,78 +76,76 @@
       "currencies": []
     },
     {
-      "title": "USD Trades at Seven-Week High After FOMC - FOREX.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.4306,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "GBP/USD After the Fed: Is the Bearish Move Over? - dailyforex.com",
+      "title": "USD/JPY 155.00 Bounce into the BoJ - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
-        "GBP",
-        "USD"
+        "USD",
+        "JPY"
       ]
     },
     {
-      "title": "Exclusive-China\u2019s CXMT eyes flash-memory push amid global shortage; firm to take on Samsung, YMTC",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9257,
-      "currencies": []
-    },
-    {
-      "title": "Barclays backs November BoE hike, warns Middle East conflict could spur more",
-      "source": "Investing.com",
+      "title": "Forex Today: US Dollar eases ahead of Bank of Japan decision - fxstreet.com",
+      "source": "Google News",
       "label": "bearish",
-      "score": -0.903,
+      "score": -0.4335,
       "currencies": []
     },
     {
-      "title": "Hyundai CEO warns Chinese auto competition could spread to U.S., Reuters reports",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8738,
-      "currencies": []
-    },
-    {
-      "title": "Apple Pay eyes India rollout with Axis Bank, sources say",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.602,
-      "currencies": []
-    },
-    {
-      "title": "Gold prices rise, eye weekly gain as oil and yields ease after Fed hike",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.717,
-      "currencies": []
-    },
-    {
-      "title": "Asia FX mixed as yen slides despite BOJ rate hike",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.767,
-      "currencies": []
-    },
-    {
-      "title": "SK Hynix nears bull trap resistance at KRW 1,911,000: Live",
+      "title": "Why is Dynatrace stock climbing today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Nikkei 225 squeezed at resistance 65,345 amid bull trap risk: Live",
+      "title": "Why is Etsy stock climbing today?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "TD Cowen upgrades Targa Resources stock rating on Permian growth outlook",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Mizuho initiates Boyd Group Services stock with outperform rating",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Evolution Metals & Technologies enters $30.9 million convertible debenture deal",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Exclusive-Anthropic quietly sets up biology lab as it ramps AI drug program",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Oil prices set for weekly fall on easing fears over Saudi supply disruption",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9299,
+      "score": -0.9358,
+      "currencies": []
+    },
+    {
+      "title": "Berkshire Hathaway names Warren Buffett as chairman emeritus",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
