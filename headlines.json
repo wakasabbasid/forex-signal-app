@@ -11,17 +11,55 @@
       ]
     },
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "title": "New Forex Services at Vizag Airport Make International Travel Easier for Passengers - IndianEagle",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8977,
+      "score": 0.7066,
       "currencies": []
     },
     {
-      "title": "Forex Today: Japanese Yen falls despite BoJ's rate hike; Fedspeak in focus - fxstreet.com",
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - reuters.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8017,
+      "currencies": []
+    },
+    {
+      "title": "India\u2019s forex reserves fall USD 4.92 billion to USD 780.78 billion - The Tribune",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.872,
+      "score": -0.9678,
+      "currencies": [
+        "USD",
+        "USD"
+      ]
+    },
+    {
+      "title": "FOREX-Yen slumps to two-week low after BOJ rate hike underwhelms - Devdiscourse",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9617,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: Japanese Yen falls despite BoJ's rate hike; Fedspeak in focus - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.875,
+      "currencies": []
+    },
+    {
+      "title": "exchange rate - Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Carry traders eye franc and krona as yen\u2019s funding appeal ebbs - The Japan Times",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -32,30 +70,7 @@
       "currencies": []
     },
     {
-      "title": "USD/BRL: Why the Post-Fed Calm May Not Last - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Carry traders eye franc and krona as yen\u2019s funding appeal ebbs - The Japan Times",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "FOREX-Yen slumps to two-week low after BOJ rate hike underwhelms - devdiscourse.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9603,
-      "currencies": []
-    },
-    {
-      "title": "Who Is \u201cMrs Watanabe\u201d? How Japan\u2019s Retail Traders Shaped the Yen Carry Trade - EBC Financial Group",
+      "title": "September 18: Cedi sells at GHS12.15 on forex market, GHS11.53 on BoG interbank - Modern Ghana",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -69,80 +84,66 @@
       "currencies": []
     },
     {
-      "title": "Dollar higher as oil lifts yields and Fed hike looms - Reuters",
+      "title": "India\u2019s forex reserves drop by USD 4.924 billion to USD 780.782 billion: RBI data - ThePrint",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.7946,
-      "currencies": []
-    },
-    {
-      "title": "USD/JPY 155.00 Bounce into the BoJ - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9654,
       "currencies": [
         "USD",
-        "JPY"
+        "USD"
       ]
     },
     {
-      "title": "Forex Today: US Dollar eases ahead of Bank of Japan decision - fxstreet.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.4335,
-      "currencies": []
-    },
-    {
-      "title": "Why is Dynatrace stock climbing today?",
+      "title": "D.A. Davidson reiterates Almonty Industries stock buy rating",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is Etsy stock climbing today?",
+      "title": "DA Davidson reiterates Buy on EVI Industries stock, $32 target",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "TD Cowen upgrades Targa Resources stock rating on Permian growth outlook",
+      "title": "DA Davidson reiterates Crane NXT stock rating on currency tech strength",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Mizuho initiates Boyd Group Services stock with outperform rating",
+      "title": "HSBC expands Premier banking services in the US",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.837,
+      "currencies": []
+    },
+    {
+      "title": "Gold.com director Jeffrey D. Benjamin sells $1.08m in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Evolution Metals & Technologies enters $30.9 million convertible debenture deal",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Exclusive-Anthropic quietly sets up biology lab as it ramps AI drug program",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Oil prices set for weekly fall on easing fears over Saudi supply disruption",
+      "title": "Alphabet C stalls at $355 resistance after surge: Live levels",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9358,
+      "score": -0.6336,
       "currencies": []
     },
     {
-      "title": "Berkshire Hathaway names Warren Buffett as chairman emeritus",
+      "title": "Dow Jones oversold near 51,614 support: Live levels",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Tesla trapped between $357-$378 in tight range: Live levels",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

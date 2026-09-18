@@ -9,30 +9,36 @@
         "score": 0.0
       },
       {
-        "title": "USD/BRL: Why the Post-Fed Calm May Not Last - DailyForex",
+        "title": "India\u2019s forex reserves fall USD 4.92 billion to USD 780.78 billion - The Tribune",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bearish",
+        "score": -0.9678
       },
       {
-        "title": "USD/JPY 155.00 Bounce into the BoJ - FOREX.com",
+        "title": "India\u2019s forex reserves drop by USD 4.924 billion to USD 780.782 billion: RBI data - ThePrint",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bearish",
+        "score": -0.9654
       },
       {
-        "title": "Gold Price Forecast: XAU/USD appreciates to $4,400 as yields retreat",
-        "source": "FXStreet",
+        "title": "Gold (XAU/USD) extends gains as focus shifts to Trump meeting with Gulf leaders to discuss Iran war",
+        "source": "ForexLive",
         "label": "bullish",
-        "score": 0.9442
-      }
-    ],
-    "GBP/USD": [
+        "score": 0.8592
+      },
       {
-        "title": "GBP/USD Price Forecast: Attracts slight bids below trendline near 1.3360",
+        "title": "Japanese Yen: BoJ hike fails to lift JPY against US Dollar \u2013 Danske Bank",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.7869
+        "score": -0.8024
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/USD remains skewed to the downside as focus shifts to Trump meeting with Gulf leaders",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.8883
       }
     ]
   }
