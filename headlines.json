@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "exchange rate - Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "USD/JPY outlook: Currency Pair of the Week | September 15, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -18,24 +25,10 @@
       "currencies": []
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - nerdwallet.com",
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "exchange rate - Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Turkey Detains 175 in Alleged $266m Forex and Crypto Fraud Network - Cryptonews.net",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5769,
       "currencies": []
     },
     {
@@ -53,10 +46,10 @@
       "currencies": []
     },
     {
-      "title": "Olympus Capital Set to Shine at Forex Expo Dubai 2026: The Big Stage Awaits - finance.yahoo.com",
+      "title": "Turkey Detains 175 in Alleged $266m Forex and Crypto Fraud Network - Cryptonews.net",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.5769,
       "currencies": []
     },
     {
@@ -71,6 +64,13 @@
       "source": "Google News",
       "label": "bearish",
       "score": -0.5814,
+      "currencies": []
+    },
+    {
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -89,6 +89,34 @@
         "EUR",
         "USD"
       ]
+    },
+    {
+      "title": "Flames, smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7907,
+      "currencies": []
+    },
+    {
+      "title": "AI safety efforts will require more compute, not less: experts",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9603,
+      "currencies": []
+    },
+    {
+      "title": "Will worries about AI Doom end the AI Boom? BCA answers",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "Analyst explains why you should avoid owning Nike stock despite massive pullback",
@@ -116,34 +144,6 @@
       "source": "Investing.com",
       "label": "bullish",
       "score": 0.8426,
-      "currencies": []
-    },
-    {
-      "title": "SpaceX Nasdaq 100 weight to jump to 2.82% in quarterly rebalance -Bloomberg",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9296,
-      "currencies": []
-    },
-    {
-      "title": "US Treasury\u2019s Bessent, China\u2019s He to meet on Sunday at JPMorgan headquarters",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Brazil\u2019s Petrobras board approves joining diesel subsidy program",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6324,
-      "currencies": []
-    },
-    {
-      "title": "Trump calls for plans to form federal \u2019AI Force\u2019",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     }
   ],
