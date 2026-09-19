@@ -11,10 +11,10 @@
       ]
     },
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - reuters.com",
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8017,
+      "score": 0.8977,
       "currencies": []
     },
     {
@@ -25,10 +25,17 @@
       "currencies": []
     },
     {
-      "title": "Turkey Detains 175 in Alleged $266m Forex and Crypto Fraud Network - Cryptonews.net",
+      "title": "Turkey Detains 175 in Alleged $266m Forex and Crypto Fraud Network - cryptonews.net",
       "source": "Google News",
       "label": "bearish",
       "score": -0.5769,
+      "currencies": []
+    },
+    {
+      "title": "exchange rate - Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -46,7 +53,7 @@
       "currencies": []
     },
     {
-      "title": "Olympus Capital Set to Shine at Forex Expo Dubai 2026: The Big Stage Awaits - Yahoo Finance",
+      "title": "Olympus Capital Set to Shine at Forex Expo Dubai 2026: The Big Stage Awaits - finance.yahoo.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -67,55 +74,19 @@
       "currencies": []
     },
     {
-      "title": "Beware of intervention: USDJPY retraces earlier gains, but is stalling at a key retracement target. - investingLive",
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.7938,
-      "currencies": []
-    },
-    {
-      "title": "Dollar higher as oil lifts yields and Fed hike looms - reuters.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "USD/JPY weekly forecast: Suspected rate check revives intervention threat - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.6676,
       "currencies": [
-        "USD",
-        "JPY"
+        "USD"
       ]
     },
     {
-      "title": "Trump says he is banning media outlets CNN, MS NOW, Politico from White House",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Flames, smoke seen near Riyadh airport after Saudi warning of aerial attack threat",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "French draft budget caps spending growth to satisfy EU despite rising debt burden",
-      "source": "Investing.com",
+      "title": "Dollar higher as oil lifts yields and Fed hike looms - Reuters",
+      "source": "Google News",
       "label": "bullish",
-      "score": 0.9351,
-      "currencies": []
-    },
-    {
-      "title": "Porsche could face another 4,000 job cuts, Handelsblatt reports",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9672,
+      "score": 0.7946,
       "currencies": []
     },
     {
@@ -126,24 +97,52 @@
       "currencies": []
     },
     {
-      "title": "GeoPark delivers 67% return after InvestingPro Fair Value call",
+      "title": "Hormuz oil flows hit 6-month high as U.S. mine clearance pays off, CENTCOM says",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7618,
+      "score": 0.9436,
       "currencies": []
     },
     {
-      "title": "InvestingPro Fair Value predicted Sterling Infrastructure 40% decline",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6237,
-      "currencies": []
-    },
-    {
-      "title": "Ten days that changed the course of AI",
+      "title": "Flames, smoke seen near Riyadh airport after Saudi warning of aerial attack threat",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why the Fed hiked into a supply shock?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6146,
+      "currencies": []
+    },
+    {
+      "title": "Ares Management weighs minority deal with Copenhagen Infrastructure Partners",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.544,
+      "currencies": []
+    },
+    {
+      "title": "French finance ministry expects record debt in 2026, reaching nearly 120% of GDP",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8916,
+      "currencies": []
+    },
+    {
+      "title": "US fashion council CEO Kolb resigns after clash with runway show protesters",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9249,
+      "currencies": []
+    },
+    {
+      "title": "EU presses global allies to plug Ukraine\u2019s $27 bln funding gap",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.81,
       "currencies": []
     }
   ],
