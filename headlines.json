@@ -11,10 +11,10 @@
       ]
     },
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - reuters.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8977,
+      "score": 0.8017,
       "currencies": []
     },
     {
@@ -32,31 +32,10 @@
       "currencies": []
     },
     {
-      "title": "exchange rate - Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Carry traders eye franc and krona as yen\u2019s funding appeal ebbs - The Japan Times",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "New Forex Services at Vizag Airport Make International Travel Easier for Passengers - IndianEagle",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7066,
-      "currencies": []
-    },
-    {
-      "title": "Beware of intervention: USDJPY retraces earlier gains, but is stalling at a key retracement target. - investingLive",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7938,
       "currencies": []
     },
     {
@@ -81,63 +60,87 @@
       "currencies": []
     },
     {
-      "title": "Iran says it has enough foreign currency despite US sanctions - Reuters",
+      "title": "Inside the $9.5 Trillion Forex Market: Tag Markets on How Technology Is Changing Access - GeekWire",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Ten days that changed the course of AI",
+      "title": "Beware of intervention: USDJPY retraces earlier gains, but is stalling at a key retracement target. - investingLive",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7938,
+      "currencies": []
+    },
+    {
+      "title": "Dollar higher as oil lifts yields and Fed hike looms - reuters.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "USD/JPY weekly forecast: Suspected rate check revives intervention threat - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "Trump says he is banning media outlets CNN, MS NOW, Politico from White House",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Europe\u2019s winter power prices jump as gas supply concerns grow - Bloomberg",
+      "title": "Flames, smoke seen near Riyadh airport after Saudi warning of aerial attack threat",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8421,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Launch Vector Portfolio Company Surpasses $1 Million in Profit Within 4.5 Months of Acquisition aur Satya",
+      "title": "French draft budget caps spending growth to satisfy EU despite rising debt burden",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9175,
+      "score": 0.9351,
       "currencies": []
     },
     {
-      "title": "Anduril says Trump\u2019s Taiwan arms sales delay is hurting its business",
+      "title": "Porsche could face another 4,000 job cuts, Handelsblatt reports",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9712,
+      "score": -0.9672,
       "currencies": []
     },
     {
-      "title": "Xos director Dietmar Ostermann sells $12,747 in company stock",
+      "title": "Canada optimistic about concluding trade talks with India by year-end, minister says",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.6384,
       "currencies": []
     },
     {
-      "title": "How AI concerns moved to the center of the midterm debate",
+      "title": "GeoPark delivers 67% return after InvestingPro Fair Value call",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.7618,
       "currencies": []
     },
     {
-      "title": "DLH Holdings director Mink Brook Asset Management buys $2,047 in stock",
+      "title": "InvestingPro Fair Value predicted Sterling Infrastructure 40% decline",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.6237,
       "currencies": []
     },
     {
-      "title": "Harmony Biosciences CMO sells $1.65m in shares",
+      "title": "Ten days that changed the course of AI",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
