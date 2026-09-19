@@ -25,6 +25,13 @@
       "currencies": []
     },
     {
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "New Forex Services at Vizag Airport Make International Travel Easier for Passengers - IndianEagle",
       "source": "Google News",
       "label": "bullish",
@@ -39,6 +46,13 @@
       "currencies": []
     },
     {
+      "title": "exchange rate - Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Carry traders eye franc and krona as yen\u2019s funding appeal ebbs - The Japan Times",
       "source": "Google News",
       "label": "neutral",
@@ -46,17 +60,10 @@
       "currencies": []
     },
     {
-      "title": "Canadian dollar weakens against major currencies in the week ending September 18 - Investing.com",
+      "title": "Inside the $9.5 Trillion Forex Market: Tag Markets on How Technology Is Changing Access - GeekWire",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9682,
-      "currencies": []
-    },
-    {
-      "title": "India's Forex Reserves Dip by $4.92 Billion Amidst Fall in FCA, Gold - rediff.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9626,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -67,82 +74,73 @@
       "currencies": []
     },
     {
-      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: Japanese Yen falls despite BoJ's rate hike; Fedspeak in focus - FXStreet",
+      "title": "India's Forex Reserves Dip by $4.92 Billion Amidst Fall in FCA, Gold - Rediff",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.875,
+      "score": -0.9727,
       "currencies": []
     },
     {
-      "title": "USD/BRL: Why the Post-Fed Calm May Not Last - DailyForex",
+      "title": "Dollar higher as oil lifts yields and Fed hike looms - Reuters",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
+      "label": "bullish",
+      "score": 0.7946,
+      "currencies": []
     },
     {
-      "title": "Adobe CEO Shantanu Narayen sells $31.3m in shares",
+      "title": "PTC Therapeutics director Schmertzler sells $1.35m shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Exclusive-Paramount, states discuss CNN monitoring and film release commitment, sources say",
+      "title": "Pagaya director Tami Rosen sells $173,348 of PGY shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US Treasury\u2019s Bessent to discuss AI, trade, rare earths with China\u2019s He, source says",
+      "title": "China opens probes into four online travel booking platforms",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Williams-Sonoma EVP Jeffrey Howie sells $671,771 in WSM shares",
+      "title": "UBS now expects AI capex to reach nearly $1tn this year and around $1.4tn by 2027",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8766,
+      "currencies": []
+    },
+    {
+      "title": "VinFast earnings beat by $0.05, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9488,
+      "currencies": []
+    },
+    {
+      "title": "Atn International director Prior sells $307,729 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Synaptics SVP Lisa Bodensteiner sells $30,938 in stock",
+      "title": "US fashion council CEO Kolb resigns after clash with runway show protesters",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9249,
       "currencies": []
     },
     {
-      "title": "Revolution Medicines chief development officer sells $67,940 in stock",
+      "title": "EOS Climbs 10% In Rally",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Williams-Sonoma CEO Laura Alber sells $7.74m in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Revolution Medicines officer sells $353,449 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9387,
       "currencies": []
     }
   ],
