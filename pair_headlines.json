@@ -9,12 +9,6 @@
         "score": 0.0
       },
       {
-        "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.6676
-      },
-      {
         "title": "Singapore Dollar: Strong NODX but USD still drives USD/SGD \u2013 OCBC",
         "source": "FXStreet",
         "label": "bullish",
@@ -22,6 +16,12 @@
       }
     ],
     "EUR/USD": [
+      {
+        "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
       {
         "title": "EUR/USD remains skewed to the downside as focus shifts to Trump meeting with Gulf leaders",
         "source": "ForexLive",

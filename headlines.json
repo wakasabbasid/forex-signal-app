@@ -11,24 +11,17 @@
       ]
     },
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - reuters.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8977,
+      "score": 0.8017,
       "currencies": []
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - nerdwallet.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Turkey Detains 175 in Alleged $266m Forex and Crypto Fraud Network - cryptonews.net",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5769,
       "currencies": []
     },
     {
@@ -36,6 +29,13 @@
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Turkey Detains 175 in Alleged $266m Forex and Crypto Fraud Network - Cryptonews.net",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5769,
       "currencies": []
     },
     {
@@ -60,13 +60,6 @@
       "currencies": []
     },
     {
-      "title": "Salida man accused of defrauding investors of $2.7M in foreign currency scheme - Modesto Bee",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5814,
-      "currencies": []
-    },
-    {
       "title": "Inside the $9.5 Trillion Forex Market: Tag Markets on How Technology Is Changing Access - GeekWire",
       "source": "Google News",
       "label": "neutral",
@@ -74,75 +67,83 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
+      "title": "Salida man accused of defrauding investors of $2.7M in foreign currency scheme - Modesto Bee",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.6676,
+      "label": "bearish",
+      "score": -0.5814,
+      "currencies": []
+    },
+    {
+      "title": "Dollar higher as oil lifts yields and Fed hike looms - reuters.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
+        "EUR",
         "USD"
       ]
     },
     {
-      "title": "Dollar higher as oil lifts yields and Fed hike looms - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7946,
-      "currencies": []
-    },
-    {
-      "title": "Canada optimistic about concluding trade talks with India by year-end, minister says",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6384,
-      "currencies": []
-    },
-    {
-      "title": "Hormuz oil flows hit 6-month high as U.S. mine clearance pays off, CENTCOM says",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9436,
-      "currencies": []
-    },
-    {
-      "title": "Flames, smoke seen near Riyadh airport after Saudi warning of aerial attack threat",
+      "title": "Analyst explains why you should avoid owning Nike stock despite massive pullback",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why the Fed hiked into a supply shock?",
+      "title": "Citi expects hawkish Fed to slow non-AI economy",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6146,
+      "score": -0.6538,
       "currencies": []
     },
     {
-      "title": "Ares Management weighs minority deal with Copenhagen Infrastructure Partners",
+      "title": "Weil, Gotshal & Manges eyes merger options after rainmakers exit, Bloomberg News reports",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin tests $82,178 resistance with RSI overbought: Live levels",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.544,
+      "score": 0.8426,
       "currencies": []
     },
     {
-      "title": "French finance ministry expects record debt in 2026, reaching nearly 120% of GDP",
+      "title": "SpaceX Nasdaq 100 weight to jump to 2.82% in quarterly rebalance -Bloomberg",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8916,
+      "score": 0.9296,
       "currencies": []
     },
     {
-      "title": "US fashion council CEO Kolb resigns after clash with runway show protesters",
+      "title": "US Treasury\u2019s Bessent, China\u2019s He to meet on Sunday at JPMorgan headquarters",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9249,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "EU presses global allies to plug Ukraine\u2019s $27 bln funding gap",
+      "title": "Brazil\u2019s Petrobras board approves joining diesel subsidy program",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.81,
+      "score": 0.6324,
+      "currencies": []
+    },
+    {
+      "title": "Trump calls for plans to form federal \u2019AI Force\u2019",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
