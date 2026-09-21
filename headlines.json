@@ -1,17 +1,24 @@
 {
   "headlines": [
     {
-      "title": "exchange rate - britannica.com",
+      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why Forex Traders Are Watching the Dollar and Yen Now - DailyForex",
+      "title": "Volatile yen draws intervention watch, other currencies subdued - Forex Factory",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.6127,
+      "currencies": []
+    },
+    {
+      "title": "FOREX-Volatile yen draws intervention watch, other currencies subdued - Devdiscourse",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5488,
       "currencies": []
     },
     {
@@ -25,6 +32,13 @@
       ]
     },
     {
+      "title": "Hedge funds turn bullish on yen for first time since July 2025, CFTC data show - investingLive",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5349,
+      "currencies": []
+    },
+    {
       "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -32,10 +46,24 @@
       "currencies": []
     },
     {
-      "title": "Hedge funds turn bullish on yen for first time since July 2025, CFTC data show - investingLive",
+      "title": "Why Forex Traders Are Watching the Dollar and Yen Now - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Yen moves toward two-week low as Japanese authorities watch closely - Economies.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7409,
+      "currencies": []
+    },
+    {
+      "title": "Rupee rises 24 paise to 95.72 against U.S. dollar in early trade - The Hindu",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.5349,
+      "score": 0.8904,
       "currencies": []
     },
     {
@@ -46,104 +74,73 @@
       "currencies": []
     },
     {
-      "title": "Forex Trading App Development UAE | DFSA Ready - appinventiv.com",
+      "title": "After the Forex Deluge Comes the Challenge: A \u2018pseudo rate cut\u2019 - Moneycontrol.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Inside the $9.5 Trillion Forex Market: Tag Markets on How Technology Is Changing Access - GeekWire",
+      "title": "exchange rate - Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Turkey Detains 175 in Alleged $266m Forex and Crypto Fraud Network - Cryptonews.net",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5769,
-      "currencies": []
-    },
-    {
-      "title": "Yen Bulls Bruised by BOJ, But Intervention Could Prove Them Right - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Dollar higher as oil lifts yields and Fed hike looms - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7946,
-      "currencies": []
-    },
-    {
-      "title": "Australian Dollar Outlook: AUD/USD Retraces Ahead of Jobs, Trump\u2013Xi Summit - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
-    },
-    {
-      "title": "Oil rises after Houthi attack on Saudi capital",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.4989,
-      "currencies": []
-    },
-    {
-      "title": "UK property asking prices rise for first time since May, Rightmove says",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8636,
-      "currencies": []
-    },
-    {
-      "title": "Jefferies stays bullish on S&P 500, sees 9,000 by end-2027",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.4165,
-      "currencies": []
-    },
-    {
-      "title": "Midterm elections: What do equity markets typically do and what is priced?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "title": "Meta\u2019s Facebook, Instagram recover after brief\u00a0outage in US",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9603,
+      "score": -0.9268,
       "currencies": []
     },
     {
-      "title": "Specialised Therapeutics expands Incyte partnership to Australia",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6275,
-      "currencies": []
-    },
-    {
-      "title": "Bitcoin trapped between $78K support and $82K resistance: Live levels",
+      "title": "Sampo buys back 2.26 million shares in week 38",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Iran and US trade threats after Houthi attacks escalate regional conflict",
+      "title": "Tech lifts share markets in Asia as oil slips",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8878,
+      "currencies": []
+    },
+    {
+      "title": "Apple: JPM says iPhone 18 lead times increase in second week",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9105,
+      "currencies": []
+    },
+    {
+      "title": "China\u2019s CXMT shares rise as new DRAM platform enters mass production",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.928,
+      "currencies": []
+    },
+    {
+      "title": "Yen steadies as intervention threat persists",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.4981,
+      "currencies": []
+    },
+    {
+      "title": "US Fed, BoE step up scrutiny of bank exposure to trading firms after Jane Street loss, FT reports",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8911,
+      "score": -0.4952,
+      "currencies": []
+    },
+    {
+      "title": "Five takeaways from Germany\u2019s regional elections",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

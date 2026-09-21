@@ -9,32 +9,36 @@
         "score": 0.0
       },
       {
-        "title": "Singapore Dollar: Strong NODX but USD still drives USD/SGD \u2013 OCBC",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8581
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "Australian Dollar Outlook: AUD/USD Retraces Ahead of Jobs, Trump\u2013Xi Summit - FOREX.com",
-        "source": "Google News",
+        "title": "PBOC sets USD/ CNY reference rate for today at 6.7487 (vs. estimate at 6.6951)",
+        "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "AUD/USD Price Forecast: Bulls eye 0.7200 after 0.7100 break",
+        "title": "USD/JPY Price Forecast: Signs of stabilization above 20-day EMA back more upside",
         "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "NZD/USD": [
+        "label": "bullish",
+        "score": 0.9061
+      },
       {
-        "title": "NZD/USD Price Forecast: Kiwi reversal puts 0.5700 under pressure",
+        "title": "Gold drifts lower as Fed hike bets and geopolitics lift USD ahead of Trump-Xi summit",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.7518
+        "score": -0.7595
+      },
+      {
+        "title": "Euro stays defensive vs USD amid geopolitical risks as traders await Lagarde's speech",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8445
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Price Forecast: Declines below 1.3400 as bearish momentum persists below 100-day SMA",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9678
       }
     ]
   }
