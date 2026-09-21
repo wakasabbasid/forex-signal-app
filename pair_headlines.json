@@ -1,7 +1,21 @@
 {
   "run_id": 1,
   "pairs": {
+    "USD/CAD": [
+      {
+        "title": "USD/CAD Analysis: Is the Canadian Dollar Running Out of Support? - FOREX.com",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.6895
+      }
+    ],
     "USD/JPY": [
+      {
+        "title": "Forex inflows under RBI swap facility rise to USD 143.6 billion - Devdiscourse",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.937
+      },
       {
         "title": "USD/JPY intervention risk grows as Japan holiday leaves yen exposed in thin liquidity - investingLive",
         "source": "Google News",
@@ -9,50 +23,18 @@
         "score": -0.9027
       },
       {
-        "title": "USD/JPY outlook: Currency Pair of the Week | September 15, 2026 - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "USD/JPY intervention risk grows as Japan holiday leaves yen exposed in thin liquidity",
-        "source": "ForexLive",
+        "title": "Post Holdings stock hits 52-week low at 75.38 USD",
+        "source": "Investing.com",
         "label": "bearish",
-        "score": -0.9485
-      },
-      {
-        "title": "Gold (XAU/USD) analysis: Consolidation ahead of key talks on the Iran war at the UN General Assembly",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Japanese Yen: BoJ hike underwhelms as yields drive JPY against US Dollar \u2013 OCBC",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.6606
-      },
-      {
-        "title": "GBP/JPY Price Forecast: Momentum stabilizes, but lacks bullish conviction",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8317
+        "score": -0.9463
       }
     ],
-    "EUR/USD": [
+    "AUD/USD": [
       {
-        "title": "EUR/USD Price Forecasts: Bears remain in control with 1.1450 support eyed",
+        "title": "AUD/USD Price Forecast: Upside bias intact despite mixed momentum",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.7655
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "GBP/JPY Price Forecast: Momentum stabilizes, but lacks bullish conviction",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8317
+        "score": 0.9178
       }
     ]
   }

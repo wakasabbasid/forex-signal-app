@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -8,10 +15,41 @@
       "currencies": []
     },
     {
-      "title": "Maldives tourism sector raises concerns over new tax, forex rules - ttgasia.com",
+      "title": "RBI draws record $133 billion in forex deposits through FCNR-B window - TradingView",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "RBI forex swap window draws $143.59 bn, FCNR(B) deposits lead inflows - indianexpress.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "USD/CAD Analysis: Is the Canadian Dollar Running Out of Support? - FOREX.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.6877,
+      "score": -0.6895,
+      "currencies": [
+        "USD",
+        "CAD"
+      ]
+    },
+    {
+      "title": "BB lets offshore banking units buy, sell forex directly, conduct currency swaps - The Business Standard",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Maldives tourism sector raises concerns over new tax, forex rules - TTG Asia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8578,
       "currencies": []
     },
     {
@@ -22,11 +60,13 @@
       "currencies": []
     },
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "title": "Forex inflows under RBI swap facility rise to USD 143.6 billion - Devdiscourse",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8977,
-      "currencies": []
+      "score": 0.937,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "USD/JPY intervention risk grows as Japan holiday leaves yen exposed in thin liquidity - investingLive",
@@ -39,6 +79,13 @@
       ]
     },
     {
+      "title": "RBI's Forex Swap Window Draws Record $143.6 Billion To Shore Up Rupee - NDTV Profit",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9333,
+      "currencies": []
+    },
+    {
       "title": "Forex Today: US Dollar consolidates Fed-inspired gains - FXStreet",
       "source": "Google News",
       "label": "bullish",
@@ -46,101 +93,58 @@
       "currencies": []
     },
     {
-      "title": "Japan Week Ahead: Forex Trading in Holiday Week Seen Choppy, Cautious amid Signs MOF Ready to Intervene to Prop Up Yen - TradingView",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7055,
-      "currencies": []
-    },
-    {
-      "title": "FOREX-Volatile yen draws intervention watch, other currencies subdued - Devdiscourse",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5488,
-      "currencies": []
-    },
-    {
-      "title": "BB allows OBUs to undertake forex purchase, sale, swaps - Bangladesh Sangbad Sangstha (BSS)",
-      "source": "Google News",
+      "title": "Intel options flow analysis: 1.78M contracts traded as stock surges 11.69%",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "USD/JPY outlook: Currency Pair of the Week | September 15, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "title": "Nasdaq soars 2%, S&P up 1.5% as AI stocks rally, led by surge in Meta Platforms",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9071,
+      "currencies": []
+    },
+    {
+      "title": "Post Holdings stock hits 52-week low at 75.38 USD",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9463,
       "currencies": [
-        "USD",
-        "JPY"
+        "USD"
       ]
     },
     {
-      "title": "Why Forex Traders Are Watching the Dollar and Yen Now - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Swiss Franc Stages Comeback. Forecast as of 21.09.2026 - LiteFinance",
-      "source": "Google News",
+      "title": "Meta options market activity surges on Muse AI optimism",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.576,
+      "score": 0.8428,
       "currencies": []
     },
     {
-      "title": "Why is Anterix stock rallying today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Cantor Fitzgerald reiterates Overweight rating on eToro stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Cantor Fitzgerald reiterates Forward Industries stock rating",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Cantor Fitzgerald raises Microsoft stock price target on growth",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Houthis, Saudi-backed forces fight for control of key Yemen highlands",
+      "title": "Oil price dips below $100 on hopes of US-Iran diplomacy, partial recovery in Saudi exports",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5191,
+      "score": -0.8978,
       "currencies": []
     },
     {
-      "title": "Why is Stablecoinx stock surging today?",
+      "title": "Intel, Arm among market cap stock movers on Monday",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6102,
+      "currencies": []
+    },
+    {
+      "title": "Qatar\u2019s wealth fund and JP Morgan Asset Management to launch $20 billion partnership",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "MS NOW, CNN and Politico to sue over White House ban",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.874,
-      "currencies": []
-    },
-    {
-      "title": "Cantor Fitzgerald reiterates Satellogic stock rating on satellite deployment",
+      "title": "Paramount settles with states over Warner Bros Discovery deal",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
