@@ -1,12 +1,12 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/CAD": [
+    "EUR/USD": [
       {
-        "title": "USD/CAD Analysis: Is the Canadian Dollar Running Out of Support? - FOREX.com",
+        "title": "EUR/USD forecast: Weaker oil gives politically-hit euro mild relief - FOREX.com",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.6895
+        "score": -0.8071
       }
     ],
     "USD/JPY": [
@@ -23,10 +23,10 @@
         "score": -0.9027
       },
       {
-        "title": "Post Holdings stock hits 52-week low at 75.38 USD",
-        "source": "Investing.com",
-        "label": "bearish",
-        "score": -0.9463
+        "title": "Trump proposes USD 5 billion fund to help rebuild Gulf energy sites \u2014 WSJ",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.7499
       }
     ],
     "AUD/USD": [

@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
+      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - reuters.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -15,31 +15,17 @@
       "currencies": []
     },
     {
-      "title": "RBI draws record $133 billion in forex deposits through FCNR-B window - TradingView",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "RBI forex swap window draws $143.59 bn, FCNR(B) deposits lead inflows - indianexpress.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "USD/CAD Analysis: Is the Canadian Dollar Running Out of Support? - FOREX.com",
+      "title": "EUR/USD forecast: Weaker oil gives politically-hit euro mild relief - FOREX.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.6895,
+      "score": -0.8071,
       "currencies": [
-        "USD",
-        "CAD"
+        "EUR",
+        "USD"
       ]
     },
     {
-      "title": "BB lets offshore banking units buy, sell forex directly, conduct currency swaps - The Business Standard",
+      "title": "RBI forex swap window draws $143.59 bn, FCNR(B) deposits lead inflows - The Indian Express",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -57,6 +43,13 @@
       "source": "Google News",
       "label": "bearish",
       "score": -0.6127,
+      "currencies": []
+    },
+    {
+      "title": "BB lets offshore banking units buy, sell forex directly, conduct currency swaps - The Business Standard",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -79,6 +72,13 @@
       ]
     },
     {
+      "title": "Why Forex Traders Are Watching the Dollar and Yen Now - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "RBI's Forex Swap Window Draws Record $143.6 Billion To Shore Up Rupee - NDTV Profit",
       "source": "Google News",
       "label": "bullish",
@@ -93,58 +93,56 @@
       "currencies": []
     },
     {
-      "title": "Intel options flow analysis: 1.78M contracts traded as stock surges 11.69%",
+      "title": "Mission Produce executive chairman Stephen Barnard sells $446,177 in AVO stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Nasdaq soars 2%, S&P up 1.5% as AI stocks rally, led by surge in Meta Platforms",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9071,
-      "currencies": []
-    },
-    {
-      "title": "Post Holdings stock hits 52-week low at 75.38 USD",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9463,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Meta options market activity surges on Muse AI optimism",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8428,
-      "currencies": []
-    },
-    {
-      "title": "Oil price dips below $100 on hopes of US-Iran diplomacy, partial recovery in Saudi exports",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8978,
-      "currencies": []
-    },
-    {
-      "title": "Intel, Arm among market cap stock movers on Monday",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6102,
-      "currencies": []
-    },
-    {
-      "title": "Qatar\u2019s wealth fund and JP Morgan Asset Management to launch $20 billion partnership",
+      "title": "Iambic Therapeutics files for IPO to fund cancer drugs",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Paramount settles with states over Warner Bros Discovery deal",
+      "title": "BTIG raises Adeptus Biotechnologies price target to $34 on guidelines",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US awards $99 million for geothermal drilling, technology projects",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7218,
+      "currencies": []
+    },
+    {
+      "title": "Why is Quest Diagnostics stock sliding today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9456,
+      "currencies": []
+    },
+    {
+      "title": "Why is Labcorp stock sliding today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9225,
+      "currencies": []
+    },
+    {
+      "title": "Nvidia, QIA-backed Iambic Therapeutics files for US IPO as biotech boom rolls on",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Samsara CAO Benjamin Kirchhoff sells $31,123 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
