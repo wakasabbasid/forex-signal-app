@@ -1,7 +1,14 @@
 {
   "headlines": [
     {
-      "title": "exchange rate - Britannica",
+      "title": "exchange rate - britannica.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why Forex Traders Are Watching the Dollar and Yen Now - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -18,21 +25,21 @@
       ]
     },
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - reuters.com",
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8017,
+      "score": 0.8977,
+      "currencies": []
+    },
+    {
+      "title": "Hedge funds turn bullish on yen for first time since July 2025, CFTC data show - investingLive",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5349,
       "currencies": []
     },
     {
       "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Carry traders eye franc and krona as yen\u2019s funding appeal ebbs - The Japan Times",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -46,13 +53,6 @@
       "currencies": []
     },
     {
-      "title": "Turkey Detains 175 in Alleged $266m Forex and Crypto Fraud Network - Cryptonews.net",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5769,
-      "currencies": []
-    },
-    {
       "title": "Inside the $9.5 Trillion Forex Market: Tag Markets on How Technology Is Changing Access - GeekWire",
       "source": "Google News",
       "label": "neutral",
@@ -60,45 +60,59 @@
       "currencies": []
     },
     {
-      "title": "Salida man accused of defrauding investors of $2.7M in foreign currency scheme - Modesto Bee",
+      "title": "Turkey Detains 175 in Alleged $266m Forex and Crypto Fraud Network - Cryptonews.net",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.5814,
+      "score": -0.5769,
       "currencies": []
     },
     {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
+      "title": "Yen Bulls Bruised by BOJ, But Intervention Could Prove Them Right - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Dollar higher as oil lifts yields and Fed hike looms - reuters.com",
+      "title": "Dollar higher as oil lifts yields and Fed hike looms - Reuters",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.7946,
       "currencies": []
     },
     {
-      "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
+      "title": "Australian Dollar Outlook: AUD/USD Retraces Ahead of Jobs, Trump\u2013Xi Summit - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
-        "EUR",
+        "AUD",
         "USD"
       ]
     },
     {
-      "title": "Flames, smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital",
+      "title": "Oil rises after Houthi attack on Saudi capital",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7907,
+      "label": "bullish",
+      "score": 0.4989,
       "currencies": []
     },
     {
-      "title": "AI safety efforts will require more compute, not less: experts",
+      "title": "UK property asking prices rise for first time since May, Rightmove says",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8636,
+      "currencies": []
+    },
+    {
+      "title": "Jefferies stays bullish on S&P 500, sees 9,000 by end-2027",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.4165,
+      "currencies": []
+    },
+    {
+      "title": "Midterm elections: What do equity markets typically do and what is priced?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
@@ -112,38 +126,24 @@
       "currencies": []
     },
     {
-      "title": "Will worries about AI Doom end the AI Boom? BCA answers",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Analyst explains why you should avoid owning Nike stock despite massive pullback",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Citi expects hawkish Fed to slow non-AI economy",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6538,
-      "currencies": []
-    },
-    {
-      "title": "Weil, Gotshal & Manges eyes merger options after rainmakers exit, Bloomberg News reports",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Bitcoin tests $82,178 resistance with RSI overbought: Live levels",
+      "title": "Specialised Therapeutics expands Incyte partnership to Australia",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8426,
+      "score": 0.6275,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin trapped between $78K support and $82K resistance: Live levels",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Iran and US trade threats after Houthi attacks escalate regional conflict",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8911,
       "currencies": []
     }
   ],
