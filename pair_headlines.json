@@ -3,42 +3,56 @@
   "pairs": {
     "USD/JPY": [
       {
+        "title": "USD/JPY intervention risk grows as Japan holiday leaves yen exposed in thin liquidity - investingLive",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9027
+      },
+      {
         "title": "USD/JPY outlook: Currency Pair of the Week | September 15, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "PBOC sets USD/ CNY reference rate for today at 6.7487 (vs. estimate at 6.6951)",
+        "title": "USD/JPY intervention risk grows as Japan holiday leaves yen exposed in thin liquidity",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.9485
+      },
+      {
+        "title": "Gold (XAU/USD) analysis: Consolidation ahead of key talks on the Iran war at the UN General Assembly",
         "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "USD/JPY Price Forecast: Signs of stabilization above 20-day EMA back more upside",
+        "title": "Japanese Yen: BoJ hike underwhelms as yields drive JPY against US Dollar \u2013 OCBC",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.6606
+      },
+      {
+        "title": "GBP/JPY Price Forecast: Momentum stabilizes, but lacks bullish conviction",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.9061
-      },
+        "score": 0.8317
+      }
+    ],
+    "EUR/USD": [
       {
-        "title": "Gold drifts lower as Fed hike bets and geopolitics lift USD ahead of Trump-Xi summit",
+        "title": "EUR/USD Price Forecasts: Bears remain in control with 1.1450 support eyed",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.7595
-      },
-      {
-        "title": "Euro stays defensive vs USD amid geopolitical risks as traders await Lagarde's speech",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8445
+        "label": "bullish",
+        "score": 0.7655
       }
     ],
     "GBP/USD": [
       {
-        "title": "GBP/USD Price Forecast: Declines below 1.3400 as bearish momentum persists below 100-day SMA",
+        "title": "GBP/JPY Price Forecast: Momentum stabilizes, but lacks bullish conviction",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9678
+        "label": "bullish",
+        "score": 0.8317
       }
     ]
   }

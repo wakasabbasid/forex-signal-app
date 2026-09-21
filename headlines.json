@@ -8,6 +8,13 @@
       "currencies": []
     },
     {
+      "title": "Maldives tourism sector raises concerns over new tax, forex rules - ttgasia.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6877,
+      "currencies": []
+    },
+    {
       "title": "Volatile yen draws intervention watch, other currencies subdued - Forex Factory",
       "source": "Google News",
       "label": "bearish",
@@ -15,10 +22,48 @@
       "currencies": []
     },
     {
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8977,
+      "currencies": []
+    },
+    {
+      "title": "USD/JPY intervention risk grows as Japan holiday leaves yen exposed in thin liquidity - investingLive",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9027,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "Forex Today: US Dollar consolidates Fed-inspired gains - FXStreet",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.4216,
+      "currencies": []
+    },
+    {
+      "title": "Japan Week Ahead: Forex Trading in Holiday Week Seen Choppy, Cautious amid Signs MOF Ready to Intervene to Prop Up Yen - TradingView",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7055,
+      "currencies": []
+    },
+    {
       "title": "FOREX-Volatile yen draws intervention watch, other currencies subdued - Devdiscourse",
       "source": "Google News",
       "label": "bearish",
       "score": -0.5488,
+      "currencies": []
+    },
+    {
+      "title": "BB allows OBUs to undertake forex purchase, sale, swaps - Bangladesh Sangbad Sangstha (BSS)",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -32,20 +77,6 @@
       ]
     },
     {
-      "title": "Hedge funds turn bullish on yen for first time since July 2025, CFTC data show - investingLive",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5349,
-      "currencies": []
-    },
-    {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8977,
-      "currencies": []
-    },
-    {
       "title": "Why Forex Traders Are Watching the Dollar and Yen Now - DailyForex",
       "source": "Google News",
       "label": "neutral",
@@ -53,91 +84,63 @@
       "currencies": []
     },
     {
-      "title": "Yen moves toward two-week low as Japanese authorities watch closely - Economies.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7409,
-      "currencies": []
-    },
-    {
-      "title": "Rupee rises 24 paise to 95.72 against U.S. dollar in early trade - The Hindu",
+      "title": "Swiss Franc Stages Comeback. Forecast as of 21.09.2026 - LiteFinance",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8904,
+      "score": 0.576,
       "currencies": []
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "After the Forex Deluge Comes the Challenge: A \u2018pseudo rate cut\u2019 - Moneycontrol.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "exchange rate - Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Meta\u2019s Facebook, Instagram recover after brief\u00a0outage in US",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9268,
-      "currencies": []
-    },
-    {
-      "title": "Sampo buys back 2.26 million shares in week 38",
+      "title": "Why is Anterix stock rallying today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Tech lifts share markets in Asia as oil slips",
+      "title": "Cantor Fitzgerald reiterates Overweight rating on eToro stock",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8878,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Apple: JPM says iPhone 18 lead times increase in second week",
+      "title": "Cantor Fitzgerald reiterates Forward Industries stock rating",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9105,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "China\u2019s CXMT shares rise as new DRAM platform enters mass production",
+      "title": "Cantor Fitzgerald raises Microsoft stock price target on growth",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.928,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Yen steadies as intervention threat persists",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.4981,
-      "currencies": []
-    },
-    {
-      "title": "US Fed, BoE step up scrutiny of bank exposure to trading firms after Jane Street loss, FT reports",
+      "title": "Houthis, Saudi-backed forces fight for control of key Yemen highlands",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.4952,
+      "score": -0.5191,
       "currencies": []
     },
     {
-      "title": "Five takeaways from Germany\u2019s regional elections",
+      "title": "Why is Stablecoinx stock surging today?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "MS NOW, CNN and Politico to sue over White House ban",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.874,
+      "currencies": []
+    },
+    {
+      "title": "Cantor Fitzgerald reiterates Satellogic stock rating on satellite deployment",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
