@@ -7,6 +7,12 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.5099
+      },
+      {
+        "title": "NZD/USD Price Forecast: Upside attempts likely to be tested at 0.5800",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "USD/JPY": [
@@ -17,34 +23,10 @@
         "score": 0.937
       },
       {
-        "title": "USD/JPY intervention risk grows as Japan holiday leaves yen exposed in thin liquidity - investingLive",
-        "source": "Google News",
+        "title": "Gold drops to three-day low, eyes $4,300 as hawkish Fed and Iran risks underpin USD",
+        "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9027
-      },
-      {
-        "title": "PBOC sets USD/ CNY central rate at 6.7459 (vs. estimate at 6.6989)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.6989 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "PBOC sets USD/CNY reference rate at 6.7459 vs. 6.7487 previous",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD sticks to gains near mid-$66.00s; 23.6% Fibo. holds the key",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9407
+        "score": -0.8689
       }
     ]
   }

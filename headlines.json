@@ -8,6 +8,13 @@
       "currencies": []
     },
     {
+      "title": "Special Swaps Rake in $143.5b of Forex - TradingView",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -25,10 +32,17 @@
       ]
     },
     {
-      "title": "Forex Focus - tastylive",
+      "title": "AUDUSD Outlook: What Could Shift the Pair This Week? - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "FSS, card firms automate forex-loss refunds for canceled overseas payments in Korea - CHOSUNBIZ - Chosunbiz",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6303,
       "currencies": []
     },
     {
@@ -39,10 +53,10 @@
       "currencies": []
     },
     {
-      "title": "Maldives tourism sector raises concerns over new tax, forex rules - ttgasia.com",
+      "title": "BB lets offshore banking units buy, sell forex directly, conduct currency swaps - The Business Standard",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.6877,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -50,13 +64,6 @@
       "source": "Google News",
       "label": "bullish",
       "score": 0.8983,
-      "currencies": []
-    },
-    {
-      "title": "Volatile yen draws intervention watch, other currencies subdued - Forex Factory",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6127,
       "currencies": []
     },
     {
@@ -69,83 +76,73 @@
       ]
     },
     {
-      "title": "BB lets offshore banking units buy, sell forex directly, conduct currency swaps - The Business Standard",
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why Forex Traders Are Watching the Dollar and Yen Now - DailyForex",
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.8977,
       "currencies": []
     },
     {
-      "title": "USD/JPY intervention risk grows as Japan holiday leaves yen exposed in thin liquidity - investingLive",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9027,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
-      "title": "SK Hynix tests 200 SMA at KRW 1,960,000: Live levels",
+      "title": "Why is Smiths stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Nikkei 225 overbought at 66,837 with MFI at 100: Live levels",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Binance faces U.S. probe over potential Iran sanctions violations- Bloomberg",
+      "title": "Nicaragua\u2019s crackdown on opponents amounts to crimes against humanity, UN experts say",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8362,
+      "score": -0.494,
       "currencies": []
     },
     {
-      "title": "Paramount wins Warner Bros takeover after settling states, union lawsuits",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.4649,
-      "currencies": []
-    },
-    {
-      "title": "Better home & finance CCO Paula Tuffin sells $38,413 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is AnaptysBio stock rising afterhours today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Canada aims to cut time needed for project reviews, and address strikes",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "U.S. stock futures upbeat after AI rally, falling oil boost Wall St",
+      "title": "French victims of clerical abuse hope Pope\u2019s visit can deepen Church reform",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.713,
+      "score": 0.528,
+      "currencies": []
+    },
+    {
+      "title": "Why is M&C Saatchi stock sliding today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9326,
+      "currencies": []
+    },
+    {
+      "title": "Why is Kingfisher stock surging today?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Gold slips as firmer dollar revives Fed concerns, oil slide limits losses",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.4712,
+      "currencies": []
+    },
+    {
+      "title": "Russia strikes Ukraine industrial sites, killing four, officials say",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9161,
+      "currencies": []
+    },
+    {
+      "title": "Copper stalls 1% below ATH with double top risk rising: Live",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8222,
       "currencies": []
     }
   ],
