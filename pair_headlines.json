@@ -3,16 +3,16 @@
   "pairs": {
     "GBP/USD": [
       {
-        "title": "GBP/USD Signal 22/09: Bearish Consolidation Below 1.3406 - DailyForex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9225
-      },
-      {
         "title": "British Pound Short-term Outlook: GBP/USD Selloff Breaks June Uptrend - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "GBP/USD Signal 22/09: Bearish Consolidation Below 1.3406 - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9225
       }
     ],
     "USD/JPY": [
@@ -23,44 +23,10 @@
         "score": 0.0
       },
       {
-        "title": "Freedom Holding Corp stock hits 52-week high at 177.26 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.5321
-      },
-      {
-        "title": "British Pound sinks as USD shrugs off Hormuz reopening hopes",
+        "title": "Mexican Peso carry cushion thins as USD/MXN breaks 100-day SMA",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.8714
-      },
-      {
-        "title": "Canadian Dollar dips as Oil slump, dovish BoC outlook underpin USD",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9623
-      },
-      {
-        "title": "USD/JPY Price Forecast: Recovery stalls below key moving averages",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.5707
-      }
-    ],
-    "NZD/USD": [
-      {
-        "title": "NZD/USD: US yield advantage keeps pressure on the Kiwi - FOREX.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.5099
-      }
-    ],
-    "USD/CAD": [
-      {
-        "title": "Canadian Dollar: USD strength keeps CAD weakness in focus - Scotiabank",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.4552
+        "score": -0.9289
       }
     ]
   }

@@ -8,13 +8,6 @@
       "currencies": []
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Special Swaps Rake in $143.5b of Forex - TradingView",
       "source": "Google News",
       "label": "neutral",
@@ -22,20 +15,20 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Signal 22/09: Bearish Consolidation Below 1.3406 - DailyForex",
+      "title": "British Pound Short-term Outlook: GBP/USD Selloff Breaks June Uptrend - FOREX.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9225,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
         "GBP",
         "USD"
       ]
     },
     {
-      "title": "British Pound Short-term Outlook: GBP/USD Selloff Breaks June Uptrend - FOREX.com",
+      "title": "GBP/USD Signal 22/09: Bearish Consolidation Below 1.3406 - DailyForex",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9225,
       "currencies": [
         "GBP",
         "USD"
@@ -56,17 +49,31 @@
       "currencies": []
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - nerdwallet.com",
+      "title": "exchange rate - Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Dollar holds on hawkish Fed pricing while yen languishes despite Tokyo support - Investing.com",
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "IDFC FIRST Bank removes forex markup charges on all credit cards - propnewstime.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Oil Breaks $100, but FX Refuses to Follow the Script - Action Forex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8143,
       "currencies": []
     },
     {
@@ -86,71 +93,59 @@
       ]
     },
     {
-      "title": "NZD/USD: US yield advantage keeps pressure on the Kiwi - FOREX.com",
-      "source": "Google News",
+      "title": "Wedbush downgrades Compass Therapeutics stock rating on FDA trial concerns",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5099,
-      "currencies": [
-        "NZD",
-        "USD"
-      ]
+      "score": -0.8707,
+      "currencies": []
     },
     {
-      "title": "Freedom Holding Corp stock hits 52-week high at 177.26 USD",
+      "title": "Porch Group stock initiated with buy rating at Texas Capital",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Halozyme Therapeutics completes $1.5 billion convertible notes offering",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Financial stocks fall with AI and flattening yield curve in focus",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.934,
+      "currencies": []
+    },
+    {
+      "title": "Apollo private credit fund redemption requests ease in third quarter",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8699,
+      "currencies": []
+    },
+    {
+      "title": "Why is Worthington Industries stock up over 15% today?",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5321,
-      "currencies": [
-        "USD"
-      ]
+      "score": 0.7856,
+      "currencies": []
     },
     {
-      "title": "Earnings call transcript: Octopus Renewables posts solid H1 2026 cash flow",
+      "title": "Voyager Technologies stock falls on $350M debt offering plan",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9487,
+      "currencies": []
+    },
+    {
+      "title": "Raymond James reiterates Strong Buy on Rapport Therapeutics stock",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9429,
-      "currencies": []
-    },
-    {
-      "title": "AngloGold Ashanti rating outlook raised to positive by Moody\u2019s",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9113,
-      "currencies": []
-    },
-    {
-      "title": "Moody\u2019s cuts Mondi rating on weak paper market performance",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.966,
-      "currencies": []
-    },
-    {
-      "title": "Ex-Google safety chief warns AI could harm children more than social media did",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9136,
-      "currencies": []
-    },
-    {
-      "title": "Brazil government cuts 2026 growth forecast to 2.0%",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9378,
-      "currencies": []
-    },
-    {
-      "title": "Why is Celldex Therapeutics stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9228,
-      "currencies": []
-    },
-    {
-      "title": "Brazil cuts 2026 growth forecast to 2.0% from 2.3%",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8835,
+      "score": 0.9433,
       "currencies": []
     }
   ],
