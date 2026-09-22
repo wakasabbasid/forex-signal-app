@@ -1,32 +1,48 @@
 {
   "run_id": 1,
   "pairs": {
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Signal 22/09: Bearish Consolidation Below 1.3406 - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9225
+      },
+      {
+        "title": "EUR/GBP Price Forecast: 100-day SMA blocks recovery as momentum remains subdued",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9167
+      }
+    ],
     "NZD/USD": [
       {
         "title": "NZD/USD: US yield advantage keeps pressure on the Kiwi - FOREX.com",
         "source": "Google News",
         "label": "bearish",
         "score": -0.5099
-      },
-      {
-        "title": "NZD/USD Price Forecast: Upside attempts likely to be tested at 0.5800",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
       }
     ],
     "USD/JPY": [
       {
-        "title": "Forex inflows under RBI swap facility rise to USD 143.6 billion - Devdiscourse",
+        "title": "USD/ZAR: Why the Recent Calm May Be Misleading - DailyForex",
         "source": "Google News",
-        "label": "bullish",
-        "score": 0.937
+        "label": "neutral",
+        "score": 0.0
       },
       {
-        "title": "Gold drops to three-day low, eyes $4,300 as hawkish Fed and Iran risks underpin USD",
-        "source": "FXStreet",
+        "title": "Morning Kickstart: Oil falls as Saudi pipeline restarts; USD gives back early gains.",
+        "source": "ForexLive",
         "label": "bearish",
-        "score": -0.8689
+        "score": -0.8796
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/GBP Price Forecast: 100-day SMA blocks recovery as momentum remains subdued",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9167
       }
     ]
   }

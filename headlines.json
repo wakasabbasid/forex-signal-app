@@ -15,6 +15,16 @@
       "currencies": []
     },
     {
+      "title": "GBP/USD Signal 22/09: Bearish Consolidation Below 1.3406 - DailyForex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9225,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
       "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -32,7 +42,14 @@
       ]
     },
     {
-      "title": "AUDUSD Outlook: What Could Shift the Pair This Week? - DailyForex",
+      "title": "Forex Today: Geopolitical uncertainty keeps markets on edge - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8185,
+      "currencies": []
+    },
+    {
+      "title": "Dollar holds on hawkish Fed pricing while yen languishes despite Tokyo support - Investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -46,103 +63,89 @@
       "currencies": []
     },
     {
-      "title": "RBI forex swap window draws $143.59 bn, FCNR(B) deposits lead inflows - The Indian Express",
+      "title": "Dollar briefly hits seven-week high as oil prices fluctuate - Economies.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "BB lets offshore banking units buy, sell forex directly, conduct currency swaps - The Business Standard",
+      "title": "September 22: Cedi sells at GHS12.15 on forex market, GHS11.56 on BoG interbank - Modern Ghana",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "FOREX-Yen eases as potential for intervention eyed - Metrobank Wealth Insights",
+      "title": "Fed rate hike bets support the US dollar, but how much further can it run? - investingLive",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.8983,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Forex inflows under RBI swap facility rise to USD 143.6 billion - Devdiscourse",
+      "title": "USD/ZAR: Why the Recent Calm May Be Misleading - DailyForex",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.937,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
         "USD"
       ]
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
-      "source": "Google News",
+      "title": "Raymond James reiterates Strong Buy on Lexeo stock after acquisition",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8977,
+      "score": 0.9288,
       "currencies": []
     },
     {
-      "title": "Why is Smiths stock surging today?",
+      "title": "Cantor Fitzgerald reiterates Ideaya Biosciences stock rating",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Nicaragua\u2019s crackdown on opponents amounts to crimes against humanity, UN experts say",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.494,
-      "currencies": []
-    },
-    {
-      "title": "French victims of clerical abuse hope Pope\u2019s visit can deepen Church reform",
+      "title": "Nativo Resources reports progress on Peru gold operations",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.528,
+      "score": 0.8997,
       "currencies": []
     },
     {
-      "title": "Why is M&C Saatchi stock sliding today?",
+      "title": "Meta stock rallied 20% since Muse AI launch: Is META the best Mag 7 buy now?",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9326,
+      "label": "bullish",
+      "score": 0.6507,
       "currencies": []
     },
     {
-      "title": "Why is Kingfisher stock surging today?",
+      "title": "OneMedNet partners with Atropos Health for data access",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Gold slips as firmer dollar revives Fed concerns, oil slide limits losses",
+      "title": "Itron partners with Crytica to enhance grid cybersecurity",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.4712,
+      "score": 0.8084,
       "currencies": []
     },
     {
-      "title": "Russia strikes Ukraine industrial sites, killing four, officials say",
+      "title": "BMW chief supports pricing deals over tariffs on Chinese cars",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9161,
+      "label": "bullish",
+      "score": 0.5409,
       "currencies": []
     },
     {
-      "title": "Copper stalls 1% below ATH with double top risk rising: Live",
+      "title": "Cantor Fitzgerald reiterates FormFactor stock rating on demand outlook",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8222,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
