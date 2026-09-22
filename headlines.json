@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - reuters.com",
+      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -15,14 +15,21 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD forecast: Weaker oil gives politically-hit euro mild relief - FOREX.com",
+      "title": "NZD/USD: US yield advantage keeps pressure on the Kiwi - FOREX.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.8071,
+      "score": -0.5099,
       "currencies": [
-        "EUR",
+        "NZD",
         "USD"
       ]
+    },
+    {
+      "title": "Forex Focus - tastylive",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "RBI forex swap window draws $143.59 bn, FCNR(B) deposits lead inflows - The Indian Express",
@@ -32,10 +39,17 @@
       "currencies": []
     },
     {
-      "title": "Maldives tourism sector raises concerns over new tax, forex rules - TTG Asia",
+      "title": "Maldives tourism sector raises concerns over new tax, forex rules - ttgasia.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.8578,
+      "score": -0.6877,
+      "currencies": []
+    },
+    {
+      "title": "FOREX-Yen eases as potential for intervention eyed - Metrobank Wealth Insights",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8983,
       "currencies": []
     },
     {
@@ -43,13 +57,6 @@
       "source": "Google News",
       "label": "bearish",
       "score": -0.6127,
-      "currencies": []
-    },
-    {
-      "title": "BB lets offshore banking units buy, sell forex directly, conduct currency swaps - The Business Standard",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -62,6 +69,20 @@
       ]
     },
     {
+      "title": "BB lets offshore banking units buy, sell forex directly, conduct currency swaps - The Business Standard",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why Forex Traders Are Watching the Dollar and Yen Now - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "USD/JPY intervention risk grows as Japan holiday leaves yen exposed in thin liquidity - investingLive",
       "source": "Google News",
       "label": "bearish",
@@ -72,80 +93,59 @@
       ]
     },
     {
-      "title": "Why Forex Traders Are Watching the Dollar and Yen Now - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "RBI's Forex Swap Window Draws Record $143.6 Billion To Shore Up Rupee - NDTV Profit",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9333,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: US Dollar consolidates Fed-inspired gains - FXStreet",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.4216,
-      "currencies": []
-    },
-    {
-      "title": "Mission Produce executive chairman Stephen Barnard sells $446,177 in AVO stock",
+      "title": "SK Hynix tests 200 SMA at KRW 1,960,000: Live levels",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Iambic Therapeutics files for IPO to fund cancer drugs",
+      "title": "Nikkei 225 overbought at 66,837 with MFI at 100: Live levels",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "BTIG raises Adeptus Biotechnologies price target to $34 on guidelines",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US awards $99 million for geothermal drilling, technology projects",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7218,
-      "currencies": []
-    },
-    {
-      "title": "Why is Quest Diagnostics stock sliding today?",
+      "title": "Binance faces U.S. probe over potential Iran sanctions violations- Bloomberg",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9456,
+      "score": -0.8362,
       "currencies": []
     },
     {
-      "title": "Why is Labcorp stock sliding today?",
+      "title": "Paramount wins Warner Bros takeover after settling states, union lawsuits",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9225,
+      "score": -0.4649,
       "currencies": []
     },
     {
-      "title": "Nvidia, QIA-backed Iambic Therapeutics files for US IPO as biotech boom rolls on",
+      "title": "Better home & finance CCO Paula Tuffin sells $38,413 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Samsara CAO Benjamin Kirchhoff sells $31,123 in stock",
+      "title": "Why is AnaptysBio stock rising afterhours today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Canada aims to cut time needed for project reviews, and address strikes",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "U.S. stock futures upbeat after AI rally, falling oil boost Wall St",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.713,
       "currencies": []
     }
   ],

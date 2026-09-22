@@ -1,12 +1,12 @@
 {
   "run_id": 1,
   "pairs": {
-    "EUR/USD": [
+    "NZD/USD": [
       {
-        "title": "EUR/USD forecast: Weaker oil gives politically-hit euro mild relief - FOREX.com",
+        "title": "NZD/USD: US yield advantage keeps pressure on the Kiwi - FOREX.com",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.8071
+        "score": -0.5099
       }
     ],
     "USD/JPY": [
@@ -23,18 +23,28 @@
         "score": -0.9027
       },
       {
-        "title": "Trump proposes USD 5 billion fund to help rebuild Gulf energy sites \u2014 WSJ",
+        "title": "PBOC sets USD/ CNY central rate at 6.7459 (vs. estimate at 6.6989)",
         "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.7499
-      }
-    ],
-    "AUD/USD": [
+        "label": "neutral",
+        "score": 0.0
+      },
       {
-        "title": "AUD/USD Price Forecast: Upside bias intact despite mixed momentum",
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.6989 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC sets USD/CNY reference rate at 6.7459 vs. 6.7487 previous",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD sticks to gains near mid-$66.00s; 23.6% Fibo. holds the key",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.9178
+        "score": 0.9407
       }
     ]
   }
