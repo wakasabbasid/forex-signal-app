@@ -8,6 +8,13 @@
       "currencies": []
     },
     {
+      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Special Swaps Rake in $143.5b of Forex - TradingView",
       "source": "Google News",
       "label": "neutral",
@@ -25,27 +32,34 @@
       ]
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
+      "title": "British Pound Short-term Outlook: GBP/USD Selloff Breaks June Uptrend - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
+      "title": "Hong Leong Foreign Currency Account review for Malaysian businesses - WorldFirst",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "NZD/USD: US yield advantage keeps pressure on the Kiwi - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5099,
-      "currencies": [
-        "NZD",
-        "USD"
-      ]
-    },
-    {
       "title": "Forex Today: Geopolitical uncertainty keeps markets on edge - FXStreet",
       "source": "Google News",
       "label": "bearish",
       "score": -0.8185,
+      "currencies": []
+    },
+    {
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - nerdwallet.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -56,31 +70,10 @@
       "currencies": []
     },
     {
-      "title": "FSS, card firms automate forex-loss refunds for canceled overseas payments in Korea - CHOSUNBIZ - Chosunbiz",
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.6303,
-      "currencies": []
-    },
-    {
-      "title": "Dollar briefly hits seven-week high as oil prices fluctuate - Economies.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "September 22: Cedi sells at GHS12.15 on forex market, GHS11.56 on BoG interbank - Modern Ghana",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Fed rate hike bets support the US dollar, but how much further can it run? - investingLive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.8977,
       "currencies": []
     },
     {
@@ -93,59 +86,71 @@
       ]
     },
     {
-      "title": "Raymond James reiterates Strong Buy on Lexeo stock after acquisition",
+      "title": "NZD/USD: US yield advantage keeps pressure on the Kiwi - FOREX.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5099,
+      "currencies": [
+        "NZD",
+        "USD"
+      ]
+    },
+    {
+      "title": "Freedom Holding Corp stock hits 52-week high at 177.26 USD",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9288,
-      "currencies": []
+      "score": 0.5321,
+      "currencies": [
+        "USD"
+      ]
     },
     {
-      "title": "Cantor Fitzgerald reiterates Ideaya Biosciences stock rating",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Nativo Resources reports progress on Peru gold operations",
+      "title": "Earnings call transcript: Octopus Renewables posts solid H1 2026 cash flow",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8997,
+      "score": 0.9429,
       "currencies": []
     },
     {
-      "title": "Meta stock rallied 20% since Muse AI launch: Is META the best Mag 7 buy now?",
+      "title": "AngloGold Ashanti rating outlook raised to positive by Moody\u2019s",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6507,
+      "score": 0.9113,
       "currencies": []
     },
     {
-      "title": "OneMedNet partners with Atropos Health for data access",
+      "title": "Moody\u2019s cuts Mondi rating on weak paper market performance",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.966,
       "currencies": []
     },
     {
-      "title": "Itron partners with Crytica to enhance grid cybersecurity",
+      "title": "Ex-Google safety chief warns AI could harm children more than social media did",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8084,
+      "label": "bearish",
+      "score": -0.9136,
       "currencies": []
     },
     {
-      "title": "BMW chief supports pricing deals over tariffs on Chinese cars",
+      "title": "Brazil government cuts 2026 growth forecast to 2.0%",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5409,
+      "label": "bearish",
+      "score": -0.9378,
       "currencies": []
     },
     {
-      "title": "Cantor Fitzgerald reiterates FormFactor stock rating on demand outlook",
+      "title": "Why is Celldex Therapeutics stock sliding today?",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9228,
+      "currencies": []
+    },
+    {
+      "title": "Brazil cuts 2026 growth forecast to 2.0% from 2.3%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8835,
       "currencies": []
     }
   ],
