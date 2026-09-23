@@ -8,6 +8,13 @@
       "currencies": []
     },
     {
+      "title": "BB lets offshore banking units buy, sell forex directly, conduct currency swaps - The Business Standard",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Special Swaps Rake in $143.5b of Forex - TradingView",
       "source": "Google News",
       "label": "neutral",
@@ -35,7 +42,14 @@
       ]
     },
     {
-      "title": "Hong Leong Foreign Currency Account review for Malaysian businesses - WorldFirst",
+      "title": "Hong Leong Foreign Currency Account review for Malaysian businesses - worldfirst.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "exchange rate - Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -49,31 +63,10 @@
       "currencies": []
     },
     {
-      "title": "exchange rate - Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "IDFC FIRST Bank removes forex markup charges on all credit cards - propnewstime.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Oil Breaks $100, but FX Refuses to Follow the Script - Action Forex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8143,
       "currencies": []
     },
     {
@@ -93,59 +86,73 @@
       ]
     },
     {
-      "title": "Wedbush downgrades Compass Therapeutics stock rating on FDA trial concerns",
-      "source": "Investing.com",
+      "title": "USD/JPY and USD/CHF Could Diverge as CHF/JPY Approaches Resistance - FOREX.com",
+      "source": "Google News",
       "label": "bearish",
-      "score": -0.8707,
+      "score": -0.5294,
+      "currencies": [
+        "USD",
+        "JPY",
+        "USD",
+        "CHF",
+        "CHF",
+        "JPY"
+      ]
+    },
+    {
+      "title": "KMD Brands FY26 slides: turnaround gains traction despite impairment",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9498,
       "currencies": []
     },
     {
-      "title": "Porch Group stock initiated with buy rating at Texas Capital",
+      "title": "Qualcomm at Snapdragon Summit 2026: pushing into the agentic age",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Halozyme Therapeutics completes $1.5 billion convertible notes offering",
+      "title": "ZipRecruiter CEO Ian Siegel sells $201,726 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Financial stocks fall with AI and flattening yield curve in focus",
+      "title": "Snowflake director Frank Slootman sells $100.3 million in stock",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.934,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Apollo private credit fund redemption requests ease in third quarter",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8699,
-      "currencies": []
-    },
-    {
-      "title": "Why is Worthington Industries stock up over 15% today?",
+      "title": "Earnings call transcript: KMD Brands posts stronger FY 2026, shares slip",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7856,
+      "score": 0.943,
       "currencies": []
     },
     {
-      "title": "Voyager Technologies stock falls on $350M debt offering plan",
+      "title": "Clean Air Metals closes C$6.2 million private placement",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9487,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Raymond James reiterates Strong Buy on Rapport Therapeutics stock",
+      "title": "Activist Jana Partners calls for Six Flags sale- WSJ",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9433,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Gold.com director Benjamin sells $1.74m in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
