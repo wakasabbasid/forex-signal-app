@@ -15,26 +15,58 @@
         "score": -0.9225
       }
     ],
+    "EUR/USD": [
+      {
+        "title": "EUR/USD Is Losing Ground, but the Bigger Question Is Ahead - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.8104
+      },
+      {
+        "title": "EUR/USD Price Forecast: Hits fresh low since July 29, around 1.1425 as USD stays firm",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9615
+      }
+    ],
     "USD/JPY": [
       {
-        "title": "USD/ZAR: Why the Recent Calm May Be Misleading - DailyForex",
-        "source": "Google News",
+        "title": "USD/JPY holds above 157 despite BOJ rate hike; intervention risk refuses to disappear",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.849
+      },
+      {
+        "title": "PBOC sets USD/ CNY mid-point today at 6.7468 (vs. estimate at 6.6971)",
+        "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "USD/JPY and USD/CHF Could Diverge as CHF/JPY Approaches Resistance - FOREX.com",
-        "source": "Google News",
+        "title": "Gold sticks to losses below $4,350 as USD buying remains unabated amid hawkish Fed",
+        "source": "FXStreet",
         "label": "bearish",
-        "score": -0.5294
+        "score": -0.8776
+      },
+      {
+        "title": "AUD/JPY Price Forecast: Holds losses below 112.00, retaining bearish outlook beneath 100-day SMA",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.933
+      },
+      {
+        "title": "USD/IDR Price Forecast: Falls toward moving averages near 17,800 ahead of BI decision",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9637
       }
     ],
-    "USD/CHF": [
+    "AUD/USD": [
       {
-        "title": "USD/JPY and USD/CHF Could Diverge as CHF/JPY Approaches Resistance - FOREX.com",
-        "source": "Google News",
+        "title": "AUD/JPY Price Forecast: Holds losses below 112.00, retaining bearish outlook beneath 100-day SMA",
+        "source": "FXStreet",
         "label": "bearish",
-        "score": -0.5294
+        "score": -0.933
       }
     ]
   }

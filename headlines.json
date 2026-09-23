@@ -8,14 +8,14 @@
       "currencies": []
     },
     {
-      "title": "BB lets offshore banking units buy, sell forex directly, conduct currency swaps - The Business Standard",
+      "title": "Australia PMI Composite Slumps to 50.8 as Manufacturing Contracts and Job Losses Return - Action Forex",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9679,
       "currencies": []
     },
     {
-      "title": "Special Swaps Rake in $143.5b of Forex - TradingView",
+      "title": "BB lets offshore banking units buy, sell forex directly, conduct currency swaps - The Business Standard",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -32,38 +32,45 @@
       ]
     },
     {
-      "title": "GBP/USD Signal 22/09: Bearish Consolidation Below 1.3406 - DailyForex",
+      "title": "EUR/USD Is Losing Ground, but the Bigger Question Is Ahead - DailyForex",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9225,
+      "score": -0.8104,
       "currencies": [
-        "GBP",
+        "EUR",
         "USD"
       ]
     },
     {
-      "title": "Hong Leong Foreign Currency Account review for Malaysian businesses - worldfirst.com",
+      "title": "Special Swaps Rake in $143.5b of Forex - TradingView",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "exchange rate - Britannica",
+      "title": "Rupee rises 5 paise to 95.57 against U.S. dollar in early trade - The Hindu",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: Geopolitical uncertainty keeps markets on edge - FXStreet",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8185,
+      "label": "bullish",
+      "score": 0.8953,
       "currencies": []
     },
     {
       "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Hong Leong Foreign Currency Account review for Malaysian businesses - WorldFirst",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "What Is the Foreign Exchange Market: A Guide - britannica.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -77,79 +84,66 @@
       "currencies": []
     },
     {
-      "title": "USD/ZAR: Why the Recent Calm May Be Misleading - DailyForex",
+      "title": "GBP/USD Signal 22/09: Bearish Consolidation Below 1.3406 - DailyForex",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9225,
       "currencies": [
+        "GBP",
         "USD"
       ]
     },
     {
-      "title": "USD/JPY and USD/CHF Could Diverge as CHF/JPY Approaches Resistance - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5294,
-      "currencies": [
-        "USD",
-        "JPY",
-        "USD",
-        "CHF",
-        "CHF",
-        "JPY"
-      ]
+      "title": "Exclusive-GM CEO Mary Barra to attend Trump\u2019s state dinner for Xi, sources say",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
-      "title": "KMD Brands FY26 slides: turnaround gains traction despite impairment",
+      "title": "Singapore CPI rises as expected in August, core inflation hits 2-yr high",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9498,
+      "score": 0.8328,
       "currencies": []
     },
     {
-      "title": "Qualcomm at Snapdragon Summit 2026: pushing into the agentic age",
+      "title": "Royal Caribbean to buy 50% stake in Sandals Resorts for $3 bln",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "ZipRecruiter CEO Ian Siegel sells $201,726 in shares",
+      "title": "Veracyte global chief commercial off. John Leite sells $160,600 stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Snowflake director Frank Slootman sells $100.3 million in stock",
+      "title": "Novo Nordisk open to direct New York listing, CEO Doustdar tells FT",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: KMD Brands posts stronger FY 2026, shares slip",
+      "title": "Royal Caribbean acquires stake in resort operator Sandals for $3 billion",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "H&M founding family builds stake as turnaround struggles to gain traction",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.943,
+      "score": 0.3989,
       "currencies": []
     },
     {
-      "title": "Clean Air Metals closes C$6.2 million private placement",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Activist Jana Partners calls for Six Flags sale- WSJ",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Gold.com director Benjamin sells $1.74m in shares",
+      "title": "China surveys Broadcom switch use in state data centers, FT reports",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
