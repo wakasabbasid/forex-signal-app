@@ -9,10 +9,10 @@
         "score": 0.0
       },
       {
-        "title": "SNB May Do Nothing Tomorrow\u2014So What Is Driving EUR/CHF and GBP/CHF Lower? - Action Forex",
+        "title": "SNB May Do Nothing Tomorrow\u2014So What Is Driving EUR/CHF and GBP/CHF Lower? - actionforex.com",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.7429
+        "score": -0.6944
       }
     ],
     "GBP/USD": [
@@ -23,34 +23,44 @@
         "score": -0.8897
       },
       {
-        "title": "SNB May Do Nothing Tomorrow\u2014So What Is Driving EUR/CHF and GBP/CHF Lower? - Action Forex",
+        "title": "SNB May Do Nothing Tomorrow\u2014So What Is Driving EUR/CHF and GBP/CHF Lower? - actionforex.com",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.7429
+        "score": -0.6944
       }
     ],
     "USD/CHF": [
       {
-        "title": "SNB May Do Nothing Tomorrow\u2014So What Is Driving EUR/CHF and GBP/CHF Lower? - Action Forex",
+        "title": "SNB May Do Nothing Tomorrow\u2014So What Is Driving EUR/CHF and GBP/CHF Lower? - actionforex.com",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.7429
-      }
-    ],
-    "USD/CAD": [
-      {
-        "title": "USD/CAD: Why the Dollar Still Has the Upper Hand - Daily Forex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "score": -0.6944
       }
     ],
     "USD/JPY": [
       {
-        "title": "Quantum Corp stock hits 52-week high at 27.82 USD",
-        "source": "Investing.com",
+        "title": "USD/JPY Bulls Continue to Push as Markets \u2018Bet Against the House\u2019 - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Silver Price Forecast: Fed hawks knock XAG/USD toward $64 support",
+        "source": "FXStreet",
         "label": "bullish",
-        "score": 0.508
+        "score": 0.4831
+      },
+      {
+        "title": "New Zealand Dollar tumbles as strong US PMI data lifts USD",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9439
+      },
+      {
+        "title": "British Pound cracks as US growth burst boosts USD",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.7775
       }
     ]
   }

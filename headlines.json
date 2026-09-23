@@ -42,30 +42,16 @@
       "currencies": []
     },
     {
-      "title": "BB lets offshore banking units buy, sell forex directly, conduct currency swaps - The Business Standard",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "SNB May Do Nothing Tomorrow\u2014So What Is Driving EUR/CHF and GBP/CHF Lower? - Action Forex",
+      "title": "SNB May Do Nothing Tomorrow\u2014So What Is Driving EUR/CHF and GBP/CHF Lower? - actionforex.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.7429,
+      "score": -0.6944,
       "currencies": [
         "EUR",
         "CHF",
         "GBP",
         "CHF"
       ]
-    },
-    {
-      "title": "September 23: Cedi sells at GHS12.20 on forex market, GHS11.58 on BoG interbank - Modern Ghana",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
     },
     {
       "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
@@ -75,10 +61,17 @@
       "currencies": []
     },
     {
-      "title": "Rupee rises 5 paise to 95.57 against U.S. dollar in early trade - The Hindu",
+      "title": "BB lets offshore banking units buy, sell forex directly, conduct currency swaps - The Business Standard",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.8953,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -89,71 +82,76 @@
       "currencies": []
     },
     {
-      "title": "USD/CAD: Why the Dollar Still Has the Upper Hand - Daily Forex",
+      "title": "USD/JPY Bulls Continue to Push as Markets \u2018Bet Against the House\u2019 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
         "USD",
-        "CAD"
+        "JPY"
       ]
     },
     {
-      "title": "Regeneron at Bernstein healthcare forum: growth engines stay in focus",
+      "title": "Why Forex Traders Are Watching the Dollar and Yen Now - Daily Forex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Okta at Oktane call 2026 investor summit: betting on agentic AI",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Nordea at Bank of America 31th Annual Financials CEO Conference: scale, digital edge",
+      "title": "Gevo at Water Tower Research Virtual Insights Conference: carbon stack lifts outlook",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Smith+Nephew launches pelvic plating system in U.S.",
+      "title": "Exclusive: National Vision CEO on traffic, ticket growth and the digital shift",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Quantum Corp stock hits 52-week high at 27.82 USD",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.508,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "US judge dismisses Michigan climate lawsuit against oil companies",
+      "title": "Florida fund sues New York Times over alleged anti-Israel bias, demands records",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8735,
+      "score": -0.8247,
       "currencies": []
     },
     {
-      "title": "Why is Hemlo Mining stock sliding today?",
+      "title": "Nasdaq 100 stalls at 31,093 supply zone: Live levels",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9376,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Euro zone bonds fall as business activity data exceeds forecasts",
+      "title": "Alphabet C tests $332 support as double top plays out: Live",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9716,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Cintas tops Q1 2026 forecasts, raises guidance",
+      "title": "Tesla tests 61.8% Fib resistance at $381: Live levels",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9403,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Dow Jones trapped below cloud in bearish regime: Live levels",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
