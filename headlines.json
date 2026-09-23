@@ -8,10 +8,39 @@
       "currencies": []
     },
     {
-      "title": "Australia PMI Composite Slumps to 50.8 as Manufacturing Contracts and Job Losses Return - Action Forex",
+      "title": "GBP/USD Signal 23/09: Bearish Below 1.3300 - DailyForex",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9679,
+      "score": -0.8745,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
+      "title": "Forex Today: US Dollar continues to gather strength ahead of PMI data - FXStreet",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9244,
+      "currencies": []
+    },
+    {
+      "title": "SNB May Do Nothing Tomorrow\u2014So What Is Driving EUR/CHF and GBP/CHF Lower? - Action Forex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7429,
+      "currencies": [
+        "EUR",
+        "CHF",
+        "GBP",
+        "CHF"
+      ]
+    },
+    {
+      "title": "Special Swaps Rake in $143.5b of Forex - TradingView",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -32,23 +61,6 @@
       ]
     },
     {
-      "title": "EUR/USD Is Losing Ground, but the Bigger Question Is Ahead - DailyForex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8104,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "Special Swaps Rake in $143.5b of Forex - TradingView",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Rupee rises 5 paise to 95.57 against U.S. dollar in early trade - The Hindu",
       "source": "Google News",
       "label": "bullish",
@@ -63,17 +75,10 @@
       "currencies": []
     },
     {
-      "title": "Hong Leong Foreign Currency Account review for Malaysian businesses - WorldFirst",
+      "title": "Yen moves lower amid negative pressures - Economies.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "What Is the Foreign Exchange Market: A Guide - britannica.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.6094,
       "currencies": []
     },
     {
@@ -84,69 +89,66 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Signal 22/09: Bearish Consolidation Below 1.3406 - DailyForex",
+      "title": "Why Forex Traders Are Watching the Dollar and Yen Now - DailyForex",
       "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Surf Air Mobility signs second OperatorOS contract with SkyDance Air",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5805,
+      "currencies": []
+    },
+    {
+      "title": "Teva at Bank of America Global Healthcare Conference: growth takes center stage",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Oppenheimer initiates Toro stock coverage with outperform rating",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "William Blair downgrades CBIZ stock rating to hold after merger go-shop ends",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9225,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
+      "score": -0.6016,
+      "currencies": []
     },
     {
-      "title": "Exclusive-GM CEO Mary Barra to attend Trump\u2019s state dinner for Xi, sources say",
+      "title": "Take-Two Interactive (TTWO) stock analysis ahead of GTA VI launch",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Singapore CPI rises as expected in August, core inflation hits 2-yr high",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8328,
-      "currencies": []
-    },
-    {
-      "title": "Royal Caribbean to buy 50% stake in Sandals Resorts for $3 bln",
+      "title": "Morning Bid: Speechifying",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Veracyte global chief commercial off. John Leite sells $160,600 stock",
+      "title": "Keysight EVP and CFO Neil Dougherty sells $681,570 in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Novo Nordisk open to direct New York listing, CEO Doustdar tells FT",
+      "title": "U.S. stock futures muted amid AI buzz, Mideast diplomacy hopes; Trump, Xi to meet",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Royal Caribbean acquires stake in resort operator Sandals for $3 billion",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "H&M founding family builds stake as turnaround struggles to gain traction",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.3989,
-      "currencies": []
-    },
-    {
-      "title": "China surveys Broadcom switch use in state data centers, FT reports",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.6066,
       "currencies": []
     }
   ],

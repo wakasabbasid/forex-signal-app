@@ -3,70 +3,52 @@
   "pairs": {
     "GBP/USD": [
       {
+        "title": "GBP/USD Signal 23/09: Bearish Below 1.3300 - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.8745
+      },
+      {
+        "title": "SNB May Do Nothing Tomorrow\u2014So What Is Driving EUR/CHF and GBP/CHF Lower? - Action Forex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.7429
+      },
+      {
         "title": "British Pound Short-term Outlook: GBP/USD Selloff Breaks June Uptrend - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "GBP/USD Signal 22/09: Bearish Consolidation Below 1.3406 - DailyForex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9225
       }
     ],
     "EUR/USD": [
       {
-        "title": "EUR/USD Is Losing Ground, but the Bigger Question Is Ahead - DailyForex",
+        "title": "SNB May Do Nothing Tomorrow\u2014So What Is Driving EUR/CHF and GBP/CHF Lower? - Action Forex",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.8104
+        "score": -0.7429
       },
       {
-        "title": "EUR/USD Price Forecast: Hits fresh low since July 29, around 1.1425 as USD stays firm",
-        "source": "FXStreet",
+        "title": "EUR/USD approaches the key 1.1400 support with Flash PMIs and US-Iran talks in focus",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.9338
+      }
+    ],
+    "USD/CHF": [
+      {
+        "title": "SNB May Do Nothing Tomorrow\u2014So What Is Driving EUR/CHF and GBP/CHF Lower? - Action Forex",
+        "source": "Google News",
         "label": "bearish",
-        "score": -0.9615
+        "score": -0.7429
       }
     ],
     "USD/JPY": [
       {
-        "title": "USD/JPY holds above 157 despite BOJ rate hike; intervention risk refuses to disappear",
-        "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.849
-      },
-      {
-        "title": "PBOC sets USD/ CNY mid-point today at 6.7468 (vs. estimate at 6.6971)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Gold sticks to losses below $4,350 as USD buying remains unabated amid hawkish Fed",
+        "title": "Gold Price Forecast: XAU/USD drifts toward $4.300 with bears gaining traction",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.8776
-      },
-      {
-        "title": "AUD/JPY Price Forecast: Holds losses below 112.00, retaining bearish outlook beneath 100-day SMA",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.933
-      },
-      {
-        "title": "USD/IDR Price Forecast: Falls toward moving averages near 17,800 ahead of BI decision",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9637
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "AUD/JPY Price Forecast: Holds losses below 112.00, retaining bearish outlook beneath 100-day SMA",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.933
+        "score": -0.6093
       }
     ]
   }
