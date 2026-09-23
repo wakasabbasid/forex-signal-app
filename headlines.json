@@ -8,10 +8,20 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Signal 23/09: Bearish Below 1.3300 - DailyForex",
+      "title": "EUR/USD, Nasdaq Price Outlook: Reversal Risks Build - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "GBP/USD Signal 23/09: Bearish Below 1.3300 - Daily Forex",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.8745,
+      "score": -0.8897,
       "currencies": [
         "GBP",
         "USD"
@@ -23,18 +33,6 @@
       "label": "bullish",
       "score": 0.9244,
       "currencies": []
-    },
-    {
-      "title": "SNB May Do Nothing Tomorrow\u2014So What Is Driving EUR/CHF and GBP/CHF Lower? - Action Forex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7429,
-      "currencies": [
-        "EUR",
-        "CHF",
-        "GBP",
-        "CHF"
-      ]
     },
     {
       "title": "Special Swaps Rake in $143.5b of Forex - TradingView",
@@ -51,20 +49,22 @@
       "currencies": []
     },
     {
-      "title": "British Pound Short-term Outlook: GBP/USD Selloff Breaks June Uptrend - FOREX.com",
+      "title": "SNB May Do Nothing Tomorrow\u2014So What Is Driving EUR/CHF and GBP/CHF Lower? - Action Forex",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.7429,
       "currencies": [
+        "EUR",
+        "CHF",
         "GBP",
-        "USD"
+        "CHF"
       ]
     },
     {
-      "title": "Rupee rises 5 paise to 95.57 against U.S. dollar in early trade - The Hindu",
+      "title": "September 23: Cedi sells at GHS12.20 on forex market, GHS11.58 on BoG interbank - Modern Ghana",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.8953,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -75,10 +75,10 @@
       "currencies": []
     },
     {
-      "title": "Yen moves lower amid negative pressures - Economies.com",
+      "title": "Rupee rises 5 paise to 95.57 against U.S. dollar in early trade - The Hindu",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.6094,
+      "label": "bullish",
+      "score": 0.8953,
       "currencies": []
     },
     {
@@ -89,66 +89,71 @@
       "currencies": []
     },
     {
-      "title": "Why Forex Traders Are Watching the Dollar and Yen Now - DailyForex",
+      "title": "USD/CAD: Why the Dollar Still Has the Upper Hand - Daily Forex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": [
+        "USD",
+        "CAD"
+      ]
+    },
+    {
+      "title": "Regeneron at Bernstein healthcare forum: growth engines stay in focus",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Surf Air Mobility signs second OperatorOS contract with SkyDance Air",
+      "title": "Nordea at Bank of America 31th Annual Financials CEO Conference: scale, digital edge",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Smith+Nephew launches pelvic plating system in U.S.",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Quantum Corp stock hits 52-week high at 27.82 USD",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5805,
-      "currencies": []
+      "score": 0.508,
+      "currencies": [
+        "USD"
+      ]
     },
     {
-      "title": "Teva at Bank of America Global Healthcare Conference: growth takes center stage",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Oppenheimer initiates Toro stock coverage with outperform rating",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "William Blair downgrades CBIZ stock rating to hold after merger go-shop ends",
+      "title": "US judge dismisses Michigan climate lawsuit against oil companies",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6016,
+      "score": -0.8735,
       "currencies": []
     },
     {
-      "title": "Take-Two Interactive (TTWO) stock analysis ahead of GTA VI launch",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Morning Bid: Speechifying",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Keysight EVP and CFO Neil Dougherty sells $681,570 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "U.S. stock futures muted amid AI buzz, Mideast diplomacy hopes; Trump, Xi to meet",
+      "title": "Why is Hemlo Mining stock sliding today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6066,
+      "score": -0.9376,
+      "currencies": []
+    },
+    {
+      "title": "Euro zone bonds fall as business activity data exceeds forecasts",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9716,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Cintas tops Q1 2026 forecasts, raises guidance",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9403,
       "currencies": []
     }
   ],

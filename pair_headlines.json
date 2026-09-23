@@ -1,38 +1,32 @@
 {
   "run_id": 1,
   "pairs": {
-    "GBP/USD": [
+    "EUR/USD": [
       {
-        "title": "GBP/USD Signal 23/09: Bearish Below 1.3300 - DailyForex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.8745
-      },
-      {
-        "title": "SNB May Do Nothing Tomorrow\u2014So What Is Driving EUR/CHF and GBP/CHF Lower? - Action Forex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.7429
-      },
-      {
-        "title": "British Pound Short-term Outlook: GBP/USD Selloff Breaks June Uptrend - FOREX.com",
+        "title": "EUR/USD, Nasdaq Price Outlook: Reversal Risks Build - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      }
-    ],
-    "EUR/USD": [
+      },
       {
         "title": "SNB May Do Nothing Tomorrow\u2014So What Is Driving EUR/CHF and GBP/CHF Lower? - Action Forex",
         "source": "Google News",
         "label": "bearish",
         "score": -0.7429
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Signal 23/09: Bearish Below 1.3300 - Daily Forex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.8897
       },
       {
-        "title": "EUR/USD approaches the key 1.1400 support with Flash PMIs and US-Iran talks in focus",
-        "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.9338
+        "title": "SNB May Do Nothing Tomorrow\u2014So What Is Driving EUR/CHF and GBP/CHF Lower? - Action Forex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.7429
       }
     ],
     "USD/CHF": [
@@ -43,12 +37,20 @@
         "score": -0.7429
       }
     ],
+    "USD/CAD": [
+      {
+        "title": "USD/CAD: Why the Dollar Still Has the Upper Hand - Daily Forex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
     "USD/JPY": [
       {
-        "title": "Gold Price Forecast: XAU/USD drifts toward $4.300 with bears gaining traction",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.6093
+        "title": "Quantum Corp stock hits 52-week high at 27.82 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.508
       }
     ]
   }
