@@ -28,10 +28,31 @@
       ]
     },
     {
-      "title": "Forex Today: US Dollar continues to gather strength ahead of PMI data - FXStreet",
+      "title": "India\u2019s New UPI Fee Could Hit Forex and Crypto Traders Differently - Cryptonews.net",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6164,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: US Dollar continues to gather strength ahead of PMI data - fxstreet.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9244,
+      "score": 0.8324,
+      "currencies": []
+    },
+    {
+      "title": "exchange rate - Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "BB allows wage remittances via exchange houses to forex accounts - daily-sun.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -42,18 +63,6 @@
       "currencies": []
     },
     {
-      "title": "SNB May Do Nothing Tomorrow\u2014So What Is Driving EUR/CHF and GBP/CHF Lower? - actionforex.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6944,
-      "currencies": [
-        "EUR",
-        "CHF",
-        "GBP",
-        "CHF"
-      ]
-    },
-    {
       "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
@@ -61,18 +70,16 @@
       "currencies": []
     },
     {
-      "title": "BB lets offshore banking units buy, sell forex directly, conduct currency swaps - The Business Standard",
+      "title": "SNB May Do Nothing Tomorrow\u2014So What Is Driving EUR/CHF and GBP/CHF Lower? - Action Forex",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
+      "label": "bearish",
+      "score": -0.7429,
+      "currencies": [
+        "EUR",
+        "CHF",
+        "GBP",
+        "CHF"
+      ]
     },
     {
       "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
@@ -82,76 +89,68 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY Bulls Continue to Push as Markets \u2018Bet Against the House\u2019 - FOREX.com",
+      "title": "USD/MXN Forecast: Peso Loses Momentum Ahead of Banxico Decision - FOREX.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9692,
       "currencies": [
-        "USD",
-        "JPY"
+        "USD"
       ]
     },
     {
-      "title": "Why Forex Traders Are Watching the Dollar and Yen Now - Daily Forex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Okta at Oktane call 2026 investor summit: betting on agentic AI",
+      "title": "Abacus global director Matthew Ganovsky sells $176k in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Gevo at Water Tower Research Virtual Insights Conference: carbon stack lifts outlook",
+      "title": "Abacus Global Management director Sean McNealy sells $175,698 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Exclusive: National Vision CEO on traffic, ticket growth and the digital shift",
+      "title": "Abacus global director Kirby sells $176k in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Florida fund sues New York Times over alleged anti-Israel bias, demands records",
+      "title": "Bristow group director Lorin Brass sells $127,266 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Trump plans grand spectacle for Xi as US says trade truce extended",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US FAA says error messages in telecommunications circuit prompted shift to backup on Sunday",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8247,
+      "score": -0.6868,
       "currencies": []
     },
     {
-      "title": "Nasdaq 100 stalls at 31,093 supply zone: Live levels",
+      "title": "AMC Entertainment prices $2 billion notes, $850 million loan",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Alphabet C tests $332 support as double top plays out: Live",
+      "title": "Australia says OpenAI agent breached government health data portal",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Tesla tests 61.8% Fib resistance at $381: Live levels",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Dow Jones trapped below cloud in bearish regime: Live levels",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9096,
       "currencies": []
     }
   ],

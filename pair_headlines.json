@@ -9,10 +9,10 @@
         "score": 0.0
       },
       {
-        "title": "SNB May Do Nothing Tomorrow\u2014So What Is Driving EUR/CHF and GBP/CHF Lower? - actionforex.com",
+        "title": "SNB May Do Nothing Tomorrow\u2014So What Is Driving EUR/CHF and GBP/CHF Lower? - Action Forex",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.6944
+        "score": -0.7429
       }
     ],
     "GBP/USD": [
@@ -23,26 +23,50 @@
         "score": -0.8897
       },
       {
-        "title": "SNB May Do Nothing Tomorrow\u2014So What Is Driving EUR/CHF and GBP/CHF Lower? - actionforex.com",
+        "title": "SNB May Do Nothing Tomorrow\u2014So What Is Driving EUR/CHF and GBP/CHF Lower? - Action Forex",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.6944
+        "score": -0.7429
+      },
+      {
+        "title": "GBP/JPY Price Forecast: Bears press 209.00 as downtrend deepens",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.407
       }
     ],
     "USD/CHF": [
       {
-        "title": "SNB May Do Nothing Tomorrow\u2014So What Is Driving EUR/CHF and GBP/CHF Lower? - actionforex.com",
+        "title": "SNB May Do Nothing Tomorrow\u2014So What Is Driving EUR/CHF and GBP/CHF Lower? - Action Forex",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.6944
+        "score": -0.7429
+      },
+      {
+        "title": "USD/CHF Price Forecast: Bulls retake control, eye 0.8300 break",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.5525
       }
     ],
     "USD/JPY": [
       {
-        "title": "USD/JPY Bulls Continue to Push as Markets \u2018Bet Against the House\u2019 - FOREX.com",
+        "title": "USD/MXN Forecast: Peso Loses Momentum Ahead of Banxico Decision - FOREX.com",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bearish",
+        "score": -0.9692
+      },
+      {
+        "title": "GBP/JPY Price Forecast: Bears press 209.00 as downtrend deepens",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.407
+      },
+      {
+        "title": "Mexican Peso selloff deepens as Fed hawks drive USD/MXN toward 17.50",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.6026
       },
       {
         "title": "Silver Price Forecast: Fed hawks knock XAG/USD toward $64 support",
@@ -51,16 +75,18 @@
         "score": 0.4831
       },
       {
-        "title": "New Zealand Dollar tumbles as strong US PMI data lifts USD",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9439
-      },
+        "title": "USD rallies after US data aided case for Federal Reserve increases",
+        "source": "Bloomberg",
+        "label": "bullish",
+        "score": 0.5843
+      }
+    ],
+    "AUD/USD": [
       {
-        "title": "British Pound cracks as US growth burst boosts USD",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.7775
+        "title": "AUD is the biggest mover vs the USD at -1.02%.  What next technically?",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }
