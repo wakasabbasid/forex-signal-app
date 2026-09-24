@@ -15,10 +15,22 @@
         "score": 0.0
       },
       {
-        "title": "USD/JPY races to three-week high above 158 as buyers eye a technical break higher - investingLive",
+        "title": "USD/JPY races to three-week high above 158 as buyers eye a technical break higher - investinglive.com",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.8679
+        "score": 0.716
+      },
+      {
+        "title": "USD/INR Faces a Tight Test Near Its Upper Range - Daily Forex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.902
+      },
+      {
+        "title": "investingLive Americas FX news wrap 24 Sept: USD and Treasury yields climb as Iran headlines lift stocks off their lows",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.7817
       }
     ]
   }

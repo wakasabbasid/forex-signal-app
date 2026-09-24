@@ -8,15 +8,6 @@
       "currencies": []
     },
     {
-      "title": "USD/BRL Holds Its Range as Dollar Strength Persists - Daily Forex",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.3725,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
       "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
       "source": "Google News",
       "label": "neutral",
@@ -31,10 +22,26 @@
       "currencies": []
     },
     {
+      "title": "USD/BRL Holds Its Range as Dollar Strength Persists - Daily Forex",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.3725,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "Dollar hits fresh 2-month peak, Swiss franc falls, Norwegian crown rises - Kitco",
       "source": "Google News",
       "label": "bullish",
       "score": 0.462,
+      "currencies": []
+    },
+    {
+      "title": "BB lets offshore banking units buy, sell forex directly, conduct currency swaps - tbsnews.net",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -55,16 +62,6 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY races to three-week high above 158 as buyers eye a technical break higher - investingLive",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8679,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
       "title": "Asian currencies mixed as dollar holds two-month high, yen stays near lows - Investing.com",
       "source": "Google News",
       "label": "bearish",
@@ -72,80 +69,85 @@
       "currencies": []
     },
     {
-      "title": "Dollar edges higher, remains near two-month high - Economies.com",
+      "title": "USD/JPY races to three-week high above 158 as buyers eye a technical break higher - investinglive.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9028,
-      "currencies": []
+      "score": 0.716,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - nerdwallet.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "September 24: Cedi sells at GHS12.20 on forex market, GHS11.60 on BoG interbank - Modern Ghana",
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Everpure options activity points to bullish positioning with long-dated upside bets",
+      "title": "USD/INR Faces a Tight Test Near Its Upper Range - Daily Forex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.902,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Bluerock Acquisition Corp. II prices $150M IPO on Nasdaq",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Isq global fund II GP, Kinetik director, sells $3.44m KNTK shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "StubHub earns Moody\u2019s upgrade to B2 as debt reduction efforts bear fruit",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9187,
+      "score": 0.9472,
       "currencies": []
     },
     {
-      "title": "Jefferies reiterates Sarepta Therapeutics stock rating on pipeline potential",
+      "title": "Drug developer City Therapeutics files for US IPO as biotech listings surge",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "White House asks OpenAI, Anthropic to hold models from British testers, Politico reports",
+      "title": "Trump-Xi summit in Washington features great fanfare but low expectations",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6832,
+      "currencies": []
+    },
+    {
+      "title": "Airbus identifies A321neo quality issue, says no safety risk",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Cullinan Therapeutics at stifel 2026 forum: autoimmune pipeline advances",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "OpenAI\u2019s former head of data centers joins Nvidia",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US energy secretary seeks refiners\u2019 help amid narrow options to curb diesel price",
+      "title": "S&P Global upgrades AZZ to \u2019BB\u2019 on rapid debt reduction and improving leverage",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6166,
+      "score": 0.952,
       "currencies": []
     },
     {
-      "title": "Oracle, Facebook lead market cap stock movers on Thursday",
+      "title": "G3 Goldfields at Precious Metals Summit Beaver Creek 2026: lean explorer eyes Guyana",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Fed officials see rates likely rising to curb high inflation",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8971,
       "currencies": []
     }
   ],
