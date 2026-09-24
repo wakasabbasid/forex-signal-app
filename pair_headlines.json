@@ -3,10 +3,10 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "USD/INR Faces a Tight Test Near Its Upper Range - Daily Forex",
+        "title": "USD/BRL Holds Its Range as Dollar Strength Persists - Daily Forex",
         "source": "Google News",
-        "label": "bearish",
-        "score": -0.902
+        "label": "bullish",
+        "score": 0.3725
       },
       {
         "title": "USD/JPY outlook: Hawkish Fed recalibration pressures the yen - FOREX.com",
@@ -19,22 +19,6 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.8679
-      }
-    ],
-    "USD/CHF": [
-      {
-        "title": "USD/CHF Price Forecast: RSI nears overbought territory as bulls remain in control",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.7049
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "Euro: Downside risks for EUR against US Dollar \u2013 Rabobank",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.5237
       }
     ]
   }

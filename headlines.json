@@ -8,6 +8,15 @@
       "currencies": []
     },
     {
+      "title": "USD/BRL Holds Its Range as Dollar Strength Persists - Daily Forex",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.3725,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
       "source": "Google News",
       "label": "neutral",
@@ -22,20 +31,11 @@
       "currencies": []
     },
     {
-      "title": "Dollar hits fresh 2-month peak, Swiss franc falls, Norwegian crown rises - kitco.com",
+      "title": "Dollar hits fresh 2-month peak, Swiss franc falls, Norwegian crown rises - Kitco",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.462,
       "currencies": []
-    },
-    {
-      "title": "USD/INR Faces a Tight Test Near Its Upper Range - Daily Forex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.902,
-      "currencies": [
-        "USD"
-      ]
     },
     {
       "title": "USD/JPY outlook: Hawkish Fed recalibration pressures the yen - FOREX.com",
@@ -65,10 +65,24 @@
       ]
     },
     {
+      "title": "Asian currencies mixed as dollar holds two-month high, yen stays near lows - Investing.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7871,
+      "currencies": []
+    },
+    {
       "title": "Dollar edges higher, remains near two-month high - Economies.com",
       "source": "Google News",
       "label": "bullish",
       "score": 0.9028,
+      "currencies": []
+    },
+    {
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - nerdwallet.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -79,73 +93,59 @@
       "currencies": []
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8977,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Pasqal posts H1 2026 revenue growth as losses widen",
+      "title": "Everpure options activity points to bullish positioning with long-dated upside bets",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9513,
+      "score": 0.9187,
       "currencies": []
     },
     {
-      "title": "Ming Yang Smart Energy plans to cancel 70 million shares",
+      "title": "Jefferies reiterates Sarepta Therapeutics stock rating on pipeline potential",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9306,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Amazon to spend $100 million on new robotics facility in Indiana - WSJ",
+      "title": "White House asks OpenAI, Anthropic to hold models from British testers, Politico reports",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Cullinan Therapeutics at stifel 2026 forum: autoimmune pipeline advances",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "OpenAI\u2019s former head of data centers joins Nvidia",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US energy secretary seeks refiners\u2019 help amid narrow options to curb diesel price",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7253,
+      "score": 0.6166,
       "currencies": []
     },
     {
-      "title": "SOS Limited reports digital assets worth $75.6 million",
+      "title": "Oracle, Facebook lead market cap stock movers on Thursday",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Paramount seeks $7.5 billion loan for Warner Bros. Discovery deal",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "SoundHound AI launches OASYS Edge for embedded voice agents",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Alaska Airlines to expand Paine Field service by 50% by 2027",
+      "title": "Fed officials see rates likely rising to curb high inflation",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9268,
-      "currencies": []
-    },
-    {
-      "title": "Aetna expands cancer treatment prior authorization bundles",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "score": 0.8971,
       "currencies": []
     }
   ],
