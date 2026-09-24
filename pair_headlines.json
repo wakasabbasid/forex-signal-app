@@ -1,34 +1,48 @@
 {
   "run_id": 1,
   "pairs": {
-    "EUR/USD": [
+    "USD/JPY": [
       {
-        "title": "EUR/USD, Nasdaq Price Outlook: Reversal Risks Build - FOREX.com",
+        "title": "USD/JPY outlook: Hawkish Fed recalibration pressures the yen - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "USD/JPY races to three-week high above 158 as buyers eye a technical break higher",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.8462
+      },
+      {
+        "title": "USD/JPY Price Forecast: Testing 200-day SMA amid strong US data, higher yields",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9488
       }
     ],
     "GBP/USD": [
       {
-        "title": "GBP/USD Signal 23/09: Bearish Below 1.3300 - Daily Forex",
+        "title": "Why GBP/USD\u2019s Decline May Have Further to Run - Daily Forex",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.8897
+        "score": -0.9018
       }
     ],
-    "USD/JPY": [
+    "USD/CAD": [
       {
-        "title": "USD/MXN Forecast: Peso Loses Momentum Ahead of Banxico Decision - FOREX.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9692
-      },
+        "title": "USD/CAD Price Forecast: Gains ground to near 1.4100, holding bullish bias above 100-day SMA",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9333
+      }
+    ],
+    "EUR/USD": [
       {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7184 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
+        "title": "Euro: Dollar strengthens against EUR after hot US PMIs \u2013 Danske Bank",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9233
       }
     ]
   }

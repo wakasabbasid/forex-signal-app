@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "BaazEX Enters the Asian Trading Market With a New Approach to Online Forex Trading. - markets.businessinsider.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
       "source": "Google News",
       "label": "neutral",
@@ -8,31 +15,24 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD, Nasdaq Price Outlook: Reversal Risks Build - FOREX.com",
+      "title": "USD/JPY outlook: Hawkish Fed recalibration pressures the yen - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
-        "EUR",
-        "USD"
+        "USD",
+        "JPY"
       ]
     },
     {
-      "title": "GBP/USD Signal 23/09: Bearish Below 1.3300 - Daily Forex",
+      "title": "Why GBP/USD\u2019s Decline May Have Further to Run - Daily Forex",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.8897,
+      "score": -0.9018,
       "currencies": [
         "GBP",
         "USD"
       ]
-    },
-    {
-      "title": "India\u2019s New UPI Fee Could Hit Forex and Crypto Traders Differently - Cryptonews.net",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6164,
-      "currencies": []
     },
     {
       "title": "exchange rate - Britannica",
@@ -49,17 +49,10 @@
       "currencies": []
     },
     {
-      "title": "BB allows wage remittances via exchange houses to forex accounts - daily-sun.com",
+      "title": "India\u2019s New UPI Fee Could Hit Forex and Crypto Traders Differently - Cryptonews.net",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: US Dollar continues to gather strength ahead of PMI data - FXStreet",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9244,
+      "label": "bearish",
+      "score": -0.6164,
       "currencies": []
     },
     {
@@ -70,6 +63,27 @@
       "currencies": []
     },
     {
+      "title": "Australian dollar extends losses to seven-week low on mixed labor market data - Economies.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9542,
+      "currencies": []
+    },
+    {
+      "title": "Rupee falls 11 paise to 95.84 against U.S. dollar in early trade - The Hindu",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9174,
+      "currencies": []
+    },
+    {
+      "title": "Dollar perched at two-month high as hot PMI fuels inflation fears, rate hike bets - The Star",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.407,
+      "currencies": []
+    },
+    {
       "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -77,75 +91,59 @@
       "currencies": []
     },
     {
-      "title": "USD/MXN Forecast: Peso Loses Momentum Ahead of Banxico Decision - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9692,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Why Forex Traders Are Watching the Dollar and Yen Now - Daily Forex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Nikkei 225 wedged at 66,027 as momentum turns bearish: Live",
+      "title": "Why is H&M stock sliding today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8497,
+      "score": -0.9346,
       "currencies": []
     },
     {
-      "title": "Circle at Autonomous 2026 Future of Commerce Symposium: arc launch gains",
+      "title": "Why is Raspberry Pi stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Meta surprises with new handheld AI device called Meta Charm",
+      "title": "Oil extends gains on little sign of progress in US-Iran talks",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5607,
+      "score": 0.8523,
       "currencies": []
     },
     {
-      "title": "Kimbell Royalty controller Blayne Rhynsburger sells $24,327 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Analysis-There\u2019s a reason Trump is the only one talking about 1% interest rates",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "SoftBank issues $11.1 billion in bonds in OpenAI financing push",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US says China trade truce extended as Trump welcomes Xi",
+      "title": "US packaged food makers could help cut diet-related deaths, study shows",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5021,
+      "score": 0.9037,
       "currencies": []
     },
     {
-      "title": "Elixirr H1 2026 slides: AI revenue surges 185%, valuation gap persists",
+      "title": "Natural Gas breaks $3.02: Live levels",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Gold tests $4,310 support as RSI nears oversold: Live levels",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6857,
+      "score": 0.4634,
+      "currencies": []
+    },
+    {
+      "title": "London Gas Oil coiled in $1,435-$1,517 range: Live levels",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Copper stuck between $6.710 support and $6.830 resistance: Live",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.55,
       "currencies": []
     }
   ],
