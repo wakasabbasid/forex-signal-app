@@ -3,46 +3,38 @@
   "pairs": {
     "USD/JPY": [
       {
+        "title": "USD/INR Faces a Tight Test Near Its Upper Range - Daily Forex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.902
+      },
+      {
         "title": "USD/JPY outlook: Hawkish Fed recalibration pressures the yen - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "USD/JPY races to three-week high above 158 as buyers eye a technical break higher",
-        "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.8462
-      },
-      {
-        "title": "USD/JPY Price Forecast: Testing 200-day SMA amid strong US data, higher yields",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9488
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "Why GBP/USD\u2019s Decline May Have Further to Run - Daily Forex",
+        "title": "USD/JPY races to three-week high above 158 as buyers eye a technical break higher - investingLive",
         "source": "Google News",
-        "label": "bearish",
-        "score": -0.9018
+        "label": "bullish",
+        "score": 0.8679
       }
     ],
-    "USD/CAD": [
+    "USD/CHF": [
       {
-        "title": "USD/CAD Price Forecast: Gains ground to near 1.4100, holding bullish bias above 100-day SMA",
+        "title": "USD/CHF Price Forecast: RSI nears overbought territory as bulls remain in control",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.9333
+        "score": 0.7049
       }
     ],
     "EUR/USD": [
       {
-        "title": "Euro: Dollar strengthens against EUR after hot US PMIs \u2013 Danske Bank",
+        "title": "Euro: Downside risks for EUR against US Dollar \u2013 Rabobank",
         "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9233
+        "label": "bearish",
+        "score": -0.5237
       }
     ]
   }

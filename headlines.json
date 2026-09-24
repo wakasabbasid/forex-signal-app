@@ -15,6 +15,29 @@
       "currencies": []
     },
     {
+      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Dollar hits fresh 2-month peak, Swiss franc falls, Norwegian crown rises - kitco.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "USD/INR Faces a Tight Test Near Its Upper Range - Daily Forex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.902,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "USD/JPY outlook: Hawkish Fed recalibration pressures the yen - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -25,34 +48,34 @@
       ]
     },
     {
-      "title": "Why GBP/USD\u2019s Decline May Have Further to Run - Daily Forex",
+      "title": "Forex Today: US Dollar stands tall as focus remains on central bank commentary - FXStreet",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9018,
+      "label": "bullish",
+      "score": 0.8938,
+      "currencies": []
+    },
+    {
+      "title": "USD/JPY races to three-week high above 158 as buyers eye a technical break higher - investingLive",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8679,
       "currencies": [
-        "GBP",
-        "USD"
+        "USD",
+        "JPY"
       ]
     },
     {
-      "title": "exchange rate - Britannica",
+      "title": "Dollar edges higher, remains near two-month high - Economies.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9028,
       "currencies": []
     },
     {
-      "title": "Special Swaps Rake in $143.5b of Forex - TradingView",
+      "title": "September 24: Cedi sells at GHS12.20 on forex market, GHS11.60 on BoG interbank - Modern Ghana",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "India\u2019s New UPI Fee Could Hit Forex and Crypto Traders Differently - Cryptonews.net",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6164,
       "currencies": []
     },
     {
@@ -63,27 +86,6 @@
       "currencies": []
     },
     {
-      "title": "Australian dollar extends losses to seven-week low on mixed labor market data - Economies.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9542,
-      "currencies": []
-    },
-    {
-      "title": "Rupee falls 11 paise to 95.84 against U.S. dollar in early trade - The Hindu",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9174,
-      "currencies": []
-    },
-    {
-      "title": "Dollar perched at two-month high as hot PMI fuels inflation fears, rate hike bets - The Star",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.407,
-      "currencies": []
-    },
-    {
       "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -91,59 +93,59 @@
       "currencies": []
     },
     {
-      "title": "Why is H&M stock sliding today?",
+      "title": "Earnings call transcript: Pasqal posts H1 2026 revenue growth as losses widen",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9513,
+      "currencies": []
+    },
+    {
+      "title": "Ming Yang Smart Energy plans to cancel 70 million shares",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9346,
+      "score": -0.9306,
       "currencies": []
     },
     {
-      "title": "Why is Raspberry Pi stock surging today?",
+      "title": "Amazon to spend $100 million on new robotics facility in Indiana - WSJ",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7253,
+      "currencies": []
+    },
+    {
+      "title": "SOS Limited reports digital assets worth $75.6 million",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Oil extends gains on little sign of progress in US-Iran talks",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8523,
-      "currencies": []
-    },
-    {
-      "title": "US packaged food makers could help cut diet-related deaths, study shows",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9037,
-      "currencies": []
-    },
-    {
-      "title": "Natural Gas breaks $3.02: Live levels",
+      "title": "Paramount seeks $7.5 billion loan for Warner Bros. Discovery deal",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Gold tests $4,310 support as RSI nears oversold: Live levels",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.4634,
-      "currencies": []
-    },
-    {
-      "title": "London Gas Oil coiled in $1,435-$1,517 range: Live levels",
+      "title": "SoundHound AI launches OASYS Edge for embedded voice agents",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Copper stuck between $6.710 support and $6.830 resistance: Live",
+      "title": "Alaska Airlines to expand Paine Field service by 50% by 2027",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.55,
+      "label": "bullish",
+      "score": 0.9268,
+      "currencies": []
+    },
+    {
+      "title": "Aetna expands cancer treatment prior authorization bundles",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
