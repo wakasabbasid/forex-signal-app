@@ -7,12 +7,6 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "SNB May Do Nothing Tomorrow\u2014So What Is Driving EUR/CHF and GBP/CHF Lower? - Action Forex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.7429
       }
     ],
     "GBP/USD": [
@@ -21,32 +15,6 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.8897
-      },
-      {
-        "title": "SNB May Do Nothing Tomorrow\u2014So What Is Driving EUR/CHF and GBP/CHF Lower? - Action Forex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.7429
-      },
-      {
-        "title": "GBP/JPY Price Forecast: Bears press 209.00 as downtrend deepens",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.407
-      }
-    ],
-    "USD/CHF": [
-      {
-        "title": "SNB May Do Nothing Tomorrow\u2014So What Is Driving EUR/CHF and GBP/CHF Lower? - Action Forex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.7429
-      },
-      {
-        "title": "USD/CHF Price Forecast: Bulls retake control, eye 0.8300 break",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.5525
       }
     ],
     "USD/JPY": [
@@ -57,33 +25,7 @@
         "score": -0.9692
       },
       {
-        "title": "GBP/JPY Price Forecast: Bears press 209.00 as downtrend deepens",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.407
-      },
-      {
-        "title": "Mexican Peso selloff deepens as Fed hawks drive USD/MXN toward 17.50",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.6026
-      },
-      {
-        "title": "Silver Price Forecast: Fed hawks knock XAG/USD toward $64 support",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.4831
-      },
-      {
-        "title": "USD rallies after US data aided case for Federal Reserve increases",
-        "source": "Bloomberg",
-        "label": "bullish",
-        "score": 0.5843
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "AUD is the biggest mover vs the USD at -1.02%.  What next technically?",
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7184 \u2013 Reuters estimate",
         "source": "ForexLive",
         "label": "neutral",
         "score": 0.0

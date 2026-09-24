@@ -35,21 +35,7 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar continues to gather strength ahead of PMI data - fxstreet.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8324,
-      "currencies": []
-    },
-    {
       "title": "exchange rate - Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "BB allows wage remittances via exchange houses to forex accounts - daily-sun.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -63,23 +49,25 @@
       "currencies": []
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "title": "BB allows wage remittances via exchange houses to forex accounts - daily-sun.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "SNB May Do Nothing Tomorrow\u2014So What Is Driving EUR/CHF and GBP/CHF Lower? - Action Forex",
+      "title": "Forex Today: US Dollar continues to gather strength ahead of PMI data - FXStreet",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.7429,
-      "currencies": [
-        "EUR",
-        "CHF",
-        "GBP",
-        "CHF"
-      ]
+      "label": "bullish",
+      "score": 0.9244,
+      "currencies": []
+    },
+    {
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
@@ -98,59 +86,66 @@
       ]
     },
     {
-      "title": "Abacus global director Matthew Ganovsky sells $176k in stock",
-      "source": "Investing.com",
+      "title": "Why Forex Traders Are Watching the Dollar and Yen Now - Daily Forex",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Abacus Global Management director Sean McNealy sells $175,698 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Abacus global director Kirby sells $176k in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Bristow group director Lorin Brass sells $127,266 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Trump plans grand spectacle for Xi as US says trade truce extended",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US FAA says error messages in telecommunications circuit prompted shift to backup on Sunday",
+      "title": "Nikkei 225 wedged at 66,027 as momentum turns bearish: Live",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6868,
+      "score": -0.8497,
       "currencies": []
     },
     {
-      "title": "AMC Entertainment prices $2 billion notes, $850 million loan",
+      "title": "Circle at Autonomous 2026 Future of Commerce Symposium: arc launch gains",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Australia says OpenAI agent breached government health data portal",
+      "title": "Meta surprises with new handheld AI device called Meta Charm",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9096,
+      "label": "bullish",
+      "score": 0.5607,
+      "currencies": []
+    },
+    {
+      "title": "Kimbell Royalty controller Blayne Rhynsburger sells $24,327 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Analysis-There\u2019s a reason Trump is the only one talking about 1% interest rates",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "SoftBank issues $11.1 billion in bonds in OpenAI financing push",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US says China trade truce extended as Trump welcomes Xi",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5021,
+      "currencies": []
+    },
+    {
+      "title": "Elixirr H1 2026 slides: AI revenue surges 185%, valuation gap persists",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6857,
       "currencies": []
     }
   ],
