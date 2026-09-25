@@ -9,28 +9,18 @@
         "score": 0.3725
       },
       {
-        "title": "USD/JPY outlook: Hawkish Fed recalibration pressures the yen - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "USD/JPY races to three-week high above 158 as buyers eye a technical break higher - investinglive.com",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.716
-      },
-      {
         "title": "USD/INR Faces a Tight Test Near Its Upper Range - Daily Forex",
         "source": "Google News",
         "label": "bearish",
         "score": -0.902
-      },
+      }
+    ],
+    "USD/CAD": [
       {
-        "title": "investingLive Americas FX news wrap 24 Sept: USD and Treasury yields climb as Iran headlines lift stocks off their lows",
-        "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.7817
+        "title": "USD/CAD and USD/MXN Q4 2026 Outlook: Will the U.S. Dollar Dominate North America Again? - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }

@@ -31,6 +31,17 @@
       ]
     },
     {
+      "title": "USD/CAD and USD/MXN Q4 2026 Outlook: Will the U.S. Dollar Dominate North America Again? - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "CAD",
+        "USD"
+      ]
+    },
+    {
       "title": "Dollar hits fresh 2-month peak, Swiss franc falls, Norwegian crown rises - Kitco",
       "source": "Google News",
       "label": "bullish",
@@ -38,21 +49,11 @@
       "currencies": []
     },
     {
-      "title": "BB lets offshore banking units buy, sell forex directly, conduct currency swaps - tbsnews.net",
+      "title": "BB lets offshore banking units buy, sell forex directly, conduct currency swaps - The Business Standard",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
-    },
-    {
-      "title": "USD/JPY outlook: Hawkish Fed recalibration pressures the yen - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
     },
     {
       "title": "Forex Today: US Dollar stands tall as focus remains on central bank commentary - FXStreet",
@@ -69,20 +70,10 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY races to three-week high above 158 as buyers eye a technical break higher - investinglive.com",
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.716,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "score": 0.8977,
       "currencies": []
     },
     {
@@ -95,28 +86,56 @@
       ]
     },
     {
-      "title": "Bluerock Acquisition Corp. II prices $150M IPO on Nasdaq",
-      "source": "Investing.com",
+      "title": "exchange rate - Britannica",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Isq global fund II GP, Kinetik director, sells $3.44m KNTK shares",
+      "title": "U.S. stock futures drift lower as soaring yields, oil prices weigh",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9538,
       "currencies": []
     },
     {
-      "title": "StubHub earns Moody\u2019s upgrade to B2 as debt reduction efforts bear fruit",
+      "title": "Chile\u2019s Escondida mine gradually resumes operations after fatal accident",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9472,
+      "score": 0.5632,
       "currencies": []
     },
     {
-      "title": "Drug developer City Therapeutics files for US IPO as biotech listings surge",
+      "title": "Oil dips after sharp gains as U.S., Iran reportedly explore Hormuz deal",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8978,
+      "currencies": []
+    },
+    {
+      "title": "Tango Therapeutics principal accounting officer sells $198k in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Korn Ferry EVP, CFO Rozek sells $278,282 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Crowdstrike CEO Kurtz sells $5.06m in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Ooma director Susan Butenhoff sells $198,225 Ooma shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
@@ -127,27 +146,6 @@
       "source": "Investing.com",
       "label": "bearish",
       "score": -0.6832,
-      "currencies": []
-    },
-    {
-      "title": "Airbus identifies A321neo quality issue, says no safety risk",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "S&P Global upgrades AZZ to \u2019BB\u2019 on rapid debt reduction and improving leverage",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.952,
-      "currencies": []
-    },
-    {
-      "title": "G3 Goldfields at Precious Metals Summit Beaver Creek 2026: lean explorer eyes Guyana",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     }
   ],
