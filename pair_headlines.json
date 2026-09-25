@@ -1,24 +1,60 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/JPY": [
-      {
-        "title": "USD/BRL Holds Its Range as Dollar Strength Persists - Daily Forex",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.3725
-      },
-      {
-        "title": "USD/INR Faces a Tight Test Near Its Upper Range - Daily Forex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.902
-      }
-    ],
     "USD/CAD": [
       {
         "title": "USD/CAD and USD/MXN Q4 2026 Outlook: Will the U.S. Dollar Dominate North America Again? - FOREX.com",
         "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "EUR/USD Price Forecast: At make or a break near 1.1350",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "USD/JPY": [
+      {
+        "title": "Katayama says Trump raised weak yen concerns with Takaichi, USD/JPY eases below 158.50",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.6063
+      },
+      {
+        "title": "Silver Price Forecasts: XAG/USD holds below $64.00 amid Fed hiking bets, higher yields",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9237
+      },
+      {
+        "title": "Gold consolidates below $4,300 as hawkish Fed, higher bond yields and bullish USD weigh",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8545
+      }
+    ],
+    "USD/CHF": [
+      {
+        "title": "Swiss Franc: Dovish SNB keeps CHF under pressure against US Dollar \u2013 ING",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9015
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "AUD/USD Price Forecast: Key trigger is RBA\u2019s policy on Tuesday",
+        "source": "FXStreet",
         "label": "neutral",
         "score": 0.0
       }

@@ -1,13 +1,6 @@
 {
   "headlines": [
     {
-      "title": "BaazEX Enters the Asian Trading Market With a New Approach to Online Forex Trading. - markets.businessinsider.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
       "source": "Google News",
       "label": "neutral",
@@ -20,15 +13,6 @@
       "label": "neutral",
       "score": 0.0,
       "currencies": []
-    },
-    {
-      "title": "USD/BRL Holds Its Range as Dollar Strength Persists - Daily Forex",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.3725,
-      "currencies": [
-        "USD"
-      ]
     },
     {
       "title": "USD/CAD and USD/MXN Q4 2026 Outlook: Will the U.S. Dollar Dominate North America Again? - FOREX.com",
@@ -49,24 +33,31 @@
       "currencies": []
     },
     {
-      "title": "BB lets offshore banking units buy, sell forex directly, conduct currency swaps - The Business Standard",
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar stands tall as focus remains on central bank commentary - FXStreet",
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.8938,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Asian currencies mixed as dollar holds two-month high, yen stays near lows - Investing.com",
+      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.7871,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Rupee rises 14 paise to 95.85 against U.S. dollar in early trade - The Hindu",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8848,
       "currencies": []
     },
     {
@@ -77,15 +68,6 @@
       "currencies": []
     },
     {
-      "title": "USD/INR Faces a Tight Test Near Its Upper Range - Daily Forex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.902,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
       "title": "exchange rate - Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -93,59 +75,76 @@
       "currencies": []
     },
     {
-      "title": "U.S. stock futures drift lower as soaring yields, oil prices weigh",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9538,
+      "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28 - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9121,
       "currencies": []
     },
     {
-      "title": "Chile\u2019s Escondida mine gradually resumes operations after fatal accident",
+      "title": "Japan stocks higher at close of trade; Nikkei 225 up 1.45%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5632,
+      "score": 0.9305,
       "currencies": []
     },
     {
-      "title": "Oil dips after sharp gains as U.S., Iran reportedly explore Hormuz deal",
+      "title": "Bitcoin pauses near $84k with focus on rate jitters, Bitget hack",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "German consumer sentiment drops more than expected as energy costs hit incomes",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8978,
+      "score": -0.9708,
       "currencies": []
     },
     {
-      "title": "Tango Therapeutics principal accounting officer sells $198k in stock",
+      "title": "Exclusive-Japan\u2019s SMBC in talks to increase stake in Vietnam\u2019s VPBank, sources say",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.798,
+      "currencies": []
+    },
+    {
+      "title": "Petkim signs contracts for petrochemical plant engineering",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5762,
+      "currencies": []
+    },
+    {
+      "title": "Genel Energy raises Capricorn bid to $436 million, tops DNO",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7656,
+      "currencies": []
+    },
+    {
+      "title": "EQT hires JPMorgan to sell Parques Reunidos stake for \u20ac1.7bn - report",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Korn Ferry EVP, CFO Rozek sells $278,282 in stock",
+      "title": "SDCL Efficiency Income Trust proposes two new board members",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Crowdstrike CEO Kurtz sells $5.06m in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Ooma director Susan Butenhoff sells $198,225 Ooma shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Trump-Xi summit in Washington features great fanfare but low expectations",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6832,
       "currencies": []
     }
   ],
