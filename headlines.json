@@ -15,6 +15,13 @@
       "currencies": []
     },
     {
+      "title": "GivTrade Highlights Competitive Trading Costs and Low Spreads as Trading Costs Take Center Stage for Regional Traders - markets.businessinsider.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "USD/CAD and USD/MXN Q4 2026 Outlook: Will the U.S. Dollar Dominate North America Again? - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -26,6 +33,13 @@
       ]
     },
     {
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Dollar hits fresh 2-month peak, Swiss franc falls, Norwegian crown rises - Kitco",
       "source": "Google News",
       "label": "bullish",
@@ -33,10 +47,10 @@
       "currencies": []
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "title": "India's forex reserves fall $14.88 billion to $765.90 billion in week ended September 18 - The Economic Times",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9635,
       "currencies": []
     },
     {
@@ -54,24 +68,10 @@
       "currencies": []
     },
     {
-      "title": "Rupee rises 14 paise to 95.85 against U.S. dollar in early trade - The Hindu",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8848,
-      "currencies": []
-    },
-    {
       "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
       "source": "Google News",
       "label": "bullish",
       "score": 0.8977,
-      "currencies": []
-    },
-    {
-      "title": "exchange rate - Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -92,56 +92,56 @@
       "currencies": []
     },
     {
-      "title": "Japan stocks higher at close of trade; Nikkei 225 up 1.45%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9305,
-      "currencies": []
-    },
-    {
-      "title": "Bitcoin pauses near $84k with focus on rate jitters, Bitget hack",
+      "title": "NetApp to acquire AI storage firm PEAK:AIO",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "German consumer sentiment drops more than expected as energy costs hit incomes",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9708,
-      "currencies": []
-    },
-    {
-      "title": "Exclusive-Japan\u2019s SMBC in talks to increase stake in Vietnam\u2019s VPBank, sources say",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.798,
-      "currencies": []
-    },
-    {
-      "title": "Petkim signs contracts for petrochemical plant engineering",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5762,
-      "currencies": []
-    },
-    {
-      "title": "Genel Energy raises Capricorn bid to $436 million, tops DNO",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7656,
-      "currencies": []
-    },
-    {
-      "title": "EQT hires JPMorgan to sell Parques Reunidos stake for \u20ac1.7bn - report",
+      "title": "Lokahi Therapeutics partners with Pepperdine for MBA program",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "SDCL Efficiency Income Trust proposes two new board members",
+      "title": "Kodiak plans driverless highway service launch by year end",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why is Evonik Industries stock surging today?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why is Atlas Energy stock surging today?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Tessera Defense signs option agreement to acquire majority stake in RT LTA Systems",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.59,
+      "currencies": []
+    },
+    {
+      "title": "Truist cuts Camden Property Trust stock price target on 2027 outlook",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Truist reiterates Avery Dennison stock Buy rating after investor event",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
