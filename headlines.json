@@ -8,7 +8,7 @@
       "currencies": []
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
+      "title": "What Is the Foreign Exchange Market: A Guide - britannica.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -19,6 +19,13 @@
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Canadian dollar holds near recent lows as stronger US dollar keeps pressure on currency - Economies.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9171,
       "currencies": []
     },
     {
@@ -40,10 +47,10 @@
       "currencies": []
     },
     {
-      "title": "Dollar hits fresh 2-month peak, Swiss franc falls, Norwegian crown rises - kitco.com",
+      "title": "Dollar hits fresh 2-month peak, Swiss franc falls, Norwegian crown rises - Kitco",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.462,
       "currencies": []
     },
     {
@@ -61,17 +68,17 @@
       "currencies": []
     },
     {
-      "title": "India's forex reserves fall $14.88 billion to $765.90 billion in week ended September 18 - economictimes.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9312,
-      "currencies": []
-    },
-    {
       "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
       "source": "Google News",
       "label": "bullish",
       "score": 0.8977,
+      "currencies": []
+    },
+    {
+      "title": "exchange rate - britannica.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -85,66 +92,59 @@
       ]
     },
     {
-      "title": "Japan to maintain close communication with US on currency markets, Katayama says - Reuters",
-      "source": "Google News",
+      "title": "Marygold Companies to be taken private by Madison Dearborn Partners in all-cash deal",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Paramount Skydance to move stock listing to NYSE from Nasdaq",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Marygold Companies to go private in all-cash deal with Madison Dearborn Partners",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Fed\u2019s Hammack worried inflation expectations could deteriorate",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9553,
+      "currencies": []
+    },
+    {
+      "title": "Marygold Companies to go private in deal with Madison Dearborn Partners",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Marygold Companies to be acquired by Madison Dearborn Partners in all-cash deal",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Mexico stocks higher at close of trade; S&P/BMV IPC up 1.13%",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6482,
+      "score": 0.9441,
       "currencies": []
     },
     {
-      "title": "Why is CVS Health stock rallying today?",
+      "title": "Bond rout in shorter-term maturities eases up, but U.S. yields end week with gains",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Oil prices drop about 3% as US, Iran explore path out of war",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9433,
-      "currencies": []
-    },
-    {
-      "title": "Microsoft, Arm among market cap stock movers on Friday",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Converse pauses social media ads, marketing after racism uproar, Bloomberg News reports",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Revvity options flow shows 156:1 call-to-put ratio ahead of Nov. 2026 expiry",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Costco stock price target lowered to $1,010 by Freedom Broker on valuation",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6528,
-      "currencies": []
-    },
-    {
-      "title": "Canopy Growth adjourns shareholder meeting due to lack of quorum",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9214,
-      "currencies": []
-    },
-    {
-      "title": "Putin says Ukraine settlement proposals remain under review",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.8135,
       "currencies": []
     }
   ],
