@@ -40,17 +40,10 @@
       "currencies": []
     },
     {
-      "title": "Dollar hits fresh 2-month peak, Swiss franc falls, Norwegian crown rises - Kitco",
+      "title": "Dollar hits fresh 2-month peak, Swiss franc falls, Norwegian crown rises - kitco.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.462,
-      "currencies": []
-    },
-    {
-      "title": "India's forex reserves fall $14.88 billion to $765.90 billion in week ended September 18 - The Economic Times",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9635,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -65,6 +58,13 @@
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "India's forex reserves fall $14.88 billion to $765.90 billion in week ended September 18 - economictimes.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9312,
       "currencies": []
     },
     {
@@ -85,63 +85,63 @@
       ]
     },
     {
-      "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28 - Reuters",
+      "title": "Japan to maintain close communication with US on currency markets, Katayama says - Reuters",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9121,
+      "score": 0.6482,
       "currencies": []
     },
     {
-      "title": "NetApp to acquire AI storage firm PEAK:AIO",
+      "title": "Why is CVS Health stock rallying today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Lokahi Therapeutics partners with Pepperdine for MBA program",
+      "title": "Oil prices drop about 3% as US, Iran explore path out of war",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9433,
+      "currencies": []
+    },
+    {
+      "title": "Microsoft, Arm among market cap stock movers on Friday",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Kodiak plans driverless highway service launch by year end",
+      "title": "Converse pauses social media ads, marketing after racism uproar, Bloomberg News reports",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is Evonik Industries stock surging today?",
+      "title": "Revvity options flow shows 156:1 call-to-put ratio ahead of Nov. 2026 expiry",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is Atlas Energy stock surging today?",
+      "title": "Costco stock price target lowered to $1,010 by Freedom Broker on valuation",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.6528,
       "currencies": []
     },
     {
-      "title": "Tessera Defense signs option agreement to acquire majority stake in RT LTA Systems",
+      "title": "Canopy Growth adjourns shareholder meeting due to lack of quorum",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.59,
+      "label": "bearish",
+      "score": -0.9214,
       "currencies": []
     },
     {
-      "title": "Truist cuts Camden Property Trust stock price target on 2027 outlook",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Truist reiterates Avery Dennison stock Buy rating after investor event",
+      "title": "Putin says Ukraine settlement proposals remain under review",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

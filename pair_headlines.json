@@ -15,40 +15,26 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "EUR/GBP Price Forecast: Bulls challenge 0.8600 resistance after weeks of consolidation",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8285
-      },
-      {
-        "title": "Euro: France spreads weigh on EUR \u2013 ING",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9264
       }
     ],
     "USD/JPY": [
       {
-        "title": "USD/JPY falls below 158.00 as Takaichi says Trump flagged weak yen pressure",
+        "title": "USD/JPY falls as US and Japanese officials say yen weakness \"a matter of concern\"",
         "source": "ForexLive",
         "label": "bearish",
-        "score": -0.9081
+        "score": -0.9164
       },
       {
-        "title": "US Dollar: Back-end yields support USD consolidation \u2013 ING",
+        "title": "Silver Price Forecast: XAG/USD lacks direction as RSI, ADX signal weak momentum",
         "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8839
-      }
-    ],
-    "GBP/USD": [
+        "label": "bearish",
+        "score": -0.9558
+      },
       {
-        "title": "EUR/GBP Price Forecast: Bulls challenge 0.8600 resistance after weeks of consolidation",
+        "title": "British Pound finds relief as USD pauses, but inflation risks linger",
         "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8285
+        "label": "bearish",
+        "score": -0.6036
       }
     ]
   }
