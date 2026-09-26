@@ -9,13 +9,15 @@
         "score": 0.0
       }
     ],
-    "USD/JPY": [
+    "EUR/USD": [
       {
-        "title": "India's forex reserves fall by USD 14.88 billion to USD 765.90 billion in week ended September 18: RBI - ChiniMandi",
+        "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
         "source": "Google News",
-        "label": "bearish",
-        "score": -0.9663
-      },
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "USD/JPY": [
       {
         "title": "USD/JPY falls as US and Japanese officials say yen weakness \"a matter of concern\"",
         "source": "ForexLive",

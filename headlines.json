@@ -33,13 +33,6 @@
       ]
     },
     {
-      "title": "Dollar hits fresh 2-month peak, Swiss franc falls, Norwegian crown rises - Kitco",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.462,
-      "currencies": []
-    },
-    {
       "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
       "source": "Google News",
       "label": "bullish",
@@ -47,31 +40,14 @@
       "currencies": []
     },
     {
-      "title": "GivTrade Highlights Competitive Trading Costs and Low Spreads as Trading Costs Take Center Stage for Regional Traders - markets.businessinsider.com",
+      "title": "Dollar hits fresh 2-month peak, Swiss franc falls, Norwegian crown rises - Kitco",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.462,
       "currencies": []
-    },
-    {
-      "title": "India's forex reserves fall by USD 14.88 billion to USD 765.90 billion in week ended September 18: RBI - ChiniMandi",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9663,
-      "currencies": [
-        "USD",
-        "USD"
-      ]
     },
     {
       "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Hong Leong Foreign Currency Account review for Malaysian businesses - WorldFirst",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -85,6 +61,13 @@
       "currencies": []
     },
     {
+      "title": "Hong Leong Foreign Currency Account review for Malaysian businesses - WorldFirst",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28 - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -92,59 +75,76 @@
       "currencies": []
     },
     {
-      "title": "EU warns of energy price crisis, urges gas demand cuts - Bloomberg",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6659,
-      "currencies": []
-    },
-    {
-      "title": "With a Super El Nino, analyst asks: What happens to LNG demand?",
-      "source": "Investing.com",
+      "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "Japan to maintain close communication with US on currency markets, Katayama says - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6482,
       "currencies": []
     },
     {
-      "title": "InvestingPro\u2019s Fair Value nailed 68% gain in Capital Bancorp stock",
+      "title": "Trump predicts Cuba and US will make a deal",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9138,
+      "score": 0.7801,
       "currencies": []
     },
     {
-      "title": "MapLight stock falls 46% as InvestingPro Fair Value flagged overvaluation",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9395,
-      "currencies": []
-    },
-    {
-      "title": "Analysis-Venezuela president returns from US visit with no deals, no firm election date",
+      "title": "Is River Cruise at long term risk from climate change?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Swiss National Bank\u2019s Schlegel watching hot weather impact on food price inflation",
+      "title": "Aramco weighs standalone gas unit with potential $100 bln valuation - Bloomberg",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.658,
+      "currencies": []
+    },
+    {
+      "title": "Trump says he spoke with Venezuela\u2019s Rodriguez about elections",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Capital Regency Announces 2026 Multi-Asset Investment Approach",
+      "title": "US jury says Apple owes record $5.7 billion in haptic technology patent case",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Ukraine says it struck Russian oil refinery as drone attacks intensify",
+      "title": "China, U.S. agree to $30 billion tariff cut, launch AI dialogue",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9278,
+      "label": "bullish",
+      "score": 0.5156,
+      "currencies": []
+    },
+    {
+      "title": "Nuveen NEA portfolio manager sells $26,572 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Gold Fields approaches Northern Star over potential takeover, Bloomberg reports",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
