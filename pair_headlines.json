@@ -1,14 +1,6 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/CAD": [
-      {
-        "title": "USD/CAD and USD/MXN Q4 2026 Outlook: Will the U.S. Dollar Dominate North America Again? - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
     "EUR/USD": [
       {
         "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",

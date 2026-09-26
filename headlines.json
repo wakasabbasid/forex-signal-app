@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
       "source": "Google News",
       "label": "neutral",
@@ -8,7 +15,7 @@
       "currencies": []
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
+      "title": "Competition for foreign currency services by Internet banks (in banks) with mobile convenience is he.. - \ub9e4\uc77c\uacbd\uc81c",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -22,13 +29,12 @@
       "currencies": []
     },
     {
-      "title": "USD/CAD and USD/MXN Q4 2026 Outlook: Will the U.S. Dollar Dominate North America Again? - FOREX.com",
+      "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
-        "USD",
-        "CAD",
+        "EUR",
         "USD"
       ]
     },
@@ -68,27 +74,17 @@
       "currencies": []
     },
     {
+      "title": "exchange rate - Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28 - Reuters",
       "source": "Google News",
       "label": "bullish",
       "score": 0.9121,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "Japan to maintain close communication with US on currency markets, Katayama says - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6482,
       "currencies": []
     },
     {
