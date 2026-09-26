@@ -15,6 +15,13 @@
       "currencies": []
     },
     {
+      "title": "Trump remarks on weak yen to Takaichi raise speculation on policy impact - Nikkei Asia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6438,
+      "currencies": []
+    },
+    {
       "title": "GivTrade Highlights Competitive Trading Costs and Low Spreads as Trading Costs Take Center Stage for Regional Traders - markets.businessinsider.com",
       "source": "Google News",
       "label": "neutral",
@@ -29,6 +36,13 @@
       "currencies": []
     },
     {
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - nerdwallet.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "USD/CAD and USD/MXN Q4 2026 Outlook: Will the U.S. Dollar Dominate North America Again? - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -38,13 +52,6 @@
         "CAD",
         "USD"
       ]
-    },
-    {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
     },
     {
       "title": "Dollar hits fresh 2-month peak, Swiss franc falls, Norwegian crown rises - Kitco",
@@ -61,7 +68,7 @@
       "currencies": []
     },
     {
-      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
+      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - cfr.org",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -82,69 +89,59 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "Marygold Companies to be taken private by Madison Dearborn Partners in all-cash deal",
+      "title": "AJB Investment Fund II, 10% owner, buys $18,523 in JCTC stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Paramount Skydance to move stock listing to NYSE from Nasdaq",
+      "title": "Sinclair VP Frederick Smith sells $16,098 in class a common stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Marygold Companies to go private in all-cash deal with Madison Dearborn Partners",
+      "title": "Morgan Stanley public finance co-head Zach Solomon leaves for TD - Bloomberg",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Fed\u2019s Hammack worried inflation expectations could deteriorate",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9553,
-      "currencies": []
-    },
-    {
-      "title": "Marygold Companies to go private in deal with Madison Dearborn Partners",
+      "title": "Trump, Xi end summit with tea, tour of US archives - and little sign of progress",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Marygold Companies to be acquired by Madison Dearborn Partners in all-cash deal",
+      "title": "Exclusive-SK Hynix\u2019s Solidigm weighs IPO that could value the\u00a0unit at up to $150 billion, sources say",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Mexico stocks higher at close of trade; S&P/BMV IPC up 1.13%",
+      "title": "TikTok reaches first state settlement over teen safety claims, agrees to user limits",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9441,
+      "score": 0.6856,
       "currencies": []
     },
     {
-      "title": "Bond rout in shorter-term maturities eases up, but U.S. yields end week with gains",
+      "title": "Berkshire Hathaway buys $136m in Lennar shares",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8135,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Nextnav COO Susan Brasse sells $33,701 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
