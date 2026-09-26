@@ -8,7 +8,7 @@
       "currencies": []
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - britannica.com",
+      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -29,14 +29,7 @@
       "currencies": []
     },
     {
-      "title": "Canadian dollar holds near recent lows as stronger US dollar keeps pressure on currency - Economies.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9171,
-      "currencies": []
-    },
-    {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - nerdwallet.com",
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -54,6 +47,13 @@
       ]
     },
     {
+      "title": "Canadian dollar holds near recent lows as stronger US dollar keeps pressure on currency - Economies.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9171,
+      "currencies": []
+    },
+    {
       "title": "Dollar hits fresh 2-month peak, Swiss franc falls, Norwegian crown rises - Kitco",
       "source": "Google News",
       "label": "bullish",
@@ -61,87 +61,87 @@
       "currencies": []
     },
     {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - cfr.org",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8977,
+      "score": 0.9371,
       "currencies": []
     },
     {
-      "title": "exchange rate - britannica.com",
+      "title": "Forex reserves fall $14.9 billion, sharpest weekly drop since Nov 2024 - Business Standard",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9733,
+      "currencies": []
+    },
+    {
+      "title": "exchange rate - Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "AJB Investment Fund II, 10% owner, buys $18,523 in JCTC stock",
+      "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28 - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9121,
+      "currencies": []
+    },
+    {
+      "title": "OpenAI agents access US government websites after tests go awry",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Sinclair VP Frederick Smith sells $16,098 in class a common stock",
+      "title": "Medpace CEO August Troendle sells $27.4m in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Morgan Stanley public finance co-head Zach Solomon leaves for TD - Bloomberg",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Trump, Xi end summit with tea, tour of US archives - and little sign of progress",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Exclusive-SK Hynix\u2019s Solidigm weighs IPO that could value the\u00a0unit at up to $150 billion, sources say",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "TikTok reaches first state settlement over teen safety claims, agrees to user limits",
+      "title": "Bitcoin holds near $84,000 as rising bond yields offset regulatory progress",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6856,
+      "score": 0.9216,
       "currencies": []
     },
     {
-      "title": "Berkshire Hathaway buys $136m in Lennar shares",
+      "title": "Skillsoft CEO Ronald Hovsepian buys $66,414 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Nextnav COO Susan Brasse sells $33,701 in company stock",
+      "title": "Awm investment sells $283k in 908 Devices stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Datadog CTO Alexis Le-Quoc sells $10.9m in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Mgic investment CFO sells $589,600 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US pressure campaign cuts Iran\u2019s banking and air links as war drags on - WSJ",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9451,
       "currencies": []
     }
   ],
