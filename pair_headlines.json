@@ -11,6 +11,12 @@
     ],
     "USD/JPY": [
       {
+        "title": "India's forex reserves fall by USD 14.88 billion to USD 765.90 billion in week ended September 18: RBI - ChiniMandi",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9663
+      },
+      {
         "title": "USD/JPY falls as US and Japanese officials say yen weakness \"a matter of concern\"",
         "source": "ForexLive",
         "label": "bearish",

@@ -15,20 +15,6 @@
       "currencies": []
     },
     {
-      "title": "Trump remarks on weak yen to Takaichi raise speculation on policy impact - Nikkei Asia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6438,
-      "currencies": []
-    },
-    {
-      "title": "GivTrade Highlights Competitive Trading Costs and Low Spreads as Trading Costs Take Center Stage for Regional Traders - markets.businessinsider.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
@@ -47,13 +33,6 @@
       ]
     },
     {
-      "title": "Canadian dollar holds near recent lows as stronger US dollar keeps pressure on currency - Economies.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9171,
-      "currencies": []
-    },
-    {
       "title": "Dollar hits fresh 2-month peak, Swiss franc falls, Norwegian crown rises - Kitco",
       "source": "Google News",
       "label": "bullish",
@@ -68,14 +47,38 @@
       "currencies": []
     },
     {
-      "title": "Forex reserves fall $14.9 billion, sharpest weekly drop since Nov 2024 - Business Standard",
+      "title": "GivTrade Highlights Competitive Trading Costs and Low Spreads as Trading Costs Take Center Stage for Regional Traders - markets.businessinsider.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9733,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "exchange rate - Britannica",
+      "title": "India's forex reserves fall by USD 14.88 billion to USD 765.90 billion in week ended September 18: RBI - ChiniMandi",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9663,
+      "currencies": [
+        "USD",
+        "USD"
+      ]
+    },
+    {
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Hong Leong Foreign Currency Account review for Malaysian businesses - WorldFirst",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -89,59 +92,59 @@
       "currencies": []
     },
     {
-      "title": "OpenAI agents access US government websites after tests go awry",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Medpace CEO August Troendle sells $27.4m in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Bitcoin holds near $84,000 as rising bond yields offset regulatory progress",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9216,
-      "currencies": []
-    },
-    {
-      "title": "Skillsoft CEO Ronald Hovsepian buys $66,414 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Awm investment sells $283k in 908 Devices stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Datadog CTO Alexis Le-Quoc sells $10.9m in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Mgic investment CFO sells $589,600 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US pressure campaign cuts Iran\u2019s banking and air links as war drags on - WSJ",
+      "title": "EU warns of energy price crisis, urges gas demand cuts - Bloomberg",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9451,
+      "score": -0.6659,
+      "currencies": []
+    },
+    {
+      "title": "With a Super El Nino, analyst asks: What happens to LNG demand?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "InvestingPro\u2019s Fair Value nailed 68% gain in Capital Bancorp stock",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9138,
+      "currencies": []
+    },
+    {
+      "title": "MapLight stock falls 46% as InvestingPro Fair Value flagged overvaluation",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9395,
+      "currencies": []
+    },
+    {
+      "title": "Analysis-Venezuela president returns from US visit with no deals, no firm election date",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Swiss National Bank\u2019s Schlegel watching hot weather impact on food price inflation",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Capital Regency Announces 2026 Multi-Asset Investment Approach",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Ukraine says it struck Russian oil refinery as drone attacks intensify",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9278,
       "currencies": []
     }
   ],
