@@ -53,7 +53,7 @@
       "currencies": []
     },
     {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - jpmorgan.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -88,6 +88,20 @@
       "currencies": []
     },
     {
+      "title": "Civista Bancshares president Charles Parcher buys $10,700 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Iran insists on diplomatic solution after Trump rejects peace plan",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5361,
+      "currencies": []
+    },
+    {
       "title": "Trump predicts Cuba and US will make a deal",
       "source": "Investing.com",
       "label": "bullish",
@@ -95,52 +109,38 @@
       "currencies": []
     },
     {
-      "title": "Is River Cruise at long term risk from climate change?",
+      "title": "US to finalize sharply lower vehicle fuel economy standards",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6986,
+      "currencies": []
+    },
+    {
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9603,
+      "currencies": []
+    },
+    {
+      "title": "Boeing flags 737 MAX software glitch affecting landing navigation feature, WSJ reports",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9589,
+      "currencies": []
+    },
+    {
+      "title": "Is Fed tightening a game changer for EM assets? UBS weighs in",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Aramco weighs standalone gas unit with potential $100 bln valuation - Bloomberg",
+      "title": "Bitcoin consolidates below ATH in tight range: Live levels",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.658,
-      "currencies": []
-    },
-    {
-      "title": "Trump says he spoke with Venezuela\u2019s Rodriguez about elections",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US jury says Apple owes record $5.7 billion in haptic technology patent case",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "China, U.S. agree to $30 billion tariff cut, launch AI dialogue",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5156,
-      "currencies": []
-    },
-    {
-      "title": "Nuveen NEA portfolio manager sells $26,572 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Gold Fields approaches Northern Star over potential takeover, Bloomberg reports",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.8783,
       "currencies": []
     }
   ],
