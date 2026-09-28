@@ -1,60 +1,78 @@
 {
   "run_id": 1,
   "pairs": {
-    "EUR/USD": [
+    "AUD/USD": [
       {
-        "title": "EUR/USD: Why the Rebound Still Looks Uncertain - DailyForex",
+        "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
+        "title": "AUD/NZD Rally Pauses as Traders Brace for RBA Rate Call - TradingPedia",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.6104
+      },
+      {
+        "title": "Australian Dollar Outlook: AUD/USD Holds 70c Ahead of RBA and CPI - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "EUR/USD Price Forecast: Consolidates above 1.1350 pivotal support as bearish bias persists",
+        "title": "AUD: Speculative shorts rise as gains versus Dollar fade \u2013 Rabobank",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8558
+      },
+      {
+        "title": "AUD/NZD Price Forecast: Aussie rally shows signs of exhaustion ahead of RBA decision",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.7634
+        "score": 0.8704
       }
     ],
     "USD/JPY": [
       {
-        "title": "PBOC sets USD/ CNY reference rate for today at 6.7399 (vs. estimate at 6.7085)",
+        "title": "Page title / meta title USD/MXN: What Is Behind the Peso\u2019s Sudden Shift? - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Forex Weekly: USD/JPY Tide Turns, While US Dollar Rides Shotgun - Investing.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "USD/JPY caught between intervention risk and Treasury yields as 160 caps upside - Credit Agricole",
         "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "USD/JPY: Weekly review highlights Dollar strength \u2013 MUFG",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "AUD/JPY Price Forecast: Recovers above 110.50, but technical outlook stays bearish",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.7224
+        "label": "bearish",
+        "score": -0.9212
       }
     ],
-    "GBP/USD": [
+    "NZD/USD": [
       {
-        "title": "GBP/USD Price Forecast: Holds ground near 1.3200, near-term bias remains bearish",
+        "title": "AUD/NZD Rally Pauses as Traders Brace for RBA Rate Call - TradingPedia",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.6104
+      },
+      {
+        "title": "AUD/NZD Price Forecast: Aussie rally shows signs of exhaustion ahead of RBA decision",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.77
+        "score": 0.8704
       }
     ],
-    "AUD/USD": [
+    "USD/CAD": [
       {
-        "title": "AUD/JPY Price Forecast: Recovers above 110.50, but technical outlook stays bearish",
+        "title": "USD/CAD: Overbought but seen sideways into year end \u2013 Rabobank",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.7224
+        "score": 0.7357
       }
     ]
   }

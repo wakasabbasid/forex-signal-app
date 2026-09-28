@@ -1,17 +1,56 @@
 {
   "headlines": [
     {
-      "title": "Forex Currencies: live prices, changes, trading volume and daily charts - Yahoo Finance - Yahoo! Finance Canada",
+      "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
     },
     {
       "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Page title / meta title USD/MXN: What Is Behind the Peso\u2019s Sudden Shift? - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Forex Weekly: USD/JPY Tide Turns, While US Dollar Rides Shotgun - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "AUD/NZD Rally Pauses as Traders Brace for RBA Rate Call - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6104,
+      "currencies": [
+        "AUD",
+        "NZD"
+      ]
+    },
+    {
+      "title": "Rupee slips toward 96 vs US dollar as crude, yields and stocks weigh on currency - The Economic Times",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9508,
       "currencies": []
     },
     {
@@ -22,44 +61,6 @@
       "currencies": []
     },
     {
-      "title": "Sterling Climbs as Dollar Softens Despite Firm Fed Rhetoric - TradingPedia",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7338,
-      "currencies": []
-    },
-    {
-      "title": "BB lets offshore banking units buy, sell forex directly, conduct currency swaps - The Business Standard",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD: Why the Rebound Still Looks Uncertain - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "Rupee falls 20 paise to 95.95 against U.S. dollar in early trade - The Hindu",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8939,
-      "currencies": []
-    },
-    {
-      "title": "Yen rises as Japanese officials say weak currency is problem - The Japan Times",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9025,
-      "currencies": []
-    },
-    {
       "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
@@ -67,83 +68,90 @@
       "currencies": []
     },
     {
-      "title": "Ringgit opens mostly higher against major currencies, lower vs US dollar - The Star",
+      "title": "Forex Today: Gold slumps below $4,200 on hawkish Fed outlook, Mideast tensions - Mitrade",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.6941,
+      "score": -0.9675,
       "currencies": []
     },
     {
-      "title": "Rupee's likely to slip despite RBI push for stability - The Economic Times",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.941,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
+      "title": "Australian Dollar Outlook: AUD/USD Holds 70c Ahead of RBA and CPI - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
-        "EUR",
+        "AUD",
         "USD"
       ]
     },
     {
-      "title": "Guggenheim reiterates Absci stock rating on endometriosis trial delay",
+      "title": "Dollar holds near two-month high as oil, data bolster Fed rate bets - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "FirstService Residential to manage 4,500-home Orlando community",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "JPMorgan reiterates Boeing stock rating on software flaw report",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "KeyBanc upgrades First Solar stock rating on valuation",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Serica Energy plans move from AIM to London main market",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "RBC Capital initiates Macquarie Group stock with outperform rating",
+      "title": "Earnings call transcript: Addex Therapeutics falls on H1 2026 update and funding focus",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.4964,
+      "score": -0.9649,
       "currencies": []
     },
     {
-      "title": "Cordiant Digital Infrastructure changes investment manager",
+      "title": "MongoDB options volume surges to 75,312 contracts amid 20% intraday drop",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9325,
+      "currencies": []
+    },
+    {
+      "title": "Greece stocks higher at close of trade; Athens General Composite up 1.57%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9413,
+      "currencies": []
+    },
+    {
+      "title": "Exclusive-Activist Jana pushes Fiserv to accelerate cost cuts and tap Palantir",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9309,
+      "currencies": []
+    },
+    {
+      "title": "Nvidia releases AI\u00a0safety software\u00a0it says could have stopped Hugging Face hack",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5379,
+      "currencies": []
+    },
+    {
+      "title": "Meta taps MongoDB CEO Desai to drive enterprise AI push",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "1947 Oil & Gas shares begin trading on AIM after \u00a350m raise",
+      "title": "BASF \u20ac10.3bn bid rejected by chemical rival Evonik, FT reports",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Cornish Metals appoints two non-executive directors",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.5046,
       "currencies": []
     }
   ],
