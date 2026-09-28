@@ -22,6 +22,13 @@
       "currencies": []
     },
     {
+      "title": "Sterling Climbs as Dollar Softens Despite Firm Fed Rhetoric - TradingPedia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7338,
+      "currencies": []
+    },
+    {
       "title": "BB lets offshore banking units buy, sell forex directly, conduct currency swaps - The Business Standard",
       "source": "Google News",
       "label": "neutral",
@@ -39,6 +46,13 @@
       ]
     },
     {
+      "title": "Rupee falls 20 paise to 95.95 against U.S. dollar in early trade - The Hindu",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8939,
+      "currencies": []
+    },
+    {
       "title": "Yen rises as Japanese officials say weak currency is problem - The Japan Times",
       "source": "Google News",
       "label": "bearish",
@@ -53,6 +67,20 @@
       "currencies": []
     },
     {
+      "title": "Ringgit opens mostly higher against major currencies, lower vs US dollar - The Star",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6941,
+      "currencies": []
+    },
+    {
+      "title": "Rupee's likely to slip despite RBI push for stability - The Economic Times",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.941,
+      "currencies": []
+    },
+    {
       "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -63,87 +91,59 @@
       ]
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
-      "currencies": []
-    },
-    {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8977,
-      "currencies": []
-    },
-    {
-      "title": "NIO sells 30% stake in battery unit to Geely subsidiary",
+      "title": "Guggenheim reiterates Absci stock rating on endometriosis trial delay",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "PepsiCo will invest $1 billion in Colombia over next five years, president says",
+      "title": "JPMorgan reiterates Boeing stock rating on software flaw report",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Synlait FY26 slides detail turnaround progress, operational gains",
+      "title": "KeyBanc upgrades First Solar stock rating on valuation",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Horizon Kinetics asset management, 10% owner, buys $351 in Texas Pacific Land stock",
+      "title": "Serica Energy plans move from AIM to London main market",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Synlait H2 2026 loss narrows as turnaround gains pace",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8723,
-      "currencies": []
-    },
-    {
-      "title": "Oil rebounds after Trump rejects Iran peace deal",
+      "title": "RBC Capital initiates Macquarie Group stock with outperform rating",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8306,
+      "score": -0.4964,
       "currencies": []
     },
     {
-      "title": "Dell CFO David Kennedy sells $14 million in company stock",
+      "title": "Cordiant Digital Infrastructure changes investment manager",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Iran-linked diesel price spike makes electric trucks cheaper than diesel in key EU markets, environmental\u00a0group says",
+      "title": "1947 Oil & Gas shares begin trading on AIM after \u00a350m raise",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6437,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Cornish Metals appoints two non-executive directors",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
