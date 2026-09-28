@@ -3,6 +3,12 @@
   "pairs": {
     "EUR/USD": [
       {
+        "title": "EUR/USD: Why the Rebound Still Looks Uncertain - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
         "title": "EUR/USD forecast: Currency Pair of the Week | September 7, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
@@ -11,16 +17,10 @@
     ],
     "USD/JPY": [
       {
-        "title": "USD/JPY falls as US and Japanese officials say yen weakness \"a matter of concern\"",
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7085 \u2013 Reuters estimate",
         "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.9164
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD lacks direction as RSI, ADX signal weak momentum",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9558
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }

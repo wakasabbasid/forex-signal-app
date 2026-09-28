@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "Forex Currencies: live prices, changes, trading volume and daily charts - Yahoo Finance - Yahoo! Finance Canada",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -15,10 +22,27 @@
       "currencies": []
     },
     {
-      "title": "Competition for foreign currency services by Internet banks (in banks) with mobile convenience is he.. - \ub9e4\uc77c\uacbd\uc81c",
+      "title": "BB lets offshore banking units buy, sell forex directly, conduct currency swaps - The Business Standard",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "EUR/USD: Why the Rebound Still Looks Uncertain - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "Yen rises as Japanese officials say weak currency is problem - The Japan Times",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9025,
       "currencies": []
     },
     {
@@ -46,14 +70,7 @@
       "currencies": []
     },
     {
-      "title": "Dollar hits fresh 2-month peak, Swiss franc falls, Norwegian crown rises - Kitco",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.462,
-      "currencies": []
-    },
-    {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - jpmorgan.com",
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -67,80 +84,66 @@
       "currencies": []
     },
     {
-      "title": "Hong Leong Foreign Currency Account review for Malaysian businesses - WorldFirst",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "exchange rate - Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28 - Reuters",
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9121,
+      "score": 0.8977,
       "currencies": []
     },
     {
-      "title": "Civista Bancshares president Charles Parcher buys $10,700 in stock",
+      "title": "NIO sells 30% stake in battery unit to Geely subsidiary",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Iran insists on diplomatic solution after Trump rejects peace plan",
+      "title": "PepsiCo will invest $1 billion in Colombia over next five years, president says",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5361,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Trump predicts Cuba and US will make a deal",
+      "title": "Synlait FY26 slides detail turnaround progress, operational gains",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Horizon Kinetics asset management, 10% owner, buys $351 in Texas Pacific Land stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Synlait H2 2026 loss narrows as turnaround gains pace",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7801,
+      "score": 0.8723,
       "currencies": []
     },
     {
-      "title": "US to finalize sharply lower vehicle fuel economy standards",
+      "title": "Oil rebounds after Trump rejects Iran peace deal",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6986,
+      "score": -0.8306,
       "currencies": []
     },
     {
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9603,
-      "currencies": []
-    },
-    {
-      "title": "Boeing flags 737 MAX software glitch affecting landing navigation feature, WSJ reports",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9589,
-      "currencies": []
-    },
-    {
-      "title": "Is Fed tightening a game changer for EM assets? UBS weighs in",
+      "title": "Dell CFO David Kennedy sells $14 million in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Bitcoin consolidates below ATH in tight range: Live levels",
+      "title": "Iran-linked diesel price spike makes electric trucks cheaper than diesel in key EU markets, environmental\u00a0group says",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8783,
+      "label": "bullish",
+      "score": 0.6437,
       "currencies": []
     }
   ],
