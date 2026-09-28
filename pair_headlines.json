@@ -7,72 +7,20 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "AUD/NZD Rally Pauses as Traders Brace for RBA Rate Call - TradingPedia",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.6104
-      },
-      {
-        "title": "Australian Dollar Outlook: AUD/USD Holds 70c Ahead of RBA and CPI - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "AUD: Speculative shorts rise as gains versus Dollar fade \u2013 Rabobank",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8558
-      },
-      {
-        "title": "AUD/NZD Price Forecast: Aussie rally shows signs of exhaustion ahead of RBA decision",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8704
       }
     ],
     "USD/JPY": [
       {
-        "title": "Page title / meta title USD/MXN: What Is Behind the Peso\u2019s Sudden Shift? - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Forex Weekly: USD/JPY Tide Turns, While US Dollar Rides Shotgun - Investing.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "USD/JPY caught between intervention risk and Treasury yields as 160 caps upside - Credit Agricole",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.9212
-      }
-    ],
-    "NZD/USD": [
-      {
-        "title": "AUD/NZD Rally Pauses as Traders Brace for RBA Rate Call - TradingPedia",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.6104
-      },
-      {
-        "title": "AUD/NZD Price Forecast: Aussie rally shows signs of exhaustion ahead of RBA decision",
+        "title": "USD: Speculative longs steady as Fed hikes \u2013 Rabobank",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.8704
-      }
-    ],
-    "USD/CAD": [
+        "score": 0.5734
+      },
       {
-        "title": "USD/CAD: Overbought but seen sideways into year end \u2013 Rabobank",
+        "title": "Silver Price Forecast: XAG/USD plunges 5% as momentum indicators turn bearish",
         "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.7357
+        "label": "bearish",
+        "score": -0.9711
       }
     ]
   }

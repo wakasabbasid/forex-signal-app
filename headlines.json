@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "Forex Currencies: live prices, changes, trading volume and daily charts - Yahoo Finance - Yahoo! Finance Canada",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -11,50 +18,28 @@
       ]
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
+      "title": "What Is the Foreign Exchange Market: A Guide - britannica.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Page title / meta title USD/MXN: What Is Behind the Peso\u2019s Sudden Shift? - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Forex Weekly: USD/JPY Tide Turns, While US Dollar Rides Shotgun - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
-      "title": "AUD/NZD Rally Pauses as Traders Brace for RBA Rate Call - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6104,
-      "currencies": [
-        "AUD",
-        "NZD"
-      ]
-    },
-    {
-      "title": "Rupee slips toward 96 vs US dollar as crude, yields and stocks weigh on currency - The Economic Times",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9508,
       "currencies": []
     },
     {
       "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Rupee slips toward 96 vs US dollar as crude, yields and stocks weigh on currency - economictimes.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9367,
+      "currencies": []
+    },
+    {
+      "title": "Dollar holds near two-month high as oil, data bolster Fed rate bets - Investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -68,27 +53,31 @@
       "currencies": []
     },
     {
+      "title": "FP Markets Wins Forex Broker of the Year at Forex Expo Dubai 2026 - Yahoo Finance",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6548,
+      "currencies": []
+    },
+    {
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9371,
+      "currencies": []
+    },
+    {
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Forex Today: Gold slumps below $4,200 on hawkish Fed outlook, Mideast tensions - Mitrade",
       "source": "Google News",
       "label": "bearish",
       "score": -0.9675,
-      "currencies": []
-    },
-    {
-      "title": "Australian Dollar Outlook: AUD/USD Holds 70c Ahead of RBA and CPI - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
-    },
-    {
-      "title": "Dollar holds near two-month high as oil, data bolster Fed rate bets - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -99,59 +88,59 @@
       "currencies": []
     },
     {
-      "title": "FirstService Residential to manage 4,500-home Orlando community",
+      "title": "AstraZeneca invests $2 billion in Summit Therapeutics",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Addex Therapeutics falls on H1 2026 update and funding focus",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9649,
-      "currencies": []
-    },
-    {
-      "title": "MongoDB options volume surges to 75,312 contracts amid 20% intraday drop",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9325,
-      "currencies": []
-    },
-    {
-      "title": "Greece stocks higher at close of trade; Athens General Composite up 1.57%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9413,
-      "currencies": []
-    },
-    {
-      "title": "Exclusive-Activist Jana pushes Fiserv to accelerate cost cuts and tap Palantir",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9309,
-      "currencies": []
-    },
-    {
-      "title": "Nvidia releases AI\u00a0safety software\u00a0it says could have stopped Hugging Face hack",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5379,
-      "currencies": []
-    },
-    {
-      "title": "Meta taps MongoDB CEO Desai to drive enterprise AI push",
+      "title": "Solaris Resources at Mining Forum Americas 2026: warintza advances",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "BASF \u20ac10.3bn bid rejected by chemical rival Evonik, FT reports",
+      "title": "Magic Empire Global prices $3M registered direct offering",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why is Navitas Semiconductor stock surging today?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why is Fair Isaac stock sliding today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5046,
+      "score": -0.8199,
+      "currencies": []
+    },
+    {
+      "title": "ZipRecruiter EVP Sakamoto sells $10,395 of shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Mexico stocks lower at close of trade; S&P/BMV IPC down 0.07%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9665,
+      "currencies": []
+    },
+    {
+      "title": "Trading Day: Blue Monday",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
