@@ -1,13 +1,6 @@
 {
   "headlines": [
     {
-      "title": "Forex Currencies: live prices, changes, trading volume and daily charts - Yahoo Finance - Yahoo! Finance Canada",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -25,6 +18,20 @@
       "currencies": []
     },
     {
+      "title": "FP Markets Wins Forex Broker of the Year at Forex Expo Dubai 2026 - Yahoo Finance",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6548,
+      "currencies": []
+    },
+    {
+      "title": "Asian currencies mixed as dollar holds two-month high, RBA decision looms - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "ECB eyes new currency safety nets to boost euro's global role - Forex Factory",
       "source": "Google News",
       "label": "bullish",
@@ -32,27 +39,10 @@
       "currencies": []
     },
     {
-      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - reuters.com",
+      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Weekly: USD/JPY Tide Turns, While US Dollar Rides Shotgun - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
-      "title": "Rupee slips toward 96 vs US dollar as crude, yields and stocks weigh on currency - The Economic Times",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9508,
       "currencies": []
     },
     {
@@ -70,80 +60,92 @@
       "currencies": []
     },
     {
-      "title": "FP Markets Wins Forex Broker of the Year at Forex Expo Dubai 2026 - Yahoo Finance",
+      "title": "Rupee slips toward 96 vs US dollar as crude, yields and stocks weigh on currency - The Economic Times",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9508,
+      "currencies": []
+    },
+    {
+      "title": "Japan's currency diplomat Mimura urges markets to heed 'very clear' warning on yen - Forex Factory",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.6548,
+      "score": 0.7828,
       "currencies": []
     },
     {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - reuters.com",
+      "title": "EUR/USD, USD/JPY Outlook: Oil, yields and an FX identity crisis - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD",
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Dollar pinned at two-month high as bond rout extends, Fed rate hike bets rise - Investing.com",
-      "source": "Google News",
+      "title": "Glencore stock maintains Outperform rating ahead of ASX listing",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.4977,
+      "currencies": []
+    },
+    {
+      "title": "Blackstone to launch investment platform for Nordics warehouses",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Gold steadies near seven-week low after 4% plunge as Fed hike bets rise",
+      "title": "Dave & Buster\u2019s interim CFO Cory Hatton buys $25,999 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "U.S. Treasury yields hold while Aussie yields retreat  after 2011-era peak run up",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6909,
+      "score": -0.941,
       "currencies": []
     },
     {
-      "title": "Monopar Therapeutics CEO Robinson sells $2.5m in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Photronics director Lee sells $221,250 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "South Korean exports seen rising for 16th month on solid AI chip demand: Reuters poll",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9414,
-      "currencies": []
-    },
-    {
-      "title": "CSL partners with AWS on AI for drug research and development",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.567,
-      "currencies": []
-    },
-    {
-      "title": "SK Hynix boxed in at KRW 1,777,000 support: Live levels",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Nikkei 225 trapped inside Ichimoku cloud: Live levels",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "OpenAI shelves new AI model release over safety concerns",
+      "title": "US closes probe into over 1 million Chrysler vehicles over underhood fire risk",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6535,
+      "score": -0.6924,
+      "currencies": []
+    },
+    {
+      "title": "Safety group urges EU to reject Tesla FSD over speed offset",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "China\u2019s Golden Week travel surge masks cautious consumer spending",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7772,
+      "currencies": []
+    },
+    {
+      "title": "Barclays reiterates Robinhood stock rating on strong Q3 volumes",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
