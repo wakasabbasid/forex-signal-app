@@ -11,6 +11,13 @@
       ]
     },
     {
+      "title": "Ultima Markets Named \"Prime Player in Forex Industry 2026\" at Forex Expo Dubai - Yahoo Finance",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.762,
+      "currencies": []
+    },
+    {
       "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -18,14 +25,14 @@
       "currencies": []
     },
     {
-      "title": "FP Markets Wins Forex Broker of the Year at Forex Expo Dubai 2026 - Yahoo Finance",
+      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.6548,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Asian currencies mixed as dollar holds two-month high, RBA decision looms - Investing.com",
+      "title": "BB lets offshore banking units buy, sell forex directly, conduct currency swaps - The Business Standard",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -39,17 +46,17 @@
       "currencies": []
     },
     {
-      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "title": "Iran's currency hits new record low, as war erodes Iran's economic stability - economictimes.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.6217,
       "currencies": []
     },
     {
@@ -60,30 +67,21 @@
       "currencies": []
     },
     {
-      "title": "Rupee slips toward 96 vs US dollar as crude, yields and stocks weigh on currency - The Economic Times",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9508,
-      "currencies": []
-    },
-    {
-      "title": "Japan's currency diplomat Mimura urges markets to heed 'very clear' warning on yen - Forex Factory",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7828,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD, USD/JPY Outlook: Oil, yields and an FX identity crisis - FOREX.com",
+      "title": "Forex Weekly: USD/JPY Tide Turns, While US Dollar Rides Shotgun - Investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
-        "EUR",
-        "USD",
         "USD",
         "JPY"
       ]
+    },
+    {
+      "title": "FP Markets Wins Forex Broker of the Year at Forex Expo Dubai 2026 - Yahoo Finance",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6548,
+      "currencies": []
     },
     {
       "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
@@ -93,56 +91,58 @@
       "currencies": []
     },
     {
-      "title": "Glencore stock maintains Outperform rating ahead of ASX listing",
+      "title": "Truist says CoreWeave stock financing position comfortable for 2026",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.4977,
+      "score": 0.9084,
       "currencies": []
     },
     {
-      "title": "Blackstone to launch investment platform for Nordics warehouses",
+      "title": "Hershey stock hits 52-week low at 161.4 USD",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9551,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Exxon veteran Liam Mallon joins TMC board ahead of seabed mining push",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Dave & Buster\u2019s interim CFO Cory Hatton buys $25,999 in stock",
+      "title": "Santander approves interim dividend with 10% increase",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "U.S. Treasury yields hold while Aussie yields retreat  after 2011-era peak run up",
+      "title": "Why is BCE stock sliding today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.941,
+      "score": -0.921,
       "currencies": []
     },
     {
-      "title": "US closes probe into over 1 million Chrysler vehicles over underhood fire risk",
+      "title": "Baird lowers Ryder to Neutral, warning consensus forecasts are too high",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6924,
+      "score": -0.9528,
       "currencies": []
     },
     {
-      "title": "Safety group urges EU to reject Tesla FSD over speed offset",
+      "title": "Why is STAAR Surgical stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "China\u2019s Golden Week travel surge masks cautious consumer spending",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7772,
-      "currencies": []
-    },
-    {
-      "title": "Barclays reiterates Robinhood stock rating on strong Q3 volumes",
+      "title": "Banxico can chart rate path independently of Fed, Governor says - Bloomberg",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
