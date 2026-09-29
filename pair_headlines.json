@@ -15,30 +15,6 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "Hershey stock hits 52-week low at 161.4 USD",
-        "source": "Investing.com",
-        "label": "bearish",
-        "score": -0.9551
-      },
-      {
-        "title": "Xeris Biopharma stock hits 52-week high at 10.08 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.7394
-      },
-      {
-        "title": "USD/INR remains skewed to the upside amid rising oil prices, but a US-Iran breakthrough could trigger a big selloff",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.8775
-      },
-      {
-        "title": "Silver Price Forecasts: XAG/USD holds below $ 61.00 amid US Dollar strength",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9327
       }
     ]
   }

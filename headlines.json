@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "Japanese Yen - CME Group",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -11,17 +18,10 @@
       ]
     },
     {
-      "title": "Ultima Markets Named \"Prime Player in Forex Industry 2026\" at Forex Expo Dubai - Yahoo Finance",
+      "title": "Ultima Markets Named \"Prime Player in Forex Industry 2026\" at Forex Expo Dubai - finance.yahoo.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.762,
-      "currencies": []
-    },
-    {
-      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "score": 0.7029,
       "currencies": []
     },
     {
@@ -39,10 +39,10 @@
       "currencies": []
     },
     {
-      "title": "ECB eyes new currency safety nets to boost euro's global role - Forex Factory",
+      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.912,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -50,20 +50,6 @@
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Iran's currency hits new record low, as war erodes Iran's economic stability - economictimes.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6217,
-      "currencies": []
-    },
-    {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
       "currencies": []
     },
     {
@@ -77,75 +63,87 @@
       ]
     },
     {
-      "title": "FP Markets Wins Forex Broker of the Year at Forex Expo Dubai 2026 - Yahoo Finance",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6548,
-      "currencies": []
-    },
-    {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Truist says CoreWeave stock financing position comfortable for 2026",
+      "title": "ECB eyes new currency safety nets to boost euro's global role - Forex Factory",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.912,
+      "currencies": []
+    },
+    {
+      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "FP Markets Wins Forex Broker of the Year at Forex Expo Dubai 2026 - finance.yahoo.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Trump, tech executives sign \u2019morally binding\u2019 AI document",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Cadrenal Therapeutics shareholders approve equity plan amendment and warrant issuance",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Agility Robotics names three directors ahead of SPAC merger",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "FingerMotion to acquire Alberta power site for $2.3 million",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Dyne reports 12-month data for DM1 drug z-basivarsen",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Inseego names Nick Lambourne as chief technology officer",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Canadian Gold reprices private placement to CDN$0.0675 per share",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "FCL-X Fire & Safety secures purchase order with Kia Georgia",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9084,
-      "currencies": []
-    },
-    {
-      "title": "Hershey stock hits 52-week low at 161.4 USD",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9551,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Exxon veteran Liam Mallon joins TMC board ahead of seabed mining push",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Santander approves interim dividend with 10% increase",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is BCE stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.921,
-      "currencies": []
-    },
-    {
-      "title": "Baird lowers Ryder to Neutral, warning consensus forecasts are too high",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9528,
-      "currencies": []
-    },
-    {
-      "title": "Why is STAAR Surgical stock surging today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Banxico can chart rate path independently of Fed, Governor says - Bloomberg",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "score": 0.926,
       "currencies": []
     }
   ],
