@@ -7,20 +7,70 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "ING cuts year-end AUD/USD target to 0.72 but sees an RBA hike blocking a retest of June lows",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.6973
+      },
+      {
+        "title": "NAB sees RBA hike supporting AUD near term, but the medium-term risk points the other way",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.5756
       }
     ],
     "USD/JPY": [
       {
-        "title": "USD: Speculative longs steady as Fed hikes \u2013 Rabobank",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.5734
+        "title": "Forex Weekly: USD/JPY Tide Turns, While US Dollar Rides Shotgun - Investing.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       },
       {
-        "title": "Silver Price Forecast: XAG/USD plunges 5% as momentum indicators turn bearish",
+        "title": "PBOC sets USD/ CNY central rate at 6.7411 (vs. estimate at 6.7177)",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7177 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD drops to near $60.50 amid surging oil, Treasury yields",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9711
+        "score": -0.9736
+      },
+      {
+        "title": "PBOC sets USD/CNY reference rate at 6.7411 vs. 6.7399 previous",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Canadian Dollar slumps to its lowest level since July 9, eyes 1.4200 vs bullish USD",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9712
+      },
+      {
+        "title": "GBP/JPY Price Forecast: Trendline caps recovery as range holds",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.5585
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/JPY Price Forecast: Trendline caps recovery as range holds",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.5585
       }
     ]
   }
