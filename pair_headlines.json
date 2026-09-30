@@ -7,52 +7,34 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "AUD/USD Price Forecast: Holds slight recovery from 0.6960",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.93
       }
     ],
-    "USD/JPY": [
+    "EUR/USD": [
       {
-        "title": "USD/JPY slips to around 156.4 as half-year-end flows and Fed comments weigh",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.9554
+        "title": "EUR/GBP: Range set to persist \u2013 Rabobank",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
       },
       {
-        "title": "Gold edges lower as Fed hike bets and Middle East jitters underpin USD",
+        "title": "EUR/GBP Price Forecast: Reaching oversold levels at six-week lows sub-0.8550",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.8367
-      },
-      {
-        "title": "USD/JPY Price Forecast: Tests 157.00 support after slipping below nine-day EMA",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.7722
-      },
-      {
-        "title": "Euro stays pressured below 1.1350, near YTD low vs bullish USD ahead of US PCE, Q2 GDP",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9486
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD hangs near eight-week low; bears retain control near $61.00",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.7147
+        "score": -0.9446
       }
     ],
     "GBP/USD": [
       {
-        "title": "GBP/USD Price Forecast: Weakens below 1.3250, technical barriers sustain bearish bias",
+        "title": "EUR/GBP: Range set to persist \u2013 Rabobank",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "EUR/GBP Price Forecast: Reaching oversold levels at six-week lows sub-0.8550",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9545
+        "score": -0.9446
       }
     ]
   }

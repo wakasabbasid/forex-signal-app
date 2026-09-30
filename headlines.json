@@ -1,7 +1,21 @@
 {
   "headlines": [
     {
-      "title": "Forex Currencies: live prices, changes, trading volume and daily charts - Yahoo Finance - Yahoo! Finance Canada",
+      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7106,
+      "currencies": []
+    },
+    {
+      "title": "Forex Currencies: live prices, changes, trading volume and daily charts - ca.finance.yahoo.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Swiss National Bank bought 1.44 billion francs in foreign currency - Investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -25,6 +39,13 @@
       ]
     },
     {
+      "title": "Japan Currency Intervention Amounted To 0 Yen From Aug 27 To Sept 28 - MoF - Forex Factory",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
       "source": "Google News",
       "label": "neutral",
@@ -32,10 +53,10 @@
       "currencies": []
     },
     {
-      "title": "Asian currencies mixed as yen rebounds, dollar stays near two-month high - Investing.com",
+      "title": "Dollar set for big rise in September, mainly at Euro's expense - The Star",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.7276,
+      "label": "bullish",
+      "score": 0.8779,
       "currencies": []
     },
     {
@@ -46,31 +67,17 @@
       "currencies": []
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - nerdwallet.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
-      "currencies": []
-    },
-    {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
+      "title": "Dollar tracks toward best month since June; Traders brace for U.S. PCE reading - Investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "ECB eyes new currency safety nets to boost euro's global role - Forex Factory",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.912,
       "currencies": []
     },
     {
@@ -81,66 +88,59 @@
       "currencies": []
     },
     {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "UK business confidence hits 17-month low as Middle East tensions lift costs",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9425,
-      "currencies": []
-    },
-    {
-      "title": "SkiStar FY operating profit rises 11% as mountain demand grows",
+      "title": "Earnings call transcript: Santhera H1 2026 meets forecasts as sales surge",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9436,
+      "score": 0.9282,
       "currencies": []
     },
     {
-      "title": "Top China Biopharma Stocks to Watch, According to Bernstein",
+      "title": "DoorDash launches DashOS platform to connect restaurant services",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "China adds 55% tariff to Brazil beef as imports hit quota",
+      "title": "DoorDash launches text ordering and drone delivery system",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Medtronic gains regulatory clearances for cardiac software",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8332,
+      "score": 0.9452,
       "currencies": []
     },
     {
-      "title": "Australia\u2019s Metrics freezes some fund redemptions in sign of private credit market stress",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9549,
-      "currencies": []
-    },
-    {
-      "title": "Gold edges lower as Treasury yields offset softer oil, Fed hike concerns linger",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7971,
-      "currencies": []
-    },
-    {
-      "title": "UK PM Burnham says Britain should consider rejoining European Union",
+      "title": "SoundHound AI technology deployed in Kia Sorento in India",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "AbbVie\u2019s zumilokibart meets phase 2 atopic dermatitis endpoint",
+      "title": "CoreWeave launches partner network for AI infrastructure",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "UPS launches supply chain risk management suite",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Yiren Digital Q2 2026 slides: AI gains clash with widening losses",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8553,
       "currencies": []
     }
   ],
