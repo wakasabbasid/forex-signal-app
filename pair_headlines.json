@@ -9,32 +9,38 @@
         "score": 0.0
       }
     ],
-    "EUR/USD": [
+    "USD/JPY": [
       {
-        "title": "EUR/GBP: Range set to persist \u2013 Rabobank",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
+        "title": "Middleby stock hits 52-week low at 104.23 USD",
+        "source": "Investing.com",
+        "label": "bearish",
+        "score": -0.9477
       },
       {
-        "title": "EUR/GBP Price Forecast: Reaching oversold levels at six-week lows sub-0.8550",
+        "title": "AllianceBernstein stock hits 52-week low at 34.91 USD",
+        "source": "Investing.com",
+        "label": "bearish",
+        "score": -0.9559
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD remains vulnerable near $60",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9446
+        "score": -0.925
       }
     ],
-    "GBP/USD": [
+    "EUR/USD": [
       {
-        "title": "EUR/GBP: Range set to persist \u2013 Rabobank",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "EUR/GBP Price Forecast: Reaching oversold levels at six-week lows sub-0.8550",
+        "title": "EUR/USD Price Forecast: Monthly outlook mixed, daily chart remains bearish",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9446
+        "score": -0.9194
+      },
+      {
+        "title": "EUR/USD: Measured ECB tightening to support Euro \u2013 TD Securities",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.939
       }
     ]
   }
