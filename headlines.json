@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "Forex Currencies: live prices, changes, trading volume and daily charts - Yahoo Finance - Yahoo! Finance Canada",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Japanese Yen - CME Group",
       "source": "Google News",
       "label": "neutral",
@@ -16,13 +23,6 @@
         "AUD",
         "USD"
       ]
-    },
-    {
-      "title": "Ultima Markets Named \"Prime Player in Forex Industry 2026\" at Forex Expo Dubai - finance.yahoo.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7029,
-      "currencies": []
     },
     {
       "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
@@ -53,6 +53,13 @@
       "currencies": []
     },
     {
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - wsj.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.674,
+      "currencies": []
+    },
+    {
       "title": "Forex Weekly: USD/JPY Tide Turns, While US Dollar Rides Shotgun - Investing.com",
       "source": "Google News",
       "label": "neutral",
@@ -77,73 +84,66 @@
       "currencies": []
     },
     {
-      "title": "Scaling China\u2019s Hidden Intervention In the Foreign Exchange Market - Council on Foreign Relations",
+      "title": "Ultima Markets Named \"Prime Player in Forex Industry 2026\" at Forex Expo Dubai - Yahoo Finance",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.762,
       "currencies": []
     },
     {
-      "title": "FP Markets Wins Forex Broker of the Year at Forex Expo Dubai 2026 - finance.yahoo.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Trump, tech executives sign \u2019morally binding\u2019 AI document",
+      "title": "Robinhood at HOOD Summit \u201926: pushes trading into living hours",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Cadrenal Therapeutics shareholders approve equity plan amendment and warrant issuance",
+      "title": "Arista Networks CEO Ullal sells $13.2m in shares from trusts",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Agility Robotics names three directors ahead of SPAC merger",
+      "title": "Zedge director Howard Jonas acquires over 2.2m class B shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "FingerMotion to acquire Alberta power site for $2.3 million",
+      "title": "Oric Pharma CFO sells $181k in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Dyne reports 12-month data for DM1 drug z-basivarsen",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Inseego names Nick Lambourne as chief technology officer",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Canadian Gold reprices private placement to CDN$0.0675 per share",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "FCL-X Fire & Safety secures purchase order with Kia Georgia",
+      "title": "Gatekeeper Systems at Lytham Partners: recurring revenue gains traction",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.926,
+      "score": 0.9557,
+      "currencies": []
+    },
+    {
+      "title": "Why is Vanda Pharmaceuticals stock surging today?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Kodiak Robotics at Evercore forum: driverless trucking nears launch",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Flexsteel Industries at Lytham Partners: share gains and margin gains",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.921,
       "currencies": []
     }
   ],
