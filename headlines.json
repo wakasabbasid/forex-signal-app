@@ -32,10 +32,10 @@
       "currencies": []
     },
     {
-      "title": "BB lets offshore banking units buy, sell forex directly, conduct currency swaps - The Business Standard",
+      "title": "Asian currencies mixed as yen rebounds, dollar stays near two-month high - Investing.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.7276,
       "currencies": []
     },
     {
@@ -53,21 +53,11 @@
       "currencies": []
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - wsj.com",
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.674,
+      "score": 0.9371,
       "currencies": []
-    },
-    {
-      "title": "Forex Weekly: USD/JPY Tide Turns, While US Dollar Rides Shotgun - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
     },
     {
       "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
@@ -91,59 +81,66 @@
       "currencies": []
     },
     {
-      "title": "Robinhood at HOOD Summit \u201926: pushes trading into living hours",
-      "source": "Investing.com",
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Arista Networks CEO Ullal sells $13.2m in shares from trusts",
+      "title": "UK business confidence hits 17-month low as Middle East tensions lift costs",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9425,
       "currencies": []
     },
     {
-      "title": "Zedge director Howard Jonas acquires over 2.2m class B shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Oric Pharma CFO sells $181k in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Gatekeeper Systems at Lytham Partners: recurring revenue gains traction",
+      "title": "SkiStar FY operating profit rises 11% as mountain demand grows",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9557,
+      "score": 0.9436,
       "currencies": []
     },
     {
-      "title": "Why is Vanda Pharmaceuticals stock surging today?",
+      "title": "Top China Biopharma Stocks to Watch, According to Bernstein",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Kodiak Robotics at Evercore forum: driverless trucking nears launch",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Flexsteel Industries at Lytham Partners: share gains and margin gains",
+      "title": "China adds 55% tariff to Brazil beef as imports hit quota",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.921,
+      "score": 0.8332,
+      "currencies": []
+    },
+    {
+      "title": "Australia\u2019s Metrics freezes some fund redemptions in sign of private credit market stress",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9549,
+      "currencies": []
+    },
+    {
+      "title": "Gold edges lower as Treasury yields offset softer oil, Fed hike concerns linger",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7971,
+      "currencies": []
+    },
+    {
+      "title": "UK PM Burnham says Britain should consider rejoining European Union",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "AbbVie\u2019s zumilokibart meets phase 2 atopic dermatitis endpoint",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
