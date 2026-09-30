@@ -29,7 +29,7 @@
       "currencies": []
     },
     {
-      "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - FOREX.com",
+      "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - forex.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -60,13 +60,6 @@
       "currencies": []
     },
     {
-      "title": "Dollar set for big rise in September, mainly at Euro's expense - The Star",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8779,
-      "currencies": []
-    },
-    {
       "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
@@ -74,11 +67,21 @@
       "currencies": []
     },
     {
-      "title": "RBI\u2019s short dollar book surges past US$200 bil on forex plan - The Edge Malaysia",
+      "title": "Dollar set for big rise in September, mainly at Euro's expense - The Star",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8373,
+      "score": 0.8779,
       "currencies": []
+    },
+    {
+      "title": "EUR/USD Forecast: Euro Struggles to Find Support Even After U.S. PCE Data - forex.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9006,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
     },
     {
       "title": "Dollar down after soft PCE, but still on track for best month since June - Investing.com",
@@ -88,63 +91,59 @@
       "currencies": []
     },
     {
-      "title": "CCH Holdings closes $1.04m second tranche of financing",
+      "title": "Fastly CTO Artur Bergman sells $918,830 in stock in late September",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Cigna options flow turns bullish even as technicals signal sell",
+      "title": "Sound financial Bancorp CEO Laura Stewart sells $41,391 common stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Related, NextEra plan $22B Texas power plant for data center",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Progress Software Q3 2026 slides: EPS beats, Domo acquisition detailed",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Bonds post worst month in years; stocks decline for September and oil gains",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9682,
+      "currencies": []
+    },
+    {
+      "title": "Russia attacks Ukrainian energy grid, forcing power cuts as winter looms",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9539,
+      "currencies": []
+    },
+    {
+      "title": "Progress Q3 2026 slides: EPS beats, Domo acquisition reshapes outlook",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Lilly\u2019s Foundayo shows cardiovascular safety in diabetes trial",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6545,
-      "currencies": []
-    },
-    {
-      "title": "Middleby stock hits 52-week low at 104.23 USD",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9477,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Freedom Broker initiates Matson stock coverage with buy rating",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Brazil, US set up working group to discuss potential trade agreement",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Wall St regulator unveils new retail investor proposals for private assets",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "AllianceBernstein stock hits 52-week low at 34.91 USD",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9559,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Disc Medicine options activity points to Phase 3 bitopertin catalyst bet",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "score": 0.8009,
       "currencies": []
     }
   ],

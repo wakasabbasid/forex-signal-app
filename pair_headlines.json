@@ -3,44 +3,32 @@
   "pairs": {
     "AUD/USD": [
       {
-        "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - FOREX.com",
+        "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - forex.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       }
     ],
-    "USD/JPY": [
-      {
-        "title": "Middleby stock hits 52-week low at 104.23 USD",
-        "source": "Investing.com",
-        "label": "bearish",
-        "score": -0.9477
-      },
-      {
-        "title": "AllianceBernstein stock hits 52-week low at 34.91 USD",
-        "source": "Investing.com",
-        "label": "bearish",
-        "score": -0.9559
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD remains vulnerable near $60",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.925
-      }
-    ],
     "EUR/USD": [
+      {
+        "title": "EUR/USD Forecast: Euro Struggles to Find Support Even After U.S. PCE Data - forex.com",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9006
+      },
       {
         "title": "EUR/USD Price Forecast: Monthly outlook mixed, daily chart remains bearish",
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.9194
-      },
+      }
+    ],
+    "USD/JPY": [
       {
-        "title": "EUR/USD: Measured ECB tightening to support Euro \u2013 TD Securities",
+        "title": "USD/JPY Price Forecast: 50-day SMA caps recovery near 158.00",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.939
+        "score": 0.4911
       }
     ]
   }
