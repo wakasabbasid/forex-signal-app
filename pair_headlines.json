@@ -9,46 +9,46 @@
         "score": 0.0
       }
     ],
-    "EUR/USD": [
-      {
-        "title": "EUR/USD Forecast: Euro Struggles to Find Support Even After U.S. PCE Data - FOREX.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9006
-      },
-      {
-        "title": "EUR/GBP Price Forecast: Bounces up from 0.8530 with the bearish trend intact",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9411
-      },
-      {
-        "title": "EUR/USD Price Forecast: Downside pressure might intensify below 1.1300",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8825
-      }
-    ],
     "USD/JPY": [
       {
-        "title": "Gold (XAU/USD) analysis: The upside remains limited by US-Iran stalemate, strong NFP risk",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.6383
+        "title": "USD/INR Pulls Back From 96.10: Key Levels to Watch Next - dailyforex.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       },
       {
-        "title": "Gold fails ahead of $4,200 as surging US yields and Iran risks lift USD closer to YTD top",
-        "source": "FXStreet",
+        "title": "Centrus Energy stock hits 52-week low at 135.75 USD",
+        "source": "Investing.com",
+        "label": "bearish",
+        "score": -0.9499
+      },
+      {
+        "title": "AQNB stock hits 52-week high at 26.69 USD",
+        "source": "Investing.com",
         "label": "bullish",
-        "score": 0.5798
+        "score": 0.4751
+      },
+      {
+        "title": "USD/JPY makes a quick dip",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/USD, GBP/USD Outlook: RSI Hits 2020 Oversold Levels - stonex.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "GBP/USD": [
       {
-        "title": "EUR/GBP Price Forecast: Bounces up from 0.8530 with the bearish trend intact",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9411
+        "title": "EUR/USD, GBP/USD Outlook: RSI Hits 2020 Oversold Levels - stonex.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }

@@ -8,21 +8,14 @@
       "currencies": []
     },
     {
+      "title": "Forex Currencies: live prices, changes, trading volume and daily charts - Yahoo! Finance Canada",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Japanese Yen - CME Group",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "exchange rate - Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Swiss National Bank bought 1.44 billion francs in foreign currency - Investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -39,6 +32,22 @@
       ]
     },
     {
+      "title": "USD/INR Pulls Back From 96.10: Key Levels to Watch Next - dailyforex.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Mexican Peso Weighed Down by Renewed USMCA Friction - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9662,
+      "currencies": []
+    },
+    {
       "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
       "source": "Google News",
       "label": "neutral",
@@ -46,105 +55,104 @@
       "currencies": []
     },
     {
-      "title": "StoneX Launches Singapore FX Booking Center and SG1 Connectivity to Expand APAC FX Capabilities - Quiver Quantitative",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8008,
-      "currencies": []
-    },
-    {
-      "title": "Ultima Markets Named \"Prime Player in Forex Industry 2026\" at Forex Expo Dubai - Yahoo Finance",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.762,
-      "currencies": []
-    },
-    {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - nerdwallet.com",
+      "title": "Swiss National Bank bought 1.44 billion francs in foreign currency - Investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Asian currencies mixed as dollar holds highs, yen slips on BOJ signals - Investing.com",
+      "title": "EUR/USD, GBP/USD Outlook: RSI Hits 2020 Oversold Levels - stonex.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9278,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD Forecast: Euro Struggles to Find Support Even After U.S. PCE Data - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9006,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
         "EUR",
+        "USD",
+        "GBP",
         "USD"
       ]
     },
     {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "title": "Banks\u2019 foreign currency loans rise past $16 billion as of June - BusinessWorld",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8636,
+      "currencies": []
+    },
+    {
+      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Alphabet shares up in premarket trade after Gemini 4 Argon launch",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9103,
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Euro slides to 17-month low, hit by rates and inflation cocktail",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9466,
-      "currencies": []
-    },
-    {
-      "title": "Proxy adviser calls for Australia\u2019s ASX shareholders to reject pay report",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7698,
-      "currencies": []
-    },
-    {
-      "title": "Japan PM vows to underpin yen by boosting economic competitiveness",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9426,
-      "currencies": []
-    },
-    {
-      "title": "Persimmon issues 37,736 shares for employee schemes",
+      "title": "First Phosphate at AI & Technology Virtual Investor Conference: onshoring LFP",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Italy\u2019s unemployment rate climbs to 6.2% in August",
+      "title": "KB Securities names top solar stocks amid rising power demand",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.906,
+      "score": 0.5987,
       "currencies": []
     },
     {
-      "title": "10 year US Treasury yield hits highest since 2002",
+      "title": "Alpha Modus Holdings completes $250 million bitcoin PIPE transaction, regains Nasdaq compliance",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7732,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Bonds teeter after US Treasuries\u2019 worst quarter since 1994",
+      "title": "Centrus Energy stock hits 52-week low at 135.75 USD",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9214,
+      "score": -0.9499,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "MSGS options activity: put buyers dominate ahead of Rangers spin-off",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
+    },
+    {
+      "title": "Bonds fend off bears; Micron results boost tech stocks",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8823,
+      "currencies": []
+    },
+    {
+      "title": "SpaceX launches 13th long-duration astronaut crew to International Space Station",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "AQNB stock hits 52-week high at 26.69 USD",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.4751,
+      "currencies": [
+        "USD"
+      ]
     }
   ],
   "run_id": 1
