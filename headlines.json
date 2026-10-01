@@ -1,10 +1,10 @@
 {
   "headlines": [
     {
-      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
+      "title": "Japan Pauses Forex Intervention as Yen Strengthens - wsj.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.7106,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -22,14 +22,14 @@
       "currencies": []
     },
     {
-      "title": "Japanese Yen - CME Group",
+      "title": "Japanese Yen - cmegroup.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - forex.com",
+      "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -67,14 +67,7 @@
       "currencies": []
     },
     {
-      "title": "Dollar set for big rise in September, mainly at Euro's expense - The Star",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8779,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD Forecast: Euro Struggles to Find Support Even After U.S. PCE Data - forex.com",
+      "title": "EUR/USD Forecast: Euro Struggles to Find Support Even After U.S. PCE Data - FOREX.com",
       "source": "Google News",
       "label": "bearish",
       "score": -0.9006,
@@ -91,59 +84,66 @@
       "currencies": []
     },
     {
-      "title": "Fastly CTO Artur Bergman sells $918,830 in stock in late September",
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Paramount gets court green light on Warner Bros deal, names Mattel\u2019s Kreiz co-CEO",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Sound financial Bancorp CEO Laura Stewart sells $41,391 common stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Related, NextEra plan $22B Texas power plant for data center",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Progress Software Q3 2026 slides: EPS beats, Domo acquisition detailed",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Bonds post worst month in years; stocks decline for September and oil gains",
+      "title": "Gold little changed after 6% September slide as softer U.S. PCE cuts Fed hike bets",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9682,
+      "score": -0.7771,
       "currencies": []
     },
     {
-      "title": "Russia attacks Ukrainian energy grid, forcing power cuts as winter looms",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9539,
-      "currencies": []
-    },
-    {
-      "title": "Progress Q3 2026 slides: EPS beats, Domo acquisition reshapes outlook",
+      "title": "Conifer management buys $66.3m in Group 1 Automotive stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Lilly\u2019s Foundayo shows cardiovascular safety in diabetes trial",
+      "title": "Dollar gets lift from higher yields",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8009,
+      "score": 0.8617,
+      "currencies": []
+    },
+    {
+      "title": "Oil prices barely changed as investors assess US-Iran peace talks and Gulf exports",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Nikkei 225 hits overbought MFI 100 near 68,000: Live levels",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "SK Hynix trapped in no-trade zone at \u20a91,778,000: Live levels",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Paramount Skydance prices $42 billion debt for Warner Bros deal",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

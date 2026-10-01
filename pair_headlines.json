@@ -3,7 +3,7 @@
   "pairs": {
     "AUD/USD": [
       {
-        "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - forex.com",
+        "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -11,24 +11,18 @@
     ],
     "EUR/USD": [
       {
-        "title": "EUR/USD Forecast: Euro Struggles to Find Support Even After U.S. PCE Data - forex.com",
+        "title": "EUR/USD Forecast: Euro Struggles to Find Support Even After U.S. PCE Data - FOREX.com",
         "source": "Google News",
         "label": "bearish",
         "score": -0.9006
-      },
-      {
-        "title": "EUR/USD Price Forecast: Monthly outlook mixed, daily chart remains bearish",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9194
       }
     ],
     "USD/JPY": [
       {
-        "title": "USD/JPY Price Forecast: 50-day SMA caps recovery near 158.00",
+        "title": "Canadian Dollar seems vulnerable near two-month low as USD maintains bullish undertone",
         "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.4911
+        "label": "bearish",
+        "score": -0.9436
       }
     ]
   }
