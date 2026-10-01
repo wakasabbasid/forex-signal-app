@@ -8,80 +8,7 @@
       "currencies": []
     },
     {
-      "title": "Forex Currencies: live prices, changes, trading volume and daily charts - Yahoo! Finance Canada",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Japanese Yen - CME Group",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
-    },
-    {
-      "title": "USD/INR Pulls Back From 96.10: Key Levels to Watch Next - dailyforex.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Mexican Peso Weighed Down by Renewed USMCA Friction - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9662,
-      "currencies": []
-    },
-    {
-      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Swiss National Bank bought 1.44 billion francs in foreign currency - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD, GBP/USD Outlook: RSI Hits 2020 Oversold Levels - stonex.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD",
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "Banks\u2019 foreign currency loans rise past $16 billion as of June - BusinessWorld",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8636,
-      "currencies": []
-    },
-    {
-      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -95,64 +22,129 @@
       "currencies": []
     },
     {
-      "title": "First Phosphate at AI & Technology Virtual Investor Conference: onshoring LFP",
-      "source": "Investing.com",
+      "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - forex.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
+    },
+    {
+      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "KB Securities names top solar stocks amid rising power demand",
-      "source": "Investing.com",
+      "title": "Mexican Peso Weighed Down by Renewed USMCA Friction - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9662,
+      "currencies": []
+    },
+    {
+      "title": "USD/JPY Forecast: \u00a5158 Resistance in Focus as Dollar Pulls Back - DailyForex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5028,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "Ultima Markets Named \"Prime Player in Forex Industry 2026\" at Forex Expo Dubai - Yahoo Finance",
+      "source": "Google News",
       "label": "bullish",
-      "score": 0.5987,
+      "score": 0.762,
       "currencies": []
     },
     {
-      "title": "Alpha Modus Holdings completes $250 million bitcoin PIPE transaction, regains Nasdaq compliance",
+      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Dollar holds as elevated U.S. yields overshadow cooling inflation data - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Banks\u2019 foreign currency loans rise past $16 billion as of June - BusinessWorld",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8636,
+      "currencies": []
+    },
+    {
+      "title": "Kiwi Drops as Tight NZ Election and Fed Outlook Drag On - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9211,
+      "currencies": []
+    },
+    {
+      "title": "Hertz Global Holdings announces board changes with three new director appointments",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Centrus Energy stock hits 52-week low at 135.75 USD",
+      "title": "Yields fall after US 10-year hits highest since 2002; US stocks inch up",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9499,
-      "currencies": [
-        "USD"
-      ]
+      "score": -0.8804,
+      "currencies": []
     },
     {
-      "title": "MSGS options activity: put buyers dominate ahead of Rangers spin-off",
+      "title": "US judge finds law criminalizing\u00a0noncitizen voting unconstitutional",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Bonds fend off bears; Micron results boost tech stocks",
+      "title": "Mexico stocks lower at close of trade; S&P/BMV IPC down 0.60%",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8823,
+      "label": "bearish",
+      "score": -0.966,
       "currencies": []
     },
     {
-      "title": "SpaceX launches 13th long-duration astronaut crew to International Space Station",
+      "title": "Chinese state funds backed purchases of restricted Nvidia AI chips, report says",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "AQNB stock hits 52-week high at 26.69 USD",
+      "title": "Traeger appoints David R. Jolley to board and key committees",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.4751,
-      "currencies": [
-        "USD"
-      ]
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Colombia stocks lower at close of trade; COLCAP down 0.74%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9689,
+      "currencies": []
+    },
+    {
+      "title": "Nike plans more job cuts, geographic changes after forecasting sharp revenue drop",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7707,
+      "currencies": []
     }
   ],
   "run_id": 1

@@ -3,7 +3,7 @@
   "pairs": {
     "AUD/USD": [
       {
-        "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - FOREX.com",
+        "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - forex.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -11,44 +11,16 @@
     ],
     "USD/JPY": [
       {
-        "title": "USD/INR Pulls Back From 96.10: Key Levels to Watch Next - dailyforex.com",
+        "title": "USD/JPY Forecast: \u00a5158 Resistance in Focus as Dollar Pulls Back - DailyForex",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Centrus Energy stock hits 52-week low at 135.75 USD",
-        "source": "Investing.com",
         "label": "bearish",
-        "score": -0.9499
+        "score": -0.5028
       },
       {
-        "title": "AQNB stock hits 52-week high at 26.69 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.4751
-      },
-      {
-        "title": "USD/JPY makes a quick dip",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/USD, GBP/USD Outlook: RSI Hits 2020 Oversold Levels - stonex.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "EUR/USD, GBP/USD Outlook: RSI Hits 2020 Oversold Levels - stonex.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "title": "Mexican Peso rout deepens as USD/MXN blasts 18.30",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.5317
       }
     ]
   }
