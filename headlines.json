@@ -1,14 +1,14 @@
 {
   "headlines": [
     {
-      "title": "Japan Pauses Forex Intervention as Yen Strengthens - wsj.com",
+      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.7106,
       "currencies": []
     },
     {
-      "title": "Swiss National Bank bought 1.44 billion francs in foreign currency - Investing.com",
+      "title": "Japanese Yen - CME Group",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -22,7 +22,7 @@
       "currencies": []
     },
     {
-      "title": "Japanese Yen - cmegroup.com",
+      "title": "Swiss National Bank bought 1.44 billion francs in foreign currency - Investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -46,10 +46,10 @@
       "currencies": []
     },
     {
-      "title": "Japan Currency Intervention Amounted To 0 Yen From Aug 27 To Sept 28 - MoF - Forex Factory",
+      "title": "StoneX Launches Singapore FX Booking Center and SG1 Connectivity to Expand APAC FX Capabilities - Quiver Quantitative",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.8008,
       "currencies": []
     },
     {
@@ -60,10 +60,17 @@
       "currencies": []
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - nerdwallet.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Asian currencies mixed as dollar holds highs, yen slips on BOJ signals - Investing.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9278,
       "currencies": []
     },
     {
@@ -77,13 +84,6 @@
       ]
     },
     {
-      "title": "Dollar down after soft PCE, but still on track for best month since June - Investing.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.908,
-      "currencies": []
-    },
-    {
       "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
       "label": "neutral",
@@ -91,59 +91,59 @@
       "currencies": []
     },
     {
-      "title": "Paramount gets court green light on Warner Bros deal, names Mattel\u2019s Kreiz co-CEO",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Gold little changed after 6% September slide as softer U.S. PCE cuts Fed hike bets",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7771,
-      "currencies": []
-    },
-    {
-      "title": "Conifer management buys $66.3m in Group 1 Automotive stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Dollar gets lift from higher yields",
+      "title": "Alphabet shares up in premarket trade after Gemini 4 Argon launch",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8617,
+      "score": 0.9103,
       "currencies": []
     },
     {
-      "title": "Oil prices barely changed as investors assess US-Iran peace talks and Gulf exports",
+      "title": "Euro slides to 17-month low, hit by rates and inflation cocktail",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9466,
+      "currencies": []
+    },
+    {
+      "title": "Proxy adviser calls for Australia\u2019s ASX shareholders to reject pay report",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7698,
+      "currencies": []
+    },
+    {
+      "title": "Japan PM vows to underpin yen by boosting economic competitiveness",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9426,
+      "currencies": []
+    },
+    {
+      "title": "Persimmon issues 37,736 shares for employee schemes",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Nikkei 225 hits overbought MFI 100 near 68,000: Live levels",
+      "title": "Italy\u2019s unemployment rate climbs to 6.2% in August",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.906,
       "currencies": []
     },
     {
-      "title": "SK Hynix trapped in no-trade zone at \u20a91,778,000: Live levels",
+      "title": "10 year US Treasury yield hits highest since 2002",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.7732,
       "currencies": []
     },
     {
-      "title": "Paramount Skydance prices $42 billion debt for Warner Bros deal",
+      "title": "Bonds teeter after US Treasuries\u2019 worst quarter since 1994",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9214,
       "currencies": []
     }
   ],

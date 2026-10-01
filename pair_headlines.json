@@ -15,14 +15,40 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.9006
+      },
+      {
+        "title": "EUR/GBP Price Forecast: Bounces up from 0.8530 with the bearish trend intact",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9411
+      },
+      {
+        "title": "EUR/USD Price Forecast: Downside pressure might intensify below 1.1300",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8825
       }
     ],
     "USD/JPY": [
       {
-        "title": "Canadian Dollar seems vulnerable near two-month low as USD maintains bullish undertone",
-        "source": "FXStreet",
+        "title": "Gold (XAU/USD) analysis: The upside remains limited by US-Iran stalemate, strong NFP risk",
+        "source": "ForexLive",
         "label": "bearish",
-        "score": -0.9436
+        "score": -0.6383
+      },
+      {
+        "title": "Gold fails ahead of $4,200 as surging US yields and Iran risks lift USD closer to YTD top",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.5798
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "EUR/GBP Price Forecast: Bounces up from 0.8530 with the bearish trend intact",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9411
       }
     ]
   }
