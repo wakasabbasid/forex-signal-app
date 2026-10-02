@@ -22,21 +22,19 @@
       "currencies": []
     },
     {
+      "title": "India Forex Reserves Log Record Weekly Drop on Rupee Defense - Bloomberg.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9623,
+      "currencies": []
+    },
+    {
       "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
         "AUD",
-        "USD"
-      ]
-    },
-    {
-      "title": "Canadian Dollar Slips on Oil Retreat and USD Strength - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9482,
-      "currencies": [
         "USD"
       ]
     },
@@ -48,41 +46,33 @@
       "currencies": []
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
+      "title": "Swiss National Bank bought 1.44 billion francs in foreign currency - Investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Ultima Markets Named \"Prime Player in Forex Industry 2026\" at Forex Expo Dubai - Yahoo Finance",
+      "title": "Canadian Dollar Slips on Oil Retreat and USD Strength - tradingpedia.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.762,
-      "currencies": []
-    },
-    {
-      "title": "USD/JPY Forecast: \u00a5158 Resistance in Focus as Dollar Pulls Back - dailyforex.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9427,
       "currencies": [
-        "USD",
-        "JPY"
+        "USD"
       ]
     },
     {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
+      "title": "India's forex reserves fall $18.34 billion to $747.56 billion in week ended September 25 - The Economic Times",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9635,
       "currencies": []
     },
     {
-      "title": "Euro Falls as French Fiscal Worries and Fed Lift Dollar - TradingPedia",
+      "title": "Kiwi Dollar Gains as Policy, Yield Headwinds Loom Ahead - tradingpedia.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.6849,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -93,59 +83,70 @@
       "currencies": []
     },
     {
-      "title": "Evacuated in an incubator, now back in Gaza getting to know mama",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Volvo Cars falls as Q3 sales slump 11% on China, U.S. weakness",
-      "source": "Investing.com",
+      "title": "Euro Falls as French Fiscal Worries and Fed Lift Dollar - tradingpedia.com",
+      "source": "Google News",
       "label": "bearish",
-      "score": -0.9715,
+      "score": -0.6428,
       "currencies": []
     },
     {
-      "title": "Novartis signs mRNA deal for about $7.8 billion with China\u2019s Abogen",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Exclusive-US tells France and Germany to release diesel stocks or face US export ban, sources say",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.907,
-      "currencies": []
-    },
-    {
-      "title": "Nonfarm payrolls loom large; bond market volatility - what\u2019s moving markets",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "+106%, +38%, +37%, see which stocks are in and out of our AI-picks for October",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Berenberg initiates Vodafone stock coverage with buy rating",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Julius Baer jumps 3% after launching CHF600 mln share buyback",
+      "title": "Rivian deliveries hit record high as R2 rollout gains momentum",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9144,
+      "score": 0.9235,
+      "currencies": []
+    },
+    {
+      "title": "Dutch eyewear chain Hans Anders halts sale of Meta glasses, citing privacy concerns",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9139,
+      "currencies": []
+    },
+    {
+      "title": "Why is Allegro Microsystems stock surging today?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Amentum Holdings stock hits 52-week low at 17.88 USD",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9573,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Morocco stocks lower at close of trade; Moroccan All Shares down 0.94%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9685,
+      "currencies": []
+    },
+    {
+      "title": "NHPBP stock hits 52-week high at 25.46 USD",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7008,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Chinese auto show debuts in Argentina as their sales surge",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8269,
+      "currencies": []
+    },
+    {
+      "title": "Uranium Energy Corp. ticks up as RBC highlights domestic supply chain ambitions",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.637,
       "currencies": []
     }
   ],

@@ -7,34 +7,32 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "AUD/USD Price Forecast: Strengthen to near 0.6950, but keeping bearish bias amid oversold conditions",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8001
       }
     ],
     "USD/JPY": [
       {
-        "title": "Canadian Dollar Slips on Oil Retreat and USD Strength - TradingPedia",
+        "title": "Canadian Dollar Slips on Oil Retreat and USD Strength - tradingpedia.com",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.9482
+        "score": -0.9427
       },
       {
-        "title": "USD/JPY Forecast: \u00a5158 Resistance in Focus as Dollar Pulls Back - dailyforex.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/USD: Under pressure on Euro stress \u2013 Deutsche Bank",
-        "source": "FXStreet",
+        "title": "Amentum Holdings stock hits 52-week low at 17.88 USD",
+        "source": "Investing.com",
         "label": "bearish",
-        "score": -0.8689
+        "score": -0.9573
+      },
+      {
+        "title": "NHPBP stock hits 52-week high at 25.46 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.7008
+      },
+      {
+        "title": "Yields move lower. Stock futures point to a higher open. The USD falls after jobs report",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.9373
       }
     ]
   }
