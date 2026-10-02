@@ -3,7 +3,7 @@
   "pairs": {
     "AUD/USD": [
       {
-        "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - forex.com",
+        "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -17,10 +17,16 @@
         "score": -0.5028
       },
       {
-        "title": "Mexican Peso rout deepens as USD/MXN blasts 18.30",
+        "title": "British Pound struggles near June 26 lows as USD retains bullish tone ahead of US NFP",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.5317
+        "score": -0.903
+      },
+      {
+        "title": "Australian Dollar drifts toward 0.69 as USD shrugs off Fed patience",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.772
       }
     ]
   }

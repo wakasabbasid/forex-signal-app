@@ -15,6 +15,13 @@
       "currencies": []
     },
     {
+      "title": "exchange rate - britannica.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
@@ -22,7 +29,7 @@
       "currencies": []
     },
     {
-      "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - forex.com",
+      "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -63,87 +70,80 @@
       "currencies": []
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
+      "title": "Tax raid finds Rs 1.12 crore cash and Rs 4.34 lakh foreign currency at Delhi man's home; he fights case t - The Times of India",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.551,
+      "currencies": []
+    },
+    {
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - jpmorgan.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Dollar holds as elevated U.S. yields overshadow cooling inflation data - Investing.com",
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Banks\u2019 foreign currency loans rise past $16 billion as of June - BusinessWorld",
-      "source": "Google News",
+      "title": "Australia\u2019s Sunrise Energy Metals plans US redomicile, primary Nasdaq listing",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Oil rises slightly as market weighs mixed supply signals",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8636,
+      "score": 0.4462,
       "currencies": []
     },
     {
-      "title": "Kiwi Drops as Tight NZ Election and Fed Outlook Drag On - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9211,
+      "title": "Tokyo core inflation rate jumps in September, bolsters case for more BOJ hikes",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7611,
       "currencies": []
     },
     {
-      "title": "Hertz Global Holdings announces board changes with three new director appointments",
+      "title": "G20 trade chiefs to denounce food trade coercion but not excess factory capacity",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Yields fall after US 10-year hits highest since 2002; US stocks inch up",
+      "title": "Nikkei 225 stalls below resistance after V-shaped recovery: Live",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8804,
+      "score": -0.5873,
       "currencies": []
     },
     {
-      "title": "US judge finds law criminalizing\u00a0noncitizen voting unconstitutional",
+      "title": "SK Hynix stuck in neutral zone at \u20a91,836,000: Live levels",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Mexico stocks lower at close of trade; S&P/BMV IPC down 0.60%",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.966,
-      "currencies": []
-    },
-    {
-      "title": "Chinese state funds backed purchases of restricted Nvidia AI chips, report says",
+      "title": "Moderna to replace Warner Bros Discovery\u00a0 on Nasdaq 100",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Traeger appoints David R. Jolley to board and key committees",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Colombia stocks lower at close of trade; COLCAP down 0.74%",
+      "title": "Fed policymakers lean against October rate hike",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9689,
-      "currencies": []
-    },
-    {
-      "title": "Nike plans more job cuts, geographic changes after forecasting sharp revenue drop",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7707,
+      "score": -0.6972,
       "currencies": []
     }
   ],
