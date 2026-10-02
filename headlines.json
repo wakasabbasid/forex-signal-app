@@ -15,13 +15,6 @@
       "currencies": []
     },
     {
-      "title": "exchange rate - britannica.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
@@ -39,28 +32,27 @@
       ]
     },
     {
-      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
+      "title": "Canadian Dollar Slips on Oil Retreat and USD Strength - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9482,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - reuters.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Mexican Peso Weighed Down by Renewed USMCA Friction - TradingPedia",
+      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9662,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
-    },
-    {
-      "title": "USD/JPY Forecast: \u00a5158 Resistance in Focus as Dollar Pulls Back - DailyForex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5028,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
     },
     {
       "title": "Ultima Markets Named \"Prime Player in Forex Industry 2026\" at Forex Expo Dubai - Yahoo Finance",
@@ -70,80 +62,90 @@
       "currencies": []
     },
     {
-      "title": "Tax raid finds Rs 1.12 crore cash and Rs 4.34 lakh foreign currency at Delhi man's home; he fights case t - The Times of India",
+      "title": "USD/JPY Forecast: \u00a5158 Resistance in Focus as Dollar Pulls Back - dailyforex.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Euro Falls as French Fiscal Worries and Fed Lift Dollar - TradingPedia",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.551,
+      "score": -0.6849,
       "currencies": []
     },
     {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - jpmorgan.com",
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - reuters.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Australia\u2019s Sunrise Energy Metals plans US redomicile, primary Nasdaq listing",
+      "title": "Evacuated in an incubator, now back in Gaza getting to know mama",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Oil rises slightly as market weighs mixed supply signals",
+      "title": "Volvo Cars falls as Q3 sales slump 11% on China, U.S. weakness",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9715,
+      "currencies": []
+    },
+    {
+      "title": "Novartis signs mRNA deal for about $7.8 billion with China\u2019s Abogen",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Exclusive-US tells France and Germany to release diesel stocks or face US export ban, sources say",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.907,
+      "currencies": []
+    },
+    {
+      "title": "Nonfarm payrolls loom large; bond market volatility - what\u2019s moving markets",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "+106%, +38%, +37%, see which stocks are in and out of our AI-picks for October",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Berenberg initiates Vodafone stock coverage with buy rating",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Julius Baer jumps 3% after launching CHF600 mln share buyback",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.4462,
-      "currencies": []
-    },
-    {
-      "title": "Tokyo core inflation rate jumps in September, bolsters case for more BOJ hikes",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7611,
-      "currencies": []
-    },
-    {
-      "title": "G20 trade chiefs to denounce food trade coercion but not excess factory capacity",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Nikkei 225 stalls below resistance after V-shaped recovery: Live",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5873,
-      "currencies": []
-    },
-    {
-      "title": "SK Hynix stuck in neutral zone at \u20a91,836,000: Live levels",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Moderna to replace Warner Bros Discovery\u00a0 on Nasdaq 100",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Fed policymakers lean against October rate hike",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6972,
+      "score": 0.9144,
       "currencies": []
     }
   ],

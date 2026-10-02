@@ -7,26 +7,34 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "AUD/USD Price Forecast: Strengthen to near 0.6950, but keeping bearish bias amid oversold conditions",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8001
       }
     ],
     "USD/JPY": [
       {
-        "title": "USD/JPY Forecast: \u00a5158 Resistance in Focus as Dollar Pulls Back - DailyForex",
+        "title": "Canadian Dollar Slips on Oil Retreat and USD Strength - TradingPedia",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.5028
+        "score": -0.9482
       },
       {
-        "title": "British Pound struggles near June 26 lows as USD retains bullish tone ahead of US NFP",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.903
-      },
+        "title": "USD/JPY Forecast: \u00a5158 Resistance in Focus as Dollar Pulls Back - dailyforex.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "EUR/USD": [
       {
-        "title": "Australian Dollar drifts toward 0.69 as USD shrugs off Fed patience",
+        "title": "EUR/USD: Under pressure on Euro stress \u2013 Deutsche Bank",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.772
+        "score": -0.8689
       }
     ]
   }
