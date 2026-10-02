@@ -15,17 +15,10 @@
       "currencies": []
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - nerdwallet.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "India Forex Reserves Log Record Weekly Drop on Rupee Defense - Bloomberg.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9623,
       "currencies": []
     },
     {
@@ -39,7 +32,7 @@
       ]
     },
     {
-      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - reuters.com",
+      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -53,100 +46,109 @@
       "currencies": []
     },
     {
-      "title": "Canadian Dollar Slips on Oil Retreat and USD Strength - tradingpedia.com",
+      "title": "Canadian Dollar Slips on Oil Retreat and USD Strength - TradingPedia",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9427,
+      "score": -0.9482,
       "currencies": [
         "USD"
       ]
     },
     {
-      "title": "India's forex reserves fall $18.34 billion to $747.56 billion in week ended September 25 - The Economic Times",
+      "title": "India's forex reserves fall $18.34 billion to $747.56 billion in week ended September 25 - economictimes.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9635,
+      "score": -0.9393,
       "currencies": []
     },
     {
-      "title": "Kiwi Dollar Gains as Policy, Yield Headwinds Loom Ahead - tradingpedia.com",
+      "title": "India's Forex Reserves Drop $18.34B to $747.56B: RBI - Rediff MoneyWiz",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9321,
+      "currencies": []
+    },
+    {
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - reuters.com",
+      "title": "USD Sets Fresh Yearly High as EUR/USD Drops Dramatically, USD/JPY Stable - FOREX.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9038,
+      "currencies": [
+        "USD",
+        "EUR",
+        "USD",
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Euro Falls as French Fiscal Worries and Fed Lift Dollar - tradingpedia.com",
-      "source": "Google News",
+      "title": "Stocks climb after weak US jobs data, but bonds resume selling",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6428,
+      "score": -0.5801,
       "currencies": []
     },
     {
-      "title": "Rivian deliveries hit record high as R2 rollout gains momentum",
+      "title": "U.S. stocks end higher as Fed hike bets wane, but post weekly loss on bond rout",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8059,
+      "currencies": []
+    },
+    {
+      "title": "Dollar set for fourth weekly gain versus euro",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9235,
+      "score": 0.8815,
       "currencies": []
     },
     {
-      "title": "Dutch eyewear chain Hans Anders halts sale of Meta glasses, citing privacy concerns",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9139,
-      "currencies": []
-    },
-    {
-      "title": "Why is Allegro Microsystems stock surging today?",
+      "title": "Trump expected to name Jay Clayton as AI czar",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Amentum Holdings stock hits 52-week low at 17.88 USD",
+      "title": "Massachusetts governor\u00a0asks Trump administration to speed natgas pipeline review",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9573,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Morocco stocks lower at close of trade; Moroccan All Shares down 0.94%",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9685,
+      "label": "bullish",
+      "score": 0.6771,
       "currencies": []
     },
     {
-      "title": "NHPBP stock hits 52-week high at 25.46 USD",
+      "title": "Pasqal appoints Roger Chuchen as head of investor relations",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7008,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Chinese auto show debuts in Argentina as their sales surge",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8269,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Uranium Energy Corp. ticks up as RBC highlights domestic supply chain ambitions",
+      "title": "Pluristyx completes FDA drug master file for PluriFreeze system",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.637,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Integer noteholders can convert bonds through December 31",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

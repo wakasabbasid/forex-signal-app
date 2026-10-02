@@ -11,28 +11,30 @@
     ],
     "USD/JPY": [
       {
-        "title": "Canadian Dollar Slips on Oil Retreat and USD Strength - tradingpedia.com",
+        "title": "Canadian Dollar Slips on Oil Retreat and USD Strength - TradingPedia",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.9427
+        "score": -0.9482
       },
       {
-        "title": "Amentum Holdings stock hits 52-week low at 17.88 USD",
-        "source": "Investing.com",
+        "title": "USD Sets Fresh Yearly High as EUR/USD Drops Dramatically, USD/JPY Stable - FOREX.com",
+        "source": "Google News",
         "label": "bearish",
-        "score": -0.9573
-      },
-      {
-        "title": "NHPBP stock hits 52-week high at 25.46 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.7008
+        "score": -0.9038
       },
       {
         "title": "Yields move lower. Stock futures point to a higher open. The USD falls after jobs report",
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.9373
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "USD Sets Fresh Yearly High as EUR/USD Drops Dramatically, USD/JPY Stable - FOREX.com",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9038
       }
     ]
   }
