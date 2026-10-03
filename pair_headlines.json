@@ -1,26 +1,20 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/JPY": [
-      {
-        "title": "Canadian Dollar Slips on Oil Retreat and USD Strength - TradingPedia",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9482
-      },
-      {
-        "title": "Yields move lower. Stock futures point to a higher open. The USD falls after jobs report",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.9373
-      }
-    ],
     "AUD/USD": [
       {
         "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      }
+    ],
+    "USD/JPY": [
+      {
+        "title": "Yields move lower. Stock futures point to a higher open. The USD falls after jobs report",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.9373
       }
     ]
   }
