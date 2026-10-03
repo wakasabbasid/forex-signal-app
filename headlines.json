@@ -50,10 +50,10 @@
       "currencies": []
     },
     {
-      "title": "Iran\u2019s rial hits fresh low as $2 billion currency intervention fails to stem slide - Investing.com Nigeria",
+      "title": "Swiss National Bank bought 1.44 billion francs in foreign currency - Investing.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9495,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -61,6 +61,13 @@
       "source": "Google News",
       "label": "bearish",
       "score": -0.9729,
+      "currencies": []
+    },
+    {
+      "title": "Mexican Peso Weighed Down by Renewed USMCA Friction - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9662,
       "currencies": []
     },
     {
@@ -74,17 +81,38 @@
       ]
     },
     {
-      "title": "Swiss National Bank bought 1.44 billion francs in foreign currency - Investing.com",
+      "title": "Iran\u2019s rial hits fresh low as $2 billion currency intervention fails to stem slide - Investing.com Nigeria",
       "source": "Google News",
+      "label": "bearish",
+      "score": -0.9495,
+      "currencies": []
+    },
+    {
+      "title": "White House forms AI task force to assess technology risks - WSJ",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
-      "source": "Google News",
+      "title": "How Muse Stacks up Vs. OpenAI Dots",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Nestle India product sample declared unsafe by food regulator",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9412,
+      "currencies": []
+    },
+    {
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9603,
       "currencies": []
     },
     {
@@ -113,34 +141,6 @@
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Iran\u2019s rial hits fresh low as $2 billion currency intervention fails to stem slide",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9273,
-      "currencies": []
-    },
-    {
-      "title": "Genmab reports trial results for ovarian cancer drug candidate",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7412,
-      "currencies": []
-    },
-    {
-      "title": "OpenAI safety employee quits, says \u2019time for trial and error is over\u2019",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8397,
-      "currencies": []
-    },
-    {
-      "title": "Bitcoin stuck at $84,947 in tightening range: Live levels",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7781,
       "currencies": []
     }
   ],
