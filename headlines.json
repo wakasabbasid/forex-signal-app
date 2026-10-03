@@ -8,6 +8,13 @@
       "currencies": []
     },
     {
+      "title": "What Stretched 10-Year Yields Mean for Major Currency Pairs in Q4 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Japanese Yen - CME Group",
       "source": "Google News",
       "label": "neutral",
@@ -15,21 +22,11 @@
       "currencies": []
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - nerdwallet.com",
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
-    },
-    {
-      "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
     },
     {
       "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
@@ -55,17 +52,10 @@
       ]
     },
     {
-      "title": "India's forex reserves fall $18.34 billion to $747.56 billion in week ended September 25 - economictimes.com",
+      "title": "exchange rate - Britannica",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9393,
-      "currencies": []
-    },
-    {
-      "title": "India's Forex Reserves Drop $18.34B to $747.56B: RBI - Rediff MoneyWiz",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9321,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -76,16 +66,13 @@
       "currencies": []
     },
     {
-      "title": "USD Sets Fresh Yearly High as EUR/USD Drops Dramatically, USD/JPY Stable - FOREX.com",
+      "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - FOREX.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9038,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
-        "USD",
-        "EUR",
-        "USD",
-        "USD",
-        "JPY"
+        "AUD",
+        "USD"
       ]
     },
     {
@@ -96,56 +83,63 @@
       "currencies": []
     },
     {
-      "title": "Stocks climb after weak US jobs data, but bonds resume selling",
-      "source": "Investing.com",
+      "title": "Kiwi Dollar Gains as Policy, Yield Headwinds Loom Ahead - TradingPedia",
+      "source": "Google News",
       "label": "bearish",
-      "score": -0.5801,
+      "score": -0.4493,
       "currencies": []
     },
     {
-      "title": "U.S. stocks end higher as Fed hike bets wane, but post weekly loss on bond rout",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8059,
-      "currencies": []
-    },
-    {
-      "title": "Dollar set for fourth weekly gain versus euro",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8815,
-      "currencies": []
-    },
-    {
-      "title": "Trump expected to name Jay Clayton as AI czar",
+      "title": "Disney licenses \u2019Ice Age,\u2019 \u2019Percy Jackson\u2019 and other titles to Netflix",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Massachusetts governor\u00a0asks Trump administration to speed natgas pipeline review",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6771,
-      "currencies": []
-    },
-    {
-      "title": "Pasqal appoints Roger Chuchen as head of investor relations",
+      "title": "Auburn National Bancorporation director buys $2,007 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Pluristyx completes FDA drug master file for PluriFreeze system",
+      "title": "Plato Gold closes initial $55,000 flow-through placement",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Integer noteholders can convert bonds through December 31",
+      "title": "Crowdstrike CEO George Kurtz sells $5.3m in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "TransUnion president Todd Skinner sells $62,290 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "TransUnion EVP Abdelsadek sells $15,572 in common stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "New York attorney general named special prosecutor in Cornell rape probe",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Fed\u2019s Hammack tells PBS there\u2019s still time to weigh next monetary policy move",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

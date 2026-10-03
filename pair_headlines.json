@@ -1,14 +1,6 @@
 {
   "run_id": 1,
   "pairs": {
-    "AUD/USD": [
-      {
-        "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
     "USD/JPY": [
       {
         "title": "Canadian Dollar Slips on Oil Retreat and USD Strength - TradingPedia",
@@ -17,24 +9,18 @@
         "score": -0.9482
       },
       {
-        "title": "USD Sets Fresh Yearly High as EUR/USD Drops Dramatically, USD/JPY Stable - FOREX.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9038
-      },
-      {
         "title": "Yields move lower. Stock futures point to a higher open. The USD falls after jobs report",
         "source": "ForexLive",
         "label": "bearish",
         "score": -0.9373
       }
     ],
-    "EUR/USD": [
+    "AUD/USD": [
       {
-        "title": "USD Sets Fresh Yearly High as EUR/USD Drops Dramatically, USD/JPY Stable - FOREX.com",
+        "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - FOREX.com",
         "source": "Google News",
-        "label": "bearish",
-        "score": -0.9038
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }
