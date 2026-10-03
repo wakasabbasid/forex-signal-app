@@ -8,14 +8,6 @@
         "label": "neutral",
         "score": 0.0
       }
-    ],
-    "USD/JPY": [
-      {
-        "title": "Yields move lower. Stock futures point to a higher open. The USD falls after jobs report",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.9373
-      }
     ]
   }
 }

@@ -22,13 +22,6 @@
       "currencies": []
     },
     {
-      "title": "What Stretched 10-Year Yields Mean for Major Currency Pairs in Q4 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
@@ -37,6 +30,13 @@
     },
     {
       "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "What Stretched 10-Year Yields Mean for Major Currency Pairs in Q4 - StoneX",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -57,17 +57,17 @@
       "currencies": []
     },
     {
+      "title": "Indias Forex Reserves Decline by $18.3 Billion, Biggest Weekly Fall on Record, Reveals RBI Data - TheWire.in",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9729,
+      "currencies": []
+    },
+    {
       "title": "Mexican Peso Weighed Down by Renewed USMCA Friction - TradingPedia",
       "source": "Google News",
       "label": "bearish",
       "score": -0.9662,
-      "currencies": []
-    },
-    {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -88,59 +88,59 @@
       "currencies": []
     },
     {
-      "title": "Analysis-AI\u2019s race to transform the world before the money runs out",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "G20 countries split over US push to curb excess industrial capacity",
+      "title": "Smoke and fire reported near Aramco facility in Riyadh as Houthi tensions escalate",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.726,
+      "score": -0.8651,
       "currencies": []
     },
     {
-      "title": "Fed\u2019s Hammack says there is time to weigh next rate move",
+      "title": "Renault to invest over \u20ac10 billion in France for EVs",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.621,
+      "currencies": []
+    },
+    {
+      "title": "Flydubai co-pilot attacked pilot with axe in\u00a0attempted \u2019terrorist attack\u2019, UAE says",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6838,
+      "currencies": []
+    },
+    {
+      "title": "InvestingPro\u2019s Fair Value spotted 62% gain in Dime Community stock",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9157,
+      "currencies": []
+    },
+    {
+      "title": "how Fair Value spotted Sable Offshore\u2019s 51% decline 11 months early",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8533,
+      "currencies": []
+    },
+    {
+      "title": "Beyond the gas pump: How much oil do we really consume?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why rising exports aren\u2019t easing oil market fears",
+      "title": "As public fears of AI grow, Trump digs in on voluntary safeguards",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Widgets & Web Offers All-Inclusive Investor Relations Websites for Public Companies, IPOs and SPACs",
+      "title": "US-Russia talks on Ukraine involve multi-billion dollar oil deal, NYT reports",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Natera president Solomon Moshkevich sells $1.24m in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Crowdstrike president Michael Sentonas sells $64.2 million in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Spyre Therapeutics\u2019 chief legal officer sells $2.63m in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.6355,
       "currencies": []
     }
   ],
