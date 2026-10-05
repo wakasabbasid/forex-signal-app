@@ -8,7 +8,18 @@
       "currencies": []
     },
     {
-      "title": "Forex Currencies: live prices, changes, trading volume and daily charts - Yahoo! Finance Canada",
+      "title": "Forex Weekly Forecast: USD Outlook, EUR/USD, Nasdaq & Crypto - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "What Is the Foreign Exchange Market: A Guide - britannica.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -29,13 +40,6 @@
       "currencies": []
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
       "source": "Google News",
       "label": "neutral",
@@ -43,35 +47,35 @@
       "currencies": []
     },
     {
-      "title": "What Stretched 10-Year Yields Mean for Major Currency Pairs in Q4 - FOREX.com",
+      "title": "What Stretched 10-Year Yields Mean for Major Currency Pairs in Q4 - forex.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Swiss National Bank bought 1.44 billion francs in foreign currency - Investing.com",
+      "title": "Rupee seen at 95.30-96.80 in October; global yields, FPI outflows pose risk: Report - TradingView",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Indias Forex Reserves Decline by $18.3 Billion, Biggest Weekly Fall on Record, Reveals RBI Data - TheWire.in",
+      "title": "Iran\u2019s rial hits fresh low as $2 billion currency intervention fails to stem slide By Investing.com - Investing.com South Africa",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9729,
+      "score": -0.9318,
       "currencies": []
     },
     {
-      "title": "Mexican Peso Weighed Down by Renewed USMCA Friction - TradingPedia",
+      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9662,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - FOREX.com",
+      "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - forex.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -81,66 +85,66 @@
       ]
     },
     {
-      "title": "Iran\u2019s rial hits fresh low as $2 billion currency intervention fails to stem slide - Investing.com Nigeria",
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9495,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "White House forms AI task force to assess technology risks - WSJ",
+      "title": "U.S. stock futures tick higher as soft jobs data eases Fed hike bets",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.671,
+      "currencies": []
+    },
+    {
+      "title": "Reflationist ex-BOJ policymaker calls end to low rates, big spending",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "How Muse Stacks up Vs. OpenAI Dots",
+      "title": "AkzoNobel to sell Southeast Asia paints business to Nippon Paint for $1.35 billion",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Nestle India product sample declared unsafe by food regulator",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9412,
-      "currencies": []
-    },
-    {
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9603,
-      "currencies": []
-    },
-    {
-      "title": "Iraq\u2019s state tanker firm moves crude through Hormuz strait",
+      "title": "OPEC+ agrees to keep November oil output targets steady",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Yemen\u2019s Houthis say they attacked Aramco facility in Riyadh with missiles, drones",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7359,
-      "currencies": []
-    },
-    {
-      "title": "U.S. midterms: Breaking down expected impact on equities",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9597,
-      "currencies": []
-    },
-    {
-      "title": "How AI investment has unusually large multiplier effects",
+      "title": "Appeals court pauses reinstatement of fired Seattle federal prosecutor",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "OpenAI\u2019s Altman says AI benefits warrant accepting some risks",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5029,
+      "currencies": []
+    },
+    {
+      "title": "Oil climbs after Yemeni Houthis attack Saudi Aramco sites",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.613,
+      "currencies": []
+    },
+    {
+      "title": "UK set to impose Chinese EV levies amid EU trade pressure - report",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8677,
       "currencies": []
     }
   ],

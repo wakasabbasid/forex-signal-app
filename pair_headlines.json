@@ -1,12 +1,34 @@
 {
   "run_id": 1,
   "pairs": {
-    "AUD/USD": [
+    "EUR/USD": [
       {
-        "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - FOREX.com",
+        "title": "Forex Weekly Forecast: USD Outlook, EUR/USD, Nasdaq & Crypto - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "MUFG recommends short EUR/JPY, targets 172 as French bond stress and BoJ hikes weigh",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.7764
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - forex.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "USD/JPY": [
+      {
+        "title": "MUFG recommends short EUR/JPY, targets 172 as French bond stress and BoJ hikes weigh",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.7764
       }
     ]
   }
