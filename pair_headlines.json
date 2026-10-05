@@ -3,78 +3,32 @@
   "pairs": {
     "EUR/USD": [
       {
-        "title": "Forex Weekly Forecast: USD Outlook, EUR/USD, Nasdaq & Crypto - DailyForex",
+        "title": "EUR/USD: Why the Selling Pressure Is Drawing Attention - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "EUR/JPY Price Forecast: Tests ascending channel lower boundary near 176.50",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "USD/CAD": [
-      {
-        "title": "USD/CAD Holds Near Peaks as Safe-Haven Demand Lifts Dollar - TradingPedia",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.9184
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "AUD/JPY Price Forecast: Declines below 110.00, technical bias stays bearish",
+        "title": "Euro: Debt contagion fears weigh on EUR against US Dollar \u2013 Societe Generale",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9523
+        "score": -0.898
+      }
+    ],
+    "USD/CHF": [
+      {
+        "title": "USD/CHF Rises as Mideast Tensions Shift Haven Flows - TradingPedia",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.3945
       }
     ],
     "USD/JPY": [
       {
-        "title": "Japan officials toughen tone on yen as USD/JPY holds near 158",
-        "source": "ForexLive",
+        "title": "USD/INR Edges Lower as Softer Fed Outlook Caps Dollar - TradingPedia",
+        "source": "Google News",
         "label": "bearish",
-        "score": -0.5769
-      },
-      {
-        "title": "Gold flat lines below $4,150 as rallying USD offsets receding Fed hike bets",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.5584
-      },
-      {
-        "title": "AUD/JPY Price Forecast: Declines below 110.00, technical bias stays bearish",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9523
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Tests ascending channel lower boundary near 176.50",
-        "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Breaking: Euro plummets to May 2025 low vs bullish USD amid France's debt crisis",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9655
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "GBP/USD Price Forecast: YTD low near 1.3140 to act as key support level",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.5179
+        "score": -0.9587
       }
     ]
   }

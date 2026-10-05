@@ -8,7 +8,52 @@
       "currencies": []
     },
     {
+      "title": "BC-US-Foreign Exchange - Yahoo Finance",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "EUR/USD: Why the Selling Pressure Is Drawing Attention - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "What Stretched 10-Year Yields Mean for Major Currency Pairs in Q4 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "The euro reaches a potential turning point versus the dollar - CMC Markets",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9008,
+      "currencies": []
+    },
+    {
+      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - nerdwallet.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -22,132 +67,85 @@
       "currencies": []
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "title": "USD/CHF Rises as Mideast Tensions Shift Haven Flows - TradingPedia",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.3945,
+      "currencies": [
+        "USD",
+        "CHF"
+      ]
+    },
+    {
+      "title": "Euro falls to 17-month low on Paris fiscal worries - Investing.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9261,
       "currencies": []
     },
     {
-      "title": "Forex Weekly Forecast: USD Outlook, EUR/USD, Nasdaq & Crypto - DailyForex",
+      "title": "USD/INR Edges Lower as Softer Fed Outlook Caps Dollar - TradingPedia",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9587,
       "currencies": [
-        "USD",
-        "EUR",
         "USD"
       ]
     },
     {
-      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Asian currencies weaker as dollar surges, euro hits 17-month low - Investing.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9552,
-      "currencies": []
-    },
-    {
-      "title": "USD/CAD Holds Near Peaks as Safe-Haven Demand Lifts Dollar - TradingPedia",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9184,
-      "currencies": [
-        "USD",
-        "CAD"
-      ]
-    },
-    {
-      "title": "What Stretched 10-Year Yields Mean for Major Currency Pairs in Q4 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Currency Volatility: Dollar Strength, Euro Weakness? - J.P. Morgan",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
-    },
-    {
-      "title": "Mizuho initiates Vylor stock with Outperform rating on seed demand",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6535,
-      "currencies": []
-    },
-    {
-      "title": "Jefferies initiates Samsara stock with buy rating on AI potential",
+      "title": "UK grocer Sainsbury\u2019s held merger talks with rival Morrisons, reports say",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Tap Global appoints Moorwand as issuer for multi-currency card",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "BMO initiates nVent Electric stock coverage with outperform rating",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.891,
-      "currencies": []
-    },
-    {
-      "title": "BMO initiates Vertiv stock with Outperform on data center growth",
+      "title": "US Supreme Court hears bid by oil companies to avoid climate lawsuit",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7853,
+      "score": -0.6274,
       "currencies": []
     },
     {
-      "title": "Leftist, nationalists set to win election for Bosnia\u2019s tripartite presidency",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Huawei agrees to a multi-year patent licensing deal with Qualcomm",
+      "title": "Poland stocks higher at close of trade; WIG30 up 1.50%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9362,
+      "score": 0.9351,
       "currencies": []
     },
     {
-      "title": "Lexington Gold appoints Mark Greenwood as new CEO",
+      "title": "Meta, TikTok and X challenge UK regulator over data demands",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8098,
+      "currencies": []
+    },
+    {
+      "title": "Meta, TikTok, X challenge UK watchdog over online safety data demands",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "TD Cowen reiterates Buy on BridgeBio Pharma stock, cites cardiac data",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US and German scientists win Nobel medicine prize for work on light and brain",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8638,
+      "currencies": []
+    },
+    {
+      "title": "Turkey stocks higher at close of trade; BIST 100 up 1.42%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9323,
       "currencies": []
     }
   ],
