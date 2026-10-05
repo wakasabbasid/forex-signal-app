@@ -3,16 +3,22 @@
   "pairs": {
     "EUR/USD": [
       {
+        "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
         "title": "EUR/USD: Why the Selling Pressure Is Drawing Attention - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "Euro: Debt contagion fears weigh on EUR against US Dollar \u2013 Societe Generale",
+        "title": "EUR/CHF Price Forecast: 100-day SMA limits immediate downside",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.898
+        "score": -0.9064
       }
     ],
     "USD/CHF": [
@@ -21,14 +27,34 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.3945
+      },
+      {
+        "title": "EUR/CHF Price Forecast: 100-day SMA limits immediate downside",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9064
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "The AUD is the lone wolf of the major currencies as it rallies versus the greenback.",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.5811
       }
     ],
     "USD/JPY": [
       {
-        "title": "USD/INR Edges Lower as Softer Fed Outlook Caps Dollar - TradingPedia",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9587
+        "title": "Mexican Peso builds winning streak as USD/MXN drifts toward 18.00",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8976
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD builds base above $60, eyes $64",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.909
       }
     ]
   }

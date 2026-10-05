@@ -1,17 +1,20 @@
 {
   "headlines": [
     {
+      "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
       "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
       "source": "Google News",
       "label": "bearish",
       "score": -0.7106,
-      "currencies": []
-    },
-    {
-      "title": "BC-US-Foreign Exchange - Yahoo Finance",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -25,13 +28,6 @@
       ]
     },
     {
-      "title": "What Stretched 10-Year Yields Mean for Major Currency Pairs in Q4 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -39,10 +35,10 @@
       "currencies": []
     },
     {
-      "title": "The euro reaches a potential turning point versus the dollar - CMC Markets",
+      "title": "BC-US-Foreign Exchange - Yahoo Finance",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.9008,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -53,10 +49,17 @@
       "currencies": []
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - nerdwallet.com",
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Euro falls to 17-month low on Paris fiscal worries - Investing.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9261,
       "currencies": []
     },
     {
@@ -77,75 +80,73 @@
       ]
     },
     {
-      "title": "Euro falls to 17-month low on Paris fiscal worries - Investing.com",
+      "title": "What Stretched 10-Year Yields Mean for Major Currency Pairs in Q4 - FOREX.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9261,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "USD/INR Edges Lower as Softer Fed Outlook Caps Dollar - TradingPedia",
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9587,
-      "currencies": [
-        "USD"
-      ]
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
-      "title": "UK grocer Sainsbury\u2019s held merger talks with rival Morrisons, reports say",
+      "title": "Fortitude Mining signs letter of intent for Bitmain equipment",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US Supreme Court hears bid by oil companies to avoid climate lawsuit",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6274,
-      "currencies": []
-    },
-    {
-      "title": "Poland stocks higher at close of trade; WIG30 up 1.50%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9351,
-      "currencies": []
-    },
-    {
-      "title": "Meta, TikTok and X challenge UK regulator over data demands",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8098,
-      "currencies": []
-    },
-    {
-      "title": "Meta, TikTok, X challenge UK watchdog over online safety data demands",
+      "title": "PubMatic CEO Rajeev K. Goel sells $953k in company shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "TD Cowen reiterates Buy on BridgeBio Pharma stock, cites cardiac data",
+      "title": "PubMatic general counsel Andrew Woods sells $108,984 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US and German scientists win Nobel medicine prize for work on light and brain",
+      "title": "Pubmatic CFO Steven Pantelick sells $445k in shares",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8638,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Turkey stocks higher at close of trade; BIST 100 up 1.42%",
+      "title": "PubMatic president of engineering Mukul Kumar sells $149k in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "American Well CFO Mark Hirschhorn sells $55,666 AMWL stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Intellinetics director Paul Seid buys $834 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin hovers under $86k as traders parse positive CFTC move against bond rout",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9323,
+      "score": 0.5424,
       "currencies": []
     }
   ],
