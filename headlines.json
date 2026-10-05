@@ -8,18 +8,7 @@
       "currencies": []
     },
     {
-      "title": "Forex Weekly Forecast: USD Outlook, EUR/USD, Nasdaq & Crypto - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "What Is the Foreign Exchange Market: A Guide - britannica.com",
+      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -40,6 +29,17 @@
       "currencies": []
     },
     {
+      "title": "Forex Weekly Forecast: USD Outlook, EUR/USD, Nasdaq & Crypto - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "EUR",
+        "USD"
+      ]
+    },
+    {
       "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
       "source": "Google News",
       "label": "neutral",
@@ -47,24 +47,27 @@
       "currencies": []
     },
     {
-      "title": "What Stretched 10-Year Yields Mean for Major Currency Pairs in Q4 - forex.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Rupee seen at 95.30-96.80 in October; global yields, FPI outflows pose risk: Report - TradingView",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Iran\u2019s rial hits fresh low as $2 billion currency intervention fails to stem slide By Investing.com - Investing.com South Africa",
+      "title": "Asian currencies weaker as dollar surges, euro hits 17-month low - Investing.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9318,
+      "score": -0.9552,
+      "currencies": []
+    },
+    {
+      "title": "USD/CAD Holds Near Peaks as Safe-Haven Demand Lifts Dollar - TradingPedia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9184,
+      "currencies": [
+        "USD",
+        "CAD"
+      ]
+    },
+    {
+      "title": "What Stretched 10-Year Yields Mean for Major Currency Pairs in Q4 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -75,7 +78,14 @@
       "currencies": []
     },
     {
-      "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - forex.com",
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -85,66 +95,59 @@
       ]
     },
     {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "U.S. stock futures tick higher as soft jobs data eases Fed hike bets",
+      "title": "Mizuho initiates Vylor stock with Outperform rating on seed demand",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.671,
+      "score": 0.6535,
       "currencies": []
     },
     {
-      "title": "Reflationist ex-BOJ policymaker calls end to low rates, big spending",
+      "title": "Jefferies initiates Samsara stock with buy rating on AI potential",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "AkzoNobel to sell Southeast Asia paints business to Nippon Paint for $1.35 billion",
+      "title": "Tap Global appoints Moorwand as issuer for multi-currency card",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "OPEC+ agrees to keep November oil output targets steady",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Appeals court pauses reinstatement of fired Seattle federal prosecutor",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "OpenAI\u2019s Altman says AI benefits warrant accepting some risks",
+      "title": "BMO initiates nVent Electric stock coverage with outperform rating",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5029,
+      "score": 0.891,
       "currencies": []
     },
     {
-      "title": "Oil climbs after Yemeni Houthis attack Saudi Aramco sites",
+      "title": "BMO initiates Vertiv stock with Outperform on data center growth",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.613,
+      "score": -0.7853,
       "currencies": []
     },
     {
-      "title": "UK set to impose Chinese EV levies amid EU trade pressure - report",
+      "title": "Leftist, nationalists set to win election for Bosnia\u2019s tripartite presidency",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8677,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Huawei agrees to a multi-year patent licensing deal with Qualcomm",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9362,
+      "currencies": []
+    },
+    {
+      "title": "Lexington Gold appoints Mark Greenwood as new CEO",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

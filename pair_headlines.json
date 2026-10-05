@@ -9,26 +9,72 @@
         "score": 0.0
       },
       {
-        "title": "MUFG recommends short EUR/JPY, targets 172 as French bond stress and BoJ hikes weigh",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.7764
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - forex.com",
-        "source": "Google News",
+        "title": "EUR/JPY Price Forecast: Tests ascending channel lower boundary near 176.50",
+        "source": "FXStreet",
         "label": "neutral",
         "score": 0.0
       }
     ],
+    "USD/CAD": [
+      {
+        "title": "USD/CAD Holds Near Peaks as Safe-Haven Demand Lifts Dollar - TradingPedia",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.9184
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "AUD/USD forecast: Currency Pair of the Week | September 28, 2026 - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "AUD/JPY Price Forecast: Declines below 110.00, technical bias stays bearish",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9523
+      }
+    ],
     "USD/JPY": [
       {
-        "title": "MUFG recommends short EUR/JPY, targets 172 as French bond stress and BoJ hikes weigh",
+        "title": "Japan officials toughen tone on yen as USD/JPY holds near 158",
         "source": "ForexLive",
         "label": "bearish",
-        "score": -0.7764
+        "score": -0.5769
+      },
+      {
+        "title": "Gold flat lines below $4,150 as rallying USD offsets receding Fed hike bets",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.5584
+      },
+      {
+        "title": "AUD/JPY Price Forecast: Declines below 110.00, technical bias stays bearish",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9523
+      },
+      {
+        "title": "EUR/JPY Price Forecast: Tests ascending channel lower boundary near 176.50",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Breaking: Euro plummets to May 2025 low vs bullish USD amid France's debt crisis",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9655
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Price Forecast: YTD low near 1.3140 to act as key support level",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.5179
       }
     ]
   }
