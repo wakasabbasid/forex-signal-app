@@ -1,40 +1,40 @@
 {
   "run_id": 1,
   "pairs": {
-    "EUR/USD": [
+    "USD/JPY": [
       {
-        "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - forex.com",
+        "title": "Currency Divergence Deepens as USD Holds Firm - Forex Factory",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.7631
+      },
+      {
+        "title": "USD/ZAR: Is the Pullback More Than a Pause? - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "Euro: Political risks keep EUR under pressure against US Dollar \u2013 MUFG",
-        "source": "FXStreet",
+        "title": "Xenon Pharmaceuticals stock hits 52-week low at 36.06 USD",
+        "source": "Investing.com",
         "label": "bearish",
-        "score": -0.6783
+        "score": -0.9583
       }
     ],
-    "GBP/USD": [
+    "EUR/USD": [
       {
-        "title": "GBP/USD Nears a Turning Point After Holding 1.3200 - DailyForex",
+        "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - StoneX",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "USD/CHF": [
+      {
+        "title": "USD/CHF Forecast: Carry Trade Continues to Favor the Dollar - DailyForex",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.8494
-      }
-    ],
-    "USD/JPY": [
-      {
-        "title": "Gold recovers further from two-month low amid some USD profit-taking",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.811
-      },
-      {
-        "title": "British Pound bounces off 1.3200 amid modest USD pullback; lacks bullish conviction",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.6056
+        "score": 0.862
       }
     ]
   }

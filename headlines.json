@@ -8,22 +8,18 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - forex.com",
+      "title": "Korea\u2019s Forex Reserves Fall for First Time in Four Months - Businesskorea",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
+      "label": "bearish",
+      "score": -0.966,
+      "currencies": []
     },
     {
-      "title": "GBP/USD Nears a Turning Point After Holding 1.3200 - DailyForex",
+      "title": "Currency Divergence Deepens as USD Holds Firm - Forex Factory",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8494,
+      "score": 0.7631,
       "currencies": [
-        "GBP",
         "USD"
       ]
     },
@@ -35,6 +31,15 @@
       "currencies": []
     },
     {
+      "title": "USD/ZAR: Is the Pullback More Than a Pause? - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
       "source": "Google News",
       "label": "neutral",
@@ -42,10 +47,10 @@
       "currencies": []
     },
     {
-      "title": "Dollar near 18-month highs; ECB\u2019s Lane cautions on inflation pass-through - Investing.com",
+      "title": "BDO has rolled out 24-hour self-service currency exchange machines at NAIA Terminal 3, allowing arriving passengers to instantly convert foreign banknotes into local currency. Link to the full story in the comments section. | via ANC 24/7 - Facebook",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.5606,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -56,6 +61,23 @@
       "currencies": []
     },
     {
+      "title": "Forex Daily Part 2: The Euro Is Wearing France\u2019s Fiscal Bill - The Dark Side Of The Boom",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - StoneX",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
       "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
@@ -63,87 +85,71 @@
       "currencies": []
     },
     {
-      "title": "Euro Slips Toward 17-Month Low on French Fiscal Woes - TradingPedia",
+      "title": "USD/CHF Forecast: Carry Trade Continues to Favor the Dollar - DailyForex",
       "source": "Google News",
+      "label": "bullish",
+      "score": 0.862,
+      "currencies": [
+        "USD",
+        "CHF"
+      ]
+    },
+    {
+      "title": "US EIA hikes oil price forecasts again as Iran war drains global stockpile",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9467,
+      "score": -0.9248,
       "currencies": []
     },
     {
-      "title": "Euro near 17-month low as political and fiscal tensions weigh on European currency - Economies.com",
-      "source": "Google News",
+      "title": "Xenon Pharmaceuticals stock hits 52-week low at 36.06 USD",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9315,
-      "currencies": []
+      "score": -0.9583,
+      "currencies": [
+        "USD"
+      ]
     },
     {
-      "title": "BC-US-Foreign Exchange - Yahoo Finance",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "What Stretched 10-Year Yields Mean for Major Currency Pairs in Q4 - forex.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Tech billionaires gain $845 billion in first nine months of 2026",
+      "title": "U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 0.43%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5572,
+      "score": 0.9249,
       "currencies": []
     },
     {
-      "title": "Toshiba denies report of takeover battle with Seagate over TDK",
+      "title": "Spain stocks higher at close of trade; IBEX 35 up 0.75%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9357,
+      "currencies": []
+    },
+    {
+      "title": "Portugal stocks higher at close of trade; PSI up 0.71%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9442,
+      "currencies": []
+    },
+    {
+      "title": "Netherlands stocks higher at close of trade; AEX up 0.40%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9391,
+      "currencies": []
+    },
+    {
+      "title": "Kalshi launches stock index perpetual future to expand product suite",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Bitcoin flat at $85.3k as soaring yields offset regulatory hopes",
+      "title": "Italy stocks higher at close of trade; Investing.com Italy 40 up 0.91%",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6064,
-      "currencies": []
-    },
-    {
-      "title": "Factbox-Major brokerages\u2019 forecasts for S&P 500 index in 2026",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Roku VP, CAO Matthew Banks sells $84,324 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Roku director Neil Hunt sells $302,185 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Rush Street Interactive CEO Richard Schwartz sells $3.1m in Class A shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Commercial real estate buyers demand price cuts as rates rise",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8308,
+      "label": "bullish",
+      "score": 0.9272,
       "currencies": []
     }
   ],
