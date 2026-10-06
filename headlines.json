@@ -15,12 +15,20 @@
       "currencies": []
     },
     {
-      "title": "Currency Divergence Deepens as USD Holds Firm - Forex Factory",
+      "title": "Mexico to focus on local currency debt, says finance minister - Investing.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.7631,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "USD/CAD Forecast: Is the Canadian Dollar Back in the Game? - StoneX",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
-        "USD"
+        "USD",
+        "CAD"
       ]
     },
     {
@@ -29,6 +37,15 @@
       "label": "neutral",
       "score": 0.0,
       "currencies": []
+    },
+    {
+      "title": "Currency Divergence Deepens as USD Holds Firm - Forex Factory",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7631,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "USD/ZAR: Is the Pullback More Than a Pause? - DailyForex",
@@ -47,6 +64,13 @@
       "currencies": []
     },
     {
+      "title": "Japanese Yen - CME Group",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "BDO has rolled out 24-hour self-service currency exchange machines at NAIA Terminal 3, allowing arriving passengers to instantly convert foreign banknotes into local currency. Link to the full story in the comments section. | via ANC 24/7 - Facebook",
       "source": "Google News",
       "label": "neutral",
@@ -54,10 +78,10 @@
       "currencies": []
     },
     {
-      "title": "Japanese Yen - CME Group",
+      "title": "NY Forex: Dollar-Yen Little Changed in Lower 158 Range, Euro Holds Firm Near Highs - BigGo Finance",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.3677,
       "currencies": []
     },
     {
@@ -68,88 +92,59 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - StoneX",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
-      "source": "Google News",
+      "title": "Tiny acquires Oso Cloud for $1.9M, adds $5.3M in ARR",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "USD/CHF Forecast: Carry Trade Continues to Favor the Dollar - DailyForex",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.862,
-      "currencies": [
-        "USD",
-        "CHF"
-      ]
+      "title": "Radiant Logistics acquires Whitacre\u2019s Dallas operations",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
-      "title": "US EIA hikes oil price forecasts again as Iran war drains global stockpile",
+      "title": "Trading Day: Running with the bulls",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Dollar slips as euro rebounds after France\u2019s Le Pen unveils budget proposals",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9248,
+      "score": -0.8975,
       "currencies": []
     },
     {
-      "title": "Xenon Pharmaceuticals stock hits 52-week low at 36.06 USD",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9583,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 0.43%",
+      "title": "Crude inventories fall more than expected, boosting oil prices",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9249,
+      "score": 0.5441,
       "currencies": []
     },
     {
-      "title": "Spain stocks higher at close of trade; IBEX 35 up 0.75%",
+      "title": "Marvell raises 2028 revenue forecast on strong AI data center demand",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9357,
+      "score": 0.9167,
       "currencies": []
     },
     {
-      "title": "Portugal stocks higher at close of trade; PSI up 0.71%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9442,
-      "currencies": []
-    },
-    {
-      "title": "Netherlands stocks higher at close of trade; AEX up 0.40%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9391,
-      "currencies": []
-    },
-    {
-      "title": "Kalshi launches stock index perpetual future to expand product suite",
+      "title": "Delek US stock initiated at Hold by Freedom Broker on margin outlook",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Italy stocks higher at close of trade; Investing.com Italy 40 up 0.91%",
+      "title": "Jefferies cuts Hawaiian Electric stock price target on storm costs",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9272,
+      "label": "bearish",
+      "score": -0.8536,
       "currencies": []
     }
   ],

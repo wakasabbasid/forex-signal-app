@@ -1,6 +1,14 @@
 {
   "run_id": 1,
   "pairs": {
+    "USD/CAD": [
+      {
+        "title": "USD/CAD Forecast: Is the Canadian Dollar Back in the Game? - StoneX",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
     "USD/JPY": [
       {
         "title": "Currency Divergence Deepens as USD Holds Firm - Forex Factory",
@@ -15,26 +23,10 @@
         "score": 0.0
       },
       {
-        "title": "Xenon Pharmaceuticals stock hits 52-week low at 36.06 USD",
-        "source": "Investing.com",
+        "title": "Silver Price Forecast: XAG/USD remains range-bound below daily SMAs",
+        "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9583
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - StoneX",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "USD/CHF": [
-      {
-        "title": "USD/CHF Forecast: Carry Trade Continues to Favor the Dollar - DailyForex",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.862
+        "score": -0.8965
       }
     ]
   }
