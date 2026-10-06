@@ -13,12 +13,6 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "EUR/CHF Price Forecast: 100-day SMA limits immediate downside",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9064
       }
     ],
     "USD/CHF": [
@@ -27,34 +21,32 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.3945
-      },
-      {
-        "title": "EUR/CHF Price Forecast: 100-day SMA limits immediate downside",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9064
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "The AUD is the lone wolf of the major currencies as it rallies versus the greenback.",
-        "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.5811
       }
     ],
     "USD/JPY": [
       {
-        "title": "Mexican Peso builds winning streak as USD/MXN drifts toward 18.00",
+        "title": "New Zealand Dollar consolidates around 0.5600, near YTD low as USD stays bullish",
         "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8976
+        "label": "bearish",
+        "score": -0.9388
       },
       {
-        "title": "Silver Price Forecast: XAG/USD builds base above $60, eyes $64",
+        "title": "Silver Price Forecast: XAG/USD falls to near $60.50 as US Treasury yields rise",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9692
+      },
+      {
+        "title": "British Pound extends range play; holds above 1.3200 as bullish USD caps upside",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.909
+        "score": 0.8497
+      },
+      {
+        "title": "Canadian Dollar seems vulnerable near April 2025 lows amid weak oil prices, bullish USD",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8914
       }
     ]
   }

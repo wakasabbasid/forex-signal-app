@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7106,
+      "currencies": []
+    },
+    {
       "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -9,13 +16,6 @@
         "EUR",
         "USD"
       ]
-    },
-    {
-      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7106,
-      "currencies": []
     },
     {
       "title": "EUR/USD: Why the Selling Pressure Is Drawing Attention - DailyForex",
@@ -56,17 +56,17 @@
       "currencies": []
     },
     {
-      "title": "Euro falls to 17-month low on Paris fiscal worries - Investing.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9261,
-      "currencies": []
-    },
-    {
       "title": "Japanese Yen - CME Group",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Euro falls to 17-month low on Paris fiscal worries - Investing.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9261,
       "currencies": []
     },
     {
@@ -94,59 +94,59 @@
       "currencies": []
     },
     {
-      "title": "Fortitude Mining signs letter of intent for Bitmain equipment",
+      "title": "Azure Energy acquires Algorhythm Holdings common and preferred stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "PubMatic CEO Rajeev K. Goel sells $953k in company shares",
+      "title": "Algorhythm Holdings CEO Andrew Thompson acquires $23 million in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "PubMatic general counsel Andrew Woods sells $108,984 in shares",
+      "title": "Berkshire Hathaway increases Lennar stake with $192.6m stock purchase",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Pubmatic CFO Steven Pantelick sells $445k in shares",
+      "title": "Cornell students stage anti-rape rally in support of \u2019Jane Doe\u2019",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "PubMatic president of engineering Mukul Kumar sells $149k in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "American Well CFO Mark Hirschhorn sells $55,666 AMWL stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Intellinetics director Paul Seid buys $834 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Bitcoin hovers under $86k as traders parse positive CFTC move against bond rout",
+      "title": "Up 57% since June: this AI-picked pharma stock keeps climbing",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5424,
+      "score": 0.9354,
+      "currencies": []
+    },
+    {
+      "title": "USA Rare Earth former CEO sells $1,215,376 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "BIS chief warns soaring debt, market changes could complicate future crisis response",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9583,
+      "currencies": []
+    },
+    {
+      "title": "Exclusive-Accenture contractor removed from FBI following damaging data breach, sources say",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9446,
       "currencies": []
     }
   ],
