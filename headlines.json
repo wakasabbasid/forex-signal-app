@@ -8,7 +8,7 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - FOREX.com",
+      "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - forex.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -18,24 +18,17 @@
       ]
     },
     {
-      "title": "EUR/USD: Why the Selling Pressure Is Drawing Attention - DailyForex",
+      "title": "GBP/USD Nears a Turning Point After Holding 1.3200 - DailyForex",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.8494,
       "currencies": [
-        "EUR",
+        "GBP",
         "USD"
       ]
     },
     {
       "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "BC-US-Foreign Exchange - Yahoo Finance",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -49,10 +42,10 @@
       "currencies": []
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "title": "Dollar near 18-month highs; ECB\u2019s Lane cautions on inflation pass-through - Investing.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.5606,
       "currencies": []
     },
     {
@@ -63,90 +56,94 @@
       "currencies": []
     },
     {
-      "title": "Euro falls to 17-month low on Paris fiscal worries - Investing.com",
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Euro Slips Toward 17-Month Low on French Fiscal Woes - TradingPedia",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9261,
+      "score": -0.9467,
       "currencies": []
     },
     {
-      "title": "USD/CHF Rises as Mideast Tensions Shift Haven Flows - TradingPedia",
+      "title": "Euro near 17-month low as political and fiscal tensions weigh on European currency - Economies.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.3945,
-      "currencies": [
-        "USD",
-        "CHF"
-      ]
+      "score": -0.9315,
+      "currencies": []
     },
     {
-      "title": "What Stretched 10-Year Yields Mean for Major Currency Pairs in Q4 - FOREX.com",
+      "title": "BC-US-Foreign Exchange - Yahoo Finance",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "title": "What Stretched 10-Year Yields Mean for Major Currency Pairs in Q4 - forex.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Azure Energy acquires Algorhythm Holdings common and preferred stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Algorhythm Holdings CEO Andrew Thompson acquires $23 million in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Berkshire Hathaway increases Lennar stake with $192.6m stock purchase",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Cornell students stage anti-rape rally in support of \u2019Jane Doe\u2019",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Up 57% since June: this AI-picked pharma stock keeps climbing",
+      "title": "Tech billionaires gain $845 billion in first nine months of 2026",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9354,
+      "score": 0.5572,
       "currencies": []
     },
     {
-      "title": "USA Rare Earth former CEO sells $1,215,376 in shares",
+      "title": "Toshiba denies report of takeover battle with Seagate over TDK",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "BIS chief warns soaring debt, market changes could complicate future crisis response",
+      "title": "Bitcoin flat at $85.3k as soaring yields offset regulatory hopes",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9583,
+      "score": -0.6064,
       "currencies": []
     },
     {
-      "title": "Exclusive-Accenture contractor removed from FBI following damaging data breach, sources say",
+      "title": "Factbox-Major brokerages\u2019 forecasts for S&P 500 index in 2026",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Roku VP, CAO Matthew Banks sells $84,324 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Roku director Neil Hunt sells $302,185 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Rush Street Interactive CEO Richard Schwartz sells $3.1m in Class A shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Commercial real estate buyers demand price cuts as rates rise",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9446,
+      "score": -0.8308,
       "currencies": []
     }
   ],
