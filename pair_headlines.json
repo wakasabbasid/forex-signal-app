@@ -1,14 +1,6 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/CAD": [
-      {
-        "title": "USD/CAD Forecast: Is the Canadian Dollar Back in the Game? - StoneX",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
     "USD/JPY": [
       {
         "title": "Currency Divergence Deepens as USD Holds Firm - Forex Factory",
@@ -21,12 +13,14 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
+      }
+    ],
+    "EUR/USD": [
       {
-        "title": "Silver Price Forecast: XAG/USD remains range-bound below daily SMAs",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8965
+        "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - StoneX",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }

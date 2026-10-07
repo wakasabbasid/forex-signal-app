@@ -8,10 +8,10 @@
       "currencies": []
     },
     {
-      "title": "Korea\u2019s Forex Reserves Fall for First Time in Four Months - Businesskorea",
+      "title": "Japan Forex Reserves Fall Further in September - TradingView",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.966,
+      "score": -0.9747,
       "currencies": []
     },
     {
@@ -22,17 +22,21 @@
       "currencies": []
     },
     {
-      "title": "USD/CAD Forecast: Is the Canadian Dollar Back in the Game? - StoneX",
+      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "USD",
-        "CAD"
-      ]
+      "currencies": []
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
+      "title": "Korea\u2019s Forex Reserves Fall for First Time in Four Months - Businesskorea",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.966,
+      "currencies": []
+    },
+    {
+      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -57,7 +61,7 @@
       ]
     },
     {
-      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
+      "title": "BDO installs self-service forex machine at NAIA Terminal 3 - InsiderPH",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -71,20 +75,6 @@
       "currencies": []
     },
     {
-      "title": "BDO has rolled out 24-hour self-service currency exchange machines at NAIA Terminal 3, allowing arriving passengers to instantly convert foreign banknotes into local currency. Link to the full story in the comments section. | via ANC 24/7 - Facebook",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "NY Forex: Dollar-Yen Little Changed in Lower 158 Range, Euro Holds Firm Near Highs - BigGo Finance",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.3677,
-      "currencies": []
-    },
-    {
       "title": "Forex Daily Part 2: The Euro Is Wearing France\u2019s Fiscal Bill - The Dark Side Of The Boom",
       "source": "Google News",
       "label": "neutral",
@@ -92,59 +82,69 @@
       "currencies": []
     },
     {
-      "title": "Tiny acquires Oso Cloud for $1.9M, adds $5.3M in ARR",
+      "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - StoneX",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "SK Hynix bounces at Fibonacci support, cloud traps price: Live",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Radiant Logistics acquires Whitacre\u2019s Dallas operations",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Trading Day: Running with the bulls",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Dollar slips as euro rebounds after France\u2019s Le Pen unveils budget proposals",
+      "title": "Analysis-Vietnam\u2019s banks tap investors for $7 billion as economy runs red hot",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8975,
+      "score": -0.9315,
       "currencies": []
     },
     {
-      "title": "Crude inventories fall more than expected, boosting oil prices",
+      "title": "Nikkei 225 rejected at 71,062 with RSI fading: Live levels",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5441,
+      "label": "bearish",
+      "score": -0.489,
       "currencies": []
     },
     {
-      "title": "Marvell raises 2028 revenue forecast on strong AI data center demand",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9167,
-      "currencies": []
-    },
-    {
-      "title": "Delek US stock initiated at Hold by Freedom Broker on margin outlook",
+      "title": "Divisadero Street Capital, Lifeway Foods 10% owner, buys $2.17m stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Jefferies cuts Hawaiian Electric stock price target on storm costs",
+      "title": "Gold holds gains as oil flows recover, Treasury yields ease",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8908,
+      "currencies": []
+    },
+    {
+      "title": "Oil prices rise as storms and air strikes threaten supply",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8536,
+      "score": -0.9119,
+      "currencies": []
+    },
+    {
+      "title": "Ambiq Micro CFO Jeffrey Winzeler sells $379,644 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Trump to speak with Putin on plague after Russian lab death",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
