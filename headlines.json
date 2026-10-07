@@ -15,6 +15,33 @@
       "currencies": []
     },
     {
+      "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "Japanese Yen - CME Group",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "USD/JPY: Why the Uptrend Still Leaves Buyers Exposed - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
       "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -22,10 +49,31 @@
       "currencies": []
     },
     {
-      "title": "Japan Forex Reserves Fall Further in September - TradingView",
+      "title": "Czech Republic Forex Reserves at 6-Month Low - TradingView",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9747,
+      "score": -0.9208,
+      "currencies": []
+    },
+    {
+      "title": "Korea\u2019s Forex Reserves Fall for First Time in Four Months - Businesskorea",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.966,
+      "currencies": []
+    },
+    {
+      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "BDO has rolled out 24-hour self-service currency exchange machines at NAIA Terminal 3, allowing arriving passengers to instantly convert foreign banknotes into local currency. Link to the full story in the comments section. | via ANC 24/7 - Facebook",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -43,109 +91,59 @@
       "currencies": []
     },
     {
-      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Korea\u2019s Forex Reserves Fall for First Time in Four Months - Businesskorea",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.966,
-      "currencies": []
-    },
-    {
-      "title": "EUR/JPY Retreats Within Downtrend as Technicals Weaken - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9561,
-      "currencies": [
-        "EUR",
-        "JPY"
-      ]
-    },
-    {
-      "title": "USD/CAD Forecast: Is the Canadian Dollar Back in the Game? - StoneX",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "CAD"
-      ]
-    },
-    {
-      "title": "Japanese Yen - CME Group",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Currency Divergence Deepens as USD Holds Firm - Forex Factory",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7631,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Hollywood Bowl shares jump 6% as profit seen in line despite UK heatwave",
+      "title": "MustGrow Biologics at 20th iif: sales grow as Bayer backs pipeline",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9124,
+      "score": 0.9422,
       "currencies": []
     },
     {
-      "title": "Goodman Group faces backlash over Japan data centre project",
+      "title": "Why is AGCO stock sliding today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9596,
+      "score": -0.9297,
       "currencies": []
     },
     {
-      "title": "AMD CEO says continues to explore foundry partnership with Samsung Electronics",
+      "title": "Why is CNH Industrial stock sliding today?",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7883,
+      "label": "bearish",
+      "score": -0.931,
       "currencies": []
     },
     {
-      "title": "Micron\u2019s Taoyuan union in Taiwan secures authorisation to strike",
+      "title": "Essential Properties Realty Trust stock hits 52-week low at $25.37",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7076,
+      "label": "bearish",
+      "score": -0.9592,
       "currencies": []
     },
     {
-      "title": "Forvia stock jumps on India joint venture deal with Anand Group",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "FOMC minutes ahead; Constellation Brands reports - what\u2019s moving markets",
+      "title": "CQS New City High Yield Fund issues 1 million shares at 50.3p",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Nomura Asset counting on Japanese market enthusiasm to expand global business",
+      "title": "Costa Rica\u2019s Grynspan ahead in race to be next UN chief, sources say",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9181,
+      "score": 0.6517,
       "currencies": []
     },
     {
-      "title": "UBS downgrades AppFolio stock rating to neutral on valuation",
+      "title": "At Paris Fashion Week, longer, hotter summers pose new challenge",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why is Deere & Company stock sliding today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9044,
       "currencies": []
     }
   ],
