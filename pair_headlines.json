@@ -1,7 +1,33 @@
 {
   "run_id": 1,
   "pairs": {
+    "EUR/USD": [
+      {
+        "title": "EUR/JPY Retreats Within Downtrend as Technicals Weaken - TradingPedia",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9561
+      },
+      {
+        "title": "Chart of the day: EUR/CHF is becoming a pressure gauge for Europe\u2019s fiscal risks",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.8411
+      },
+      {
+        "title": "EUR/GBP Price Forecast: Rejection at 0.8500 leaves yearly low at 0.8455 exposed",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.955
+      }
+    ],
     "USD/JPY": [
+      {
+        "title": "EUR/JPY Retreats Within Downtrend as Technicals Weaken - TradingPedia",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9561
+      },
       {
         "title": "Currency Divergence Deepens as USD Holds Firm - Forex Factory",
         "source": "Google News",
@@ -9,18 +35,52 @@
         "score": 0.7631
       },
       {
-        "title": "USD/ZAR: Is the Pullback More Than a Pause? - DailyForex",
+        "title": "Silver Price Forecast: XAG/USD ticks lower to near $60.60 as US bond yields bounce back",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.968
+      },
+      {
+        "title": "Australian Dollar pulls back from one-week top as USD stays firm ahead of FOMC Minutes",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9103
+      },
+      {
+        "title": "US Dollar: Lower yields pressure USD as December hike looms - Rabobank",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.7891
+      },
+      {
+        "title": "Gold struggles below $4,150 as USD bulls look to FOMC Minutes for rate hike cues",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8145
+      }
+    ],
+    "USD/CAD": [
+      {
+        "title": "USD/CAD Forecast: Is the Canadian Dollar Back in the Game? - StoneX",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       }
     ],
-    "EUR/USD": [
+    "USD/CHF": [
       {
-        "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - StoneX",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "title": "Chart of the day: EUR/CHF is becoming a pressure gauge for Europe\u2019s fiscal risks",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.8411
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "EUR/GBP Price Forecast: Rejection at 0.8500 leaves yearly low at 0.8455 exposed",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.955
       }
     ]
   }

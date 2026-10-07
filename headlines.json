@@ -1,10 +1,24 @@
 {
   "headlines": [
     {
+      "title": "Forex currencies: live prices, changes, trading volume and daily charts - Yahoo Finance Australia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
       "source": "Google News",
       "label": "bearish",
       "score": -0.7106,
+      "currencies": []
+    },
+    {
+      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -15,6 +29,13 @@
       "currencies": []
     },
     {
+      "title": "Forex Today: US Dollar stabilizes as bond yields recover ahead of FOMC Minutes - FXStreet",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7189,
+      "currencies": []
+    },
+    {
       "title": "Mexico to focus on local currency debt, says finance minister - Investing.com",
       "source": "Google News",
       "label": "neutral",
@@ -22,7 +43,7 @@
       "currencies": []
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
+      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -36,7 +57,27 @@
       "currencies": []
     },
     {
-      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
+      "title": "EUR/JPY Retreats Within Downtrend as Technicals Weaken - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9561,
+      "currencies": [
+        "EUR",
+        "JPY"
+      ]
+    },
+    {
+      "title": "USD/CAD Forecast: Is the Canadian Dollar Back in the Game? - StoneX",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "CAD"
+      ]
+    },
+    {
+      "title": "Japanese Yen - CME Group",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -52,96 +93,56 @@
       ]
     },
     {
-      "title": "USD/ZAR: Is the Pullback More Than a Pause? - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "BDO installs self-service forex machine at NAIA Terminal 3 - InsiderPH",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japanese Yen - CME Group",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Daily Part 2: The Euro Is Wearing France\u2019s Fiscal Bill - The Dark Side Of The Boom",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - StoneX",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "SK Hynix bounces at Fibonacci support, cloud traps price: Live",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Analysis-Vietnam\u2019s banks tap investors for $7 billion as economy runs red hot",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9315,
-      "currencies": []
-    },
-    {
-      "title": "Nikkei 225 rejected at 71,062 with RSI fading: Live levels",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.489,
-      "currencies": []
-    },
-    {
-      "title": "Divisadero Street Capital, Lifeway Foods 10% owner, buys $2.17m stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Gold holds gains as oil flows recover, Treasury yields ease",
+      "title": "Hollywood Bowl shares jump 6% as profit seen in line despite UK heatwave",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8908,
+      "score": 0.9124,
       "currencies": []
     },
     {
-      "title": "Oil prices rise as storms and air strikes threaten supply",
+      "title": "Goodman Group faces backlash over Japan data centre project",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9119,
+      "score": -0.9596,
       "currencies": []
     },
     {
-      "title": "Ambiq Micro CFO Jeffrey Winzeler sells $379,644 in shares",
+      "title": "AMD CEO says continues to explore foundry partnership with Samsung Electronics",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7883,
+      "currencies": []
+    },
+    {
+      "title": "Micron\u2019s Taoyuan union in Taiwan secures authorisation to strike",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7076,
+      "currencies": []
+    },
+    {
+      "title": "Forvia stock jumps on India joint venture deal with Anand Group",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Trump to speak with Putin on plague after Russian lab death",
+      "title": "FOMC minutes ahead; Constellation Brands reports - what\u2019s moving markets",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Nomura Asset counting on Japanese market enthusiasm to expand global business",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9181,
+      "currencies": []
+    },
+    {
+      "title": "UBS downgrades AppFolio stock rating to neutral on valuation",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
