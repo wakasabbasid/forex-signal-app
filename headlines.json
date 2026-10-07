@@ -25,13 +25,6 @@
       ]
     },
     {
-      "title": "Japanese Yen - CME Group",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "USD/JPY: Why the Uptrend Still Leaves Buyers Exposed - DailyForex",
       "source": "Google News",
       "label": "neutral",
@@ -42,24 +35,17 @@
       ]
     },
     {
-      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
+      "title": "Japanese Yen - CME Group",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Czech Republic Forex Reserves at 6-Month Low - TradingView",
+      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9208,
-      "currencies": []
-    },
-    {
-      "title": "Korea\u2019s Forex Reserves Fall for First Time in Four Months - Businesskorea",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.966,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -70,6 +56,20 @@
       "currencies": []
     },
     {
+      "title": "Korea\u2019s Forex Reserves Fall for First Time in Four Months - Businesskorea",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.966,
+      "currencies": []
+    },
+    {
+      "title": "Czech Republic Forex Reserves at 6-Month Low - TradingView",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9208,
+      "currencies": []
+    },
+    {
       "title": "BDO has rolled out 24-hour self-service currency exchange machines at NAIA Terminal 3, allowing arriving passengers to instantly convert foreign banknotes into local currency. Link to the full story in the comments section. | via ANC 24/7 - Facebook",
       "source": "Google News",
       "label": "neutral",
@@ -77,73 +77,76 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar stabilizes as bond yields recover ahead of FOMC Minutes - FXStreet",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7189,
-      "currencies": []
-    },
-    {
-      "title": "Mexico to focus on local currency debt, says finance minister - Investing.com",
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "MustGrow Biologics at 20th iif: sales grow as Bayer backs pipeline",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9422,
-      "currencies": []
+      "title": "EUR/JPY Retreats Within Downtrend as Technicals Weaken - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9561,
+      "currencies": [
+        "EUR",
+        "JPY"
+      ]
     },
     {
-      "title": "Why is AGCO stock sliding today?",
+      "title": "Earnings call transcript: RGP Q1 2027 misses estimates as shares slide after hours",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9297,
+      "score": -0.96,
       "currencies": []
     },
     {
-      "title": "Why is CNH Industrial stock sliding today?",
+      "title": "Wall Street ends lower, off record highs, as Treasury yields climb",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.931,
+      "score": -0.9664,
       "currencies": []
     },
     {
-      "title": "Essential Properties Realty Trust stock hits 52-week low at $25.37",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9592,
-      "currencies": []
-    },
-    {
-      "title": "CQS New City High Yield Fund issues 1 million shares at 50.3p",
+      "title": "IBM advances to third phase of DARPA quantum computing program",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Costa Rica\u2019s Grynspan ahead in race to be next UN chief, sources say",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6517,
-      "currencies": []
-    },
-    {
-      "title": "At Paris Fashion Week, longer, hotter summers pose new challenge",
+      "title": "Medtronic sets final exchange ratio for MiniMed split-off",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is Deere & Company stock sliding today?",
+      "title": "General Dynamics elects insider Danny Deep as CEO effective January 2027",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Fed policymakers divided over rate-hike logic in September, minutes show",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9044,
+      "score": -0.8257,
+      "currencies": []
+    },
+    {
+      "title": "Intermap completes PCI Geomatics acquisition for $7.7 million",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Pine Cliff Energy expands drilling program, secures credit facility",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9225,
       "currencies": []
     }
   ],

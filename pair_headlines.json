@@ -7,6 +7,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "EUR/JPY Retreats Within Downtrend as Technicals Weaken - TradingPedia",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9561
       }
     ],
     "USD/JPY": [
@@ -17,16 +23,22 @@
         "score": 0.0
       },
       {
-        "title": "The USD is mostly higher.  What are the technicals telling traders for the EURUSD, USDJPY & GBPUSD?",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
+        "title": "EUR/JPY Retreats Within Downtrend as Technicals Weaken - TradingPedia",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9561
       },
       {
-        "title": "US Dollar: Energy risks support USD strength \u2013 BBH",
+        "title": "Silver Price Forecast: XAG/USD cracks $60 as bears eye $56",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.9325
+        "score": 0.7535
+      },
+      {
+        "title": "USD/JPY Price Forecast: Pair consolidates below key moving averages",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9105
       }
     ]
   }
