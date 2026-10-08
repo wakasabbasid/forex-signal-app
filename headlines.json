@@ -8,6 +8,13 @@
       "currencies": []
     },
     {
+      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7106,
+      "currencies": []
+    },
+    {
       "title": "Forex Daily: The Euro Doesn\u2019t Fear France, It Fears Contagion - The Dark Side Of The Boom",
       "source": "Google News",
       "label": "neutral",
@@ -15,11 +22,14 @@
       "currencies": []
     },
     {
-      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
+      "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - FOREX.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.7106,
-      "currencies": []
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
     },
     {
       "title": "EUR/USD Volatility Raises a Question Around 1.1200 - DailyForex",
@@ -32,14 +42,11 @@
       ]
     },
     {
-      "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - FOREX.com",
+      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
+      "currencies": []
     },
     {
       "title": "Euro Drops vs Pound on French Budget Risks, Rate Outlook - TradingPedia",
@@ -56,24 +63,24 @@
       "currencies": []
     },
     {
-      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
+      "title": "EURUSD Live Chart, Exchange Rate & Analysis | Trade EURUSD - LiteFinance",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Korea\u2019s Forex Reserves Fall for First Time in Four Months - Businesskorea",
+      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.966,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "The Yen Is Capitalising on the Euro\u2019s Weakness - Action Forex",
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.829,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -84,66 +91,59 @@
       "currencies": []
     },
     {
-      "title": "EURUSD Live Chart, Exchange Rate & Analysis | Trade EURUSD - LiteFinance",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is Glaukos stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8946,
-      "currencies": []
-    },
-    {
-      "title": "Germany stocks lower at close of trade; DAX down 1.12%",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9683,
-      "currencies": []
-    },
-    {
-      "title": "France stocks lower at close of trade; CAC 40 down 0.51%",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.964,
-      "currencies": []
-    },
-    {
-      "title": "NOVAGOLD Q3 2026 slides: Donlin consolidation plan amid rising costs",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6196,
-      "currencies": []
-    },
-    {
-      "title": "Belgium stocks lower at close of trade; BEL 20 down 2.32%",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9678,
-      "currencies": []
-    },
-    {
-      "title": "Verici Dx launches \u00a38m share placing at 0.2p per share",
+      "title": "SailPoint president Matt Mills sells $1.61m in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Horace Mann educators CEO Marita Zuraitis sells $4,600 stock",
+      "title": "SailPoint CPO Abby Payne sells $799,939 in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Central Securities CEO John Hill buys $28,185 in company stock",
+      "title": "Everquote CTO David Brainard sells $97,723 of company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Everquote chief accounting officer Jon Ayotte sells $8,590 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "European industry groups call for urgent EU action on China trade",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7108,
+      "currencies": []
+    },
+    {
+      "title": "Hurricane Isaias strengthens as US Gulf Coast prepares for landfall",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7022,
+      "currencies": []
+    },
+    {
+      "title": "Mexico stocks higher at close of trade; S&P/BMV IPC up 0.52%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9423,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Aritzia posts record Q2 margin, lifts full-year outlook for 2026",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9363,
       "currencies": []
     }
   ],

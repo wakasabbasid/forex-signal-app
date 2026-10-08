@@ -3,36 +3,32 @@
   "pairs": {
     "EUR/USD": [
       {
-        "title": "EUR/USD Volatility Raises a Question Around 1.1200 - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
         "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "Euro: French debt risk weighs on EUR against US Dollar \u2013 ING",
+        "title": "EUR/USD Volatility Raises a Question Around 1.1200 - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/JPY Price Forecast: Struggles at 209.00 as bearish-engulfing looms",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.7945
+        "score": -0.9397
       }
     ],
     "USD/JPY": [
       {
-        "title": "Morning Kickstart: Stocks fall as oil and yields rise; USD edges higher",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.9438
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD slides below $60 as sellers retain control",
+        "title": "GBP/JPY Price Forecast: Struggles at 209.00 as bearish-engulfing looms",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9698
+        "score": -0.9397
       }
     ]
   }
