@@ -7,6 +7,18 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "Chart of the day: EUR/GBP breakdown adds to signs of euro weakness amid France's fiscal troubles",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.9653
+      },
+      {
+        "title": "EUR/JPY Price Forecast: Rebounds above 177.00, oversold territory",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9032
       }
     ],
     "USD/JPY": [
@@ -17,22 +29,24 @@
         "score": 0.0
       },
       {
-        "title": "PBOC sets USD/ CNY reference rate for today at 6.7367 (vs. estimate at 6.7254)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7254 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Silver Price Forecast: XAG/USD cracks $60 as bears eye $56",
+        "title": "EUR/JPY Price Forecast: Rebounds above 177.00, oversold territory",
         "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.7535
+        "label": "bearish",
+        "score": -0.9032
+      },
+      {
+        "title": "Gold bulls remain on the sidelines as hawkish Fed and Middle East jitters underpin USD",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.6612
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "Chart of the day: EUR/GBP breakdown adds to signs of euro weakness amid France's fiscal troubles",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.9653
       }
     ]
   }

@@ -8,13 +8,6 @@
       "currencies": []
     },
     {
-      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7106,
-      "currencies": []
-    },
-    {
       "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -25,14 +18,32 @@
       ]
     },
     {
-      "title": "USD/JPY: Why the Uptrend Still Leaves Buyers Exposed - DailyForex",
+      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
+      "label": "bearish",
+      "score": -0.7106,
+      "currencies": []
+    },
+    {
+      "title": "Asian currencies rangebound as dollar holds near 18-month high, yen slips - Investing.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5448,
+      "currencies": []
+    },
+    {
+      "title": "Aussie Slips as Hawkish Fed Signals Bolster Greenback - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8079,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: Euro stabilizes as markets await comments from central bankers - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.4916,
+      "currencies": []
     },
     {
       "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
@@ -49,14 +60,24 @@
       "currencies": []
     },
     {
-      "title": "Czech Republic Forex Reserves at 6-Month Low - TradingView",
+      "title": "USD/JPY: Why the Uptrend Still Leaves Buyers Exposed - DailyForex",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9208,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "BDO has rolled out 24-hour self-service currency exchange machines at NAIA Terminal 3, allowing arriving passengers to instantly convert foreign banknotes into local currency. Link to the full story in the comments section. | via ANC 24/7 - Facebook",
+      "title": "EURGBP Wave Analysis - Action Forex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -70,80 +91,59 @@
       "currencies": []
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "title": "Why is Levi Strauss stock sliding today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9114,
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar stabilizes as bond yields recover ahead of FOMC Minutes - FXStreet",
-      "source": "Google News",
+      "title": "Morgan Stanley increases stake in Central Asia Metals to 6.2%",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7189,
+      "score": 0.796,
       "currencies": []
     },
     {
-      "title": "Mexico to focus on local currency debt, says finance minister - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Amazon makes fresh job cuts, mainly in retail division",
+      "title": "Pennon claws back some losses after 20% plunge on rights issue, reduced dividend",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9348,
+      "score": -0.913,
       "currencies": []
     },
     {
-      "title": "Tropical Storm\u00a0Isaias forecast to hit US Gulf coast as hurricane early Saturday",
+      "title": "Why is Wise stock sliding today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.4754,
+      "score": -0.8792,
       "currencies": []
     },
     {
-      "title": "U.S. stock futures steady after Wall St retreats from records; yields climb",
+      "title": "Why is Resources Connection stock sliding today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.912,
+      "score": -0.8928,
       "currencies": []
     },
     {
-      "title": "US SEC will not charge top funds over climate concerns but warns of disclosure obligations",
+      "title": "AI use lifts participation in WorldQuant contest",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Nikkei 225 squeezed between SuperTrend and 20 SMA: Live levels",
+      "title": "With inflation risks to upside, ECB may need to hike more, Dolenc says",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6829,
+      "label": "bullish",
+      "score": 0.556,
       "currencies": []
     },
     {
-      "title": "SK Hynix breaks below Ichimoku cloud: Live levels",
+      "title": "Why is ITM Power stock rallying today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Axion Minerals closes $390,000 flow-through private placement",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Asia shares subdued, bonds swamped by AI debt wave",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9589,
       "currencies": []
     }
   ],
