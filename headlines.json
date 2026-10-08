@@ -1,11 +1,35 @@
 {
   "headlines": [
     {
-      "title": "Forex currencies: live prices, changes, trading volume and daily charts - Yahoo Finance Australia",
+      "title": "Forex Currencies: live prices, changes, trading volume and daily charts - Yahoo! Finance Canada",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
+    },
+    {
+      "title": "Forex Daily: The Euro Doesn\u2019t Fear France, It Fears Contagion - The Dark Side Of The Boom",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7106,
+      "currencies": []
+    },
+    {
+      "title": "EUR/USD Volatility Raises a Question Around 1.1200 - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
     },
     {
       "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - FOREX.com",
@@ -18,31 +42,17 @@
       ]
     },
     {
-      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
+      "title": "Euro Drops vs Pound on French Budget Risks, Rate Outlook - TradingPedia",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.7106,
+      "score": -0.9406,
       "currencies": []
     },
     {
-      "title": "Asian currencies rangebound as dollar holds near 18-month high, yen slips - Investing.com",
+      "title": "Forex reserves fall to lowest in 3 years - Philstar.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.5448,
-      "currencies": []
-    },
-    {
-      "title": "Aussie Slips as Hawkish Fed Signals Bolster Greenback - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8079,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: Euro stabilizes as markets await comments from central bankers - FXStreet",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.4916,
+      "score": -0.9619,
       "currencies": []
     },
     {
@@ -60,87 +70,77 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY: Why the Uptrend Still Leaves Buyers Exposed - DailyForex",
+      "title": "The Yen Is Capitalising on the Euro\u2019s Weakness - Action Forex",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "EURGBP Wave Analysis - Action Forex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is Levi Strauss stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9114,
-      "currencies": []
-    },
-    {
-      "title": "Morgan Stanley increases stake in Central Asia Metals to 6.2%",
-      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.796,
+      "score": 0.829,
       "currencies": []
     },
     {
-      "title": "Pennon claws back some losses after 20% plunge on rights issue, reduced dividend",
+      "title": "Forex Today: Euro stabilizes as markets await comments from central bankers - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.4916,
+      "currencies": []
+    },
+    {
+      "title": "EURUSD Live Chart, Exchange Rate & Analysis | Trade EURUSD - LiteFinance",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why is Glaukos stock sliding today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.913,
+      "score": -0.8946,
       "currencies": []
     },
     {
-      "title": "Why is Wise stock sliding today?",
+      "title": "Germany stocks lower at close of trade; DAX down 1.12%",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8792,
+      "score": -0.9683,
       "currencies": []
     },
     {
-      "title": "Why is Resources Connection stock sliding today?",
+      "title": "France stocks lower at close of trade; CAC 40 down 0.51%",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8928,
+      "score": -0.964,
       "currencies": []
     },
     {
-      "title": "AI use lifts participation in WorldQuant contest",
+      "title": "NOVAGOLD Q3 2026 slides: Donlin consolidation plan amid rising costs",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6196,
+      "currencies": []
+    },
+    {
+      "title": "Belgium stocks lower at close of trade; BEL 20 down 2.32%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9678,
+      "currencies": []
+    },
+    {
+      "title": "Verici Dx launches \u00a38m share placing at 0.2p per share",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "With inflation risks to upside, ECB may need to hike more, Dolenc says",
+      "title": "Horace Mann educators CEO Marita Zuraitis sells $4,600 stock",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.556,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is ITM Power stock rallying today?",
+      "title": "Central Securities CEO John Hill buys $28,185 in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

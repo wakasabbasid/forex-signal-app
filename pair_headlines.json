@@ -3,50 +3,36 @@
   "pairs": {
     "EUR/USD": [
       {
+        "title": "EUR/USD Volatility Raises a Question Around 1.1200 - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
         "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "Chart of the day: EUR/GBP breakdown adds to signs of euro weakness amid France's fiscal troubles",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.9653
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Rebounds above 177.00, oversold territory",
+        "title": "Euro: French debt risk weighs on EUR against US Dollar \u2013 ING",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9032
+        "score": -0.7945
       }
     ],
     "USD/JPY": [
       {
-        "title": "USD/JPY: Why the Uptrend Still Leaves Buyers Exposed - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Rebounds above 177.00, oversold territory",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9032
-      },
-      {
-        "title": "Gold bulls remain on the sidelines as hawkish Fed and Middle East jitters underpin USD",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.6612
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "Chart of the day: EUR/GBP breakdown adds to signs of euro weakness amid France's fiscal troubles",
+        "title": "Morning Kickstart: Stocks fall as oil and yields rise; USD edges higher",
         "source": "ForexLive",
         "label": "bearish",
-        "score": -0.9653
+        "score": -0.9438
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD slides below $60 as sellers retain control",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9698
       }
     ]
   }
