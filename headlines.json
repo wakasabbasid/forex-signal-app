@@ -35,20 +35,6 @@
       ]
     },
     {
-      "title": "Japanese Yen - CME Group",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
       "source": "Google News",
       "label": "neutral",
@@ -77,6 +63,13 @@
       "currencies": []
     },
     {
+      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
@@ -84,69 +77,73 @@
       "currencies": []
     },
     {
-      "title": "EUR/JPY Retreats Within Downtrend as Technicals Weaken - TradingPedia",
+      "title": "Forex Today: US Dollar stabilizes as bond yields recover ahead of FOMC Minutes - FXStreet",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9561,
-      "currencies": [
-        "EUR",
-        "JPY"
-      ]
-    },
-    {
-      "title": "Earnings call transcript: RGP Q1 2027 misses estimates as shares slide after hours",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.96,
-      "currencies": []
-    },
-    {
-      "title": "Wall Street ends lower, off record highs, as Treasury yields climb",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9664,
-      "currencies": []
-    },
-    {
-      "title": "IBM advances to third phase of DARPA quantum computing program",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Medtronic sets final exchange ratio for MiniMed split-off",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "General Dynamics elects insider Danny Deep as CEO effective January 2027",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Fed policymakers divided over rate-hike logic in September, minutes show",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8257,
-      "currencies": []
-    },
-    {
-      "title": "Intermap completes PCI Geomatics acquisition for $7.7 million",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Pine Cliff Energy expands drilling program, secures credit facility",
-      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9225,
+      "score": 0.7189,
+      "currencies": []
+    },
+    {
+      "title": "Mexico to focus on local currency debt, says finance minister - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Amazon makes fresh job cuts, mainly in retail division",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9348,
+      "currencies": []
+    },
+    {
+      "title": "Tropical Storm\u00a0Isaias forecast to hit US Gulf coast as hurricane early Saturday",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.4754,
+      "currencies": []
+    },
+    {
+      "title": "U.S. stock futures steady after Wall St retreats from records; yields climb",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.912,
+      "currencies": []
+    },
+    {
+      "title": "US SEC will not charge top funds over climate concerns but warns of disclosure obligations",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Nikkei 225 squeezed between SuperTrend and 20 SMA: Live levels",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6829,
+      "currencies": []
+    },
+    {
+      "title": "SK Hynix breaks below Ichimoku cloud: Live levels",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Axion Minerals closes $390,000 flow-through private placement",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Asia shares subdued, bonds swamped by AI debt wave",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9589,
       "currencies": []
     }
   ],

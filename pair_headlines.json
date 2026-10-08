@@ -7,12 +7,6 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "EUR/JPY Retreats Within Downtrend as Technicals Weaken - TradingPedia",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9561
       }
     ],
     "USD/JPY": [
@@ -23,22 +17,22 @@
         "score": 0.0
       },
       {
-        "title": "EUR/JPY Retreats Within Downtrend as Technicals Weaken - TradingPedia",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9561
+        "title": "PBOC sets USD/ CNY reference rate for today at 6.7367 (vs. estimate at 6.7254)",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7254 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
       },
       {
         "title": "Silver Price Forecast: XAG/USD cracks $60 as bears eye $56",
         "source": "FXStreet",
         "label": "bullish",
         "score": 0.7535
-      },
-      {
-        "title": "USD/JPY Price Forecast: Pair consolidates below key moving averages",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9105
       }
     ]
   }
