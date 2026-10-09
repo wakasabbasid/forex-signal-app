@@ -7,6 +7,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "EUR/CHF Forecast 09/10: Struggles as European Debt Worries - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "USD/JPY": [
@@ -15,18 +21,14 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
+      }
+    ],
+    "USD/CHF": [
       {
-        "title": "USD/JPY: Why the Uptrend Still Leaves Buyers Exposed - DailyForex",
+        "title": "EUR/CHF Forecast 09/10: Struggles as European Debt Worries - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "Liberty Global stock hits 52-week low at 8.59 USD",
-        "source": "Investing.com",
-        "label": "bearish",
-        "score": -0.9548
       }
     ]
   }
