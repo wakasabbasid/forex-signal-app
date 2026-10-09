@@ -15,13 +15,6 @@
       "currencies": []
     },
     {
-      "title": "Forex Daily: The Euro Doesn\u2019t Fear France, It Fears Contagion - The Dark Side Of The Boom",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -30,6 +23,13 @@
         "EUR",
         "USD"
       ]
+    },
+    {
+      "title": "Forex Daily: The Euro Doesn\u2019t Fear France, It Fears Contagion - The Dark Side Of The Boom",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "EUR/USD Volatility Raises a Question Around 1.1200 - DailyForex",
@@ -63,13 +63,6 @@
       "currencies": []
     },
     {
-      "title": "EURUSD Live Chart, Exchange Rate & Analysis | Trade EURUSD - LiteFinance",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
       "source": "Google News",
       "label": "neutral",
@@ -84,66 +77,73 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: Euro stabilizes as markets await comments from central bankers - FXStreet",
+      "title": "EURUSD Live Chart, Exchange Rate & Analysis | Trade EURUSD - LiteFinance",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "NY Forex: Dollar edges lower but holds near highs as European fiscal risks weigh on euro - BigGo Finance",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.4916,
+      "score": -0.9074,
       "currencies": []
     },
     {
-      "title": "SailPoint president Matt Mills sells $1.61m in company stock",
+      "title": "TRexBio prices IPO at $14 per share, expects $116.7M",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "SailPoint CPO Abby Payne sells $799,939 in company stock",
+      "title": "Meta bans TikTok\u00a0ads on its platforms in US",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7244,
+      "currencies": []
+    },
+    {
+      "title": "SpaceX takes aim at US wireless carriers with spectrum acquisition",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Everquote CTO David Brainard sells $97,723 of company stock",
+      "title": "Japan reboots DOGE-style spending review in hunt for funds for Takaichi pledges",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Everquote chief accounting officer Jon Ayotte sells $8,590 in stock",
+      "title": "Nvidia-backed Firmus scraps $5 billion Australian IPO on poor demand",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9544,
       "currencies": []
     },
     {
-      "title": "European industry groups call for urgent EU action on China trade",
+      "title": "Euro skids toward fifth weekly fall but selling pressure slows",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7108,
+      "label": "bearish",
+      "score": -0.9068,
       "currencies": []
     },
     {
-      "title": "Hurricane Isaias strengthens as US Gulf Coast prepares for landfall",
+      "title": "SoftBank shares slide as OpenAI revenue report dents AI optimism",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7022,
+      "label": "bearish",
+      "score": -0.9489,
       "currencies": []
     },
     {
-      "title": "Mexico stocks higher at close of trade; S&P/BMV IPC up 0.52%",
+      "title": "Nikkei 225 tests triple support after double top: Live levels",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9423,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Aritzia posts record Q2 margin, lifts full-year outlook for 2026",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9363,
+      "score": 0.7433,
       "currencies": []
     }
   ],

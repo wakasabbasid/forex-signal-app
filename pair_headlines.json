@@ -15,7 +15,25 @@
         "score": 0.0
       }
     ],
-    "GBP/USD": [
+    "USD/JPY": [
+      {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7973 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Australian Dollar edges higher amid modest USD weakness; upside potential seem limited",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.901
+      },
+      {
+        "title": "PBOC sets USD/CNY reference rate at 6.7330 vs. 6.7367 previous",
+        "source": "FXStreet",
+        "label": "neutral",
+        "score": 0.0
+      },
       {
         "title": "GBP/JPY Price Forecast: Struggles at 209.00 as bearish-engulfing looms",
         "source": "FXStreet",
@@ -23,7 +41,7 @@
         "score": -0.9397
       }
     ],
-    "USD/JPY": [
+    "GBP/USD": [
       {
         "title": "GBP/JPY Price Forecast: Struggles at 209.00 as bearish-engulfing looms",
         "source": "FXStreet",
