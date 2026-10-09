@@ -15,72 +15,17 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD Forecast: Euro Remains Under Pressure Amid Concerns Over French Debt - FOREX.com",
+      "title": "Forex Daily: Euro Finds a Floor as China Trade Friction and Japan Flows Reshape the Board - The Dark Side Of The Boom",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9385,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
+      "label": "bullish",
+      "score": 0.8077,
+      "currencies": []
     },
     {
       "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
       "source": "Google News",
       "label": "bearish",
       "score": -0.7106,
-      "currencies": []
-    },
-    {
-      "title": "Silver Rebounds Above $60 as Softer Inflation Tempers Fed - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5339,
-      "currencies": []
-    },
-    {
-      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD Volatility Raises a Question Around 1.1200 - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "Forex Daily: The Euro Doesn\u2019t Fear France, It Fears Contagion - The Dark Side Of The Boom",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Yen heads for fourth weekly loss as markets watch for possible intervention - Economies.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9249,
-      "currencies": []
-    },
-    {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex currencies: live prices, changes, trading volume and daily charts - Yahoo Finance Australia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -94,59 +39,116 @@
       ]
     },
     {
-      "title": "Italy industrial output dives unexpectedly in August",
+      "title": "USD/JPY intervention risks back in focus as Bessent, Katayama head to Bangkok - investingLive",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Krone Supported by Norges Bank as Markets Eye Hikes - TradingPedia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.4373,
+      "currencies": []
+    },
+    {
+      "title": "India's Forex Reserves See Significant Drop to $734.61 Billion - Rediff",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9748,
+      "currencies": []
+    },
+    {
+      "title": "USD/JPY: Why the Uptrend Still Leaves Buyers Exposed - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "October 9: Cedi sells at GHS12.30 on forex market, GHS11.79 on BoG interbank - Modern Ghana",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "TSX faces volatile week as rate fears, energy risks cloud outlook",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9728,
+      "score": -0.9533,
       "currencies": []
     },
     {
-      "title": "Paramount to develop Cyberpunk 2077 film, lifting CD Projekt RED\u2019s shares",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8734,
-      "currencies": []
-    },
-    {
-      "title": "RBC Capital cuts Knife River stock rating on cost inflation concerns",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9217,
-      "currencies": []
-    },
-    {
-      "title": "Baird upgrades Humana stock rating on margin recovery outlook",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8565,
-      "currencies": []
-    },
-    {
-      "title": "UBS sees copper deficit widening in 2027, backs long positions",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6282,
-      "currencies": []
-    },
-    {
-      "title": "Citi upgrades Bureau Veritas, sees 2027 margin above consensus; shares up 2%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9432,
-      "currencies": []
-    },
-    {
-      "title": "UBS sees stronger outlook for Brazilian real after election",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9482,
-      "currencies": []
-    },
-    {
-      "title": "JPMorgan downgrades Illinois Tool Works stock rating on valuation",
+      "title": "AST SpaceMobile options activity as stock hits 52-week low",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Oil-Dri posts record Q4 2026 results as shares fall",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.917,
+      "currencies": []
+    },
+    {
+      "title": "Trump to hold inquiry into Fed\u2019s Lisa Cook at White House",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Trump orders Nov. 5 Cook hearing in renewed bid to oust Fed governor",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Liberty Global stock hits 52-week low at 8.59 USD",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9548,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Protesters clash with police in Brussels as unions and students march",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9221,
+      "currencies": []
+    },
+    {
+      "title": "Poland stocks higher at close of trade; WIG30 up 1.48%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9354,
       "currencies": []
     }
   ],

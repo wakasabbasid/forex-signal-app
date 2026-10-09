@@ -3,18 +3,6 @@
   "pairs": {
     "EUR/USD": [
       {
-        "title": "EUR/USD Forecast: Euro Remains Under Pressure Amid Concerns Over French Debt - FOREX.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9385
-      },
-      {
-        "title": "EUR/USD Volatility Raises a Question Around 1.1200 - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
         "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
@@ -23,30 +11,22 @@
     ],
     "USD/JPY": [
       {
-        "title": "USD/JPY intervention risks back in focus as Bessent, Katayama head to Bangkok",
-        "source": "ForexLive",
+        "title": "USD/JPY intervention risks back in focus as Bessent, Katayama head to Bangkok - investingLive",
+        "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "Gold bulls retain intraday control near $4,200, weekly high amid retreating USD",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.7151
+        "title": "USD/JPY: Why the Uptrend Still Leaves Buyers Exposed - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       },
       {
-        "title": "Silver Price Forecast: XAG/USD regains ground amid a pullback in US Treasury Yields",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8644
-      }
-    ],
-    "NZD/USD": [
-      {
-        "title": "NZD/USD Price Forecast: Bullish momentum improves but 0.5630 keeps holding bulls",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8561
+        "title": "Liberty Global stock hits 52-week low at 8.59 USD",
+        "source": "Investing.com",
+        "label": "bearish",
+        "score": -0.9548
       }
     ]
   }
