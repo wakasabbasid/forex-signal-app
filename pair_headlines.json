@@ -3,13 +3,19 @@
   "pairs": {
     "EUR/USD": [
       {
-        "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - FOREX.com",
+        "title": "EUR/USD Forecast: Euro Remains Under Pressure Amid Concerns Over French Debt - FOREX.com",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9385
+      },
+      {
+        "title": "EUR/USD Volatility Raises a Question Around 1.1200 - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "EUR/USD Volatility Raises a Question Around 1.1200 - DailyForex",
+        "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -17,36 +23,30 @@
     ],
     "USD/JPY": [
       {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.7973 \u2013 Reuters estimate",
+        "title": "USD/JPY intervention risks back in focus as Bessent, Katayama head to Bangkok",
         "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "Australian Dollar edges higher amid modest USD weakness; upside potential seem limited",
+        "title": "Gold bulls retain intraday control near $4,200, weekly high amid retreating USD",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.901
+        "score": 0.7151
       },
       {
-        "title": "PBOC sets USD/CNY reference rate at 6.7330 vs. 6.7367 previous",
+        "title": "Silver Price Forecast: XAG/USD regains ground amid a pullback in US Treasury Yields",
         "source": "FXStreet",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "GBP/JPY Price Forecast: Struggles at 209.00 as bearish-engulfing looms",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9397
+        "label": "bullish",
+        "score": 0.8644
       }
     ],
-    "GBP/USD": [
+    "NZD/USD": [
       {
-        "title": "GBP/JPY Price Forecast: Struggles at 209.00 as bearish-engulfing looms",
+        "title": "NZD/USD Price Forecast: Bullish momentum improves but 0.5630 keeps holding bulls",
         "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9397
+        "label": "bullish",
+        "score": 0.8561
       }
     ]
   }

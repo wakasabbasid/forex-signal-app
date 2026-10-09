@@ -8,6 +8,23 @@
       "currencies": []
     },
     {
+      "title": "Japanese Yen - CME Group",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "EUR/USD Forecast: Euro Remains Under Pressure Amid Concerns Over French Debt - FOREX.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9385,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
       "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
       "source": "Google News",
       "label": "bearish",
@@ -15,17 +32,14 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - FOREX.com",
+      "title": "Silver Rebounds Above $60 as Softer Inflation Tempers Fed - TradingPedia",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
+      "label": "bearish",
+      "score": -0.5339,
+      "currencies": []
     },
     {
-      "title": "Forex Daily: The Euro Doesn\u2019t Fear France, It Fears Contagion - The Dark Side Of The Boom",
+      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -42,31 +56,17 @@
       ]
     },
     {
-      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
+      "title": "Forex Daily: The Euro Doesn\u2019t Fear France, It Fears Contagion - The Dark Side Of The Boom",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Euro Drops vs Pound on French Budget Risks, Rate Outlook - TradingPedia",
+      "title": "Yen heads for fourth weekly loss as markets watch for possible intervention - Economies.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9406,
-      "currencies": []
-    },
-    {
-      "title": "Forex reserves fall to lowest in 3 years - Philstar.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9619,
-      "currencies": []
-    },
-    {
-      "title": "What Is the Foreign Exchange Market: A Guide - Britannica",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "score": -0.9249,
       "currencies": []
     },
     {
@@ -77,73 +77,76 @@
       "currencies": []
     },
     {
-      "title": "EURUSD Live Chart, Exchange Rate & Analysis | Trade EURUSD - LiteFinance",
+      "title": "Forex currencies: live prices, changes, trading volume and daily charts - Yahoo Finance Australia",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "NY Forex: Dollar edges lower but holds near highs as European fiscal risks weigh on euro - BigGo Finance",
+      "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - FOREX.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9074,
-      "currencies": []
-    },
-    {
-      "title": "TRexBio prices IPO at $14 per share, expects $116.7M",
-      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
     },
     {
-      "title": "Meta bans TikTok\u00a0ads on its platforms in US",
+      "title": "Italy industrial output dives unexpectedly in August",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7244,
+      "score": -0.9728,
       "currencies": []
     },
     {
-      "title": "SpaceX takes aim at US wireless carriers with spectrum acquisition",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan reboots DOGE-style spending review in hunt for funds for Takaichi pledges",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Nvidia-backed Firmus scraps $5 billion Australian IPO on poor demand",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9544,
-      "currencies": []
-    },
-    {
-      "title": "Euro skids toward fifth weekly fall but selling pressure slows",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9068,
-      "currencies": []
-    },
-    {
-      "title": "SoftBank shares slide as OpenAI revenue report dents AI optimism",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9489,
-      "currencies": []
-    },
-    {
-      "title": "Nikkei 225 tests triple support after double top: Live levels",
+      "title": "Paramount to develop Cyberpunk 2077 film, lifting CD Projekt RED\u2019s shares",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7433,
+      "score": 0.8734,
+      "currencies": []
+    },
+    {
+      "title": "RBC Capital cuts Knife River stock rating on cost inflation concerns",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9217,
+      "currencies": []
+    },
+    {
+      "title": "Baird upgrades Humana stock rating on margin recovery outlook",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8565,
+      "currencies": []
+    },
+    {
+      "title": "UBS sees copper deficit widening in 2027, backs long positions",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6282,
+      "currencies": []
+    },
+    {
+      "title": "Citi upgrades Bureau Veritas, sees 2027 margin above consensus; shares up 2%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9432,
+      "currencies": []
+    },
+    {
+      "title": "UBS sees stronger outlook for Brazilian real after election",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9482,
+      "currencies": []
+    },
+    {
+      "title": "JPMorgan downgrades Illinois Tool Works stock rating on valuation",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
