@@ -8,17 +8,17 @@
       "currencies": []
     },
     {
-      "title": "RBI Tightens Forex Rules As Rupee Trades Near Record Low - TradingView",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7923,
-      "currencies": []
-    },
-    {
       "title": "Japanese Yen - CME Group",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "RBI Tightens Forex Rules As Rupee Trades Near Record Low - TradingView",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7923,
       "currencies": []
     },
     {
@@ -39,10 +39,10 @@
       ]
     },
     {
-      "title": "Uzbekistan\u2019s Gold and Forex Reserves Drop by $5.54 Billion in September - Caspian Post",
+      "title": "Forex Daily: Euro Finds a Floor as China Trade Friction and Japan Flows Reshape the Board - The Dark Side Of The Boom",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9751,
+      "label": "bullish",
+      "score": 0.8077,
       "currencies": []
     },
     {
@@ -53,10 +53,10 @@
       "currencies": []
     },
     {
-      "title": "Forex Daily: Euro Finds a Floor as China Trade Friction and Japan Flows Reshape the Board - The Dark Side Of The Boom",
+      "title": "Uzbekistan\u2019s Gold and Forex Reserves Drop by $5.54 Billion in September - Caspian Post",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.8077,
+      "label": "bearish",
+      "score": -0.9751,
       "currencies": []
     },
     {
@@ -84,66 +84,66 @@
       "currencies": []
     },
     {
-      "title": "RBI opens dollar window for oil companies, tightens forex rules as rupee weakens - National Herald",
+      "title": "RBI tightens forex derivatives framework to ensure orderly functioning of market - TradingView",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.4997,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "China drafts rules to ban hidden car handles, virtual controls",
+      "title": "Spanish lawyer Gonzalez\u00a0Durantez launches centrist party for November election",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Will rising French bond spreads disrupt the rally in European stocks?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9157,
-      "currencies": []
-    },
-    {
-      "title": "LB Pharmaceuticals presents data on LB-102 at ECNP congress",
+      "title": "India\u2019s Infosys does not expect material impact from US PERM suspension",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Bitcoin falls nearly 3% over past week as security fears weigh on sentiment",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9671,
-      "currencies": []
-    },
-    {
-      "title": "Major Saudi conferences to proceed, organisers say, despite deadly airport attack",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8585,
-      "currencies": []
-    },
-    {
-      "title": "Idt EVP and corporate secretary Joyce J. Mason reported selling $92,570 of IDT Corp (NYSE:IDT) Class B Common Stock on October 7, 2026.",
+      "title": "Everpure director Mallun Yen sells $1.75m in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "EU\u2019s Irish presidency wants 8% cut to proposed 2028-2034 budget plan",
+      "title": "Rapport Therapeutics CEO Abraham Ceesay sells $143,272 in stock",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8835,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Blackbaud surges 73% after InvestingPro Fair Value signal",
+      "title": "Pacific Biosciences CFO reports $2.05m stock sale",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8962,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Analog devices director Ray Stata sells $1.17 million in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Pimco high income fund director David Flattum buys $249,245 stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Pimco Dynamic Income Fund director David Flattum buys $249,508 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
