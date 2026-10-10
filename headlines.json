@@ -1,14 +1,21 @@
 {
   "headlines": [
     {
-      "title": "Japanese Yen - CME Group",
+      "title": "India unveils tough curbs on dollar demand to defend rupee - Reuters",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.492,
       "currencies": []
     },
     {
-      "title": "RBI tightens forex derivatives framework to ensure orderly functioning of market - TradingView",
+      "title": "RBI Tightens Forex Rules As Rupee Trades Near Record Low - TradingView",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7923,
+      "currencies": []
+    },
+    {
+      "title": "Japanese Yen - CME Group",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -32,10 +39,17 @@
       ]
     },
     {
-      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
+      "title": "Uzbekistan\u2019s Gold and Forex Reserves Drop by $5.54 Billion in September - Caspian Post",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9751,
+      "currencies": []
+    },
+    {
+      "title": "RBI steps in to support rupee as currency nears record low; tightens forex rules - The Economic Times",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5358,
       "currencies": []
     },
     {
@@ -43,6 +57,13 @@
       "source": "Google News",
       "label": "bullish",
       "score": 0.8077,
+      "currencies": []
+    },
+    {
+      "title": "RBI cracks down on rupee speculation as currency falls close to 97 against dollar - The Indian Express",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9388,
       "currencies": []
     },
     {
@@ -63,90 +84,66 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY intervention risks back in focus as Bessent, Katayama head to Bangkok - investingLive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
-      "title": "Krone Supported by Norges Bank as Markets Eye Hikes - TradingPedia",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.4373,
-      "currencies": []
-    },
-    {
-      "title": "Forex reserves fall by $13bn to $734.6bn - The Times of India",
+      "title": "RBI opens dollar window for oil companies, tightens forex rules as rupee weakens - National Herald",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9739,
+      "score": -0.4997,
       "currencies": []
     },
     {
-      "title": "Forex Daily: The Euro Doesn\u2019t Fear France, It Fears Contagion - The Dark Side Of The Boom",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "EOS Climbs 17% In a Green Day",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9085,
-      "currencies": []
-    },
-    {
-      "title": "Bumble director Sissie Hsiao sells $6,956 in class A shares",
+      "title": "China drafts rules to ban hidden car handles, virtual controls",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Vivek Jain, Analog Devices officer, sells $2.16m in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is the Chinese stock market missing the AI rally",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Semtech EVP and CCO Jason Green sells $526,508 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Trump vows quick end to Iran war as fighting in Yemen intensifies",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5943,
-      "currencies": []
-    },
-    {
-      "title": "French fiscal risks raise chance of ECB pause after December",
+      "title": "Will rising French bond spreads disrupt the rally in European stocks?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7249,
+      "score": -0.9157,
       "currencies": []
     },
     {
-      "title": "Bitcoin trades above $82,000 as rising oil prices, Fed outlook weigh",
+      "title": "LB Pharmaceuticals presents data on LB-102 at ECNP congress",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin falls nearly 3% over past week as security fears weigh on sentiment",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9671,
+      "currencies": []
+    },
+    {
+      "title": "Major Saudi conferences to proceed, organisers say, despite deadly airport attack",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6603,
+      "score": 0.8585,
+      "currencies": []
+    },
+    {
+      "title": "Idt EVP and corporate secretary Joyce J. Mason reported selling $92,570 of IDT Corp (NYSE:IDT) Class B Common Stock on October 7, 2026.",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "EU\u2019s Irish presidency wants 8% cut to proposed 2028-2034 budget plan",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8835,
+      "currencies": []
+    },
+    {
+      "title": "Blackbaud surges 73% after InvestingPro Fair Value signal",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8962,
       "currencies": []
     }
   ],
