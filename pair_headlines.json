@@ -7,25 +7,17 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "EUR/CHF Forecast 09/10: Struggles as European Debt Worries - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
       }
     ],
     "USD/JPY": [
       {
-        "title": "USD/JPY intervention risks back in focus as Bessent, Katayama head to Bangkok - investingLive",
+        "title": "USD/JPY: Why the Uptrend Still Leaves Buyers Exposed - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      }
-    ],
-    "USD/CHF": [
+      },
       {
-        "title": "EUR/CHF Forecast 09/10: Struggles as European Debt Worries - DailyForex",
+        "title": "USD/JPY intervention risks back in focus as Bessent, Katayama head to Bangkok - investingLive",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0

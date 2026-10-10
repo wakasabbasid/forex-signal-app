@@ -1,13 +1,6 @@
 {
   "headlines": [
     {
-      "title": "Forex Currencies: live prices, changes, trading volume and daily charts - Yahoo! Finance Canada",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Japanese Yen - CME Group",
       "source": "Google News",
       "label": "neutral",
@@ -15,10 +8,10 @@
       "currencies": []
     },
     {
-      "title": "Uzbekistan\u2019s Gold and Forex Reserves Drop by $5.54 Billion in September - Caspian Post",
+      "title": "RBI tightens forex derivatives framework to ensure orderly functioning of market - TradingView",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9751,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -26,13 +19,6 @@
       "source": "Google News",
       "label": "bearish",
       "score": -0.7106,
-      "currencies": []
-    },
-    {
-      "title": "Forex Daily: Euro Finds a Floor as China Trade Friction and Japan Flows Reshape the Board - The Dark Side Of The Boom",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8077,
       "currencies": []
     },
     {
@@ -53,6 +39,30 @@
       "currencies": []
     },
     {
+      "title": "Forex Daily: Euro Finds a Floor as China Trade Friction and Japan Flows Reshape the Board - The Dark Side Of The Boom",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8077,
+      "currencies": []
+    },
+    {
+      "title": "USD/JPY: Why the Uptrend Still Leaves Buyers Exposed - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "USD/JPY intervention risks back in focus as Bessent, Katayama head to Bangkok - investingLive",
       "source": "Google News",
       "label": "neutral",
@@ -63,14 +73,11 @@
       ]
     },
     {
-      "title": "EUR/CHF Forecast 09/10: Struggles as European Debt Worries - DailyForex",
+      "title": "Krone Supported by Norges Bank as Markets Eye Hikes - TradingPedia",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "CHF"
-      ]
+      "label": "bullish",
+      "score": 0.4373,
+      "currencies": []
     },
     {
       "title": "Forex reserves fall by $13bn to $734.6bn - The Times of India",
@@ -80,73 +87,66 @@
       "currencies": []
     },
     {
-      "title": "Krone Supported by Norges Bank as Markets Eye Hikes - TradingPedia",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.4373,
-      "currencies": []
-    },
-    {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "title": "Forex Daily: The Euro Doesn\u2019t Fear France, It Fears Contagion - The Dark Side Of The Boom",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "AI-centered US stock bull market nears four-year anniversary",
+      "title": "EOS Climbs 17% In a Green Day",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9085,
+      "currencies": []
+    },
+    {
+      "title": "Bumble director Sissie Hsiao sells $6,956 in class A shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Vivek Jain, Analog Devices officer, sells $2.16m in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why is the Chinese stock market missing the AI rally",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Semtech EVP and CCO Jason Green sells $526,508 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Trump vows quick end to Iran war as fighting in Yemen intensifies",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5943,
+      "currencies": []
+    },
+    {
+      "title": "French fiscal risks raise chance of ECB pause after December",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9318,
+      "score": -0.7249,
       "currencies": []
     },
     {
-      "title": "Okta chief accounting officer sells $3.2m in company stock",
+      "title": "Bitcoin trades above $82,000 as rising oil prices, Fed outlook weigh",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Cathie Wood\u2019s ARK sells DraftKings stock and buys CRISPR Therapeutics",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Covista [CVSA] chairman & CEO Stephen Beard sells $1.08m in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Cerence EVP Christian Mentz sells $391,384 in company stock.",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Beta Technologies CEO Kyle Clark sells $612k in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Cerence CEO Brian Krzanich sells $173,624 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Venezuela president authorizes SpaceX\u2019s Starlink to operate in the country",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.6603,
       "currencies": []
     }
   ],
