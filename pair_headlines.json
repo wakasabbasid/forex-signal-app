@@ -1,26 +1,86 @@
 {
   "run_id": 1,
   "pairs": {
-    "EUR/USD": [
-      {
-        "title": "Pairs in Focus 12 to 16/10: Dollar Strength, EUR/USD and Key Levels - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
     "USD/JPY": [
       {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.6977 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
+        "title": "USD/JPY Price Forecast: Likely find direction in this US CPI week",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8502
+      },
+      {
+        "title": "Australian Dollar fails ahead of 0.7000 as hawkish Fed and Iran risks limit USD losses",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9282
+      },
+      {
+        "title": "Gold holds near one-week top, around $4,200 on softer USD; hawkish Fed caps gains",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.5985
+      },
+      {
+        "title": "AUD/JPY Price Forecast: Weakens to near 110.50, maintaining negative bias under 100-day SMA",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.971
+      },
+      {
+        "title": "EUR/JPY Price Forecast: Rises to near 177.50 barrier near nine-day EMA",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9367
+      },
+      {
+        "title": "USD/INR drops 1% at open as RBI steps up measures to support Indian Rupee",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9092
+      },
+      {
+        "title": "INR/USD: India Draws Line in Sand for Rupee at 97 as RBI Steps Up Defense",
+        "source": "Bloomberg",
+        "label": "bullish",
+        "score": 0.5746
+      }
+    ],
+    "USD/CHF": [
+      {
+        "title": "Swiss Franc struggles as SNB dovish stance lifts USD/CHF",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.913
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Price Forecast: Edges higher near 1.3250, but technical tone stays bearish below 100-day SMA",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8129
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/USD Price Forecast: Gets some relief from Russia-Ukraine energy ceasefire",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9454
+      },
+      {
+        "title": "EUR/JPY Price Forecast: Rises to near 177.50 barrier near nine-day EMA",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9367
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "AUD/JPY Price Forecast: Weakens to near 110.50, maintaining negative bias under 100-day SMA",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.971
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "Coinbase and Robinhood Futures Arms Now Hold More Client Money Than the US Retail Forex Pool - Finance Magnates",
+      "title": "How India has sought to defend the slumping rupee - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -15,6 +15,20 @@
       "currencies": []
     },
     {
+      "title": "Indian rupee surges after RBI unveils measures to support currency - Investing.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6261,
+      "currencies": []
+    },
+    {
+      "title": "US dollar strength masks growing disconnect with Treasury yields - FOREX.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.4881,
+      "currencies": []
+    },
+    {
       "title": "Japanese Yen - CME Group",
       "source": "Google News",
       "label": "neutral",
@@ -22,93 +36,59 @@
       "currencies": []
     },
     {
-      "title": "India unveils tough curbs on dollar demand to defend rupee - Reuters",
+      "title": "Coinbase and Robinhood Futures Arms Now Hold More Client Money Than the US Retail Forex Pool - Finance Magnates",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Kiwi Slides as Geopolitics, Fed Outlook Shape FX Trade - TradingPedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: US Dollar softens amid hopes Russia-Ukraine energy ceasefire - FXStreet",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.492,
+      "score": 0.7852,
       "currencies": []
     },
     {
-      "title": "Pairs in Focus 12 to 16/10: Dollar Strength, EUR/USD and Key Levels - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "Forex Daily: Euro Finds a Floor as China Trade Friction and Japan Flows Reshape the Board - The Dark Side Of The Boom",
+      "title": "Rupee jumps 91 paise to 95.80 against U.S. dollar in early trade - The Hindu",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8077,
+      "score": 0.8909,
       "currencies": []
     },
     {
-      "title": "RBI Tightens Forex Rules As Rupee Trades Near Record Low - TradingView",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7923,
-      "currencies": []
-    },
-    {
-      "title": "Rupee relief, higher hedging costs: What RBI\u2019s new forex rules mean - The Times of India",
+      "title": "RBI tightens forex rules: What it means for your overseas travel budget - Moneycontrol.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Uzbekistan\u2019s Gold and Forex Reserves Drop by $5.54 Billion in September - Caspian Post",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9751,
-      "currencies": []
-    },
-    {
-      "title": "Nepal Rastra Bank publishes foreign currency exchange rates - Nepalnews.com",
+      "title": "Sunrise Market Commentary - Action Forex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "title": "Forex Weekly: Fundamentals Align for a Stronger Dollar - The Dark Side Of The Boom",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.4522,
       "currencies": []
     },
     {
-      "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "SK Hynix oversold near support after 15% slide: Live levels",
+      "title": "TotalEnergies, KKR expand U.S. solar venture with 700 MW addition",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8724,
-      "currencies": []
-    },
-    {
-      "title": "Nikkei 225 coiled in Ichimoku cloud: Live levels",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US Republicans, Democrats want Trump to reverse course on Russia diesel",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.6123,
       "currencies": []
     },
     {
@@ -119,28 +99,42 @@
       "currencies": []
     },
     {
-      "title": "Justice Department probes TV networks over Trump pool boycott",
+      "title": "Asia stocks mixed as Korean chipmakers slide on CXMT threat",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8643,
+      "score": -0.9496,
       "currencies": []
     },
     {
-      "title": "One dead in new attack on Saudi airport, a day after\u00a0Houthi strike kills 13",
+      "title": "Dropbox co-CEO Andrew Houston sells $12 million in stock",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8627,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Shares cautious in Asia as earnings loom, oil slips",
+      "title": "Enliven Therapeutics director Scott Garland sells $606k in stock",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7283,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Palisade Bio director buys $28,800 in PALI stock",
+      "title": "Sanderson Design Group board urges vote against shareholder push",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Canara Robeco Q2 FY27 slides: profit surges 22% amid AUM pressures",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8173,
+      "currencies": []
+    },
+    {
+      "title": "Burnham\u2019s water industry plan may cost \u00a3105 billion, study says",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
