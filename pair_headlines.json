@@ -3,6 +3,12 @@
   "pairs": {
     "EUR/USD": [
       {
+        "title": "Pairs in Focus 12 to 16/10: Dollar Strength, EUR/USD and Key Levels - DailyForex",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
         "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
@@ -11,8 +17,8 @@
     ],
     "USD/JPY": [
       {
-        "title": "USD/JPY: Why the Uptrend Still Leaves Buyers Exposed - DailyForex",
-        "source": "Google News",
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.6977 \u2013 Reuters estimate",
+        "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
       }

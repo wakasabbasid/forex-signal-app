@@ -1,14 +1,7 @@
 {
   "headlines": [
     {
-      "title": "India unveils tough curbs on dollar demand to defend rupee - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.492,
-      "currencies": []
-    },
-    {
-      "title": "Japanese Yen - CME Group",
+      "title": "Coinbase and Robinhood Futures Arms Now Hold More Client Money Than the US Retail Forex Pool - Finance Magnates",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -22,14 +15,21 @@
       "currencies": []
     },
     {
-      "title": "RBI Tightens Forex Rules As Rupee Trades Near Record Low - TradingView",
+      "title": "Japanese Yen - CME Group",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.7923,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - FOREX.com",
+      "title": "India unveils tough curbs on dollar demand to defend rupee - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.492,
+      "currencies": []
+    },
+    {
+      "title": "Pairs in Focus 12 to 16/10: Dollar Strength, EUR/USD and Key Levels - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -46,10 +46,17 @@
       "currencies": []
     },
     {
-      "title": "RBI steps in to support rupee as currency nears record low; tightens forex rules - The Economic Times",
+      "title": "RBI Tightens Forex Rules As Rupee Trades Near Record Low - TradingView",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.5358,
+      "label": "bearish",
+      "score": -0.7923,
+      "currencies": []
+    },
+    {
+      "title": "Rupee relief, higher hedging costs: What RBI\u2019s new forex rules mean - The Times of India",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -60,21 +67,11 @@
       "currencies": []
     },
     {
-      "title": "RBI cracks down on rupee speculation as currency falls close to 97 against dollar - The Indian Express",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9388,
-      "currencies": []
-    },
-    {
-      "title": "USD/JPY: Why the Uptrend Still Leaves Buyers Exposed - DailyForex",
+      "title": "Nepal Rastra Bank publishes foreign currency exchange rates - Nepalnews.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
+      "currencies": []
     },
     {
       "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
@@ -84,63 +81,66 @@
       "currencies": []
     },
     {
-      "title": "RBI tightens forex derivatives framework to ensure orderly functioning of market - TradingView",
+      "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
     },
     {
-      "title": "Merck\u2019s remigromig meets non-inferiority goal in DME trial",
+      "title": "SK Hynix oversold near support after 15% slide: Live levels",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7903,
+      "label": "bearish",
+      "score": -0.8724,
       "currencies": []
     },
     {
-      "title": "Beta Technologies CEO Kyle Clark sells $612k in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Palo Alto Networks director Aparna Bawa sells $103,070 in stock",
+      "title": "Nikkei 225 coiled in Ichimoku cloud: Live levels",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "MediaAlpha CEO Steven Yi sells $263,320 in company shares",
+      "title": "US Republicans, Democrats want Trump to reverse course on Russia diesel",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Marvell Technology SVP Scarpulla sells $300,949 in shares",
+      "title": "Oil falls on hopes Russia-Ukraine energy ceasefire will boost supplies",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.7264,
       "currencies": []
     },
     {
-      "title": "Saba Capital Management buys $41,770 in Gabelli healthcare shares",
+      "title": "Justice Department probes TV networks over Trump pool boycott",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.8643,
       "currencies": []
     },
     {
-      "title": "Saba capital director sells $290,781 in PIMCO Dynamic Income shares",
+      "title": "One dead in new attack on Saudi airport, a day after\u00a0Houthi strike kills 13",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.8627,
       "currencies": []
     },
     {
-      "title": "Arista Networks CEO Ullal sells $21.06m in shares",
+      "title": "Shares cautious in Asia as earnings loom, oil slips",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7283,
+      "currencies": []
+    },
+    {
+      "title": "Palisade Bio director buys $28,800 in PALI stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
