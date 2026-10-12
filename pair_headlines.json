@@ -1,86 +1,34 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/JPY": [
+    "EUR/USD": [
       {
-        "title": "USD/JPY Price Forecast: Likely find direction in this US CPI week",
-        "source": "FXStreet",
+        "title": "EUR/USD Tests Market Patience Near the 1.1200 Level - DailyForex",
+        "source": "Google News",
         "label": "bullish",
-        "score": 0.8502
+        "score": 0.91
       },
       {
-        "title": "Australian Dollar fails ahead of 0.7000 as hawkish Fed and Iran risks limit USD losses",
-        "source": "FXStreet",
+        "title": "EUR/USD consolidates at the lows as France's budget and US CPI remain in focus",
+        "source": "ForexLive",
         "label": "bearish",
-        "score": -0.9282
-      },
-      {
-        "title": "Gold holds near one-week top, around $4,200 on softer USD; hawkish Fed caps gains",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.5985
-      },
-      {
-        "title": "AUD/JPY Price Forecast: Weakens to near 110.50, maintaining negative bias under 100-day SMA",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.971
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Rises to near 177.50 barrier near nine-day EMA",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9367
-      },
-      {
-        "title": "USD/INR drops 1% at open as RBI steps up measures to support Indian Rupee",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9092
-      },
-      {
-        "title": "INR/USD: India Draws Line in Sand for Rupee at 97 as RBI Steps Up Defense",
-        "source": "Bloomberg",
-        "label": "bullish",
-        "score": 0.5746
+        "score": -0.9587
       }
     ],
     "USD/CHF": [
       {
-        "title": "Swiss Franc struggles as SNB dovish stance lifts USD/CHF",
+        "title": "USD/CHF Price Forecast: Daily chart favours bulls despite mixed momentum signals",
         "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.846
+      }
+    ],
+    "USD/JPY": [
+      {
+        "title": "(USD:UGX) Uganda Shilling Turns Worst Currency as Investors Sour on Local Debt",
+        "source": "Bloomberg",
         "label": "bearish",
-        "score": -0.913
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "GBP/USD Price Forecast: Edges higher near 1.3250, but technical tone stays bearish below 100-day SMA",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.8129
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/USD Price Forecast: Gets some relief from Russia-Ukraine energy ceasefire",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9454
-      },
-      {
-        "title": "EUR/JPY Price Forecast: Rises to near 177.50 barrier near nine-day EMA",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9367
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "AUD/JPY Price Forecast: Weakens to near 110.50, maintaining negative bias under 100-day SMA",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.971
+        "score": -0.9342
       }
     ]
   }
