@@ -9,26 +9,24 @@
         "score": 0.91
       },
       {
-        "title": "EUR/USD consolidates at the lows as France's budget and US CPI remain in focus",
-        "source": "ForexLive",
+        "title": "Euro Weekly Forecast: EUR/USD Dawdles At Lows Despite Daily RSI Oversold - FOREX.com",
+        "source": "Google News",
         "label": "bearish",
-        "score": -0.9587
-      }
-    ],
-    "USD/CHF": [
-      {
-        "title": "USD/CHF Price Forecast: Daily chart favours bulls despite mixed momentum signals",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.846
+        "score": -0.899
       }
     ],
     "USD/JPY": [
       {
-        "title": "(USD:UGX) Uganda Shilling Turns Worst Currency as Investors Sour on Local Debt",
-        "source": "Bloomberg",
+        "title": "investingLive Americas FX news wrap 12 Oct: USD climbs, EURUSD hits a 2026 low as oil rises and stocks finish mixed",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.8974
+      },
+      {
+        "title": "Aussie Dollar struggles at 0.70, retreats as Oil shock boosts the USD",
+        "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9342
+        "score": -0.9566
       }
     ]
   }

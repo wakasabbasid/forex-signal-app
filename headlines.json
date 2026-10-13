@@ -8,13 +8,6 @@
       "currencies": []
     },
     {
-      "title": "Forex currencies: live prices, changes, trading volume and daily charts - Yahoo Finance - Yahoo Finance Singapore",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "EUR/USD Tests Market Patience Near the 1.1200 Level - DailyForex",
       "source": "Google News",
       "label": "bullish",
@@ -39,24 +32,17 @@
       "currencies": []
     },
     {
-      "title": "Central bank measures, intervention spark rupee's sharpest rally in six months - Kitco",
+      "title": "People\u2019s Bank of China exchange rate paper is left wanting - Forex Factory",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.5678,
+      "label": "bearish",
+      "score": -0.6927,
       "currencies": []
     },
     {
-      "title": "Planning A Foreign Holiday? How RBI's New Forex Rules Can Affect Your Travel Budget - NDTV",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: US Dollar softens amid hopes of Russia-Ukraine energy ceasefire - FXStreet",
+      "title": "Forex Today: US Dollar at YTD high as safe-haven demand surges - FXStreet",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8179,
+      "score": 0.8148,
       "currencies": []
     },
     {
@@ -67,14 +53,31 @@
       "currencies": []
     },
     {
-      "title": "US dollar strength masks growing disconnect with Treasury yields - FOREX.com",
+      "title": "Planning A Foreign Holiday? How RBI's New Forex Rules Can Affect Your Travel Budget - NDTV",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.4881,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Coinbase and Robinhood Futures Arms Now Hold More Client Money Than the US Retail Forex Pool - Finance Magnates",
+      "title": "Central bank measures, intervention spark rupee's sharpest rally in six months - Kitco",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5678,
+      "currencies": []
+    },
+    {
+      "title": "Euro Weekly Forecast: EUR/USD Dawdles At Lows Despite Daily RSI Oversold - FOREX.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.899,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "Kiwi Slides as Geopolitics, Fed Outlook Shape FX Trade - TradingPedia",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -88,59 +91,59 @@
       "currencies": []
     },
     {
-      "title": "Two Turkish nationals detained in Germany over Poland fire",
+      "title": "Cathie Wood\u2019s ARK sells stock in Personalised Inc, buys Compass Pathways",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japan PPI unexpectedly eases in Sept on stronger yen, cooling oil",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7977,
+      "score": -0.5744,
       "currencies": []
     },
     {
-      "title": "Gamestop stock hits 52-week high at $26.88",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7006,
-      "currencies": []
-    },
-    {
-      "title": "Hackers heat French supermarket fridges, sparking fires and spoiling food",
+      "title": "Nasdaq falls ahead of earnings, economic data while oil rallies",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8266,
+      "score": -0.874,
       "currencies": []
     },
     {
-      "title": "Microsoft stock outlook: Azure growth and earnings set to drive next move",
+      "title": "Saudi warning system stayed silent before deadly airport attacks",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "UK shoppers stay cautious as fuel costs bite, surveys show",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8667,
+      "currencies": []
+    },
+    {
+      "title": "NYT, Economist among publishers joining coalition to curb unpaid AI use",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Kroger plans to eliminate 3,000 corporate roles, memo shows, as it expands AI use",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "CME corn futures hit record daily volume on October 9",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7715,
-      "currencies": []
-    },
-    {
-      "title": "U.S. inflation data preview: September CPI and what it means for markets",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "UNH earnings preview: key metrics and estimates ahead of Q3 2026 results",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Fed\u2019s Hammack calls for quick move to restrictive policy",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Johnson & Johnson Q3 earnings preview: EPS consensus, guidance, and key watch items",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "score": 0.8274,
       "currencies": []
     }
   ],
