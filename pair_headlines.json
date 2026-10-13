@@ -9,52 +9,36 @@
         "score": 0.0
       },
       {
-        "title": "EUR/USD Tests Market Patience Near the 1.1200 Level - DailyForex",
+        "title": "EUR/USD Forecast 13/10: Bears Eye 1.10 Support (Video) - DailyForex",
         "source": "Google News",
-        "label": "bullish",
-        "score": 0.91
+        "label": "neutral",
+        "score": 0.0
       },
       {
-        "title": "EUR/USD Forecast: Euro Slips to 17-Month Lows, 1.11 Next? - FOREX.com",
+        "title": "EUR/USD forecast: Downside risks persist despite recovery - FOREX.com",
         "source": "Google News",
-        "label": "bearish",
-        "score": -0.9616
-      },
-      {
-        "title": "EUR/USD Price Forecast: Holds gains above 1.1150, but remains technically bearish under 100-day SMA",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.9021
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "GBP/USD Holds Above 1.3200 as Traders Weigh Fed Path - TradingPedia",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.4642
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "AUD/USD Price Forecast: Declining 20-day EMA builds case for more downside",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9576
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "USD/JPY": [
       {
-        "title": "Gold remains capped near $4,200 as Fed hike bets and Iran risks limit USD corrective slide",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.5761
+        "title": "PBF Energy stock hits all-time high at 89.49 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.7033
       },
       {
-        "title": "USD/JPY Price Forecast: Bulls fail to break the 200-day SMA around 158.50",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.9138
+        "title": "Zeta Global Holdings Corp stock hits 52-week high at 34.83 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.6083
+      },
+      {
+        "title": "Safety Insurance Group stock reaches all-time high at 104.02 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.648
       }
     ]
   }

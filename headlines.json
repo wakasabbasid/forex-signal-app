@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "Forex Currencies: live prices, changes, trading volume and daily charts - Yahoo Finance - Yahoo! Finance Canada",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "India's central bank widens ambit of forex risk reserve requirement, tightens NDF rules - Reuters",
       "source": "Google News",
       "label": "bearish",
@@ -25,21 +32,21 @@
       "currencies": []
     },
     {
-      "title": "Swiss Franc Gains as Dollar Cools Ahead of Data - TradingPedia",
+      "title": "EUR/USD Forecast 13/10: Bears Eye 1.10 Support (Video) - DailyForex",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.5885,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD Tests Market Patience Near the 1.1200 Level - DailyForex",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.91,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
         "EUR",
         "USD"
       ]
+    },
+    {
+      "title": "Dollar-Yen Retreats After 200-Day Average Caps Latest Rally - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9508,
+      "currencies": []
     },
     {
       "title": "Japanese Yen - CME Group",
@@ -49,10 +56,24 @@
       "currencies": []
     },
     {
-      "title": "How India has sought to defend the slumping rupee - Reuters",
+      "title": "Japanese PM Takaichi: Japan Will Continue Coordination With Washington to Maintain Currency Market Stability - Forex Factory",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8536,
+      "currencies": []
+    },
+    {
+      "title": "Banks Seek RBI Relief on New Forex Rules: What Importers and Businesses Need to Know - www.nationpathindia.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Central bank measures, intervention spark rupee's sharpest rally in six months - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5589,
       "currencies": []
     },
     {
@@ -63,93 +84,75 @@
       "currencies": []
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "title": "EUR/USD forecast: Downside risks persist despite recovery - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Planning A Foreign Holiday? How RBI's New Forex Rules Can Affect Your Travel Budget - NDTV",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD Forecast: Euro Slips to 17-Month Lows, 1.11 Next? - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9616,
       "currencies": [
         "EUR",
         "USD"
       ]
     },
     {
-      "title": "GBP/USD Holds Above 1.3200 as Traders Weigh Fed Path - TradingPedia",
-      "source": "Google News",
+      "title": "PBF Energy stock hits all-time high at 89.49 USD",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.4642,
+      "score": 0.7033,
       "currencies": [
-        "GBP",
         "USD"
       ]
     },
     {
-      "title": "Why is Finnair stock surging today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Deutsche Bank initiates Wintrust Financial stock with buy rating",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "RBC Capital downgrades Chemours stock rating on TiO2 weakness",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8349,
-      "currencies": []
-    },
-    {
-      "title": "UBS initiates TechnipFMC stock with buy rating on subsea growth",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Bernstein downgrades AT&T stock rating on Starlink competition",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8133,
-      "currencies": []
-    },
-    {
-      "title": "Warby Parker co-CEO Neil Blumenthal sells $2.77m in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Nasdaq futures slide amid chip selloff; Q3 earnings, inflation data loom",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.955,
-      "currencies": []
-    },
-    {
-      "title": "Finnair shares hit three-week high as airline raises 2026 outlook",
+      "title": "Boeing delivers 57 jets in September, highest monthly total for year",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.885,
+      "score": 0.8497,
+      "currencies": []
+    },
+    {
+      "title": "Exclusive-Banking watchdogs ramp up AI scrutiny as stability fears mount, sources say",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5324,
+      "currencies": []
+    },
+    {
+      "title": "Zeta Global Holdings Corp stock hits 52-week high at 34.83 USD",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6083,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Safety Insurance Group stock reaches all-time high at 104.02 USD",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.648,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Raymond James reiterates Strong Buy on Terex stock amid selloff",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9332,
+      "currencies": []
+    },
+    {
+      "title": "Scientists call for international body to oversee advanced AI",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Built Cybernetics publishes circular ahead of general meeting",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
