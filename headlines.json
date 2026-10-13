@@ -1,17 +1,17 @@
 {
   "headlines": [
     {
-      "title": "How India has sought to defend the slumping rupee - Reuters",
+      "title": "India's central bank widens ambit of forex risk reserve requirement, tightens NDF rules - Reuters",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.5676,
       "currencies": []
     },
     {
-      "title": "EUR/USD Tests Market Patience Near the 1.1200 Level - DailyForex",
+      "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.91,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
         "EUR",
         "USD"
@@ -25,6 +25,23 @@
       "currencies": []
     },
     {
+      "title": "Swiss Franc Gains as Dollar Cools Ahead of Data - TradingPedia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5885,
+      "currencies": []
+    },
+    {
+      "title": "EUR/USD Tests Market Patience Near the 1.1200 Level - DailyForex",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.91,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
       "title": "Japanese Yen - CME Group",
       "source": "Google News",
       "label": "neutral",
@@ -32,21 +49,21 @@
       "currencies": []
     },
     {
-      "title": "People\u2019s Bank of China exchange rate paper is left wanting - Forex Factory",
+      "title": "How India has sought to defend the slumping rupee - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: US Dollar retreats from 17-month high as bond yields, oil prices ease - Mitrade",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.6927,
+      "score": -0.9703,
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar at YTD high as safe-haven demand surges - FXStreet",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8148,
-      "currencies": []
-    },
-    {
-      "title": "Coinbase and Robinhood Futures Arms Now Hold More Client Money Than the US Retail Forex Pool - Cryptonews.net",
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -60,90 +77,79 @@
       "currencies": []
     },
     {
-      "title": "Central bank measures, intervention spark rupee's sharpest rally in six months - Kitco",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5678,
-      "currencies": []
-    },
-    {
-      "title": "Euro Weekly Forecast: EUR/USD Dawdles At Lows Despite Daily RSI Oversold - FOREX.com",
+      "title": "EUR/USD Forecast: Euro Slips to 17-Month Lows, 1.11 Next? - FOREX.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.899,
+      "score": -0.9616,
       "currencies": [
         "EUR",
         "USD"
       ]
     },
     {
-      "title": "Kiwi Slides as Geopolitics, Fed Outlook Shape FX Trade - TradingPedia",
+      "title": "GBP/USD Holds Above 1.3200 as Traders Weigh Fed Path - TradingPedia",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
+      "label": "bullish",
+      "score": 0.4642,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
     },
     {
-      "title": "India's forex curbs make lenders wary on rupee hedges, set to cool corporate rush - TradingView",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8794,
-      "currencies": []
-    },
-    {
-      "title": "Cathie Wood\u2019s ARK sells stock in Personalised Inc, buys Compass Pathways",
+      "title": "Why is Finnair stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Japan PPI unexpectedly eases in Sept on stronger yen, cooling oil",
+      "title": "Deutsche Bank initiates Wintrust Financial stock with buy rating",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5744,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Nasdaq falls ahead of earnings, economic data while oil rallies",
+      "title": "RBC Capital downgrades Chemours stock rating on TiO2 weakness",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.874,
+      "score": -0.8349,
       "currencies": []
     },
     {
-      "title": "Saudi warning system stayed silent before deadly airport attacks",
+      "title": "UBS initiates TechnipFMC stock with buy rating on subsea growth",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "UK shoppers stay cautious as fuel costs bite, surveys show",
+      "title": "Bernstein downgrades AT&T stock rating on Starlink competition",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8667,
+      "score": -0.8133,
       "currencies": []
     },
     {
-      "title": "NYT, Economist among publishers joining coalition to curb unpaid AI use",
+      "title": "Warby Parker co-CEO Neil Blumenthal sells $2.77m in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Kroger plans to eliminate 3,000 corporate roles, memo shows, as it expands AI use",
+      "title": "Nasdaq futures slide amid chip selloff; Q3 earnings, inflation data loom",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.955,
       "currencies": []
     },
     {
-      "title": "CME corn futures hit record daily volume on October 9",
+      "title": "Finnair shares hit three-week high as airline raises 2026 outlook",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8274,
+      "score": 0.885,
       "currencies": []
     }
   ],

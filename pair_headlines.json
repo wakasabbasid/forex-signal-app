@@ -3,30 +3,58 @@
   "pairs": {
     "EUR/USD": [
       {
+        "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
         "title": "EUR/USD Tests Market Patience Near the 1.1200 Level - DailyForex",
         "source": "Google News",
         "label": "bullish",
         "score": 0.91
       },
       {
-        "title": "Euro Weekly Forecast: EUR/USD Dawdles At Lows Despite Daily RSI Oversold - FOREX.com",
+        "title": "EUR/USD Forecast: Euro Slips to 17-Month Lows, 1.11 Next? - FOREX.com",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.899
+        "score": -0.9616
+      },
+      {
+        "title": "EUR/USD Price Forecast: Holds gains above 1.1150, but remains technically bearish under 100-day SMA",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.9021
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/USD Holds Above 1.3200 as Traders Weigh Fed Path - TradingPedia",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.4642
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "AUD/USD Price Forecast: Declining 20-day EMA builds case for more downside",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9576
       }
     ],
     "USD/JPY": [
       {
-        "title": "investingLive Americas FX news wrap 12 Oct: USD climbs, EURUSD hits a 2026 low as oil rises and stocks finish mixed",
-        "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.8974
-      },
-      {
-        "title": "Aussie Dollar struggles at 0.70, retreats as Oil shock boosts the USD",
+        "title": "Gold remains capped near $4,200 as Fed hike bets and Iran risks limit USD corrective slide",
         "source": "FXStreet",
         "label": "bearish",
-        "score": -0.9566
+        "score": -0.5761
+      },
+      {
+        "title": "USD/JPY Price Forecast: Bulls fail to break the 200-day SMA around 158.50",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9138
       }
     ]
   }
