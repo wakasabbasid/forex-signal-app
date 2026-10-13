@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "Forex Currencies: live prices, changes, trading volume and daily charts - Yahoo Finance - Yahoo! Finance Canada",
+      "title": "Forex Currencies: live prices, changes, trading volume and daily charts - Yahoo! Finance Canada",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -42,17 +42,17 @@
       ]
     },
     {
-      "title": "Dollar-Yen Retreats After 200-Day Average Caps Latest Rally - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9508,
-      "currencies": []
-    },
-    {
       "title": "Japanese Yen - CME Group",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Swiss Franc Gains as Dollar Cools Ahead of Data - TradingPedia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5885,
       "currencies": []
     },
     {
@@ -63,13 +63,6 @@
       "currencies": []
     },
     {
-      "title": "Banks Seek RBI Relief on New Forex Rules: What Importers and Businesses Need to Know - www.nationpathindia.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Central bank measures, intervention spark rupee's sharpest rally in six months - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -77,11 +70,21 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar retreats from 17-month high as bond yields, oil prices ease - Mitrade",
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "AUD/USD Signal 13/10: On the Cusp of a Bearish Breakout - DailyForex",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9703,
-      "currencies": []
+      "score": -0.8458,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
     },
     {
       "title": "EUR/USD forecast: Downside risks persist despite recovery - FOREX.com",
@@ -94,62 +97,56 @@
       ]
     },
     {
-      "title": "PBF Energy stock hits all-time high at 89.49 USD",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7033,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Boeing delivers 57 jets in September, highest monthly total for year",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8497,
-      "currencies": []
-    },
-    {
-      "title": "Exclusive-Banking watchdogs ramp up AI scrutiny as stability fears mount, sources say",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5324,
-      "currencies": []
-    },
-    {
-      "title": "Zeta Global Holdings Corp stock hits 52-week high at 34.83 USD",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6083,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Safety Insurance Group stock reaches all-time high at 104.02 USD",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.648,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Raymond James reiterates Strong Buy on Terex stock amid selloff",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9332,
-      "currencies": []
-    },
-    {
-      "title": "Scientists call for international body to oversee advanced AI",
+      "title": "Strive plans $500M preferred stock offering with 15% dividend",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Built Cybernetics publishes circular ahead of general meeting",
+      "title": "Fed\u2019s Collins signals further rate hikes likely as inflation risks persist",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6583,
+      "currencies": []
+    },
+    {
+      "title": "Agility Robotics merger with Churchill XI moves forward",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "AT&T to sell Mexico unit for $2 billion",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Generate Biomedicines, Zealand Pharma form AI drug partnership",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Hycroft reports highest gold grades in company history",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8423,
+      "currencies": []
+    },
+    {
+      "title": "Zealand Pharma partners with Generate on AI drug development",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6341,
+      "currencies": []
+    },
+    {
+      "title": "DuPont declares $0.60 quarterly dividend payable in December",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

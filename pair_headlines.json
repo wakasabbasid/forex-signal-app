@@ -19,26 +19,42 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "EUR/USD Price Forecast: RSI signals stretched selling pressure",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.9115
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "AUD/USD Signal 13/10: On the Cusp of a Bearish Breakout - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.8458
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/JPY Price Forecast: Bulls challenge 210.00 as breakout looms",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.4382
       }
     ],
     "USD/JPY": [
       {
-        "title": "PBF Energy stock hits all-time high at 89.49 USD",
-        "source": "Investing.com",
+        "title": "GBP/JPY Price Forecast: Bulls challenge 210.00 as breakout looms",
+        "source": "FXStreet",
         "label": "bullish",
-        "score": 0.7033
+        "score": 0.4382
       },
       {
-        "title": "Zeta Global Holdings Corp stock hits 52-week high at 34.83 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.6083
-      },
-      {
-        "title": "Safety Insurance Group stock reaches all-time high at 104.02 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.648
+        "title": "Japanese Yen: Choppy trade after JPY-supportive comments \u2013 Scotiabank",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8302
       }
     ]
   }
