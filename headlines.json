@@ -1,11 +1,13 @@
 {
   "headlines": [
     {
-      "title": "India's central bank widens ambit of forex risk reserve requirement, tightens NDF rules - Reuters",
+      "title": "Rupee extends rise but falters past 95/USD on importer hedging, outflows - Reuters",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.5676,
-      "currencies": []
+      "score": -0.9345,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "Rupee Gains as RBI Signals More Steps to Curb Forex Speculation: INR/USD - Bloomberg.com",
@@ -34,6 +36,23 @@
       ]
     },
     {
+      "title": "AUD/USD Signal 14/10: 0.7000 Resistance Ahead of US CPI - DailyForex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5388,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
+    },
+    {
+      "title": "India's central bank widens ambit of forex risk reserve requirement, tightens NDF rules - Reuters",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5676,
+      "currencies": []
+    },
+    {
       "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
       "source": "Google News",
       "label": "bearish",
@@ -41,10 +60,10 @@
       "currencies": []
     },
     {
-      "title": "Indian rupee to build on rally after RBI chief reinforces currency support - Reuters",
+      "title": "Canadian Dollar Firms as Traders Brace for U.S. CPI - TradingPedia",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.9001,
+      "label": "bearish",
+      "score": -0.7627,
       "currencies": []
     },
     {
@@ -55,14 +74,18 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD Forecast 13/10: Bears Eye 1.10 Support (Video) - DailyForex",
+      "title": "Rupee\u2019s relentless slide draws importers into RBI currency fight - The Edge Malaysia",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
+      "label": "bearish",
+      "score": -0.7045,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: US Dollar weakens ahead of US CPI inflation data - Mitrade",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9634,
+      "currencies": []
     },
     {
       "title": "Which cards have no foreign currency transaction fees? - The MileLion",
@@ -72,86 +95,59 @@
       "currencies": []
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "AUD/USD Signal 13/10: On the Cusp of a Bearish Breakout - DailyForex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8458,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
-    },
-    {
-      "title": "EUR/USD forecast: Downside risks persist despite recovery - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "Galderma to buy US firm ZO Skin Health for $1.5 billion",
+      "title": "Mizuho reiterates Workday stock rating on AI monetization progress",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "ASML raises 2026 sales outlook on soaring AI demand, plans capacity expansion",
+      "title": "Mizuho reiterates Oracle stock rating on data center progress",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Parabilis begins dose-ranging study of zolucatetide in FAP patients",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Viking Therapeutics launches phase 3 trials for oral obesity drug",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "VersaBank receives Canadian approval for U.S. reorganization",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.927,
+      "score": 0.574,
       "currencies": []
     },
     {
-      "title": "Vietnam says trade talks with US nearly completed; US officials more cautious",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7516,
-      "currencies": []
-    },
-    {
-      "title": "Oruka Therapeutics senior vice president Arjun Agarwal sells $805,888 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Krupp Foundation head sees opportunity to spin off Thyssenkrupp steel unit - report",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.64%",
+      "title": "UK media regulator says concerns persist over X\u2019s handling of illegal content",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9707,
+      "score": -0.9368,
       "currencies": []
     },
     {
-      "title": "Trump says \u2018massive\u2019 oil, gas, and mineral exploration to begin in Greenland",
+      "title": "Calian wins $47 million NATO training contract in Norway",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9211,
+      "currencies": []
+    },
+    {
+      "title": "Altair integrates Iridium satellite service into IoT chipsets",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Kesko reports 4.8% sales increase in September",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9536,
       "currencies": []
     }
   ],
