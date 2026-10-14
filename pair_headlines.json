@@ -3,16 +3,16 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "Rupee extends rise but falters past 95/USD on importer hedging, outflows - Reuters",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9345
-      },
-      {
         "title": "Rupee Gains as RBI Signals More Steps to Curb Forex Speculation: INR/USD - Bloomberg.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "Rupee extends rise but falters past 95/USD on importer hedging, outflows - Reuters",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9345
       }
     ],
     "EUR/USD": [

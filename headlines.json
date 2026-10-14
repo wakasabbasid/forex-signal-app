@@ -1,13 +1,11 @@
 {
   "headlines": [
     {
-      "title": "Rupee extends rise but falters past 95/USD on importer hedging, outflows - Reuters",
+      "title": "India's central bank widens ambit of forex risk reserve requirement, tightens NDF rules - Reuters",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9345,
-      "currencies": [
-        "USD"
-      ]
+      "score": -0.5676,
+      "currencies": []
     },
     {
       "title": "Rupee Gains as RBI Signals More Steps to Curb Forex Speculation: INR/USD - Bloomberg.com",
@@ -46,17 +44,26 @@
       ]
     },
     {
-      "title": "India's central bank widens ambit of forex risk reserve requirement, tightens NDF rules - Reuters",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5676,
-      "currencies": []
-    },
-    {
       "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
       "source": "Google News",
       "label": "bearish",
       "score": -0.7106,
+      "currencies": []
+    },
+    {
+      "title": "Rupee extends rise but falters past 95/USD on importer hedging, outflows - Reuters",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9345,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Japanese Yen - CME Group",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -67,7 +74,7 @@
       "currencies": []
     },
     {
-      "title": "Japanese Yen - CME Group",
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -81,70 +88,63 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar weakens ahead of US CPI inflation data - Mitrade",
+      "title": "RBI\u2019s forex measures turn tide for rupee, push currency to over one-month high - Moneycontrol.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9634,
+      "label": "bullish",
+      "score": 0.6893,
       "currencies": []
     },
     {
-      "title": "Which cards have no foreign currency transaction fees? - The MileLion",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Mizuho reiterates Workday stock rating on AI monetization progress",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Mizuho reiterates Oracle stock rating on data center progress",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Parabilis begins dose-ranging study of zolucatetide in FAP patients",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Viking Therapeutics launches phase 3 trials for oral obesity drug",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "VersaBank receives Canadian approval for U.S. reorganization",
+      "title": "Earnings call transcript: Havas posts steady Q3 2026 growth as stock slips",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.574,
+      "score": 0.9517,
       "currencies": []
     },
     {
-      "title": "UK media regulator says concerns persist over X\u2019s handling of illegal content",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9368,
-      "currencies": []
-    },
-    {
-      "title": "Calian wins $47 million NATO training contract in Norway",
+      "title": "European shares edge up after solid ASML results, healthcare gains",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9211,
+      "score": 0.9311,
       "currencies": []
     },
     {
-      "title": "Altair integrates Iridium satellite service into IoT chipsets",
+      "title": "UK stocks close higher as weaker sterling boosts export-heavy sectors",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9221,
+      "currencies": []
+    },
+    {
+      "title": "State Street Q3 2026 slides: record metrics, muted market response",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9486,
+      "currencies": []
+    },
+    {
+      "title": "US lifts sanctions on head of Venezuela legislature",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7949,
+      "currencies": []
+    },
+    {
+      "title": "Space startups secure record $20.8 billion funding as infrastructure bets surge, report shows",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8829,
+      "currencies": []
+    },
+    {
+      "title": "Televisa\u2019s AT&T Mexico deal boosts its challenge to America Movil",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9519,
+      "currencies": []
+    },
+    {
+      "title": "Peel Group reaches 75% stake in Harworth, plans delisting",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
