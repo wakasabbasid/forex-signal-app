@@ -21,10 +21,10 @@
         "score": 0.0
       },
       {
-        "title": "EUR/USD Price Forecast: RSI signals stretched selling pressure",
-        "source": "FXStreet",
+        "title": "Goldman sees upside risks (105 EUR!) to its 70 euro TTF gas forecast as Europe stocks run low",
+        "source": "ForexLive",
         "label": "bearish",
-        "score": -0.9115
+        "score": -0.6376
       }
     ],
     "AUD/USD": [
@@ -35,15 +35,13 @@
         "score": -0.8458
       }
     ],
-    "GBP/USD": [
-      {
-        "title": "GBP/JPY Price Forecast: Bulls challenge 210.00 as breakout looms",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.4382
-      }
-    ],
     "USD/JPY": [
+      {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.6922 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
       {
         "title": "GBP/JPY Price Forecast: Bulls challenge 210.00 as breakout looms",
         "source": "FXStreet",
@@ -55,6 +53,14 @@
         "source": "FXStreet",
         "label": "bearish",
         "score": -0.8302
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "GBP/JPY Price Forecast: Bulls challenge 210.00 as breakout looms",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.4382
       }
     ]
   }

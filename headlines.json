@@ -56,13 +56,6 @@
       "currencies": []
     },
     {
-      "title": "Japanese PM Takaichi: Japan Will Continue Coordination With Washington to Maintain Currency Market Stability - Forex Factory",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8536,
-      "currencies": []
-    },
-    {
       "title": "Central bank measures, intervention spark rupee's sharpest rally in six months - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -97,59 +90,66 @@
       ]
     },
     {
-      "title": "Strive plans $500M preferred stock offering with 15% dividend",
-      "source": "Investing.com",
+      "title": "Banks seek RBI relief, clarity on India's latest rupee-defence measures, sources say - Reuters",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Fed\u2019s Collins signals further rate hikes likely as inflation risks persist",
+      "title": "Paladin Q1 FY2027 slides: pricing gains offset by production miss",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6583,
+      "score": 0.9272,
       "currencies": []
     },
     {
-      "title": "Agility Robotics merger with Churchill XI moves forward",
+      "title": "Liquidia chief accounting officer Dana Boyle sells $167,804 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "AT&T to sell Mexico unit for $2 billion",
+      "title": "Liquidia CBO Jason Adair sells $207,932 in shares after vesting",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Generate Biomedicines, Zealand Pharma form AI drug partnership",
+      "title": "Mobix Labs CEO Philip Sansone sells $2,933 in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Hycroft reports highest gold grades in company history",
+      "title": "Zone Frontier CEO Tyler Hassen buys $146,075 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Prospect Ridge closes first tranche of private placement",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Singapore Q3 GDP beats forecasts at 5.4% as growth cools from Q2",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8423,
+      "score": 0.7259,
       "currencies": []
     },
     {
-      "title": "Zealand Pharma partners with Generate on AI drug development",
+      "title": "Earnings call transcript: Paladin Energy Q1 2026 revenue miss hits stock",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6341,
-      "currencies": []
-    },
-    {
-      "title": "DuPont declares $0.60 quarterly dividend payable in December",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.5915,
       "currencies": []
     }
   ],
