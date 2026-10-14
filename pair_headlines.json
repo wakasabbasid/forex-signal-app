@@ -1,6 +1,38 @@
 {
   "run_id": 1,
   "pairs": {
+    "USD/JPY": [
+      {
+        "title": "Rupee Gains as RBI Signals More Steps to Curb Forex Speculation: INR/USD - Bloomberg.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC sets USD/ CNY mid-point today at 6.7249 (vs. estimate at 6.6922)",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Gold consolidates above $4,150 as softer USD lends support ahead of US CPI report",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.7133
+      },
+      {
+        "title": "EUR/JPY Price Forecast: Gains ground below 177.50, but stays bearish below 100-day SMA",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.7806
+      },
+      {
+        "title": "Silver Price Forecast: XAG/USD remains above $59.00 amid dovish Fed remarks",
+        "source": "FXStreet",
+        "label": "bearish",
+        "score": -0.8046
+      }
+    ],
     "EUR/USD": [
       {
         "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
@@ -21,10 +53,16 @@
         "score": 0.0
       },
       {
-        "title": "Goldman sees upside risks (105 EUR!) to its 70 euro TTF gas forecast as Europe stocks run low",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.6376
+        "title": "EUR/JPY Price Forecast: Gains ground below 177.50, but stays bearish below 100-day SMA",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.7806
+      },
+      {
+        "title": "EUR/USD Price Forecast: Gains ground near 1.1150, US CPI awaited",
+        "source": "FXStreet",
+        "label": "bullish",
+        "score": 0.8733
       }
     ],
     "AUD/USD": [
@@ -35,32 +73,12 @@
         "score": -0.8458
       }
     ],
-    "USD/JPY": [
-      {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.6922 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "GBP/JPY Price Forecast: Bulls challenge 210.00 as breakout looms",
-        "source": "FXStreet",
-        "label": "bullish",
-        "score": 0.4382
-      },
-      {
-        "title": "Japanese Yen: Choppy trade after JPY-supportive comments \u2013 Scotiabank",
-        "source": "FXStreet",
-        "label": "bearish",
-        "score": -0.8302
-      }
-    ],
     "GBP/USD": [
       {
-        "title": "GBP/JPY Price Forecast: Bulls challenge 210.00 as breakout looms",
+        "title": "GBP/USD Price Forecast: Hits one-week top as bulls eye range breakout above 1.3300",
         "source": "FXStreet",
         "label": "bullish",
-        "score": 0.4382
+        "score": 0.9215
       }
     ]
   }

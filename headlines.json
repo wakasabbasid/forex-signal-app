@@ -1,17 +1,26 @@
 {
   "headlines": [
     {
-      "title": "Forex Currencies: live prices, changes, trading volume and daily charts - Yahoo! Finance Canada",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "India's central bank widens ambit of forex risk reserve requirement, tightens NDF rules - Reuters",
       "source": "Google News",
       "label": "bearish",
       "score": -0.5676,
+      "currencies": []
+    },
+    {
+      "title": "Rupee Gains as RBI Signals More Steps to Curb Forex Speculation: INR/USD - Bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Forex Currencies: live prices, changes, trading volume and daily charts - Yahoo Finance - Yahoo! Finance Canada",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -32,6 +41,20 @@
       "currencies": []
     },
     {
+      "title": "Indian rupee to build on rally after RBI chief reinforces currency support - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9001,
+      "currencies": []
+    },
+    {
+      "title": "Japanese Yen - CME Group",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "EUR/USD Forecast 13/10: Bears Eye 1.10 Support (Video) - DailyForex",
       "source": "Google News",
       "label": "neutral",
@@ -42,24 +65,10 @@
       ]
     },
     {
-      "title": "Japanese Yen - CME Group",
+      "title": "Which cards have no foreign currency transaction fees? - The MileLion",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Swiss Franc Gains as Dollar Cools Ahead of Data - TradingPedia",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5885,
-      "currencies": []
-    },
-    {
-      "title": "Central bank measures, intervention spark rupee's sharpest rally in six months - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5589,
       "currencies": []
     },
     {
@@ -90,66 +99,59 @@
       ]
     },
     {
-      "title": "Banks seek RBI relief, clarity on India's latest rupee-defence measures, sources say - Reuters",
-      "source": "Google News",
+      "title": "Galderma to buy US firm ZO Skin Health for $1.5 billion",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Paladin Q1 FY2027 slides: pricing gains offset by production miss",
+      "title": "ASML raises 2026 sales outlook on soaring AI demand, plans capacity expansion",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9272,
+      "score": 0.927,
       "currencies": []
     },
     {
-      "title": "Liquidia chief accounting officer Dana Boyle sells $167,804 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Liquidia CBO Jason Adair sells $207,932 in shares after vesting",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Mobix Labs CEO Philip Sansone sells $2,933 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Zone Frontier CEO Tyler Hassen buys $146,075 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Prospect Ridge closes first tranche of private placement",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Singapore Q3 GDP beats forecasts at 5.4% as growth cools from Q2",
+      "title": "Vietnam says trade talks with US nearly completed; US officials more cautious",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7259,
+      "score": 0.7516,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Paladin Energy Q1 2026 revenue miss hits stock",
+      "title": "Oruka Therapeutics senior vice president Arjun Agarwal sells $805,888 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Krupp Foundation head sees opportunity to spin off Thyssenkrupp steel unit - report",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.64%",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5915,
+      "score": -0.9707,
+      "currencies": []
+    },
+    {
+      "title": "Trump says \u2018massive\u2019 oil, gas, and mineral exploration to begin in Greenland",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Kesko reports 4.8% sales increase in September",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9536,
       "currencies": []
     }
   ],
