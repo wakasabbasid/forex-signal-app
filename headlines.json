@@ -67,6 +67,13 @@
       "currencies": []
     },
     {
+      "title": "Which cards have no foreign currency transaction fees? - The MileLion",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Canadian Dollar Firms as Traders Brace for U.S. CPI - TradingPedia",
       "source": "Google News",
       "label": "bearish",
@@ -81,70 +88,66 @@
       "currencies": []
     },
     {
-      "title": "Rupee\u2019s relentless slide draws importers into RBI currency fight - The Edge Malaysia",
+      "title": "EUR/USD Forecast 13/10: Bears Eye 1.10 Support (Video) - DailyForex",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.7045,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "Inside the booming market for US midterm election bets",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "RBI\u2019s forex measures turn tide for rupee, push currency to over one-month high - Moneycontrol.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6893,
+      "title": "New ASX boss wants to accelerate move to one-day settlement in Australia",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Havas posts steady Q3 2026 growth as stock slips",
+      "title": "Banamex leadership pitches turnaround ahead of targeted Citi IPO - Bloomberg",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9517,
+      "score": 0.9016,
       "currencies": []
     },
     {
-      "title": "European shares edge up after solid ASML results, healthcare gains",
+      "title": "CoreWeave CEO notes strong backlog in memo to reassure staff over market scrutiny",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9311,
+      "score": 0.854,
       "currencies": []
     },
     {
-      "title": "UK stocks close higher as weaker sterling boosts export-heavy sectors",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9221,
-      "currencies": []
-    },
-    {
-      "title": "State Street Q3 2026 slides: record metrics, muted market response",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9486,
-      "currencies": []
-    },
-    {
-      "title": "US lifts sanctions on head of Venezuela legislature",
+      "title": "Winmark reports mixed third quarter results as royalties drive revenue higher",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7949,
+      "score": -0.9731,
       "currencies": []
     },
     {
-      "title": "Space startups secure record $20.8 billion funding as infrastructure bets surge, report shows",
+      "title": "Jackson Financial adds Donald Templin to board of directors",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8829,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Televisa\u2019s AT&T Mexico deal boosts its challenge to America Movil",
+      "title": "Infinity Natural Resources reports $64.4M derivative loss in Q3",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9519,
+      "label": "bearish",
+      "score": -0.9623,
       "currencies": []
     },
     {
-      "title": "Peel Group reaches 75% stake in Harworth, plans delisting",
+      "title": "ONEOK declares $1.07 quarterly dividend, payable November 16",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
