@@ -3,13 +3,13 @@
   "engine": "finbert",
   "headline_count": 46,
   "source_count": 4,
-  "created_at": "2026-10-14T23:46:50.134628+00:00",
+  "created_at": "2026-10-15T05:39:57.172951+00:00",
   "signals": [
     {
       "pair": "AUD/USD",
       "signal": "SELL",
-      "avg_score": -0.5388,
-      "headline_count": 1
+      "avg_score": -0.756,
+      "headline_count": 2
     },
     {
       "pair": "USD/JPY",

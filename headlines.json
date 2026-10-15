@@ -8,11 +8,14 @@
       "currencies": []
     },
     {
-      "title": "Forex Currencies: live prices, changes, trading volume and daily charts - Yahoo Finance - Yahoo! Finance Canada",
+      "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
     },
     {
       "title": "Rupee Gains as RBI Signals More Steps to Curb Forex Speculation: INR/USD - Bloomberg.com",
@@ -20,16 +23,6 @@
       "label": "neutral",
       "score": 0.0,
       "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
         "USD"
       ]
     },
@@ -51,26 +44,17 @@
       ]
     },
     {
-      "title": "Rupee extends rise but falters past 95/USD on importer hedging, outflows - Reuters",
+      "title": "Exporter dollar sales bolster Malaysian ringgit, analysts say - The Star",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9345,
-      "currencies": [
-        "USD"
-      ]
+      "label": "bullish",
+      "score": 0.9377,
+      "currencies": []
     },
     {
       "title": "Japanese Yen - CME Group",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Canadian Dollar Firms as Traders Brace for U.S. CPI - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7627,
       "currencies": []
     },
     {
@@ -81,10 +65,26 @@
       "currencies": []
     },
     {
+      "title": "Rupee extends rise but falters past 95/USD on importer hedging, outflows - Reuters",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9345,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Asian currencies weaken after hot US inflation, Korea stocks down 8% - The Star",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9733,
       "currencies": []
     },
     {
@@ -98,56 +98,56 @@
       ]
     },
     {
-      "title": "Wayfair CEO Niraj Shah sells $7.3m of company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Verisign CEO D. James Bidzos sells $999k in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Inhibrx CEO Mark Lappe buys over $848k in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Hershey trust co, 10% owner, sells $4.9m in Hershey Co. stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "TSMC expected to report sixth straight quarter of record profit thanks to AI boom",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9249,
-      "currencies": []
-    },
-    {
-      "title": "IBM survey finds 80% of EMEA firms report AI incidents to board",
+      "title": "TomTom to cut 200 jobs, trims 2026 revenue outlook midpoint",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6047,
+      "score": -0.9546,
       "currencies": []
     },
     {
-      "title": "Wayfair director Steven Conine disposes of $7.3M in Class A shares",
+      "title": "Swiss online pharmacy DocMorris hikes 2026 guidance after strong Q3 earnings",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7176,
+      "currencies": []
+    },
+    {
+      "title": "Taiwan president calls for Micron, workers to negotiate \u2019sincerely\u2019 ahead of possible strike",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Xometry CEO Sanjeev Singh sells $163,201 in company stock",
+      "title": "This Chinese export boom really has legs \u2013 and wings",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "VAT Group sees 2027 sales well above its guidance as AI demand surges",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9429,
+      "currencies": []
+    },
+    {
+      "title": "Figma CFO says design platform willing to put margins on the line to boost AI demand",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.928,
+      "currencies": []
+    },
+    {
+      "title": "Bessent calls for World Bank reforms, including upstream oil and gas financing",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5029,
+      "currencies": []
+    },
+    {
+      "title": "Japan to invest up to $21 billion in two GlobalFoundries chip factories in New York",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
