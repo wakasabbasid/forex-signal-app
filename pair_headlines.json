@@ -1,6 +1,22 @@
 {
   "run_id": 1,
   "pairs": {
+    "AUD/USD": [
+      {
+        "title": "AUD/USD Signal 14/10: 0.7000 Resistance Ahead of US CPI - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.5388
+      }
+    ],
+    "USD/CAD": [
+      {
+        "title": "CAD Holds Firm as Hot US CPI Fails to Boost USD/CAD - TradingPedia",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.5923
+      }
+    ],
     "EUR/USD": [
       {
         "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
@@ -21,22 +37,6 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.9345
-      }
-    ],
-    "USD/CAD": [
-      {
-        "title": "CAD Holds Firm as Hot US CPI Fails to Boost USD/CAD - TradingPedia",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.5923
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "AUD/USD Signal 14/10: 0.7000 Resistance Ahead of US CPI - DailyForex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.5388
       }
     ]
   }

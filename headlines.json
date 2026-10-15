@@ -1,10 +1,66 @@
 {
   "headlines": [
     {
+      "title": "India\u2019s RBI Clarifies Scope of Forex Curbs After Market Swings - Bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "AFRICA-FX-Kenyan and Ugandan currencies under strain - Reuters",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.588,
+      "currencies": []
+    },
+    {
+      "title": "US Dollar Technical Outlook: DXY, Treasury Yields Retreat Despite Hot CPI - FOREX.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9272,
+      "currencies": []
+    },
+    {
+      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7106,
+      "currencies": []
+    },
+    {
       "title": "India's central bank widens ambit of forex risk reserve requirement, tightens NDF rules - Reuters",
       "source": "Google News",
       "label": "bearish",
       "score": -0.5676,
+      "currencies": []
+    },
+    {
+      "title": "AUD/USD Signal 14/10: 0.7000 Resistance Ahead of US CPI - DailyForex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5388,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
+    },
+    {
+      "title": "CAD Holds Firm as Hot US CPI Fails to Boost USD/CAD - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5923,
+      "currencies": [
+        "CAD",
+        "USD",
+        "CAD"
+      ]
+    },
+    {
+      "title": "Singapore Exchange Deepens Currency Trading Link With BlackRock\u2019s Aladdin - Finance Magnates",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8628,
       "currencies": []
     },
     {
@@ -27,63 +83,7 @@
       ]
     },
     {
-      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7106,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: US Dollar erases CPI-inspired gains as bond yields slump - FXStreet",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9329,
-      "currencies": []
-    },
-    {
-      "title": "CAD Holds Firm as Hot US CPI Fails to Boost USD/CAD - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5923,
-      "currencies": [
-        "CAD",
-        "USD",
-        "CAD"
-      ]
-    },
-    {
-      "title": "Banks seek clarity on FCNR(B) interest hedges under RBI\u2019s expanded forex rules - TradingView",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Singapore Exchange Deepens Currency Trading Link With BlackRock\u2019s Aladdin - Finance Magnates",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8628,
-      "currencies": []
-    },
-    {
-      "title": "Japanese Yen - CME Group",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "AUD/USD Signal 14/10: 0.7000 Resistance Ahead of US CPI - DailyForex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5388,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
-    },
-    {
-      "title": "Which cards have no foreign currency transaction fees? - The MileLion",
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -99,59 +99,59 @@
       ]
     },
     {
-      "title": "Turkiye Garanti Bankasi sets TRY 100 billion ABS issuance ceiling",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Bank of New York earnings beat by $0.11, revenue topped estimates",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9265,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Pacific Basin posts strong q3 2026 operating gains",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9482,
-      "currencies": []
-    },
-    {
-      "title": "Morning Bid: Coreweave unravels",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Garanti BBVA redeems $100 million MTN debt instrument",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is Relx stock climbing today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Chip stock selloff deepens: What looks attractive and names to avoid",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "PNC Financial earnings beat by $0.18, revenue fell short of estimates",
+      "title": "Netherlands stocks lower at close of trade; AEX down 0.40%",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8155,
+      "score": -0.9648,
+      "currencies": []
+    },
+    {
+      "title": "Italy stocks lower at close of trade; Investing.com Italy 40 down 0.72%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9647,
+      "currencies": []
+    },
+    {
+      "title": "Germany stocks mixed at close of trade; DAX up 0.27%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5325,
+      "currencies": []
+    },
+    {
+      "title": "France stocks higher at close of trade; CAC 40 up 0.78%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9306,
+      "currencies": []
+    },
+    {
+      "title": "Belgium stocks higher at close of trade; BEL 20 up 0.81%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9434,
+      "currencies": []
+    },
+    {
+      "title": "S&P revises Prudential\u2019s outlook to negative on Japan headwinds",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9581,
+      "currencies": []
+    },
+    {
+      "title": "Crude oil inventories show significant decline, surpassing expectations",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9719,
+      "currencies": []
+    },
+    {
+      "title": "Nasdaq reports network disruption, US equities data feeds impacted",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8697,
       "currencies": []
     }
   ],
