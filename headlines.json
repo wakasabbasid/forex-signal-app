@@ -15,6 +15,16 @@
       "currencies": []
     },
     {
+      "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
       "title": "Mexican peso drops while Aussie dollar resilient in flight to quality - Nikkei Asia",
       "source": "Google News",
       "label": "bearish",
@@ -22,24 +32,20 @@
       "currencies": []
     },
     {
-      "title": "US Dollar Technical Outlook: DXY, Treasury Yields Retreat Despite Hot CPI - FOREX.com",
+      "title": "AUD/USD Forex Signal 15/10: Bearish Breakdown After US CPI - DailyForex",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9272,
-      "currencies": []
+      "score": -0.907,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
     },
     {
       "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
       "source": "Google News",
       "label": "bearish",
       "score": -0.7106,
-      "currencies": []
-    },
-    {
-      "title": "Gold Forecast 15/10: Hot CPI Threatens $4,000 Support -Video - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -61,14 +67,11 @@
       ]
     },
     {
-      "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
+      "title": "US Dollar Technical Outlook: DXY, Treasury Yields Retreat Despite Hot CPI - FOREX.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
+      "label": "bearish",
+      "score": -0.9272,
+      "currencies": []
     },
     {
       "title": "Singapore Exchange Deepens Currency Trading Link With BlackRock\u2019s Aladdin - Finance Magnates",
@@ -87,68 +90,63 @@
       ]
     },
     {
-      "title": "AUD/USD Signal 14/10: 0.7000 Resistance Ahead of US CPI - DailyForex",
+      "title": "Gold Forecast 15/10: Hot CPI Threatens $4,000 Support -Video - DailyForex",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.5388,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
-      "title": "Brazil candidates focus fiscal plans on voter-friendly measures before runoff",
+      "title": "Zeff Capital sells $236k of Butler National stock in October",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Nasdaq turns green in big rebound as bond rally offsets tech softness, hot PPI",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6429,
-      "currencies": []
-    },
-    {
-      "title": "Sweetgreen stock hits 52-week high at 10.64 USD",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7007,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Saba Capital buys $658k in Ellsworth Growth & Income Fund shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Brent dips slightly on reports of easing U.S. sanctions; big crude draw boosts WTI",
+      "title": "Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.553,
+      "score": -0.9506,
       "currencies": []
     },
     {
-      "title": "KFC signs Coca-Cola on as new beverage partner, ditching PepsiCo",
+      "title": "BRC Inc. founder Evan Hafer sells $166,729 in common stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "KFC nears deal to switch U.S. beverage provider to Coca-Cola from Pepsi - WSJ",
+      "title": "StoneX CEO Philip Smith sells $2.6m in company stock",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8864,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "KFC U.S. switches beverage partnership to Coca-Cola",
+      "title": "Global\u00a0EV sales fall 2% in September, ending six-month growth streak",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.975,
+      "currencies": []
+    },
+    {
+      "title": "Hertz Energy announces investor participation in private placement",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Etsy executive chair Josh Silverman sells $91,629 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Apple SVP Newstead sells $827,655 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

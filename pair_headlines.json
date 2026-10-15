@@ -1,14 +1,6 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/CAD": [
-      {
-        "title": "CAD Holds Firm as Hot US CPI Fails to Boost USD/CAD - TradingPedia",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.5923
-      }
-    ],
     "EUR/USD": [
       {
         "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
@@ -17,26 +9,28 @@
         "score": 0.0
       }
     ],
+    "AUD/USD": [
+      {
+        "title": "AUD/USD Forex Signal 15/10: Bearish Breakdown After US CPI - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.907
+      }
+    ],
+    "USD/CAD": [
+      {
+        "title": "CAD Holds Firm as Hot US CPI Fails to Boost USD/CAD - TradingPedia",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.5923
+      }
+    ],
     "USD/JPY": [
       {
         "title": "Rupee Gains as RBI Signals More Steps to Curb Forex Speculation: INR/USD - Bloomberg.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "Sweetgreen stock hits 52-week high at 10.64 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.7007
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "AUD/USD Signal 14/10: 0.7000 Resistance Ahead of US CPI - DailyForex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.5388
       }
     ]
   }
