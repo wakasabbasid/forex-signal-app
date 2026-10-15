@@ -1,14 +1,6 @@
 {
   "run_id": 1,
   "pairs": {
-    "AUD/USD": [
-      {
-        "title": "AUD/USD Signal 14/10: 0.7000 Resistance Ahead of US CPI - DailyForex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.5388
-      }
-    ],
     "USD/CAD": [
       {
         "title": "CAD Holds Firm as Hot US CPI Fails to Boost USD/CAD - TradingPedia",
@@ -33,10 +25,18 @@
         "score": 0.0
       },
       {
-        "title": "Rupee extends rise but falters past 95/USD on importer hedging, outflows - Reuters",
+        "title": "Sweetgreen stock hits 52-week high at 10.64 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.7007
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "AUD/USD Signal 14/10: 0.7000 Resistance Ahead of US CPI - DailyForex",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.9345
+        "score": -0.5388
       }
     ]
   }
