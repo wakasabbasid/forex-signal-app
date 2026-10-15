@@ -7,12 +7,6 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
       }
     ],
     "USD/JPY": [
@@ -29,18 +23,20 @@
         "score": -0.9345
       }
     ],
+    "USD/CAD": [
+      {
+        "title": "CAD Holds Firm as Hot US CPI Fails to Boost USD/CAD - TradingPedia",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.5923
+      }
+    ],
     "AUD/USD": [
       {
         "title": "AUD/USD Signal 14/10: 0.7000 Resistance Ahead of US CPI - DailyForex",
         "source": "Google News",
         "label": "bearish",
         "score": -0.5388
-      },
-      {
-        "title": "AUD lower: Australian jobs fall 39,300 in September, unemployment at five-year high of 4.7%",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.9733
       }
     ]
   }

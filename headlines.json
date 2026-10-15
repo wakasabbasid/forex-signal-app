@@ -34,20 +34,35 @@
       "currencies": []
     },
     {
-      "title": "AUD/USD Signal 14/10: 0.7000 Resistance Ahead of US CPI - DailyForex",
+      "title": "Forex Today: US Dollar erases CPI-inspired gains as bond yields slump - FXStreet",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.5388,
+      "score": -0.9329,
+      "currencies": []
+    },
+    {
+      "title": "CAD Holds Firm as Hot US CPI Fails to Boost USD/CAD - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5923,
       "currencies": [
-        "AUD",
-        "USD"
+        "CAD",
+        "USD",
+        "CAD"
       ]
     },
     {
-      "title": "Exporter dollar sales bolster Malaysian ringgit, analysts say - The Star",
+      "title": "Banks seek clarity on FCNR(B) interest hedges under RBI\u2019s expanded forex rules - TradingView",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Singapore Exchange Deepens Currency Trading Link With BlackRock\u2019s Aladdin - Finance Magnates",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9377,
+      "score": 0.8628,
       "currencies": []
     },
     {
@@ -56,6 +71,16 @@
       "label": "neutral",
       "score": 0.0,
       "currencies": []
+    },
+    {
+      "title": "AUD/USD Signal 14/10: 0.7000 Resistance Ahead of US CPI - DailyForex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5388,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
     },
     {
       "title": "Which cards have no foreign currency transaction fees? - The MileLion",
@@ -74,83 +99,59 @@
       ]
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Asian currencies weaken after hot US inflation, Korea stocks down 8% - The Star",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9733,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "TomTom to cut 200 jobs, trims 2026 revenue outlook midpoint",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9546,
-      "currencies": []
-    },
-    {
-      "title": "Swiss online pharmacy DocMorris hikes 2026 guidance after strong Q3 earnings",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7176,
-      "currencies": []
-    },
-    {
-      "title": "Taiwan president calls for Micron, workers to negotiate \u2019sincerely\u2019 ahead of possible strike",
+      "title": "Turkiye Garanti Bankasi sets TRY 100 billion ABS issuance ceiling",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "This Chinese export boom really has legs \u2013 and wings",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "VAT Group sees 2027 sales well above its guidance as AI demand surges",
+      "title": "Bank of New York earnings beat by $0.11, revenue topped estimates",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9429,
+      "score": 0.9265,
       "currencies": []
     },
     {
-      "title": "Figma CFO says design platform willing to put margins on the line to boost AI demand",
+      "title": "Earnings call transcript: Pacific Basin posts strong q3 2026 operating gains",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.928,
+      "score": 0.9482,
       "currencies": []
     },
     {
-      "title": "Bessent calls for World Bank reforms, including upstream oil and gas financing",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5029,
-      "currencies": []
-    },
-    {
-      "title": "Japan to invest up to $21 billion in two GlobalFoundries chip factories in New York",
+      "title": "Morning Bid: Coreweave unravels",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Garanti BBVA redeems $100 million MTN debt instrument",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why is Relx stock climbing today?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Chip stock selloff deepens: What looks attractive and names to avoid",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "PNC Financial earnings beat by $0.18, revenue fell short of estimates",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8155,
       "currencies": []
     }
   ],
