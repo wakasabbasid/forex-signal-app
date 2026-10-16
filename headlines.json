@@ -8,21 +8,14 @@
       "currencies": []
     },
     {
-      "title": "AUD/USD Bulls Fight Back After Australian Jobs Shock - FOREX.com",
+      "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.5064,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
-        "AUD",
+        "EUR",
         "USD"
       ]
-    },
-    {
-      "title": "Ex-FBI agent sentenced in Detroit for defrauding investors in forex scheme - CBS News",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6568,
-      "currencies": []
     },
     {
       "title": "India\u2019s RBI Clarifies Scope of Forex Curbs After Market Swings - Bloomberg.com",
@@ -32,10 +25,10 @@
       "currencies": []
     },
     {
-      "title": "Kenyan and Ugandan currencies under strain - CNBC Africa",
+      "title": "Ex-FBI agent sentenced in Detroit for defrauding investors in forex scheme - CBS News",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.6568,
       "currencies": []
     },
     {
@@ -46,10 +39,17 @@
       "currencies": []
     },
     {
-      "title": "India's forex reserves shed $60 billion in six weeks as RBI steps in to support rupee, one of Asia's worst - The Economic Times",
+      "title": "No meddling as 'middlemen' in forex conversion by banks: New rules forbid conversion of foreign earnings i - The Economic Times",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9723,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Kenyan and Ugandan currencies under strain - CNBC Africa",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -77,76 +77,76 @@
       "currencies": []
     },
     {
-      "title": "Indian rupee posts biggest weekly gain in seven months - Investing.com",
+      "title": "Canadian dollar heads for weekly gain as U.S. dollar retreats - Investing.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.7308,
+      "label": "bearish",
+      "score": -0.6675,
       "currencies": []
     },
     {
-      "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
+      "title": "AUD/USD Bulls Fight Back After Australian Jobs Shock - FOREX.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.5063,
       "currencies": [
-        "EUR",
+        "AUD",
         "USD"
       ]
     },
     {
-      "title": "German American Bancorp director Ryan buys $100 in stock",
+      "title": "Ethos Technologies CEO sells over $4.6m in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "German American Bancorp director Bawel buys $17,100 in stock",
+      "title": "Ethos Technologies president Wang Lingke sells $4.5m in LIFE shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "German American Bancorp director Andrew Seger buys $100 in shares",
+      "title": "Sonic Automotive director Paul Rusnak buys $752,044 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Dollar heads for weekly loss as Fed hike bets fade, AI jitters linger",
+      "title": "Copper Lake Resources closes $5M private placement",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US lifts restrictions on new Mexican flights from capital\u2019s airports",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9231,
+      "score": -0.6736,
       "currencies": []
     },
     {
-      "title": "Nasdaq slumps over 2%, heads for worst week in over 18 months as AI trade suffers",
+      "title": "Tesla shares caught up in tech rout despite new Roadster with flight capabilities",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9163,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin set for a two-week losing streak as \u2019uptober\u2019 trend fails to materialize",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9663,
+      "score": -0.9552,
       "currencies": []
     },
     {
-      "title": "SoftBank weighs $30 billion Allied Universal deal as Son eyes security robots",
+      "title": "Grynspan holds lead for next UN chief as race enters decisive stage",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Anduril may produce new Steelfin missiles in Europe, VP says",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5017,
-      "currencies": []
-    },
-    {
-      "title": "US budget deficit widens to $1.99 trillion for fiscal 2026",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8763,
       "currencies": []
     }
   ],
