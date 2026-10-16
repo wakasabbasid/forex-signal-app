@@ -18,18 +18,20 @@
       "title": "AUD/USD Bulls Fight Back After Australian Jobs Shock - FOREX.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.5064,
+      "score": 0.5063,
       "currencies": [
         "AUD",
         "USD"
       ]
     },
     {
-      "title": "India\u2019s RBI Clarifies Scope of Forex Curbs After Market Swings - Bloomberg.com",
+      "title": "India\u2019s Rupee Rebound Comes With Growing Strains in FX Market: INR/USD - Bloomberg.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
+      "label": "bearish",
+      "score": -0.8267,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "Kenyan and Ugandan currencies under strain - CNBC Africa",
@@ -43,6 +45,13 @@
       "source": "Google News",
       "label": "bearish",
       "score": -0.7106,
+      "currencies": []
+    },
+    {
+      "title": "U.S. dollar heads for weekly fall as investors gauge AI selloff impact - BNN Bloomberg",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8854,
       "currencies": []
     },
     {
@@ -70,13 +79,6 @@
       "currencies": []
     },
     {
-      "title": "India wants to push rupee trade to help forex-starved nations: Sitharaman - Business Standard",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -87,68 +89,66 @@
       ]
     },
     {
-      "title": "India\u2019s Rupee Rebound Comes With Growing Strains in FX Market: INR/USD - Bloomberg.com",
+      "title": "India\u2019s RBI Clarifies Scope of Forex Curbs After Market Swings - Bloomberg.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.8267,
-      "currencies": [
-        "USD"
-      ]
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
-      "title": "Element to manage Waymo\u2019s autonomous fleet in Toronto launch",
+      "title": "Affiliated Managers Group stock hits 52-week low at $18.47",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9539,
+      "currencies": []
+    },
+    {
+      "title": "Rockland Trust Q3 2026 slides: record earnings, margin targets intact",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9225,
+      "currencies": []
+    },
+    {
+      "title": "iA Financial Group chief legal officer wins national award",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7757,
+      "currencies": []
+    },
+    {
+      "title": "Why is Hut 8 stock sliding today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8641,
+      "currencies": []
+    },
+    {
+      "title": "Regions Financial Q3 2026 slides: EPS beats, credit quality improves",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Germany raises taxes on cigarettes, sugary drinks and alcohol",
+      "title": "Morocco stocks higher at close of trade; Moroccan All Shares up 0.06%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9455,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Circus posts Q3 2026 operational gains as shares slip",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9265,
+      "currencies": []
+    },
+    {
+      "title": "ITM Power corrects AGM notice for equity securities amount",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Regions Financial beats earnings despite revenue miss",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8626,
-      "currencies": []
-    },
-    {
-      "title": "Two ships sink near Hormuz after being hit by projectiles amid surge in attacks",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9231,
-      "currencies": []
-    },
-    {
-      "title": "Yemen\u2019s Houthis hit palace in Aden, coalition details attacks on Saudi infrastructure",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5995,
-      "currencies": []
-    },
-    {
-      "title": "Truist shares edge down on revenue miss despite earnings beat",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9708,
-      "currencies": []
-    },
-    {
-      "title": "Turkey stock index drops over 3% after MSCI freezes changes",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9679,
-      "currencies": []
-    },
-    {
-      "title": "Stay risk-off as higher real yields and AI volatility threaten stocks: BofA",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8695,
       "currencies": []
     }
   ],
