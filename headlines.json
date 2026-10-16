@@ -1,17 +1,31 @@
 {
   "headlines": [
     {
-      "title": "India\u2019s RBI Clarifies Scope of Forex Curbs After Market Swings - Bloomberg.com",
+      "title": "Ex-FBI agent sentenced in Detroit for defrauding investors in forex scheme - CBS News",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6568,
+      "currencies": []
+    },
+    {
+      "title": "India's central bank widens ambit of forex risk reserve requirement, tightens NDF rules - Reuters",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5676,
+      "currencies": []
+    },
+    {
+      "title": "India\u2019s RBI Clarifies Scope of Forex Curbs After Market Swings - Bloomberg",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "AFRICA-FX-Kenyan and Ugandan currencies under strain - Reuters",
+      "title": "Kenyan and Ugandan currencies under strain - CNBC Africa",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.588,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -32,6 +46,13 @@
       "currencies": []
     },
     {
+      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7106,
+      "currencies": []
+    },
+    {
       "title": "AUD/USD Forex Signal 15/10: Bearish Breakdown After US CPI - DailyForex",
       "source": "Google News",
       "label": "bearish",
@@ -42,28 +63,12 @@
       ]
     },
     {
-      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
+      "title": "India\u2019s Rupee Rebound Comes With Growing Strains in FX Market: INR/USD - Bloomberg",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.7106,
-      "currencies": []
-    },
-    {
-      "title": "India's central bank widens ambit of forex risk reserve requirement, tightens NDF rules - Reuters",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5676,
-      "currencies": []
-    },
-    {
-      "title": "CAD Holds Firm as Hot US CPI Fails to Boost USD/CAD - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5923,
+      "score": -0.9202,
       "currencies": [
-        "CAD",
-        "USD",
-        "CAD"
+        "USD"
       ]
     },
     {
@@ -74,20 +79,11 @@
       "currencies": []
     },
     {
-      "title": "Singapore Exchange Deepens Currency Trading Link With BlackRock\u2019s Aladdin - Finance Magnates",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8628,
-      "currencies": []
-    },
-    {
-      "title": "Rupee Gains as RBI Signals More Steps to Curb Forex Speculation: INR/USD - Bloomberg.com",
+      "title": "How India has sought to defend the slumping rupee - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
+      "currencies": []
     },
     {
       "title": "Gold Forecast 15/10: Hot CPI Threatens $4,000 Support -Video - DailyForex",
@@ -97,56 +93,56 @@
       "currencies": []
     },
     {
-      "title": "Zeff Capital sells $236k of Butler National stock in October",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say",
+      "title": "Malaysia Q3 GDP grows 5.3%, slows from Q2",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9506,
+      "score": -0.9442,
       "currencies": []
     },
     {
-      "title": "BRC Inc. founder Evan Hafer sells $166,729 in common stock",
+      "title": "Gold steadies as bond rally supports bullion, weaker dollar offers further support",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.8004,
       "currencies": []
     },
     {
-      "title": "StoneX CEO Philip Smith sells $2.6m in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Global\u00a0EV sales fall 2% in September, ending six-month growth streak",
+      "title": "SK Hynix extreme oversold in downtrend: Live levels",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.975,
+      "score": -0.935,
       "currencies": []
     },
     {
-      "title": "Hertz Energy announces investor participation in private placement",
+      "title": "Analysis-Europe\u2019s bond market turmoil shines a spotlight on hedge funds\u2019 role in key markets",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6584,
+      "currencies": []
+    },
+    {
+      "title": "Nikkei 225 bounces but faces 67,000 resistance: Live levels",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5411,
+      "currencies": []
+    },
+    {
+      "title": "FDA approves Enspryng for thyroid eye disease treatment",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Etsy executive chair Josh Silverman sells $91,629 in company stock",
+      "title": "Nidec says considering legal action against executives over accounting scandal",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.8643,
       "currencies": []
     },
     {
-      "title": "Apple SVP Newstead sells $827,655 in shares",
+      "title": "Exclusive-US holds more secret talks with Myanmar\u2019s military-backed rulers in Tokyo, sources say",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

@@ -17,18 +17,22 @@
         "score": -0.907
       }
     ],
-    "USD/CAD": [
-      {
-        "title": "CAD Holds Firm as Hot US CPI Fails to Boost USD/CAD - TradingPedia",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.5923
-      }
-    ],
     "USD/JPY": [
       {
-        "title": "Rupee Gains as RBI Signals More Steps to Curb Forex Speculation: INR/USD - Bloomberg.com",
+        "title": "India\u2019s Rupee Rebound Comes With Growing Strains in FX Market: INR/USD - Bloomberg",
         "source": "Google News",
+        "label": "bearish",
+        "score": -0.9202
+      },
+      {
+        "title": "PBOC sets USD/ CNY reference rate for today at 6.7220 (vs. estimate at 6.6947)",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.6947 \u2013 Reuters estimate",
+        "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
       }
