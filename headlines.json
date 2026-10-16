@@ -8,6 +8,16 @@
       "currencies": []
     },
     {
+      "title": "AUD/USD Bulls Fight Back After Australian Jobs Shock - FOREX.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5064,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
+    },
+    {
       "title": "Ex-FBI agent sentenced in Detroit for defrauding investors in forex scheme - CBS News",
       "source": "Google News",
       "label": "bearish",
@@ -15,23 +25,11 @@
       "currencies": []
     },
     {
-      "title": "AUD/USD Bulls Fight Back After Australian Jobs Shock - FOREX.com",
+      "title": "India\u2019s RBI Clarifies Scope of Forex Curbs After Market Swings - Bloomberg.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.5063,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
-    },
-    {
-      "title": "India\u2019s Rupee Rebound Comes With Growing Strains in FX Market: INR/USD - Bloomberg.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8267,
-      "currencies": [
-        "USD"
-      ]
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "Kenyan and Ugandan currencies under strain - CNBC Africa",
@@ -48,17 +46,17 @@
       "currencies": []
     },
     {
+      "title": "India's forex reserves shed $60 billion in six weeks as RBI steps in to support rupee, one of Asia's worst - The Economic Times",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9723,
+      "currencies": []
+    },
+    {
       "title": "U.S. dollar heads for weekly fall as investors gauge AI selloff impact - BNN Bloomberg",
       "source": "Google News",
       "label": "bearish",
       "score": -0.8854,
-      "currencies": []
-    },
-    {
-      "title": "Mexican peso drops while Aussie dollar resilient in flight to quality - Nikkei Asia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7549,
       "currencies": []
     },
     {
@@ -72,10 +70,17 @@
       ]
     },
     {
-      "title": "Aussie Dollar Holds Near Multi-Month Lows Ahead of Warsh - TradingPedia",
+      "title": "Mexican peso drops while Aussie dollar resilient in flight to quality - Nikkei Asia",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9194,
+      "score": -0.7549,
+      "currencies": []
+    },
+    {
+      "title": "Indian rupee posts biggest weekly gain in seven months - Investing.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7308,
       "currencies": []
     },
     {
@@ -89,66 +94,59 @@
       ]
     },
     {
-      "title": "India\u2019s RBI Clarifies Scope of Forex Curbs After Market Swings - Bloomberg.com",
-      "source": "Google News",
+      "title": "German American Bancorp director Ryan buys $100 in stock",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Affiliated Managers Group stock hits 52-week low at $18.47",
+      "title": "German American Bancorp director Bawel buys $17,100 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "German American Bancorp director Andrew Seger buys $100 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Dollar heads for weekly loss as Fed hike bets fade, AI jitters linger",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9539,
+      "score": -0.9231,
       "currencies": []
     },
     {
-      "title": "Rockland Trust Q3 2026 slides: record earnings, margin targets intact",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9225,
-      "currencies": []
-    },
-    {
-      "title": "iA Financial Group chief legal officer wins national award",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7757,
-      "currencies": []
-    },
-    {
-      "title": "Why is Hut 8 stock sliding today?",
+      "title": "Nasdaq slumps over 2%, heads for worst week in over 18 months as AI trade suffers",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8641,
+      "score": -0.9663,
       "currencies": []
     },
     {
-      "title": "Regions Financial Q3 2026 slides: EPS beats, credit quality improves",
+      "title": "SoftBank weighs $30 billion Allied Universal deal as Son eyes security robots",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Morocco stocks higher at close of trade; Moroccan All Shares up 0.06%",
+      "title": "Anduril may produce new Steelfin missiles in Europe, VP says",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9455,
+      "score": 0.5017,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Circus posts Q3 2026 operational gains as shares slip",
+      "title": "US budget deficit widens to $1.99 trillion for fiscal 2026",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9265,
-      "currencies": []
-    },
-    {
-      "title": "ITM Power corrects AGM notice for equity securities amount",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "score": 0.8763,
       "currencies": []
     }
   ],

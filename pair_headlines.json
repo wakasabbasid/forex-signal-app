@@ -6,7 +6,7 @@
         "title": "AUD/USD Bulls Fight Back After Australian Jobs Shock - FOREX.com",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.5063
+        "score": 0.5064
       },
       {
         "title": "AUD/USD Forex Signal 15/10: Bearish Breakdown After US CPI - DailyForex",
@@ -15,26 +15,20 @@
         "score": -0.907
       }
     ],
-    "USD/JPY": [
-      {
-        "title": "India\u2019s Rupee Rebound Comes With Growing Strains in FX Market: INR/USD - Bloomberg.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.8267
-      }
-    ],
     "EUR/USD": [
       {
         "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
+      }
+    ],
+    "USD/JPY": [
       {
-        "title": "Is EUR/USD finally turning the corner or is this just another false dawn?",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
+        "title": "Pony Ai stock hits 52-week low at 4.93 USD",
+        "source": "Investing.com",
+        "label": "bearish",
+        "score": -0.9495
       }
     ]
   }
