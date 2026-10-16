@@ -1,13 +1,6 @@
 {
   "headlines": [
     {
-      "title": "Ex-FBI agent sentenced in Detroit for defrauding investors in forex scheme - CBS News",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6568,
-      "currencies": []
-    },
-    {
       "title": "India's central bank widens ambit of forex risk reserve requirement, tightens NDF rules - Reuters",
       "source": "Google News",
       "label": "bearish",
@@ -15,7 +8,24 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s RBI Clarifies Scope of Forex Curbs After Market Swings - Bloomberg",
+      "title": "Ex-FBI agent sentenced in Detroit for defrauding investors in forex scheme - CBS News",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6568,
+      "currencies": []
+    },
+    {
+      "title": "AUD/USD Bulls Fight Back After Australian Jobs Shock - FOREX.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5064,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
+    },
+    {
+      "title": "India\u2019s RBI Clarifies Scope of Forex Curbs After Market Swings - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -23,6 +33,44 @@
     },
     {
       "title": "Kenyan and Ugandan currencies under strain - CNBC Africa",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7106,
+      "currencies": []
+    },
+    {
+      "title": "Mexican peso drops while Aussie dollar resilient in flight to quality - Nikkei Asia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7549,
+      "currencies": []
+    },
+    {
+      "title": "AUD/USD Forex Signal 15/10: Bearish Breakdown After US CPI - DailyForex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.907,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
+    },
+    {
+      "title": "Aussie Dollar Holds Near Multi-Month Lows Ahead of Warsh - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9194,
+      "currencies": []
+    },
+    {
+      "title": "India wants to push rupee trade to help forex-starved nations: Sitharaman - Business Standard",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -39,113 +87,68 @@
       ]
     },
     {
-      "title": "Mexican peso drops while Aussie dollar resilient in flight to quality - Nikkei Asia",
+      "title": "India\u2019s Rupee Rebound Comes With Growing Strains in FX Market: INR/USD - Bloomberg.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.7549,
-      "currencies": []
-    },
-    {
-      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7106,
-      "currencies": []
-    },
-    {
-      "title": "AUD/USD Forex Signal 15/10: Bearish Breakdown After US CPI - DailyForex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.907,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
-    },
-    {
-      "title": "India\u2019s Rupee Rebound Comes With Growing Strains in FX Market: INR/USD - Bloomberg",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9202,
+      "score": -0.8267,
       "currencies": [
         "USD"
       ]
     },
     {
-      "title": "US Dollar Technical Outlook: DXY, Treasury Yields Retreat Despite Hot CPI - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9272,
-      "currencies": []
-    },
-    {
-      "title": "How India has sought to defend the slumping rupee - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Gold Forecast 15/10: Hot CPI Threatens $4,000 Support -Video - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Malaysia Q3 GDP grows 5.3%, slows from Q2",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9442,
-      "currencies": []
-    },
-    {
-      "title": "Gold steadies as bond rally supports bullion, weaker dollar offers further support",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8004,
-      "currencies": []
-    },
-    {
-      "title": "SK Hynix extreme oversold in downtrend: Live levels",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.935,
-      "currencies": []
-    },
-    {
-      "title": "Analysis-Europe\u2019s bond market turmoil shines a spotlight on hedge funds\u2019 role in key markets",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6584,
-      "currencies": []
-    },
-    {
-      "title": "Nikkei 225 bounces but faces 67,000 resistance: Live levels",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5411,
-      "currencies": []
-    },
-    {
-      "title": "FDA approves Enspryng for thyroid eye disease treatment",
+      "title": "Element to manage Waymo\u2019s autonomous fleet in Toronto launch",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Nidec says considering legal action against executives over accounting scandal",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8643,
-      "currencies": []
-    },
-    {
-      "title": "Exclusive-US holds more secret talks with Myanmar\u2019s military-backed rulers in Tokyo, sources say",
+      "title": "Germany raises taxes on cigarettes, sugary drinks and alcohol",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Regions Financial beats earnings despite revenue miss",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8626,
+      "currencies": []
+    },
+    {
+      "title": "Two ships sink near Hormuz after being hit by projectiles amid surge in attacks",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9231,
+      "currencies": []
+    },
+    {
+      "title": "Yemen\u2019s Houthis hit palace in Aden, coalition details attacks on Saudi infrastructure",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5995,
+      "currencies": []
+    },
+    {
+      "title": "Truist shares edge down on revenue miss despite earnings beat",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9708,
+      "currencies": []
+    },
+    {
+      "title": "Turkey stock index drops over 3% after MSCI freezes changes",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9679,
+      "currencies": []
+    },
+    {
+      "title": "Stay risk-off as higher real yields and AI volatility threaten stocks: BofA",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8695,
       "currencies": []
     }
   ],
