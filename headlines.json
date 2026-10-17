@@ -32,14 +32,14 @@
       "currencies": []
     },
     {
-      "title": "No meddling as 'middlemen' in forex conversion by banks: New rules forbid conversion of foreign earnings i - The Economic Times",
+      "title": "Kenyan and Ugandan currencies under strain - CNBC Africa",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Kenyan and Ugandan currencies under strain - CNBC Africa",
+      "title": "No meddling as 'middlemen' in forex conversion by banks: New rules forbid conversion of foreign earnings i - The Economic Times",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -61,13 +61,6 @@
         "AUD",
         "USD"
       ]
-    },
-    {
-      "title": "U.S. dollar heads for weekly fall as investors gauge AI selloff impact - BNN Bloomberg",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8854,
-      "currencies": []
     },
     {
       "title": "Mexican peso drops while Aussie dollar resilient in flight to quality - Nikkei Asia",
@@ -93,59 +86,69 @@
       ]
     },
     {
-      "title": "Iran war: Missiles target Saudi oil hub as Yemen conflict escalates",
+      "title": "AUD/USD Bulls Fight Back After Australian Jobs Shock - FOREX.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5063,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
+    },
+    {
+      "title": "German minister seeks debt brake exemption to maintain Ukraine aid",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.4839,
+      "currencies": []
+    },
+    {
+      "title": "Nwpx infrastructure director Roman sells $387k in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Idt director Judah Schorr sells $1.12m in class B common stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Nuveen municipal credit fund trustee Toth sells $71,811 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Anthropic\u2019s Clark says AI\u2019s impact accelerating quickly and could vastly boost US GDP",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9502,
+      "currencies": []
+    },
+    {
+      "title": "Russia says it struck Ukrainian steel plants and power infrastructure",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8252,
+      "score": -0.9026,
       "currencies": []
     },
     {
-      "title": "United Therapeutics chairperson & CEO sells $5.19m in stock",
+      "title": "BJ\u2019s Wholesale EVP, CFO Felice sells $887k in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Nearly 12,000 California residents bought EVs using state rebate program",
+      "title": "Delegates walked out of IMF steering committee meeting when Russian official spoke, sources say",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "BOJ may need to tighten faster if inflation beats forecast, IMF says",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "What would superintelligence look and feel like?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Progyny COO Melissa Cummings sells $52,612 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Oil-Dri director Amy Ryan sells $86,680 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Oil-Dri group VP Christopher Lamson sells $561,890 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.6432,
       "currencies": []
     }
   ],

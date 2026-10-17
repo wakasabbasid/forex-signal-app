@@ -15,6 +15,12 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.907
+      },
+      {
+        "title": "AUD/USD Bulls Fight Back After Australian Jobs Shock - FOREX.com",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.5063
       }
     ],
     "USD/JPY": [
