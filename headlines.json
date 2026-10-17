@@ -8,6 +8,13 @@
       "currencies": []
     },
     {
+      "title": "Ex-FBI agent sentenced in Detroit for defrauding investors in forex scheme - CBS News",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6568,
+      "currencies": []
+    },
+    {
       "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -16,13 +23,6 @@
         "EUR",
         "USD"
       ]
-    },
-    {
-      "title": "Ex-FBI agent sentenced in Detroit for defrauding investors in forex scheme - CBS News",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6568,
-      "currencies": []
     },
     {
       "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
@@ -39,14 +39,14 @@
       "currencies": []
     },
     {
-      "title": "No meddling as 'middlemen' in forex conversion by banks: New rules forbid conversion of foreign earnings i - The Economic Times",
+      "title": "How India has sought to defend the slumping rupee - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "How India has sought to defend the slumping rupee - Reuters",
+      "title": "No meddling as 'middlemen' in forex conversion by banks: New rules forbid conversion of foreign earnings i - The Economic Times",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -96,59 +96,59 @@
       ]
     },
     {
-      "title": "German minister seeks debt brake exemption to maintain Ukraine aid",
+      "title": "Ferguson COO Thees sells $127,125 of FERG stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Which company has the world\u2019s highest earnings? The answer may surprise you",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Trump waives key Russia-related sanctions, tariffs before they take effect under new law",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "ICICI Bank Q2-2027 slides: 23% profit growth amid margin pressure",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.4839,
+      "score": 0.909,
       "currencies": []
     },
     {
-      "title": "Nwpx infrastructure director Roman sells $387k in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Idt director Judah Schorr sells $1.12m in class B common stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Nuveen municipal credit fund trustee Toth sells $71,811 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Anthropic\u2019s Clark says AI\u2019s impact accelerating quickly and could vastly boost US GDP",
+      "title": "Earnings call transcript: ICICI Bank posts strong Q2 2026 profit growth, shares flat",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9502,
+      "score": 0.9448,
       "currencies": []
     },
     {
-      "title": "Russia says it struck Ukrainian steel plants and power infrastructure",
+      "title": "HDFC Bank Q2 FY27 slides: deposits surge 19%, margins stabilize",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9484,
+      "currencies": []
+    },
+    {
+      "title": "Chip index SOX posts longest losing streak since 2008 as AI worries deepen",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9026,
+      "score": -0.9582,
       "currencies": []
     },
     {
-      "title": "BJ\u2019s Wholesale EVP, CFO Felice sells $887k in shares",
+      "title": "Earnings call transcript: HDFC Bank Q2 2026 margin pressure eases as growth stays firm",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Delegates walked out of IMF steering committee meeting when Russian official spoke, sources say",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6432,
+      "label": "bullish",
+      "score": 0.9472,
       "currencies": []
     }
   ],
