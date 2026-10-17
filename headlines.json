@@ -8,13 +8,6 @@
       "currencies": []
     },
     {
-      "title": "Ex-FBI agent sentenced in Detroit for defrauding investors in forex scheme - CBS News",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6568,
-      "currencies": []
-    },
-    {
       "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -39,14 +32,7 @@
       "currencies": []
     },
     {
-      "title": "How India has sought to defend the slumping rupee - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "No meddling as 'middlemen' in forex conversion by banks: New rules forbid conversion of foreign earnings i - The Economic Times",
+      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -67,6 +53,13 @@
       "source": "Google News",
       "label": "bearish",
       "score": -0.7549,
+      "currencies": []
+    },
+    {
+      "title": "No meddling as 'middlemen' in forex conversion by banks: New rules forbid conversion of foreign earnings i - The Economic Times",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -96,59 +89,66 @@
       ]
     },
     {
-      "title": "Ferguson COO Thees sells $127,125 of FERG stock",
+      "title": "How India has sought to defend the slumping rupee - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Memory stocks: Is the wall of worry justified?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Which company has the world\u2019s highest earnings? The answer may surprise you",
+      "title": "GIC Private Ltd sells $274.8 million in Medline (MDLN) shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Trump waives key Russia-related sanctions, tariffs before they take effect under new law",
+      "title": "Analysis-High debt, growing strains put focus on need for new development approaches",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5209,
+      "currencies": []
+    },
+    {
+      "title": "Saba Capital sells $675,333 in BlackRock ECAT shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "ICICI Bank Q2-2027 slides: 23% profit growth amid margin pressure",
+      "title": "DeepSeek releases AI model update, opens search APIs to all users",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.909,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: ICICI Bank posts strong Q2 2026 profit growth, shares flat",
+      "title": "Tether global investments fund buys $1.28m in Gold.com stock",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9448,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "HDFC Bank Q2 FY27 slides: deposits surge 19%, margins stabilize",
+      "title": "Earnings call transcript: Axis Bank posts strong Q2 2026 profit growth",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9484,
+      "score": 0.949,
       "currencies": []
     },
     {
-      "title": "Chip index SOX posts longest losing streak since 2008 as AI worries deepen",
+      "title": "Bitcoin price holds near $81,000 as ETF outflows weigh on sentiment",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9582,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: HDFC Bank Q2 2026 margin pressure eases as growth stays firm",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9472,
+      "score": -0.7185,
       "currencies": []
     }
   ],
