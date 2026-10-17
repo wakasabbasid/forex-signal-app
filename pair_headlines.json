@@ -21,6 +21,12 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.5063
+      },
+      {
+        "title": "AUD/USD Signal 14/10: 0.7000 Resistance Ahead of US CPI - DailyForex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.5388
       }
     ],
     "USD/JPY": [

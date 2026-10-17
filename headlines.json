@@ -56,13 +56,6 @@
       "currencies": []
     },
     {
-      "title": "No meddling as 'middlemen' in forex conversion by banks: New rules forbid conversion of foreign earnings i - The Economic Times",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
@@ -96,59 +89,69 @@
       "currencies": []
     },
     {
-      "title": "Memory stocks: Is the wall of worry justified?",
+      "title": "AUD/USD Signal 14/10: 0.7000 Resistance Ahead of US CPI - DailyForex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5388,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
+    },
+    {
+      "title": "Citi says interest rates may matter more for economy than stock valuations",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "GIC Private Ltd sells $274.8 million in Medline (MDLN) shares",
+      "title": "Gilead chairman & CEO O\u2019Day sells $2.2m in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Analysis-High debt, growing strains put focus on need for new development approaches",
+      "title": "Bitcoin coils at 23.6% Fib level near $81,495: Live levels",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin price holds above $81,000 as ETF outflows weigh on sentiment",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5209,
+      "score": 0.6824,
       "currencies": []
     },
     {
-      "title": "Saba Capital sells $675,333 in BlackRock ECAT shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "DeepSeek releases AI model update, opens search APIs to all users",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Tether global investments fund buys $1.28m in Gold.com stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Axis Bank posts strong Q2 2026 profit growth",
+      "title": "EOS Climbs 18% In a Green Day",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.949,
+      "score": 0.9138,
       "currencies": []
     },
     {
-      "title": "Bitcoin price holds near $81,000 as ETF outflows weigh on sentiment",
+      "title": "Anterix CFO Elena Marquez sells $400,606 of stock from $80.00 to $82.50",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Mercedes unveils electric SUV as it expands premium EV lineup",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6677,
+      "currencies": []
+    },
+    {
+      "title": "Zelenskiy criticizes Trump\u2019s waiver of sanctions on Russia as \u2019wrong\u2019",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7185,
+      "score": -0.9169,
       "currencies": []
     }
   ],
