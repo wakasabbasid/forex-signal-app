@@ -49,10 +49,10 @@
       ]
     },
     {
-      "title": "Mexican peso drops while Aussie dollar resilient in flight to quality - Nikkei Asia",
+      "title": "Foreign exchange market (forex, or FX, market) - Britannica",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.7549,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -75,7 +75,7 @@
       "title": "AUD/USD Bulls Fight Back After Australian Jobs Shock - FOREX.com",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.5063,
+      "score": 0.5064,
       "currencies": [
         "AUD",
         "USD"
@@ -99,52 +99,10 @@
       ]
     },
     {
-      "title": "Citi says interest rates may matter more for economy than stock valuations",
+      "title": "Limoneira VP, CFO Hamm sells $11,905 of common stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Gilead chairman & CEO O\u2019Day sells $2.2m in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Bitcoin coils at 23.6% Fib level near $81,495: Live levels",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Bitcoin price holds above $81,000 as ETF outflows weigh on sentiment",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6824,
-      "currencies": []
-    },
-    {
-      "title": "EOS Climbs 18% In a Green Day",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9138,
-      "currencies": []
-    },
-    {
-      "title": "Anterix CFO Elena Marquez sells $400,606 of stock from $80.00 to $82.50",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Mercedes unveils electric SUV as it expands premium EV lineup",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6677,
       "currencies": []
     },
     {
@@ -152,6 +110,48 @@
       "source": "Investing.com",
       "label": "bearish",
       "score": -0.9169,
+      "currencies": []
+    },
+    {
+      "title": "Protagonist CFO Ali Asif sells $8.3 million in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Dropbox CAO Sarah Schubach sells $65,893 of stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "JetBlue chief digital & tech officer disposes of $8,580 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9603,
+      "currencies": []
+    },
+    {
+      "title": "On Semiconductor group president Sudhir Gopalswamy sells $1.25m in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Powell Industries VP Mauney sells $56,488 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
