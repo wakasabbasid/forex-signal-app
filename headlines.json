@@ -1,10 +1,10 @@
 {
   "headlines": [
     {
-      "title": "India's central bank widens ambit of forex risk reserve requirement, tightens NDF rules - Reuters",
+      "title": "India\u2019s RBI Clarifies Scope of Forex Curbs After Market Swings - Bloomberg.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.5676,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -16,13 +16,6 @@
         "EUR",
         "USD"
       ]
-    },
-    {
-      "title": "India\u2019s RBI Clarifies Scope of Forex Curbs After Market Swings - Bloomberg.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
     },
     {
       "title": "Ex-FBI agent sentenced in Detroit for defrauding investors in forex scheme - CBS News",
@@ -53,10 +46,10 @@
       "currencies": []
     },
     {
-      "title": "U.S. dollar heads for weekly fall as investors gauge AI selloff impact - BNN Bloomberg",
+      "title": "How India has sought to defend the slumping rupee - Reuters",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.8854,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -70,10 +63,24 @@
       ]
     },
     {
+      "title": "U.S. dollar heads for weekly fall as investors gauge AI selloff impact - BNN Bloomberg",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8854,
+      "currencies": []
+    },
+    {
       "title": "Mexican peso drops while Aussie dollar resilient in flight to quality - Nikkei Asia",
       "source": "Google News",
       "label": "bearish",
       "score": -0.7549,
+      "currencies": []
+    },
+    {
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -86,66 +93,56 @@
       ]
     },
     {
-      "title": "AUD/USD Bulls Fight Back After Australian Jobs Shock - FOREX.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5063,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
+      "title": "Iran war: Missiles target Saudi oil hub as Yemen conflict escalates",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8252,
+      "currencies": []
     },
     {
-      "title": "PTC Therapeutics director sells $149,036 in shares",
+      "title": "United Therapeutics chairperson & CEO sells $5.19m in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Opaleye management, 10% owner, buys $136,177 Grace Therapeutics (GRCE)",
+      "title": "Nearly 12,000 California residents bought EVs using state rebate program",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Exclusive-US holds more secret talks with Myanmar\u2019s military-backed rulers in Tokyo, sources say",
+      "title": "BOJ may need to tighten faster if inflation beats forecast, IMF says",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Samsara chief accounting officer sells $87,466 in stock",
+      "title": "What would superintelligence look and feel like?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Synopsys CEO Ghazi Sassine sells $6.7m in stock",
+      "title": "Progyny COO Melissa Cummings sells $52,612 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Will Starlink Mobile matter for Apple?",
+      "title": "Oil-Dri director Amy Ryan sells $86,680 in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Star Equity Holdings CEO sells $27,409 in preferred stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Planet Labs director Kristen Robinson sells $565,560 in stock",
+      "title": "Oil-Dri group VP Christopher Lamson sells $561,890 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
