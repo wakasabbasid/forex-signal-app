@@ -22,6 +22,14 @@
         "label": "bullish",
         "score": 0.5063
       }
+    ],
+    "USD/JPY": [
+      {
+        "title": "Rupee Gains as RBI Signals More Steps to Curb Forex Speculation: INR/USD - Bloomberg",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.9129
+      }
     ]
   }
 }

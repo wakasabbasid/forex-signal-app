@@ -77,11 +77,13 @@
       "currencies": []
     },
     {
-      "title": "Canadian dollar heads for weekly gain as U.S. dollar retreats - Investing.com",
+      "title": "Rupee Gains as RBI Signals More Steps to Curb Forex Speculation: INR/USD - Bloomberg",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.6675,
-      "currencies": []
+      "label": "bullish",
+      "score": 0.9129,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "AUD/USD Bulls Fight Back After Australian Jobs Shock - FOREX.com",
@@ -94,56 +96,56 @@
       ]
     },
     {
-      "title": "Ethos Technologies CEO sells over $4.6m in company stock",
+      "title": "PTC Therapeutics director sells $149,036 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Ethos Technologies president Wang Lingke sells $4.5m in LIFE shares",
+      "title": "Opaleye management, 10% owner, buys $136,177 Grace Therapeutics (GRCE)",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Sonic Automotive director Paul Rusnak buys $752,044 in stock",
+      "title": "Exclusive-US holds more secret talks with Myanmar\u2019s military-backed rulers in Tokyo, sources say",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Copper Lake Resources closes $5M private placement",
+      "title": "Samsara chief accounting officer sells $87,466 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US lifts restrictions on new Mexican flights from capital\u2019s airports",
+      "title": "Synopsys CEO Ghazi Sassine sells $6.7m in stock",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6736,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Tesla shares caught up in tech rout despite new Roadster with flight capabilities",
+      "title": "Will Starlink Mobile matter for Apple?",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9163,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Bitcoin set for a two-week losing streak as \u2019uptober\u2019 trend fails to materialize",
+      "title": "Star Equity Holdings CEO sells $27,409 in preferred stock",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9552,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Grynspan holds lead for next UN chief as race enters decisive stage",
+      "title": "Planet Labs director Kristen Robinson sells $565,560 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
