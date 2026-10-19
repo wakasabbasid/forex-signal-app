@@ -1,21 +1,14 @@
 {
   "headlines": [
     {
-      "title": "Dollar Outlook After Inflation Shock Hits Tech and Oil - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Ex-FBI agent sentenced in Detroit for defrauding investors in forex scheme - CBS News",
+      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.6568,
+      "score": -0.7106,
       "currencies": []
     },
     {
-      "title": "India\u2019s RBI Clarifies Scope of Forex Curbs After Market Swings - Bloomberg.com",
+      "title": "Dollar Outlook After Inflation Shock Hits Tech and Oil - DailyForex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -32,10 +25,10 @@
       ]
     },
     {
-      "title": "Kenyan and Ugandan currencies under strain - CNBC Africa",
+      "title": "Rupee rises to 94.80 against US dollar, but crude oil threatens recovery - The Times of India",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.5997,
       "currencies": []
     },
     {
@@ -46,10 +39,10 @@
       "currencies": []
     },
     {
-      "title": "Foreign exchange market (forex, or FX, market) - Britannica",
+      "title": "RBI\u2019s forex measures turn tide for rupee, push currency to over one-month high - TradingView",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.8849,
       "currencies": []
     },
     {
@@ -60,24 +53,21 @@
       "currencies": []
     },
     {
-      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
+      "title": "India Forex Reserves Log Record Weekly Drop on Rupee Defense - Bloomberg.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.9371,
+      "label": "bearish",
+      "score": -0.9623,
       "currencies": []
     },
     {
-      "title": "EUR/USD Sell-Off Snaps Back, What\u2019s the True Trend? - FOREX.com",
+      "title": "FX Futures Positioning: US Dollar Bulls Face Crowded FX Shorts - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
+      "currencies": []
     },
     {
-      "title": "How India has sought to defend the slumping rupee - Reuters",
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -94,59 +84,69 @@
       ]
     },
     {
-      "title": "Putin proposes summit with Trump and Xi on Ukraine- WSJ",
-      "source": "Investing.com",
+      "title": "USD/JPY Update: Can the Japanese Yen Sustain Its Recovery? - FOREX.com",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
     },
     {
-      "title": "Australia\u2019s Ampol third-quarter Lytton refining margin more than doubles",
+      "title": "YES BANK Q2FY27 slides: profit surges 65% amid AT1 bond uncertainty",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8434,
+      "score": 0.8724,
       "currencies": []
     },
     {
-      "title": "XPO CFO Kyle Wismans sells $131,602 in company stock",
+      "title": "Nidec shares hit decade low as report finds execs liable in accounting scandal",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9618,
+      "currencies": []
+    },
+    {
+      "title": "Saba Capital sells $180,936 in PIMCO Dynamic Income Strategy fund",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "China\u2019s Q3 GDP growth set to pick up as exports power ahead",
+      "title": "Saba Capital buys $4,940 in Gabelli Healthcare & WellnessRx trust",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Bawag Q3 profit misses estimates as loan-loss costs jump",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9662,
+      "currencies": []
+    },
+    {
+      "title": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.44%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9416,
+      "score": 0.938,
       "currencies": []
     },
     {
-      "title": "UK housing market showing signs of mortgage rates impact, Rightmove says",
+      "title": "UBS capital rules have Swiss stuck between a rock and a hard place",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9221,
+      "score": -0.8898,
       "currencies": []
     },
     {
-      "title": "BOJ may need to tighten faster if inflation beats forecast, IMF says",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Oil slips as Trump\u2019s sanction waiver may lead to more Russian fuel supplies",
+      "title": "Indonesia stocks hit six-year low as MSCI warning deepens selloff",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.945,
-      "currencies": []
-    },
-    {
-      "title": "Veradermics to present phase 3 hair loss trial results Monday",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "score": -0.9151,
       "currencies": []
     }
   ],

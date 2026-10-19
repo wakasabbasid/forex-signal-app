@@ -7,18 +7,6 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "EUR/USD Sell-Off Snaps Back, What\u2019s the True Trend? - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "EUR update, France riots: 2,400 arrested as cost-of-living protests turn to looting and arson",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.9535
       }
     ],
     "AUD/USD": [
@@ -27,6 +15,26 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.907
+      }
+    ],
+    "USD/JPY": [
+      {
+        "title": "USD/JPY Update: Can the Japanese Yen Sustain Its Recovery? - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC sets USD/ CNY reference rate for today at 6.7208 (vs. estimate at 6.6897)",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.6897 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }
