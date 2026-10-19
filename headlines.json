@@ -15,6 +15,13 @@
       "currencies": []
     },
     {
+      "title": "Euro dips on French turmoil, US dollar lifted as stocks rebound - Kitco",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5082,
+      "currencies": []
+    },
+    {
       "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -25,13 +32,6 @@
       ]
     },
     {
-      "title": "Inveslo Introduces a New Look and Enhanced Website Experience - markets.businessinsider.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
       "source": "Google News",
       "label": "neutral",
@@ -39,10 +39,10 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: Major pairs hold steady to start new week - Mitrade",
+      "title": "Inveslo Introduces a New Look and Enhanced Website Experience - markets.businessinsider.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.7248,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -50,6 +50,20 @@
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Euro drops amid high energy prices and street riots in France - The Business Times",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9442,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: Major pairs hold steady to start new week - Mitrade",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7248,
       "currencies": []
     },
     {
@@ -67,13 +81,6 @@
       "currencies": []
     },
     {
-      "title": "RBI\u2019s forex measures turn tide for rupee, push currency to over one-month high - TradingView",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8849,
-      "currencies": []
-    },
-    {
       "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
       "label": "neutral",
@@ -81,69 +88,59 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD Forecast: France Riots Put Euro's Channel Breakout to the Test - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "S&P rises and Nasdaq jumps over 1%, rebounding after their worst week since June",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6266,
-      "currencies": []
-    },
-    {
-      "title": "Anthropic, Musk outline dueling approaches to AI-era philanthropy",
+      "title": "Zions Q3 2026 slides: deposit growth, capital markets drive beat",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Top US building products stocks according to Jefferies",
+      "title": "Dexcom EVP Michael Brown sells $145,316 in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine",
+      "title": "Apple senior vice president, CFO Kevan Parekh sells $480,315 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Apple principal accounting officer Ben Borders sells $442k in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Brazil\u2019s Americanas exits bankruptcy proceedings",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8127,
+      "score": -0.5753,
       "currencies": []
     },
     {
-      "title": "Welltower stock may move 2.6% on Oct. 26 earnings release",
+      "title": "Nvidia-backed Nscale, Anthropic in talks for new $45 billion AI cloud deal, source says",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7152,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Hub Group stock hits 52-week low at $25.62",
+      "title": "Earnings call transcript: Zions Bancorporation tops Q3 2026 EPS forecast",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9595,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Alexandria Real Estate stock may move 3.4% on earnings report",
+      "title": "Block director Anthony Eisen sells $1.42m in XYZ stock",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8326,
-      "currencies": []
-    },
-    {
-      "title": "Nasdaq climbs as chip and AI-linked stocks bounce back",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.4697,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
