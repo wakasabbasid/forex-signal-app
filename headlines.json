@@ -1,6 +1,20 @@
 {
   "headlines": [
     {
+      "title": "Dollar Outlook After Inflation Shock Hits Tech and Oil - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Ex-FBI agent sentenced in Detroit for defrauding investors in forex scheme - CBS News",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6568,
+      "currencies": []
+    },
+    {
       "title": "India\u2019s RBI Clarifies Scope of Forex Curbs After Market Swings - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
@@ -18,13 +32,6 @@
       ]
     },
     {
-      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7106,
-      "currencies": []
-    },
-    {
       "title": "Kenyan and Ugandan currencies under strain - CNBC Africa",
       "source": "Google News",
       "label": "neutral",
@@ -37,16 +44,6 @@
       "label": "neutral",
       "score": 0.0,
       "currencies": []
-    },
-    {
-      "title": "AUD/USD Forex Signal 15/10: Bearish Breakdown After US CPI - DailyForex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.907,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
     },
     {
       "title": "Foreign exchange market (forex, or FX, market) - Britannica",
@@ -63,21 +60,19 @@
       "currencies": []
     },
     {
-      "title": "Rupee Gains as RBI Signals More Steps to Curb Forex Speculation: INR/USD - Bloomberg",
+      "title": "Japan Finance Minister Confirms Continued Coordination with U.S. on Forex - WSJ",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9129,
-      "currencies": [
-        "USD"
-      ]
+      "score": 0.9371,
+      "currencies": []
     },
     {
-      "title": "AUD/USD Bulls Fight Back After Australian Jobs Shock - FOREX.com",
+      "title": "EUR/USD Sell-Off Snaps Back, What\u2019s the True Trend? - FOREX.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.5064,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
-        "AUD",
+        "EUR",
         "USD"
       ]
     },
@@ -89,66 +84,66 @@
       "currencies": []
     },
     {
-      "title": "AUD/USD Signal 14/10: 0.7000 Resistance Ahead of US CPI - DailyForex",
+      "title": "AUD/USD Forex Signal 15/10: Bearish Breakdown After US CPI - DailyForex",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.5388,
+      "score": -0.907,
       "currencies": [
         "AUD",
         "USD"
       ]
     },
     {
-      "title": "Limoneira VP, CFO Hamm sells $11,905 of common stock",
+      "title": "Putin proposes summit with Trump and Xi on Ukraine- WSJ",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Zelenskiy criticizes Trump\u2019s waiver of sanctions on Russia as \u2019wrong\u2019",
+      "title": "Australia\u2019s Ampol third-quarter Lytton refining margin more than doubles",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8434,
+      "currencies": []
+    },
+    {
+      "title": "XPO CFO Kyle Wismans sells $131,602 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "China\u2019s Q3 GDP growth set to pick up as exports power ahead",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9416,
+      "currencies": []
+    },
+    {
+      "title": "UK housing market showing signs of mortgage rates impact, Rightmove says",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9169,
+      "score": -0.9221,
       "currencies": []
     },
     {
-      "title": "Protagonist CFO Ali Asif sells $8.3 million in company stock",
+      "title": "BOJ may need to tighten faster if inflation beats forecast, IMF says",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Dropbox CAO Sarah Schubach sells $65,893 of stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "JetBlue chief digital & tech officer disposes of $8,580 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "title": "Oil slips as Trump\u2019s sanction waiver may lead to more Russian fuel supplies",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9603,
+      "score": -0.945,
       "currencies": []
     },
     {
-      "title": "On Semiconductor group president Sudhir Gopalswamy sells $1.25m in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Powell Industries VP Mauney sells $56,488 in stock",
+      "title": "Veradermics to present phase 3 hair loss trial results Monday",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
