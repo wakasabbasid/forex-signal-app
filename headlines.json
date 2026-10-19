@@ -8,7 +8,7 @@
       "currencies": []
     },
     {
-      "title": "Dollar Outlook After Inflation Shock Hits Tech and Oil - DailyForex",
+      "title": "Inveslo Introduces a New Look and Enhanced Website Experience - markets.businessinsider.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -25,14 +25,28 @@
       ]
     },
     {
-      "title": "Rupee rises to 94.80 against US dollar, but crude oil threatens recovery - The Times of India",
+      "title": "Forex Today: Major pairs hold steady to start new week - Mitrade",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.5997,
+      "score": 0.7248,
       "currencies": []
     },
     {
-      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
+      "title": "Dollar Outlook After Inflation Shock Hits Tech and Oil - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "How India has sought to defend the slumping rupee - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "8 Forex Brokers That Could Save African Traders Money in 2027 - Techweez",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -43,6 +57,13 @@
       "source": "Google News",
       "label": "bullish",
       "score": 0.8849,
+      "currencies": []
+    },
+    {
+      "title": "FOREX-Dollar firmer, euro weakens as French protests turn violent - Metrobank Wealth Insights",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8127,
       "currencies": []
     },
     {
@@ -60,93 +81,66 @@
       "currencies": []
     },
     {
-      "title": "FX Futures Positioning: US Dollar Bulls Face Crowded FX Shorts - FOREX.com",
+      "title": "Ringgit closes higher against major currencies on strong economic data - The Star",
       "source": "Google News",
+      "label": "bullish",
+      "score": 0.9302,
+      "currencies": []
+    },
+    {
+      "title": "Strategy buys bitcoin and repurchases preferred shares in weekly update",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
-      "source": "Google News",
+      "title": "Cantor Fitzgerald reiterates CoreWeave stock rating on strong demand",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "AUD/USD Forex Signal 15/10: Bearish Breakdown After US CPI - DailyForex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.907,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
-    },
-    {
-      "title": "USD/JPY Update: Can the Japanese Yen Sustain Its Recovery? - FOREX.com",
-      "source": "Google News",
+      "title": "Hepion unit receives FDA feedback on gambling disorder drug",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
+      "currencies": []
     },
     {
-      "title": "YES BANK Q2FY27 slides: profit surges 65% amid AT1 bond uncertainty",
+      "title": "Merck KGaA to acquire Silence Therapeutics for $1.3 billion",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "SpyGlass Pharma reports 4-year glaucoma implant trial results",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Radnostix submits NRC letter for license transfer to NANO Nuclear",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Baird Medical gains regulatory approvals in Vietnam and Egypt",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8724,
+      "score": 0.9346,
       "currencies": []
     },
     {
-      "title": "Nidec shares hit decade low as report finds execs liable in accounting scandal",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9618,
-      "currencies": []
-    },
-    {
-      "title": "Saba Capital sells $180,936 in PIMCO Dynamic Income Strategy fund",
+      "title": "Gilead to present HIV and antiviral research at IDWeek 2026",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Saba Capital buys $4,940 in Gabelli Healthcare & WellnessRx trust",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Bawag Q3 profit misses estimates as loan-loss costs jump",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9662,
-      "currencies": []
-    },
-    {
-      "title": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.44%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.938,
-      "currencies": []
-    },
-    {
-      "title": "UBS capital rules have Swiss stuck between a rock and a hard place",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8898,
-      "currencies": []
-    },
-    {
-      "title": "Indonesia stocks hit six-year low as MSCI warning deepens selloff",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9151,
       "currencies": []
     }
   ],
