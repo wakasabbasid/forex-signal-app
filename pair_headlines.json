@@ -1,14 +1,6 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/JPY": [
-      {
-        "title": "USD/ZAR: Why the Recent Calm May Be Misleading - DailyForex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
     "EUR/USD": [
       {
         "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",

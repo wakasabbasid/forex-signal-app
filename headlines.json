@@ -8,15 +8,6 @@
       "currencies": []
     },
     {
-      "title": "USD/ZAR: Why the Recent Calm May Be Misleading - DailyForex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
       "title": "Euro FX - CME Group",
       "source": "Google News",
       "label": "neutral",
@@ -31,13 +22,6 @@
       "currencies": []
     },
     {
-      "title": "Dollar surrenders gains as record Japanese bond auction sparks Yen rally - Investing.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.3774,
-      "currencies": []
-    },
-    {
       "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
       "source": "Google News",
       "label": "bearish",
@@ -45,10 +29,10 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: Pound rises on upbeat employment data, US Dollar retreats as yields turn south - Mitrade",
+      "title": "Dollar surrenders gains as record Japanese bond auction sparks Yen rally - Investing.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.4837,
+      "label": "bullish",
+      "score": 0.3774,
       "currencies": []
     },
     {
@@ -62,14 +46,28 @@
       ]
     },
     {
-      "title": "Yen rises as authorities closely monitor currency movements - Economies.com",
+      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "How India has sought to defend the slumping rupee - Reuters",
+      "title": "Forex Today: Pound rises on upbeat employment data, US Dollar retreats as yields turn south - Mitrade",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.4837,
+      "currencies": []
+    },
+    {
+      "title": "Dollar Outlook After Inflation Shock Hits Tech and Oil - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Yen rises as authorities closely monitor currency movements - Economies.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -83,66 +81,66 @@
       "currencies": []
     },
     {
-      "title": "India Forex Reserves Log Record Weekly Drop on Rupee Defense - Bloomberg.com",
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9623,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Genuine Parts earnings beat by $0.03, revenue topped estimates",
+      "title": "Earnings call transcript: MSCI tops Q3 2026 estimates as stock rises 4.1%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9471,
+      "score": 0.936,
       "currencies": []
     },
     {
-      "title": "S&P, Nasdaq futures slip amid renewed pressure on tech stocks, oil price jump",
+      "title": "French bond yields near 24-year high as new protests loom",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9598,
+      "score": -0.6106,
       "currencies": []
     },
     {
-      "title": "Guggenheim cuts TKO Group stock price target on timing concerns",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7718,
-      "currencies": []
-    },
-    {
-      "title": "Wells Fargo raises Gartner stock price target on BTI transformation",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is Equifax stock rising today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "MSCI shares rise 3% on beating Q3 estimates as revenue and earnings top forecasts",
+      "title": "Steel Dynamics Q3 2026 slides: record shipments, aluminum ramp ongoing",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9457,
+      "score": 0.8509,
       "currencies": []
     },
     {
-      "title": "Why is Halliburton stock surging today?",
+      "title": "Micron union in Taiwan to launch one-day strike as bonus dispute escalates",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9428,
+      "currencies": []
+    },
+    {
+      "title": "Brazil\u2019s Azul sees longer recovery as fuel costs squeeze margins after Chapter 11",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6271,
+      "currencies": []
+    },
+    {
+      "title": "Citadel Securities considers fixed-income expansion to fill gaps - Bloomberg",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "HSBC reviews Palantir inclusion in Islamic fund after concerns",
+      "title": "Wintrust Q3 2026 slides: record profit streak hits seven quarters",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.8458,
+      "currencies": []
+    },
+    {
+      "title": "Food importer files new lawsuit to block Trump\u2019s Canada tariffs",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7981,
       "currencies": []
     }
   ],
