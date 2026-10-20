@@ -7,6 +7,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "EUR/USD forecast remains tilted lower towards 1.10 handle - FOREX.com",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9315
       }
     ]
   }

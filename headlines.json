@@ -8,20 +8,6 @@
       "currencies": []
     },
     {
-      "title": "Euro FX - CME Group",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Real Outlook Tied to Brazil Election and Policy Execution - TradingPedia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
       "source": "Google News",
       "label": "bearish",
@@ -29,10 +15,10 @@
       "currencies": []
     },
     {
-      "title": "Dollar surrenders gains as record Japanese bond auction sparks Yen rally - Investing.com",
+      "title": "Real Outlook Tied to Brazil Election and Policy Execution - TradingPedia",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.3774,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -53,6 +39,13 @@
       "currencies": []
     },
     {
+      "title": "Dollar surrenders gains as record Japanese bond auction sparks Yen rally - Investing.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.3774,
+      "currencies": []
+    },
+    {
       "title": "Forex Today: Pound rises on upbeat employment data, US Dollar retreats as yields turn south - Mitrade",
       "source": "Google News",
       "label": "bearish",
@@ -60,7 +53,7 @@
       "currencies": []
     },
     {
-      "title": "Dollar Outlook After Inflation Shock Hits Tech and Oil - DailyForex",
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -74,13 +67,6 @@
       "currencies": []
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
       "label": "neutral",
@@ -88,59 +74,76 @@
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: MSCI tops Q3 2026 estimates as stock rises 4.1%",
+      "title": "EUR/USD forecast remains tilted lower towards 1.10 handle - FOREX.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9315,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "How India has sought to defend the slumping rupee - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Wall Street ends higher on surge in health care stocks, solid earnings",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.936,
+      "score": 0.9327,
       "currencies": []
     },
     {
-      "title": "French bond yields near 24-year high as new protests loom",
+      "title": "United Airlines forecasts fourth-quarter profit below estimates as fuel costs bite",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6106,
+      "score": -0.9259,
       "currencies": []
     },
     {
-      "title": "Steel Dynamics Q3 2026 slides: record shipments, aluminum ramp ongoing",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8509,
-      "currencies": []
-    },
-    {
-      "title": "Micron union in Taiwan to launch one-day strike as bonus dispute escalates",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9428,
-      "currencies": []
-    },
-    {
-      "title": "Brazil\u2019s Azul sees longer recovery as fuel costs squeeze margins after Chapter 11",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6271,
-      "currencies": []
-    },
-    {
-      "title": "Citadel Securities considers fixed-income expansion to fill gaps - Bloomberg",
+      "title": "Tempest Therapeutics adjourns special meeting, sets reconvened date for November",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Wintrust Q3 2026 slides: record profit streak hits seven quarters",
+      "title": "Alpha Teknova launches public offering of common stock",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8458,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Food importer files new lawsuit to block Trump\u2019s Canada tariffs",
+      "title": "SpaceX quarterly revenue jumps, beats estimates as AI business surges",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7981,
+      "label": "bullish",
+      "score": 0.8293,
+      "currencies": []
+    },
+    {
+      "title": "Eat Well Investment Group names Matthew Anderson as CFO",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Vertex Pharmaceuticals appoints Daniel Brennan to board",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Marsh prices \u20ac1.2 billion senior notes offering",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
