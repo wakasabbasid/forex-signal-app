@@ -14,6 +14,14 @@
         "label": "bearish",
         "score": -0.9315
       }
+    ],
+    "USD/JPY": [
+      {
+        "title": "investingLive Americas FX news wrap 20 Oct: USD falls as deal headlines swing oil; Dow and small caps outperform",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.9582
+      }
     ]
   }
 }

@@ -32,17 +32,10 @@
       ]
     },
     {
-      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Dollar surrenders gains as record Japanese bond auction sparks Yen rally - Investing.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.3774,
       "currencies": []
     },
     {
@@ -60,14 +53,21 @@
       "currencies": []
     },
     {
-      "title": "Yen rises as authorities closely monitor currency movements - Economies.com",
+      "title": "Best places for currency exchange in Copenhagen: A complete travel guide - Revolut",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "title": "India Forex Reserves Log Record Weekly Drop on Rupee Defense - Bloomberg.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9623,
+      "currencies": []
+    },
+    {
+      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -84,63 +84,63 @@
       ]
     },
     {
-      "title": "How India has sought to defend the slumping rupee - Reuters",
+      "title": "AFRICA-FX-Ugandan and Kenyan currencies could climb, Zambia's may slide - Reuters",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Wall Street ends higher on surge in health care stocks, solid earnings",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9327,
-      "currencies": []
-    },
-    {
-      "title": "United Airlines forecasts fourth-quarter profit below estimates as fuel costs bite",
-      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9259,
+      "score": -0.6939,
       "currencies": []
     },
     {
-      "title": "Tempest Therapeutics adjourns special meeting, sets reconvened date for November",
+      "title": "WidePoint at LD Micro: growth bets meet a legal hurdle",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Alpha Teknova launches public offering of common stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "SpaceX quarterly revenue jumps, beats estimates as AI business surges",
+      "title": "Lotus Technology at LD Micro main event: turnaround gains pace",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8293,
+      "score": 0.937,
       "currencies": []
     },
     {
-      "title": "Eat Well Investment Group names Matthew Anderson as CFO",
+      "title": "Porch group COO Matthew Neagle sells $713,228 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Vertex Pharmaceuticals appoints Daniel Brennan to board",
+      "title": "AJB investment fund II buys $21,221 in Jewett Cameron Trading Co",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Marsh prices \u20ac1.2 billion senior notes offering",
+      "title": "BioCardia president and CEO Peter Altman buys $475 in BCDA shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Micron Technology\u2019s Scott Deboer sells $25.7m in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "SpaceX and Tesla\u2019s Terafab targets 2028 for volume chip production, Musk says",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Avepoint chief legal officer sells $1.16m in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
