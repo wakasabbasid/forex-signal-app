@@ -1,6 +1,22 @@
 {
   "headlines": [
     {
+      "title": "Kurdistan Region Government Bans Digital Currency Trading And Electronic Forex Exchange - Kurdistan24",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6171,
+      "currencies": []
+    },
+    {
+      "title": "USD/ZAR: Why the Recent Calm May Be Misleading - DailyForex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
       "title": "Euro FX - CME Group",
       "source": "Google News",
       "label": "neutral",
@@ -8,17 +24,17 @@
       "currencies": []
     },
     {
-      "title": "Asian currencies firm as dollar retreats; yuan hits four-year high - Investing.com",
+      "title": "Real Outlook Tied to Brazil Election and Policy Execution - TradingPedia",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.5614,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Euro dips on French turmoil, U.S. dollar lifted as stocks rebound - CNBC",
+      "title": "Dollar surrenders gains as record Japanese bond auction sparks Yen rally - Investing.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.7145,
+      "label": "bullish",
+      "score": 0.3774,
       "currencies": []
     },
     {
@@ -26,6 +42,13 @@
       "source": "Google News",
       "label": "bearish",
       "score": -0.7106,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: Pound rises on upbeat employment data, US Dollar retreats as yields turn south - Mitrade",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.4837,
       "currencies": []
     },
     {
@@ -39,7 +62,7 @@
       ]
     },
     {
-      "title": "Dollar Outlook After Inflation Shock Hits Tech and Oil - DailyForex",
+      "title": "Yen rises as authorities closely monitor currency movements - Economies.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -53,31 +76,10 @@
       "currencies": []
     },
     {
-      "title": "Inveslo Introduces a New Look and Enhanced Website Experience - markets.businessinsider.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Euro drops amid high energy prices and street riots in France - The Business Times",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9442,
-      "currencies": []
-    },
-    {
       "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Ringgit closes higher vs major currencies - The Star",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9403,
       "currencies": []
     },
     {
@@ -88,59 +90,59 @@
       "currencies": []
     },
     {
-      "title": "Volkswagen bet on Xpeng to save its China business. It\u2019s not going to plan",
+      "title": "Genuine Parts earnings beat by $0.03, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9471,
+      "currencies": []
+    },
+    {
+      "title": "S&P, Nasdaq futures slip amid renewed pressure on tech stocks, oil price jump",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9598,
+      "currencies": []
+    },
+    {
+      "title": "Guggenheim cuts TKO Group stock price target on timing concerns",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7718,
+      "currencies": []
+    },
+    {
+      "title": "Wells Fargo raises Gartner stock price target on BTI transformation",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Analysis-As Japan pursues a chip-industry reboot, it\u2019s being pressed to build America\u2019s",
+      "title": "Why is Equifax stock rising today?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "MSCI shares rise 3% on beating Q3 estimates as revenue and earnings top forecasts",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.738,
+      "score": 0.9457,
       "currencies": []
     },
     {
-      "title": "Asian currencies firm as\u00a0dollar retreats; yuan hits four-year high",
+      "title": "Why is Halliburton stock surging today?",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7827,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "France imposes curfews in parts of Paris, other cities after weekend of riots",
+      "title": "HSBC reviews Palantir inclusion in Islamic fund after concerns",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9037,
-      "currencies": []
-    },
-    {
-      "title": "US to launch $8 billion support program for farmers to offset diesel costs, Trump says",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9092,
-      "currencies": []
-    },
-    {
-      "title": "Shares stumble, oil rises as investors await AI sector earnings",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8982,
-      "currencies": []
-    },
-    {
-      "title": "SK Hynix RSI hits 19.94 in steep downtrend: Live levels",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8344,
-      "currencies": []
-    },
-    {
-      "title": "Nikkei 225 bearish in descending channel at 64,160: Live levels",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7278,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

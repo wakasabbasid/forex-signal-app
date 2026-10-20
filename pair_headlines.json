@@ -1,24 +1,18 @@
 {
   "run_id": 1,
   "pairs": {
-    "EUR/USD": [
+    "USD/JPY": [
       {
-        "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
+        "title": "USD/ZAR: Why the Recent Calm May Be Misleading - DailyForex",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       }
     ],
-    "USD/JPY": [
+    "EUR/USD": [
       {
-        "title": "PBOC sets USD/ CNY mid-point today at 6.7200 (vs. estimate at 6.6813)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.6813 \u2013 Reuters estimate",
-        "source": "ForexLive",
+        "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
+        "source": "Google News",
         "label": "neutral",
         "score": 0.0
       }
