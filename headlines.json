@@ -25,18 +25,13 @@
       "currencies": []
     },
     {
-      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
+      "title": "USD/MXN Analysis: Mexican Peso Weakens Ahead of Key Inflation Data - FOREX.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.7106,
-      "currencies": []
-    },
-    {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8977,
-      "currencies": []
+      "score": -0.9598,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "Aussie Holds Above 0.7000 as Hawkish RBA Counters USD - TradingPedia",
@@ -48,24 +43,42 @@
       ]
     },
     {
-      "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "Best places for currency exchange in Copenhagen: A complete travel guide - Revolut",
+      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
+      "title": "Peso sinks to new low ahead of BSP policy rate setting - Inquirer.net",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.937,
+      "currencies": []
+    },
+    {
+      "title": "FOREX-Dollar on back foot as US yields, crude prices dip; Aussie buoyed by hawkish RBA - Metrobank Wealth Insights",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8301,
+      "currencies": []
+    },
+    {
+      "title": "Ringgit up against US dollar at close, mostly higher against major currencies - The Star",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9395,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: Pound rises on upbeat employment data, US Dollar retreats as yields turn south - Mitrade",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.4837,
+      "currencies": []
+    },
+    {
+      "title": "Yen rises as authorities closely monitor currency movements - Economies.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -82,75 +95,59 @@
       ]
     },
     {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Euro Slips Under Pressure as Bears Hold Key Averages - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.802,
-      "currencies": []
-    },
-    {
-      "title": "Micron faces strike from one Taiwan union after deal with another",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9584,
-      "currencies": []
-    },
-    {
-      "title": "UK\u2019s FTSE 100 ticks higher on energy boost; hot inflation report limits gains",
+      "title": "Meta beats Q3 estimates, approves new nonvoting share class as AI spending surges",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7926,
+      "score": 0.9101,
       "currencies": []
     },
     {
-      "title": "TDS stock hits 52-week low at 31.5 USD",
+      "title": "Pathward Financial earnings beat by $0.26, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9449,
+      "currencies": []
+    },
+    {
+      "title": "Enterprise Financial earnings missed by $0.21, revenue fell short of estimates",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9544,
-      "currencies": [
-        "USD"
-      ]
+      "score": -0.9715,
+      "currencies": []
     },
     {
-      "title": "Earnings call transcript: QCR Holdings tops Q3 2026 EPS forecast, shares slip",
+      "title": "Lam Research earnings beat by $0.02, revenue topped estimates",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8647,
+      "score": 0.9442,
       "currencies": []
     },
     {
-      "title": "ITM Power applies for block listing of 299,638 shares on AIM",
+      "title": "Palantir announces AI deployments with defense, healthcare clients",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "AT&T earnings analysis: questions answered and next catalysts",
+      "title": "Genenta Science receives Nasdaq bid price deficiency notice",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Fnac Darty posts steady Q3 2026 growth as margins improve",
+      "title": "Las Vegas Sands earnings missed by $0.19, revenue fell short of estimates",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9708,
+      "currencies": []
+    },
+    {
+      "title": "IBM earnings beat by $0.09, revenue topped estimates",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9519,
-      "currencies": []
-    },
-    {
-      "title": "Netflix earnings analysis: questions answered and next catalysts",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "score": 0.9384,
       "currencies": []
     }
   ],

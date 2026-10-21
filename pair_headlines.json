@@ -11,24 +11,16 @@
     ],
     "USD/JPY": [
       {
+        "title": "USD/MXN Analysis: Mexican Peso Weakens Ahead of Key Inflation Data - FOREX.com",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9598
+      },
+      {
         "title": "Aussie Holds Above 0.7000 as Hawkish RBA Counters USD - TradingPedia",
         "source": "Google News",
         "label": "bearish",
         "score": -0.7646
-      },
-      {
-        "title": "TDS stock hits 52-week low at 31.5 USD",
-        "source": "Investing.com",
-        "label": "bearish",
-        "score": -0.9544
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
       }
     ],
     "USD/CAD": [
