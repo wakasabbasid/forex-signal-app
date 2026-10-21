@@ -1,12 +1,26 @@
 {
   "run_id": 1,
   "pairs": {
+    "AUD/USD": [
+      {
+        "title": "AUD/USD Forex Signal 21/10: Breakout Targets 0.7042 - Daily Forex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.5291
+      }
+    ],
     "USD/JPY": [
       {
         "title": "Aussie Holds Above 0.7000 as Hawkish RBA Counters USD - TradingPedia",
         "source": "Google News",
         "label": "bearish",
         "score": -0.7646
+      },
+      {
+        "title": "TDS stock hits 52-week low at 31.5 USD",
+        "source": "Investing.com",
+        "label": "bearish",
+        "score": -0.9544
       }
     ],
     "EUR/USD": [

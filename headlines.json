@@ -8,6 +8,16 @@
       "currencies": []
     },
     {
+      "title": "AUD/USD Forex Signal 21/10: Breakout Targets 0.7042 - Daily Forex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5291,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
+    },
+    {
       "title": "Kurdistan Region Government Bans Digital Currency Trading And Electronic Forex Exchange - Kurdistan24",
       "source": "Google News",
       "label": "bearish",
@@ -22,6 +32,13 @@
       "currencies": []
     },
     {
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8977,
+      "currencies": []
+    },
+    {
       "title": "Aussie Holds Above 0.7000 as Hawkish RBA Counters USD - TradingPedia",
       "source": "Google News",
       "label": "bearish",
@@ -29,13 +46,6 @@
       "currencies": [
         "USD"
       ]
-    },
-    {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8977,
-      "currencies": []
     },
     {
       "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
@@ -48,14 +58,14 @@
       ]
     },
     {
-      "title": "FOREX-Dollar on back foot as US yields, crude prices dip; Aussie buoyed by hawkish RBA - Metrobank Wealth Insights",
+      "title": "Best places for currency exchange in Copenhagen: A complete travel guide - Revolut",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.8301,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Best places for currency exchange in Copenhagen: A complete travel guide - Revolut",
+      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -86,63 +96,58 @@
       "currencies": []
     },
     {
-      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "This is the single-biggest obstacle to a SpaceX-Tesla merger: JPMorgan",
+      "title": "Micron faces strike from one Taiwan union after deal with another",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9584,
       "currencies": []
     },
     {
-      "title": "Roivant\u2019s brepocitinib meets primary endpoint in uveitis trials",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Immunic presents data on vidofludimus calcium at MS conference",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Rockwell Automation unveils AI orchestration platform",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Visa launches AI-powered tools for commercial payments",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Pratt & Whitney Canada unveils certified PT9 turboprop engine",
+      "title": "UK\u2019s FTSE 100 ticks higher on energy boost; hot inflation report limits gains",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8105,
+      "score": 0.7926,
       "currencies": []
     },
     {
-      "title": "Redwire and EnduroSat sign MOU for European space infrastructure",
+      "title": "TDS stock hits 52-week low at 31.5 USD",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9544,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Earnings call transcript: QCR Holdings tops Q3 2026 EPS forecast, shares slip",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7195,
+      "score": 0.8647,
       "currencies": []
     },
     {
-      "title": "Genprex highlights preclinical study on TUSC2 gene in brain aging",
+      "title": "ITM Power applies for block listing of 299,638 shares on AIM",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "AT&T earnings analysis: questions answered and next catalysts",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Fnac Darty posts steady Q3 2026 growth as margins improve",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9519,
+      "currencies": []
+    },
+    {
+      "title": "Netflix earnings analysis: questions answered and next catalysts",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
