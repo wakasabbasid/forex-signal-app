@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "IMF Urges Currency Flexibility as RBI Mounts Rupee Defense - Bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Kurdistan Region Government Bans Digital Currency Trading And Electronic Forex Exchange - Kurdistan24",
       "source": "Google News",
       "label": "bearish",
@@ -15,6 +22,22 @@
       "currencies": []
     },
     {
+      "title": "Aussie Holds Above 0.7000 as Hawkish RBA Counters USD - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7646,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8977,
+      "currencies": []
+    },
+    {
       "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -25,24 +48,10 @@
       ]
     },
     {
-      "title": "Real Outlook Tied to Brazil Election and Policy Execution - TradingPedia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "FOREX-Dollar on back foot as US yields, crude prices dip; Aussie buoyed by hawkish RBA - Metrobank Wealth Insights",
       "source": "Google News",
       "label": "bullish",
       "score": 0.8301,
-      "currencies": []
-    },
-    {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -53,17 +62,27 @@
       "currencies": []
     },
     {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "title": "USD/CAD Steadies as Oil Rally Counters Fed Uncertainty - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7547,
+      "currencies": [
+        "USD",
+        "CAD"
+      ]
+    },
+    {
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "India Forex Reserves Log Record Weekly Drop on Rupee Defense - Bloomberg.com",
+      "title": "Euro Slips Under Pressure as Bears Hold Key Averages - TradingPedia",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9623,
+      "score": -0.802,
       "currencies": []
     },
     {
@@ -74,76 +93,59 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28 - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9121,
-      "currencies": []
-    },
-    {
-      "title": "Husqvarna swings to Q3 adjusted operating loss on lower sales",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9538,
-      "currencies": []
-    },
-    {
-      "title": "Exclusive-Blackstone, Warburg explore IntraFi sale at over $10 billion, sources say",
+      "title": "This is the single-biggest obstacle to a SpaceX-Tesla merger: JPMorgan",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Exclusive-Samsung, SK Hynix upgrading China plants to make more advanced chips, people say",
+      "title": "Roivant\u2019s brepocitinib meets primary endpoint in uveitis trials",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Ringkj\u00f8bing Landbobank reports 23% return on equity in Q3",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9395,
-      "currencies": []
-    },
-    {
-      "title": "Handelsbanken Q3 operating profit rises 10% on quarter as income grows",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9427,
-      "currencies": []
-    },
-    {
-      "title": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.16%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9379,
-      "currencies": []
-    },
-    {
-      "title": "Netanyahu pushes for renewed large-scale strikes on Iran, FT reports",
+      "title": "Immunic presents data on vidofludimus calcium at MS conference",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Maas Group shares rise 5% as Nvidia weighs fresh backing for Firmus",
+      "title": "Rockwell Automation unveils AI orchestration platform",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Visa launches AI-powered tools for commercial payments",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Pratt & Whitney Canada unveils certified PT9 turboprop engine",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9181,
+      "score": 0.8105,
+      "currencies": []
+    },
+    {
+      "title": "Redwire and EnduroSat sign MOU for European space infrastructure",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7195,
+      "currencies": []
+    },
+    {
+      "title": "Genprex highlights preclinical study on TUSC2 gene in brain aging",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

@@ -1,32 +1,28 @@
 {
   "run_id": 1,
   "pairs": {
+    "USD/JPY": [
+      {
+        "title": "Aussie Holds Above 0.7000 as Hawkish RBA Counters USD - TradingPedia",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.7646
+      }
+    ],
     "EUR/USD": [
       {
         "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
       }
     ],
-    "USD/JPY": [
+    "USD/CAD": [
       {
-        "title": "PBOC sets USD/ CNY mid-point today at 6.7192 (vs. estimate at 6.6779)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.6779 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
+        "title": "USD/CAD Steadies as Oil Rally Counters Fed Uncertainty - TradingPedia",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.7547
       }
     ]
   }
