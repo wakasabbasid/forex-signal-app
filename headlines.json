@@ -15,13 +15,6 @@
       "currencies": []
     },
     {
-      "title": "Real Outlook Tied to Brazil Election and Policy Execution - TradingPedia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -32,6 +25,20 @@
       ]
     },
     {
+      "title": "Real Outlook Tied to Brazil Election and Policy Execution - TradingPedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "FOREX-Dollar on back foot as US yields, crude prices dip; Aussie buoyed by hawkish RBA - Metrobank Wealth Insights",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8301,
+      "currencies": []
+    },
+    {
       "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
       "label": "neutral",
@@ -39,21 +46,14 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: Pound rises on upbeat employment data, US Dollar retreats as yields turn south - Mitrade",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.4837,
-      "currencies": []
-    },
-    {
-      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
+      "title": "Best places for currency exchange in Copenhagen: A complete travel guide - Revolut",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Best places for currency exchange in Copenhagen: A complete travel guide - Revolut",
+      "title": "Traveling Internationally? Order Foreign Currency Before You Go - NerdWallet",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -74,76 +74,76 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD forecast remains tilted lower towards 1.10 handle - FOREX.com",
+      "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - FOREX.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9315,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
         "EUR",
         "USD"
       ]
     },
     {
-      "title": "AFRICA-FX-Ugandan and Kenyan currencies could climb, Zambia's may slide - Reuters",
+      "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28 - Reuters",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.6939,
+      "label": "bullish",
+      "score": 0.9121,
       "currencies": []
     },
     {
-      "title": "WidePoint at LD Micro: growth bets meet a legal hurdle",
+      "title": "Husqvarna swings to Q3 adjusted operating loss on lower sales",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9538,
+      "currencies": []
+    },
+    {
+      "title": "Exclusive-Blackstone, Warburg explore IntraFi sale at over $10 billion, sources say",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Lotus Technology at LD Micro main event: turnaround gains pace",
+      "title": "Exclusive-Samsung, SK Hynix upgrading China plants to make more advanced chips, people say",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Ringkj\u00f8bing Landbobank reports 23% return on equity in Q3",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.937,
+      "score": 0.9395,
       "currencies": []
     },
     {
-      "title": "Porch group COO Matthew Neagle sells $713,228 in shares",
+      "title": "Handelsbanken Q3 operating profit rises 10% on quarter as income grows",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9427,
+      "currencies": []
+    },
+    {
+      "title": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.16%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9379,
+      "currencies": []
+    },
+    {
+      "title": "Netanyahu pushes for renewed large-scale strikes on Iran, FT reports",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "AJB investment fund II buys $21,221 in Jewett Cameron Trading Co",
+      "title": "Maas Group shares rise 5% as Nvidia weighs fresh backing for Firmus",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "BioCardia president and CEO Peter Altman buys $475 in BCDA shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Micron Technology\u2019s Scott Deboer sells $25.7m in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "SpaceX and Tesla\u2019s Terafab targets 2028 for volume chip production, Musk says",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Avepoint chief legal officer sells $1.16m in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9181,
       "currencies": []
     }
   ],

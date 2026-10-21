@@ -9,18 +9,24 @@
         "score": 0.0
       },
       {
-        "title": "EUR/USD forecast remains tilted lower towards 1.10 handle - FOREX.com",
+        "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - FOREX.com",
         "source": "Google News",
-        "label": "bearish",
-        "score": -0.9315
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "USD/JPY": [
       {
-        "title": "investingLive Americas FX news wrap 20 Oct: USD falls as deal headlines swing oil; Dow and small caps outperform",
+        "title": "PBOC sets USD/ CNY mid-point today at 6.7192 (vs. estimate at 6.6779)",
         "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.9582
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.6779 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }
