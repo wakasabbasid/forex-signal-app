@@ -8,20 +8,24 @@
       "currencies": []
     },
     {
-      "title": "AUD/USD Forex Signal 21/10: Breakout Targets 0.7042 - Daily Forex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5291,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
-    },
-    {
       "title": "Kurdistan Region Government Bans Digital Currency Trading And Electronic Forex Exchange - Kurdistan24",
       "source": "Google News",
       "label": "bearish",
       "score": -0.6171,
+      "currencies": []
+    },
+    {
+      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7106,
+      "currencies": []
+    },
+    {
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8977,
       "currencies": []
     },
     {
@@ -43,42 +47,31 @@
       ]
     },
     {
-      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "title": "US dollar dips as traders wait on Fed; Aussie gains - Forex Factory",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9012,
+      "currencies": []
+    },
+    {
+      "title": "Best places for currency exchange in Copenhagen: A complete travel guide - Revolut",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Peso sinks to new low ahead of BSP policy rate setting - Inquirer.net",
+      "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.937,
-      "currencies": []
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
     },
     {
-      "title": "FOREX-Dollar on back foot as US yields, crude prices dip; Aussie buoyed by hawkish RBA - Metrobank Wealth Insights",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8301,
-      "currencies": []
-    },
-    {
-      "title": "Ringgit up against US dollar at close, mostly higher against major currencies - The Star",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9395,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: Pound rises on upbeat employment data, US Dollar retreats as yields turn south - Mitrade",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.4837,
-      "currencies": []
-    },
-    {
-      "title": "Yen rises as authorities closely monitor currency movements - Economies.com",
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -95,59 +88,66 @@
       ]
     },
     {
-      "title": "Meta beats Q3 estimates, approves new nonvoting share class as AI spending surges",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9101,
+      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Pathward Financial earnings beat by $0.26, revenue topped estimates",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9449,
-      "currencies": []
-    },
-    {
-      "title": "Enterprise Financial earnings missed by $0.21, revenue fell short of estimates",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9715,
-      "currencies": []
-    },
-    {
-      "title": "Lam Research earnings beat by $0.02, revenue topped estimates",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9442,
-      "currencies": []
-    },
-    {
-      "title": "Palantir announces AI deployments with defense, healthcare clients",
+      "title": "Norfolk Southern declares $1.35 quarterly dividend",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Genenta Science receives Nasdaq bid price deficiency notice",
+      "title": "Comcast planning significant jobs cuts, Bloomberg News reports",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6056,
+      "currencies": []
+    },
+    {
+      "title": "Cognizant to acquire SAP partner DyFlex Solutions",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Las Vegas Sands earnings missed by $0.19, revenue fell short of estimates",
+      "title": "From groceries to home loans, high oil prices permeate daily life",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9708,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "IBM earnings beat by $0.09, revenue topped estimates",
+      "title": "AstraZeneca says U.S. FDA approves rare kidney disease drug",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9384,
+      "score": 0.5191,
+      "currencies": []
+    },
+    {
+      "title": "US orders diplomats to depart Saudi Arabia amid Houthi strikes",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8665,
+      "currencies": []
+    },
+    {
+      "title": "Nasdaq leads Wall Street gains as SpaceX, Super Micro boost AI sentiment",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8836,
+      "currencies": []
+    },
+    {
+      "title": "Adaptive Biotechnologies president and coo Julie Rubinstein sells $879,088 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

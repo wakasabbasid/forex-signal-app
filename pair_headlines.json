@@ -1,14 +1,6 @@
 {
   "run_id": 1,
   "pairs": {
-    "AUD/USD": [
-      {
-        "title": "AUD/USD Forex Signal 21/10: Breakout Targets 0.7042 - Daily Forex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.5291
-      }
-    ],
     "USD/JPY": [
       {
         "title": "USD/MXN Analysis: Mexican Peso Weakens Ahead of Key Inflation Data - FOREX.com",
@@ -21,6 +13,14 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.7646
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "USD/CAD": [
