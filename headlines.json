@@ -15,17 +15,71 @@
       "currencies": []
     },
     {
-      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
+      "title": "Dollar up slightly, other currencies see small moves ahead of central bank deluge - Investing.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.7106,
+      "label": "bullish",
+      "score": 0.7709,
       "currencies": []
     },
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "NZD/CAD Ponders Swing Low Ahead of BoC, RBNZ as Hike Bets Firm - FOREX.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.838,
+      "currencies": [
+        "NZD",
+        "CAD"
+      ]
+    },
+    {
+      "title": "Ringgit opens higher vs US dollar, major currencies - The Star",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8977,
+      "score": 0.9371,
+      "currencies": []
+    },
+    {
+      "title": "Aussie Holds Above 0.7000 as Hawkish RBA Counters USD - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7646,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Central bank mulls forex intervention after Taiwan dollar losses - Focus Taiwan",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: Major pairs hold steady to start new week - Mitrade",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7248,
+      "currencies": []
+    },
+    {
+      "title": "FOREX-Dollar on back foot as US yields, crude prices dip; Aussie buoyed by hawkish RBA - Metrobank Wealth Insights",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8301,
+      "currencies": []
+    },
+    {
+      "title": "Yen rises as authorities closely monitor currency movements - Economies.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -38,116 +92,59 @@
       ]
     },
     {
-      "title": "Aussie Holds Above 0.7000 as Hawkish RBA Counters USD - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7646,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "US dollar dips as traders wait on Fed; Aussie gains - Forex Factory",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9012,
-      "currencies": []
-    },
-    {
-      "title": "Best places for currency exchange in Copenhagen: A complete travel guide - Revolut",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "USD/CAD Steadies as Oil Rally Counters Fed Uncertainty - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7547,
-      "currencies": [
-        "USD",
-        "CAD"
-      ]
-    },
-    {
-      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Norfolk Southern declares $1.35 quarterly dividend",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Comcast planning significant jobs cuts, Bloomberg News reports",
+      "title": "Alibaba, JD shares slide on more Chinese regulatory scrutiny",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6056,
+      "score": -0.9627,
       "currencies": []
     },
     {
-      "title": "Cognizant to acquire SAP partner DyFlex Solutions",
+      "title": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.43%",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9707,
       "currencies": []
     },
     {
-      "title": "From groceries to home loans, high oil prices permeate daily life",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "AstraZeneca says U.S. FDA approves rare kidney disease drug",
+      "title": "Thales lifts sales outlook after 9-month revenue and orders beat estimates",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5191,
+      "score": 0.8399,
       "currencies": []
     },
     {
-      "title": "US orders diplomats to depart Saudi Arabia amid Houthi strikes",
+      "title": "Japanese cybersecurity stocks rally as PHP flaw spurs demand",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8665,
+      "score": -0.9207,
       "currencies": []
     },
     {
-      "title": "Nasdaq leads Wall Street gains as SpaceX, Super Micro boost AI sentiment",
+      "title": "Roche keeps 2026 outlook as Q3 sales rise 7% at constant currencies",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8836,
+      "score": 0.9332,
       "currencies": []
     },
     {
-      "title": "Adaptive Biotechnologies president and coo Julie Rubinstein sells $879,088 in shares",
+      "title": "Review finds KPMG Australia mishandled whistleblower claims, pause on government work extended",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9419,
+      "currencies": []
+    },
+    {
+      "title": "Santos trims upper end of annual volume forecast on Pikka disruptions, shares fall",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9106,
+      "currencies": []
+    },
+    {
+      "title": "Nestle third quarter organic sales beat forecast, deconsolidates Russian business",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9321,
       "currencies": []
     }
   ],
