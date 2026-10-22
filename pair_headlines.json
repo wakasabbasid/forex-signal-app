@@ -1,6 +1,40 @@
 {
   "run_id": 1,
   "pairs": {
+    "EUR/USD": [
+      {
+        "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "EUR/JPY Under Pressure as Technicals Signal Weakness - TradingPedia",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9427
+      },
+      {
+        "title": "EUR/CHF falls to three-month lows as French bond turmoil raises fresh euro risks",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.9609
+      },
+      {
+        "title": "Is EUR/USD giving traders a false sense of security as euro risks mount?",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.6842
+      }
+    ],
+    "USD/JPY": [
+      {
+        "title": "EUR/JPY Under Pressure as Technicals Signal Weakness - TradingPedia",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9427
+      }
+    ],
     "NZD/USD": [
       {
         "title": "NZD/CAD Ponders Swing Low Ahead of BoC, RBNZ as Hike Bets Firm - FOREX.com",
@@ -17,30 +51,12 @@
         "score": -0.838
       }
     ],
-    "USD/JPY": [
+    "USD/CHF": [
       {
-        "title": "Aussie Holds Above 0.7000 as Hawkish RBA Counters USD - TradingPedia",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.7646
-      },
-      {
-        "title": "USD/MXN Analysis: Mexican Peso Weakens Ahead of Key Inflation Data - FOREX.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9598
-      },
-      {
-        "title": "PBOC sets USD/ CNY reference rate for today at 6.7195 (vs. estimate at 6.6756)",
+        "title": "EUR/CHF falls to three-month lows as French bond turmoil raises fresh euro risks",
         "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.6756 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bearish",
+        "score": -0.9609
       }
     ]
   }

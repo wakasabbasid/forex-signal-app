@@ -1,7 +1,21 @@
 {
   "headlines": [
     {
+      "title": "Uganda central bank sells FX after rate hike fails to stem shilling losses - Reuters",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9113,
+      "currencies": []
+    },
+    {
       "title": "IMF Urges Currency Flexibility as RBI Mounts Rupee Defense - Bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Euro FX - CME Group",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -15,17 +29,58 @@
       "currencies": []
     },
     {
-      "title": "Dollar up slightly, other currencies see small moves ahead of central bank deluge - Investing.com",
+      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.7709,
+      "label": "bearish",
+      "score": -0.7106,
       "currencies": []
     },
     {
-      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "title": "Gold Holds Above Low as Dollar Slide Battles Rate Bets - TradingPedia",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "Ringgit ends easier vs US dollar, major currencies ahead of FOMC meeting - The Star",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7877,
+      "currencies": []
+    },
+    {
+      "title": "Dollar Struggles to Recover as US Bond Yields Continue Falling - FXLeaders",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9451,
+      "currencies": []
+    },
+    {
+      "title": "EUR/JPY Under Pressure as Technicals Signal Weakness - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9427,
+      "currencies": [
+        "EUR",
+        "JPY"
+      ]
+    },
+    {
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8977,
       "currencies": []
     },
     {
@@ -39,112 +94,59 @@
       ]
     },
     {
-      "title": "Ringgit opens higher vs US dollar, major currencies - The Star",
-      "source": "Google News",
+      "title": "Procter & Gamble shares rise 2% in premarket trade after Q1 sales, profit beat",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9371,
+      "score": 0.862,
       "currencies": []
     },
     {
-      "title": "Aussie Holds Above 0.7000 as Hawkish RBA Counters USD - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7646,
-      "currencies": [
-        "USD"
-      ]
+      "title": "Procter & Gamble beats estimates but guidance disappoints",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.4841,
+      "currencies": []
     },
     {
-      "title": "Central bank mulls forex intervention after Taiwan dollar losses - Focus Taiwan",
-      "source": "Google News",
+      "title": "Metso Q3 2026 slides: orders surge 28%, backlog hits record high",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8801,
+      "currencies": []
+    },
+    {
+      "title": "American Airlines forecasts 2026 loss as fuel costs outpace fare gains",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9739,
+      "currencies": []
+    },
+    {
+      "title": "Garanti BBVA secures \u20ac400 million international financing",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8265,
+      "currencies": []
+    },
+    {
+      "title": "BlossomHill partners with Foundation Medicine on diagnostic test",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Forex Today: Major pairs hold steady to start new week - Mitrade",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7248,
-      "currencies": []
-    },
-    {
-      "title": "FOREX-Dollar on back foot as US yields, crude prices dip; Aussie buoyed by hawkish RBA - Metrobank Wealth Insights",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8301,
-      "currencies": []
-    },
-    {
-      "title": "Yen rises as authorities closely monitor currency movements - Economies.com",
-      "source": "Google News",
+      "title": "Agility Robotics selects Nvidia for Digit 5 humanoid compute",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "USD/MXN Analysis: Mexican Peso Weakens Ahead of Key Inflation Data - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9598,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Alibaba, JD shares slide on more Chinese regulatory scrutiny",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9627,
-      "currencies": []
-    },
-    {
-      "title": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.43%",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9707,
-      "currencies": []
-    },
-    {
-      "title": "Thales lifts sales outlook after 9-month revenue and orders beat estimates",
+      "title": "P&G flags bigger hit to annual profit from higher commodity costs, beats revenue estimates",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8399,
-      "currencies": []
-    },
-    {
-      "title": "Japanese cybersecurity stocks rally as PHP flaw spurs demand",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9207,
-      "currencies": []
-    },
-    {
-      "title": "Roche keeps 2026 outlook as Q3 sales rise 7% at constant currencies",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9332,
-      "currencies": []
-    },
-    {
-      "title": "Review finds KPMG Australia mishandled whistleblower claims, pause on government work extended",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9419,
-      "currencies": []
-    },
-    {
-      "title": "Santos trims upper end of annual volume forecast on Pikka disruptions, shares fall",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9106,
-      "currencies": []
-    },
-    {
-      "title": "Nestle third quarter organic sales beat forecast, deconsolidates Russian business",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9321,
+      "score": 0.6935,
       "currencies": []
     }
   ],
