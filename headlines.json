@@ -32,17 +32,17 @@
       "currencies": []
     },
     {
-      "title": "Uganda central bank sells FX after rate hike fails to stem shilling losses - CNBC Africa",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7531,
-      "currencies": []
-    },
-    {
       "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
       "source": "Google News",
       "label": "bearish",
       "score": -0.7106,
+      "currencies": []
+    },
+    {
+      "title": "Uganda central bank sells FX after rate hike fails to stem shilling losses - CNBC Africa",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7531,
       "currencies": []
     },
     {
@@ -83,6 +83,13 @@
       ]
     },
     {
+      "title": "India\u2019s RBI Clarifies Scope of Forex Curbs After Market Swings - Bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -90,69 +97,59 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "Nasdaq posts worst day since June as AI financing worries batter risk sentiment",
+      "title": "SK Hynix scraps Solidigm IPO plans, citing market conditions",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9512,
+      "score": -0.9186,
       "currencies": []
     },
     {
-      "title": "Boyd Gaming earnings missed by $0.03, revenue fell short of estimates",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9705,
-      "currencies": []
-    },
-    {
-      "title": "Lee Enterprises and BLOX Digital sign software development agreements with Quintype",
+      "title": "GeoPark receives $266.8M in tenders for 2030 senior notes",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8689,
+      "score": 0.5421,
       "currencies": []
     },
     {
-      "title": "Steep bill for AI buildout punishes Meta, other tech favorites",
+      "title": "UK consumer confidence tumbles ahead of Healey\u2019s budget, GfK reports",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8986,
+      "score": -0.9668,
       "currencies": []
     },
     {
-      "title": "Integra Resources reports Q3 gold production of 17,652 ounces",
+      "title": "Starbucks international CEO sells $58,800 in common stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Gilead to acquire oral IL-23R inhibitor for $1.28 billion",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Mueller Water Products boosts buyback by $300m, raises dividend",
+      "title": "RingCentral Q3 2026 slides: AI momentum drives margin expansion",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9244,
+      "score": 0.8699,
       "currencies": []
     },
     {
-      "title": "Elastic partners with Audi Revolut F1 Team for 2026 season",
+      "title": "Analysis-Musk\u2019s political baggage clouds prospects for SpaceX-Tesla deal",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Grupo Bimbo Q3 2026 slides: margin expansion drives guidance raise",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.899,
+      "currencies": []
+    },
+    {
+      "title": "SK Hynix says Solidigm drops plan for US IPO amid market volatility",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9468,
       "currencies": []
     }
   ],
