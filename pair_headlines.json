@@ -3,10 +3,16 @@
   "pairs": {
     "EUR/USD": [
       {
-        "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
+        "title": "EUR/USD - CME Group",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "EUR/USD Tries to Turn, Stumbles So Far - FOREX.com",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.8552
       },
       {
         "title": "EUR/JPY Under Pressure as Technicals Signal Weakness - TradingPedia",
@@ -15,16 +21,10 @@
         "score": -0.9427
       },
       {
-        "title": "EUR/CHF falls to three-month lows as French bond turmoil raises fresh euro risks",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.9609
-      },
-      {
-        "title": "Is EUR/USD giving traders a false sense of security as euro risks mount?",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.6842
+        "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "USD/JPY": [
@@ -33,30 +33,6 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.9427
-      }
-    ],
-    "NZD/USD": [
-      {
-        "title": "NZD/CAD Ponders Swing Low Ahead of BoC, RBNZ as Hike Bets Firm - FOREX.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.838
-      }
-    ],
-    "USD/CAD": [
-      {
-        "title": "NZD/CAD Ponders Swing Low Ahead of BoC, RBNZ as Hike Bets Firm - FOREX.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.838
-      }
-    ],
-    "USD/CHF": [
-      {
-        "title": "EUR/CHF falls to three-month lows as French bond turmoil raises fresh euro risks",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.9609
       }
     ]
   }

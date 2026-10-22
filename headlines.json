@@ -1,10 +1,10 @@
 {
   "headlines": [
     {
-      "title": "Uganda central bank sells FX after rate hike fails to stem shilling losses - Reuters",
+      "title": "AFRICA-FX-Nigerian and Ugandan currencies under pressure, others stable - Reuters",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9113,
+      "label": "bullish",
+      "score": 0.7007,
       "currencies": []
     },
     {
@@ -15,17 +15,27 @@
       "currencies": []
     },
     {
-      "title": "Euro FX - CME Group",
+      "title": "EUR/USD - CME Group",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
     },
     {
       "title": "Kurdistan Region Government Bans Digital Currency Trading And Electronic Forex Exchange - Kurdistan24",
       "source": "Google News",
       "label": "bearish",
       "score": -0.6171,
+      "currencies": []
+    },
+    {
+      "title": "Uganda central bank sells FX after rate hike fails to stem shilling losses - CNBC Africa",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7531,
       "currencies": []
     },
     {
@@ -43,10 +53,10 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
+      "title": "EUR/USD Tries to Turn, Stumbles So Far - FOREX.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.8552,
       "currencies": [
         "EUR",
         "USD"
@@ -60,13 +70,6 @@
       "currencies": []
     },
     {
-      "title": "Dollar Struggles to Recover as US Bond Yields Continue Falling - FXLeaders",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9451,
-      "currencies": []
-    },
-    {
       "title": "EUR/JPY Under Pressure as Technicals Signal Weakness - TradingPedia",
       "source": "Google News",
       "label": "bearish",
@@ -77,6 +80,16 @@
       ]
     },
     {
+      "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
       "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -84,69 +97,59 @@
       "currencies": []
     },
     {
-      "title": "NZD/CAD Ponders Swing Low Ahead of BoC, RBNZ as Hike Bets Firm - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.838,
-      "currencies": [
-        "NZD",
-        "CAD"
-      ]
-    },
-    {
-      "title": "Procter & Gamble shares rise 2% in premarket trade after Q1 sales, profit beat",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.862,
-      "currencies": []
-    },
-    {
-      "title": "Procter & Gamble beats estimates but guidance disappoints",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.4841,
-      "currencies": []
-    },
-    {
-      "title": "Metso Q3 2026 slides: orders surge 28%, backlog hits record high",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8801,
-      "currencies": []
-    },
-    {
-      "title": "American Airlines forecasts 2026 loss as fuel costs outpace fare gains",
+      "title": "Saudi Aramco tells staff to evacuate Dhahran as clashes with Yemen\u2019s Houthis continue",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9739,
+      "score": -0.8063,
       "currencies": []
     },
     {
-      "title": "Garanti BBVA secures \u20ac400 million international financing",
+      "title": "US airlines struggle to offset soaring fuel costs with big fare hikes",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8265,
+      "label": "bearish",
+      "score": -0.8084,
       "currencies": []
     },
     {
-      "title": "BlossomHill partners with Foundation Medicine on diagnostic test",
+      "title": "Freedom Broker reiterates Buy on Meta stock, cites ad growth",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Agility Robotics selects Nvidia for Digit 5 humanoid compute",
+      "title": "Kinder Morgan to invest $4.7 billion in two gas pipeline projects as demand surges",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8036,
+      "currencies": []
+    },
+    {
+      "title": "Analysis-Musk\u2019s political baggage clouds prospects for SpaceX-Tesla deal",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "P&G flags bigger hit to annual profit from higher commodity costs, beats revenue estimates",
+      "title": "European stocks drop as French yields, mixed tech earnings weigh",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6935,
+      "label": "bearish",
+      "score": -0.9655,
+      "currencies": []
+    },
+    {
+      "title": "First Industrial Q3 2026 slides: 5.6% same-store growth, shares fall",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9289,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Globe Life misses Q3 2026 EPS view as shares fall",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8161,
       "currencies": []
     }
   ],
