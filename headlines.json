@@ -46,6 +46,16 @@
       "currencies": []
     },
     {
+      "title": "USD/JPY Sinks to Familiar Support as Risk Off Fears Grow - FOREX.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5876,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
       "title": "Gold Holds Above Low as Dollar Slide Battles Rate Bets - TradingPedia",
       "source": "Google News",
       "label": "neutral",
@@ -63,13 +73,6 @@
       ]
     },
     {
-      "title": "Ringgit ends easier vs US dollar, major currencies ahead of FOMC meeting - The Star",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7877,
-      "currencies": []
-    },
-    {
       "title": "EUR/JPY Under Pressure as Technicals Signal Weakness - TradingPedia",
       "source": "Google News",
       "label": "bearish",
@@ -78,6 +81,13 @@
         "EUR",
         "JPY"
       ]
+    },
+    {
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8977,
+      "currencies": []
     },
     {
       "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
@@ -90,66 +100,59 @@
       ]
     },
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
-      "source": "Google News",
+      "title": "Nasdaq posts worst day since June as AI financing worries batter risk sentiment",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9512,
+      "currencies": []
+    },
+    {
+      "title": "Boyd Gaming earnings missed by $0.03, revenue fell short of estimates",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9705,
+      "currencies": []
+    },
+    {
+      "title": "Lee Enterprises and BLOX Digital sign software development agreements with Quintype",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8977,
+      "score": 0.8689,
       "currencies": []
     },
     {
-      "title": "Saudi Aramco tells staff to evacuate Dhahran as clashes with Yemen\u2019s Houthis continue",
+      "title": "Steep bill for AI buildout punishes Meta, other tech favorites",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8063,
+      "score": -0.8986,
       "currencies": []
     },
     {
-      "title": "US airlines struggle to offset soaring fuel costs with big fare hikes",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8084,
-      "currencies": []
-    },
-    {
-      "title": "Freedom Broker reiterates Buy on Meta stock, cites ad growth",
+      "title": "Integra Resources reports Q3 gold production of 17,652 ounces",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Kinder Morgan to invest $4.7 billion in two gas pipeline projects as demand surges",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8036,
-      "currencies": []
-    },
-    {
-      "title": "Analysis-Musk\u2019s political baggage clouds prospects for SpaceX-Tesla deal",
+      "title": "Gilead to acquire oral IL-23R inhibitor for $1.28 billion",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "European stocks drop as French yields, mixed tech earnings weigh",
+      "title": "Mueller Water Products boosts buyback by $300m, raises dividend",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9655,
+      "label": "bullish",
+      "score": 0.9244,
       "currencies": []
     },
     {
-      "title": "First Industrial Q3 2026 slides: 5.6% same-store growth, shares fall",
+      "title": "Elastic partners with Audi Revolut F1 Team for 2026 season",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9289,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Globe Life misses Q3 2026 EPS view as shares fall",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8161,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
