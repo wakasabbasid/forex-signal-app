@@ -29,18 +29,6 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.5876
-      },
-      {
-        "title": "PBOC sets USD/ CNY reference rate for today at 6.7180 (vs. estimate at 6.6758)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.6758 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
       }
     ]
   }

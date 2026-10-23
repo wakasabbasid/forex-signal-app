@@ -1,13 +1,6 @@
 {
   "headlines": [
     {
-      "title": "AFRICA-FX-Nigerian and Ugandan currencies under pressure, others stable - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7007,
-      "currencies": []
-    },
-    {
       "title": "IMF Urges Currency Flexibility as RBI Mounts Rupee Defense - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
@@ -25,10 +18,24 @@
       ]
     },
     {
+      "title": "AFRICA-FX-Nigerian and Ugandan currencies under pressure, others stable - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7007,
+      "currencies": []
+    },
+    {
       "title": "Kurdistan Region Government Bans Digital Currency Trading And Electronic Forex Exchange - Kurdistan24",
       "source": "Google News",
       "label": "bearish",
       "score": -0.6171,
+      "currencies": []
+    },
+    {
+      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7106,
       "currencies": []
     },
     {
@@ -40,13 +47,6 @@
         "USD",
         "CAD"
       ]
-    },
-    {
-      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7106,
-      "currencies": []
     },
     {
       "title": "Uganda central bank sells FX after rate hike fails to stem shilling losses - CNBC Africa",
@@ -66,7 +66,21 @@
       ]
     },
     {
-      "title": "Asia FX steadies as oil surge weighs on risk appetite, yen holds gains - Investing.com",
+      "title": "Yen rallies, euro sags, dollar shrugs as AI worries drive haven bid - Investing.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8807,
+      "currencies": []
+    },
+    {
+      "title": "Gold Under Pressure as Fed Bets and Dollar Limit Upside - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6924,
+      "currencies": []
+    },
+    {
+      "title": "India\u2019s RBI Clarifies Scope of Forex Curbs After Market Swings - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -83,73 +97,59 @@
       ]
     },
     {
-      "title": "India\u2019s RBI Clarifies Scope of Forex Curbs After Market Swings - Bloomberg.com",
-      "source": "Google News",
+      "title": "American Express raises 2026 profit forecast as affluent customers keep spending",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9043,
+      "currencies": []
+    },
+    {
+      "title": "European shares slip as French fiscal turmoil drives weekly loss",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9509,
+      "currencies": []
+    },
+    {
+      "title": "SLB tops Q3 expectations on broad-based growth",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9521,
+      "currencies": []
+    },
+    {
+      "title": "Aardvark reports exploratory data from terminated PWS trial",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Gold Holds Above Low as Dollar Slide Battles Rate Bets - TradingPedia",
-      "source": "Google News",
+      "title": "Buscar files unaudited 2026 annual report, expands audit scope",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Hydro Q3 adjusted core earnings rise 52% but miss forecasts on weak cash flow",
+      "title": "BioLineRx, Hemispherian report GLIX1 data at ESMO 2026",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9694,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "SGS beats Q3 revenue estimates with record sales growth",
+      "title": "Nexpu subsidiary launches AI-powered music creation platform",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9464,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Holcim raises 2026 earnings outlook after strong Q3 sales",
+      "title": "ACCO Brands declares $0.075 quarterly dividend per share",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8795,
-      "currencies": []
-    },
-    {
-      "title": "Anthropic IPO stands alone as AI market jitters sideline others",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7714,
-      "currencies": []
-    },
-    {
-      "title": "Oil prices rise as supply concerns linger amid Houthi attacks on Saudi Arabia",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8146,
-      "currencies": []
-    },
-    {
-      "title": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.02%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9367,
-      "currencies": []
-    },
-    {
-      "title": "Hacking attempts surge as companies, governments rush to patch PHP flaws",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.736,
-      "currencies": []
-    },
-    {
-      "title": "Yen set for weekly gain as AI jitters spur safe-haven rush",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7213,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
