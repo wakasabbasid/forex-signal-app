@@ -9,22 +9,18 @@
         "score": 0.0
       },
       {
-        "title": "EUR/USD Tries to Turn, Stumbles So Far - FOREX.com",
+        "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
         "source": "Google News",
-        "label": "bearish",
-        "score": -0.8552
-      },
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "USD/CAD": [
       {
-        "title": "EUR/JPY Under Pressure as Technicals Signal Weakness - TradingPedia",
+        "title": "Loonie Strengthens As Oil Rally & Risk Pressure USD/CAD - TradingPedia",
         "source": "Google News",
-        "label": "bearish",
-        "score": -0.9427
-      },
-      {
-        "title": "ECB preview: MUFG sees October hold, two hikes ahead. See EUR/USD year end at 1.12",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.4961
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "USD/JPY": [
@@ -35,10 +31,16 @@
         "score": -0.5876
       },
       {
-        "title": "EUR/JPY Under Pressure as Technicals Signal Weakness - TradingPedia",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9427
+        "title": "PBOC sets USD/ CNY reference rate for today at 6.7180 (vs. estimate at 6.6758)",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.6758 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }

@@ -32,6 +32,16 @@
       "currencies": []
     },
     {
+      "title": "Loonie Strengthens As Oil Rally & Risk Pressure USD/CAD - TradingPedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "CAD"
+      ]
+    },
+    {
       "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
       "source": "Google News",
       "label": "bearish",
@@ -46,39 +56,29 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY Sinks to Familiar Support as Risk Off Fears Grow - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5876,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
-      "title": "Gold Holds Above Low as Dollar Slide Battles Rate Bets - TradingPedia",
+      "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD Tries to Turn, Stumbles So Far - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8552,
       "currencies": [
         "EUR",
         "USD"
       ]
     },
     {
-      "title": "EUR/JPY Under Pressure as Technicals Signal Weakness - TradingPedia",
+      "title": "Asia FX steadies as oil surge weighs on risk appetite, yen holds gains - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "USD/JPY Sinks to Familiar Support as Risk Off Fears Grow - FOREX.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9427,
+      "score": -0.5876,
       "currencies": [
-        "EUR",
+        "USD",
         "JPY"
       ]
     },
@@ -90,66 +90,66 @@
       "currencies": []
     },
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "title": "Gold Holds Above Low as Dollar Slide Battles Rate Bets - TradingPedia",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.8977,
-      "currencies": []
-    },
-    {
-      "title": "SK Hynix scraps Solidigm IPO plans, citing market conditions",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9186,
-      "currencies": []
-    },
-    {
-      "title": "GeoPark receives $266.8M in tenders for 2030 senior notes",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5421,
-      "currencies": []
-    },
-    {
-      "title": "UK consumer confidence tumbles ahead of Healey\u2019s budget, GfK reports",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9668,
-      "currencies": []
-    },
-    {
-      "title": "Starbucks international CEO sells $58,800 in common stock",
-      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "RingCentral Q3 2026 slides: AI momentum drives margin expansion",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8699,
-      "currencies": []
-    },
-    {
-      "title": "Analysis-Musk\u2019s political baggage clouds prospects for SpaceX-Tesla deal",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Grupo Bimbo Q3 2026 slides: margin expansion drives guidance raise",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.899,
-      "currencies": []
-    },
-    {
-      "title": "SK Hynix says Solidigm drops plan for US IPO amid market volatility",
+      "title": "Hydro Q3 adjusted core earnings rise 52% but miss forecasts on weak cash flow",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9468,
+      "score": -0.9694,
+      "currencies": []
+    },
+    {
+      "title": "SGS beats Q3 revenue estimates with record sales growth",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9464,
+      "currencies": []
+    },
+    {
+      "title": "Holcim raises 2026 earnings outlook after strong Q3 sales",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8795,
+      "currencies": []
+    },
+    {
+      "title": "Anthropic IPO stands alone as AI market jitters sideline others",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7714,
+      "currencies": []
+    },
+    {
+      "title": "Oil prices rise as supply concerns linger amid Houthi attacks on Saudi Arabia",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8146,
+      "currencies": []
+    },
+    {
+      "title": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.02%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9367,
+      "currencies": []
+    },
+    {
+      "title": "Hacking attempts surge as companies, governments rush to patch PHP flaws",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.736,
+      "currencies": []
+    },
+    {
+      "title": "Yen set for weekly gain as AI jitters spur safe-haven rush",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7213,
       "currencies": []
     }
   ],

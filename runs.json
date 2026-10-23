@@ -5,19 +5,25 @@
       "engine": "finbert",
       "headline_count": 46,
       "source_count": 4,
-      "created_at": "2026-10-22T23:56:20.832025+00:00",
+      "created_at": "2026-10-23T05:50:12.017604+00:00",
       "signals": [
         {
           "pair": "USD/JPY",
           "signal": "SELL",
-          "avg_score": -0.7651,
-          "headline_count": 2
+          "avg_score": -0.1959,
+          "headline_count": 3
         },
         {
           "pair": "EUR/USD",
-          "signal": "SELL",
-          "avg_score": -0.5735,
-          "headline_count": 4
+          "signal": "HOLD",
+          "avg_score": 0.0,
+          "headline_count": 2
+        },
+        {
+          "pair": "USD/CAD",
+          "signal": "HOLD",
+          "avg_score": 0.0,
+          "headline_count": 1
         }
       ]
     }
