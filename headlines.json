@@ -39,6 +39,13 @@
       "currencies": []
     },
     {
+      "title": "Can You Trade Forex And Gold CFDs Using Crypto As Margin? Top 5 Platforms In 2026 - Yellow.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -47,6 +54,13 @@
         "EUR",
         "USD"
       ]
+    },
+    {
+      "title": "Gold Under Pressure as Fed Bets and Dollar Limit Upside - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6924,
+      "currencies": []
     },
     {
       "title": "AFRICA-FX-Nigerian and Ugandan currencies under pressure, others stable - Reuters",
@@ -63,16 +77,6 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
       "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -87,67 +91,64 @@
       "currencies": []
     },
     {
-      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Trump says Canada \u2019working very hard\u2019 to make a deal with US",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8169,
-      "currencies": []
-    },
-    {
-      "title": "Bradesco Q3 2026 slides: revenue growth strong amid credit headwinds",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9379,
-      "currencies": []
-    },
-    {
-      "title": "First Bank Q3 2026 slides: margin expansion drives earnings beat",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9164,
-      "currencies": []
-    },
-    {
-      "title": "Why is Corcept Therapeutics stock tumbling today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8711,
-      "currencies": []
-    },
-    {
-      "title": "European shares close lower as French fiscal turmoil drives weekly loss",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.955,
-      "currencies": []
-    },
-    {
-      "title": "Why is Genmab stock surging today?",
+      "title": "ArriVent to present phase 1 data for ARR-217 at ESMO",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Bank of Canada to raise rates to 2.50% on October 28 and once again by end-March: Reuters poll",
+      "title": "Salesforce grants equity awards to m3ter, Fin employees",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.7263,
       "currencies": []
     },
     {
-      "title": "Wall Street mixed as Nasdaq rebounds, Dow slides on oil price surge",
+      "title": "After previous day\u2019s slump, trading is quieter among AI shares",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9393,
+      "score": -0.5715,
       "currencies": []
+    },
+    {
+      "title": "Apex Critical Metals raises $1.86M, begins Nasdaq trading",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8417,
+      "currencies": []
+    },
+    {
+      "title": "Maplebear Inc stock hits all-time high of 54.78 USD",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.57,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Addnode Group Q3 2026 slides: profit surge 68% on margin gains",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9207,
+      "currencies": []
+    },
+    {
+      "title": "Stocks mixed, day after AI-related selloff; oil prices rise again",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5265,
+      "currencies": []
+    },
+    {
+      "title": "Safety Insurance Group stock hits all-time high at 104.16 USD",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5731,
+      "currencies": [
+        "USD"
+      ]
     }
   ],
   "run_id": 1

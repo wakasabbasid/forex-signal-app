@@ -13,12 +13,20 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      }
+    ],
+    "USD/JPY": [
+      {
+        "title": "Maplebear Inc stock hits all-time high of 54.78 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.57
       },
       {
-        "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "title": "Safety Insurance Group stock hits all-time high at 104.16 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.5731
       }
     ]
   }
