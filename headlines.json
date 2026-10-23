@@ -46,21 +46,14 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
+      "title": "USD/JPY Forecast: Is Rising Japanese Inflation Supporting the Yen? - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
-        "EUR",
-        "USD"
+        "USD",
+        "JPY"
       ]
-    },
-    {
-      "title": "Gold Under Pressure as Fed Bets and Dollar Limit Upside - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6924,
-      "currencies": []
     },
     {
       "title": "AFRICA-FX-Nigerian and Ugandan currencies under pressure, others stable - Reuters",
@@ -70,11 +63,14 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s RBI Clarifies Scope of Forex Curbs After Market Swings - Bloomberg.com",
+      "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
     },
     {
       "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
@@ -91,64 +87,67 @@
       "currencies": []
     },
     {
-      "title": "ArriVent to present phase 1 data for ARR-217 at ESMO",
+      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Lumen Technologies updates executive severance plan and CEO agreement",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Salesforce grants equity awards to m3ter, Fin employees",
+      "title": "Amazon cloud capacity sold out through 2027, CEO Jassy says",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7263,
+      "score": 0.6449,
       "currencies": []
     },
     {
-      "title": "After previous day\u2019s slump, trading is quieter among AI shares",
+      "title": "PNC Financial Services completes $1.5 billion senior notes offering",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5715,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Apex Critical Metals raises $1.86M, begins Nasdaq trading",
+      "title": "Wynn Resorts subsidiary to invest up to MOP1.37 billion in Macau government fund",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8417,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Maplebear Inc stock hits all-time high of 54.78 USD",
+      "title": "Picard Medical exchanges warrants for 200,000 shares of common stock",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.57,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Addnode Group Q3 2026 slides: profit surge 68% on margin gains",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9207,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Stocks mixed, day after AI-related selloff; oil prices rise again",
+      "title": "Acadia Pharmaceuticals announces retirement of R&D head, names interim consultant",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5265,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Safety Insurance Group stock hits all-time high at 104.16 USD",
+      "title": "Arc Group Securities Acquisition I receives Nasdaq notice on warrant listing",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5731,
-      "currencies": [
-        "USD"
-      ]
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "JetBlue creditors working with restructuring adviser PJT Partners, WSJ reports",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     }
   ],
   "run_id": 1
