@@ -8,6 +8,13 @@
       "currencies": []
     },
     {
+      "title": "Uganda central bank sells FX after rate hike fails to stem shilling losses - Reuters",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9113,
+      "currencies": []
+    },
+    {
       "title": "EUR/USD - CME Group",
       "source": "Google News",
       "label": "neutral",
@@ -16,13 +23,6 @@
         "EUR",
         "USD"
       ]
-    },
-    {
-      "title": "AFRICA-FX-Nigerian and Ugandan currencies under pressure, others stable - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7007,
-      "currencies": []
     },
     {
       "title": "Kurdistan Region Government Bans Digital Currency Trading And Electronic Forex Exchange - Kurdistan24",
@@ -39,23 +39,6 @@
       "currencies": []
     },
     {
-      "title": "Loonie Strengthens As Oil Rally & Risk Pressure USD/CAD - TradingPedia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "CAD"
-      ]
-    },
-    {
-      "title": "Uganda central bank sells FX after rate hike fails to stem shilling losses - CNBC Africa",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7531,
-      "currencies": []
-    },
-    {
       "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -66,17 +49,10 @@
       ]
     },
     {
-      "title": "Yen rallies, euro sags, dollar shrugs as AI worries drive haven bid - Investing.com",
+      "title": "AFRICA-FX-Nigerian and Ugandan currencies under pressure, others stable - Reuters",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.8807,
-      "currencies": []
-    },
-    {
-      "title": "Gold Under Pressure as Fed Bets and Dollar Limit Upside - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6924,
+      "label": "bullish",
+      "score": 0.7007,
       "currencies": []
     },
     {
@@ -87,69 +63,90 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY Sinks to Familiar Support as Risk Off Fears Grow - FOREX.com",
+      "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - FOREX.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.5876,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
-        "USD",
-        "JPY"
+        "EUR",
+        "USD"
       ]
     },
     {
-      "title": "American Express raises 2026 profit forecast as affluent customers keep spending",
-      "source": "Investing.com",
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "source": "Google News",
       "label": "bullish",
-      "score": 0.9043,
+      "score": 0.8977,
       "currencies": []
     },
     {
-      "title": "European shares slip as French fiscal turmoil drives weekly loss",
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Trump says Canada \u2019working very hard\u2019 to make a deal with US",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8169,
+      "currencies": []
+    },
+    {
+      "title": "Bradesco Q3 2026 slides: revenue growth strong amid credit headwinds",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9379,
+      "currencies": []
+    },
+    {
+      "title": "First Bank Q3 2026 slides: margin expansion drives earnings beat",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9164,
+      "currencies": []
+    },
+    {
+      "title": "Why is Corcept Therapeutics stock tumbling today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9509,
+      "score": -0.8711,
       "currencies": []
     },
     {
-      "title": "SLB tops Q3 expectations on broad-based growth",
+      "title": "European shares close lower as French fiscal turmoil drives weekly loss",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9521,
+      "label": "bearish",
+      "score": -0.955,
       "currencies": []
     },
     {
-      "title": "Aardvark reports exploratory data from terminated PWS trial",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Buscar files unaudited 2026 annual report, expands audit scope",
+      "title": "Why is Genmab stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "BioLineRx, Hemispherian report GLIX1 data at ESMO 2026",
+      "title": "Bank of Canada to raise rates to 2.50% on October 28 and once again by end-March: Reuters poll",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Nexpu subsidiary launches AI-powered music creation platform",
+      "title": "Wall Street mixed as Nasdaq rebounds, Dow slides on oil price surge",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "ACCO Brands declares $0.075 quarterly dividend per share",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9393,
       "currencies": []
     }
   ],

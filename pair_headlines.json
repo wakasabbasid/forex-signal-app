@@ -13,22 +13,12 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      }
-    ],
-    "USD/CAD": [
+      },
       {
-        "title": "Loonie Strengthens As Oil Rally & Risk Pressure USD/CAD - TradingPedia",
+        "title": "EUR/USD forecast: Currency Pair of the Week | October 5, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      }
-    ],
-    "USD/JPY": [
-      {
-        "title": "USD/JPY Sinks to Familiar Support as Risk Off Fears Grow - FOREX.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.5876
       }
     ]
   }
