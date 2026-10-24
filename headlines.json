@@ -22,13 +22,6 @@
       "currencies": []
     },
     {
-      "title": "Uganda central bank sells FX after rate hike fails to stem shilling losses - Reuters",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9113,
-      "currencies": []
-    },
-    {
       "title": "EUR/USD - CME Group",
       "source": "Google News",
       "label": "neutral",
@@ -39,10 +32,24 @@
       ]
     },
     {
+      "title": "Uganda central bank sells FX after rate hike fails to stem shilling losses - Reuters",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9113,
+      "currencies": []
+    },
+    {
       "title": "Kurdistan Region Government Bans Digital Currency Trading And Electronic Forex Exchange - Kurdistan24",
       "source": "Google News",
       "label": "bearish",
       "score": -0.6171,
+      "currencies": []
+    },
+    {
+      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7106,
       "currencies": []
     },
     {
@@ -54,13 +61,6 @@
         "USD",
         "JPY"
       ]
-    },
-    {
-      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7106,
-      "currencies": []
     },
     {
       "title": "AFRICA-FX-Nigerian and Ugandan currencies under pressure, others stable - Reuters",
@@ -94,59 +94,59 @@
       "currencies": []
     },
     {
+      "title": "Exodus Movement director Margaret Knight sells $955 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Iranian lethal plots against Americans at \u2019advanced stages,\u2019 Reuters reports",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Iran has ramped up efforts to target US personnel, intelligence memo warns",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7989,
+      "currencies": []
+    },
+    {
+      "title": "Pfizer reports phase 2 data for 25-valent pneumococcal vaccine",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "IDFC First Bank Q2 FY27 slides: profit crosses Rs. 1,000 Cr milestone",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6197,
+      "currencies": []
+    },
+    {
+      "title": "Couche-Tard proposes up to $8 billion offer for Cumberland Farms, The Times reports",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5172,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: IDFC First Bank posts strong Q2 2026 profit growth",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.948,
+      "currencies": []
+    },
+    {
       "title": "Iran\u2019s Pezeshkian blames US for interim deal failure, urges new try",
       "source": "Investing.com",
       "label": "bearish",
       "score": -0.8287,
-      "currencies": []
-    },
-    {
-      "title": "AU Small Finance Bank Q2\u2019FY27 slides: 53% profit surge, AI gains",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7429,
-      "currencies": []
-    },
-    {
-      "title": "As winter nears, heating oil emerges as hurdle for Republicans in US Senate races",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.4514,
-      "currencies": []
-    },
-    {
-      "title": "Parabilis reports phase 1/2 data for desmoid tumor treatment",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: AU Small Finance Bank posts strong Q2 2026 profit growth",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9483,
-      "currencies": []
-    },
-    {
-      "title": "First Interstate BancSystem director Scott sells $184,500 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Could France\u2019s debt crisis spread across Europe?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Kotak Q2 FY27 slides: profit jumps 26% as asset quality improves",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9439,
       "currencies": []
     }
   ],
