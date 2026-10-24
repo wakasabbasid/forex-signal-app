@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "Central Bank Currency Swaps Tracker - Council on Foreign Relations",
+      "title": "Forex Weekly: AI Bangs the Currency Gong - The Dark Side Of The Boom",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -9,6 +9,13 @@
     },
     {
       "title": "IMF Urges Currency Flexibility as RBI Mounts Rupee Defense - Bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Central Bank Currency Swaps Tracker - Council on Foreign Relations",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -32,6 +39,13 @@
       ]
     },
     {
+      "title": "Kurdistan Region Government Bans Digital Currency Trading And Electronic Forex Exchange - Kurdistan24",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6171,
+      "currencies": []
+    },
+    {
       "title": "USD/JPY Forecast: Is Rising Japanese Inflation Supporting the Yen? - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -42,24 +56,10 @@
       ]
     },
     {
-      "title": "Kurdistan Region Government Bans Digital Currency Trading And Electronic Forex Exchange - Kurdistan24",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6171,
-      "currencies": []
-    },
-    {
       "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
       "source": "Google News",
       "label": "bearish",
       "score": -0.7106,
-      "currencies": []
-    },
-    {
-      "title": "Can You Trade Forex And Gold CFDs Using Crypto As Margin? Top 5 Platforms In 2026 - Yellow.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -94,6 +94,20 @@
       "currencies": []
     },
     {
+      "title": "Iran\u2019s Pezeshkian blames US for interim deal failure, urges new try",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8287,
+      "currencies": []
+    },
+    {
+      "title": "AU Small Finance Bank Q2\u2019FY27 slides: 53% profit surge, AI gains",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7429,
+      "currencies": []
+    },
+    {
       "title": "As winter nears, heating oil emerges as hurdle for Republicans in US Senate races",
       "source": "Investing.com",
       "label": "bullish",
@@ -101,52 +115,38 @@
       "currencies": []
     },
     {
-      "title": "Alaska LNG developer faces scrutiny over funding from sanctioned Russian firm - FT",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9236,
-      "currencies": []
-    },
-    {
-      "title": "Story3 Capital Partners buys $2.25M in Rent the Runway shares",
+      "title": "Parabilis reports phase 1/2 data for desmoid tumor treatment",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Travelers evp & president sells $14.04M of company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Travelers chairman and CEO Alan Schnitzer sells $35.3M in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Ukraine says military Starlink service restored after 10-day disruption",
+      "title": "Earnings call transcript: AU Small Finance Bank posts strong Q2 2026 profit growth",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7517,
+      "score": 0.9483,
       "currencies": []
     },
     {
-      "title": "France\u2019s luxury stores board up windows ahead of fresh protests",
+      "title": "First Interstate BancSystem director Scott sells $184,500 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "CHS US Investments, a 10% owner, buys $1.6M in Rent the Runway (RENT)",
+      "title": "Could France\u2019s debt crisis spread across Europe?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Kotak Q2 FY27 slides: profit jumps 26% as asset quality improves",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9439,
       "currencies": []
     }
   ],
