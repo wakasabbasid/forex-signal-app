@@ -53,13 +53,13 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY Forecast: Is Rising Japanese Inflation Supporting the Yen? - FOREX.com",
+      "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
-        "USD",
-        "JPY"
+        "EUR",
+        "USD"
       ]
     },
     {
@@ -70,13 +70,13 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
+      "title": "USD/JPY Forecast: Is Rising Japanese Inflation Supporting the Yen? - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
-        "EUR",
-        "USD"
+        "USD",
+        "JPY"
       ]
     },
     {
@@ -94,59 +94,59 @@
       "currencies": []
     },
     {
+      "title": "Policy choices will matter crucially amid growing socioeconomic challenges",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Adlai Nortye director Ji Ping sells $163,274 in ANL stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Can silver recover from its latest sell-off? UBS weighs in",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.4097,
+      "currencies": []
+    },
+    {
+      "title": "Woori Financial ADR earnings beat by $0.29, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9476,
+      "currencies": []
+    },
+    {
+      "title": "Ukraine says military Starlink service restored as Musk cites terms violations",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Amgen at ESMO: IMDELLTRA data points to earlier lung cancer use",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Houthis launch broad assault on Saudi sites as U.S. warns of Iranian plots",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6375,
+      "currencies": []
+    },
+    {
       "title": "Exodus Movement director Margaret Knight sells $955 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Iranian lethal plots against Americans at \u2019advanced stages,\u2019 Reuters reports",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Iran has ramped up efforts to target US personnel, intelligence memo warns",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7989,
-      "currencies": []
-    },
-    {
-      "title": "Pfizer reports phase 2 data for 25-valent pneumococcal vaccine",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "IDFC First Bank Q2 FY27 slides: profit crosses Rs. 1,000 Cr milestone",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6197,
-      "currencies": []
-    },
-    {
-      "title": "Couche-Tard proposes up to $8 billion offer for Cumberland Farms, The Times reports",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5172,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: IDFC First Bank posts strong Q2 2026 profit growth",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.948,
-      "currencies": []
-    },
-    {
-      "title": "Iran\u2019s Pezeshkian blames US for interim deal failure, urges new try",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8287,
       "currencies": []
     }
   ],
