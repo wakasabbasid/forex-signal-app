@@ -1,14 +1,14 @@
 {
   "headlines": [
     {
-      "title": "IMF Urges Currency Flexibility as RBI Mounts Rupee Defense - Bloomberg.com",
+      "title": "Central Bank Currency Swaps Tracker - Council on Foreign Relations",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Central Bank Currency Swaps Tracker - Council on Foreign Relations",
+      "title": "IMF Urges Currency Flexibility as RBI Mounts Rupee Defense - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -63,15 +63,6 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6676,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
       "title": "AFRICA-FX-Nigerian and Ugandan currencies under pressure, others stable - Reuters",
       "source": "Google News",
       "label": "bullish",
@@ -96,56 +87,63 @@
       "currencies": []
     },
     {
-      "title": "Veralto president and CEO Jennifer Honeycutt sells $745,290 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8977,
       "currencies": []
     },
     {
-      "title": "Circle internet group cfo fox-geen disposes of $1.35m in stock",
+      "title": "As winter nears, heating oil emerges as hurdle for Republicans in US Senate races",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.4514,
       "currencies": []
     },
     {
-      "title": "yelp cfo david schwarzbach sells $150,000 in yelp shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Bolsonaro and Lula clash on living costs, corruption in final Brazil election debate",
+      "title": "Alaska LNG developer faces scrutiny over funding from sanctioned Russian firm - FT",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9378,
+      "score": -0.9236,
       "currencies": []
     },
     {
-      "title": "Saudi Arabia intercepts Houthi missile as Trump threatens new strikes",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7083,
-      "currencies": []
-    },
-    {
-      "title": "US accuses government contractor of leaking classified info to girlfriend\u2019s\u00a0Substack",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8248,
-      "currencies": []
-    },
-    {
-      "title": "Marco Rubio calls on those seeking change in Cuba to partner with CIA",
+      "title": "Story3 Capital Partners buys $2.25M in Rent the Runway shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Amazon\u2019s AWS cloud capacity largely sold out through 2027, CEO says",
+      "title": "Travelers evp & president sells $14.04M of company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Travelers chairman and CEO Alan Schnitzer sells $35.3M in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Ukraine says military Starlink service restored after 10-day disruption",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7517,
+      "currencies": []
+    },
+    {
+      "title": "France\u2019s luxury stores board up windows ahead of fresh protests",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "CHS US Investments, a 10% owner, buys $1.6M in Rent the Runway (RENT)",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
