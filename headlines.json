@@ -8,6 +8,13 @@
       "currencies": []
     },
     {
+      "title": "Central Bank Currency Swaps Tracker - Council on Foreign Relations",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Uganda central bank sells FX after rate hike fails to stem shilling losses - Reuters",
       "source": "Google News",
       "label": "bearish",
@@ -22,6 +29,16 @@
       "currencies": [
         "EUR",
         "USD"
+      ]
+    },
+    {
+      "title": "USD/JPY Forecast: Is Rising Japanese Inflation Supporting the Yen? - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "JPY"
       ]
     },
     {
@@ -46,13 +63,12 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY Forecast: Is Rising Japanese Inflation Supporting the Yen? - FOREX.com",
+      "title": "India\u2019s Forex reserves reach record high of over 728 billion USD - News On AIR",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.6676,
       "currencies": [
-        "USD",
-        "JPY"
+        "USD"
       ]
     },
     {
@@ -73,77 +89,63 @@
       ]
     },
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "title": "India's central bank widens ambit of forex risk reserve requirement, tightens NDF rules - Reuters",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.8977,
+      "label": "bearish",
+      "score": -0.5676,
       "currencies": []
     },
     {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Lumen Technologies updates executive severance plan and CEO agreement",
+      "title": "Veralto president and CEO Jennifer Honeycutt sells $745,290 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Amazon cloud capacity sold out through 2027, CEO Jassy says",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6449,
-      "currencies": []
-    },
-    {
-      "title": "PNC Financial Services completes $1.5 billion senior notes offering",
+      "title": "Circle internet group cfo fox-geen disposes of $1.35m in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Wynn Resorts subsidiary to invest up to MOP1.37 billion in Macau government fund",
+      "title": "yelp cfo david schwarzbach sells $150,000 in yelp shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Picard Medical exchanges warrants for 200,000 shares of common stock",
+      "title": "Bolsonaro and Lula clash on living costs, corruption in final Brazil election debate",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9378,
+      "currencies": []
+    },
+    {
+      "title": "Saudi Arabia intercepts Houthi missile as Trump threatens new strikes",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7083,
+      "currencies": []
+    },
+    {
+      "title": "US accuses government contractor of leaking classified info to girlfriend\u2019s\u00a0Substack",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8248,
+      "currencies": []
+    },
+    {
+      "title": "Marco Rubio calls on those seeking change in Cuba to partner with CIA",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Acadia Pharmaceuticals announces retirement of R&D head, names interim consultant",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Arc Group Securities Acquisition I receives Nasdaq notice on warrant listing",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "JetBlue creditors working with restructuring adviser PJT Partners, WSJ reports",
+      "title": "Amazon\u2019s AWS cloud capacity largely sold out through 2027, CEO says",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
