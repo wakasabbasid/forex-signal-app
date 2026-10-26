@@ -1,10 +1,20 @@
 {
   "headlines": [
     {
-      "title": "Currency markets subdued ahead of pivotal central bank week - Forex Factory",
+      "title": "EUR/USD - CME Group",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.8492,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "IMF Urges Currency Flexibility as RBI Mounts Rupee Defense - Bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -15,31 +25,41 @@
       "currencies": []
     },
     {
-      "title": "Yen becoming more favorable hedge against AI market shock, says Goldman Sachs - The Japan Times",
+      "title": "Currency markets subdued ahead of pivotal central bank week - Forex Factory",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.7381,
+      "label": "bearish",
+      "score": -0.8492,
       "currencies": []
     },
     {
-      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "title": "Central Bank Currency Swaps Tracker - Council on Foreign Relations",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Currencies idle ahead of five-bank gauntlet; euro gains on Moody\u2019s reprieve - Investing.com",
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8881,
+      "score": 0.8977,
       "currencies": []
     },
     {
-      "title": "Currency markets subdued ahead of pivotal central bank week - The Economic Times",
+      "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "Kurdistan Region Government Bans Digital Currency Trading And Electronic Forex Exchange - Kurdistan24",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.8576,
+      "score": -0.6171,
       "currencies": []
     },
     {
@@ -50,97 +70,80 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY Forecast: Is Rising Japanese Inflation Supporting the Yen? - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
-      "title": "Global Macro and Markets Briefing \u2013 26 October 2026 - FXCM Markets",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Ringgit ends lower against US$, higher against most currencies - The Star",
+      "title": "Currency markets subdued ahead of pivotal central bank week - The Economic Times",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.8243,
+      "score": -0.8576,
       "currencies": []
     },
     {
-      "title": "Forex Market Explained: History, Mechanics, Pros & Cons - Investopedia",
+      "title": "India's central bank widens ambit of forex risk reserve requirement, tightens NDF rules - Reuters",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5676,
+      "currencies": []
+    },
+    {
+      "title": "India\u2019s RBI Clarifies Scope of Forex Curbs After Market Swings - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "BB allows merchants to retain 15pc of foreign currency earnings - The Financial Express",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Rosenblatt raises RingCentral stock price target on guidance boost",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Cantor Fitzgerald reiterates Tesla stock rating on strong cash flow",
+      "title": "Bank of Hawaii Q3 2026 slides: margin expands for 10th quarter",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9156,
+      "score": 0.8919,
       "currencies": []
     },
     {
-      "title": "Cantor Fitzgerald reiterates Overweight on PayPay stock ahead of results",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8866,
-      "currencies": []
-    },
-    {
-      "title": "Eris Q2 FY27 slides: profit surges 39% on diabetes strength",
+      "title": "Factbox-Anthropic\u2019s potential mega IPO joins ranks of world\u2019s biggest listings",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.939,
+      "score": 0.7862,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Galp falls 10% after q3 2026 guidance boost",
+      "title": "Earnings call transcript: River City Bank tops Q3 2026 estimates as shares rise",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9747,
+      "label": "bullish",
+      "score": 0.9097,
       "currencies": []
     },
     {
-      "title": "Anthropic said to plan 9 a.m. S-1 filing as mid-November IPO remains on track",
+      "title": "CNL Strategic Capital board sets new net asset value and declares distributions",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "TSX futures climb as oil falls, gold advances amid hopes for cooling Iran tensions",
+      "title": "Anthropic\u2019s IPO: 7 risks investors should know before buying",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7677,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Musk says SpaceX raised $40 billion in debt deal, predicts neocloud shakeout",
+      "title": "Gator Capital Management, 10% owner, acquires $11,692 in Grow stock",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5835,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Oppenheimer cuts Avalo Therapeutics price target on trial concerns",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "California Bank & Trust names Michael MacDonald as president",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
