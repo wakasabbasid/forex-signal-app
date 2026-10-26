@@ -1,23 +1,17 @@
 {
   "run_id": 1,
   "pairs": {
-    "EUR/USD": [
+    "USD/JPY": [
       {
-        "title": "EUR/USD - CME Group",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
+        "title": "USD/JPY Forecast: Is Rising Japanese Inflation Supporting the Yen? - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       }
     ],
-    "USD/JPY": [
+    "USD/CAD": [
       {
-        "title": "USD/JPY Forecast: Is Rising Japanese Inflation Supporting the Yen? - FOREX.com",
+        "title": "Loonie Strengthens As Oil Rally & Risk Pressure USD/CAD - TradingPedia",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0

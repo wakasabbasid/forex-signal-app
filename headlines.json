@@ -1,13 +1,6 @@
 {
   "headlines": [
     {
-      "title": "Forex Weekly: AI Bangs the Currency Gong - The Dark Side Of The Boom",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "IMF Urges Currency Flexibility as RBI Mounts Rupee Defense - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
@@ -15,58 +8,24 @@
       "currencies": []
     },
     {
-      "title": "Central Bank Currency Swaps Tracker - Council on Foreign Relations",
+      "title": "Forex Weekly: AI Bangs the Currency Gong - The Dark Side Of The Boom",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
-    },
-    {
-      "title": "EUR/USD - CME Group",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "Uganda central bank sells FX after rate hike fails to stem shilling losses - Reuters",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9113,
-      "currencies": []
-    },
-    {
-      "title": "Kurdistan Region Government Bans Digital Currency Trading And Electronic Forex Exchange - Kurdistan24",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6171,
-      "currencies": []
-    },
-    {
-      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7106,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
     },
     {
       "title": "AFRICA-FX-Nigerian and Ugandan currencies under pressure, others stable - Reuters",
       "source": "Google News",
       "label": "bullish",
       "score": 0.7007,
+      "currencies": []
+    },
+    {
+      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -80,73 +39,111 @@
       ]
     },
     {
-      "title": "India's central bank widens ambit of forex risk reserve requirement, tightens NDF rules - Reuters",
+      "title": "BB allows merchants to retain 15pc of foreign currency earnings - The Financial Express",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Sterling today: Pound slips as risk-off sell-off weighs on currencies - Investing.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.5676,
+      "score": -0.9681,
       "currencies": []
     },
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "title": "Loonie Strengthens As Oil Rally & Risk Pressure USD/CAD - TradingPedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "CAD"
+      ]
+    },
+    {
+      "title": "Forex Market Explained: History, Mechanics, Pros & Cons - Investopedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Ringgit ends easier vs US dollar, major currencies ahead of FOMC meeting - The Star",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8977,
+      "score": 0.7877,
       "currencies": []
     },
     {
-      "title": "Policy choices will matter crucially amid growing socioeconomic challenges",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "title": "Dollar Struggles to Recover as US Bond Yields Continue Falling - FXLeaders",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9451,
       "currencies": []
     },
     {
-      "title": "Adlai Nortye director Ji Ping sells $163,274 in ANL stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "title": "Why aggressive BSP rate hikes aren\u2019t stopping peso\u2019s rapid slide - Manila Bulletin",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5824,
       "currencies": []
     },
     {
-      "title": "Can silver recover from its latest sell-off? UBS weighs in",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.4097,
-      "currencies": []
-    },
-    {
-      "title": "Woori Financial ADR earnings beat by $0.29, revenue topped estimates",
+      "title": "Apple seeks more iPhone Duo supplies amid strong demand for debut foldable- report",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9476,
+      "score": 0.9387,
       "currencies": []
     },
     {
-      "title": "Ukraine says military Starlink service restored as Musk cites terms violations",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Amgen at ESMO: IMDELLTRA data points to earlier lung cancer use",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Houthis launch broad assault on Saudi sites as U.S. warns of Iranian plots",
+      "title": "Oil prices down almost $1 in early trading",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6375,
+      "score": -0.9611,
       "currencies": []
     },
     {
-      "title": "Exodus Movement director Margaret Knight sells $955 in stock",
+      "title": "Stifel raises ORIC Pharmaceuticals price target to $18 on ESMO data",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Mach7 Q1 FY27 slides: cash flow positive, Flamingo launch ahead",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9355,
+      "currencies": []
+    },
+    {
+      "title": "Oppenheimer reiterates Amgen stock rating on cancer drug data",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Stifel raises Hinge Health stock price target on app growth rebound",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Nokia stock rating upgraded to Reduce by IndeRes on strong Q3 results",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9451,
+      "currencies": []
+    },
+    {
+      "title": "IndeRes upgrades Nokia stock rating on strong Q3 results",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.939,
       "currencies": []
     }
   ],
