@@ -1,17 +1,14 @@
 {
   "headlines": [
     {
-      "title": "EUR/USD - CME Group",
+      "title": "Currency markets subdued ahead of pivotal central bank week - Forex Factory",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
+      "label": "bearish",
+      "score": -0.8492,
+      "currencies": []
     },
     {
-      "title": "IMF Urges Currency Flexibility as RBI Mounts Rupee Defense - Bloomberg.com",
+      "title": "Forex Weekly: AI Bangs the Currency Gong - The Dark Side Of The Boom",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -25,38 +22,17 @@
       "currencies": []
     },
     {
-      "title": "Central Bank Currency Swaps Tracker - Council on Foreign Relations",
+      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Forex Weekly: AI Bangs the Currency Gong - The Dark Side Of The Boom",
+      "title": "Currencies idle ahead of five-bank gauntlet; euro gains on Moody\u2019s reprieve - Investing.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "India's central bank widens ambit of forex risk reserve requirement, tightens NDF rules - Reuters",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5676,
-      "currencies": []
-    },
-    {
-      "title": "HARRY SCHERZER | Every forex payment does not have to be converted into rand - Business Day",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7106,
+      "label": "bullish",
+      "score": 0.8881,
       "currencies": []
     },
     {
@@ -67,83 +43,104 @@
       "currencies": []
     },
     {
-      "title": "Kurdistan Region Government Bans Digital Currency Trading And Electronic Forex Exchange - Kurdistan24",
+      "title": "HARRY SCHERZER | Every forex payment does not have to be converted into rand - Business Day",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.6171,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
+      "title": "USD/JPY Forecast: Is Rising Japanese Inflation Supporting the Yen? - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
-        "EUR",
-        "USD"
+        "USD",
+        "JPY"
       ]
     },
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "title": "Global Macro and Markets Briefing \u2013 26 October 2026 - FXCM Markets",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.8977,
-      "currencies": []
-    },
-    {
-      "title": "China\u2019s Communist Party begins fifth plenum in Beijing",
-      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is ZAI stock slipping today?",
-      "source": "Investing.com",
+      "title": "Ringgit ends lower against US$, higher against most currencies - The Star",
+      "source": "Google News",
       "label": "bearish",
-      "score": -0.8796,
+      "score": -0.8243,
       "currencies": []
     },
     {
-      "title": "Why is Zijin Mining stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9484,
+      "title": "Forex Market Explained: History, Mechanics, Pros & Cons - Investopedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Saudi Arabia to store crude oil in Singapore from mid-2027",
+      "title": "BB allows merchants to retain 15pc of foreign currency earnings - The Financial Express",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Rosenblatt raises RingCentral stock price target on guidance boost",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "PagerDuty executive chair Jennifer Tejada sells $120,000 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.17%",
+      "title": "Cantor Fitzgerald reiterates Tesla stock rating on strong cash flow",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9382,
+      "score": 0.9156,
       "currencies": []
     },
     {
-      "title": "Infosys shares dip as lower growth outlook offsets strong deal wins",
+      "title": "Cantor Fitzgerald reiterates Overweight on PayPay stock ahead of results",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9603,
+      "score": -0.8866,
       "currencies": []
     },
     {
-      "title": "Fed meeting on tap: watch REITs, utilities and banks stocks",
+      "title": "Eris Q2 FY27 slides: profit surges 39% on diabetes strength",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.939,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Galp falls 10% after q3 2026 guidance boost",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9747,
+      "currencies": []
+    },
+    {
+      "title": "Anthropic said to plan 9 a.m. S-1 filing as mid-November IPO remains on track",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "TSX futures climb as oil falls, gold advances amid hopes for cooling Iran tensions",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7677,
+      "currencies": []
+    },
+    {
+      "title": "Musk says SpaceX raised $40 billion in debt deal, predicts neocloud shakeout",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5835,
       "currencies": []
     }
   ],

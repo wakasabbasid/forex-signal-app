@@ -1,38 +1,12 @@
 {
   "run_id": 1,
   "pairs": {
-    "EUR/USD": [
-      {
-        "title": "EUR/USD - CME Group",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
     "USD/JPY": [
       {
-        "title": "PBOC sets USD/ CNY reference rate for today at 6.7162 (vs. estimate at 6.6691)",
-        "source": "ForexLive",
+        "title": "USD/JPY Forecast: Is Rising Japanese Inflation Supporting the Yen? - FOREX.com",
+        "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.6691 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "(USD:UGX) Shilling Freefall Has Uganda Tapping Meager Reserve War-Chest",
-        "source": "Bloomberg",
-        "label": "bearish",
-        "score": -0.8888
       }
     ]
   }
