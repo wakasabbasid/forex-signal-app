@@ -1,14 +1,11 @@
 {
   "headlines": [
     {
-      "title": "EUR/USD - CME Group",
+      "title": "Euro FX - CME Group",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
+      "currencies": []
     },
     {
       "title": "IMF Urges Currency Flexibility as RBI Mounts Rupee Defense - Bloomberg.com",
@@ -25,24 +22,24 @@
       "currencies": []
     },
     {
+      "title": "India's central bank widens ambit of forex risk reserve requirement, tightens NDF rules - Reuters",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5676,
+      "currencies": []
+    },
+    {
+      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7106,
+      "currencies": []
+    },
+    {
       "title": "Currency markets subdued ahead of pivotal central bank week - Forex Factory",
       "source": "Google News",
       "label": "bearish",
       "score": -0.8492,
-      "currencies": []
-    },
-    {
-      "title": "Central Bank Currency Swaps Tracker - Council on Foreign Relations",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8977,
       "currencies": []
     },
     {
@@ -63,24 +60,10 @@
       "currencies": []
     },
     {
-      "title": "HARRY SCHERZER | Every forex payment does not have to be converted into rand - Business Day",
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Currency markets subdued ahead of pivotal central bank week - The Economic Times",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8576,
-      "currencies": []
-    },
-    {
-      "title": "India's central bank widens ambit of forex risk reserve requirement, tightens NDF rules - Reuters",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5676,
+      "label": "bullish",
+      "score": 0.8977,
       "currencies": []
     },
     {
@@ -91,56 +74,75 @@
       "currencies": []
     },
     {
-      "title": "Bank of Hawaii Q3 2026 slides: margin expands for 10th quarter",
+      "title": "USD/JPY Forecast: Is Rising Japanese Inflation Supporting the Yen? - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "South Korea\u2019s economy grows faster than expected in third quarter",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8919,
+      "score": 0.9352,
       "currencies": []
     },
     {
-      "title": "Factbox-Anthropic\u2019s potential mega IPO joins ranks of world\u2019s biggest listings",
+      "title": "Stewart Information Services: director Bradley Allen Jr. buys $94,600",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Elevra Lithium jumps on stronger Q1 2026 results",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7862,
+      "score": 0.93,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: River City Bank tops Q3 2026 estimates as shares rise",
+      "title": "Earnings call transcript: Plenti lifts q2 originations to record AUD 613 million",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9097,
+      "score": 0.9447,
+      "currencies": [
+        "AUD"
+      ]
+    },
+    {
+      "title": "Exclusive-US, Canada working on deal to ease steel, auto tariffs, sources say",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8503,
       "currencies": []
     },
     {
-      "title": "CNL Strategic Capital board sets new net asset value and declares distributions",
+      "title": "Analysis-China\u2019s lab-grown diamond makers target AI, chip sectors for next wave of growth",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Anthropic\u2019s IPO: 7 risks investors should know before buying",
+      "title": "Korro Bio: 10% owner Lynx1 Capital Management LP buys $884,751 stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Gator Capital Management, 10% owner, acquires $11,692 in Grow stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Oppenheimer cuts Avalo Therapeutics price target on trial concerns",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "California Bank & Trust names Michael MacDonald as president",
+      "title": "Britain will not join Canada-led defence bank initiative",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

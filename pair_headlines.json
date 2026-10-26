@@ -3,40 +3,26 @@
   "pairs": {
     "EUR/USD": [
       {
-        "title": "EUR/USD - CME Group",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
         "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       }
     ],
-    "USD/CAD": [
+    "USD/JPY": [
       {
-        "title": "The USD is stronger vs the CAD, AUD and NZD today. What do the charts tell traders?",
-        "source": "ForexLive",
+        "title": "USD/JPY Forecast: Is Rising Japanese Inflation Supporting the Yen? - FOREX.com",
+        "source": "Google News",
         "label": "neutral",
         "score": 0.0
       }
     ],
     "AUD/USD": [
       {
-        "title": "The USD is stronger vs the CAD, AUD and NZD today. What do the charts tell traders?",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "NZD/USD": [
-      {
-        "title": "The USD is stronger vs the CAD, AUD and NZD today. What do the charts tell traders?",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
+        "title": "Earnings call transcript: Plenti lifts q2 originations to record AUD 613 million",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.9447
       }
     ]
   }
