@@ -1,17 +1,10 @@
 {
   "headlines": [
     {
-      "title": "Euro FX - CME Group",
+      "title": "Hackers demand $50 million from Japan's GMO Internet after forex trading breach - Quartz",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "IMF Urges Currency Flexibility as RBI Mounts Rupee Defense - Bloomberg.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9496,
       "currencies": []
     },
     {
@@ -29,118 +22,122 @@
       "currencies": []
     },
     {
-      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7106,
-      "currencies": []
-    },
-    {
-      "title": "FOREX-Currency markets subdued ahead of busy central bank week - Devdiscourse",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7801,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
+      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
+      "currencies": []
     },
     {
-      "title": "Brazil markets, currency reel from leftist Luiz In\u00e1cio Lula da Silva\u2019s election win - Forex Factory",
+      "title": "The Japanese government renewed its readiness to intervene in the currency market to support the yen - \u0627\u0644\u0645\u062a\u062f\u0627\u0648\u0644 \u0627\u0644\u0639\u0631\u0628\u064a",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.6216,
+      "score": 0.9072,
       "currencies": []
     },
     {
-      "title": "Kurdistan Region Government Bans Digital Currency Trading And Electronic Forex Exchange - Kurdistan24",
+      "title": "Ringgit ends higher against major currencies, eases vs US$ - The Star",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9165,
+      "currencies": []
+    },
+    {
+      "title": "Currency markets subdued ahead of pivotal central bank week - Forex Factory",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.6171,
+      "score": -0.8492,
       "currencies": []
     },
     {
-      "title": "India's central bank widens ambit of forex risk reserve requirement, tightens NDF rules - Reuters",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5676,
-      "currencies": []
-    },
-    {
-      "title": "India\u2019s RBI Clarifies Scope of Forex Curbs After Market Swings - Bloomberg.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "title": "HARRY SCHERZER | Every forex payment does not have to be converted into rand - Business Day",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "HSBC ADR earnings missed by $1.79, revenue fell short of estimates",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9707,
-      "currencies": []
-    },
-    {
-      "title": "Bank of England reviews Revolut\u2019s product approval controls - report",
-      "source": "Investing.com",
+      "title": "Is RBI running out of ammo to defend the rupee? - bfsi.economictimes.indiatimes.com",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "HSBC shares hit 20-week low as profit misses estimates; announces $1bn buyback",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9603,
-      "currencies": []
-    },
-    {
-      "title": "Paylocity director Steven Sarowitz sells $3.7M in company stock",
-      "source": "Investing.com",
+      "title": "BB allows merchants to retain 15pc of foreign currency earnings - The Financial Express",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Marsh & McLennan VP Stacy Mills sells $243,000 in company stock",
-      "source": "Investing.com",
+      "title": "Forex Market Explained: History, Mechanics, Pros & Cons - Investopedia",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Guidewire Software CEO Michael Rosenbaum sells $224,628 in shares",
-      "source": "Investing.com",
+      "title": "Wealthy Kenyans stockpile Sh1.5trn in dollar accounts - Business Daily",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Bucher Industries sees lower 2026 sales, margins as glass, farm units slump",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9642,
-      "currencies": []
-    },
-    {
-      "title": "Asia stocks jump as Anthropic IPO filing revives AI trade",
+      "title": "Inderes Q3 2026 slides: revenue climbs 11%, EBITA margin hits 22.4%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.4781,
+      "score": 0.9456,
+      "currencies": []
+    },
+    {
+      "title": "Cantor Fitzgerald reiterates Flagstar Bank stock rating, cuts estimates",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Cantor Fitzgerald reiterates Neutral on Merck stock at $145",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Cantor Fitzgerald reiterates Custom Truck One Source stock rating on raised EBITDA guidance",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Pyxis Oncology to present cancer drug data at Barcelona symposium",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Deutsche Bank\u2019s Reid sees a potential final dip for stocks this year",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.914,
+      "currencies": []
+    },
+    {
+      "title": "Why is CoreWeave stock rallying today?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Abu Dhabi Islamic Bank reports third quarter revenue below estimates",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9342,
       "currencies": []
     }
   ],

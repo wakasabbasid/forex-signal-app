@@ -1,37 +1,4 @@
 {
   "run_id": 1,
-  "pairs": {
-    "EUR/USD": [
-      {
-        "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "Asia firms into Tokyo lunch: Japan and Korea stocks rise, AUD and NZD gain after Nasdaq lead",
-        "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.7143
-      }
-    ],
-    "NZD/USD": [
-      {
-        "title": "Asia firms into Tokyo lunch: Japan and Korea stocks rise, AUD and NZD gain after Nasdaq lead",
-        "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.7143
-      }
-    ],
-    "USD/JPY": [
-      {
-        "title": "PBOC sets USD/ CNY central rate at 6.7171 (vs. estimate at 6.6731)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ]
-  }
+  "pairs": {}
 }
