@@ -8,7 +8,7 @@
       "currencies": []
     },
     {
-      "title": "Euro FX - CME Group",
+      "title": "Forex Weekly: AI Bangs the Currency Gong - The Dark Side Of The Boom",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -25,24 +25,17 @@
       ]
     },
     {
-      "title": "Forex Weekly: AI Bangs the Currency Gong - The Dark Side Of The Boom",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "IMF Urges Currency Flexibility as RBI Mounts Rupee Defense - Bloomberg.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
       "source": "Google News",
       "label": "bullish",
       "score": 0.8977,
+      "currencies": []
+    },
+    {
+      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -53,17 +46,10 @@
       "currencies": []
     },
     {
-      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
+      "title": "Currency markets subdued ahead of pivotal central bank week - Forex Factory",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.7106,
-      "currencies": []
-    },
-    {
-      "title": "FOREX-Currency markets subdued ahead of busy central bank week - Devdiscourse",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7801,
+      "score": -0.8492,
       "currencies": []
     },
     {
@@ -74,78 +60,90 @@
       "currencies": []
     },
     {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "title": "Ringgit ends higher against major currencies, eases vs US$ - The Star",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9165,
+      "currencies": []
+    },
+    {
+      "title": "Is RBI running out of ammo to defend the rupee? - bfsi.economictimes.indiatimes.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
+      "title": "EUR/USD Update: Euro Weakness Returns Ahead of Central Bank Decisions - FOREX.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.6363,
       "currencies": [
         "EUR",
         "USD"
       ]
     },
     {
-      "title": "Hinge Health stock reaches all-time high at 113.51 USD",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6713,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Diesel refining margins drop 7% as Russian output rises",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9749,
+      "title": "Top 6 Most Tradable Currency Pairs - Investopedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Boeing shares sell off on slower-than-expected 737 production, weaker free cash flow outlook",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9734,
-      "currencies": []
-    },
-    {
-      "title": "Alaska Airlines to launch Anchorage-Tokyo nonstop service in 2027",
+      "title": "Sands China prices $1 billion senior notes offering",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Worldline Q3 2026 slides: revenue stabilizes as turnaround progresses",
+      "title": "Robinhood Q3 2026 slides: record revenue of $1.4B, stock drops 7%",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9551,
+      "score": -0.9692,
       "currencies": []
     },
     {
-      "title": "Exclusive-GM to offer hybrid SUVs in strategic pivot from electric",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6372,
-      "currencies": []
-    },
-    {
-      "title": "Eaton declares $1.10 quarterly dividend payable in November",
+      "title": "Lockheed Martin COO St. John sells $2.35M in common stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Saint-Gobain Q3 2026 slides: pricing drives growth amid volume pressure",
+      "title": "Basswood Capital Management, 10% owner, sells $4.5M of DCOM stock.",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Walmex Q3 2026 slides: operational gains offset by margin pressure",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9031,
+      "score": 0.9329,
+      "currencies": []
+    },
+    {
+      "title": "Pilbara Minerals Q1 FY27 slides: record output, major expansion approved",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.94,
+      "currencies": []
+    },
+    {
+      "title": "Vitrafy Q1 FY27 slides: U.S. blood market share hits 17%, CGT entry",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9269,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Walmart de M\u00e9xico y Centroam\u00e9rica Q3 2026 shares fall",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

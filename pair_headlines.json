@@ -7,22 +7,28 @@
         "source": "Google News",
         "label": "bullish",
         "score": 0.482
-      }
-    ],
-    "EUR/USD": [
+      },
       {
-        "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
-        "source": "Google News",
+        "title": "Economic and event calendar in Asia Wednesday, October 28, 2026. AUD CPI, RBA and RBNZ",
+        "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
       }
     ],
-    "USD/JPY": [
+    "EUR/USD": [
       {
-        "title": "Hinge Health stock reaches all-time high at 113.51 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.6713
+        "title": "EUR/USD Update: Euro Weakness Returns Ahead of Central Bank Decisions - FOREX.com",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.6363
+      }
+    ],
+    "NZD/USD": [
+      {
+        "title": "MUFG sees RBNZ hiking to 3% today but under-delivering on pricing, flags NZD downside",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.7583
       }
     ]
   }
