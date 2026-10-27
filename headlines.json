@@ -8,7 +8,31 @@
       "currencies": []
     },
     {
+      "title": "Euro FX - CME Group",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "AUD/USD Analysis: Australian Dollar Holds Steady Ahead of Inflation Data and the Fed - FOREX.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.482,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
+    },
+    {
       "title": "Forex Weekly: AI Bangs the Currency Gong - The Dark Side Of The Boom",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "IMF Urges Currency Flexibility as RBI Mounts Rupee Defense - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -22,10 +46,24 @@
       "currencies": []
     },
     {
-      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "title": "Canadian Dollar Slips as Fed and BoC Decisions Loom - TradingPedia",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9123,
+      "currencies": []
+    },
+    {
+      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7106,
+      "currencies": []
+    },
+    {
+      "title": "FOREX-Currency markets subdued ahead of busy central bank week - Devdiscourse",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7801,
       "currencies": []
     },
     {
@@ -36,108 +74,78 @@
       "currencies": []
     },
     {
-      "title": "Ringgit ends higher against major currencies, eases vs US$ - The Star",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9165,
-      "currencies": []
-    },
-    {
-      "title": "Currency markets subdued ahead of pivotal central bank week - Forex Factory",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8492,
-      "currencies": []
-    },
-    {
-      "title": "HARRY SCHERZER | Every forex payment does not have to be converted into rand - Business Day",
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Is RBI running out of ammo to defend the rupee? - bfsi.economictimes.indiatimes.com",
+      "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
     },
     {
-      "title": "BB allows merchants to retain 15pc of foreign currency earnings - The Financial Express",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Market Explained: History, Mechanics, Pros & Cons - Investopedia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Wealthy Kenyans stockpile Sh1.5trn in dollar accounts - Business Daily",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Inderes Q3 2026 slides: revenue climbs 11%, EBITA margin hits 22.4%",
+      "title": "Hinge Health stock reaches all-time high at 113.51 USD",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9456,
-      "currencies": []
+      "score": 0.6713,
+      "currencies": [
+        "USD"
+      ]
     },
     {
-      "title": "Cantor Fitzgerald reiterates Flagstar Bank stock rating, cuts estimates",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Cantor Fitzgerald reiterates Neutral on Merck stock at $145",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Cantor Fitzgerald reiterates Custom Truck One Source stock rating on raised EBITDA guidance",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Pyxis Oncology to present cancer drug data at Barcelona symposium",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Deutsche Bank\u2019s Reid sees a potential final dip for stocks this year",
+      "title": "Diesel refining margins drop 7% as Russian output rises",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.914,
+      "score": -0.9749,
       "currencies": []
     },
     {
-      "title": "Why is CoreWeave stock rallying today?",
+      "title": "Boeing shares sell off on slower-than-expected 737 production, weaker free cash flow outlook",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9734,
+      "currencies": []
+    },
+    {
+      "title": "Alaska Airlines to launch Anchorage-Tokyo nonstop service in 2027",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Abu Dhabi Islamic Bank reports third quarter revenue below estimates",
+      "title": "Worldline Q3 2026 slides: revenue stabilizes as turnaround progresses",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9342,
+      "score": -0.9551,
+      "currencies": []
+    },
+    {
+      "title": "Exclusive-GM to offer hybrid SUVs in strategic pivot from electric",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6372,
+      "currencies": []
+    },
+    {
+      "title": "Eaton declares $1.10 quarterly dividend payable in November",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Saint-Gobain Q3 2026 slides: pricing drives growth amid volume pressure",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9031,
       "currencies": []
     }
   ],
