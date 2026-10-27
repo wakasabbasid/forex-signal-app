@@ -22,10 +22,10 @@
       "currencies": []
     },
     {
-      "title": "India's central bank widens ambit of forex risk reserve requirement, tightens NDF rules - Reuters",
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.5676,
+      "label": "bullish",
+      "score": 0.8977,
       "currencies": []
     },
     {
@@ -36,10 +36,10 @@
       "currencies": []
     },
     {
-      "title": "Currency markets subdued ahead of pivotal central bank week - Forex Factory",
+      "title": "FOREX-Currency markets subdued ahead of busy central bank week - Devdiscourse",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.8492,
+      "score": -0.7801,
       "currencies": []
     },
     {
@@ -53,6 +53,13 @@
       ]
     },
     {
+      "title": "Brazil markets, currency reel from leftist Luiz In\u00e1cio Lula da Silva\u2019s election win - Forex Factory",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6216,
+      "currencies": []
+    },
+    {
       "title": "Kurdistan Region Government Bans Digital Currency Trading And Electronic Forex Exchange - Kurdistan24",
       "source": "Google News",
       "label": "bearish",
@@ -60,10 +67,10 @@
       "currencies": []
     },
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "title": "India's central bank widens ambit of forex risk reserve requirement, tightens NDF rules - Reuters",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.8977,
+      "label": "bearish",
+      "score": -0.5676,
       "currencies": []
     },
     {
@@ -74,16 +81,6 @@
       "currencies": []
     },
     {
-      "title": "USD/JPY Forecast: Is Rising Japanese Inflation Supporting the Yen? - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
       "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
       "label": "neutral",
@@ -91,61 +88,59 @@
       "currencies": []
     },
     {
-      "title": "South Korea\u2019s economy grows faster than expected in third quarter",
+      "title": "HSBC ADR earnings missed by $1.79, revenue fell short of estimates",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9352,
+      "label": "bearish",
+      "score": -0.9707,
       "currencies": []
     },
     {
-      "title": "Stewart Information Services: director Bradley Allen Jr. buys $94,600",
+      "title": "Bank of England reviews Revolut\u2019s product approval controls - report",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Elevra Lithium jumps on stronger Q1 2026 results",
+      "title": "HSBC shares hit 20-week low as profit misses estimates; announces $1bn buyback",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.93,
+      "label": "bearish",
+      "score": -0.9603,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Plenti lifts q2 originations to record AUD 613 million",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9447,
-      "currencies": [
-        "AUD"
-      ]
-    },
-    {
-      "title": "Exclusive-US, Canada working on deal to ease steel, auto tariffs, sources say",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8503,
-      "currencies": []
-    },
-    {
-      "title": "Analysis-China\u2019s lab-grown diamond makers target AI, chip sectors for next wave of growth",
+      "title": "Paylocity director Steven Sarowitz sells $3.7M in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Korro Bio: 10% owner Lynx1 Capital Management LP buys $884,751 stock",
+      "title": "Marsh & McLennan VP Stacy Mills sells $243,000 in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Britain will not join Canada-led defence bank initiative",
+      "title": "Guidewire Software CEO Michael Rosenbaum sells $224,628 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Bucher Industries sees lower 2026 sales, margins as glass, farm units slump",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9642,
+      "currencies": []
+    },
+    {
+      "title": "Asia stocks jump as Anthropic IPO filing revives AI trade",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.4781,
       "currencies": []
     }
   ],

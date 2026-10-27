@@ -9,20 +9,28 @@
         "score": 0.0
       }
     ],
-    "USD/JPY": [
-      {
-        "title": "USD/JPY Forecast: Is Rising Japanese Inflation Supporting the Yen? - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
     "AUD/USD": [
       {
-        "title": "Earnings call transcript: Plenti lifts q2 originations to record AUD 613 million",
-        "source": "Investing.com",
+        "title": "Asia firms into Tokyo lunch: Japan and Korea stocks rise, AUD and NZD gain after Nasdaq lead",
+        "source": "ForexLive",
         "label": "bullish",
-        "score": 0.9447
+        "score": 0.7143
+      }
+    ],
+    "NZD/USD": [
+      {
+        "title": "Asia firms into Tokyo lunch: Japan and Korea stocks rise, AUD and NZD gain after Nasdaq lead",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.7143
+      }
+    ],
+    "USD/JPY": [
+      {
+        "title": "PBOC sets USD/ CNY central rate at 6.7171 (vs. estimate at 6.6731)",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }
