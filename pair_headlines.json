@@ -1,62 +1,12 @@
 {
   "run_id": 1,
   "pairs": {
-    "AUD/USD": [
-      {
-        "title": "AUD, NZD, CAD: Commodity FX Faces a 24-Hour Central Bank Storm - FOREX.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.5605
-      },
-      {
-        "title": "AUD/USD Analysis: Australian Dollar Holds Steady Ahead of Inflation Data and the Fed - FOREX.com",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.482
-      }
-    ],
-    "NZD/USD": [
-      {
-        "title": "AUD, NZD, CAD: Commodity FX Faces a 24-Hour Central Bank Storm - FOREX.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.5605
-      }
-    ],
     "USD/CAD": [
-      {
-        "title": "AUD, NZD, CAD: Commodity FX Faces a 24-Hour Central Bank Storm - FOREX.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.5605
-      },
       {
         "title": "Canadian Dollar Technical Outlook: USD/CAD Plunge Tests Critical Support Ahead of BoC, Fed - FOREX.com",
         "source": "Google News",
         "label": "bearish",
         "score": -0.5293
-      }
-    ],
-    "USD/JPY": [
-      {
-        "title": "Revvity Inc stock hits 52-week high at 166.5 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.5985
-      },
-      {
-        "title": "Chemed Corp stock hits 52-week high at 558.32 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.5576
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/USD nears key 1.1067 swing level ahead of Fed and ECB decisions. What's next?",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
       }
     ]
   }

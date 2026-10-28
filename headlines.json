@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "Central Bank Currency Swaps Tracker - Council on Foreign Relations",
+      "title": "Forex currencies: live prices, changes, trading volume and daily charts - Yahoo Finance UK",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -22,6 +22,13 @@
       "currencies": []
     },
     {
+      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Hackers demand $50 million from Japan's GMO Internet after forex trading breach - Quartz",
       "source": "Google News",
       "label": "bearish",
@@ -29,56 +36,14 @@
       "currencies": []
     },
     {
-      "title": "AUD, NZD, CAD: Commodity FX Faces a 24-Hour Central Bank Storm - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5605,
-      "currencies": [
-        "AUD",
-        "NZD",
-        "CAD"
-      ]
-    },
-    {
-      "title": "IMF Urges Currency Flexibility as RBI Mounts Rupee Defense - Bloomberg.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7106,
-      "currencies": []
-    },
-    {
-      "title": "FOREX-Currency markets subdued ahead of busy central bank week - Devdiscourse",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7801,
-      "currencies": []
-    },
-    {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "AUD/USD Analysis: Australian Dollar Holds Steady Ahead of Inflation Data and the Fed - FOREX.com",
+      "title": "Won strength dims LG Electronics\u2019 forex hedge, spurs flexible global production - Chosunbiz",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.482,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
+      "score": 0.7195,
+      "currencies": []
     },
     {
-      "title": "India\u2019s RBI Clarifies Scope of Forex Curbs After Market Swings - Bloomberg",
+      "title": "October 28: Cedi sells at GHS12.25 on forex market, GHS11.66 on BoG interbank - Modern Ghana",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -95,62 +60,88 @@
       ]
     },
     {
-      "title": "Earnings call transcript: TE Connectivity beats Q4 2026 forecasts, shares fall",
+      "title": "Currency markets subdued ahead of pivotal central bank week - Forex Factory",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8492,
+      "currencies": []
+    },
+    {
+      "title": "Travelex Canada onboards more than 50 wholesale customers in first year of trading - FX News Group",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Canadian Dollar Slips as Fed and BoC Decisions Loom - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9123,
+      "currencies": []
+    },
+    {
+      "title": "Best Forex Trading App 2026: Which App Is Best for Forex Trading? - Economies.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "HII marks progress on unmanned vessels for U.S. Navy",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8981,
+      "currencies": []
+    },
+    {
+      "title": "Northwest European diesel margins hold steady amid mixed signals",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8953,
+      "currencies": []
+    },
+    {
+      "title": "Judge skeptical of Justice Dept lawsuit over alleged noncitizens on voting rolls",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9376,
+      "score": -0.861,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: OGE Energy beats Q3 2026 estimates, lifts guidance",
+      "title": "Pennsylvania measles cases near 1,400, state health department says",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5752,
+      "label": "bearish",
+      "score": -0.8353,
       "currencies": []
     },
     {
-      "title": "All eyes on Nextdecade earnings amid Rio Grande LNG buildout",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Genesis Goldfields appoints Jonathan Hill to board",
+      "title": "Fed leaves rates unchanged as it awaits \u2019accumulation of more information\u2019",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Genmab\u2019s petosemtamab trial cuts death risk by 50% in cancer",
+      "title": "Central Pacific Q3 2026 slides: NIM expansion drives profitability",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9175,
+      "score": 0.9419,
       "currencies": []
     },
     {
-      "title": "UK budget unveils energy relief, housing funds; 2027 growth forecast cut",
+      "title": "Route Mobile H1 FY27 slides: revenue grows as margins face pressure",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9411,
       "currencies": []
     },
     {
-      "title": "Novocure in the spotlight: Can new products offset Q3 earnings dip?",
+      "title": "Earnings call transcript: First Commonwealth posts mixed Q3 2026 results, shares slip",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6483,
+      "label": "bearish",
+      "score": -0.9677,
       "currencies": []
-    },
-    {
-      "title": "Revvity Inc stock hits 52-week high at 166.5 USD",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5985,
-      "currencies": [
-        "USD"
-      ]
     }
   ],
   "run_id": 1
