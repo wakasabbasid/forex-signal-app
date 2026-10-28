@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "AI worries expose dollar's hot-money problem - Fresno Bee",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8125,
+      "currencies": []
+    },
+    {
       "title": "Hackers demand $50 million from Japan's GMO Internet after forex trading breach - Quartz",
       "source": "Google News",
       "label": "bearish",
@@ -8,20 +15,13 @@
       "currencies": []
     },
     {
-      "title": "Forex Weekly: AI Bangs the Currency Gong - The Dark Side Of The Boom",
+      "title": "Canadian Dollar Technical Outlook: USD/CAD Plunge Tests Critical Support Ahead of BoC, Fed - FOREX.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "AUD/USD Analysis: Australian Dollar Holds Steady Ahead of Inflation Data and the Fed - FOREX.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.482,
+      "label": "bearish",
+      "score": -0.5293,
       "currencies": [
-        "AUD",
-        "USD"
+        "USD",
+        "CAD"
       ]
     },
     {
@@ -39,6 +39,41 @@
       "currencies": []
     },
     {
+      "title": "Travelex Canada onboards more than 50 wholesale customers in first year of trading - FX News Group",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Rupee rises 4 paise to 95.03 against US dollar in early trade - The Economic Times",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8609,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: US Dollar remains steady as markets await mid-tier data releases and FOMC meeting - www.tmgm.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Tokyo Forex: Yen Slightly Weaker in Upper 157 Range as Stock Gains Weigh on Risk Sentiment - BigGo Finance",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.929,
+      "currencies": []
+    },
+    {
+      "title": "FOREX-Dollar steady ahead of Fed decision, kiwi swoons after RBNZ holds - Devdiscourse",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5678,
+      "currencies": []
+    },
+    {
       "title": "Canadian Dollar Slips as Fed and BoC Decisions Loom - TradingPedia",
       "source": "Google News",
       "label": "bearish",
@@ -53,97 +88,59 @@
       "currencies": []
     },
     {
-      "title": "The Japanese government renewed its readiness to intervene in the currency market to support the yen - \u0627\u0644\u0645\u062a\u062f\u0627\u0648\u0644 \u0627\u0644\u0639\u0631\u0628\u064a",
-      "source": "Google News",
+      "title": "Heineken Q3 volumes beat expectations on Asia growth, Americas rebound",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9072,
+      "score": 0.9392,
       "currencies": []
     },
     {
-      "title": "Ringgit ends higher against major currencies, eases vs US$ - The Star",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9165,
-      "currencies": []
-    },
-    {
-      "title": "Is RBI running out of ammo to defend the rupee? - bfsi.economictimes.indiatimes.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD Update: Euro Weakness Returns Ahead of Central Bank Decisions - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6363,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "Top 6 Most Tradable Currency Pairs - Investopedia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Sands China prices $1 billion senior notes offering",
+      "title": "Why is Samsung Electro-Mechanics stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Robinhood Q3 2026 slides: record revenue of $1.4B, stock drops 7%",
+      "title": "Earnings call transcript: StrongPoint Q3 2026 revenue rises 14% as stock falls 8.5%",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9692,
+      "score": -0.6191,
       "currencies": []
     },
     {
-      "title": "Lockheed Martin COO St. John sells $2.35M in common stock",
+      "title": "JSW Cement Q2 FY27 slides: volume surges 26% as margins face pressure",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.929,
+      "currencies": []
+    },
+    {
+      "title": "Get InvestingPro for less than $2 per week before our sale ends",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Basswood Capital Management, 10% owner, sells $4.5M of DCOM stock.",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Walmex Q3 2026 slides: operational gains offset by margin pressure",
+      "title": "Deutsche Bank Q3 2026 slides: record 9M results, all divisions top 12% RoTE",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9329,
+      "score": 0.6971,
       "currencies": []
     },
     {
-      "title": "Pilbara Minerals Q1 FY27 slides: record output, major expansion approved",
+      "title": "Equinor raises production outlook as profit hits nearly four-year high",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.94,
+      "score": 0.945,
       "currencies": []
     },
     {
-      "title": "Vitrafy Q1 FY27 slides: U.S. blood market share hits 17%, CGT entry",
+      "title": "Santander Q3 underlying profit rises 19%, reaffirms 2026 targets",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9269,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Walmart de M\u00e9xico y Centroam\u00e9rica Q3 2026 shares fall",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "score": 0.9415,
       "currencies": []
     }
   ],

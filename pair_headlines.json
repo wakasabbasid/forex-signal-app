@@ -1,34 +1,60 @@
 {
   "run_id": 1,
   "pairs": {
-    "AUD/USD": [
+    "USD/CAD": [
       {
-        "title": "AUD/USD Analysis: Australian Dollar Holds Steady Ahead of Inflation Data and the Fed - FOREX.com",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.482
-      },
-      {
-        "title": "Economic and event calendar in Asia Wednesday, October 28, 2026. AUD CPI, RBA and RBNZ",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/USD Update: Euro Weakness Returns Ahead of Central Bank Decisions - FOREX.com",
+        "title": "Canadian Dollar Technical Outlook: USD/CAD Plunge Tests Critical Support Ahead of BoC, Fed - FOREX.com",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.6363
+        "score": -0.5293
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "AUD/USD struggles to break key resistance despite hot Australia CPI and hawkish RBA",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.6934
+      },
+      {
+        "title": "investingLive Asia-Pacific market news: Hawkish RBA, surprise RBNZ hold lift AUD/NZD",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.8769
+      },
+      {
+        "title": "AUD/NZD in focus as hawkish RBA signals clash with RBNZ\u2019s surprise 4-3 hold",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.7124
       }
     ],
     "NZD/USD": [
       {
-        "title": "MUFG sees RBNZ hiking to 3% today but under-delivering on pricing, flags NZD downside",
+        "title": "investingLive Asia-Pacific market news: Hawkish RBA, surprise RBNZ hold lift AUD/NZD",
         "source": "ForexLive",
         "label": "bearish",
-        "score": -0.7583
+        "score": -0.8769
+      },
+      {
+        "title": "AUD/NZD in focus as hawkish RBA signals clash with RBNZ\u2019s surprise 4-3 hold",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.7124
+      }
+    ],
+    "USD/JPY": [
+      {
+        "title": "PBOC sets USD/ CNY mid-point today at 6.7165 (vs. estimate at 6.6734)",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PHP/USD: Marcos Pledges to \u201cDo All We Can\u201d to Defend Philippine Peso",
+        "source": "Bloomberg",
+        "label": "bullish",
+        "score": 0.7537
       }
     ]
   }
