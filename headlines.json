@@ -8,6 +8,23 @@
       "currencies": []
     },
     {
+      "title": "Central Bank Currency Swaps Tracker - Council on Foreign Relations",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "EUR/USD - CME Group",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
       "title": "AI worries expose dollar's hot-money problem - Fresno Bee",
       "source": "Google News",
       "label": "bearish",
@@ -22,13 +39,6 @@
       "currencies": []
     },
     {
-      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Hackers demand $50 million from Japan's GMO Internet after forex trading breach - Quartz",
       "source": "Google News",
       "label": "bearish",
@@ -36,14 +46,38 @@
       "currencies": []
     },
     {
-      "title": "Won strength dims LG Electronics\u2019 forex hedge, spurs flexible global production - Chosunbiz",
+      "title": "IMF Urges Currency Flexibility as RBI Mounts Rupee Defense - Bloomberg.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.7195,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "October 28: Cedi sells at GHS12.25 on forex market, GHS11.66 on BoG interbank - Modern Ghana",
+      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7106,
+      "currencies": []
+    },
+    {
+      "title": "FOREX-Currency markets subdued ahead of busy central bank week - Devdiscourse",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7801,
+      "currencies": []
+    },
+    {
+      "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -60,62 +94,6 @@
       ]
     },
     {
-      "title": "Currency markets subdued ahead of pivotal central bank week - Forex Factory",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8492,
-      "currencies": []
-    },
-    {
-      "title": "Travelex Canada onboards more than 50 wholesale customers in first year of trading - FX News Group",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Canadian Dollar Slips as Fed and BoC Decisions Loom - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9123,
-      "currencies": []
-    },
-    {
-      "title": "Best Forex Trading App 2026: Which App Is Best for Forex Trading? - Economies.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "HII marks progress on unmanned vessels for U.S. Navy",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8981,
-      "currencies": []
-    },
-    {
-      "title": "Northwest European diesel margins hold steady amid mixed signals",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8953,
-      "currencies": []
-    },
-    {
-      "title": "Judge skeptical of Justice Dept lawsuit over alleged noncitizens on voting rolls",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.861,
-      "currencies": []
-    },
-    {
-      "title": "Pennsylvania measles cases near 1,400, state health department says",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8353,
-      "currencies": []
-    },
-    {
       "title": "Fed leaves rates unchanged as it awaits \u2019accumulation of more information\u2019",
       "source": "Investing.com",
       "label": "neutral",
@@ -123,24 +101,52 @@
       "currencies": []
     },
     {
-      "title": "Central Pacific Q3 2026 slides: NIM expansion drives profitability",
+      "title": "Warsh says politics played no role in Fed\u2019s rate decision by group he is \u2019honored\u2019 to lead",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9419,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Route Mobile H1 FY27 slides: revenue grows as margins face pressure",
+      "title": "Fed\u2019s Warsh announces changes in how future FOMC meetings will go",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9411,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: First Commonwealth posts mixed Q3 2026 results, shares slip",
+      "title": "Fed\u2019s Warsh says US economy not running too hot",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9677,
+      "label": "bullish",
+      "score": 0.6627,
+      "currencies": []
+    },
+    {
+      "title": "Warsh to attend Fed jobs and productivity task force hearing to refine views",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Fed\u2019s policy committee to weigh balance sheet issues early next year, Warsh says",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Saba Capital Management buys $4,652 of Ellsworth Growth & Income Fund",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Fastly CEO Charles Compton sells $223,346 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
