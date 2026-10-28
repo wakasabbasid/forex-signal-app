@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "Central Bank Currency Swaps Tracker - Council on Foreign Relations",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "AI worries expose dollar's hot-money problem - Fresno Bee",
       "source": "Google News",
       "label": "bearish",
@@ -8,10 +15,73 @@
       "currencies": []
     },
     {
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8977,
+      "currencies": []
+    },
+    {
       "title": "Hackers demand $50 million from Japan's GMO Internet after forex trading breach - Quartz",
       "source": "Google News",
       "label": "bearish",
       "score": -0.9496,
+      "currencies": []
+    },
+    {
+      "title": "AUD, NZD, CAD: Commodity FX Faces a 24-Hour Central Bank Storm - FOREX.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5605,
+      "currencies": [
+        "AUD",
+        "NZD",
+        "CAD"
+      ]
+    },
+    {
+      "title": "IMF Urges Currency Flexibility as RBI Mounts Rupee Defense - Bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7106,
+      "currencies": []
+    },
+    {
+      "title": "FOREX-Currency markets subdued ahead of busy central bank week - Devdiscourse",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7801,
+      "currencies": []
+    },
+    {
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "AUD/USD Analysis: Australian Dollar Holds Steady Ahead of Inflation Data and the Fed - FOREX.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.482,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
+    },
+    {
+      "title": "India\u2019s RBI Clarifies Scope of Forex Curbs After Market Swings - Bloomberg",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -25,123 +95,62 @@
       ]
     },
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8977,
-      "currencies": []
-    },
-    {
-      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Travelex Canada onboards more than 50 wholesale customers in first year of trading - FX News Group",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Rupee rises 4 paise to 95.03 against US dollar in early trade - The Economic Times",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8609,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: US Dollar remains steady as markets await mid-tier data releases and FOMC meeting - www.tmgm.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Tokyo Forex: Yen Slightly Weaker in Upper 157 Range as Stock Gains Weigh on Risk Sentiment - BigGo Finance",
-      "source": "Google News",
+      "title": "Earnings call transcript: TE Connectivity beats Q4 2026 forecasts, shares fall",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.929,
+      "score": -0.9376,
       "currencies": []
     },
     {
-      "title": "FOREX-Dollar steady ahead of Fed decision, kiwi swoons after RBNZ holds - Devdiscourse",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5678,
-      "currencies": []
-    },
-    {
-      "title": "Canadian Dollar Slips as Fed and BoC Decisions Loom - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9123,
-      "currencies": []
-    },
-    {
-      "title": "Currency markets subdued ahead of pivotal central bank week - Forex Factory",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8492,
-      "currencies": []
-    },
-    {
-      "title": "Heineken Q3 volumes beat expectations on Asia growth, Americas rebound",
+      "title": "Earnings call transcript: OGE Energy beats Q3 2026 estimates, lifts guidance",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9392,
+      "score": 0.5752,
       "currencies": []
     },
     {
-      "title": "Why is Samsung Electro-Mechanics stock surging today?",
+      "title": "All eyes on Nextdecade earnings amid Rio Grande LNG buildout",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: StrongPoint Q3 2026 revenue rises 14% as stock falls 8.5%",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6191,
-      "currencies": []
-    },
-    {
-      "title": "JSW Cement Q2 FY27 slides: volume surges 26% as margins face pressure",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.929,
-      "currencies": []
-    },
-    {
-      "title": "Get InvestingPro for less than $2 per week before our sale ends",
+      "title": "Genesis Goldfields appoints Jonathan Hill to board",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Deutsche Bank Q3 2026 slides: record 9M results, all divisions top 12% RoTE",
+      "title": "Genmab\u2019s petosemtamab trial cuts death risk by 50% in cancer",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6971,
+      "score": 0.9175,
       "currencies": []
     },
     {
-      "title": "Equinor raises production outlook as profit hits nearly four-year high",
+      "title": "UK budget unveils energy relief, housing funds; 2027 growth forecast cut",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.945,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Santander Q3 underlying profit rises 19%, reaffirms 2026 targets",
+      "title": "Novocure in the spotlight: Can new products offset Q3 earnings dip?",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9415,
+      "score": 0.6483,
       "currencies": []
+    },
+    {
+      "title": "Revvity Inc stock hits 52-week high at 166.5 USD",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5985,
+      "currencies": [
+        "USD"
+      ]
     }
   ],
   "run_id": 1
