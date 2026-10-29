@@ -8,24 +8,20 @@
       "currencies": []
     },
     {
+      "title": "EUR/USD - CME Group",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
       "title": "Japan's Advisory Council Private Members Urge Tapping Forex Special Account Surplus as Funding Source; Yen Weakness Expands Buffer - finance.biggo.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Dollar pulls back as Warsh leaves tightening path murky; Euro tread water - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Pound Slips vs Dollar Ahead of Key US Data Releases - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8769,
       "currencies": []
     },
     {
@@ -36,10 +32,24 @@
       "currencies": []
     },
     {
-      "title": "IMF Urges Currency Flexibility as RBI Mounts Rupee Defense - Bloomberg.com",
+      "title": "Dollar edges higher as strong U.S. growth data offsets Fed uncertainty - Investing.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.7864,
+      "currencies": []
+    },
+    {
+      "title": "Pound Slips vs Dollar Ahead of Key US Data Releases - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8769,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: Major pairs fail to break out after Fed, eyes on ECB and key US data - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8025,
       "currencies": []
     },
     {
@@ -50,24 +60,17 @@
       "currencies": []
     },
     {
-      "title": "October 29: Cedi sells at GHS12.25 on forex market, GHS11.63 on BoG interbank - Modern Ghana",
+      "title": "IMF Urges Currency Flexibility as RBI Mounts Rupee Defense - Bloomberg.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Chinese national charged over Shs210m botched forex deal - Daily Monitor",
+      "title": "BB consolidates forex rules, allows importers to hedge commodity price risks - Bangladesh Sangbad Sangstha (BSS)",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.8411,
-      "currencies": []
-    },
-    {
-      "title": "FOREX-Currency markets subdued ahead of busy central bank week - Devdiscourse",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7801,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -81,68 +84,66 @@
       ]
     },
     {
-      "title": "Rupee under pressure despite $721 billion forex reserves: Why is the Indian currency falling? - Business Today",
+      "title": "FOREX-Currency markets subdued ahead of busy central bank week - Devdiscourse",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9086,
+      "score": -0.7801,
       "currencies": []
     },
     {
-      "title": "Flowserve Q3 2026 slides: record backlog offsets Middle East headwinds",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9167,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Alnylam beats Q3 2026 estimates, shares sink 17%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7213,
-      "currencies": []
-    },
-    {
-      "title": "DXC earnings ahead amid $2.4 billion insurance unit sale talks",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9477,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Perella Weinberg beats Q3 2026 estimates as stock jumps",
+      "title": "Raymond James lowers Welltower stock price target on valuation",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "PHINIA Q3 2026 slides: earnings beat, guidance raised on diversified growth",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9398,
-      "currencies": []
-    },
-    {
-      "title": "Adt stock hits 52-week high at 9.9 USD",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7372,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "circle8 group CEO Guus Franke sells $341,752 in company stock",
+      "title": "Stifel reiterates Waste Management stock rating on pricing strength",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Citizens cuts Alphabet rating as search monetization trails query growth",
+      "title": "Vertical Research reiterates Howmet Aerospace stock buy rating",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "TD Cowen reiterates Buy on Waste Management stock, $275 target",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Truist raises CNX Resources stock price target on hedge book strength",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Jefferies reiterates Warrior Met Coal stock rating on dividend",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "S&P cuts Navient outlook to negative on corporate restructuring plan",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9657,
+      "score": -0.9531,
+      "currencies": []
+    },
+    {
+      "title": "Gold dips, with spot prices just above $4k, as U.S. data hints at more rate hikes",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8129,
       "currencies": []
     }
   ],

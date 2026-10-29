@@ -3,18 +3,16 @@
   "pairs": {
     "EUR/USD": [
       {
+        "title": "EUR/USD - CME Group",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
         "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      }
-    ],
-    "USD/JPY": [
-      {
-        "title": "Adt stock hits 52-week high at 9.9 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.7372
       }
     ]
   }
