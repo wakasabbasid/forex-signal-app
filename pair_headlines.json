@@ -14,6 +14,14 @@
         "label": "neutral",
         "score": 0.0
       }
+    ],
+    "AUD/USD": [
+      {
+        "title": "ING lifts AUD/USD target to 0.71 as it backs a 25bp RBA hike next week",
+        "source": "ForexLive",
+        "label": "bullish",
+        "score": 0.9176
+      }
     ]
   }
 }

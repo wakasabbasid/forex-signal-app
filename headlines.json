@@ -32,10 +32,10 @@
       "currencies": []
     },
     {
-      "title": "Dollar edges higher as strong U.S. growth data offsets Fed uncertainty - Investing.com",
+      "title": "Dollar dips and euro rises after Fed, ECB rate decisions; pound extends gains - Investing.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.7864,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -67,13 +67,6 @@
       "currencies": []
     },
     {
-      "title": "BB consolidates forex rules, allows importers to hedge commodity price risks - Bangladesh Sangbad Sangstha (BSS)",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -91,59 +84,66 @@
       "currencies": []
     },
     {
-      "title": "Raymond James lowers Welltower stock price target on valuation",
+      "title": "BB consolidates forex rules, allows importers to hedge commodity price risks - Bangladesh Sangbad Sangstha (BSS)",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Reddit puts logged in experience first as Google AI hits traffic",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Stifel reiterates Waste Management stock rating on pricing strength",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Vertical Research reiterates Howmet Aerospace stock buy rating",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "TD Cowen reiterates Buy on Waste Management stock, $275 target",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Truist raises CNX Resources stock price target on hedge book strength",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Jefferies reiterates Warrior Met Coal stock rating on dividend",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "S&P cuts Navient outlook to negative on corporate restructuring plan",
+      "title": "Equities and bond yields dip with AI jitters and economic data in focus",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9531,
+      "score": -0.9332,
       "currencies": []
     },
     {
-      "title": "Gold dips, with spot prices just above $4k, as U.S. data hints at more rate hikes",
+      "title": "Wall Street ends lower as Alphabet revenue miss revives AI\u00a0capex jitters",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8129,
+      "score": -0.9478,
+      "currencies": []
+    },
+    {
+      "title": "Binance halts withdrawals amid $5.3 bln crypto hack",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9472,
+      "currencies": []
+    },
+    {
+      "title": "Ares Capital director Mary Beth Henson buys $46,150 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Chinese EVs win over some in South Korea, but Japan is proving to be a rougher road",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5539,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: MicroStrategy Q3 2026 EPS beats as stock falls",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Samsara CEO Sanjit Biswas sells $11.3M in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
