@@ -1,13 +1,6 @@
 {
   "headlines": [
     {
-      "title": "Forex currencies: live prices, changes, trading volume and daily charts - Yahoo Finance UK",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Central Bank Currency Swaps Tracker - Council on Foreign Relations",
       "source": "Google News",
       "label": "neutral",
@@ -25,10 +18,17 @@
       ]
     },
     {
-      "title": "AI worries expose dollar's hot-money problem - Fresno Bee",
+      "title": "Asian currencies mixed as dollar steadies after Fed hold, PCE eyed - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Chinese national charged over Shs210m botched forex deal - Daily Monitor",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.8125,
+      "score": -0.8411,
       "currencies": []
     },
     {
@@ -36,6 +36,13 @@
       "source": "Google News",
       "label": "bullish",
       "score": 0.8977,
+      "currencies": []
+    },
+    {
+      "title": "The before and after. A look at the changes in forex, rates, stocks through the FOMC decision and press conference. - investingLive",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -60,6 +67,20 @@
       "currencies": []
     },
     {
+      "title": "Gold Is Holding on to $4,000 - Action Forex",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7337,
+      "currencies": []
+    },
+    {
+      "title": "Dollar falls after Fed holds rates steady - CNBC",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.815,
+      "currencies": []
+    },
+    {
       "title": "FOREX-Currency markets subdued ahead of busy central bank week - Devdiscourse",
       "source": "Google News",
       "label": "bearish",
@@ -67,86 +88,59 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Canadian Dollar Technical Outlook: USD/CAD Plunge Tests Critical Support Ahead of BoC, Fed - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5293,
-      "currencies": [
-        "USD",
-        "CAD"
-      ]
-    },
-    {
-      "title": "Fed leaves rates unchanged as it awaits \u2019accumulation of more information\u2019",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Warsh says politics played no role in Fed\u2019s rate decision by group he is \u2019honored\u2019 to lead",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Fed\u2019s Warsh announces changes in how future FOMC meetings will go",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Fed\u2019s Warsh says US economy not running too hot",
+      "title": "STMicroelectronics forecasts higher Q4 revenue on AI chip demand",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6627,
+      "score": 0.9581,
       "currencies": []
     },
     {
-      "title": "Warsh to attend Fed jobs and productivity task force hearing to refine views",
+      "title": "Earnings call transcript: Satin Creditcare posts strong H1 FY27 recovery",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9428,
       "currencies": []
     },
     {
-      "title": "Fed\u2019s policy committee to weigh balance sheet issues early next year, Warsh says",
+      "title": "ING ADR earnings beat by $0.07, revenue was in line with estimates",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9533,
       "currencies": []
     },
     {
-      "title": "Saba Capital Management buys $4,652 of Ellsworth Growth & Income Fund",
+      "title": "Bitcoin weakens to $80k as hawkish Fed, mixed tech earnings weigh",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.953,
       "currencies": []
     },
     {
-      "title": "Fastly CEO Charles Compton sells $223,346 in company stock",
+      "title": "Earnings call transcript: Aeroflex Industries jumps on record Q2 2026 growth",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9297,
+      "currencies": []
+    },
+    {
+      "title": "Renault reports rise in 3Q revenues despite lower volumes",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9537,
+      "currencies": []
+    },
+    {
+      "title": "Renault revenue beats estimates as automaker reaffirms 2026 outlook",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7532,
+      "currencies": []
+    },
+    {
+      "title": "Alzchem reports sales growth and higher profit in nine months",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9588,
       "currencies": []
     }
   ],

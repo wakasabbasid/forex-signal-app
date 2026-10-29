@@ -7,20 +7,14 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
       }
     ],
-    "USD/CAD": [
+    "USD/JPY": [
       {
-        "title": "Canadian Dollar Technical Outlook: USD/CAD Plunge Tests Critical Support Ahead of BoC, Fed - FOREX.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.5293
+        "title": "PBOC sets USD/ CNY reference rate for today at 6.7147 (vs. estimate at 6.6596)",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }
