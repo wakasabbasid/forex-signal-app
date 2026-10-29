@@ -8,27 +8,24 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD - CME Group",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "Asian currencies mixed as dollar steadies after Fed hold, PCE eyed - Investing.com",
+      "title": "Japan's Advisory Council Private Members Urge Tapping Forex Special Account Surplus as Funding Source; Yen Weakness Expands Buffer - finance.biggo.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Chinese national charged over Shs210m botched forex deal - Daily Monitor",
+      "title": "Dollar pulls back as Warsh leaves tightening path murky; Euro tread water - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Pound Slips vs Dollar Ahead of Key US Data Releases - TradingPedia",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.8411,
+      "score": -0.8769,
       "currencies": []
     },
     {
@@ -36,20 +33,6 @@
       "source": "Google News",
       "label": "bullish",
       "score": 0.8977,
-      "currencies": []
-    },
-    {
-      "title": "The before and after. A look at the changes in forex, rates, stocks through the FOMC decision and press conference. - investingLive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Hackers demand $50 million from Japan's GMO Internet after forex trading breach - Quartz",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9496,
       "currencies": []
     },
     {
@@ -67,17 +50,17 @@
       "currencies": []
     },
     {
-      "title": "Gold Is Holding on to $4,000 - Action Forex",
+      "title": "October 29: Cedi sells at GHS12.25 on forex market, GHS11.63 on BoG interbank - Modern Ghana",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.7337,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Dollar falls after Fed holds rates steady - CNBC",
+      "title": "Chinese national charged over Shs210m botched forex deal - Daily Monitor",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.815,
+      "score": -0.8411,
       "currencies": []
     },
     {
@@ -88,59 +71,78 @@
       "currencies": []
     },
     {
-      "title": "STMicroelectronics forecasts higher Q4 revenue on AI chip demand",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9581,
+      "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "Rupee under pressure despite $721 billion forex reserves: Why is the Indian currency falling? - Business Today",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9086,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Satin Creditcare posts strong H1 FY27 recovery",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9428,
-      "currencies": []
-    },
-    {
-      "title": "ING ADR earnings beat by $0.07, revenue was in line with estimates",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9533,
-      "currencies": []
-    },
-    {
-      "title": "Bitcoin weakens to $80k as hawkish Fed, mixed tech earnings weigh",
+      "title": "Flowserve Q3 2026 slides: record backlog offsets Middle East headwinds",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.953,
+      "score": -0.9167,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Aeroflex Industries jumps on record Q2 2026 growth",
+      "title": "Earnings call transcript: Alnylam beats Q3 2026 estimates, shares sink 17%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9297,
+      "score": 0.7213,
       "currencies": []
     },
     {
-      "title": "Renault reports rise in 3Q revenues despite lower volumes",
+      "title": "DXC earnings ahead amid $2.4 billion insurance unit sale talks",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9537,
+      "score": 0.9477,
       "currencies": []
     },
     {
-      "title": "Renault revenue beats estimates as automaker reaffirms 2026 outlook",
+      "title": "Earnings call transcript: Perella Weinberg beats Q3 2026 estimates as stock jumps",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7532,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Alzchem reports sales growth and higher profit in nine months",
+      "title": "PHINIA Q3 2026 slides: earnings beat, guidance raised on diversified growth",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9588,
+      "score": 0.9398,
+      "currencies": []
+    },
+    {
+      "title": "Adt stock hits 52-week high at 9.9 USD",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7372,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "circle8 group CEO Guus Franke sells $341,752 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Citizens cuts Alphabet rating as search monetization trails query growth",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9657,
       "currencies": []
     }
   ],
