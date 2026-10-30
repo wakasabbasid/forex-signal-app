@@ -1,26 +1,54 @@
 {
   "run_id": 1,
   "pairs": {
-    "EUR/USD": [
+    "USD/JPY": [
       {
-        "title": "EUR/USD - CME Group",
+        "title": "India's Forex Reserves Drop By USD 1.27 Bn To USD 719.75 Bn - ETV Bharat",
         "source": "Google News",
+        "label": "bearish",
+        "score": -0.9729
+      },
+      {
+        "title": "BJs Wholesale Club stock hits 52-week high at 108.0 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.7813
+      },
+      {
+        "title": "Morningstar stock reaches 52-week high at 226.4 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.5904
+      },
+      {
+        "title": "Chevron stock hits all-time high at 234.39 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.6114
+      },
+      {
+        "title": "Motorola stock hits 52-week high at 495.0 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.5204
+      },
+      {
+        "title": "Mohawk Industries stock hits 52-week high at 140.39 USD",
+        "source": "Investing.com",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "USD/JPY": [
+        "title": "Marsh & McLennan stock hits 52-week high at 201.91 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.6542
+      },
       {
-        "title": "PBOC sets USD/ CNY reference rate for today at 6.7138 (vs. estimate at 6.6548)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
+        "title": "Oklo stock hits 52-week low at 25.04 USD",
+        "source": "Investing.com",
+        "label": "bearish",
+        "score": -0.9525
       }
     ]
   }

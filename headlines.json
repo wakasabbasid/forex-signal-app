@@ -8,38 +8,28 @@
       "currencies": []
     },
     {
-      "title": "Central Bank Currency Swaps Tracker - Council on Foreign Relations",
+      "title": "Moody\u2019s pushes Senegal\u2019s foreign-currency rating deeper into junk - CNBC Africa",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "EUR/USD - CME Group",
+      "title": "US Dollar Price Action Setups in Central Bank Week - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
+      "currencies": []
+    },
+    {
+      "title": "UBS raises zloty forecast as currency faces mounting pressure - Investing.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "PU Prime Puts Trader Education and LATAM Outlook in Focus at FX Expo Medell\u00edn 2026 - Yahoo Finance",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Asian currencies mixed as dollar retreats, yen steadies ahead of BOJ decision - Investing.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9137,
-      "currencies": []
-    },
-    {
-      "title": "Use of Forex Account Surpluses Proposed to Cover Fiscal Needs - JIJI PRESS",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -53,17 +43,41 @@
       "currencies": []
     },
     {
-      "title": "IMF Urges Currency Flexibility as RBI Mounts Rupee Defense - Bloomberg",
+      "title": "India's forex reserves drop by $1.27 billion to $719.75 billion - Deccan Herald",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.7613,
+      "label": "bearish",
+      "score": -0.969,
       "currencies": []
     },
     {
-      "title": "Japan's Advisory Council Private Members Urge Tapping Forex Special Account Surplus as Funding Source; Yen Weakness Expands Buffer - finance.biggo.com",
+      "title": "Use of Forex Account Surpluses Proposed to Cover Fiscal Needs - JIJI PRESS",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "India's Forex Reserves Drop By USD 1.27 Bn To USD 719.75 Bn - ETV Bharat",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9729,
+      "currencies": [
+        "USD",
+        "USD"
+      ]
+    },
+    {
+      "title": "Forex Today: BoJ keeps policy settings unchanged, Gold drops below $4,000 - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8876,
       "currencies": []
     },
     {
@@ -74,77 +88,70 @@
       "currencies": []
     },
     {
-      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
-      "source": "Google News",
+      "title": "European shares dip as Amazon, Intel stoke AI cash-burn fears",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7106,
+      "score": -0.9459,
       "currencies": []
     },
     {
-      "title": "EUR/USD outlook: Currency Pair of the Week | October 12, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "title": "Stanley Black & Decker stock hits 52-week high at $104.75",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7691,
+      "currencies": []
+    },
+    {
+      "title": "BJs Wholesale Club stock hits 52-week high at 108.0 USD",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7813,
       "currencies": [
-        "EUR",
         "USD"
       ]
     },
     {
-      "title": "Credit Agricole Q3 profit rises on investment banking strength",
+      "title": "Morningstar stock reaches 52-week high at 226.4 USD",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9245,
-      "currencies": []
+      "score": 0.5904,
+      "currencies": [
+        "USD"
+      ]
     },
     {
-      "title": "SCOR Q3 net income falls 5% despite stronger underwriting and investment returns",
+      "title": "Chevron stock hits all-time high at 234.39 USD",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9746,
-      "currencies": []
+      "label": "bullish",
+      "score": 0.6114,
+      "currencies": [
+        "USD"
+      ]
     },
     {
-      "title": "Selling the map, not the chips: How Gartner is cashing in on AI",
+      "title": "Motorola stock hits 52-week high at 495.0 USD",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
+      "label": "bullish",
+      "score": 0.5204,
+      "currencies": [
+        "USD"
+      ]
     },
     {
-      "title": "As the Nasdaq wobbles on capex, this Buffett strategy went 15-for-15",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Alphabet tumbles 12% on capex: Why Oracle is bucking the tech sell-off",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9461,
-      "currencies": []
-    },
-    {
-      "title": "Deutsche Bank upgrades Haleon stock rating on valuation reset",
+      "title": "Susquehanna cuts First Solar stock price target on lower guidance",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Australian grocer Coles slips as intense competition dents early second-quarter sales",
+      "title": "Mohawk Industries stock hits 52-week high at 140.39 USD",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.972,
-      "currencies": []
-    },
-    {
-      "title": "Asian currencies mixed as yen steadies after BOJ hold, dollar weakens",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.932,
-      "currencies": []
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD"
+      ]
     }
   ],
   "run_id": 1
