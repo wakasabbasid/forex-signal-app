@@ -3,12 +3,6 @@
   "pairs": {
     "EUR/USD": [
       {
-        "title": "EUR/USD - CME Group",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
         "title": "EUR/USD Forecast: FOREX Friday | October 30, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
@@ -17,16 +11,10 @@
     ],
     "USD/JPY": [
       {
-        "title": "Assurant Inc stock hits 52-week low at 16.5 USD",
-        "source": "Investing.com",
+        "title": "India's forex reserves fall USD 1.27 bn to USD 719. 75 bn in week ended October 23: RBI - ANI News",
+        "source": "Google News",
         "label": "bearish",
-        "score": -0.9579
-      },
-      {
-        "title": "Lemonade stock hits 52-week low at 42.65 USD",
-        "source": "Investing.com",
-        "label": "bearish",
-        "score": -0.9535
+        "score": -0.9379
       }
     ]
   }
