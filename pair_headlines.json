@@ -15,12 +15,12 @@
         "score": 0.0
       }
     ],
-    "AUD/USD": [
+    "USD/JPY": [
       {
-        "title": "ING lifts AUD/USD target to 0.71 as it backs a 25bp RBA hike next week",
+        "title": "PBOC sets USD/ CNY reference rate for today at 6.7138 (vs. estimate at 6.6548)",
         "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.9176
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }

@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "Private-sector council proposes use of forex surplus to cover fiscal measures - The Japan Times",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Central Bank Currency Swaps Tracker - Council on Foreign Relations",
       "source": "Google News",
       "label": "neutral",
@@ -18,7 +25,21 @@
       ]
     },
     {
-      "title": "Japan's Advisory Council Private Members Urge Tapping Forex Special Account Surplus as Funding Source; Yen Weakness Expands Buffer - finance.biggo.com",
+      "title": "PU Prime Puts Trader Education and LATAM Outlook in Focus at FX Expo Medell\u00edn 2026 - Yahoo Finance",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Asian currencies mixed as dollar retreats, yen steadies ahead of BOJ decision - Investing.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9137,
+      "currencies": []
+    },
+    {
+      "title": "Use of Forex Account Surpluses Proposed to Cover Fiscal Needs - JIJI PRESS",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -32,24 +53,24 @@
       "currencies": []
     },
     {
-      "title": "Dollar dips and euro rises after Fed, ECB rate decisions; pound extends gains - Investing.com",
+      "title": "IMF Urges Currency Flexibility as RBI Mounts Rupee Defense - Bloomberg",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7613,
+      "currencies": []
+    },
+    {
+      "title": "Japan's Advisory Council Private Members Urge Tapping Forex Special Account Surplus as Funding Source; Yen Weakness Expands Buffer - finance.biggo.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Pound Slips vs Dollar Ahead of Key US Data Releases - TradingPedia",
+      "title": "Hackers demand $50 million from Japan's GMO Internet after forex trading breach - Quartz",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.8769,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: Major pairs fail to break out after Fed, eyes on ECB and key US data - FXStreet",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8025,
+      "score": -0.9496,
       "currencies": []
     },
     {
@@ -57,13 +78,6 @@
       "source": "Google News",
       "label": "bearish",
       "score": -0.7106,
-      "currencies": []
-    },
-    {
-      "title": "IMF Urges Currency Flexibility as RBI Mounts Rupee Defense - Bloomberg.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -77,73 +91,59 @@
       ]
     },
     {
-      "title": "FOREX-Currency markets subdued ahead of busy central bank week - Devdiscourse",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7801,
-      "currencies": []
-    },
-    {
-      "title": "BB consolidates forex rules, allows importers to hedge commodity price risks - Bangladesh Sangbad Sangstha (BSS)",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Reddit puts logged in experience first as Google AI hits traffic",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Equities and bond yields dip with AI jitters and economic data in focus",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9332,
-      "currencies": []
-    },
-    {
-      "title": "Wall Street ends lower as Alphabet revenue miss revives AI\u00a0capex jitters",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9478,
-      "currencies": []
-    },
-    {
-      "title": "Binance halts withdrawals amid $5.3 bln crypto hack",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9472,
-      "currencies": []
-    },
-    {
-      "title": "Ares Capital director Mary Beth Henson buys $46,150 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Chinese EVs win over some in South Korea, but Japan is proving to be a rougher road",
+      "title": "Credit Agricole Q3 profit rises on investment banking strength",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5539,
+      "score": 0.9245,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: MicroStrategy Q3 2026 EPS beats as stock falls",
+      "title": "SCOR Q3 net income falls 5% despite stronger underwriting and investment returns",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9746,
+      "currencies": []
+    },
+    {
+      "title": "Selling the map, not the chips: How Gartner is cashing in on AI",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Samsara CEO Sanjit Biswas sells $11.3M in shares",
+      "title": "As the Nasdaq wobbles on capex, this Buffett strategy went 15-for-15",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Alphabet tumbles 12% on capex: Why Oracle is bucking the tech sell-off",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9461,
+      "currencies": []
+    },
+    {
+      "title": "Deutsche Bank upgrades Haleon stock rating on valuation reset",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Australian grocer Coles slips as intense competition dents early second-quarter sales",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.972,
+      "currencies": []
+    },
+    {
+      "title": "Asian currencies mixed as yen steadies after BOJ hold, dollar weakens",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.932,
       "currencies": []
     }
   ],
