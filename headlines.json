@@ -15,11 +15,31 @@
       "currencies": []
     },
     {
-      "title": "US Dollar Price Action Setups in Central Bank Week - FOREX.com",
+      "title": "Central Bank Currency Swaps Tracker - Council on Foreign Relations",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
+    },
+    {
+      "title": "EUR/USD - CME Group",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "EUR/USD Forecast: FOREX Friday | October 30, 2026 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
     },
     {
       "title": "UBS raises zloty forecast as currency faces mounting pressure - Investing.com",
@@ -43,10 +63,10 @@
       "currencies": []
     },
     {
-      "title": "India's forex reserves drop by $1.27 billion to $719.75 billion - Deccan Herald",
+      "title": "Forex Reserves Dip by $1.27 Billion, Experts Cite FCNR(B) Deployment & RBI Intervention - Rediff",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.969,
+      "score": -0.9676,
       "currencies": []
     },
     {
@@ -57,101 +77,78 @@
       "currencies": []
     },
     {
-      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "title": "IMF Urges Currency Flexibility as RBI Mounts Rupee Defense - Bloomberg",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.7613,
       "currencies": []
     },
     {
-      "title": "India's Forex Reserves Drop By USD 1.27 Bn To USD 719.75 Bn - ETV Bharat",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9729,
-      "currencies": [
-        "USD",
-        "USD"
-      ]
-    },
-    {
-      "title": "Forex Today: BoJ keeps policy settings unchanged, Gold drops below $4,000 - FXStreet",
+      "title": "India's forex reserves drop by $1.27 billion to $719.75 billion - Deccan Herald",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.8876,
+      "score": -0.969,
       "currencies": []
     },
     {
-      "title": "Hackers demand $50 million from Japan's GMO Internet after forex trading breach - Quartz",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9496,
-      "currencies": []
-    },
-    {
-      "title": "European shares dip as Amazon, Intel stoke AI cash-burn fears",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9459,
-      "currencies": []
-    },
-    {
-      "title": "Stanley Black & Decker stock hits 52-week high at $104.75",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7691,
-      "currencies": []
-    },
-    {
-      "title": "BJs Wholesale Club stock hits 52-week high at 108.0 USD",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7813,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Morningstar stock reaches 52-week high at 226.4 USD",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5904,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Chevron stock hits all-time high at 234.39 USD",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6114,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Motorola stock hits 52-week high at 495.0 USD",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5204,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Susquehanna cuts First Solar stock price target on lower guidance",
+      "title": "Dover raises tender offer cap to $300 million for note purchase",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Mohawk Industries stock hits 52-week high at 140.39 USD",
+      "title": "Assurant Inc stock hits 52-week low at 16.5 USD",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9579,
       "currencies": [
         "USD"
       ]
+    },
+    {
+      "title": "US orders non-emergency staff to leave Saudi Arabia over security risks",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9286,
+      "currencies": []
+    },
+    {
+      "title": "Colombia central bank holds rate, will shore up reserves with $2 billion",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8722,
+      "currencies": []
+    },
+    {
+      "title": "Bank of America sued over mandatory arbitration for employee disputes",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8738,
+      "currencies": []
+    },
+    {
+      "title": "Lemonade stock hits 52-week low at 42.65 USD",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9535,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "UniFirst raises quarterly dividend to $0.375 per share",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5707,
+      "currencies": []
+    },
+    {
+      "title": "Beacon Financial director Nina Charnley buys $10,699 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     }
   ],
   "run_id": 1

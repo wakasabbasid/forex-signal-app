@@ -1,54 +1,32 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/JPY": [
+    "EUR/USD": [
       {
-        "title": "India's Forex Reserves Drop By USD 1.27 Bn To USD 719.75 Bn - ETV Bharat",
+        "title": "EUR/USD - CME Group",
         "source": "Google News",
-        "label": "bearish",
-        "score": -0.9729
-      },
-      {
-        "title": "BJs Wholesale Club stock hits 52-week high at 108.0 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.7813
-      },
-      {
-        "title": "Morningstar stock reaches 52-week high at 226.4 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.5904
-      },
-      {
-        "title": "Chevron stock hits all-time high at 234.39 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.6114
-      },
-      {
-        "title": "Motorola stock hits 52-week high at 495.0 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.5204
-      },
-      {
-        "title": "Mohawk Industries stock hits 52-week high at 140.39 USD",
-        "source": "Investing.com",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "Marsh & McLennan stock hits 52-week high at 201.91 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.6542
-      },
+        "title": "EUR/USD Forecast: FOREX Friday | October 30, 2026 - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "USD/JPY": [
       {
-        "title": "Oklo stock hits 52-week low at 25.04 USD",
+        "title": "Assurant Inc stock hits 52-week low at 16.5 USD",
         "source": "Investing.com",
         "label": "bearish",
-        "score": -0.9525
+        "score": -0.9579
+      },
+      {
+        "title": "Lemonade stock hits 52-week low at 42.65 USD",
+        "source": "Investing.com",
+        "label": "bearish",
+        "score": -0.9535
       }
     ]
   }
