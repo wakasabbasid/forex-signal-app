@@ -1,19 +1,4 @@
 {
   "run_id": 1,
-  "pairs": {
-    "EUR/USD": [
-      {
-        "title": "EUR/USD - CME Group",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "EUR/USD Analysis: Euro Confidence Remains Limited After the ECB - FOREX.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9309
-      }
-    ]
-  }
+  "pairs": {}
 }
