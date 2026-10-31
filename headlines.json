@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "Central Bank Currency Swaps Tracker - Council on Foreign Relations",
+      "title": "Private-sector council proposes use of forex surplus to cover fiscal measures - The Japan Times",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -18,14 +18,7 @@
       ]
     },
     {
-      "title": "Private-sector council proposes use of forex surplus to cover fiscal measures - The Japan Times",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Moody\u2019s pushes Senegal\u2019s foreign-currency rating deeper into junk - CNBC Africa",
+      "title": "Central Bank Currency Swaps Tracker - Council on Foreign Relations",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -39,10 +32,17 @@
       "currencies": []
     },
     {
-      "title": "IMF Urges Currency Flexibility as RBI Mounts Rupee Defense - Bloomberg",
+      "title": "Moody\u2019s pushes Senegal\u2019s foreign-currency rating deeper into junk - CNBC Africa",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.7613,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "IMF Urges Currency Flexibility as RBI Mounts Rupee Defense - Bloomberg.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -53,17 +53,17 @@
       "currencies": []
     },
     {
-      "title": "SNB reports nine-month profit on foreign currencies and gold - Yahoo Finance Singapore",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6788,
-      "currencies": []
-    },
-    {
       "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
       "source": "Google News",
       "label": "bearish",
       "score": -0.7106,
+      "currencies": []
+    },
+    {
+      "title": "SNB reports nine-month profit on foreign currencies and gold - Yahoo Finance Singapore",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6788,
       "currencies": []
     },
     {
@@ -91,59 +91,59 @@
       "currencies": []
     },
     {
-      "title": "GS flags interest rates and AI disruption as risks to long-term equity demand",
+      "title": "Bitcoin rises as Binance says it has covered 90% of $6.3 billion hack",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8548,
+      "currencies": []
+    },
+    {
+      "title": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "NTPC Q2 FY27 slides show capacity growth, profit gains",
+      "title": "Isolated clashes in France, as tensions erupt after peaceful marches",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7811,
+      "label": "bearish",
+      "score": -0.8114,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: NTPC posts strong Q2 2026 growth as stock rises",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9505,
-      "currencies": []
-    },
-    {
-      "title": "Bank of Marin Bancorp director Anderson buys $1,137 in shares",
+      "title": "Meta builds humanoid robot with China\u2019s Fourier as home robot push expands: report",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "France braces for fresh unrest, government vows tough response",
+      "title": "Binance says it has replaced 90% of $6.3 billion stolen in record crypto hack",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.584,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Bitcoin holds above $77,000 as FBI joins hunt for $6.3 billion Binance hackers",
+      "title": "OPEC+ set to keep production targets unchanged in December, source says",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Reliance Q2 FY27 slides: record EBITDA on O2C surge, Jio IPO milestone",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5137,
+      "score": 0.9158,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Organizaci\u00f3n Soriana posts weak Q3 2026 sales",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9731,
-      "currencies": []
-    },
-    {
-      "title": "Clean Science Q2 FY2027 slides: revenue hits record, HALS doubles",
+      "title": "Earnings call transcript: Reliance posts Q2 2026 beat as energy drives record profit",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9028,
+      "score": 0.9078,
       "currencies": []
     }
   ],
