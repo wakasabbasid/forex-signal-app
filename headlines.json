@@ -1,14 +1,31 @@
 {
   "headlines": [
     {
-      "title": "Private-sector council proposes use of forex surplus to cover fiscal measures - The Japan Times",
+      "title": "Central Bank Currency Swaps Tracker - Council on Foreign Relations",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
+      "title": "EUR/USD - CME Group",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
       "title": "Moody\u2019s pushes Senegal\u2019s foreign-currency rating deeper into junk - CNBC Africa",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Private-sector council proposes use of forex surplus to cover fiscal measures - The Japan Times",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -22,14 +39,25 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD Forecast: FOREX Friday | October 30, 2026 - FOREX.com",
+      "title": "IMF Urges Currency Flexibility as RBI Mounts Rupee Defense - Bloomberg",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7613,
+      "currencies": []
+    },
+    {
+      "title": "US Dollar Price Action Setups in Central Bank Week - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
+      "currencies": []
+    },
+    {
+      "title": "SNB reports nine-month profit on foreign currencies and gold - Yahoo Finance Singapore",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6788,
+      "currencies": []
     },
     {
       "title": "UBS raises zloty forecast as currency faces mounting pressure - Investing.com",
@@ -39,17 +67,10 @@
       "currencies": []
     },
     {
-      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "PU Prime Puts Trader Education and LATAM Outlook in Focus at FX Expo Medell\u00edn 2026 - Yahoo Finance",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.7106,
       "currencies": []
     },
     {
@@ -60,87 +81,66 @@
       "currencies": []
     },
     {
-      "title": "Use of Forex Account Surpluses Proposed to Cover Fiscal Needs - JIJI PRESS",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Sunrise Market Commentary - Action Forex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "India's forex reserves drop by $1.27 billion to $719.75 billion - Deccan Herald",
+      "title": "EUR/USD Analysis: Euro Confidence Remains Limited After the ECB - FOREX.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.969,
-      "currencies": []
-    },
-    {
-      "title": "India's forex reserves fall USD 1.27 bn to USD 719. 75 bn in week ended October 23: RBI - ANI News",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9379,
+      "score": -0.9309,
       "currencies": [
-        "USD",
+        "EUR",
         "USD"
       ]
     },
     {
-      "title": "Coloured Ties Capital closes private placement for C$1.2M",
+      "title": "Dutch Bros director entity sells $11.7M in BROS shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "DM individual aggregator sells $882,120 of Dutch Bros shares",
+      "title": "Dutch Bros director, 10% owner sells $6.25 million in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Dutch Bros 10% owner sells $1.65M in shares",
+      "title": "Texas Instruments director Kirk sells $1.88M in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Dutch Bros executive chairman Travis Boersma sells $2.5 million in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "BillionToOne CEO Atay sells $1.3 million in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Colb director Steven Gardner sells $328,616 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "McDonald\u2019s must face lawsuit over\u00a0McRib, US judge rules",
+      "title": "Oil hits six-month highs as Hormuz attacks threaten Iran peace efforts",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6632,
+      "score": -0.6351,
       "currencies": []
     },
     {
-      "title": "PayPal pres. Frank Keller sells $40,530 in common stock",
+      "title": "Booz Allen Hamilton evp Shannon Buffum sells $174,504 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Littelfuse svp David Ruppel sells $604,023 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Booz Allen Hamilton EVP & general counsel sells $124,380 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "UMB Financial director Gallagher sells $49,883 in common stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

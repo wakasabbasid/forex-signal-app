@@ -3,18 +3,16 @@
   "pairs": {
     "EUR/USD": [
       {
-        "title": "EUR/USD Forecast: FOREX Friday | October 30, 2026 - FOREX.com",
+        "title": "EUR/USD - CME Group",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      }
-    ],
-    "USD/JPY": [
+      },
       {
-        "title": "India's forex reserves fall USD 1.27 bn to USD 719. 75 bn in week ended October 23: RBI - ANI News",
+        "title": "EUR/USD Analysis: Euro Confidence Remains Limited After the ECB - FOREX.com",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.9379
+        "score": -0.9309
       }
     ]
   }
