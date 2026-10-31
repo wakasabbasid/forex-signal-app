@@ -18,14 +18,14 @@
       ]
     },
     {
-      "title": "Moody\u2019s pushes Senegal\u2019s foreign-currency rating deeper into junk - CNBC Africa",
+      "title": "Private-sector council proposes use of forex surplus to cover fiscal measures - The Japan Times",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Private-sector council proposes use of forex surplus to cover fiscal measures - The Japan Times",
+      "title": "Moody\u2019s pushes Senegal\u2019s foreign-currency rating deeper into junk - CNBC Africa",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -60,13 +60,6 @@
       "currencies": []
     },
     {
-      "title": "UBS raises zloty forecast as currency faces mounting pressure - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
       "source": "Google News",
       "label": "bearish",
@@ -74,10 +67,10 @@
       "currencies": []
     },
     {
-      "title": "Forex Reserves Dip by $1.27 Billion, Experts Cite FCNR(B) Deployment & RBI Intervention - Rediff",
+      "title": "South Korea conducts rare forex intervention alongside Japan, source says - Reuters",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9676,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -91,59 +84,66 @@
       ]
     },
     {
-      "title": "Dutch Bros director entity sells $11.7M in BROS shares",
+      "title": "India's RBI has spent half of $140 billion FX capital haul in rupee defence, bankers estimate - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "GS flags interest rates and AI disruption as risks to long-term equity demand",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Dutch Bros director, 10% owner sells $6.25 million in shares",
+      "title": "NTPC Q2 FY27 slides show capacity growth, profit gains",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7811,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: NTPC posts strong Q2 2026 growth as stock rises",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9505,
+      "currencies": []
+    },
+    {
+      "title": "Bank of Marin Bancorp director Anderson buys $1,137 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Texas Instruments director Kirk sells $1.88M in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Oil hits six-month highs as Hormuz attacks threaten Iran peace efforts",
+      "title": "France braces for fresh unrest, government vows tough response",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6351,
+      "score": -0.584,
       "currencies": []
     },
     {
-      "title": "Booz Allen Hamilton evp Shannon Buffum sells $174,504 in stock",
+      "title": "Bitcoin holds above $77,000 as FBI joins hunt for $6.3 billion Binance hackers",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.5137,
       "currencies": []
     },
     {
-      "title": "Littelfuse svp David Ruppel sells $604,023 in company stock",
+      "title": "Earnings call transcript: Organizaci\u00f3n Soriana posts weak Q3 2026 sales",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9731,
       "currencies": []
     },
     {
-      "title": "Booz Allen Hamilton EVP & general counsel sells $124,380 in stock",
+      "title": "Clean Science Q2 FY2027 slides: revenue hits record, HALS doubles",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "UMB Financial director Gallagher sells $49,883 in common stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9028,
       "currencies": []
     }
   ],
