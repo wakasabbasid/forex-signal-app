@@ -1,4 +1,13 @@
 {
   "run_id": 1,
-  "pairs": {}
+  "pairs": {
+    "USD/JPY": [
+      {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.6625 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ]
+  }
 }
