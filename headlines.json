@@ -1,17 +1,48 @@
 {
   "headlines": [
     {
-      "title": "Japanese Yen - CME Group",
+      "title": "If gold breaks lower, investors may look at these safe haven currencies: analyst By Investing.com - Investing.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
+      "title": "Forex in 2027: Can traders still trust the macro playbook? - The Armchair Trader",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "China moves to facilitate current account forex transactions - China Daily",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "GBP/USD outlook: Currency Pair of the Week | November 2, 2026 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
       "title": "Private-sector council proposes use of forex surplus to cover fiscal measures - The Japan Times",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Central Bank Signals and Easing Safe-Haven Demand Shape Currency Markets - Forex Factory",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.4195,
       "currencies": []
     },
     {
@@ -22,122 +53,94 @@
       "currencies": []
     },
     {
-      "title": "Forex, Gold and Oil Outlook: FX Crosses May Have the Edge - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Asian currencies mixed as yuan holds near four-year high, dollar steadies - Investing.com",
+      "title": "Gold Loses Ground in Retail CFD Trading as Currency Pairs Gain - Finance Magnates",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.5498,
+      "score": -0.6795,
       "currencies": []
     },
     {
-      "title": "Central Bank Currency Swaps Tracker - Council on Foreign Relations",
+      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8977,
-      "currencies": []
-    },
-    {
-      "title": "IMF Urges Currency Flexibility as RBI Mounts Rupee Defense - Bloomberg.com",
+      "title": "Japan\u2019s Katayama says US-Japan FX statement \u2018alive\u2019, warns on disorderly yen moves - investingLive",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Rupee falls 21 paise to 94.97 against US dollar in early trade - The Economic Times",
+      "title": "November 2: Cedi sells at GHS12.25 on forex market, GHS11.63 on BoG interbank - Modern Ghana",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.8663,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Japan Pauses Forex Intervention as Yen Strengthens - WSJ",
+      "title": "Emerging markets - Asian forex slips ahead of inflation data, Korean stocks buck AI selloff - The Star",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.7106,
+      "score": -0.9324,
       "currencies": []
     },
     {
-      "title": "Euro FX - CME Group",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Asian forex slips ahead of inflation data; South Korean stocks buck AI sell-off - The Edge Malaysia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9195,
-      "currencies": []
-    },
-    {
-      "title": "BP completes $6 billion Castrol sale to Stonepeak Partners",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Phillip Securities upgrades Amazon stock rating on AWS strength",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: LIC Housing Finance posts mixed Q2 2026 results",
+      "title": "Binance clients pull $4.7 billion after hack as crypto world studies fallout",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8403,
+      "score": -0.8437,
       "currencies": []
     },
     {
-      "title": "Hang Seng tests SMA(50) resistance in bear flag: Live levels",
+      "title": "Stifel raises Marriott stock price target to $402 on earnings beat",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Bitcoin tests key support in descending channel: Live levels",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "POSCO Holdings Q3 2026 slides: steel recovery drives 48% profit surge",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8724,
-      "currencies": []
-    },
-    {
-      "title": "German retail sales falls unexpectedly in September",
+      "title": "Snap settles with two teens during trial testing claims social media caused depression, eating disorders",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9734,
+      "score": -0.7493,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: CDSL posts modest Q2 FY27 EPS beat as IPO boom lifts results",
+      "title": "Estee Lauder earnings analysis: questions answered and next catalysts",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9369,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Tower Semiconductor earnings analysis: questions answered and next catalysts",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Marriott earnings analysis: questions answered and next catalysts",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Fox Corp earnings analysis: questions answered and next catalysts",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Explainer-How US news organizations will make midterm race calls",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

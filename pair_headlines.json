@@ -1,4 +1,21 @@
 {
   "run_id": 1,
-  "pairs": {}
+  "pairs": {
+    "GBP/USD": [
+      {
+        "title": "GBP/USD outlook: Currency Pair of the Week | November 2, 2026 - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "USD/JPY": [
+      {
+        "title": "Morning Kickstart: Oil tumbles as Iran talks continue. USD mixed ahead of ISM",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.9393
+      }
+    ]
+  }
 }
