@@ -3,17 +3,10 @@
     {
       "id": 1,
       "engine": "finbert",
-      "headline_count": 34,
-      "source_count": 3,
-      "created_at": "2026-11-02T01:26:58.185072+00:00",
-      "signals": [
-        {
-          "pair": "USD/JPY",
-          "signal": "HOLD",
-          "avg_score": 0.0,
-          "headline_count": 1
-        }
-      ]
+      "headline_count": 45,
+      "source_count": 4,
+      "created_at": "2026-11-02T07:25:29.046125+00:00",
+      "signals": []
     }
   ]
 }
