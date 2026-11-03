@@ -8,17 +8,10 @@
       "currencies": []
     },
     {
-      "title": "Asian currencies mixed as Aussie falls after RBA hike, yuan weakens - Investing.com",
+      "title": "China\u2019s Central Bank Tweaks Forex Reserve Rules to Steady Yuan - WSJ",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9113,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: US Dollar edges lower as mood improves ahead of midterm elections - FXStreet",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9287,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -29,34 +22,6 @@
       "currencies": []
     },
     {
-      "title": "Forex in 2027: Can traders still trust the macro playbook? - The Armchair Trader",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "RBA\u2019s Split Rate Hike and US Midterm Uncertainty Shape Currency Markets - Forex Factory",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8184,
-      "currencies": []
-    },
-    {
-      "title": "China's central bank raises forex reserve requirement ratio to 6% amid yuan's gains; move could help curb excessive market swing: expert - Global Times",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9047,
-      "currencies": []
-    },
-    {
-      "title": "China\u2019s Central Bank Tweaks Forex Reserve Rules to Steady Yuan - WSJ",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "China to raise FX RRR to slow pace of yuan gains - Yahoo Finance",
       "source": "Google News",
       "label": "neutral",
@@ -64,17 +29,10 @@
       "currencies": []
     },
     {
-      "title": "China to Raise Forex Deposit Reserve Requirement to Curb Yuan\u2019s Rally - Caixin Global",
+      "title": "Japanese Yen - CME Group",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.5653,
-      "currencies": []
-    },
-    {
-      "title": "Update: China's central bank to raise forex reserve requirement ratio to keep yuan stable - Xinhua",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8812,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -88,61 +46,104 @@
       ]
     },
     {
-      "title": "New Mountain Finance Q3 2026 slides: dividend covered as NAV slips 2%",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9605,
-      "currencies": []
-    },
-    {
-      "title": "Investors brace for Southwest Gas earnings amid estimate weakness",
-      "source": "Investing.com",
+      "title": "China's central bank raises forex reserve requirement ratio to 6% amid yuan's gains; move could help curb excessive market swing: expert - Global Times",
+      "source": "Google News",
       "label": "bullish",
-      "score": 0.4883,
+      "score": 0.9047,
       "currencies": []
     },
     {
-      "title": "ADM beats quarterly estimates, lifts annual profit forecast on stronger processing margins",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9337,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Core Molding Technologies Q3 2026 revenue beats, EPS misses",
-      "source": "Investing.com",
+      "title": "RBI eases forex rules for small exporters and importers of services - India Tribune - Chicago",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Jackson Financial stock hits all-time high at 140.93 USD",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6111,
+      "title": "Dollar subdued as U.S. midterms get underway; Aussie Hits 2-week low - Investing.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9209,
+      "currencies": []
+    },
+    {
+      "title": "Private-sector council proposes use of forex surplus to cover fiscal measures - The Japan Times",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "AUD Weakens Versus NZD as RBA Hike Fails to Lift Currency - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9585,
       "currencies": [
-        "USD"
+        "AUD",
+        "NZD"
       ]
     },
     {
-      "title": "D-Wave Quantum shares may move 11% on Nov. 10 earnings",
+      "title": "Central Bank Currency Swaps Tracker - Council on Foreign Relations",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Intl Flavors earnings beat by $0.02, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9451,
+      "currencies": []
+    },
+    {
+      "title": "USANA Health Sciences earnings missed by $0.54, revenue fell short of estimates",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9711,
+      "currencies": []
+    },
+    {
+      "title": "EagleRock expands Midland Basin footprint with new dedication",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8828,
+      "currencies": []
+    },
+    {
+      "title": "Navigator Holdings declares $0.08 dividend, plans $22.6M buyback",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Citi expects \u2019continued memory undersupply\u2019 in 2027",
+      "title": "Redwood Trust plans conversion to C-corporation from REIT",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8962,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Champion Homes faces earnings test as margin questions linger",
+      "title": "Amdocs expands partnership with Globe for platform modernization",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9264,
+      "currencies": []
+    },
+    {
+      "title": "Jackson Financial declares $0.90 dividend, adds $1B buyback",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "AMD stock jumps after hours as quarterly results, revenue guidance beat estimates",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9428,
+      "score": -0.5666,
       "currencies": []
     }
   ],

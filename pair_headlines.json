@@ -9,12 +9,20 @@
         "score": 0.0
       }
     ],
-    "USD/JPY": [
+    "AUD/USD": [
       {
-        "title": "Jackson Financial stock hits all-time high at 140.93 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.6111
+        "title": "AUD Weakens Versus NZD as RBA Hike Fails to Lift Currency - TradingPedia",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9585
+      }
+    ],
+    "NZD/USD": [
+      {
+        "title": "AUD Weakens Versus NZD as RBA Hike Fails to Lift Currency - TradingPedia",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9585
       }
     ]
   }
