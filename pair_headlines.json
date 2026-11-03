@@ -1,20 +1,20 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/CAD": [
+    "GBP/USD": [
       {
-        "title": "USD/CHF Feels the Weight of US Midterms, USD/CAD Clings to Support - FOREX.com",
+        "title": "GBP/USD outlook: Currency Pair of the Week | November 2, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       }
     ],
-    "USD/CHF": [
+    "USD/JPY": [
       {
-        "title": "USD/CHF Feels the Weight of US Midterms, USD/CAD Clings to Support - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "title": "Jackson Financial stock hits all-time high at 140.93 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.6111
       }
     ]
   }

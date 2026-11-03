@@ -8,10 +8,17 @@
       "currencies": []
     },
     {
-      "title": "China to raise FX RRR to slow pace of yuan gains - Yahoo Finance",
+      "title": "Asian currencies mixed as Aussie falls after RBA hike, yuan weakens - Investing.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9113,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: US Dollar edges lower as mood improves ahead of midterm elections - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9287,
       "currencies": []
     },
     {
@@ -22,10 +29,17 @@
       "currencies": []
     },
     {
-      "title": "China\u2019s Central Bank Tweaks Forex Reserve Rules to Steady Yuan - WSJ",
+      "title": "Forex in 2027: Can traders still trust the macro playbook? - The Armchair Trader",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "RBA\u2019s Split Rate Hike and US Midterm Uncertainty Shape Currency Markets - Forex Factory",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8184,
       "currencies": []
     },
     {
@@ -36,113 +50,99 @@
       "currencies": []
     },
     {
-      "title": "Asian currencies mixed as yuan slides after PBOC move, won rebounds - Investing.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8673,
-      "currencies": []
-    },
-    {
-      "title": "Sterling Slides as Markets Brace for BoE, US Midterms - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8154,
-      "currencies": []
-    },
-    {
-      "title": "China moves to facilitate current account forex transactions - China Daily Global Edition",
+      "title": "China\u2019s Central Bank Tweaks Forex Reserve Rules to Steady Yuan - WSJ",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Forex Today: No signs of Dollar strength on US midterm election day - FXStreet",
+      "title": "China to raise FX RRR to slow pace of yuan gains - Yahoo Finance",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "China Raises Forex Reserve Requirement To Curb Yuan Gains - BusinessToday Malaysia",
+      "title": "China to Raise Forex Deposit Reserve Requirement to Curb Yuan\u2019s Rally - Caixin Global",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.6803,
+      "score": 0.5653,
       "currencies": []
     },
     {
-      "title": "USD/CHF Feels the Weight of US Midterms, USD/CAD Clings to Support - FOREX.com",
+      "title": "Update: China's central bank to raise forex reserve requirement ratio to keep yuan stable - Xinhua",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8812,
+      "currencies": []
+    },
+    {
+      "title": "GBP/USD outlook: Currency Pair of the Week | November 2, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": [
-        "USD",
-        "CHF",
-        "USD",
-        "CAD"
+        "GBP",
+        "USD"
       ]
     },
     {
-      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Asian currencies mixed as Aussie falls after RBA hike, yuan weakens",
+      "title": "New Mountain Finance Q3 2026 slides: dividend covered as NAV slips 2%",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9459,
+      "score": -0.9605,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Paradeep Phosphates Q2 2026 stock falls after slight revenue beat",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9701,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Akums Drugs posts strong Q2 FY 2027 revenue beat",
+      "title": "Investors brace for Southwest Gas earnings amid estimate weakness",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9527,
+      "score": 0.4883,
       "currencies": []
     },
     {
-      "title": "BNP Paribas Exane downgrades Medical Properties Trust stock rating on tenant concerns",
+      "title": "ADM beats quarterly estimates, lifts annual profit forecast on stronger processing margins",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8343,
+      "label": "bullish",
+      "score": 0.9337,
       "currencies": []
     },
     {
-      "title": "Autoliv completes acquisition of Italian seatbelt maker MCF",
+      "title": "Earnings call transcript: Core Molding Technologies Q3 2026 revenue beats, EPS misses",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Max Healthcare posts Q2 2026 growth, shares edge higher",
+      "title": "Jackson Financial stock hits all-time high at 140.93 USD",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9495,
-      "currencies": []
+      "score": 0.6111,
+      "currencies": [
+        "USD"
+      ]
     },
     {
-      "title": "After banking a +495% gain: A new list of AI picks for November is NOW LIVE",
+      "title": "D-Wave Quantum shares may move 11% on Nov. 10 earnings",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Petronet LNG posts Q2 2026 beat as profit hits record",
+      "title": "Citi expects \u2019continued memory undersupply\u2019 in 2027",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9188,
+      "label": "bearish",
+      "score": -0.8962,
+      "currencies": []
+    },
+    {
+      "title": "Champion Homes faces earnings test as margin questions linger",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9428,
       "currencies": []
     }
   ],
