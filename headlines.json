@@ -1,6 +1,55 @@
 {
   "headlines": [
     {
+      "title": "China to raise FX reserve requirement to slow yuan's rally - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "China to raise FX RRR to slow pace of yuan gains - Yahoo Finance",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "PBOC to raise banks\u2019 forex reserve requirements amid yuan appreciation pressure - South China Morning Post",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5358,
+      "currencies": []
+    },
+    {
+      "title": "China\u2019s Central Bank Tweaks Forex Reserve Rules to Steady Yuan - WSJ",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "China's central bank raises forex reserve requirement ratio to 6% amid yuan's gains; move could help curb excessive market swing: expert - Global Times",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9047,
+      "currencies": []
+    },
+    {
+      "title": "Asian currencies mixed as yuan slides after PBOC move, won rebounds - Investing.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8673,
+      "currencies": []
+    },
+    {
+      "title": "Sterling Slides as Markets Brace for BoE, US Midterms - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8154,
+      "currencies": []
+    },
+    {
       "title": "China moves to facilitate current account forex transactions - China Daily Global Edition",
       "source": "Google News",
       "label": "neutral",
@@ -8,10 +57,17 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar retreats as US elections and RBA loom - FXStreet",
+      "title": "Forex Today: No signs of Dollar strength on US midterm election day - FXStreet",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9651,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "China Raises Forex Reserve Requirement To Curb Yuan Gains - BusinessToday Malaysia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6803,
       "currencies": []
     },
     {
@@ -27,27 +83,6 @@
       ]
     },
     {
-      "title": "If gold breaks lower, investors may look at these safe haven currencies: analyst By Investing.com - Investing.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex in 2027: Can traders still trust the macro playbook? - The Armchair Trader",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Central Bank Signals and Easing Safe-Haven Demand Shape Currency Markets - Forex Factory",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.4195,
-      "currencies": []
-    },
-    {
       "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
       "source": "Google News",
       "label": "neutral",
@@ -55,94 +90,59 @@
       "currencies": []
     },
     {
-      "title": "Gold Loses Ground in Retail CFD Trading as Currency Pairs Gain - Finance Magnates",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6795,
-      "currencies": []
-    },
-    {
-      "title": "Emerging markets - Asian forex slips ahead of inflation data, Korean stocks buck AI selloff - The Star",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9324,
-      "currencies": []
-    },
-    {
-      "title": "November 2: Cedi sells at GHS12.25 on forex market, GHS11.63 on BoG interbank - Modern Ghana",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan\u2019s Katayama says US-Japan FX statement \u2018alive\u2019, warns on disorderly yen moves - investingLive",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Rupee falls 21 paise to 94.97 against U.S. dollar in early trade - The Hindu",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9151,
-      "currencies": []
-    },
-    {
-      "title": "Motorcar Parts of America at 50th annual automotive symposium: centric upside",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Disney eyes thousands of layoffs, managers asked to cut 20% in costs, Bloomberg News reports",
+      "title": "Asian currencies mixed as Aussie falls after RBA hike, yuan weakens",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9507,
+      "score": -0.9459,
       "currencies": []
     },
     {
-      "title": "Pitney Bowes president & CEO Kurt Wolf sells $3.33M in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Fortive VP Christopher Mulhall sells $1.7M in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Fortive SVP Peter Underwood sells $3.1 million in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Slb CEO Olivier Le Peuch sells $1.32M in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "S&P 500 ends down; Apple dips ahead of quarterly report",
+      "title": "Earnings call transcript: Paradeep Phosphates Q2 2026 stock falls after slight revenue beat",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9651,
+      "score": -0.9701,
       "currencies": []
     },
     {
-      "title": "Automakers back Trump administration\u2019s rollback of US fuel economy rules",
+      "title": "Earnings call transcript: Akums Drugs posts strong Q2 FY 2027 revenue beat",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7724,
+      "score": 0.9527,
+      "currencies": []
+    },
+    {
+      "title": "BNP Paribas Exane downgrades Medical Properties Trust stock rating on tenant concerns",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8343,
+      "currencies": []
+    },
+    {
+      "title": "Autoliv completes acquisition of Italian seatbelt maker MCF",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Max Healthcare posts Q2 2026 growth, shares edge higher",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9495,
+      "currencies": []
+    },
+    {
+      "title": "After banking a +495% gain: A new list of AI picks for November is NOW LIVE",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Petronet LNG posts Q2 2026 beat as profit hits record",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9188,
       "currencies": []
     }
   ],
