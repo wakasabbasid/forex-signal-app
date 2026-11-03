@@ -1,6 +1,32 @@
 {
   "headlines": [
     {
+      "title": "China moves to facilitate current account forex transactions - China Daily Global Edition",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: US Dollar retreats as US elections and RBA loom - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9651,
+      "currencies": []
+    },
+    {
+      "title": "USD/CHF Feels the Weight of US Midterms, USD/CAD Clings to Support - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "CHF",
+        "USD",
+        "CAD"
+      ]
+    },
+    {
       "title": "If gold breaks lower, investors may look at these safe haven currencies: analyst By Investing.com - Investing.com",
       "source": "Google News",
       "label": "neutral",
@@ -15,30 +41,6 @@
       "currencies": []
     },
     {
-      "title": "China moves to facilitate current account forex transactions - China Daily",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "GBP/USD outlook: Currency Pair of the Week | November 2, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "Private-sector council proposes use of forex surplus to cover fiscal measures - The Japan Times",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Central Bank Signals and Easing Safe-Haven Demand Shape Currency Markets - Forex Factory",
       "source": "Google News",
       "label": "bearish",
@@ -46,10 +48,10 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar edges lower as mood improves ahead of midterm elections - FXStreet",
+      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9287,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -60,7 +62,14 @@
       "currencies": []
     },
     {
-      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "title": "Emerging markets - Asian forex slips ahead of inflation data, Korean stocks buck AI selloff - The Star",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9324,
+      "currencies": []
+    },
+    {
+      "title": "November 2: Cedi sells at GHS12.25 on forex market, GHS11.63 on BoG interbank - Modern Ghana",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -74,73 +83,66 @@
       "currencies": []
     },
     {
-      "title": "November 2: Cedi sells at GHS12.25 on forex market, GHS11.63 on BoG interbank - Modern Ghana",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Emerging markets - Asian forex slips ahead of inflation data, Korean stocks buck AI selloff - The Star",
+      "title": "Rupee falls 21 paise to 94.97 against U.S. dollar in early trade - The Hindu",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9324,
+      "score": -0.9151,
       "currencies": []
     },
     {
-      "title": "Binance clients pull $4.7 billion after hack as crypto world studies fallout",
+      "title": "Motorcar Parts of America at 50th annual automotive symposium: centric upside",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Disney eyes thousands of layoffs, managers asked to cut 20% in costs, Bloomberg News reports",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8437,
+      "score": -0.9507,
       "currencies": []
     },
     {
-      "title": "Stifel raises Marriott stock price target to $402 on earnings beat",
+      "title": "Pitney Bowes president & CEO Kurt Wolf sells $3.33M in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Snap settles with two teens during trial testing claims social media caused depression, eating disorders",
+      "title": "Fortive VP Christopher Mulhall sells $1.7M in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Fortive SVP Peter Underwood sells $3.1 million in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Slb CEO Olivier Le Peuch sells $1.32M in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "S&P 500 ends down; Apple dips ahead of quarterly report",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7493,
+      "score": -0.9651,
       "currencies": []
     },
     {
-      "title": "Estee Lauder earnings analysis: questions answered and next catalysts",
+      "title": "Automakers back Trump administration\u2019s rollback of US fuel economy rules",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Tower Semiconductor earnings analysis: questions answered and next catalysts",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Marriott earnings analysis: questions answered and next catalysts",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Fox Corp earnings analysis: questions answered and next catalysts",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Explainer-How US news organizations will make midterm race calls",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.7724,
       "currencies": []
     }
   ],

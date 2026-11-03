@@ -1,9 +1,17 @@
 {
   "run_id": 1,
   "pairs": {
-    "GBP/USD": [
+    "USD/CAD": [
       {
-        "title": "GBP/USD outlook: Currency Pair of the Week | November 2, 2026 - FOREX.com",
+        "title": "USD/CHF Feels the Weight of US Midterms, USD/CAD Clings to Support - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "USD/CHF": [
+      {
+        "title": "USD/CHF Feels the Weight of US Midterms, USD/CAD Clings to Support - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
@@ -11,10 +19,10 @@
     ],
     "USD/JPY": [
       {
-        "title": "Morning Kickstart: Oil tumbles as Iran talks continue. USD mixed ahead of ISM",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.9393
+        "title": "BAI Capital Closing in on $800 Million for New USD Fund",
+        "source": "Bloomberg",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }
