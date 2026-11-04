@@ -22,20 +22,6 @@
       "currencies": []
     },
     {
-      "title": "China to raise FX RRR to slow pace of yuan gains - Yahoo Finance",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japanese Yen - CME Group",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "GBP/USD outlook: Currency Pair of the Week | November 2, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -46,10 +32,10 @@
       ]
     },
     {
-      "title": "China's central bank raises forex reserve requirement ratio to 6% amid yuan's gains; move could help curb excessive market swing: expert - Global Times",
+      "title": "China to raise FX RRR to slow pace of yuan gains - Yahoo Finance",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.9047,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -67,10 +53,10 @@
       "currencies": []
     },
     {
-      "title": "Private-sector council proposes use of forex surplus to cover fiscal measures - The Japan Times",
+      "title": "China's central bank raises forex reserve requirement ratio to 6% amid yuan's gains; move could help curb excessive market swing: expert - Global Times",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9047,
       "currencies": []
     },
     {
@@ -84,66 +70,85 @@
       ]
     },
     {
-      "title": "Central Bank Currency Swaps Tracker - Council on Foreign Relations",
+      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Intl Flavors earnings beat by $0.02, revenue topped estimates",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9451,
+      "title": "China moves to facilitate current account forex transactions - China Daily Global Edition",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "USANA Health Sciences earnings missed by $0.54, revenue fell short of estimates",
+      "title": "Yen Weakness Fuels USD/JPY and EUR/JPY Breakouts Ahead of Midterms - StoneX",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8802,
+      "currencies": [
+        "USD",
+        "JPY",
+        "EUR",
+        "JPY"
+      ]
+    },
+    {
+      "title": "China\u2019s services growth slows to three-month low as confidence weakens",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9711,
+      "score": -0.9707,
       "currencies": []
     },
     {
-      "title": "EagleRock expands Midland Basin footprint with new dedication",
+      "title": "New Zealand jobless rate hits 11-year high in run-up to polls",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8828,
+      "score": 0.6653,
       "currencies": []
     },
     {
-      "title": "Navigator Holdings declares $0.08 dividend, plans $22.6M buyback",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Redwood Trust plans conversion to C-corporation from REIT",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Amdocs expands partnership with Globe for platform modernization",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9264,
-      "currencies": []
-    },
-    {
-      "title": "Jackson Financial declares $0.90 dividend, adds $1B buyback",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "AMD stock jumps after hours as quarterly results, revenue guidance beat estimates",
+      "title": "Dollar dips with US midterm results in focus",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5666,
+      "score": -0.8349,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Equinox Resources Q1 2026 cash flow jumps, shares rise",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5731,
+      "currencies": []
+    },
+    {
+      "title": "Roku vp, cao Matthew Banks sells $86,906 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Rocket Lab director Nina Armagno sells $576,646 in RKLB stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Rocket Lab CFO Adam Spice sells $7.4M in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Investors poised for possible Democratic gains in Congress as US awaits election results",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
