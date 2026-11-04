@@ -8,7 +8,35 @@
       "currencies": []
     },
     {
+      "title": "Forex Currencies: live prices, changes, trading volume and daily charts - Yahoo Finance - Yahoo! Finance Canada",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "China\u2019s Central Bank Tweaks Forex Reserve Rules to Steady Yuan - WSJ",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Daily: The Blue Wave Throws a Wrench Into the Dollar\u2019s Upside - The Dark Side Of The Boom",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7404,
+      "currencies": []
+    },
+    {
+      "title": "What are Altcoins - The Top 10 Altcoins - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japanese Yen - CME Group",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -22,34 +50,24 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD outlook: Currency Pair of the Week | November 2, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "China to raise FX RRR to slow pace of yuan gains - Yahoo Finance",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "RBI eases forex rules for small exporters and importers of services - India Tribune - Chicago",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Dollar subdued as U.S. midterms get underway; Aussie Hits 2-week low - Investing.com",
+      "title": "China\u2019s yuan slides to two-week low as PBOC moves to slow its rally - investingLive",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9209,
+      "score": -0.9485,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: US Dollar under pressure as Democrats take control of Congress - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.4815,
+      "currencies": []
+    },
+    {
+      "title": "Private-sector council proposes use of forex surplus to cover fiscal measures - The Japan Times",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -60,92 +78,63 @@
       "currencies": []
     },
     {
-      "title": "AUD Weakens Versus NZD as RBA Hike Fails to Lift Currency - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9585,
-      "currencies": [
-        "AUD",
-        "NZD"
-      ]
-    },
-    {
-      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "title": "Central Bank Currency Swaps Tracker - Council on Foreign Relations",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "China moves to facilitate current account forex transactions - China Daily Global Edition",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Yen Weakness Fuels USD/JPY and EUR/JPY Breakouts Ahead of Midterms - StoneX",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8802,
-      "currencies": [
-        "USD",
-        "JPY",
-        "EUR",
-        "JPY"
-      ]
-    },
-    {
-      "title": "China\u2019s services growth slows to three-month low as confidence weakens",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9707,
-      "currencies": []
-    },
-    {
-      "title": "New Zealand jobless rate hits 11-year high in run-up to polls",
+      "title": "French services sector contracts in October at fastest pace since May, PMI shows",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6653,
+      "score": 0.8994,
       "currencies": []
     },
     {
-      "title": "Dollar dips with US midterm results in focus",
+      "title": "Why is Metropole Television (M6) stock surging today?",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8349,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Equinox Resources Q1 2026 cash flow jumps, shares rise",
+      "title": "Solstad Maritime Q3 2026 slides: record EBITDA, higher guidance",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5731,
+      "score": 0.9575,
       "currencies": []
     },
     {
-      "title": "Roku vp, cao Matthew Banks sells $86,906 in shares",
+      "title": "Rosenblatt reiterates Arista Networks stock rating on strong AI demand",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.7316,
       "currencies": []
     },
     {
-      "title": "Rocket Lab director Nina Armagno sells $576,646 in RKLB stock",
+      "title": "Goldman Sachs lowers Booking Holdings stock price target on demand headwinds",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9327,
       "currencies": []
     },
     {
-      "title": "Rocket Lab CFO Adam Spice sells $7.4M in company stock",
+      "title": "TD Cowen raises Block stock price target to $109 on strong Q3 beat",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.713,
       "currencies": []
     },
     {
-      "title": "Investors poised for possible Democratic gains in Congress as US awaits election results",
+      "title": "Advantech Q3 2026 slides: record revenue surge meets margin pressure",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6981,
+      "currencies": []
+    },
+    {
+      "title": "Why is Heidelberg Materials stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
