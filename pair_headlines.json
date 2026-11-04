@@ -8,14 +8,6 @@
         "label": "neutral",
         "score": 0.0
       }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/USD rebounds as midterm results put the dollar under pressure as markets reassess fiscal outlook",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.8637
-      }
     ]
   }
 }
