@@ -1,4 +1,21 @@
 {
   "run_id": 1,
-  "pairs": {}
+  "pairs": {
+    "GBP/USD": [
+      {
+        "title": "GBP/USD outlook: Currency Pair of the Week | November 2, 2026 - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "EUR/USD rebounds as midterm results put the dollar under pressure as markets reassess fiscal outlook",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.8637
+      }
+    ]
+  }
 }

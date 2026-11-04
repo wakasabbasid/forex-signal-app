@@ -8,13 +8,6 @@
       "currencies": []
     },
     {
-      "title": "Forex Currencies: live prices, changes, trading volume and daily charts - Yahoo Finance - Yahoo! Finance Canada",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "China\u2019s Central Bank Tweaks Forex Reserve Rules to Steady Yuan - WSJ",
       "source": "Google News",
       "label": "neutral",
@@ -22,21 +15,7 @@
       "currencies": []
     },
     {
-      "title": "Forex Daily: The Blue Wave Throws a Wrench Into the Dollar\u2019s Upside - The Dark Side Of The Boom",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7404,
-      "currencies": []
-    },
-    {
-      "title": "What are Altcoins - The Top 10 Altcoins - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japanese Yen - CME Group",
+      "title": "Sweden's Riksbank to finance part of forex reserve with foreign currency loans - marketscreener.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -47,6 +26,30 @@
       "source": "Google News",
       "label": "bullish",
       "score": 0.5358,
+      "currencies": []
+    },
+    {
+      "title": "GBP/USD outlook: Currency Pair of the Week | November 2, 2026 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
+      "title": "Forex Daily: The Blue Wave Throws a Wrench Into the Dollar\u2019s Upside - The Dark Side Of The Boom",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7404,
+      "currencies": []
+    },
+    {
+      "title": "China to raise FX RRR to slow pace of yuan gains - Yahoo Finance",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -64,13 +67,6 @@
       "currencies": []
     },
     {
-      "title": "Private-sector council proposes use of forex surplus to cover fiscal measures - The Japan Times",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "China's central bank raises forex reserve requirement ratio to 6% amid yuan's gains; move could help curb excessive market swing: expert - Global Times",
       "source": "Google News",
       "label": "bullish",
@@ -78,66 +74,73 @@
       "currencies": []
     },
     {
-      "title": "Central Bank Currency Swaps Tracker - Council on Foreign Relations",
+      "title": "Money changers can now open custodial forex accounts - The Daily Star",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "French services sector contracts in October at fastest pace since May, PMI shows",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8994,
-      "currencies": []
-    },
-    {
-      "title": "Why is Metropole Television (M6) stock surging today?",
-      "source": "Investing.com",
+      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Solstad Maritime Q3 2026 slides: record EBITDA, higher guidance",
+      "title": "MGIC Investment earnings on deck as mortgage rates test volumes",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9575,
+      "score": 0.8798,
       "currencies": []
     },
     {
-      "title": "Rosenblatt reiterates Arista Networks stock rating on strong AI demand",
+      "title": "Earnings call transcript: FTC Solar beats on eps in Q3 2026 as shares jump",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7316,
+      "score": 0.8228,
       "currencies": []
     },
     {
-      "title": "Goldman Sachs lowers Booking Holdings stock price target on demand headwinds",
+      "title": "Martin Marietta Q3 2026 slides: record revenue, LNA deal transforms portfolio",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6811,
+      "currencies": []
+    },
+    {
+      "title": "Rayonier earnings in focus as timber REIT seeks stabilization",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6206,
+      "currencies": []
+    },
+    {
+      "title": "Freshpet Q3 2026 slides: margin expansion drives raised guidance",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9505,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: CCU Q3 2026 sales jump 15.5% as stock rises 6.5%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9299,
+      "currencies": []
+    },
+    {
+      "title": "BioCryst Q3 2026 slides: HAE portfolio drives 70% profit jump",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9239,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Suncor beats Q3 2026 estimates, shares fall 4.4%",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9327,
-      "currencies": []
-    },
-    {
-      "title": "TD Cowen raises Block stock price target to $109 on strong Q3 beat",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.713,
-      "currencies": []
-    },
-    {
-      "title": "Advantech Q3 2026 slides: record revenue surge meets margin pressure",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6981,
-      "currencies": []
-    },
-    {
-      "title": "Why is Heidelberg Materials stock surging today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "score": -0.9734,
       "currencies": []
     }
   ],
