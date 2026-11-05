@@ -1,14 +1,14 @@
 {
   "headlines": [
     {
-      "title": "China\u2019s Central Bank Tweaks Forex Reserve Rules to Steady Yuan - WSJ",
+      "title": "China to raise FX reserve requirement to slow yuan's rally - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "China to raise FX reserve requirement to slow yuan's rally - Reuters",
+      "title": "China\u2019s Central Bank Tweaks Forex Reserve Rules to Steady Yuan - WSJ",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -39,7 +39,35 @@
       "currencies": []
     },
     {
+      "title": "FOREX-Dollar slides as US election drives oil and Treasury yields lower; sterling gains - Devdiscourse",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9336,
+      "currencies": []
+    },
+    {
+      "title": "China's central bank raises forex reserve requirement ratio to 6% amid yuan's gains; move could help curb excessive market swing: expert - Global Times",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9047,
+      "currencies": []
+    },
+    {
       "title": "Sweden's Riksbank to finance part of forex reserve with foreign currency loans - marketscreener.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "The Lira Just Hit A Record Low Near 50 Per Dollar. Here's What Exotic Forex Pairs Really Cost Traders In 2026 - Benzinga",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -53,20 +81,6 @@
       "currencies": []
     },
     {
-      "title": "The Lira Just Hit A Record Low Near 50 Per Dollar. Here's What Exotic Forex Pairs Really Cost Traders In 2026 - Benzinga",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "China's central bank raises forex reserve requirement ratio to 6% amid yuan's gains; move could help curb excessive market swing: expert - Global Times",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9047,
-      "currencies": []
-    },
-    {
       "title": "China\u2019s yuan slides to two-week low as PBOC moves to slow its rally - investingLive",
       "source": "Google News",
       "label": "bearish",
@@ -74,73 +88,59 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar under pressure as Democrats take control of Congress - FXStreet",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.4815,
-      "currencies": []
-    },
-    {
-      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is Paycom Software stock sliding today?",
+      "title": "Camurus third quarter revenue beats expectations on Buvidal gains",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9416,
+      "label": "bullish",
+      "score": 0.9439,
       "currencies": []
     },
     {
-      "title": "Why is Snap stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8911,
-      "currencies": []
-    },
-    {
-      "title": "Why is e.l.f. Beauty stock surging today?",
+      "title": "Why is Toyota Motor stock surging today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is HubSpot stock sliding today?",
+      "title": "Helios Towers raises 2027 tenancy outlook after Q3 beat",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9298,
+      "label": "bullish",
+      "score": 0.6572,
       "currencies": []
     },
     {
-      "title": "eHealth earnings missed by $0.45, revenue fell short of estimates",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9712,
-      "currencies": []
-    },
-    {
-      "title": "Enact Holdings earnings matched, revenue fell short of estimates",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9671,
-      "currencies": []
-    },
-    {
-      "title": "Why is Coty stock rallying today?",
+      "title": "SourceX Outlines Commercial Terms for Its AI Data Licensing Program",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Basswood Capital director sells $2.7 million of Dime Commercial stock",
+      "title": "Diageo beats estimates with first quarter revenue growth",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9085,
+      "currencies": []
+    },
+    {
+      "title": "Proto Labs CEO Krishna buys $52,140 of common stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Sweden\u2019s inflation slows more than forecast in October",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9412,
+      "currencies": []
+    },
+    {
+      "title": "US slaps sanctions on Indian, Turkish firms and people for aiding Iran",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9332,
       "currencies": []
     }
   ],
