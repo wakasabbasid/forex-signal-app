@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "China to raise FX reserve requirement to slow yuan's rally - Reuters",
+      "title": "AFRICA-FX-Ugandan and Nigerian currencies on front foot - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -32,17 +32,17 @@
       ]
     },
     {
-      "title": "China to raise FX RRR to slow pace of yuan gains - Yahoo Finance",
+      "title": "China to raise FX reserve requirement to slow yuan's rally - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "FOREX-Dollar slides as US election drives oil and Treasury yields lower; sterling gains - Devdiscourse",
+      "title": "China to raise FX RRR to slow pace of yuan gains - Yahoo Finance",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9336,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -53,25 +53,13 @@
       "currencies": []
     },
     {
-      "title": "Sweden's Riksbank to finance part of forex reserve with foreign currency loans - marketscreener.com",
+      "title": "Forex Today: Post-election USD weakness persists, focus shifts to BoE rate call - FXStreet",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "The Lira Just Hit A Record Low Near 50 Per Dollar. Here's What Exotic Forex Pairs Really Cost Traders In 2026 - Benzinga",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
+      "label": "bearish",
+      "score": -0.9093,
+      "currencies": [
+        "USD"
+      ]
     },
     {
       "title": "Forex Daily: The Blue Wave Throws a Wrench Into the Dollar\u2019s Upside - The Dark Side Of The Boom",
@@ -81,66 +69,80 @@
       "currencies": []
     },
     {
-      "title": "China\u2019s yuan slides to two-week low as PBOC moves to slow its rally - investingLive",
+      "title": "November 5: Cedi sells at GHS12.25 on forex market, GHS11.67 on BoG interbank - Modern Ghana",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Euro edges lower as oil prices rise - The Business Times",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9485,
+      "score": -0.8238,
       "currencies": []
     },
     {
-      "title": "Camurus third quarter revenue beats expectations on Buvidal gains",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9439,
-      "currencies": []
-    },
-    {
-      "title": "Why is Toyota Motor stock surging today?",
-      "source": "Investing.com",
+      "title": "Forex in 2027: Can traders still trust the macro playbook? - The Armchair Trader",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Helios Towers raises 2027 tenancy outlook after Q3 beat",
+      "title": "Buckle earnings beat by $0.01, revenue topped estimates",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6572,
+      "score": 0.9449,
       "currencies": []
     },
     {
-      "title": "SourceX Outlines Commercial Terms for Its AI Data Licensing Program",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Diageo beats estimates with first quarter revenue growth",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9085,
-      "currencies": []
-    },
-    {
-      "title": "Proto Labs CEO Krishna buys $52,140 of common stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Sweden\u2019s inflation slows more than forecast in October",
+      "title": "Google, Meta, TikTok sue to block California youth social media law",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9412,
+      "score": -0.547,
       "currencies": []
     },
     {
-      "title": "US slaps sanctions on Indian, Turkish firms and people for aiding Iran",
+      "title": "Wall St slumps as sharp tech losses put Nasdaq on course for correction",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9332,
+      "score": -0.9391,
+      "currencies": []
+    },
+    {
+      "title": "Chimera Investment earnings missed by $0.09, revenue fell short of estimates",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9708,
+      "currencies": []
+    },
+    {
+      "title": "Evergy earnings beat by $0.38, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9454,
+      "currencies": []
+    },
+    {
+      "title": "Why is Oracle stock tumbling today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7021,
+      "currencies": []
+    },
+    {
+      "title": "Truist downgrades Nike to Sell, says rally ignores ongoing risks",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8783,
+      "currencies": []
+    },
+    {
+      "title": "Shattuck Labs stock price target maintained at $18 by Raymond James",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

@@ -8,6 +8,14 @@
         "label": "neutral",
         "score": 0.0
       }
+    ],
+    "USD/JPY": [
+      {
+        "title": "Forex Today: Post-election USD weakness persists, focus shifts to BoE rate call - FXStreet",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9093
+      }
     ]
   }
 }
