@@ -1,14 +1,21 @@
 {
   "headlines": [
     {
-      "title": "AFRICA-FX-Ugandan and Nigerian currencies on front foot - Reuters",
+      "title": "China\u2019s Central Bank Tweaks Forex Reserve Rules to Steady Yuan - WSJ",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "China\u2019s Central Bank Tweaks Forex Reserve Rules to Steady Yuan - WSJ",
+      "title": "China to raise FX reserve requirement to slow yuan's rally - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Ugandan and Nigerian currencies on front foot - CNBC Africa",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -32,13 +39,6 @@
       ]
     },
     {
-      "title": "China to raise FX reserve requirement to slow yuan's rally - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "China to raise FX RRR to slow pace of yuan gains - Yahoo Finance",
       "source": "Google News",
       "label": "neutral",
@@ -53,13 +53,11 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: Post-election USD weakness persists, focus shifts to BoE rate call - FXStreet",
+      "title": "Update: China's central bank to raise forex reserve requirement ratio to keep yuan stable - Xinhua",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9093,
-      "currencies": [
-        "USD"
-      ]
+      "label": "bullish",
+      "score": 0.8812,
+      "currencies": []
     },
     {
       "title": "Forex Daily: The Blue Wave Throws a Wrench Into the Dollar\u2019s Upside - The Dark Side Of The Boom",
@@ -69,77 +67,82 @@
       "currencies": []
     },
     {
-      "title": "November 5: Cedi sells at GHS12.25 on forex market, GHS11.67 on BoG interbank - Modern Ghana",
+      "title": "NY Forex: EUR/JPY Nears Break Below 177 Yen as Nasdaq's 5% Plunge Accelerates Yen Buying - BigGo Finance",
       "source": "Google News",
+      "label": "bearish",
+      "score": -0.4971,
+      "currencies": [
+        "EUR",
+        "JPY"
+      ]
+    },
+    {
+      "title": "Forex Today: Post-election USD weakness persists, focus shifts to BoE rate call - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9093,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Dollar rises as fuel import costs strain forex market - www.daily-sun.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8515,
+      "currencies": []
+    },
+    {
+      "title": "Pangaea earnings beat by $0.22, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9477,
+      "currencies": []
+    },
+    {
+      "title": "Analysis-Japanese savers have rediscovered interest rates and banks are feeling it",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8358,
+      "currencies": []
+    },
+    {
+      "title": "Playboy earnings beat by $1.86, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9418,
+      "currencies": []
+    },
+    {
+      "title": "Dolphin Entertainment shareholders elect directors and approve auditor at annual meeting",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Euro edges lower as oil prices rise - The Business Times",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8238,
-      "currencies": []
-    },
-    {
-      "title": "Forex in 2027: Can traders still trust the macro playbook? - The Armchair Trader",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Buckle earnings beat by $0.01, revenue topped estimates",
+      "title": "Mattel shares tick up despite guidance missing estimates",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9449,
+      "score": 0.9097,
       "currencies": []
     },
     {
-      "title": "Google, Meta, TikTok sue to block California youth social media law",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.547,
-      "currencies": []
-    },
-    {
-      "title": "Wall St slumps as sharp tech losses put Nasdaq on course for correction",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9391,
-      "currencies": []
-    },
-    {
-      "title": "Chimera Investment earnings missed by $0.09, revenue fell short of estimates",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9708,
-      "currencies": []
-    },
-    {
-      "title": "Evergy earnings beat by $0.38, revenue topped estimates",
+      "title": "Ring Energy Inc earnings beat by $0.04, revenue topped estimates",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9454,
+      "score": 0.9396,
       "currencies": []
     },
     {
-      "title": "Why is Oracle stock tumbling today?",
+      "title": "Vaalco Energy earnings missed by $0.18, revenue topped estimates",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7021,
+      "score": -0.9716,
       "currencies": []
     },
     {
-      "title": "Truist downgrades Nike to Sell, says rally ignores ongoing risks",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8783,
-      "currencies": []
-    },
-    {
-      "title": "Shattuck Labs stock price target maintained at $18 by Raymond James",
+      "title": "XCF Global adds three directors following business combination",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
