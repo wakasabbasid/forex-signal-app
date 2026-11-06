@@ -15,17 +15,10 @@
       "currencies": []
     },
     {
-      "title": "Taiwan\u2019s Currency Weakens Past 33 Per US Dollar on AI Jitters - Bloomberg.com",
+      "title": "Taiwan forex reserves dip below US$600 billion amid intervention - Focus Taiwan",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9447,
-      "currencies": []
-    },
-    {
-      "title": "Ugandan and Nigerian currencies on front foot - CNBC Africa",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "score": -0.9665,
       "currencies": []
     },
     {
@@ -53,10 +46,17 @@
       "currencies": []
     },
     {
-      "title": "FOREX-Dollar holds, yen gains as equity rout saps risk appetite ahead of payrolls - Devdiscourse",
+      "title": "Swiss Franc Holds Firm as Politics Boost Haven Flows - TradingPedia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.676,
+      "currencies": []
+    },
+    {
+      "title": "FOREX-Dollar climbs on haven bid as AI rout grips Asian markets - Devdiscourse",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.8298,
+      "score": -0.5233,
       "currencies": []
     },
     {
@@ -74,6 +74,13 @@
       "currencies": []
     },
     {
+      "title": "Forex Today: US Dollar gathers recovery momentum ahead of critical employment data - Mitrade",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9067,
+      "currencies": []
+    },
+    {
       "title": "Update: China's central bank to raise forex reserve requirement ratio to keep yuan stable - Xinhua",
       "source": "Google News",
       "label": "bullish",
@@ -81,63 +88,56 @@
       "currencies": []
     },
     {
-      "title": "Earning a salary abroad? Here\u2019s how to bring more of your money home - Moneyweb",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Asia stocks tumble as AI rout batters Japan, S. Korea",
+      "title": "inTest earnings beat by $0.08, revenue topped estimates",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9568,
+      "label": "bullish",
+      "score": 0.9481,
       "currencies": []
     },
     {
-      "title": "Japan Q3 GDP growth seen slowing sharply as consumption, external demand drag: Reuters poll",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9526,
-      "currencies": []
-    },
-    {
-      "title": "Arhaus CEO John Reed sells $1.86 million in shares",
+      "title": "Mizuho raises Pulse Biosciences stock price target on trial progress",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Arhaus 10% owner 2018 Reed Dynasty Trust sells $1.62 million in shares",
+      "title": "Passage Bio shareholders approve merger with Remix Therapeutics and reverse stock split",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "PC Connection chairman Patricia Gallup sells $1.26M in trust shares",
+      "title": "Citi explains why the AI trade may remain under pressure",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Oil set for sharp weekly drop but Middle East supply concerns provide floor",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9468,
-      "currencies": []
-    },
-    {
-      "title": "Pale Fire Capital SE acquires $31.45m Coursera stock",
+      "title": "Exclusive-Apple\u2019s predictive text restrictions include \u2019Dictator Trump\u2019 and \u2019Sleepy Joe,\u2019 researcher finds",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Liberty Energy CEO Ron Gusek buys $377,335 in company stock",
+      "title": "Needham raises First Advantage stock price target on labor recovery",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "H.C. Wainwright resumes Palatin Technologies stock coverage with buy rating",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "K&F Growth Acquisition Corp. II extends business combination deadline after shareholder approval",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
