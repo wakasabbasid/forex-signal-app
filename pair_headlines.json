@@ -8,6 +8,32 @@
         "label": "neutral",
         "score": 0.0
       }
+    ],
+    "USD/JPY": [
+      {
+        "title": "India's Forex Reserves Drop By USD 2.69 Bn To USD 717 Bn - ETV Bharat",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9727
+      },
+      {
+        "title": "Stagwell Inc stock hits 52-week high at 11.36 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.5695
+      },
+      {
+        "title": "Vir Biotechnology stock hits 52-week high at 12.19 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.5697
+      },
+      {
+        "title": "USD moves higher after the US jobs report. What levels are in play now?",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      }
     ]
   }
 }

@@ -1,14 +1,7 @@
 {
   "headlines": [
     {
-      "title": "China\u2019s Central Bank Tweaks Forex Reserve Rules to Steady Yuan - WSJ",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "China to raise FX reserve requirement to slow yuan's rally - Reuters",
+      "title": "Forex market report: Currency movements and November risks - FXStreet",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -22,10 +15,17 @@
       "currencies": []
     },
     {
-      "title": "PBOC to raise banks\u2019 forex reserve requirements amid yuan appreciation pressure - SCMP",
+      "title": "AFRICA-FX-Ugandan and Nigerian currencies on front foot - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "PBOC to raise banks\u2019 forex reserve requirements amid yuan appreciation pressure - South China Morning Post",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5358,
       "currencies": []
     },
     {
@@ -46,18 +46,28 @@
       "currencies": []
     },
     {
-      "title": "Swiss Franc Holds Firm as Politics Boost Haven Flows - TradingPedia",
+      "title": "Forex Reserves Dip by $2.69 Billion to $717.06 Billion - Rediff",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.676,
+      "label": "bearish",
+      "score": -0.9657,
       "currencies": []
     },
     {
-      "title": "FOREX-Dollar climbs on haven bid as AI rout grips Asian markets - Devdiscourse",
+      "title": "India's forex reserves drop by $2.69 bn to $717 bn - The Hindu",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.5233,
+      "score": -0.9719,
       "currencies": []
+    },
+    {
+      "title": "India's Forex Reserves Drop By USD 2.69 Bn To USD 717 Bn - ETV Bharat",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9727,
+      "currencies": [
+        "USD",
+        "USD"
+      ]
     },
     {
       "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
@@ -74,73 +84,68 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar gathers recovery momentum ahead of critical employment data - Mitrade",
+      "title": "FOREX-Dollar climbs on haven bid as AI rout grips Asian markets - Devdiscourse",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.9067,
+      "label": "bearish",
+      "score": -0.5233,
       "currencies": []
     },
     {
-      "title": "Update: China's central bank to raise forex reserve requirement ratio to keep yuan stable - Xinhua",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8812,
-      "currencies": []
-    },
-    {
-      "title": "inTest earnings beat by $0.08, revenue topped estimates",
+      "title": "OpenAI will keep investing in data centers despite results of midterms - CFO",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9481,
+      "score": 0.5075,
       "currencies": []
     },
     {
-      "title": "Mizuho raises Pulse Biosciences stock price target on trial progress",
+      "title": "Investing.com\u2019s stocks of the week",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Passage Bio shareholders approve merger with Remix Therapeutics and reverse stock split",
+      "title": "US options markets hit record volume following Thursday\u2019s market rout",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9179,
+      "currencies": []
+    },
+    {
+      "title": "Walleye Capital to return $2 billion to clients after equity cuts - report",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8463,
+      "currencies": []
+    },
+    {
+      "title": "Stagwell Inc stock hits 52-week high at 11.36 USD",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5695,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Daly says Fed rate hike likely, despite \u2019painful\u2019 tech-stock dive",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.58,
+      "currencies": []
+    },
+    {
+      "title": "B. Riley revisits a best idea stock from BRS Conference after strong Q3 results",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Citi explains why the AI trade may remain under pressure",
+      "title": "Brazilian banks cut growth forecasts, raising fiscal stakes for Lula",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Exclusive-Apple\u2019s predictive text restrictions include \u2019Dictator Trump\u2019 and \u2019Sleepy Joe,\u2019 researcher finds",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Needham raises First Advantage stock price target on labor recovery",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "H.C. Wainwright resumes Palatin Technologies stock coverage with buy rating",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "K&F Growth Acquisition Corp. II extends business combination deadline after shareholder approval",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9699,
       "currencies": []
     }
   ],
