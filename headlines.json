@@ -15,6 +15,13 @@
       "currencies": []
     },
     {
+      "title": "Taiwan\u2019s Currency Weakens Past 33 Per US Dollar on AI Jitters - Bloomberg.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9447,
+      "currencies": []
+    },
+    {
       "title": "Ugandan and Nigerian currencies on front foot - CNBC Africa",
       "source": "Google News",
       "label": "neutral",
@@ -22,10 +29,10 @@
       "currencies": []
     },
     {
-      "title": "PBOC to raise banks\u2019 forex reserve requirements amid yuan appreciation pressure - South China Morning Post",
+      "title": "PBOC to raise banks\u2019 forex reserve requirements amid yuan appreciation pressure - SCMP",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.5358,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -46,6 +53,20 @@
       "currencies": []
     },
     {
+      "title": "FOREX-Dollar holds, yen gains as equity rout saps risk appetite ahead of payrolls - Devdiscourse",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8298,
+      "currencies": []
+    },
+    {
+      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "China's central bank raises forex reserve requirement ratio to 6% amid yuan's gains; move could help curb excessive market swing: expert - Global Times",
       "source": "Google News",
       "label": "bullish",
@@ -60,89 +81,63 @@
       "currencies": []
     },
     {
-      "title": "Forex Daily: The Blue Wave Throws a Wrench Into the Dollar\u2019s Upside - The Dark Side Of The Boom",
+      "title": "Earning a salary abroad? Here\u2019s how to bring more of your money home - Moneyweb",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.7404,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "NY Forex: EUR/JPY Nears Break Below 177 Yen as Nasdaq's 5% Plunge Accelerates Yen Buying - BigGo Finance",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.4971,
-      "currencies": [
-        "EUR",
-        "JPY"
-      ]
-    },
-    {
-      "title": "Forex Today: Post-election USD weakness persists, focus shifts to BoE rate call - FXStreet",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9093,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Dollar rises as fuel import costs strain forex market - www.daily-sun.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8515,
-      "currencies": []
-    },
-    {
-      "title": "Pangaea earnings beat by $0.22, revenue topped estimates",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9477,
-      "currencies": []
-    },
-    {
-      "title": "Analysis-Japanese savers have rediscovered interest rates and banks are feeling it",
+      "title": "Asia stocks tumble as AI rout batters Japan, S. Korea",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8358,
+      "score": -0.9568,
       "currencies": []
     },
     {
-      "title": "Playboy earnings beat by $1.86, revenue topped estimates",
+      "title": "Japan Q3 GDP growth seen slowing sharply as consumption, external demand drag: Reuters poll",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9418,
+      "label": "bearish",
+      "score": -0.9526,
       "currencies": []
     },
     {
-      "title": "Dolphin Entertainment shareholders elect directors and approve auditor at annual meeting",
+      "title": "Arhaus CEO John Reed sells $1.86 million in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Mattel shares tick up despite guidance missing estimates",
+      "title": "Arhaus 10% owner 2018 Reed Dynasty Trust sells $1.62 million in shares",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9097,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Ring Energy Inc earnings beat by $0.04, revenue topped estimates",
+      "title": "PC Connection chairman Patricia Gallup sells $1.26M in trust shares",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9396,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Vaalco Energy earnings missed by $0.18, revenue topped estimates",
+      "title": "Oil set for sharp weekly drop but Middle East supply concerns provide floor",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9716,
+      "score": -0.9468,
       "currencies": []
     },
     {
-      "title": "XCF Global adds three directors following business combination",
+      "title": "Pale Fire Capital SE acquires $31.45m Coursera stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Liberty Energy CEO Ron Gusek buys $377,335 in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

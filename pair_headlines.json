@@ -8,28 +8,6 @@
         "label": "neutral",
         "score": 0.0
       }
-    ],
-    "EUR/USD": [
-      {
-        "title": "NY Forex: EUR/JPY Nears Break Below 177 Yen as Nasdaq's 5% Plunge Accelerates Yen Buying - BigGo Finance",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.4971
-      }
-    ],
-    "USD/JPY": [
-      {
-        "title": "NY Forex: EUR/JPY Nears Break Below 177 Yen as Nasdaq's 5% Plunge Accelerates Yen Buying - BigGo Finance",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.4971
-      },
-      {
-        "title": "Forex Today: Post-election USD weakness persists, focus shifts to BoE rate call - FXStreet",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9093
-      }
     ]
   }
 }
