@@ -8,20 +8,6 @@
         "label": "neutral",
         "score": 0.0
       }
-    ],
-    "USD/JPY": [
-      {
-        "title": "US Dollar Bears Lose Their Grip Ahead of NFP, USD/JPY Vols Elevated - StoneX",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9313
-      },
-      {
-        "title": "India's Forex Reserves Drop By USD 2.69 Bn To USD 717 Bn - ETV Bharat",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9727
-      }
     ]
   }
 }

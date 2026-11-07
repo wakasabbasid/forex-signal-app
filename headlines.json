@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "China\u2019s Central Bank Tweaks Forex Reserve Rules to Steady Yuan - WSJ",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Forex market report: Currency movements and November risks - FXStreet",
       "source": "Google News",
       "label": "neutral",
@@ -8,10 +15,10 @@
       "currencies": []
     },
     {
-      "title": "Taiwan forex reserves dip below US$600 billion amid intervention - Focus Taiwan",
+      "title": "India's forex reserves dip by $2.69 billion: What's behind the decline? - The Times of India",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9665,
+      "score": -0.9649,
       "currencies": []
     },
     {
@@ -39,6 +46,13 @@
       "currencies": []
     },
     {
+      "title": "Taiwan forex reserves dip below US$600 billion amid intervention - Focus Taiwan",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9665,
+      "currencies": []
+    },
+    {
       "title": "China to raise FX RRR to slow pace of yuan gains - Yahoo Finance",
       "source": "Google News",
       "label": "neutral",
@@ -46,27 +60,10 @@
       "currencies": []
     },
     {
-      "title": "US Dollar Bears Lose Their Grip Ahead of NFP, USD/JPY Vols Elevated - StoneX",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9313,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
       "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Reserves Dip by $2.69 Billion to $717.06 Billion - Rediff",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9657,
       "currencies": []
     },
     {
@@ -77,73 +74,70 @@
       "currencies": []
     },
     {
-      "title": "India's forex reserves drop by $2.69 bn to $717 bn - The Hindu",
+      "title": "Forex Reserves Dip by $2.69 Billion to $717.06 Billion - Rediff",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.972,
+      "score": -0.9657,
       "currencies": []
     },
     {
-      "title": "India's Forex Reserves Drop By USD 2.69 Bn To USD 717 Bn - ETV Bharat",
+      "title": "Update: China's central bank to raise forex reserve requirement ratio to keep yuan stable - Xinhua",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9727,
-      "currencies": [
-        "USD",
-        "USD"
-      ]
-    },
-    {
-      "title": "IMF\u2019s Georgieva says any slowdown in AI-driven growth would be factor for central banks",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9272,
+      "label": "bullish",
+      "score": 0.8812,
       "currencies": []
     },
     {
-      "title": "Google executive Donald Harrison resigns from SpaceX board",
+      "title": "Trump administration drops California mail-in ballot lawsuit after midterms",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8219,
+      "score": -0.8428,
       "currencies": []
     },
     {
-      "title": "AN2 Therapeutics COO Eizen reports $11,925 in stock sale",
+      "title": "Schroders seeks $172 million sale of Singapore shopping mall - Bloomberg",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Mondelez CEO Dirk Van de Put sells $8.8M in stock",
+      "title": "As COP31 comes to Turkey, satellites reveal a landfill methane problem",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Mondelez CEO Dirk Van de Put sells $8.5M in stock",
+      "title": "Environmental groups embrace AI, even as they warn of data center impacts",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Procept BioRobotics chief strat/marketing officer sells $92,852 in stock",
+      "title": "AutoZone CFO Jamere Jackson sells $22.9M of company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Paraguay ex-president Pe\u00f1a placed under house arrest after impeachment",
+      "title": "Cvs Health evp Prem Shah buys $2 million in company stock",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7636,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "El Pollo Loco director Sardar Biglari sells $316,024 in stock",
+      "title": "Bridgewater Bancshares director Urness sells $404,218 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Amplitude CEO Spenser Skates\u2019 spouse sells $16,839 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
