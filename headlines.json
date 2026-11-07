@@ -1,17 +1,17 @@
 {
   "headlines": [
     {
-      "title": "AFRICA-FX-Ugandan and Nigerian currencies on front foot - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "PBOC to raise banks\u2019 forex reserve requirements amid yuan appreciation pressure - South China Morning Post",
       "source": "Google News",
       "label": "bullish",
       "score": 0.5358,
+      "currencies": []
+    },
+    {
+      "title": "AFRICA-FX-Ugandan and Nigerian currencies on front foot - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -25,21 +25,14 @@
       ]
     },
     {
-      "title": "Taiwan forex reserves dip below US$600 billion amid intervention - Focus Taiwan",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9665,
-      "currencies": []
-    },
-    {
-      "title": "Forex market report: Currency movements and November risks - FXStreet",
+      "title": "China to raise FX RRR to slow pace of yuan gains - Yahoo Finance",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "China to raise FX RRR to slow pace of yuan gains - Yahoo Finance",
+      "title": "Forex market report: Currency movements and November risks - FXStreet",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -53,14 +46,14 @@
       "currencies": []
     },
     {
-      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "title": "BOJ chief Ueda sees 'some upside risks' to inflation - Forex Factory",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.7049,
       "currencies": []
     },
     {
-      "title": "November 7: Cedi sells at GHS12.25 on forex market, GHS11.65 on BoG interbank - Modern Ghana",
+      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -74,14 +67,18 @@
       "currencies": []
     },
     {
-      "title": "US Dollar Bears Lose Their Grip Ahead of NFP, USD/JPY Vols Elevated - StoneX",
+      "title": "November 7: Cedi sells at GHS12.25 on forex market, GHS11.65 on BoG interbank - Modern Ghana",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9313,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Update: China's central bank to raise forex reserve requirement ratio to keep yuan stable - Xinhua",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8812,
+      "currencies": []
     },
     {
       "title": "Forex Reserves Dip by $2.69 Billion to $717.06 Billion - Rediff",
@@ -91,59 +88,59 @@
       "currencies": []
     },
     {
-      "title": "Berkshire Hathaway A earnings beat by $7.00, revenue topped estimates",
+      "title": "French presidential hopeful Melenchon\u00a0pledges economic stimulus, renews NATO exit call",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9312,
+      "score": 0.6372,
       "currencies": []
     },
     {
-      "title": "Berkshire Hathaway steps up buybacks as operating profit falls",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6319,
-      "currencies": []
-    },
-    {
-      "title": "Berkshire Hathaway accelerates stock buybacks, operating profit falls",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.4644,
-      "currencies": []
-    },
-    {
-      "title": "French presidential hopeful Melenchon pledges minimum wage rise, retirement at 60",
+      "title": "Umh director William Mitchell buys $19,578 of stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Poland\u2019s Domanski blames presidential vetoes as S&P cuts outlook to negative",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.964,
-      "currencies": []
-    },
-    {
-      "title": "Who is Paraguay\u2019s new president Pedro Alliana?",
+      "title": "Kirby CEO David Grzebinski sells $2.59 million in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "GATX svp Kevin Hillesland sells $355,801 in common stock",
+      "title": "Sierra Bancorp director Lynda Scearcy sells $337,604 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Tata Chemicals Q2 FY27 slides: revenue rises 8% as margins contract",
+      "title": "Binance CFO Kaiser Ng steps down, Justin Yek named new finance chief",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9507,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Clough Global Opportunities Fund director buys $1,996 in GLO shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Seaport offers preliminary thoughts on Anthropic stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Coca-Cola evp Perez sells $6.4 million in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
