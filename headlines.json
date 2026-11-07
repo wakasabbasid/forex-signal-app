@@ -1,31 +1,17 @@
 {
   "headlines": [
     {
-      "title": "China\u2019s Central Bank Tweaks Forex Reserve Rules to Steady Yuan - WSJ",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex market report: Currency movements and November risks - FXStreet",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "India's forex reserves dip by $2.69 billion: What's behind the decline? - The Times of India",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9649,
-      "currencies": []
-    },
-    {
       "title": "AFRICA-FX-Ugandan and Nigerian currencies on front foot - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "PBOC to raise banks\u2019 forex reserve requirements amid yuan appreciation pressure - South China Morning Post",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5358,
       "currencies": []
     },
     {
@@ -39,17 +25,17 @@
       ]
     },
     {
-      "title": "PBOC to raise banks\u2019 forex reserve requirements amid yuan appreciation pressure - South China Morning Post",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5358,
-      "currencies": []
-    },
-    {
       "title": "Taiwan forex reserves dip below US$600 billion amid intervention - Focus Taiwan",
       "source": "Google News",
       "label": "bearish",
       "score": -0.9665,
+      "currencies": []
+    },
+    {
+      "title": "Forex market report: Currency movements and November risks - FXStreet",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -60,7 +46,21 @@
       "currencies": []
     },
     {
+      "title": "India's forex reserves dip by $2.69 billion: What's behind the decline? - The Times of India",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9649,
+      "currencies": []
+    },
+    {
       "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "November 7: Cedi sells at GHS12.25 on forex market, GHS11.65 on BoG interbank - Modern Ghana",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -74,6 +74,16 @@
       "currencies": []
     },
     {
+      "title": "US Dollar Bears Lose Their Grip Ahead of NFP, USD/JPY Vols Elevated - StoneX",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9313,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
       "title": "Forex Reserves Dip by $2.69 Billion to $717.06 Billion - Rediff",
       "source": "Google News",
       "label": "bearish",
@@ -81,66 +91,59 @@
       "currencies": []
     },
     {
-      "title": "Update: China's central bank to raise forex reserve requirement ratio to keep yuan stable - Xinhua",
-      "source": "Google News",
+      "title": "Berkshire Hathaway A earnings beat by $7.00, revenue topped estimates",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8812,
+      "score": 0.9312,
       "currencies": []
     },
     {
-      "title": "Trump administration drops California mail-in ballot lawsuit after midterms",
+      "title": "Berkshire Hathaway steps up buybacks as operating profit falls",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6319,
+      "currencies": []
+    },
+    {
+      "title": "Berkshire Hathaway accelerates stock buybacks, operating profit falls",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.4644,
+      "currencies": []
+    },
+    {
+      "title": "French presidential hopeful Melenchon pledges minimum wage rise, retirement at 60",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Poland\u2019s Domanski blames presidential vetoes as S&P cuts outlook to negative",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8428,
+      "score": -0.964,
       "currencies": []
     },
     {
-      "title": "Schroders seeks $172 million sale of Singapore shopping mall - Bloomberg",
+      "title": "Who is Paraguay\u2019s new president Pedro Alliana?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "As COP31 comes to Turkey, satellites reveal a landfill methane problem",
+      "title": "GATX svp Kevin Hillesland sells $355,801 in common stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Environmental groups embrace AI, even as they warn of data center impacts",
+      "title": "Tata Chemicals Q2 FY27 slides: revenue rises 8% as margins contract",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "AutoZone CFO Jamere Jackson sells $22.9M of company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Cvs Health evp Prem Shah buys $2 million in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Bridgewater Bancshares director Urness sells $404,218 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Amplitude CEO Spenser Skates\u2019 spouse sells $16,839 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9507,
       "currencies": []
     }
   ],
