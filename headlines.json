@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "Forex Market \u2014 Live Currency Charts, News, Ideas - TradingView",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "PBOC to raise banks\u2019 forex reserve requirements amid yuan appreciation pressure - South China Morning Post",
       "source": "Google News",
       "label": "bullish",
@@ -39,24 +46,24 @@
       "currencies": []
     },
     {
-      "title": "India's forex reserves dip by $2.69 billion: What's behind the decline? - The Times of India",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9649,
-      "currencies": []
-    },
-    {
-      "title": "BOJ chief Ueda sees 'some upside risks' to inflation - Forex Factory",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7049,
-      "currencies": []
-    },
-    {
       "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Week Ahead: Fed's Focus on the \"Accumulation of Information\" Takes Thunder from CPI - Forex Factory",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "India's forex reserves dip by $2.69 billion: What's behind the decline? - The Times of India",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9649,
       "currencies": []
     },
     {
@@ -67,13 +74,6 @@
       "currencies": []
     },
     {
-      "title": "November 7: Cedi sells at GHS12.25 on forex market, GHS11.65 on BoG interbank - Modern Ghana",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Update: China's central bank to raise forex reserve requirement ratio to keep yuan stable - Xinhua",
       "source": "Google News",
       "label": "bullish",
@@ -81,66 +81,66 @@
       "currencies": []
     },
     {
-      "title": "Forex Reserves Dip by $2.69 Billion to $717.06 Billion - Rediff",
+      "title": "November 7: Cedi sells at GHS12.25 on forex market, GHS11.65 on BoG interbank - Modern Ghana",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9657,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "French presidential hopeful Melenchon\u00a0pledges economic stimulus, renews NATO exit call",
+      "title": "World Acceptance director Benjamin Robinson sells $14,878 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Dropbox chief accounting officer sells $74,884 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Emerging market central banks turn hawkish as inflation pressures mount, Citi says",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9013,
+      "currencies": []
+    },
+    {
+      "title": "US military says it disabled cargo vessel in Gulf of Oman",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9312,
+      "currencies": []
+    },
+    {
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9603,
+      "currencies": []
+    },
+    {
+      "title": "Equity positioning suffered one of its sharpest weekly drops on record: DB",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9736,
+      "currencies": []
+    },
+    {
+      "title": "CoreWeave seeks truce with Texas Governor-elect Hinojosa",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6372,
+      "score": 0.6161,
       "currencies": []
     },
     {
-      "title": "Umh director William Mitchell buys $19,578 of stock",
+      "title": "Trump cites progress in Iran talks as fresh explosions hit Qeshm Island",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Kirby CEO David Grzebinski sells $2.59 million in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Sierra Bancorp director Lynda Scearcy sells $337,604 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Binance CFO Kaiser Ng steps down, Justin Yek named new finance chief",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Clough Global Opportunities Fund director buys $1,996 in GLO shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Seaport offers preliminary thoughts on Anthropic stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Coca-Cola evp Perez sells $6.4 million in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.4731,
       "currencies": []
     }
   ],
