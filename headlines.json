@@ -1,18 +1,23 @@
 {
   "headlines": [
     {
-      "title": "Forex Market \u2014 Live Currency Charts, News, Ideas - TradingView",
+      "title": "Japan Bought Record 7.9 T. Yen in Forex Intervention July 30 - Nippon.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "PBOC to raise banks\u2019 forex reserve requirements amid yuan appreciation pressure - South China Morning Post",
+      "title": "USD/CHF Feels the Weight of US Midterms, USD/CAD Clings to Support - FOREX.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.5358,
-      "currencies": []
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "CHF",
+        "USD",
+        "CAD"
+      ]
     },
     {
       "title": "AFRICA-FX-Ugandan and Nigerian currencies on front foot - Reuters",
@@ -22,27 +27,10 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD outlook: Currency Pair of the Week | November 2, 2026 - FOREX.com",
+      "title": "Taiwan forex reserves dip below US$600 billion amid intervention - Focus Taiwan",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "China to raise FX RRR to slow pace of yuan gains - Yahoo Finance",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex market report: Currency movements and November risks - FXStreet",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9665,
       "currencies": []
     },
     {
@@ -53,10 +41,31 @@
       "currencies": []
     },
     {
-      "title": "Week Ahead: Fed's Focus on the \"Accumulation of Information\" Takes Thunder from CPI - Forex Factory",
+      "title": "FCNR(B) interest bill to keep dollar hedging costs high - The Economic Times",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Naira Weakens As Forex Market Dollar Supply Tightens - MarketForces Africa",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9473,
+      "currencies": []
+    },
+    {
+      "title": "Elev8 broker\u2019s Forex market report: currency movements and November risks - Forex Factory",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Reserves Dip by $2.69 Billion to $717.06 Billion - Rediff",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9657,
       "currencies": []
     },
     {
@@ -67,80 +76,73 @@
       "currencies": []
     },
     {
-      "title": "China's central bank raises forex reserve requirement ratio to 6% amid yuan's gains; move could help curb excessive market swing: expert - Global Times",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9047,
-      "currencies": []
-    },
-    {
-      "title": "Update: China's central bank to raise forex reserve requirement ratio to keep yuan stable - Xinhua",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8812,
-      "currencies": []
-    },
-    {
-      "title": "November 7: Cedi sells at GHS12.25 on forex market, GHS11.65 on BoG interbank - Modern Ghana",
+      "title": "Why the Dollar Is Gaining as Stocks and Oil Slide? - Daily Forex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "World Acceptance director Benjamin Robinson sells $14,878 in shares",
+      "title": "Dollar forecast: NFP provides dollar, already supported amid tech sell-off, additional boost - FOREX.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7663,
+      "currencies": []
+    },
+    {
+      "title": "Bathurst Q1 FY27 slides: EBITDA surges 80% as growth projects advance",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9535,
+      "currencies": []
+    },
+    {
+      "title": "US dollar holds onto payrolls gains, NZ dollar rises after election",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8588,
+      "currencies": []
+    },
+    {
+      "title": "Gold rebounds above $4,100 as traders await U.S. inflation data after jobs beat",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5009,
+      "currencies": []
+    },
+    {
+      "title": "Richardson Electronics director Kenneth Halverson sells $21,190 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Dropbox chief accounting officer sells $74,884 in stock",
+      "title": "OceanFirst Financial director Nicos Katsoulis buys $178,277 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Emerging market central banks turn hawkish as inflation pressures mount, Citi says",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9013,
-      "currencies": []
-    },
-    {
-      "title": "US military says it disabled cargo vessel in Gulf of Oman",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9312,
-      "currencies": []
-    },
-    {
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9603,
-      "currencies": []
-    },
-    {
-      "title": "Equity positioning suffered one of its sharpest weekly drops on record: DB",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9736,
-      "currencies": []
-    },
-    {
-      "title": "CoreWeave seeks truce with Texas Governor-elect Hinojosa",
+      "title": "Berkshire Hathaway speeds up stock buybacks, though profit falls",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6161,
+      "score": 0.7627,
       "currencies": []
     },
     {
-      "title": "Trump cites progress in Iran talks as fresh explosions hit Qeshm Island",
+      "title": "How a digital bank\u2019s collapse toppled Paraguay\u2019s president",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.4731,
+      "label": "bearish",
+      "score": -0.6851,
+      "currencies": []
+    },
+    {
+      "title": "National Australia Bank names Ian Saines as next chair",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
