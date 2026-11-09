@@ -1,10 +1,52 @@
 {
   "headlines": [
     {
-      "title": "Japan Bought Record 7.9 T. Yen in Forex Intervention July 30 - Nippon.com",
+      "title": "Forex Market \u2014 Live Currency Charts, News, Ideas - TradingView",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Exclusive-Chinese banks boost dollar deposit rates, sources say, as Beijing seeks to smooth yuan rally - Yahoo Finance",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8982,
+      "currencies": []
+    },
+    {
+      "title": "(Update) Japan Bought Record 7.9 T. Yen in Forex Intervention July 30 - Nippon.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: US Dollar retreats following NFP-inspired rally - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9546,
+      "currencies": []
+    },
+    {
+      "title": "Japan says three-day yen intervention lifted currency in summer - The Japan Times",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6832,
+      "currencies": []
+    },
+    {
+      "title": "Sterling Edges Up as Hawkish BoE Counters Strong US Data - TradingPedia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8987,
+      "currencies": []
+    },
+    {
+      "title": "Taiwan forex reserves dip below US$600 billion amid intervention - Focus Taiwan",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9665,
       "currencies": []
     },
     {
@@ -20,17 +62,10 @@
       ]
     },
     {
-      "title": "AFRICA-FX-Ugandan and Nigerian currencies on front foot - Reuters",
+      "title": "US dollar holds onto payrolls gains, NZ dollar rises after election By Reuters - Investing.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Taiwan forex reserves dip below US$600 billion amid intervention - Focus Taiwan",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9665,
+      "label": "bullish",
+      "score": 0.6534,
       "currencies": []
     },
     {
@@ -48,101 +83,66 @@
       "currencies": []
     },
     {
-      "title": "Naira Weakens As Forex Market Dollar Supply Tightens - MarketForces Africa",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9473,
-      "currencies": []
-    },
-    {
-      "title": "Elev8 broker\u2019s Forex market report: currency movements and November risks - Forex Factory",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Reserves Dip by $2.69 Billion to $717.06 Billion - Rediff",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9657,
-      "currencies": []
-    },
-    {
-      "title": "India's forex reserves dip by $2.69 billion: What's behind the decline? - The Times of India",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9649,
-      "currencies": []
-    },
-    {
-      "title": "Why the Dollar Is Gaining as Stocks and Oil Slide? - Daily Forex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Dollar forecast: NFP provides dollar, already supported amid tech sell-off, additional boost - FOREX.com",
+      "title": "US dollar holds onto payrolls gains, NZ dollar rises after election - Forex Factory",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.7663,
+      "score": 0.8484,
       "currencies": []
     },
     {
-      "title": "Bathurst Q1 FY27 slides: EBITDA surges 80% as growth projects advance",
+      "title": "Asia stocks roar back as Taiwan jumps 6%, Nvidia probe rattles AI trade",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9535,
+      "score": 0.8395,
       "currencies": []
     },
     {
-      "title": "US dollar holds onto payrolls gains, NZ dollar rises after election",
+      "title": "Netscout director Michael Szabados sells $150,800 in common stock",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8588,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Gold rebounds above $4,100 as traders await U.S. inflation data after jobs beat",
+      "title": "Squadron Capital, Orthopediatrics director, sells $943,302 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Mueller Water Products VP Feyerherm sells $75,000 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Endeavor Blockchain buys $7,936 in big digital energy shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Nvidia\u2019s shares slide after-hours as tech giant probes CEO Jensen Huang",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5009,
+      "score": -0.9502,
       "currencies": []
     },
     {
-      "title": "Richardson Electronics director Kenneth Halverson sells $21,190 in stock",
+      "title": "Berenberg upgrades Auto Trader stock rating to buy on dealer recovery",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "OceanFirst Financial director Nicos Katsoulis buys $178,277 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Berkshire Hathaway speeds up stock buybacks, though profit falls",
+      "title": "Airbus kicks off \u20ac5 bln buyback with first \u20ac800 mln tranche",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7627,
-      "currencies": []
-    },
-    {
-      "title": "How a digital bank\u2019s collapse toppled Paraguay\u2019s president",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6851,
-      "currencies": []
-    },
-    {
-      "title": "National Australia Bank names Ian Saines as next chair",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "score": 0.5226,
       "currencies": []
     }
   ],
