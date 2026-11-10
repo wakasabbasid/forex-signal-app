@@ -1,10 +1,27 @@
 {
   "headlines": [
     {
-      "title": "Forex Market \u2014 Live Currency Charts, News, Ideas - TradingView",
+      "title": "AUD/USD forecast: Currency Pair of the Week | November 9, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
+    },
+    {
+      "title": "Forex Today: US Dollar pulls back after NFP-driven gains - www.tmgm.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6107,
+      "currencies": []
+    },
+    {
+      "title": "FOREX-Dollar slips against major currencies as Iran talks lift risk appetite - Metrobank Wealth Insights",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.886,
       "currencies": []
     },
     {
@@ -15,7 +32,35 @@
       "currencies": []
     },
     {
+      "title": "Taiwan forex reserves dip below US$600 billion amid intervention - Focus Taiwan",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9665,
+      "currencies": []
+    },
+    {
+      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "South Sudan telcos seek forex access - ITWeb Africa",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "(Update) Japan Bought Record 7.9 T. Yen in Forex Intervention July 30 - Nippon.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Indian rupee tracks AI volatility, oil; inflation data next test for bonds - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -29,120 +74,73 @@
       "currencies": []
     },
     {
-      "title": "Japan says three-day yen intervention lifted currency in summer - The Japan Times",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6832,
-      "currencies": []
-    },
-    {
-      "title": "Sterling Edges Up as Hawkish BoE Counters Strong US Data - TradingPedia",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8987,
-      "currencies": []
-    },
-    {
-      "title": "Taiwan forex reserves dip below US$600 billion amid intervention - Focus Taiwan",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9665,
-      "currencies": []
-    },
-    {
-      "title": "USD/CHF Feels the Weight of US Midterms, USD/CAD Clings to Support - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "CHF",
-        "USD",
-        "CAD"
-      ]
-    },
-    {
-      "title": "US dollar holds onto payrolls gains, NZ dollar rises after election By Reuters - Investing.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6534,
-      "currencies": []
-    },
-    {
-      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "title": "Top 3 Forex Brokers in the UAE - StreetInsider",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "FCNR(B) interest bill to keep dollar hedging costs high - The Economic Times",
+      "title": "Rupee among Asia\u2019s top 3 as India turns AI hedge - The Economic Times",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US dollar holds onto payrolls gains, NZ dollar rises after election - Forex Factory",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8484,
-      "currencies": []
-    },
-    {
-      "title": "Asia stocks roar back as Taiwan jumps 6%, Nvidia probe rattles AI trade",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8395,
-      "currencies": []
-    },
-    {
-      "title": "Netscout director Michael Szabados sells $150,800 in common stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Squadron Capital, Orthopediatrics director, sells $943,302 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Mueller Water Products VP Feyerherm sells $75,000 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Endeavor Blockchain buys $7,936 in big digital energy shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Nvidia\u2019s shares slide after-hours as tech giant probes CEO Jensen Huang",
+      "title": "Qantas to cut 850 jobs in Australia with Accenture deal; shares jump 4%",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9502,
+      "score": -0.9617,
       "currencies": []
     },
     {
-      "title": "Berenberg upgrades Auto Trader stock rating to buy on dealer recovery",
+      "title": "Earnings call transcript: Life360 beats on Q3 2026 EPS, shares jump 10%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9156,
+      "currencies": []
+    },
+    {
+      "title": "Trump\u2019s close ties to Nvidia\u2019s Huang scrutinized after foreign intelligence concerns",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6578,
+      "currencies": []
+    },
+    {
+      "title": "Oil falls as Trump downplays prospect of escalation with Iran",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7837,
+      "currencies": []
+    },
+    {
+      "title": "Trump says FBI probing Nvidia CEO Huang as China controversy deepens",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7349,
+      "currencies": []
+    },
+    {
+      "title": "How the US was left exposed to the flesh-eating screwworm, years into the outbreak",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Airbus kicks off \u20ac5 bln buyback with first \u20ac800 mln tranche",
+      "title": "Trump says Nvidia CEO told him he did not know the woman linked to him was a spy",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5226,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "DOJ sues Lyft for $53m over alleged disability bias",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9494,
       "currencies": []
     }
   ],
