@@ -9,12 +9,36 @@
         "score": 0.0
       }
     ],
+    "EUR/USD": [
+      {
+        "title": "U.S. Dollar Rallies As CPI Exceeds Estimates: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY - FXEmpire",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.5483
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "U.S. Dollar Rallies As CPI Exceeds Estimates: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY - FXEmpire",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.5483
+      }
+    ],
     "USD/JPY": [
       {
-        "title": "US stocks slide, yields jump, USD higher after hotter-than-expected October CPI",
-        "source": "ForexLive",
+        "title": "U.S. Dollar Rallies As CPI Exceeds Estimates: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY - FXEmpire",
+        "source": "Google News",
         "label": "bearish",
-        "score": -0.5117
+        "score": -0.5483
+      }
+    ],
+    "USD/CAD": [
+      {
+        "title": "U.S. Dollar Rallies As CPI Exceeds Estimates: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY - FXEmpire",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.5483
       }
     ]
   }
