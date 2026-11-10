@@ -11,31 +11,10 @@
       ]
     },
     {
-      "title": "Forex Today: US Dollar pulls back after NFP-driven gains - www.tmgm.com",
+      "title": "China Opens Onshore Forex Market to Overseas Yuan Clearing Banks - Caixin Global",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.6107,
-      "currencies": []
-    },
-    {
-      "title": "FOREX-Dollar slips against major currencies as Iran talks lift risk appetite - Metrobank Wealth Insights",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.886,
-      "currencies": []
-    },
-    {
-      "title": "Exclusive-Chinese banks boost dollar deposit rates, sources say, as Beijing seeks to smooth yuan rally - Yahoo Finance",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8982,
-      "currencies": []
-    },
-    {
-      "title": "Taiwan forex reserves dip below US$600 billion amid intervention - Focus Taiwan",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9665,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -46,17 +25,38 @@
       "currencies": []
     },
     {
-      "title": "South Sudan telcos seek forex access - ITWeb Africa",
+      "title": "Rupee among Asia's top performing currencies as AI trade cools - The Economic Times",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.7272,
       "currencies": []
     },
     {
-      "title": "(Update) Japan Bought Record 7.9 T. Yen in Forex Intervention July 30 - Nippon.com",
+      "title": "Taiwan forex reserves dip below US$600 billion amid intervention - Focus Taiwan",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9665,
+      "currencies": []
+    },
+    {
+      "title": "Morgan Stanley flags AI as a new risk for the Australian dollar after Democratic sweep - investingLive",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8064,
+      "currencies": []
+    },
+    {
+      "title": "FOREX-Dollar slips against major currencies as Iran talks lift risk appetite - Metrobank Wealth Insights",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.886,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: US Dollar pulls back after NFP-driven gains - www.tmgm.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6107,
       "currencies": []
     },
     {
@@ -67,80 +67,80 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar retreats following NFP-inspired rally - FXStreet",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9546,
-      "currencies": []
-    },
-    {
-      "title": "Top 3 Forex Brokers in the UAE - StreetInsider",
+      "title": "Japan Bought Record 7.9 T. Yen in Forex Intervention July 30 - Nippon.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Rupee among Asia\u2019s top 3 as India turns AI hedge - The Economic Times",
+      "title": "Exclusive-Chinese banks boost dollar deposit rates, sources say, as Beijing seeks to smooth yuan rally - Yahoo Finance",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8982,
+      "currencies": []
+    },
+    {
+      "title": "AUDJPY Wave Analysis - Action Forex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Qantas to cut 850 jobs in Australia with Accenture deal; shares jump 4%",
+      "title": "UBS downgrades Carlyle Group stock rating on growth concerns",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9617,
+      "score": -0.7496,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Life360 beats on Q3 2026 EPS, shares jump 10%",
+      "title": "Sterling today: Pound slips as dollar steadies on Fed tightening bets",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9708,
+      "currencies": []
+    },
+    {
+      "title": "ECB may need to hike in Dec, chief economist says",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7061,
+      "currencies": []
+    },
+    {
+      "title": "Alice Huang, Chinese businesswoman tied to Nvidia CEO, went from finance to chips",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Raymond James upgrades Senseonics stock rating on U.S. execution",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "SRT Marine FY26 slides: 46% revenue growth, \u00a32.4bn pipeline",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9156,
+      "score": 0.928,
       "currencies": []
     },
     {
-      "title": "Trump\u2019s close ties to Nvidia\u2019s Huang scrutinized after foreign intelligence concerns",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6578,
-      "currencies": []
-    },
-    {
-      "title": "Oil falls as Trump downplays prospect of escalation with Iran",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7837,
-      "currencies": []
-    },
-    {
-      "title": "Trump says FBI probing Nvidia CEO Huang as China controversy deepens",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7349,
-      "currencies": []
-    },
-    {
-      "title": "How the US was left exposed to the flesh-eating screwworm, years into the outbreak",
+      "title": "Earnings call transcript: Scandic Hotels posts record q3 2026 profit",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Trump says Nvidia CEO told him he did not know the woman linked to him was a spy",
+      "title": "Why is Oxford Instruments stock rallying today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "DOJ sues Lyft for $53m over alleged disability bias",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9494,
       "currencies": []
     }
   ],
