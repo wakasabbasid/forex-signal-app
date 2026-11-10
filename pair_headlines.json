@@ -8,6 +8,14 @@
         "label": "neutral",
         "score": 0.0
       }
+    ],
+    "USD/JPY": [
+      {
+        "title": "US stocks slide, yields jump, USD higher after hotter-than-expected October CPI",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.5117
+      }
     ]
   }
 }

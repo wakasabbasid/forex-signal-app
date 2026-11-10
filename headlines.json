@@ -1,6 +1,27 @@
 {
   "headlines": [
     {
+      "title": "China Opens Onshore Forex Market to Overseas Yuan Clearing Banks - Caixin Global",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Top yen forecaster predicts \u00a5147 per dollar as rate gap narrows - The Japan Times",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Dollar steadies after losses as U.S. inflation data reinforces rate-hike bets - Investing.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.5435,
+      "currencies": []
+    },
+    {
       "title": "AUD/USD forecast: Currency Pair of the Week | November 9, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -11,7 +32,7 @@
       ]
     },
     {
-      "title": "China Opens Onshore Forex Market to Overseas Yuan Clearing Banks - Caixin Global",
+      "title": "Indian rupee tracks AI volatility, oil; inflation data next test for bonds - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -25,45 +46,10 @@
       "currencies": []
     },
     {
-      "title": "Rupee among Asia's top performing currencies as AI trade cools - The Economic Times",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7272,
-      "currencies": []
-    },
-    {
       "title": "Taiwan forex reserves dip below US$600 billion amid intervention - Focus Taiwan",
       "source": "Google News",
       "label": "bearish",
       "score": -0.9665,
-      "currencies": []
-    },
-    {
-      "title": "Morgan Stanley flags AI as a new risk for the Australian dollar after Democratic sweep - investingLive",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8064,
-      "currencies": []
-    },
-    {
-      "title": "FOREX-Dollar slips against major currencies as Iran talks lift risk appetite - Metrobank Wealth Insights",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.886,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: US Dollar pulls back after NFP-driven gains - www.tmgm.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6107,
-      "currencies": []
-    },
-    {
-      "title": "Indian rupee tracks AI volatility, oil; inflation data next test for bonds - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -81,66 +67,80 @@
       "currencies": []
     },
     {
-      "title": "AUDJPY Wave Analysis - Action Forex",
+      "title": "Zero-forex card or rewards credit card: What's cheaper for your international holiday? - Moneycontrol.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "UBS downgrades Carlyle Group stock rating on growth concerns",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7496,
-      "currencies": []
-    },
-    {
-      "title": "Sterling today: Pound slips as dollar steadies on Fed tightening bets",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9708,
-      "currencies": []
-    },
-    {
-      "title": "ECB may need to hike in Dec, chief economist says",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7061,
-      "currencies": []
-    },
-    {
-      "title": "Alice Huang, Chinese businesswoman tied to Nvidia CEO, went from finance to chips",
-      "source": "Investing.com",
+      "title": "November 10: Cedi sells at GHS12.25 on forex market, GHS11.70 on BoG interbank - Modern Ghana",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Raymond James upgrades Senseonics stock rating on U.S. execution",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "title": "Morgan Stanley flags AI as a new risk for the Australian dollar after Democratic sweep - investingLive",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8064,
       "currencies": []
     },
     {
-      "title": "SRT Marine FY26 slides: 46% revenue growth, \u00a32.4bn pipeline",
+      "title": "Discovery Q3 2026 slides: record output, strong cash amid pullback",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.928,
+      "score": 0.8999,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Scandic Hotels posts record q3 2026 profit",
+      "title": "Compugen at Stifel 2026 Healthcare Conference: pipeline, cash and catalysts",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is Oxford Instruments stock rallying today?",
+      "title": "Fortune Brands at Baird conference: turnaround plan targets margins",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "iA Financial Q3 2026 slides: core EPS jumps 16%, wealth surges",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9209,
+      "currencies": []
+    },
+    {
+      "title": "European shares climb on oil relief, shaking off hot U.S. CPI print",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5417,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Geox Group Q3 2026 sales fall as debt drops",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9748,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Finning misses Q3 2026 profit view as stock falls",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9346,
+      "currencies": []
+    },
+    {
+      "title": "Artivion at Stifel 2026 Healthcare Conference: growth offsets loom",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6215,
       "currencies": []
     }
   ],
