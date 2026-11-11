@@ -1,34 +1,38 @@
 {
   "headlines": [
     {
-      "title": "AUD/USD forecast: Currency Pair of the Week | November 9, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
-    },
-    {
-      "title": "Myanmar\u2019s Forex Controls Compound Matters - fulcrum.sg",
+      "title": "Axi joins Babypips as an advertising partner through its Trusted Partner programme - Yahoo Finance",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
+    },
+    {
+      "title": "South Sudan telecom firms engage central bank over forex shortages - Telecompaper",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6165,
+      "currencies": []
+    },
+    {
+      "title": "Japanese Yen Outlook: EUR/JPY and GBP/JPY Outbid USD/JPY - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "JPY",
+        "GBP",
+        "JPY",
+        "USD",
+        "JPY"
+      ]
     },
     {
       "title": "Forex Today: US Dollar shows resilience after US inflation data - FXStreet",
       "source": "Google News",
       "label": "bullish",
       "score": 0.9181,
-      "currencies": []
-    },
-    {
-      "title": "Indian rupee breaks six-day winning streak on state banks' dollar bids - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -39,24 +43,10 @@
       "currencies": []
     },
     {
-      "title": "Rupee rises 7 paise to 93.70 against US dollar in early trade - The Economic Times",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8331,
-      "currencies": []
-    },
-    {
       "title": "Japan Bought Record 7.9 T. Yen in Forex Intervention July 30 - Nippon.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Exclusive-Chinese banks boost dollar deposit rates, sources say, as Beijing seeks to smooth yuan rally - Yahoo Finance",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8982,
       "currencies": []
     },
     {
@@ -74,6 +64,16 @@
       "currencies": []
     },
     {
+      "title": "AUD/USD forecast: Currency Pair of the Week | November 9, 2026 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
+    },
+    {
       "title": "South Sudan telcos seek forex access - ITWeb Africa",
       "source": "Google News",
       "label": "neutral",
@@ -81,66 +81,75 @@
       "currencies": []
     },
     {
-      "title": "Elev8 broker\u2019s Forex market report: currency movements and November risks - Forex Factory",
+      "title": "INR/USD hits 6-month high on strong inflows - Investing.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9247,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Top 10 Most Traded Currency Pairs in 2026 - IG",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Lloyds Banking Group at UBS London European Conference: growth with discipline",
+      "title": "Ternium weighs more anti-dumping cases as steel snarls trade talks with US",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5656,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Technoprobe Q3 2026 sales surge on AI demand",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9086,
+      "currencies": []
+    },
+    {
+      "title": "Freedom Broker downgrades Mosaic stock rating on sulfur costs",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8601,
+      "currencies": []
+    },
+    {
+      "title": "Freedom Broker raises CF Industries stock price target on strong Q3 results",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5666,
+      "currencies": []
+    },
+    {
+      "title": "Analysis-US companies shunning Russian diesel as tanker carrying that fuel idles off East Coast",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9581,
+      "currencies": []
+    },
+    {
+      "title": "Myanmar lobbies US to invest in its rare earths sector, dominated by China",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Vestas posts record Q3 2026 EPS as stock falls 4.2%",
+      "title": "First Interstate BancSystem director Scott sells $385,300 in shares",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.971,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Dollar holds gains as Fed hike bets rise after hot U.S. CPI; yen near 6-wk low",
+      "title": "QT Imaging at Canaccord forum: reimbursement opens growth path",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7643,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: CSG Systems Q3 2026 shares sink as margin outlook weakens",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9726,
-      "currencies": []
-    },
-    {
-      "title": "Mizuho downgrades Surgery Partners stock rating on acquisition terms",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8769,
-      "currencies": []
-    },
-    {
-      "title": "Jefferies reiterates Hold on Infosys stock, INR1,140 target",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.538,
-      "currencies": []
-    },
-    {
-      "title": "CLSA maintains Suzuki Motor stock rating despite weak guidance",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8,
-      "currencies": []
-    },
-    {
-      "title": "Telefonica Brasil tops Q3 earnings and revenue estimates",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9425,
+      "score": 0.9308,
       "currencies": []
     }
   ],
