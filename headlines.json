@@ -1,14 +1,31 @@
 {
   "headlines": [
     {
-      "title": "Indian rupee breaks six-day winning streak on state banks' dollar bids - Reuters",
+      "title": "AUD/USD forecast: Currency Pair of the Week | November 9, 2026 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
+    },
+    {
+      "title": "Myanmar\u2019s Forex Controls Compound Matters - fulcrum.sg",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "China Opens Onshore Forex Market to Overseas Yuan Clearing Banks - Caixin Global",
+      "title": "Forex Today: US Dollar shows resilience after US inflation data - FXStreet",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9181,
+      "currencies": []
+    },
+    {
+      "title": "Indian rupee breaks six-day winning streak on state banks' dollar bids - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -22,20 +39,10 @@
       "currencies": []
     },
     {
-      "title": "AUD/USD forecast: Currency Pair of the Week | November 9, 2026 - FOREX.com",
+      "title": "Rupee rises 7 paise to 93.70 against US dollar in early trade - The Economic Times",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
-    },
-    {
-      "title": "Taiwan forex reserves dip below US$600 billion amid intervention - Focus Taiwan",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9665,
+      "label": "bullish",
+      "score": 0.8331,
       "currencies": []
     },
     {
@@ -53,10 +60,10 @@
       "currencies": []
     },
     {
-      "title": "DRI Mega Crackdown: Drugs, Elephant Tusks, Vapes And Rs 3.5 Crore Forex Seized In Multi-State Raids - NDTV Profit",
+      "title": "China Opens Onshore Forex Market to Overseas Yuan Clearing Banks - Caixin Global",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9393,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -67,17 +74,10 @@
       "currencies": []
     },
     {
-      "title": "Top yen forecaster predicts \u00a5147 per dollar as rate gap narrows - The Japan Times",
+      "title": "South Sudan telcos seek forex access - ITWeb Africa",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Dollar steadies after losses as U.S. inflation data reinforces rate-hike bets - Investing.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.5435,
       "currencies": []
     },
     {
@@ -88,59 +88,59 @@
       "currencies": []
     },
     {
-      "title": "Airbnb CSO Nathan Blecharczyk sells $21.9 million in stock",
+      "title": "Lloyds Banking Group at UBS London European Conference: growth with discipline",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Landmark Bancorp director Alexander sells $6,630 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Oil prices rise from 2-mth low with focus on U.S.-Iran peace, inventories",
+      "title": "Earnings call transcript: Vestas posts record Q3 2026 EPS as stock falls 4.2%",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.4928,
+      "score": -0.971,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Phoenix New Media posts higher revenue in Q3 2026",
+      "title": "Dollar holds gains as Fed hike bets rise after hot U.S. CPI; yen near 6-wk low",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.955,
+      "score": 0.7643,
       "currencies": []
     },
     {
-      "title": "Oil rises from two-month low as Hormuz shipping attacks offset Iran truce hopes",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5589,
-      "currencies": []
-    },
-    {
-      "title": "Bonds reel as hot inflation fuels jumbo Fed hike fears",
+      "title": "Earnings call transcript: CSG Systems Q3 2026 shares sink as margin outlook weakens",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.692,
+      "score": -0.9726,
       "currencies": []
     },
     {
-      "title": "Vanishing vessels and missing sailors: The Iran war\u2019s human cost at sea",
+      "title": "Mizuho downgrades Surgery Partners stock rating on acquisition terms",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5371,
+      "score": -0.8769,
       "currencies": []
     },
     {
-      "title": "Fed\u2019s Paulson says more, gradual rate hikes needed to curb inflation",
+      "title": "Jefferies reiterates Hold on Infosys stock, INR1,140 target",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.538,
+      "currencies": []
+    },
+    {
+      "title": "CLSA maintains Suzuki Motor stock rating despite weak guidance",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7163,
+      "score": 0.8,
+      "currencies": []
+    },
+    {
+      "title": "Telefonica Brasil tops Q3 earnings and revenue estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9425,
       "currencies": []
     }
   ],
