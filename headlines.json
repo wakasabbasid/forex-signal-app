@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "Indian rupee breaks six-day winning streak on state banks' dollar bids - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "China Opens Onshore Forex Market to Overseas Yuan Clearing Banks - Caixin Global",
       "source": "Google News",
       "label": "neutral",
@@ -8,7 +15,7 @@
       "currencies": []
     },
     {
-      "title": "Indian rupee breaks six-day winning streak on state banks' dollar bids - Reuters",
+      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -25,13 +32,6 @@
       ]
     },
     {
-      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Taiwan forex reserves dip below US$600 billion amid intervention - Focus Taiwan",
       "source": "Google News",
       "label": "bearish",
@@ -46,24 +46,17 @@
       "currencies": []
     },
     {
-      "title": "Top yen forecaster predicts \u00a5147 per dollar as rate gap narrows - The Japan Times",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Brazil\u2019s Galipolo says local currency debt shifts risk to investors By Investing.com - Investing.com South Africa",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Exclusive-Chinese banks boost dollar deposit rates, sources say, as Beijing seeks to smooth yuan rally - Yahoo Finance",
       "source": "Google News",
       "label": "bullish",
       "score": 0.8982,
+      "currencies": []
+    },
+    {
+      "title": "DRI Mega Crackdown: Drugs, Elephant Tusks, Vapes And Rs 3.5 Crore Forex Seized In Multi-State Raids - NDTV Profit",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9393,
       "currencies": []
     },
     {
@@ -74,82 +67,80 @@
       "currencies": []
     },
     {
-      "title": "Zero-forex card or rewards credit card: What's cheaper for your international holiday? - Moneycontrol.com",
+      "title": "Top yen forecaster predicts \u00a5147 per dollar as rate gap narrows - The Japan Times",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "U.S. Dollar Rallies As CPI Exceeds Estimates: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY - FXEmpire",
+      "title": "Dollar steadies after losses as U.S. inflation data reinforces rate-hike bets - Investing.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.5483,
-      "currencies": [
-        "EUR",
-        "USD",
-        "GBP",
-        "USD",
-        "USD",
-        "CAD",
-        "USD",
-        "JPY"
-      ]
-    },
-    {
-      "title": "Earnings call transcript: Energy Vault posts mixed Q3 2026 results, shares fall",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9699,
+      "score": -0.5435,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Marchex tops Q3 2026 estimates as profit turns positive",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9397,
+      "title": "Elev8 broker\u2019s Forex market report: currency movements and November risks - Forex Factory",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Electromed posts Q1 2026 EPS beat, shares slip after hours",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9621,
-      "currencies": []
-    },
-    {
-      "title": "Evolv Q3 2026 slides: ARR hits record as recurring revenue grows",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9256,
-      "currencies": []
-    },
-    {
-      "title": "Star Equity Holdings announces $5.2 million sale-leaseback of Colfax property",
+      "title": "Airbnb CSO Nathan Blecharczyk sells $21.9 million in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Kura Oncology posts q3 2026 EPS beat, shares rise",
+      "title": "Landmark Bancorp director Alexander sells $6,630 in shares",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9284,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Netlist tops Q3 2026 EPS forecast as stock rises",
+      "title": "Oil prices rise from 2-mth low with focus on U.S.-Iran peace, inventories",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8106,
+      "label": "bearish",
+      "score": -0.4928,
       "currencies": []
     },
     {
-      "title": "KORU Medical Q3 2026 slides: margin expansion drives profitability turn",
+      "title": "Earnings call transcript: Phoenix New Media posts higher revenue in Q3 2026",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9515,
+      "score": 0.955,
+      "currencies": []
+    },
+    {
+      "title": "Oil rises from two-month low as Hormuz shipping attacks offset Iran truce hopes",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5589,
+      "currencies": []
+    },
+    {
+      "title": "Bonds reel as hot inflation fuels jumbo Fed hike fears",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.692,
+      "currencies": []
+    },
+    {
+      "title": "Vanishing vessels and missing sailors: The Iran war\u2019s human cost at sea",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5371,
+      "currencies": []
+    },
+    {
+      "title": "Fed\u2019s Paulson says more, gradual rate hikes needed to curb inflation",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7163,
       "currencies": []
     }
   ],

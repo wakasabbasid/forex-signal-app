@@ -9,36 +9,18 @@
         "score": 0.0
       }
     ],
-    "EUR/USD": [
-      {
-        "title": "U.S. Dollar Rallies As CPI Exceeds Estimates: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY - FXEmpire",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.5483
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "U.S. Dollar Rallies As CPI Exceeds Estimates: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY - FXEmpire",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.5483
-      }
-    ],
     "USD/JPY": [
       {
-        "title": "U.S. Dollar Rallies As CPI Exceeds Estimates: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY - FXEmpire",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.5483
-      }
-    ],
-    "USD/CAD": [
+        "title": "PBOC sets USD/ CNY mid-point today at 6.7191 (vs. estimate at 6.6855)",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
       {
-        "title": "U.S. Dollar Rallies As CPI Exceeds Estimates: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY - FXEmpire",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.5483
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.6855 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }
