@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "Japan Forex Official Warns against Yen's Rapid Fall - Nippon.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8214,
+      "currencies": []
+    },
+    {
       "title": "Japan\u2019s Mimura says forex fluctuations are too rapid - FXStreet",
       "source": "Google News",
       "label": "bearish",
@@ -18,21 +25,28 @@
       ]
     },
     {
+      "title": "Japan top currency diplomat Mimura: FX fluctuations are too rapid - Forex Factory",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8557,
+      "currencies": []
+    },
+    {
+      "title": "AUD/USD faces a make-or-break test as dollar bulls turn up the heat - investingLive",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8553,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
+    },
+    {
       "title": "Axi joins Babypips as an advertising partner through its Trusted Partner programme - Yahoo Finance",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
-    },
-    {
-      "title": "Japan\u2019s Mimura warns yen moves are too rapid as USD/JPY pushes back toward 160 - investingLive",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9257,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
     },
     {
       "title": "South Sudan telecom firms engage central bank over forex shortages - Telecompaper",
@@ -49,14 +63,7 @@
       "currencies": []
     },
     {
-      "title": "Indian rupee breaks six-day winning streak on state banks' dollar bids - Reuters",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan Bought Record 7.9 T. Yen in Forex Intervention July 30 - Nippon.com",
+      "title": "Forex crowding out - Dawn",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -70,87 +77,76 @@
       "currencies": []
     },
     {
-      "title": "Elev8 broker\u2019s Forex market report: currency movements and November risks - Forex Factory",
+      "title": "Forex Today: US Dollar Index climbs to fresh 19-month high, Gold drops below $4,000 - FXStreet",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.797,
       "currencies": []
     },
     {
-      "title": "South Sudan telcos seek forex access - ITWeb Africa",
+      "title": "Japan\u2019s Mimura warns yen moves are too rapid as USD/JPY pushes back toward 160 - investingLive",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japanese Yen Outlook: EUR/JPY and GBP/JPY Outbid USD/JPY - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9257,
       "currencies": [
-        "EUR",
-        "JPY",
-        "GBP",
-        "JPY",
         "USD",
         "JPY"
       ]
     },
     {
-      "title": "David Kustoff sells Warner Bros. Discovery shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Fed chair discloses wife\u2019s transactions in pet-care investments",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Aristocrat FY26 slides: market share gains offset by CEO transition",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9038,
-      "currencies": []
-    },
-    {
-      "title": "Instant View: Nvidia board meets to decide CEO Huang\u2019s future, source says",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "China\u2019s foreign minister says call with\u00a0Rubio was \u2019positive and constructive\u2019",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9404,
-      "currencies": []
-    },
-    {
-      "title": "Skillsoft director Jim Frankola buys $128,594 shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Wall St futures fall as Nvidia slides on report of possible CEO ouster",
+      "title": "Dollar hits 19-mth high on Fed hike bets; yen nears 160",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9474,
+      "score": -0.4981,
       "currencies": []
     },
     {
-      "title": "JetBlue debuts new domestic first class, key driver for targeted return to profit in 2027",
+      "title": "Patrizia shares surge 21% on \u20ac8.20 partial takeover offer plan",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9379,
+      "score": 0.9358,
+      "currencies": []
+    },
+    {
+      "title": "Merck shares hit over 1-year high as Q3 beats estimates and outlook is raised",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9149,
+      "currencies": []
+    },
+    {
+      "title": "JPMorgan upgrades Alamtri Resources Indonesia stock rating on dividend outlook",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.5005,
+      "currencies": []
+    },
+    {
+      "title": "Royal Unibrew Q3 2026 slides: EBIT growth solid but guidance narrowed",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.936,
+      "currencies": []
+    },
+    {
+      "title": "Nvidia customer\u00a0Megaspeed says it cooperated with US inspections, takes export control laws seriously",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Siemens CEO says cooperation with Nvidia will no be affected by leadership uncertainty",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "WH Smith FY26 slides: revenue rises but margins compress sharply",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9141,
       "currencies": []
     }
   ],

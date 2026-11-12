@@ -7,6 +7,18 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "AUD/USD faces a make-or-break test as dollar bulls turn up the heat - investingLive",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.8553
+      },
+      {
+        "title": "AUD/USD faces a make-or-break test as dollar bulls turn up the heat",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.8608
       }
     ],
     "USD/JPY": [
@@ -15,40 +27,6 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.9257
-      },
-      {
-        "title": "Japanese Yen Outlook: EUR/JPY and GBP/JPY Outbid USD/JPY - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.6797 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Japan\u2019s Mimura warns yen moves are too rapid as USD/JPY pushes back toward 160",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.9031
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "Japanese Yen Outlook: EUR/JPY and GBP/JPY Outbid USD/JPY - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "Japanese Yen Outlook: EUR/JPY and GBP/JPY Outbid USD/JPY - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
       }
     ]
   }
