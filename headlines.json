@@ -8,13 +8,6 @@
       "currencies": []
     },
     {
-      "title": "Japan\u2019s Mimura says forex fluctuations are too rapid - FXStreet",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8566,
-      "currencies": []
-    },
-    {
       "title": "AUD/USD forecast: Currency Pair of the Week | November 9, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -23,6 +16,13 @@
         "AUD",
         "USD"
       ]
+    },
+    {
+      "title": "Japan\u2019s Mimura says forex fluctuations are too rapid - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8566,
+      "currencies": []
     },
     {
       "title": "Japan top currency diplomat Mimura: FX fluctuations are too rapid - Forex Factory",
@@ -42,6 +42,13 @@
       ]
     },
     {
+      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Axi joins Babypips as an advertising partner through its Trusted Partner programme - Yahoo Finance",
       "source": "Google News",
       "label": "neutral",
@@ -56,10 +63,27 @@
       "currencies": []
     },
     {
-      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "title": "Cedi strengthens at GH\u00a212.15 against major currencies as GoldBod boosts forex supply - Modern Ghana",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9366,
+      "currencies": []
+    },
+    {
+      "title": "EUR/USD: Has the Inflation Shock Been Fully Priced In? - Daily Forex",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "Forex Today: US Dollar pulls back after NFP-driven gains - www.tmgm.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6107,
       "currencies": []
     },
     {
@@ -70,83 +94,59 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar pulls back after NFP-driven gains - www.tmgm.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6107,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: US Dollar Index climbs to fresh 19-month high, Gold drops below $4,000 - FXStreet",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.797,
-      "currencies": []
-    },
-    {
-      "title": "Japan\u2019s Mimura warns yen moves are too rapid as USD/JPY pushes back toward 160 - investingLive",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9257,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
-      "title": "Dollar hits 19-mth high on Fed hike bets; yen nears 160",
+      "title": "US labor market resilient; existing home sales hit more than 16-year low in October",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.4981,
+      "score": -0.9385,
       "currencies": []
     },
     {
-      "title": "Patrizia shares surge 21% on \u20ac8.20 partial takeover offer plan",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9358,
-      "currencies": []
-    },
-    {
-      "title": "Merck shares hit over 1-year high as Q3 beats estimates and outlook is raised",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9149,
-      "currencies": []
-    },
-    {
-      "title": "JPMorgan upgrades Alamtri Resources Indonesia stock rating on dividend outlook",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5005,
-      "currencies": []
-    },
-    {
-      "title": "Royal Unibrew Q3 2026 slides: EBIT growth solid but guidance narrowed",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.936,
-      "currencies": []
-    },
-    {
-      "title": "Nvidia customer\u00a0Megaspeed says it cooperated with US inspections, takes export control laws seriously",
+      "title": "IMF monitoring AI developments, too early to say if AI reassessment underway",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Siemens CEO says cooperation with Nvidia will no be affected by leadership uncertainty",
+      "title": "Exclusive-Bank of Mexico rate cuts sends wrong message, says deputy governor Heath",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9551,
+      "currencies": []
+    },
+    {
+      "title": "SpaceX plans over $74 billion investment in Texas, Arizona AI campuses",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "WH Smith FY26 slides: revenue rises but margins compress sharply",
+      "title": "Family Dollar reaches $63 million settlement with US FTC, states over customer overcharges",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9159,
+      "currencies": []
+    },
+    {
+      "title": "Aquafil 3Q26 slides: margins expand as debt falls 11% year-over-year",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9141,
+      "score": 0.5781,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Enel posts 9-month EPS growth in Q3 2026",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8687,
+      "currencies": []
+    },
+    {
+      "title": "Oil gains over $1 on Strait of Hormuz shipping disruptions, Russia tensions",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.731,
       "currencies": []
     }
   ],
