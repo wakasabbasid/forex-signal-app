@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0411\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0438",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Japan Forex Official Warns against Yen's Rapid Fall - Nippon.com",
       "source": "Google News",
       "label": "bearish",
@@ -18,17 +25,31 @@
       ]
     },
     {
+      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Dollar drops slightly from 19-month highs, rate divergence in focus - Reuters",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9374,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: After US inflation data, US Dollar holds firm - www.tmgm.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Japan\u2019s Mimura says forex fluctuations are too rapid - FXStreet",
       "source": "Google News",
       "label": "bearish",
       "score": -0.8566,
-      "currencies": []
-    },
-    {
-      "title": "Japan top currency diplomat Mimura: FX fluctuations are too rapid - Forex Factory",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8557,
       "currencies": []
     },
     {
@@ -42,17 +63,17 @@
       ]
     },
     {
-      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "title": "Axi joins Babypips as an advertising partner through its Trusted Partner programme - Yahoo Finance",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Axi joins Babypips as an advertising partner through its Trusted Partner programme - Yahoo Finance",
+      "title": "Japan top currency diplomat Mimura: FX fluctuations are too rapid - Forex Factory",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.8557,
       "currencies": []
     },
     {
@@ -70,83 +91,59 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD: Has the Inflation Shock Been Fully Priced In? - Daily Forex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "Forex Today: US Dollar pulls back after NFP-driven gains - www.tmgm.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6107,
-      "currencies": []
-    },
-    {
-      "title": "Forex crowding out - Dawn",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US labor market resilient; existing home sales hit more than 16-year low in October",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9385,
-      "currencies": []
-    },
-    {
-      "title": "IMF monitoring AI developments, too early to say if AI reassessment underway",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Exclusive-Bank of Mexico rate cuts sends wrong message, says deputy governor Heath",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9551,
-      "currencies": []
-    },
-    {
-      "title": "SpaceX plans over $74 billion investment in Texas, Arizona AI campuses",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Family Dollar reaches $63 million settlement with US FTC, states over customer overcharges",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9159,
-      "currencies": []
-    },
-    {
-      "title": "Aquafil 3Q26 slides: margins expand as debt falls 11% year-over-year",
+      "title": "Earnings call transcript: Laird Superfood posts 225% sales jump in Q3 2026",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5781,
+      "score": 0.9332,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Enel posts 9-month EPS growth in Q3 2026",
+      "title": "Arcadia Biosciences earnings beat by $0.75, revenue fell short of estimates",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8687,
+      "label": "bearish",
+      "score": -0.8163,
       "currencies": []
     },
     {
-      "title": "Oil gains over $1 on Strait of Hormuz shipping disruptions, Russia tensions",
+      "title": "Earnings call transcript: Motorsport Games posts strong Q3 2026 results",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.731,
+      "score": 0.9438,
+      "currencies": []
+    },
+    {
+      "title": "Kalshi in talks to raise money at $65 billion valuation, Bloomberg News reports",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Beeline Holdings posts stronger Q3 2026 revenue, stock slips",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9498,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: East Side Games Group posts q3 2026 profit focus",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5524,
+      "currencies": []
+    },
+    {
+      "title": "Birchtech Q3 2026 slides: $78M judgment backs water expansion push",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6343,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Imricor Medical Systems posts first U.S. revenue in Q3 2025",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

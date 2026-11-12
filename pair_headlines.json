@@ -14,14 +14,6 @@
         "label": "bearish",
         "score": -0.8553
       }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/USD: Has the Inflation Shock Been Fully Priced In? - Daily Forex",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
     ]
   }
 }
