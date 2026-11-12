@@ -1,6 +1,23 @@
 {
   "headlines": [
     {
+      "title": "Japan\u2019s Mimura says forex fluctuations are too rapid - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8566,
+      "currencies": []
+    },
+    {
+      "title": "AUD/USD forecast: Currency Pair of the Week | November 9, 2026 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
+    },
+    {
       "title": "Axi joins Babypips as an advertising partner through its Trusted Partner programme - Yahoo Finance",
       "source": "Google News",
       "label": "neutral",
@@ -8,10 +25,62 @@
       "currencies": []
     },
     {
+      "title": "Japan\u2019s Mimura warns yen moves are too rapid as USD/JPY pushes back toward 160 - investingLive",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9257,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
       "title": "South Sudan telecom firms engage central bank over forex shortages - Telecompaper",
       "source": "Google News",
       "label": "bearish",
       "score": -0.6165,
+      "currencies": []
+    },
+    {
+      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Indian rupee breaks six-day winning streak on state banks' dollar bids - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japan Bought Record 7.9 T. Yen in Forex Intervention July 30 - Nippon.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: US Dollar pulls back after NFP-driven gains - www.tmgm.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6107,
+      "currencies": []
+    },
+    {
+      "title": "Elev8 broker\u2019s Forex market report: currency movements and November risks - Forex Factory",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "South Sudan telcos seek forex access - ITWeb Africa",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -29,127 +98,59 @@
       ]
     },
     {
-      "title": "Forex Today: US Dollar shows resilience after US inflation data - FXStreet",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9181,
-      "currencies": []
-    },
-    {
-      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
-      "source": "Google News",
+      "title": "David Kustoff sells Warner Bros. Discovery shares",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Japan Bought Record 7.9 T. Yen in Forex Intervention July 30 - Nippon.com",
-      "source": "Google News",
+      "title": "Fed chair discloses wife\u2019s transactions in pet-care investments",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "China Opens Onshore Forex Market to Overseas Yuan Clearing Banks - Caixin Global",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: US Dollar pulls back after NFP-driven gains - www.tmgm.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6107,
-      "currencies": []
-    },
-    {
-      "title": "AUD/USD forecast: Currency Pair of the Week | November 9, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
-    },
-    {
-      "title": "South Sudan telcos seek forex access - ITWeb Africa",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "INR/USD hits 6-month high on strong inflows - Investing.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9247,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Top 10 Most Traded Currency Pairs in 2026 - IG",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Ternium weighs more anti-dumping cases as steel snarls trade talks with US",
+      "title": "Aristocrat FY26 slides: market share gains offset by CEO transition",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5656,
+      "score": 0.9038,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Technoprobe Q3 2026 sales surge on AI demand",
+      "title": "Instant View: Nvidia board meets to decide CEO Huang\u2019s future, source says",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "China\u2019s foreign minister says call with\u00a0Rubio was \u2019positive and constructive\u2019",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9086,
+      "score": 0.9404,
       "currencies": []
     },
     {
-      "title": "Freedom Broker downgrades Mosaic stock rating on sulfur costs",
+      "title": "Skillsoft director Jim Frankola buys $128,594 shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Wall St futures fall as Nvidia slides on report of possible CEO ouster",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8601,
+      "score": -0.9474,
       "currencies": []
     },
     {
-      "title": "Freedom Broker raises CF Industries stock price target on strong Q3 results",
+      "title": "JetBlue debuts new domestic first class, key driver for targeted return to profit in 2027",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5666,
-      "currencies": []
-    },
-    {
-      "title": "Analysis-US companies shunning Russian diesel as tanker carrying that fuel idles off East Coast",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9581,
-      "currencies": []
-    },
-    {
-      "title": "Myanmar lobbies US to invest in its rare earths sector, dominated by China",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "First Interstate BancSystem director Scott sells $385,300 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "QT Imaging at Canaccord forum: reimbursement opens growth path",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9308,
+      "score": 0.9379,
       "currencies": []
     }
   ],

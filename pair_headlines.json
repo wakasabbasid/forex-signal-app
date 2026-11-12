@@ -1,6 +1,40 @@
 {
   "run_id": 1,
   "pairs": {
+    "AUD/USD": [
+      {
+        "title": "AUD/USD forecast: Currency Pair of the Week | November 9, 2026 - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "USD/JPY": [
+      {
+        "title": "Japan\u2019s Mimura warns yen moves are too rapid as USD/JPY pushes back toward 160 - investingLive",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9257
+      },
+      {
+        "title": "Japanese Yen Outlook: EUR/JPY and GBP/JPY Outbid USD/JPY - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.6797 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "Japan\u2019s Mimura warns yen moves are too rapid as USD/JPY pushes back toward 160",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.9031
+      }
+    ],
     "EUR/USD": [
       {
         "title": "Japanese Yen Outlook: EUR/JPY and GBP/JPY Outbid USD/JPY - FOREX.com",
@@ -12,46 +46,6 @@
     "GBP/USD": [
       {
         "title": "Japanese Yen Outlook: EUR/JPY and GBP/JPY Outbid USD/JPY - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "USD/JPY": [
-      {
-        "title": "Japanese Yen Outlook: EUR/JPY and GBP/JPY Outbid USD/JPY - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "INR/USD hits 6-month high on strong inflows - Investing.com",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.9247
-      },
-      {
-        "title": "The USD is making a break for it. What do you need to watch technically?",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "Morning Kickstart: AI stocks rebound as USD after hot CPI. Thank you Veterans for your service",
-        "source": "ForexLive",
-        "label": "bullish",
-        "score": 0.9128
-      },
-      {
-        "title": "USD/JPY knocks on the door of 159.00 again, dollar bulls risk poking the intervention bear",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.7842
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "AUD/USD forecast: Currency Pair of the Week | November 9, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
