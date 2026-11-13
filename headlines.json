@@ -8,10 +8,10 @@
       "currencies": []
     },
     {
-      "title": "Forex reserves rise $2.49 billion to $719.55 billion, first weekly increase since September 4 - TradingView",
+      "title": "US Treasury bought nearly $500mn in yen during joint July forex intervention - Nikkei Asia",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9425,
+      "score": 0.6417,
       "currencies": []
     },
     {
@@ -25,24 +25,10 @@
       ]
     },
     {
-      "title": "India's forex reserves jump $2.49 billion to $719.547 billion - The New Indian Express",
+      "title": "Forex Reserves Climb to $719.5 Billion, Driven by Gold and Currency Assets - Rediff",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.905,
-      "currencies": []
-    },
-    {
-      "title": "Forex reserves rise $2.49 billion to $719.55 billion, first weekly increase since September 4- Moneycontrol.com - LinkedIn",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9315,
-      "currencies": []
-    },
-    {
-      "title": "Japan Katayama: Observing one-sided, swift forex shifts recently - FXStreet",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "score": 0.9246,
       "currencies": []
     },
     {
@@ -60,6 +46,41 @@
       "currencies": []
     },
     {
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8977,
+      "currencies": []
+    },
+    {
+      "title": "India's forex reserves jump $2.49 billion to $719.547 billion - The New Indian Express",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.905,
+      "currencies": []
+    },
+    {
+      "title": "New York State DFS issues new guidance regarding crypto advertising - FX News Group",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: After US inflation data, US Dollar holds firm - www.tmgm.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japan Katayama: Observing one-sided, swift forex shifts recently - FXStreet",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Japan prime minister Takaichi fires another verbal warning as USD/JPY flirts with the 160 level - investingLive",
       "source": "Google News",
       "label": "bearish",
@@ -70,80 +91,59 @@
       ]
     },
     {
-      "title": "Forex Today: After US inflation data, US Dollar holds firm - www.tmgm.com",
-      "source": "Google News",
+      "title": "Life Time director John Danhakl sells $78.9M in shares",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Tokyo Forex: Dollar-yen stuck in upper 159 range as intervention caution and US rate-hike bets pull in opposite directions - BigGo Finance",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9219,
-      "currencies": []
-    },
-    {
-      "title": "November 13: Cedi sells at GHS12.35 on forex market, GHS11.72 on BoG interbank - Modern Ghana",
-      "source": "Google News",
+      "title": "Xerox completes $173.7 million note exchange and issues new debt and equity",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Cresud Q1 2027 slides: operations improve despite profit decline",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9462,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Interpump Group Q3 2026 sales rise, stock slips",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9176,
-      "currencies": []
-    },
-    {
-      "title": "Choice Properties Q3 2026 slides: solid growth, strong occupancy",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9341,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Suncrete Q3 2026 revenue jumps, but guidance cut hits shares",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8585,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: CSN misses Q3 2026 estimates as shares fall 11%",
+      "title": "Nvidia stock slides to worst week since April 2025 after Huang resignation",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9732,
+      "score": -0.9559,
       "currencies": []
     },
     {
-      "title": "Anthropic IPO shuts out Chinese investors amid US-China tensions",
+      "title": "KeyCorp to redeem $500M series E preferred stock on Dec. 15",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9523,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Greece stocks lower at close of trade; Athens General Composite down 0.16%",
+      "title": "Delcath Systems director Bridget Martell sells $488,508 in stock",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9694,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Wall St reverses early gains as Nvidia fallout rattles tech stocks",
+      "title": "TPG RE Finance Trust director buys $16,250 in company stock",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9279,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Tpg re finance trust director Michael Smith buys $64,600 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "C4 Therapeutics CFO Kendra Adams disposes of $122,486 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
