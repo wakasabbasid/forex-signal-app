@@ -15,12 +15,6 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.6293
-      },
-      {
-        "title": "Japan prime minister Takaichi fires another verbal warning as USD/JPY flirts with the 160 level",
-        "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.6757
       }
     ]
   }

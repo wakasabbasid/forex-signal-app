@@ -8,10 +8,10 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: Markets cling to a cautious stance ahead of US producer inflation data - FXStreet",
+      "title": "Forex reserves rise $2.49 billion to $719.55 billion, first weekly increase since September 4 - TradingView",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.8331,
+      "label": "bullish",
+      "score": 0.9425,
       "currencies": []
     },
     {
@@ -25,14 +25,25 @@
       ]
     },
     {
-      "title": "Japan prime minister Takaichi fires another verbal warning as USD/JPY flirts with the 160 level - investingLive",
+      "title": "India's forex reserves jump $2.49 billion to $719.547 billion - The New Indian Express",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.6293,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
+      "label": "bullish",
+      "score": 0.905,
+      "currencies": []
+    },
+    {
+      "title": "Forex reserves rise $2.49 billion to $719.55 billion, first weekly increase since September 4- Moneycontrol.com - LinkedIn",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9315,
+      "currencies": []
+    },
+    {
+      "title": "Japan Katayama: Observing one-sided, swift forex shifts recently - FXStreet",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "Japan Forex Official Warns against Yen's Rapid Fall - Nippon.com",
@@ -49,11 +60,14 @@
       "currencies": []
     },
     {
-      "title": "Tokyo Forex: Dollar-yen stuck in upper 159 range as intervention caution and US rate-hike bets pull in opposite directions - BigGo Finance",
+      "title": "Japan prime minister Takaichi fires another verbal warning as USD/JPY flirts with the 160 level - investingLive",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9219,
-      "currencies": []
+      "score": -0.6293,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
     },
     {
       "title": "Forex Today: After US inflation data, US Dollar holds firm - www.tmgm.com",
@@ -63,87 +77,73 @@
       "currencies": []
     },
     {
-      "title": "Axi joins Babypips as an advertising partner through its Trusted Partner programme - Yahoo Finance",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US government bought 79.4 bil. yen in forex intervention in July: NY Fed - \u6bce\u65e5\u65b0\u805e",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan top currency diplomat Mimura: FX fluctuations are too rapid - Forex Factory",
+      "title": "Tokyo Forex: Dollar-yen stuck in upper 159 range as intervention caution and US rate-hike bets pull in opposite directions - BigGo Finance",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.8557,
+      "score": -0.9219,
       "currencies": []
     },
     {
-      "title": "Japan Katayama: Observing one-sided, swift forex shifts recently - FXStreet",
+      "title": "November 13: Cedi sells at GHS12.35 on forex market, GHS11.72 on BoG interbank - Modern Ghana",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Britain eyes welfare cuts to tackle surge in youth unemployment",
+      "title": "Cresud Q1 2027 slides: operations improve despite profit decline",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9462,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Interpump Group Q3 2026 sales rise, stock slips",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9176,
+      "currencies": []
+    },
+    {
+      "title": "Choice Properties Q3 2026 slides: solid growth, strong occupancy",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9341,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Suncrete Q3 2026 revenue jumps, but guidance cut hits shares",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8585,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: CSN misses Q3 2026 estimates as shares fall 11%",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6827,
+      "score": -0.9732,
       "currencies": []
     },
     {
-      "title": "Barclays initiates Ultra Clean stock at Equalweight on WFE growth",
+      "title": "Anthropic IPO shuts out Chinese investors amid US-China tensions",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9523,
       "currencies": []
     },
     {
-      "title": "Executive chair Justyn Howard sold Sprout Social stock worth $452,400",
+      "title": "Greece stocks lower at close of trade; Athens General Composite down 0.16%",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9694,
       "currencies": []
     },
     {
-      "title": "Sumitomo Mitsui Financial ADR earnings beat by $0.09, revenue topped estimates",
+      "title": "Wall St reverses early gains as Nvidia fallout rattles tech stocks",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9441,
-      "currencies": []
-    },
-    {
-      "title": "TD Power Systems H1 FY27 slides: PAT surges 89%, exports drive growth",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9432,
-      "currencies": []
-    },
-    {
-      "title": "German wholesale prices rise 8.8% in October",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8334,
-      "currencies": []
-    },
-    {
-      "title": "Finland\u2019s inflation rises to 3.1% in October 2026",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9174,
-      "currencies": []
-    },
-    {
-      "title": "Richemont H1 sales rise 17%, but gold costs weigh on underlying gross margin",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8021,
+      "label": "bearish",
+      "score": -0.9279,
       "currencies": []
     }
   ],
