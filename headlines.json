@@ -8,10 +8,10 @@
       "currencies": []
     },
     {
-      "title": "Japan Forex Official Warns against Yen's Rapid Fall - Nippon.com",
+      "title": "Forex Today: Markets cling to a cautious stance ahead of US producer inflation data - FXStreet",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.8214,
+      "score": -0.8331,
       "currencies": []
     },
     {
@@ -25,6 +25,23 @@
       ]
     },
     {
+      "title": "Japan prime minister Takaichi fires another verbal warning as USD/JPY flirts with the 160 level - investingLive",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6293,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "Japan Forex Official Warns against Yen's Rapid Fall - Nippon.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8214,
+      "currencies": []
+    },
+    {
       "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
       "source": "Google News",
       "label": "neutral",
@@ -32,10 +49,10 @@
       "currencies": []
     },
     {
-      "title": "Dollar drops slightly from 19-month highs, rate divergence in focus - Reuters",
+      "title": "Tokyo Forex: Dollar-yen stuck in upper 159 range as intervention caution and US rate-hike bets pull in opposite directions - BigGo Finance",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9374,
+      "score": -0.9219,
       "currencies": []
     },
     {
@@ -46,24 +63,14 @@
       "currencies": []
     },
     {
-      "title": "Japan\u2019s Mimura says forex fluctuations are too rapid - FXStreet",
+      "title": "Axi joins Babypips as an advertising partner through its Trusted Partner programme - Yahoo Finance",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.8566,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "AUD/USD faces a make-or-break test as dollar bulls turn up the heat - investingLive",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8553,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
-    },
-    {
-      "title": "Axi joins Babypips as an advertising partner through its Trusted Partner programme - Yahoo Finance",
+      "title": "US government bought 79.4 bil. yen in forex intervention in July: NY Fed - \u6bce\u65e5\u65b0\u805e",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -77,73 +84,66 @@
       "currencies": []
     },
     {
-      "title": "South Sudan telecom firms engage central bank over forex shortages - Telecompaper",
+      "title": "Japan Katayama: Observing one-sided, swift forex shifts recently - FXStreet",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.6165,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Cedi strengthens at GH\u00a212.15 against major currencies as GoldBod boosts forex supply - Modern Ghana",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9366,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Laird Superfood posts 225% sales jump in Q3 2026",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9332,
-      "currencies": []
-    },
-    {
-      "title": "Arcadia Biosciences earnings beat by $0.75, revenue fell short of estimates",
+      "title": "Britain eyes welfare cuts to tackle surge in youth unemployment",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8163,
+      "score": -0.6827,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Motorsport Games posts strong Q3 2026 results",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9438,
-      "currencies": []
-    },
-    {
-      "title": "Kalshi in talks to raise money at $65 billion valuation, Bloomberg News reports",
+      "title": "Barclays initiates Ultra Clean stock at Equalweight on WFE growth",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Beeline Holdings posts stronger Q3 2026 revenue, stock slips",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9498,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: East Side Games Group posts q3 2026 profit focus",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5524,
-      "currencies": []
-    },
-    {
-      "title": "Birchtech Q3 2026 slides: $78M judgment backs water expansion push",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6343,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Imricor Medical Systems posts first U.S. revenue in Q3 2025",
+      "title": "Executive chair Justyn Howard sold Sprout Social stock worth $452,400",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Sumitomo Mitsui Financial ADR earnings beat by $0.09, revenue topped estimates",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9441,
+      "currencies": []
+    },
+    {
+      "title": "TD Power Systems H1 FY27 slides: PAT surges 89%, exports drive growth",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9432,
+      "currencies": []
+    },
+    {
+      "title": "German wholesale prices rise 8.8% in October",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8334,
+      "currencies": []
+    },
+    {
+      "title": "Finland\u2019s inflation rises to 3.1% in October 2026",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9174,
+      "currencies": []
+    },
+    {
+      "title": "Richemont H1 sales rise 17%, but gold costs weigh on underlying gross margin",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8021,
       "currencies": []
     }
   ],

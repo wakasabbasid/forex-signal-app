@@ -7,12 +7,20 @@
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
+      }
+    ],
+    "USD/JPY": [
       {
-        "title": "AUD/USD faces a make-or-break test as dollar bulls turn up the heat - investingLive",
+        "title": "Japan prime minister Takaichi fires another verbal warning as USD/JPY flirts with the 160 level - investingLive",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.8553
+        "score": -0.6293
+      },
+      {
+        "title": "Japan prime minister Takaichi fires another verbal warning as USD/JPY flirts with the 160 level",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.6757
       }
     ]
   }
