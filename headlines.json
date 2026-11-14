@@ -46,13 +46,6 @@
       "currencies": []
     },
     {
-      "title": "Forex Reserves Climb to $719.5 Billion, Driven by Gold and Currency Assets - Rediff",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9246,
-      "currencies": []
-    },
-    {
       "title": "Forex Today: After US inflation data, US Dollar holds firm - www.tmgm.com",
       "source": "Google News",
       "label": "neutral",
@@ -74,19 +67,20 @@
       "currencies": []
     },
     {
-      "title": "U.S. Dollar Tests Yearly Highs As Rally Continues: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY - FXEmpire",
+      "title": "Forex Reserves Climb to $719.5 Billion, Driven by Gold and Currency Assets - Rediff",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9246,
+      "currencies": []
+    },
+    {
+      "title": "India's Forex Reserves Rise USD 2.49 Billion To USD 719.55 Billion: RBI - KNN India",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.908,
       "currencies": [
-        "EUR",
         "USD",
-        "GBP",
-        "USD",
-        "USD",
-        "CAD",
-        "USD",
-        "JPY"
+        "USD"
       ]
     },
     {
@@ -97,56 +91,56 @@
       "currencies": []
     },
     {
-      "title": "As smog hangs over Lahore, Pakistan\u2019s new pollution squad races to douse stubble fires",
+      "title": "Comstock Holding director David Hirsh buys $23,911 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "U.S. flight disruptions persist as FAA probes L3Harris role in nationwide outage",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5102,
+      "score": -0.9581,
       "currencies": []
     },
     {
-      "title": "SpaceX targets first Starship spacecraft catch after booster recovery called off",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5276,
-      "currencies": []
-    },
-    {
-      "title": "eBay SVP, chief people officer, sells $3.82M in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "MSC nears deal for 80% stake in German shipbuilder Meyer Werft, Spiegel reports",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6074,
-      "currencies": []
-    },
-    {
-      "title": "ExlService president Bhalla sells $465,423 in EXLS shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "ExlService Holdings evp Ajay Ayyappan sells $224,400 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Democrats\u2019 midterm sweep \"not bad at all\" for SpaceX, analyst says",
+      "title": "Thousands of US flights canceled, delayed as air travel system slowly recovers from shutdown",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.4439,
+      "score": -0.953,
       "currencies": []
     },
     {
-      "title": "Brookfield, CPPIB consortium enters next round in Uniper sales process, sources say",
+      "title": "CNA Financial chairman and CEO Worman sells $1.92 million in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Flexsteel chief growth officer David Crimmins sells $443,290 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "As Democrats seek changes to bill on energy permits, divisions emerge",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9386,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin falls below $68,000 as ETF outflows extend to seventh straight day",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8696,
+      "currencies": []
+    },
+    {
+      "title": "Teledyne Technologies senior vp sells $2.97 million in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
