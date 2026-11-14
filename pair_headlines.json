@@ -8,14 +8,6 @@
         "label": "neutral",
         "score": 0.0
       }
-    ],
-    "USD/JPY": [
-      {
-        "title": "India's Forex Reserves Rise USD 2.49 Billion To USD 719.55 Billion: RBI - KNN India",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.908
-      }
     ]
   }
 }

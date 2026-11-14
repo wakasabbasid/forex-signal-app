@@ -22,6 +22,13 @@
       "currencies": []
     },
     {
+      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "AUD/USD forecast: Currency Pair of the Week | November 9, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -32,7 +39,7 @@
       ]
     },
     {
-      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "title": "November 14: Cedi sells at GHS12.35 on forex market, GHS11.70 on BoG interbank - Modern Ghana",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -43,6 +50,20 @@
       "source": "Google News",
       "label": "bearish",
       "score": -0.8214,
+      "currencies": []
+    },
+    {
+      "title": "Forex Reserves Climb to $719.5 Billion, Driven by Gold and Currency Assets - Rediff",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9246,
+      "currencies": []
+    },
+    {
+      "title": "Japan top currency diplomat Mimura: FX fluctuations are too rapid - Forex Factory",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8557,
       "currencies": []
     },
     {
@@ -60,41 +81,52 @@
       "currencies": []
     },
     {
-      "title": "Japan top currency diplomat Mimura: FX fluctuations are too rapid - Forex Factory",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8557,
-      "currencies": []
-    },
-    {
-      "title": "Forex Reserves Climb to $719.5 Billion, Driven by Gold and Currency Assets - Rediff",
+      "title": "Forex reserves rise $2.5 billion to touch $719 billion - The Economic Times",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9246,
+      "score": 0.8866,
       "currencies": []
     },
     {
-      "title": "India's Forex Reserves Rise USD 2.49 Billion To USD 719.55 Billion: RBI - KNN India",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.908,
-      "currencies": [
-        "USD",
-        "USD"
-      ]
-    },
-    {
-      "title": "The yen is becoming too difficult for some investors to trade - The Japan Times",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Comstock Holding director David Hirsh buys $23,911 in shares",
+      "title": "wec energy group executive vp Kelsey sells $2.16M in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Donegal Mutual Insurance Co buys $424,497 in Donegal Group stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Donegal Group sr. vp Altshuler sells $114,043 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Iran\u2019s navy says three tankers on fire after hitting mines in Hormuz",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8591,
+      "currencies": []
+    },
+    {
+      "title": "DraftKings director Gregory Wendt buys $98,800 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin falls below $64,000 as ETF outflows extend to seventh straight day",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8513,
       "currencies": []
     },
     {
@@ -105,42 +137,7 @@
       "currencies": []
     },
     {
-      "title": "Thousands of US flights canceled, delayed as air travel system slowly recovers from shutdown",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.953,
-      "currencies": []
-    },
-    {
-      "title": "CNA Financial chairman and CEO Worman sells $1.92 million in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Flexsteel chief growth officer David Crimmins sells $443,290 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "As Democrats seek changes to bill on energy permits, divisions emerge",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9386,
-      "currencies": []
-    },
-    {
-      "title": "Bitcoin falls below $68,000 as ETF outflows extend to seventh straight day",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8696,
-      "currencies": []
-    },
-    {
-      "title": "Teledyne Technologies senior vp sells $2.97 million in stock",
+      "title": "Riley Exploration Permian CIO sells $143,428 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
