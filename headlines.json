@@ -32,13 +32,6 @@
       ]
     },
     {
-      "title": "Forex Reserves Climb to $719.5 Billion, Driven by Gold and Currency Assets - Rediff",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9246,
-      "currencies": []
-    },
-    {
       "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
       "source": "Google News",
       "label": "neutral",
@@ -53,10 +46,10 @@
       "currencies": []
     },
     {
-      "title": "Forex is banking on the Fed - FXStreet",
+      "title": "Forex Reserves Climb to $719.5 Billion, Driven by Gold and Currency Assets - Rediff",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9246,
       "currencies": []
     },
     {
@@ -67,10 +60,10 @@
       "currencies": []
     },
     {
-      "title": "India's forex reserves jump $2.49 billion to $719.547 billion - The New Indian Express",
+      "title": "Japan\u2019s Mimura says forex fluctuations are too rapid - FXStreet",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.905,
+      "label": "bearish",
+      "score": -0.8566,
       "currencies": []
     },
     {
@@ -81,66 +74,82 @@
       "currencies": []
     },
     {
-      "title": "Dollar sees best week since September, yen weakens toward 160 - CNBC",
+      "title": "U.S. Dollar Tests Yearly Highs As Rally Continues: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY - FXEmpire",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.925,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD",
+        "GBP",
+        "USD",
+        "USD",
+        "CAD",
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "The yen is becoming too difficult for some investors to trade - The Japan Times",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Viyash Scientific posts strong Q2 2027 growth",
+      "title": "As smog hangs over Lahore, Pakistan\u2019s new pollution squad races to douse stubble fires",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5102,
+      "currencies": []
+    },
+    {
+      "title": "SpaceX targets first Starship spacecraft catch after booster recovery called off",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9497,
+      "score": 0.5276,
       "currencies": []
     },
     {
-      "title": "Iran says four tankers hit mines in Hormuz as shipping crisis deepens",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9524,
-      "currencies": []
-    },
-    {
-      "title": "Altimmune president and CEO Durso buys $49,694 in stock",
+      "title": "eBay SVP, chief people officer, sells $3.82M in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "BOE likely to raise rates further in 2027, Pill tells FT",
+      "title": "MSC nears deal for 80% stake in German shipbuilder Meyer Werft, Spiegel reports",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.74,
+      "score": 0.6074,
       "currencies": []
     },
     {
-      "title": "Maharashtra Seamless Q2 FY27 slides: margins dip on inventory impact",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9559,
-      "currencies": []
-    },
-    {
-      "title": "RHI Magnesita India Q2 FY27 slides: margins surge despite flat revenue",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9283,
-      "currencies": []
-    },
-    {
-      "title": "CoStar Group director John Hill sells $92,049 in shares",
+      "title": "ExlService president Bhalla sells $465,423 in EXLS shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: RHI Magnesita India posts steady Q2 2027 growth",
+      "title": "ExlService Holdings evp Ajay Ayyappan sells $224,400 in stock",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9399,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Democrats\u2019 midterm sweep \"not bad at all\" for SpaceX, analyst says",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.4439,
+      "currencies": []
+    },
+    {
+      "title": "Brookfield, CPPIB consortium enters next round in Uniper sales process, sources say",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
