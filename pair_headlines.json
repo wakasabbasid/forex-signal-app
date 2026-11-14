@@ -9,12 +9,36 @@
         "score": 0.0
       }
     ],
+    "EUR/USD": [
+      {
+        "title": "U.S. Dollar Tests Yearly Highs As Rally Continues: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY - FXEmpire",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "U.S. Dollar Tests Yearly Highs As Rally Continues: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY - FXEmpire",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
     "USD/JPY": [
       {
-        "title": "Japan prime minister Takaichi fires another verbal warning as USD/JPY flirts with the 160 level - investingLive",
+        "title": "U.S. Dollar Tests Yearly Highs As Rally Continues: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY - FXEmpire",
         "source": "Google News",
-        "label": "bearish",
-        "score": -0.6293
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
+    "USD/CAD": [
+      {
+        "title": "U.S. Dollar Tests Yearly Highs As Rally Continues: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY - FXEmpire",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }

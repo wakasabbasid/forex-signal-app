@@ -32,13 +32,6 @@
       "currencies": []
     },
     {
-      "title": "Japan Forex Official Warns against Yen's Rapid Fall - Nippon.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8214,
-      "currencies": []
-    },
-    {
       "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
       "source": "Google News",
       "label": "neutral",
@@ -46,10 +39,10 @@
       "currencies": []
     },
     {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "title": "Japan Forex Official Warns against Yen's Rapid Fall - Nippon.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.8977,
+      "label": "bearish",
+      "score": -0.8214,
       "currencies": []
     },
     {
@@ -58,6 +51,22 @@
       "label": "bullish",
       "score": 0.905,
       "currencies": []
+    },
+    {
+      "title": "U.S. Dollar Tests Yearly Highs As Rally Continues: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY - FXEmpire",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD",
+        "GBP",
+        "USD",
+        "USD",
+        "CAD",
+        "USD",
+        "JPY"
+      ]
     },
     {
       "title": "New York State DFS issues new guidance regarding crypto advertising - FX News Group",
@@ -74,73 +83,70 @@
       "currencies": []
     },
     {
-      "title": "Japan Katayama: Observing one-sided, swift forex shifts recently - FXStreet",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan prime minister Takaichi fires another verbal warning as USD/JPY flirts with the 160 level - investingLive",
+      "title": "Japan\u2019s Mimura says forex fluctuations are too rapid - FXStreet",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.6293,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
-      "title": "Life Time director John Danhakl sells $78.9M in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "score": -0.8566,
       "currencies": []
     },
     {
-      "title": "Xerox completes $173.7 million note exchange and issues new debt and equity",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Nvidia stock slides to worst week since April 2025 after Huang resignation",
-      "source": "Investing.com",
+      "title": "Japan top currency diplomat Mimura: FX fluctuations are too rapid - Forex Factory",
+      "source": "Google News",
       "label": "bearish",
-      "score": -0.9559,
+      "score": -0.8557,
       "currencies": []
     },
     {
-      "title": "KeyCorp to redeem $500M series E preferred stock on Dec. 15",
+      "title": "MediaAlpha CTO Kuanling Amy Yeh sells 12,000 shares for $176,235",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Delcath Systems director Bridget Martell sells $488,508 in stock",
+      "title": "indie Semiconductor director Aldrich buys $299,000 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "TPG RE Finance Trust director buys $16,250 in company stock",
+      "title": "Oruka Therapeutics SVP sells $1.05M in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Tpg re finance trust director Michael Smith buys $64,600 in stock",
+      "title": "CrowdStrike CEO George Kurtz sells $6.26M in stock, prices $218.98-$238.35",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "C4 Therapeutics CFO Kendra Adams disposes of $122,486 in stock",
+      "title": "CrowdStrike CEO George Kurtz sells $582,471 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "How long can fiscal policy stay accommodative amid higher yields?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Palantir cto Shyam Sankar sells $64.9 million in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Julie Rubinstein, Adaptive Biotechnologies COO, sells $1M in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
