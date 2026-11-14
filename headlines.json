@@ -15,6 +15,13 @@
       "currencies": []
     },
     {
+      "title": "Forex reserves rise $2.49 billion to $719.55 billion, first weekly increase since September 4 - TradingView",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9425,
+      "currencies": []
+    },
+    {
       "title": "AUD/USD forecast: Currency Pair of the Week | November 9, 2026 - FOREX.com",
       "source": "Google News",
       "label": "neutral",
@@ -46,30 +53,7 @@
       "currencies": []
     },
     {
-      "title": "India's forex reserves jump $2.49 billion to $719.547 billion - The New Indian Express",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.905,
-      "currencies": []
-    },
-    {
-      "title": "U.S. Dollar Tests Yearly Highs As Rally Continues: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY - FXEmpire",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD",
-        "GBP",
-        "USD",
-        "USD",
-        "CAD",
-        "USD",
-        "JPY"
-      ]
-    },
-    {
-      "title": "New York State DFS issues new guidance regarding crypto advertising - FX News Group",
+      "title": "Forex is banking on the Fed - FXStreet",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -83,10 +67,10 @@
       "currencies": []
     },
     {
-      "title": "Japan\u2019s Mimura says forex fluctuations are too rapid - FXStreet",
+      "title": "India's forex reserves jump $2.49 billion to $719.547 billion - The New Indian Express",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.8566,
+      "label": "bullish",
+      "score": 0.905,
       "currencies": []
     },
     {
@@ -97,59 +81,66 @@
       "currencies": []
     },
     {
-      "title": "MediaAlpha CTO Kuanling Amy Yeh sells 12,000 shares for $176,235",
+      "title": "Dollar sees best week since September, yen weakens toward 160 - CNBC",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.925,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Viyash Scientific posts strong Q2 2027 growth",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9497,
+      "currencies": []
+    },
+    {
+      "title": "Iran says four tankers hit mines in Hormuz as shipping crisis deepens",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9524,
+      "currencies": []
+    },
+    {
+      "title": "Altimmune president and CEO Durso buys $49,694 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "indie Semiconductor director Aldrich buys $299,000 in stock",
+      "title": "BOE likely to raise rates further in 2027, Pill tells FT",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.74,
+      "currencies": []
+    },
+    {
+      "title": "Maharashtra Seamless Q2 FY27 slides: margins dip on inventory impact",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9559,
+      "currencies": []
+    },
+    {
+      "title": "RHI Magnesita India Q2 FY27 slides: margins surge despite flat revenue",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9283,
+      "currencies": []
+    },
+    {
+      "title": "CoStar Group director John Hill sells $92,049 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Oruka Therapeutics SVP sells $1.05M in shares",
+      "title": "Earnings call transcript: RHI Magnesita India posts steady Q2 2027 growth",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "CrowdStrike CEO George Kurtz sells $6.26M in stock, prices $218.98-$238.35",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "CrowdStrike CEO George Kurtz sells $582,471 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "How long can fiscal policy stay accommodative amid higher yields?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Palantir cto Shyam Sankar sells $64.9 million in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Julie Rubinstein, Adaptive Biotechnologies COO, sells $1M in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9399,
       "currencies": []
     }
   ],
