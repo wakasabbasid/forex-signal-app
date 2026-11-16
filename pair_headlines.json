@@ -1,12 +1,38 @@
 {
   "run_id": 1,
   "pairs": {
-    "AUD/USD": [
+    "USD/CHF": [
       {
-        "title": "AUD/USD forecast: Currency Pair of the Week | November 9, 2026 - FOREX.com",
+        "title": "Swiss Franc Forecast: USD/CHF 3% Rally Threatens Multi-Year Downtrend - FOREX.com",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.8458
+      }
+    ],
+    "USD/JPY": [
+      {
+        "title": "USD/JPY Meaning: Understanding The Dollar-Yen Currency Pair - Forex Factory",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
+      },
+      {
+        "title": "India's forex reserves climb to USD 719.55 billion, gold holdings surge USD 2.21 billion: RBI - bfsi.economictimes.indiatimes.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.6771 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "IDR/USD: Indonesian Rupiah May Fall Further Past Record Low, Says Analysts",
+        "source": "Bloomberg",
+        "label": "bearish",
+        "score": -0.9694
       }
     ]
   }

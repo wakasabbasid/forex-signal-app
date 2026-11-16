@@ -15,31 +15,21 @@
       "currencies": []
     },
     {
-      "title": "Forex reserves rise $2.49 billion to $719.55 billion, first weekly increase since September 4 - TradingView",
+      "title": "China's forex reserve requirement hike takes effect - China Daily",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.9425,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Australian Dollar slips below 0.6800 as hawkish Fed weighs; attention turns to Chinese data - www.tmgm.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8437,
       "currencies": []
     },
     {
       "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "AUD/USD forecast: Currency Pair of the Week | November 9, 2026 - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
-    },
-    {
-      "title": "November 14: Cedi sells at GHS12.35 on forex market, GHS11.70 on BoG interbank - Modern Ghana",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -53,24 +43,30 @@
       "currencies": []
     },
     {
+      "title": "Swiss Franc Forecast: USD/CHF 3% Rally Threatens Multi-Year Downtrend - FOREX.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8458,
+      "currencies": [
+        "USD",
+        "CHF"
+      ]
+    },
+    {
+      "title": "USD/JPY Meaning: Understanding The Dollar-Yen Currency Pair - Forex Factory",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
       "title": "Forex Reserves Climb to $719.5 Billion, Driven by Gold and Currency Assets - Rediff",
       "source": "Google News",
       "label": "bullish",
       "score": 0.9246,
-      "currencies": []
-    },
-    {
-      "title": "Japan top currency diplomat Mimura: FX fluctuations are too rapid - Forex Factory",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8557,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: After US inflation data, US Dollar holds firm - www.tmgm.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -81,63 +77,73 @@
       "currencies": []
     },
     {
-      "title": "Forex reserves rise $2.5 billion to touch $719 billion - The Economic Times",
+      "title": "India's forex reserves climb to USD 719.55 billion, gold holdings surge USD 2.21 billion: RBI - bfsi.economictimes.indiatimes.com",
       "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "USD"
+      ]
+    },
+    {
+      "title": "Why the Dollar Is Climbing Despite a Stock Market Rebound? - Daily Forex",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "TrustFinance Announces 2026 Community Choice Awards Winners Across Forex, Crypto and Financial Services",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8866,
+      "score": 0.7883,
       "currencies": []
     },
     {
-      "title": "wec energy group executive vp Kelsey sells $2.16M in shares",
+      "title": "International Stem Cell director sells $10,496 in company shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Donegal Mutual Insurance Co buys $424,497 in Donegal Group stock",
+      "title": "Estee Lauder director Fribourg sells $10.05M of class A common stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Donegal Group sr. vp Altshuler sells $114,043 in stock",
+      "title": "Dell Technologies president, global sales Peter Trizzino sells $21.1M stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Iran\u2019s navy says three tankers on fire after hitting mines in Hormuz",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8591,
-      "currencies": []
-    },
-    {
-      "title": "DraftKings director Gregory Wendt buys $98,800 in shares",
+      "title": "Mirum Pharmaceuticals CFO Eric Bjerkholt sells $978,092 shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Bitcoin falls below $64,000 as ETF outflows extend to seventh straight day",
+      "title": "Jio Platforms begins talks with Indian firms for satellite launch- Mint",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8513,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "U.S. flight disruptions persist as FAA probes L3Harris role in nationwide outage",
+      "title": "Yen steady against euro and dollar after soft Japanese GDP data",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9581,
+      "label": "bullish",
+      "score": 0.6208,
       "currencies": []
     },
     {
-      "title": "Riley Exploration Permian CIO sells $143,428 in stock",
+      "title": "UK PM Burnham to call for reset of Britain\u2019s EU relationship- Sky News",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
