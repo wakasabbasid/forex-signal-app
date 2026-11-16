@@ -1,42 +1,28 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/CHF": [
-      {
-        "title": "Swiss Franc Forecast: USD/CHF 3% Rally Threatens Multi-Year Downtrend - FOREX.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.8458
-      }
-    ],
     "EUR/USD": [
       {
-        "title": "US Dollar Price Forecast: DXY Holds 103.23 as EUR/USD Slides Toward 1.1010, GBP/USD Tests 1.3201 - FXEmpire",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9539
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "US Dollar Price Forecast: DXY Holds 103.23 as EUR/USD Slides Toward 1.1010, GBP/USD Tests 1.3201 - FXEmpire",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9539
-      }
-    ],
-    "USD/JPY": [
-      {
-        "title": "USD/JPY Meaning: Understanding The Dollar-Yen Currency Pair - Forex Factory",
+        "title": "EUR/USD forecast: Dollar strength puts 1.1000 support in the spotlight | Currency Pair of the Week - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
+      }
+    ],
+    "USD/CAD": [
       {
-        "title": "IDR/USD: Indonesian Rupiah Falls to Record Low as Fed Bets Boost Dollar",
-        "source": "Bloomberg",
+        "title": "USD/CAD nears a breakout that could send it much higher - CMC Markets",
+        "source": "Google News",
         "label": "bearish",
-        "score": -0.9649
+        "score": -0.9082
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "Weekly Report: DXY 103.41, 10-year 5.15%, AUD carry 3bp \u2014 three FX regimes flipped in one week - Mitrade",
+        "source": "Google News",
+        "label": "bullish",
+        "score": 0.472
       }
     ]
   }

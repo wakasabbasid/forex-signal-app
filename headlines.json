@@ -8,17 +8,44 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: Markets turn cautious to start week, US Dollar holds firm - FXStreet",
+      "title": "EUR/USD forecast: Dollar strength puts 1.1000 support in the spotlight | Currency Pair of the Week - FOREX.com",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.5422,
-      "currencies": []
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
     },
     {
       "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0411\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0438",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "USD/CAD nears a breakout that could send it much higher - CMC Markets",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9082,
+      "currencies": [
+        "USD",
+        "CAD"
+      ]
+    },
+    {
+      "title": "altFINS Adds US Stocks and Forex to Its Market Screener, Signals and AI Tools - Benzinga",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: Markets turn cautious to start week, US Dollar holds firm - FXStreet",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5422,
       "currencies": []
     },
     {
@@ -36,13 +63,6 @@
       "currencies": []
     },
     {
-      "title": "Japanese Yen strengthens as intervention warnings offset weaker Japan GDP - www.tmgm.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7801,
-      "currencies": []
-    },
-    {
       "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
       "source": "Google News",
       "label": "neutral",
@@ -50,105 +70,82 @@
       "currencies": []
     },
     {
-      "title": "Japan Forex Official Warns against Yen's Rapid Fall - Nippon.com",
+      "title": "British Pound: Limited downside versus US Dollar \u2013 BBH - www.tmgm.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.8214,
+      "score": -0.8807,
       "currencies": []
     },
     {
-      "title": "Swiss Franc Forecast: USD/CHF 3% Rally Threatens Multi-Year Downtrend - FOREX.com",
+      "title": "US Dollar Regains Its Footing as Old Market Correlations Return. Forecast as of 16.11.2026 - LiteFinance",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.8458,
+      "label": "bullish",
+      "score": 0.7242,
+      "currencies": []
+    },
+    {
+      "title": "Weekly Report: DXY 103.41, 10-year 5.15%, AUD carry 3bp \u2014 three FX regimes flipped in one week - Mitrade",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.472,
       "currencies": [
-        "USD",
-        "CHF"
+        "AUD"
       ]
     },
     {
-      "title": "US Dollar Price Forecast: DXY Holds 103.23 as EUR/USD Slides Toward 1.1010, GBP/USD Tests 1.3201 - FXEmpire",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9539,
-      "currencies": [
-        "EUR",
-        "USD",
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "USD/JPY Meaning: Understanding The Dollar-Yen Currency Pair - Forex Factory",
-      "source": "Google News",
+      "title": "Earnings call transcript: CPFL Energia posts Q3 2026 EPS beat, revenue miss",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
-      "title": "Forex Reserves Climb to $719.5 Billion, Driven by Gold and Currency Assets - Rediff",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9246,
       "currencies": []
     },
     {
-      "title": "Alicon Castalloy Q2 FY27 slides: record revenue amid margin pressure",
+      "title": "Zenas BioPharma at Jefferies Global Healthcare Conference: launch, cash and pipeline",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9112,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Phillip Securities upgrades Airbnb stock rating on booking growth",
+      "title": "Rapport Therapeutics at jefferies global healthcare conference: pipeline gains",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.5034,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "India\u2019s Mphasis says clients boost cybersecurity spending as AI-driven threats rise",
+      "title": "Forge Nano Reports Third Quarter 2026 Results; Raises Over $130 Million; Reiterates Guidance",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9284,
+      "score": 0.8348,
       "currencies": []
     },
     {
-      "title": "Elevate Campuses Q2 FY27 slides: revenue surges amid margin pressure",
+      "title": "Arcus Biosciences at Jefferies Global Healthcare Conference: casdatifan push",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8275,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Citi backs Prosus on iFood resilience despite intensifying Brazil competition",
+      "title": "Earnings call transcript: CMCT narrows losses in Q3 2026 as revenue beats",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9103,
+      "label": "bearish",
+      "score": -0.8843,
       "currencies": []
     },
     {
-      "title": "KNR Constructions Q2 FY27 slides: asset sales boost profits amid revenue decline",
+      "title": "Market positioning risks: why falling P/E ratios may signal a valuation trap",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9276,
+      "label": "bearish",
+      "score": -0.9672,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Fredun Pharmaceuticals posts strong Q2 2026 growth",
+      "title": "Tesla to invest \u20ac3 billion to expand Berlin factory for Cybercab",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9501,
-      "currencies": []
-    },
-    {
-      "title": "Phillip Securities raises Palantir stock price target on strong revenue growth",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9395,
+      "score": 0.727,
       "currencies": []
     }
   ],
