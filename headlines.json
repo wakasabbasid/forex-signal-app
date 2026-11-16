@@ -1,6 +1,20 @@
 {
   "headlines": [
     {
+      "title": "Forex Market \u2014 Live Currency Charts, News, Ideas - TradingView",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: Markets turn cautious to start week, US Dollar holds firm - FXStreet",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.5422,
+      "currencies": []
+    },
+    {
       "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0411\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0438",
       "source": "Google News",
       "label": "neutral",
@@ -22,10 +36,10 @@
       "currencies": []
     },
     {
-      "title": "Australian Dollar slips below 0.6800 as hawkish Fed weighs; attention turns to Chinese data - www.tmgm.com",
+      "title": "Japanese Yen strengthens as intervention warnings offset weaker Japan GDP - www.tmgm.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.8437,
+      "label": "bullish",
+      "score": 0.7801,
       "currencies": []
     },
     {
@@ -53,6 +67,18 @@
       ]
     },
     {
+      "title": "US Dollar Price Forecast: DXY Holds 103.23 as EUR/USD Slides Toward 1.1010, GBP/USD Tests 1.3201 - FXEmpire",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9539,
+      "currencies": [
+        "EUR",
+        "USD",
+        "GBP",
+        "USD"
+      ]
+    },
+    {
       "title": "USD/JPY Meaning: Understanding The Dollar-Yen Currency Pair - Forex Factory",
       "source": "Google News",
       "label": "neutral",
@@ -70,83 +96,59 @@
       "currencies": []
     },
     {
-      "title": "Japan\u2019s Mimura says forex fluctuations are too rapid - FXStreet",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8566,
-      "currencies": []
-    },
-    {
-      "title": "India's forex reserves climb to USD 719.55 billion, gold holdings surge USD 2.21 billion: RBI - bfsi.economictimes.indiatimes.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "USD"
-      ]
-    },
-    {
-      "title": "Why the Dollar Is Climbing Despite a Stock Market Rebound? - Daily Forex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "TrustFinance Announces 2026 Community Choice Awards Winners Across Forex, Crypto and Financial Services",
+      "title": "Alicon Castalloy Q2 FY27 slides: record revenue amid margin pressure",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7883,
+      "score": 0.9112,
       "currencies": []
     },
     {
-      "title": "International Stem Cell director sells $10,496 in company shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Estee Lauder director Fribourg sells $10.05M of class A common stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Dell Technologies president, global sales Peter Trizzino sells $21.1M stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Mirum Pharmaceuticals CFO Eric Bjerkholt sells $978,092 shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Jio Platforms begins talks with Indian firms for satellite launch- Mint",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Yen steady against euro and dollar after soft Japanese GDP data",
+      "title": "Phillip Securities upgrades Airbnb stock rating on booking growth",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6208,
+      "score": 0.5034,
       "currencies": []
     },
     {
-      "title": "UK PM Burnham to call for reset of Britain\u2019s EU relationship- Sky News",
+      "title": "India\u2019s Mphasis says clients boost cybersecurity spending as AI-driven threats rise",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9284,
+      "currencies": []
+    },
+    {
+      "title": "Elevate Campuses Q2 FY27 slides: revenue surges amid margin pressure",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8275,
+      "currencies": []
+    },
+    {
+      "title": "Citi backs Prosus on iFood resilience despite intensifying Brazil competition",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9103,
+      "currencies": []
+    },
+    {
+      "title": "KNR Constructions Q2 FY27 slides: asset sales boost profits amid revenue decline",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9276,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Fredun Pharmaceuticals posts strong Q2 2026 growth",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9501,
+      "currencies": []
+    },
+    {
+      "title": "Phillip Securities raises Palantir stock price target on strong revenue growth",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9395,
       "currencies": []
     }
   ],

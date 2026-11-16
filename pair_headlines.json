@@ -9,6 +9,22 @@
         "score": -0.8458
       }
     ],
+    "EUR/USD": [
+      {
+        "title": "US Dollar Price Forecast: DXY Holds 103.23 as EUR/USD Slides Toward 1.1010, GBP/USD Tests 1.3201 - FXEmpire",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9539
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "US Dollar Price Forecast: DXY Holds 103.23 as EUR/USD Slides Toward 1.1010, GBP/USD Tests 1.3201 - FXEmpire",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9539
+      }
+    ],
     "USD/JPY": [
       {
         "title": "USD/JPY Meaning: Understanding The Dollar-Yen Currency Pair - Forex Factory",
@@ -17,22 +33,10 @@
         "score": 0.0
       },
       {
-        "title": "India's forex reserves climb to USD 719.55 billion, gold holdings surge USD 2.21 billion: RBI - bfsi.economictimes.indiatimes.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.6771 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "IDR/USD: Indonesian Rupiah May Fall Further Past Record Low, Says Analysts",
+        "title": "IDR/USD: Indonesian Rupiah Falls to Record Low as Fed Bets Boost Dollar",
         "source": "Bloomberg",
         "label": "bearish",
-        "score": -0.9694
+        "score": -0.9649
       }
     ]
   }
