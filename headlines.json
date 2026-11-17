@@ -25,6 +25,13 @@
       "currencies": []
     },
     {
+      "title": "Forex Today: Market attention turns to US consumer spending and UK jobs - www.tmgm.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "USD/CAD nears a breakout that could send it much higher - CMC Markets",
       "source": "Google News",
       "label": "bearish",
@@ -33,20 +40,6 @@
         "USD",
         "CAD"
       ]
-    },
-    {
-      "title": "altFINS Adds US Stocks and Forex to Its Market Screener, Signals and AI Tools - Benzinga",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: Markets turn cautious to start week, US Dollar holds firm - FXStreet",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5422,
-      "currencies": []
     },
     {
       "title": "US Treasury bought nearly $500mn in yen during joint July forex intervention - Nikkei Asia",
@@ -70,17 +63,24 @@
       "currencies": []
     },
     {
-      "title": "British Pound: Limited downside versus US Dollar \u2013 BBH - www.tmgm.com",
+      "title": "altFINS Adds US Stocks and Forex to Its Market Screener, Signals and AI Tools - Benzinga",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.8807,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US Dollar Regains Its Footing as Old Market Correlations Return. Forecast as of 16.11.2026 - LiteFinance",
+      "title": "Forex Today: Markets turn cautious to start week, US Dollar holds firm - FXStreet",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.7242,
+      "score": 0.5422,
+      "currencies": []
+    },
+    {
+      "title": "Understanding the Big Mac Index - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -93,59 +93,59 @@
       ]
     },
     {
-      "title": "Earnings call transcript: CPFL Energia posts Q3 2026 EPS beat, revenue miss",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Zenas BioPharma at Jefferies Global Healthcare Conference: launch, cash and pipeline",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Rapport Therapeutics at jefferies global healthcare conference: pipeline gains",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forge Nano Reports Third Quarter 2026 Results; Raises Over $130 Million; Reiterates Guidance",
+      "title": "TechnologyOne FY 2026 slides: record ARR growth, AI product Plus surges",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8348,
+      "score": 0.9449,
       "currencies": []
     },
     {
-      "title": "Arcus Biosciences at Jefferies Global Healthcare Conference: casdatifan push",
+      "title": "Klaviyo chief legal officer Landon Edmond sells $480,720 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: CMCT narrows losses in Q3 2026 as revenue beats",
+      "title": "Kratos Defense director King buys $201,091 in company stock",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8843,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Market positioning risks: why falling P/E ratios may signal a valuation trap",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9672,
-      "currencies": []
-    },
-    {
-      "title": "Tesla to invest \u20ac3 billion to expand Berlin factory for Cybercab",
+      "title": "Yalla Q3 2026 slides: gaming push drives costs, revenue growth modest",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.727,
+      "score": 0.6915,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: TechnologyOne tops FY 2026 targets, shares rise 5.2%",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9486,
+      "currencies": []
+    },
+    {
+      "title": "ISQ Global Fund II GP director sells $4.25M Kinetik Holdings stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Cathie Wood\u2019s ARK stock moves: Sells Nvidia, buys Block and Circle Internet",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US dollar hits 19-month peak on Fed hike bets; Aussie dips",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.7294,
       "currencies": []
     }
   ],

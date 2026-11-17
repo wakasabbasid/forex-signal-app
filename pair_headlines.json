@@ -24,6 +24,20 @@
         "label": "bullish",
         "score": 0.472
       }
+    ],
+    "USD/JPY": [
+      {
+        "title": "PBOC sets USD/ CNY central rate at 6.7132 (vs. estimate at 6.6715)",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.6715 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      }
     ]
   }
 }
