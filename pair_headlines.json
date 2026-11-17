@@ -3,40 +3,18 @@
   "pairs": {
     "EUR/USD": [
       {
-        "title": "EUR/USD forecast: Dollar strength puts 1.1000 support in the spotlight | Currency Pair of the Week - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "USD/CAD": [
-      {
-        "title": "USD/CAD nears a breakout that could send it much higher - CMC Markets",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9082
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "Weekly Report: DXY 103.41, 10-year 5.15%, AUD carry 3bp \u2014 three FX regimes flipped in one week - Mitrade",
+        "title": "EUR/USD forecast: Dollar strength puts 1.1000 support in the spotlight | Currency Pair of the Week - StoneX",
         "source": "Google News",
         "label": "bullish",
-        "score": 0.472
+        "score": 0.9132
       }
     ],
-    "USD/JPY": [
+    "NZD/USD": [
       {
-        "title": "PBOC sets USD/ CNY central rate at 6.7132 (vs. estimate at 6.6715)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.6715 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
+        "title": "NZD/USD Nears 2020 Low Despite Rising RBNZ Rate Hike Expectations - Action Forex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.8225
       }
     ]
   }

@@ -1,23 +1,6 @@
 {
   "headlines": [
     {
-      "title": "Forex Market \u2014 Live Currency Charts, News, Ideas - TradingView",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD forecast: Dollar strength puts 1.1000 support in the spotlight | Currency Pair of the Week - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
       "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0411\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0438",
       "source": "Google News",
       "label": "neutral",
@@ -25,21 +8,28 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: Market attention turns to US consumer spending and UK jobs - www.tmgm.com",
+      "title": "Forex Market \u2014 Live Currency Charts, News, Ideas - TradingView",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "USD/CAD nears a breakout that could send it much higher - CMC Markets",
+      "title": "EUR/USD forecast: Dollar strength puts 1.1000 support in the spotlight | Currency Pair of the Week - StoneX",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9082,
+      "label": "bullish",
+      "score": 0.9132,
       "currencies": [
-        "USD",
-        "CAD"
+        "EUR",
+        "USD"
       ]
+    },
+    {
+      "title": "Understanding the Big Mac Index - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "US Treasury bought nearly $500mn in yen during joint July forex intervention - Nikkei Asia",
@@ -49,7 +39,21 @@
       "currencies": []
     },
     {
+      "title": "Forex Today: US Dollar corrects lower ahead of mid-tier data releases - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9212,
+      "currencies": []
+    },
+    {
       "title": "China's forex reserve requirement hike takes effect - China Daily",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "November 17: Cedi sells at GHS12.35 on forex market, GHS11.74 on BoG interbank - Modern Ghana",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -63,89 +67,83 @@
       "currencies": []
     },
     {
-      "title": "altFINS Adds US Stocks and Forex to Its Market Screener, Signals and AI Tools - Benzinga",
+      "title": "Forex Today: Market attention turns to US consumer spending and UK jobs - www.tmgm.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Forex Today: Markets turn cautious to start week, US Dollar holds firm - FXStreet",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.5422,
-      "currencies": []
-    },
-    {
-      "title": "Understanding the Big Mac Index - FOREX.com",
+      "title": "Best Time to Trade AUDUSD: The Hours When the Aussie Dollar Moves the Most - Mitrade",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Weekly Report: DXY 103.41, 10-year 5.15%, AUD carry 3bp \u2014 three FX regimes flipped in one week - Mitrade",
+      "title": "NZD/USD Nears 2020 Low Despite Rising RBNZ Rate Hike Expectations - Action Forex",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.472,
+      "label": "bearish",
+      "score": -0.8225,
       "currencies": [
-        "AUD"
+        "NZD",
+        "USD"
       ]
     },
     {
-      "title": "TechnologyOne FY 2026 slides: record ARR growth, AI product Plus surges",
+      "title": "Nvidia shares set for $335 billion swing after earnings, options show",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Exclusive-GM plans 20% boost in robotics as factory costs rise",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9449,
+      "score": 0.9383,
       "currencies": []
     },
     {
-      "title": "Klaviyo chief legal officer Landon Edmond sells $480,720 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Kratos Defense director King buys $201,091 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Yalla Q3 2026 slides: gaming push drives costs, revenue growth modest",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6915,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: TechnologyOne tops FY 2026 targets, shares rise 5.2%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9486,
-      "currencies": []
-    },
-    {
-      "title": "ISQ Global Fund II GP director sells $4.25M Kinetik Holdings stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Cathie Wood\u2019s ARK stock moves: Sells Nvidia, buys Block and Circle Internet",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US dollar hits 19-month peak on Fed hike bets; Aussie dips",
+      "title": "Exclusive-Trump\u2019s China data center curb advances despite Amazon, Google, Meta lobbying",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7294,
+      "score": -0.5691,
+      "currencies": []
+    },
+    {
+      "title": "North Carolina Utilities Commission approves Duke Energy rate settlements",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Nozomi Networks partners with Lockheed Martin on cybersecurity",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Shaky semiconductor trade faces big week, as investors look for bottom",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9375,
+      "currencies": []
+    },
+    {
+      "title": "Perpetua Resources signs MOU for potential tungsten funding",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8944,
+      "currencies": []
+    },
+    {
+      "title": "Medtronic receives FDA clearance for Hugo system in general surgery",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8744,
       "currencies": []
     }
   ],
