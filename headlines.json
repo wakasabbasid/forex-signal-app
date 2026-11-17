@@ -1,149 +1,148 @@
 {
   "headlines": [
     {
-      "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0411\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0438",
-      "source": "Google News",
+      "title": "Target earnings trade: key levels, options setup and what to watch",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Forex Market \u2014 Live Currency Charts, News, Ideas - TradingView",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "title": "Why is Descartes Systems stock sliding today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8381,
       "currencies": []
     },
     {
-      "title": "EUR/USD forecast: Dollar strength puts 1.1000 support in the spotlight | Currency Pair of the Week - StoneX",
-      "source": "Google News",
+      "title": "Costco stock near 52-week high as panic buying looks priced in",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9132,
+      "score": 0.8539,
+      "currencies": []
+    },
+    {
+      "title": "Northern Trust Corp stock hits 52-week low at 17.05 USD",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9501,
       "currencies": [
-        "EUR",
         "USD"
       ]
     },
     {
-      "title": "Understanding the Big Mac Index - FOREX.com",
-      "source": "Google News",
+      "title": "Tencent Music earnings analysis: questions answered and next catalysts",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US Treasury bought nearly $500mn in yen during joint July forex intervention - Nikkei Asia",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6417,
+      "title": "Viking Holdings earnings analysis: questions answered and next catalysts",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar corrects lower ahead of mid-tier data releases - FXStreet",
-      "source": "Google News",
+      "title": "Why is Silvercorp Metals stock sliding today?",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9212,
+      "score": -0.9372,
       "currencies": []
     },
     {
-      "title": "China's forex reserve requirement hike takes effect - China Daily",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "November 17: Cedi sells at GHS12.35 on forex market, GHS11.74 on BoG interbank - Modern Ghana",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: Market attention turns to US consumer spending and UK jobs - www.tmgm.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Best Time to Trade AUDUSD: The Hours When the Aussie Dollar Moves the Most - Mitrade",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "NZD/USD Nears 2020 Low Despite Rising RBNZ Rate Hike Expectations - Action Forex",
-      "source": "Google News",
+      "title": "Why is Russel Metals stock sliding today?",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8225,
+      "score": -0.9414,
+      "currencies": []
+    },
+    {
+      "title": "Dynatrace at RBC conference: AI tailwinds and growth levers",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Exclusive-AppLovin among firms in talks to acquire Criteo, sources say",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Fed's Williams: The economy is getting stronger, inflation not moving in the right direction",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.6993,
+      "currencies": []
+    },
+    {
+      "title": "Why Warren Buffet and Berkshire Hathaway keep going back to airlines",
+      "source": "ForexLive",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Nvidia earnings after the close. The price is testing a key downside target. What are the key levels for traders?",
+      "source": "ForexLive",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Flight to safety concerns from continued cyber issues send stocks lower, yields lower, gold higher, JPY and CHF up",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.8366,
       "currencies": [
-        "NZD",
-        "USD"
+        "JPY",
+        "CHF"
       ]
     },
     {
-      "title": "Nvidia shares set for $335 billion swing after earnings, options show",
-      "source": "Investing.com",
+      "title": "Jensen Huang says open to return as CEO if board allows",
+      "source": "ForexLive",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Exclusive-GM plans 20% boost in robotics as factory costs rise",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9383,
-      "currencies": []
-    },
-    {
-      "title": "Exclusive-Trump\u2019s China data center curb advances despite Amazon, Google, Meta lobbying",
-      "source": "Investing.com",
+      "title": "It's getting tough to believe all these internet outages are a coincidence",
+      "source": "ForexLive",
       "label": "bearish",
-      "score": -0.5691,
+      "score": -0.6339,
       "currencies": []
     },
     {
-      "title": "North Carolina Utilities Commission approves Duke Energy rate settlements",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "title": "Nasdaq stretching toward the swing area and 50% retracement targets.  Key support being tested.",
+      "source": "ForexLive",
+      "label": "bullish",
+      "score": 0.9041,
       "currencies": []
     },
     {
-      "title": "Nozomi Networks partners with Lockheed Martin on cybersecurity",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Shaky semiconductor trade faces big week, as investors look for bottom",
-      "source": "Investing.com",
+      "title": "US Sept business inventories +0.5% vs +0.4% prior",
+      "source": "ForexLive",
       "label": "bearish",
-      "score": -0.9375,
+      "score": -0.7117,
       "currencies": []
     },
     {
-      "title": "Perpetua Resources signs MOU for potential tungsten funding",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8944,
+      "title": "Home Depot earnings offer a mixed picture of the US consumer as spending improves but traffic remains weak",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.8921,
       "currencies": []
     },
     {
-      "title": "Medtronic receives FDA clearance for Hugo system in general surgery",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8744,
+      "title": "NAHB housing market index for November 25 vs 29 estimate",
+      "source": "ForexLive",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

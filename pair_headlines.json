@@ -1,20 +1,26 @@
 {
   "run_id": 1,
   "pairs": {
-    "EUR/USD": [
+    "USD/JPY": [
       {
-        "title": "EUR/USD forecast: Dollar strength puts 1.1000 support in the spotlight | Currency Pair of the Week - StoneX",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.9132
+        "title": "Northern Trust Corp stock hits 52-week low at 17.05 USD",
+        "source": "Investing.com",
+        "label": "bearish",
+        "score": -0.9501
+      },
+      {
+        "title": "Flight to safety concerns from continued cyber issues send stocks lower, yields lower, gold higher, JPY and CHF up",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.8366
       }
     ],
-    "NZD/USD": [
+    "USD/CHF": [
       {
-        "title": "NZD/USD Nears 2020 Low Despite Rising RBNZ Rate Hike Expectations - Action Forex",
-        "source": "Google News",
+        "title": "Flight to safety concerns from continued cyber issues send stocks lower, yields lower, gold higher, JPY and CHF up",
+        "source": "ForexLive",
         "label": "bearish",
-        "score": -0.8225
+        "score": -0.8366
       }
     ]
   }
