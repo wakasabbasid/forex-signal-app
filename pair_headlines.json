@@ -11,16 +11,16 @@
     ],
     "USD/JPY": [
       {
-        "title": "PBOC sets USD/ CNY mid-point today at 6.7118 (vs. estimate at 6.6654)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
+        "title": "Forex Today: British Pound slides after mixed UK inflation data, USD awaits FOMC Minutes - FXStreet",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.924
       },
       {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.6654 \u2013 Reuters estimate",
+        "title": "Morgan Stanley sees USD/JPY fair value above 170, forecasts yen at 162 by late 2027",
         "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bullish",
+        "score": 0.661
       }
     ]
   }

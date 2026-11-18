@@ -18,14 +18,23 @@
       ]
     },
     {
-      "title": "China's forex reserve requirement hike takes effect - China Daily Global Edition",
+      "title": "Forex Today: British Pound slides after mixed UK inflation data, USD awaits FOMC Minutes - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.924,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Forex & Gold Outlook: Dollar Dominates, Crosses Diverge - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Forex & Gold Outlook: Dollar Dominates, Crosses Diverge - FOREX.com",
+      "title": "Silver Is Paying for a Rate Rise That Has Not Happened Yet - FXEmpire",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -39,17 +48,10 @@
       "currencies": []
     },
     {
-      "title": "US Treasury bought nearly $500mn in yen during joint July forex intervention - Nikkei Asia",
+      "title": "Indonesia raises key interest rate as rupiah hits record low - Nikkei Asia",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.6417,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: US Dollar corrects lower ahead of mid-tier data releases - FXStreet",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9212,
+      "score": 0.7706,
       "currencies": []
     },
     {
@@ -60,17 +62,10 @@
       "currencies": []
     },
     {
-      "title": "Tokyo Forex: Dollar-Yen Struggles at 159 Level as Falling US Yields, Stock Selloff Spur Yen Buying - BigGo Finance",
+      "title": "10 Best Forex Pairs To Trade in 2024 - StoneX",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9469,
-      "currencies": []
-    },
-    {
-      "title": "BSP profit soars as costs drop, forex gains rise - Inquirer.net",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.4286,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -88,56 +83,63 @@
       "currencies": []
     },
     {
-      "title": "Saba Capital Management buys $319,055 in Ellsworth Growth & Income Fund",
+      "title": "Forex Today: US Dollar corrects lower ahead of mid-tier data releases - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9212,
+      "currencies": []
+    },
+    {
+      "title": "UBS sees FTSE 100 at 11,500 by end-2027 as earnings and growth hold firm",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "MeiraGTx president & CEO Forbes sells $523,899 in shares",
+      "title": "Susquehanna reiterates Positive rating on Nvidia stock at $275",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Donnelley Financial (DFIN) CEO Leib sells $3.39M shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Saba Capital Management buys $2,080 of Gabelli Healthcare & WellnessRx Trust",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Gladstone Capital earnings beat by $0.01, revenue fell short of estimates",
+      "title": "Bernstein SocGen cuts JD.com stock price target on weak retail data",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8785,
+      "score": -0.9417,
       "currencies": []
     },
     {
-      "title": "Trump says US taking seriously report of possible Iranian dirty bomb plot in Washington",
+      "title": "BofA cuts Enovix stock rating on strategy shift, lowers target to $1",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.752,
+      "currencies": []
+    },
+    {
+      "title": "Bernstein raises Home Depot stock price target on share gains",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Oil prices fall as higher US crude stocks temper supply risks",
+      "title": "Susquehanna lowers Baidu stock price target to $75 on ad pressure",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9509,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Goldman Sachs reiterates Nvidia stock buy rating on raised 2027 guidance",
+      "title": "Lowe\u2019s beats third quarter estimates on strong sales growth",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9191,
+      "currencies": []
+    },
+    {
+      "title": "Lowe\u2019s raises annual sales forecast",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
