@@ -1,146 +1,144 @@
 {
   "headlines": [
     {
-      "title": "Target earnings trade: key levels, options setup and what to watch",
-      "source": "Investing.com",
+      "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0411\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0438",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is Descartes Systems stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8381,
-      "currencies": []
-    },
-    {
-      "title": "Costco stock near 52-week high as panic buying looks priced in",
-      "source": "Investing.com",
+      "title": "EUR/USD forecast: Dollar strength puts 1.1000 support in the spotlight | Currency Pair of the Week - StoneX",
+      "source": "Google News",
       "label": "bullish",
-      "score": 0.8539,
-      "currencies": []
-    },
-    {
-      "title": "Northern Trust Corp stock hits 52-week low at 17.05 USD",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9501,
+      "score": 0.9132,
       "currencies": [
+        "EUR",
         "USD"
       ]
     },
     {
-      "title": "Tencent Music earnings analysis: questions answered and next catalysts",
-      "source": "Investing.com",
+      "title": "China's forex reserve requirement hike takes effect - China Daily Global Edition",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Viking Holdings earnings analysis: questions answered and next catalysts",
-      "source": "Investing.com",
+      "title": "Forex & Gold Outlook: Dollar Dominates, Crosses Diverge - FOREX.com",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is Silvercorp Metals stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9372,
-      "currencies": []
-    },
-    {
-      "title": "Why is Russel Metals stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9414,
-      "currencies": []
-    },
-    {
-      "title": "Dynatrace at RBC conference: AI tailwinds and growth levers",
-      "source": "Investing.com",
+      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Exclusive-AppLovin among firms in talks to acquire Criteo, sources say",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Fed's Williams: The economy is getting stronger, inflation not moving in the right direction",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.6993,
-      "currencies": []
-    },
-    {
-      "title": "Why Warren Buffet and Berkshire Hathaway keep going back to airlines",
-      "source": "ForexLive",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Nvidia earnings after the close. The price is testing a key downside target. What are the key levels for traders?",
-      "source": "ForexLive",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Flight to safety concerns from continued cyber issues send stocks lower, yields lower, gold higher, JPY and CHF up",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.8366,
-      "currencies": [
-        "JPY",
-        "CHF"
-      ]
-    },
-    {
-      "title": "Jensen Huang says open to return as CEO if board allows",
-      "source": "ForexLive",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "It's getting tough to believe all these internet outages are a coincidence",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.6339,
-      "currencies": []
-    },
-    {
-      "title": "Nasdaq stretching toward the swing area and 50% retracement targets.  Key support being tested.",
-      "source": "ForexLive",
+      "title": "US Treasury bought nearly $500mn in yen during joint July forex intervention - Nikkei Asia",
+      "source": "Google News",
       "label": "bullish",
-      "score": 0.9041,
+      "score": 0.6417,
       "currencies": []
     },
     {
-      "title": "US Sept business inventories +0.5% vs +0.4% prior",
-      "source": "ForexLive",
+      "title": "Forex Today: US Dollar corrects lower ahead of mid-tier data releases - FXStreet",
+      "source": "Google News",
       "label": "bearish",
-      "score": -0.7117,
+      "score": -0.9212,
       "currencies": []
     },
     {
-      "title": "Home Depot earnings offer a mixed picture of the US consumer as spending improves but traffic remains weak",
-      "source": "ForexLive",
+      "title": "Forex Today: Can the US Dollar Stay Firm as Markets Begin the Week on a Cautious Note? - www.tmgm.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Tokyo Forex: Dollar-Yen Struggles at 159 Level as Falling US Yields, Stock Selloff Spur Yen Buying - BigGo Finance",
+      "source": "Google News",
       "label": "bearish",
-      "score": -0.8921,
+      "score": -0.9469,
       "currencies": []
     },
     {
-      "title": "NAHB housing market index for November 25 vs 29 estimate",
-      "source": "ForexLive",
+      "title": "BSP profit soars as costs drop, forex gains rise - Inquirer.net",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.4286,
+      "currencies": []
+    },
+    {
+      "title": "US Dollar, Gold, Silver Outlook: 2026 Extremes and Key Levels to Watch - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: Market attention turns to US consumer spending and UK jobs - www.tmgm.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Saba Capital Management buys $319,055 in Ellsworth Growth & Income Fund",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "MeiraGTx president & CEO Forbes sells $523,899 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Donnelley Financial (DFIN) CEO Leib sells $3.39M shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Saba Capital Management buys $2,080 of Gabelli Healthcare & WellnessRx Trust",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Gladstone Capital earnings beat by $0.01, revenue fell short of estimates",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8785,
+      "currencies": []
+    },
+    {
+      "title": "Trump says US taking seriously report of possible Iranian dirty bomb plot in Washington",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Oil prices fall as higher US crude stocks temper supply risks",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9509,
+      "currencies": []
+    },
+    {
+      "title": "Goldman Sachs reiterates Nvidia stock buy rating on raised 2027 guidance",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
