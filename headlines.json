@@ -1,148 +1,145 @@
 {
   "headlines": [
     {
-      "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0411\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0438",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD forecast: Dollar strength puts 1.1000 support in the spotlight | Currency Pair of the Week - StoneX",
-      "source": "Google News",
+      "title": "J & J Snack Foods stock hits 52-week high at 98.75 USD",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9132,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "Forex Today: British Pound slides after mixed UK inflation data, USD awaits FOMC Minutes - FXStreet",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.924,
+      "score": 0.6764,
       "currencies": [
         "USD"
       ]
     },
     {
-      "title": "Forex & Gold Outlook: Dollar Dominates, Crosses Diverge - FOREX.com",
-      "source": "Google News",
+      "title": "Mizuho raises Costco price target but removes stock from Top Picks list",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.693,
+      "currencies": []
+    },
+    {
+      "title": "Oil prices settle lower as traders weigh surplus supply outlook",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9435,
+      "currencies": []
+    },
+    {
+      "title": "The Andersons at Stephens conference: low-carbon ethanol push",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Silver Is Paying for a Rate Rise That Has Not Happened Yet - FXEmpire",
-      "source": "Google News",
+      "title": "Root Insurance at 2026 Stephens annual investment conference: ai-led growth",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
-      "source": "Google News",
+      "title": "Canadian dollar hits 19-month low after hawkish Fed governor comments",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9068,
+      "currencies": []
+    },
+    {
+      "title": "Pennsylvania confirms eighth measles-related death amid outbreak",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8562,
+      "currencies": []
+    },
+    {
+      "title": "Pason Systems at 18th Annual Southwest IDEAS Conference: growth beyond rigs",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Indonesia raises key interest rate as rupiah hits record low - Nikkei Asia",
-      "source": "Google News",
+      "title": "Simpson Manufacturing at Stephens conference: growth plans in a weak housing market",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6585,
+      "currencies": []
+    },
+    {
+      "title": "Top pharma stock to watch: TD Cowen\u2019s pick",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "NZDUSD sellers stay in control as price nears the 0.54808 floor",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.5032,
+      "currencies": []
+    },
+    {
+      "title": "FOMC Minutes: A couple of participants noted a hike of more than 25 bps could warrant consideration in December",
+      "source": "ForexLive",
       "label": "bullish",
-      "score": 0.7706,
+      "score": 0.6213,
       "currencies": []
     },
     {
-      "title": "Forex Today: Can the US Dollar Stay Firm as Markets Begin the Week on a Cautious Note? - www.tmgm.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "10 Best Forex Pairs To Trade in 2024 - StoneX",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "US Dollar, Gold, Silver Outlook: 2026 Extremes and Key Levels to Watch - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: Market attention turns to US consumer spending and UK jobs - www.tmgm.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: US Dollar corrects lower ahead of mid-tier data releases - FXStreet",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9212,
-      "currencies": []
-    },
-    {
-      "title": "UBS sees FTSE 100 at 11,500 by end-2027 as earnings and growth hold firm",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Susquehanna reiterates Positive rating on Nvidia stock at $275",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Bernstein SocGen cuts JD.com stock price target on weak retail data",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9417,
-      "currencies": []
-    },
-    {
-      "title": "BofA cuts Enovix stock rating on strategy shift, lowers target to $1",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.752,
-      "currencies": []
-    },
-    {
-      "title": "Bernstein raises Home Depot stock price target on share gains",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Susquehanna lowers Baidu stock price target to $75 on ad pressure",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Lowe\u2019s beats third quarter estimates on strong sales growth",
-      "source": "Investing.com",
+      "title": "Fed's Barr supports further rate hikes as inflation remains too high",
+      "source": "ForexLive",
       "label": "bullish",
-      "score": 0.9191,
+      "score": 0.7924,
       "currencies": []
     },
     {
-      "title": "Lowe\u2019s raises annual sales forecast",
-      "source": "Investing.com",
+      "title": "The market's verdict on Nvidia earnings is a problem for the AI boom trade",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.9622,
+      "currencies": []
+    },
+    {
+      "title": "The US Treasury auctions $16B of 20 year bonds at a high year at 5.459%",
+      "source": "ForexLive",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "BoC\u2019s Gravelle says policy scenarios help build credibility",
+      "source": "ForexLive",
+      "label": "bullish",
+      "score": 0.7948,
+      "currencies": []
+    },
+    {
+      "title": "Fed\u2019s Daly says inflation has been too high for too long as consumer spending holds up",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.8815,
+      "currencies": []
+    },
+    {
+      "title": "USDCAD trades to the highest level for the year and going back to April 2025",
+      "source": "ForexLive",
+      "label": "bullish",
+      "score": 0.9058,
+      "currencies": []
+    },
+    {
+      "title": "Crude oil is trading lower after yesterday's run to the upside found willing sellers. What next?",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.9141,
+      "currencies": []
+    },
+    {
+      "title": "US weekly crude oil inventories +3380K vs +58K expected",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.8434,
       "currencies": []
     }
   ],

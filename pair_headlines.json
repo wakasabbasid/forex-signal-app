@@ -1,26 +1,12 @@
 {
   "run_id": 1,
   "pairs": {
-    "EUR/USD": [
-      {
-        "title": "EUR/USD forecast: Dollar strength puts 1.1000 support in the spotlight | Currency Pair of the Week - StoneX",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.9132
-      }
-    ],
     "USD/JPY": [
       {
-        "title": "Forex Today: British Pound slides after mixed UK inflation data, USD awaits FOMC Minutes - FXStreet",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.924
-      },
-      {
-        "title": "Morgan Stanley sees USD/JPY fair value above 170, forecasts yen at 162 by late 2027",
-        "source": "ForexLive",
+        "title": "J & J Snack Foods stock hits 52-week high at 98.75 USD",
+        "source": "Investing.com",
         "label": "bullish",
-        "score": 0.661
+        "score": 0.6764
       }
     ]
   }
