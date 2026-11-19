@@ -1,143 +1,157 @@
 {
   "headlines": [
     {
-      "title": "Nationwide H1 2027 slides: profit jumps 23% on market-leading growth",
-      "source": "Investing.com",
+      "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0411\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0438",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Gold, GBP/USD Forecast: Two trades to watch - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
+      "title": "Forex Today: Hawkish repricing of Fed policy outlook continues to support US Dollar - FXStreet",
+      "source": "Google News",
       "label": "bullish",
-      "score": 0.9356,
+      "score": 0.7766,
       "currencies": []
     },
     {
-      "title": "Berenberg sees Wacker Neuson growth slowing as machinery demand weakens",
-      "source": "Investing.com",
+      "title": "Brazilian real near 52-week lows as fiscal concerns weigh on currency - Investing.com",
+      "source": "Google News",
       "label": "bearish",
-      "score": -0.9603,
+      "score": -0.9523,
       "currencies": []
     },
     {
-      "title": "News Corp at Morgan Stanley conference: digital shift deepens",
-      "source": "Investing.com",
+      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Lewis Group posts stronger H1 2027 profit growth",
-      "source": "Investing.com",
+      "title": "Sterling Edges Up vs Yen as UK Inflation Fuels Hike Bets - TradingPedia",
+      "source": "Google News",
       "label": "bullish",
-      "score": 0.9495,
+      "score": 0.905,
       "currencies": []
     },
     {
-      "title": "Dollar idles near 19-month peak on hawkish Fed minutes",
+      "title": "SSS starts $200,000 forex investment - The Manila Times",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Gold and Silver Extend Losses as USD Hits YTD Highs on Hawkish Fed Signals - FXEmpire",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9231,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "AUD/USD: Aussie Hits 11-Month Low Ahead of US Retail Sales - Forex Factory",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9606,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
+    },
+    {
+      "title": "EUR/USD forecast: Dollar strength puts 1.1000 support in the spotlight | Currency Pair of the Week - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "AUD/NZD Rebounds From Lows as Policy Gap Favors Kiwi - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.887,
+      "currencies": [
+        "AUD",
+        "NZD"
+      ]
+    },
+    {
+      "title": "Forex & Gold Outlook: Dollar Dominates, Crosses Diverge - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Stepan at Southwest IDEAS: growth story leans on self-help",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "First Real Estate Investment Trust of New Jersey ends Westwood Plaza sale agreement",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Nurix Therapeutics stock hits 52-week low at $13.64",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.773,
+      "score": -0.9506,
       "currencies": []
     },
     {
-      "title": "B.Riley cuts Universal Technical Institute stock price target on guidance",
+      "title": "Tracy Maitland, CEO, buys $202,979 of Advent Convertible & Income Fund",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "B.Riley reiterates Buy on SharonAI stock, cites Nvidia financing path",
+      "title": "Wall Street slides as Anthropic\u2019s debut fails to revive AI enthusiasm",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9446,
+      "currencies": []
+    },
+    {
+      "title": "Why JPMorgan\u2019s 13x P/E isn\u2019t the bargain it looks like",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Raymond James maintains Everpure stock rating on strong results",
+      "title": "Lumentum\u2019s sales surged 137%\u2014so why is its stock crashing?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8294,
+      "currencies": []
+    },
+    {
+      "title": "Why SpaceX\u2019s latest move has T-Mobile investors on edge",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "B.Riley reiterates Buy on Terra Innovatum stock, $8 target",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Kulicke and Soffa stock holds at Neutral as demand stays resilient",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8565,
-      "currencies": []
-    },
-    {
-      "title": "Crude oil extends losses amid growth concerns but risk of US strikes keeps the downside limited",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.8464,
-      "currencies": []
-    },
-    {
-      "title": "Ethereum consolidates around recent lows as the bearish momentum wanes amid lack of catalysts",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.9423,
-      "currencies": []
-    },
-    {
-      "title": "Gold's selloff may be nearing exhaustion as growth concerns challenge hawkish expectations",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.6568,
-      "currencies": []
-    },
-    {
-      "title": "FX option expiries for 19 November 10am New York cut",
-      "source": "ForexLive",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "What are the main events for today?",
-      "source": "ForexLive",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "investingLive Asia-Pacific market news: Oil holds near $92 as Gulf attacks mount,",
-      "source": "ForexLive",
-      "label": "bullish",
-      "score": 0.7976,
-      "currencies": []
-    },
-    {
-      "title": "GTA VI lifts Sony shares as PlayStation takes three-quarters of 17 million sales",
-      "source": "ForexLive",
-      "label": "bullish",
-      "score": 0.8632,
-      "currencies": []
-    },
-    {
-      "title": "Goldman cuts KOSPI target to 7,500 but says gloom is overdone, sees 48% upside",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.3839,
-      "currencies": []
-    },
-    {
-      "title": "ETH whales keep buying through the slide while bitcoin whales send coins to exchanges",
-      "source": "ForexLive",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "NYT: Trump weighs new Iran strikes as Israel presses for a four- to seven-day air campaign",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.5853,
       "currencies": []
     }
   ],
