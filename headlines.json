@@ -1,145 +1,166 @@
 {
   "headlines": [
     {
-      "title": "J & J Snack Foods stock hits 52-week high at 98.75 USD",
-      "source": "Investing.com",
+      "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0411\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0438",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Rates Shock, Metals Rout Leave Aussie Dollar Under the Pump - FOREX.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.52,
+      "currencies": []
+    },
+    {
+      "title": "EUR/USD forecast: Dollar strength puts 1.1000 support in the spotlight | Currency Pair of the Week - StoneX",
+      "source": "Google News",
       "label": "bullish",
-      "score": 0.6764,
+      "score": 0.9132,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: Can the US Dollar Stay Firm as Markets Begin the Week on a Cautious Note? - www.tmgm.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: British Pound slides after mixed UK inflation data, USD awaits FOMC Minutes - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.924,
       "currencies": [
         "USD"
       ]
     },
     {
-      "title": "Mizuho raises Costco price target but removes stock from Top Picks list",
-      "source": "Investing.com",
+      "title": "EUR/USD Forex Signal: Euro Breaks Below 1.1000 as Bears Eye 1.0879 - Daily Forex",
+      "source": "Google News",
       "label": "bearish",
-      "score": -0.693,
+      "score": -0.6502,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "Australian Dollar Extends Slump as RBA Rate Hikes Look Dead and Buried - FOREX.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8699,
       "currencies": []
     },
     {
-      "title": "Oil prices settle lower as traders weigh surplus supply outlook",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9435,
-      "currencies": []
-    },
-    {
-      "title": "The Andersons at Stephens conference: low-carbon ethanol push",
-      "source": "Investing.com",
+      "title": "Forex Today: Market attention turns to US consumer spending and UK jobs - www.tmgm.com",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Root Insurance at 2026 Stephens annual investment conference: ai-led growth",
-      "source": "Investing.com",
+      "title": "GBP/USD, EUR/USD Forecast: Two trades to watch - FOREX.com",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
+      "currencies": [
+        "GBP",
+        "USD",
+        "EUR",
+        "USD"
+      ]
     },
     {
-      "title": "Canadian dollar hits 19-month low after hawkish Fed governor comments",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9068,
-      "currencies": []
-    },
-    {
-      "title": "Pennsylvania confirms eighth measles-related death amid outbreak",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8562,
-      "currencies": []
-    },
-    {
-      "title": "Pason Systems at 18th Annual Southwest IDEAS Conference: growth beyond rigs",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Simpson Manufacturing at Stephens conference: growth plans in a weak housing market",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.6585,
-      "currencies": []
-    },
-    {
-      "title": "Top pharma stock to watch: TD Cowen\u2019s pick",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "NZDUSD sellers stay in control as price nears the 0.54808 floor",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.5032,
-      "currencies": []
-    },
-    {
-      "title": "FOMC Minutes: A couple of participants noted a hike of more than 25 bps could warrant consideration in December",
-      "source": "ForexLive",
+      "title": "EUR/USD Tests 18-Year Support, Raising Potential Reversal Risks Across USD/JPY and GBP/USD - FOREX.com",
+      "source": "Google News",
       "label": "bullish",
-      "score": 0.6213,
-      "currencies": []
+      "score": 0.9465,
+      "currencies": [
+        "EUR",
+        "USD",
+        "USD",
+        "JPY",
+        "GBP",
+        "USD"
+      ]
     },
     {
-      "title": "Fed's Barr supports further rate hikes as inflation remains too high",
-      "source": "ForexLive",
-      "label": "bullish",
-      "score": 0.7924,
-      "currencies": []
-    },
-    {
-      "title": "The market's verdict on Nvidia earnings is a problem for the AI boom trade",
-      "source": "ForexLive",
+      "title": "Japanese Yen Technical Outlook: USD/JPY Rally Stalls Near 160\u2014Breakout Support in Focus - FOREX.com",
+      "source": "Google News",
       "label": "bearish",
-      "score": -0.9622,
-      "currencies": []
+      "score": -0.9364,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
     },
     {
-      "title": "The US Treasury auctions $16B of 20 year bonds at a high year at 5.459%",
-      "source": "ForexLive",
+      "title": "Opaleye Management buys $83,435 in Grace Therapeutics stock",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "BoC\u2019s Gravelle says policy scenarios help build credibility",
-      "source": "ForexLive",
-      "label": "bullish",
-      "score": 0.7948,
+      "title": "ani pharmaceuticals CEO Nikhil Lalwani sells $384,580 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Fed\u2019s Daly says inflation has been too high for too long as consumer spending holds up",
-      "source": "ForexLive",
+      "title": "Sweetgreen chief concept officer Nicolas Jammet sells $11,868 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Stocks rise after Anthropic IPO pricing sets stage for blockbuster debut",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Trump says he referred to ex-Nvidia boss Huang\u2019s situation \u2019briefly\u2019 in talk with Xi",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Barbados readies landmark \u2019debt-for-health\u2019 swap",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japan\u2019s Datasection slumps on big guidance cut amid U.S.-China chip access row",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8815,
+      "score": -0.9616,
       "currencies": []
     },
     {
-      "title": "USDCAD trades to the highest level for the year and going back to April 2025",
-      "source": "ForexLive",
-      "label": "bullish",
-      "score": 0.9058,
-      "currencies": []
-    },
-    {
-      "title": "Crude oil is trading lower after yesterday's run to the upside found willing sellers. What next?",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.9141,
-      "currencies": []
-    },
-    {
-      "title": "US weekly crude oil inventories +3380K vs +58K expected",
-      "source": "ForexLive",
-      "label": "bearish",
-      "score": -0.8434,
+      "title": "Tenaya Therapeutics CEO Ali Faraz sells $1,122 in common stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
