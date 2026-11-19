@@ -1,166 +1,143 @@
 {
   "headlines": [
     {
-      "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0411\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0438",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Rates Shock, Metals Rout Leave Aussie Dollar Under the Pump - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.52,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD forecast: Dollar strength puts 1.1000 support in the spotlight | Currency Pair of the Week - StoneX",
-      "source": "Google News",
+      "title": "Nationwide H1 2027 slides: profit jumps 23% on market-leading growth",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9132,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "score": 0.9356,
       "currencies": []
     },
     {
-      "title": "Forex Today: Can the US Dollar Stay Firm as Markets Begin the Week on a Cautious Note? - www.tmgm.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: British Pound slides after mixed UK inflation data, USD awaits FOMC Minutes - FXStreet",
-      "source": "Google News",
+      "title": "Berenberg sees Wacker Neuson growth slowing as machinery demand weakens",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.924,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "EUR/USD Forex Signal: Euro Breaks Below 1.1000 as Bears Eye 1.0879 - Daily Forex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6502,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "Australian Dollar Extends Slump as RBA Rate Hikes Look Dead and Buried - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8699,
+      "score": -0.9603,
       "currencies": []
     },
     {
-      "title": "Forex Today: Market attention turns to US consumer spending and UK jobs - www.tmgm.com",
-      "source": "Google News",
+      "title": "News Corp at Morgan Stanley conference: digital shift deepens",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "GBP/USD, EUR/USD Forecast: Two trades to watch - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD",
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "EUR/USD Tests 18-Year Support, Raising Potential Reversal Risks Across USD/JPY and GBP/USD - FOREX.com",
-      "source": "Google News",
+      "title": "Earnings call transcript: Lewis Group posts stronger H1 2027 profit growth",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9465,
-      "currencies": [
-        "EUR",
-        "USD",
-        "USD",
-        "JPY",
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "Japanese Yen Technical Outlook: USD/JPY Rally Stalls Near 160\u2014Breakout Support in Focus - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9364,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
-      "title": "Opaleye Management buys $83,435 in Grace Therapeutics stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "score": 0.9495,
       "currencies": []
     },
     {
-      "title": "ani pharmaceuticals CEO Nikhil Lalwani sells $384,580 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Sweetgreen chief concept officer Nicolas Jammet sells $11,868 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Stocks rise after Anthropic IPO pricing sets stage for blockbuster debut",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Trump says he referred to ex-Nvidia boss Huang\u2019s situation \u2019briefly\u2019 in talk with Xi",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Barbados readies landmark \u2019debt-for-health\u2019 swap",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan\u2019s Datasection slumps on big guidance cut amid U.S.-China chip access row",
+      "title": "Dollar idles near 19-month peak on hawkish Fed minutes",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9616,
+      "score": -0.773,
       "currencies": []
     },
     {
-      "title": "Tenaya Therapeutics CEO Ali Faraz sells $1,122 in common stock",
+      "title": "B.Riley cuts Universal Technical Institute stock price target on guidance",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "B.Riley reiterates Buy on SharonAI stock, cites Nvidia financing path",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Raymond James maintains Everpure stock rating on strong results",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "B.Riley reiterates Buy on Terra Innovatum stock, $8 target",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Kulicke and Soffa stock holds at Neutral as demand stays resilient",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8565,
+      "currencies": []
+    },
+    {
+      "title": "Crude oil extends losses amid growth concerns but risk of US strikes keeps the downside limited",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.8464,
+      "currencies": []
+    },
+    {
+      "title": "Ethereum consolidates around recent lows as the bearish momentum wanes amid lack of catalysts",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.9423,
+      "currencies": []
+    },
+    {
+      "title": "Gold's selloff may be nearing exhaustion as growth concerns challenge hawkish expectations",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.6568,
+      "currencies": []
+    },
+    {
+      "title": "FX option expiries for 19 November 10am New York cut",
+      "source": "ForexLive",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "What are the main events for today?",
+      "source": "ForexLive",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "investingLive Asia-Pacific market news: Oil holds near $92 as Gulf attacks mount,",
+      "source": "ForexLive",
+      "label": "bullish",
+      "score": 0.7976,
+      "currencies": []
+    },
+    {
+      "title": "GTA VI lifts Sony shares as PlayStation takes three-quarters of 17 million sales",
+      "source": "ForexLive",
+      "label": "bullish",
+      "score": 0.8632,
+      "currencies": []
+    },
+    {
+      "title": "Goldman cuts KOSPI target to 7,500 but says gloom is overdone, sees 48% upside",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.3839,
+      "currencies": []
+    },
+    {
+      "title": "ETH whales keep buying through the slide while bitcoin whales send coins to exchanges",
+      "source": "ForexLive",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "NYT: Trump weighs new Iran strikes as Israel presses for a four- to seven-day air campaign",
+      "source": "ForexLive",
+      "label": "bearish",
+      "score": -0.5853,
       "currencies": []
     }
   ],
