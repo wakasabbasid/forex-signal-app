@@ -1,20 +1,6 @@
 {
   "run_id": 1,
   "pairs": {
-    "EUR/USD": [
-      {
-        "title": "EUR/USD forecast: Dollar strength puts 1.1000 support in the spotlight | Currency Pair of the Week - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "EUR/USD Keeps Falling, but Is a Reversal Getting Closer? - Daily Forex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.4873
-      }
-    ],
     "AUD/USD": [
       {
         "title": "AUD/USD Dips as China Holds Rates & Fed Bets Firm - TradingPedia",
@@ -23,9 +9,9 @@
         "score": -0.8723
       }
     ],
-    "GBP/USD": [
+    "EUR/USD": [
       {
-        "title": "Gold, GBP/USD Forecast: Two trades to watch - FOREX.com",
+        "title": "EUR/USD forecast: Dollar strength puts 1.1000 support in the spotlight | Currency Pair of the Week - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0

@@ -1,10 +1,31 @@
 {
   "headlines": [
     {
-      "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0411\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0438",
+      "title": "Forex CFD Trading - Trade FX & Currency Pairs Online | FOREX.com Europe - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "India's forex reserves fall to over three month low of $705 billion - Reuters",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9689,
+      "currencies": []
+    },
+    {
+      "title": "India\u2019s forex surges by $8.663 billion to reach all-time high of $725.727 billion - DD News",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9189,
+      "currencies": []
+    },
+    {
+      "title": "Forex reserves decline by $14 billion to $705 billion amid valuation effects, gold price decline - TradingView",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9715,
       "currencies": []
     },
     {
@@ -12,6 +33,37 @@
       "source": "Google News",
       "label": "bearish",
       "score": -0.9454,
+      "currencies": []
+    },
+    {
+      "title": "India's Forex Reserves See Significant Drop to $705.34 Billion - Rediff",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9747,
+      "currencies": []
+    },
+    {
+      "title": "AUD/USD Dips as China Holds Rates & Fed Bets Firm - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8723,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
+    },
+    {
+      "title": "China\u2019s Central Bank Tweaks Forex Reserve Rules to Steady Yuan - WSJ",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex reserves fall $14.2 billion to $705.3 billion, lowest in over three months - Moneycontrol.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9724,
       "currencies": []
     },
     {
@@ -25,131 +77,73 @@
       ]
     },
     {
-      "title": "AUD/USD Dips as China Holds Rates & Fed Bets Firm - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8723,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
-    },
-    {
-      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Tokyo Forex: Dollar-Yen Surges to 159.84 Before Pulling Back \u2014 Hawkish Remarks from Philadelphia Fed President Provide Support - BigGo Finance",
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.6848,
+      "score": 0.8977,
       "currencies": []
     },
     {
-      "title": "SSS starts $200,000 forex investment - The Manila Times",
+      "title": "Rupee Strengthens as Foreign Inflows Climb and Oil Retreats - TradingPedia",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.5553,
       "currencies": []
     },
     {
-      "title": "Triennial Central Bank Survey of foreign exchange and Over-the-counter (OTC) derivatives markets in 2025 - Bank for International Settlements",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Moving money internationally? Here\u2019s a simpler, more affordable way to transfer your funds - Moneyweb",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD Keeps Falling, but Is a Reversal Getting Closer? - Daily Forex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.4873,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "Gold, GBP/USD Forecast: Two trades to watch - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "Forex Market Explained: History, Mechanics, Pros & Cons - Investopedia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Wall Street\u2019s fear gauge touches seven-month high as AI worries mount",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7689,
-      "currencies": []
-    },
-    {
-      "title": "Wall St futures slip as Anthropic debut fails to reassure AI investors",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9423,
-      "currencies": []
-    },
-    {
-      "title": "Wells Fargo raises Valvoline stock price target on margin outlook",
+      "title": "United Bankshares declares $0.38 Q4 dividend, 53rd annual increase",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Wells Fargo reiterates Overweight on CoreWeave stock, $115 target",
+      "title": "Earnings call transcript: Vitasoy H1 2026 profit rises as stock falls 4%",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6,
+      "score": -0.8619,
       "currencies": []
     },
     {
-      "title": "Wells Fargo cuts Keysight Technologies price target on valuation",
+      "title": "Trump says US wants only older chips sold to China",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Evercore ISI cuts Intuit stock price target to $335 on Credit Karma miss",
+      "title": "Trump vows tax on US firms building data centers abroad",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9243,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Wells Fargo cuts Ross Stores stock price target on guidance concerns",
+      "title": "JPMorgan\u2019s Names Top Biotech Stocks",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8195,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Exclusive-Beijing to bar young \u2019red-chip\u2019 firms from listing outside mainland China, sources say",
+      "title": "Why is Palantir Technologies stock sliding today?",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6653,
+      "score": -0.9431,
+      "currencies": []
+    },
+    {
+      "title": "Why is Meta Platforms stock sliding today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.803,
+      "currencies": []
+    },
+    {
+      "title": "Why is Goldman Sachs stock sliding today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9122,
       "currencies": []
     }
   ],
