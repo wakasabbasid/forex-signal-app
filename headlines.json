@@ -18,6 +18,13 @@
       ]
     },
     {
+      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Forex Today: Hawkish repricing of Fed policy outlook continues to support US Dollar - FXStreet",
       "source": "Google News",
       "label": "bullish",
@@ -32,10 +39,10 @@
       "currencies": []
     },
     {
-      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "title": "Tokyo Forex: Dollar-Yen Surges to 159.84 Before Pulling Back \u2014 Hawkish Remarks from Philadelphia Fed President Provide Support - finance.biggo.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.4669,
       "currencies": []
     },
     {
@@ -46,6 +53,16 @@
       "currencies": []
     },
     {
+      "title": "EUR/USD Keeps Falling, but Is a Reversal Getting Closer? - Daily Forex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.4873,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
       "title": "SSS starts $200,000 forex investment - The Manila Times",
       "source": "Google News",
       "label": "neutral",
@@ -53,23 +70,11 @@
       "currencies": []
     },
     {
-      "title": "Gold and Silver Extend Losses as USD Hits YTD Highs on Hawkish Fed Signals - FXEmpire",
+      "title": "Moving money internationally? Here\u2019s a simpler, more affordable way to transfer your funds - Moneyweb",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9231,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "AUD/USD: Aussie Hits 11-Month Low Ahead of US Retail Sales - Forex Factory",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9606,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "EUR/USD forecast: Dollar strength puts 1.1000 support in the spotlight | Currency Pair of the Week - FOREX.com",
@@ -82,73 +87,63 @@
       ]
     },
     {
-      "title": "AUD/NZD Rebounds From Lows as Policy Gap Favors Kiwi - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.887,
-      "currencies": [
-        "AUD",
-        "NZD"
-      ]
-    },
-    {
-      "title": "Forex & Gold Outlook: Dollar Dominates, Crosses Diverge - FOREX.com",
+      "title": "Forex Market Explained: History, Mechanics, Pros & Cons - Investopedia",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Stepan at Southwest IDEAS: growth story leans on self-help",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "First Real Estate Investment Trust of New Jersey ends Westwood Plaza sale agreement",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Nurix Therapeutics stock hits 52-week low at $13.64",
+      "title": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9506,
+      "score": -0.5899,
       "currencies": []
     },
     {
-      "title": "Tracy Maitland, CEO, buys $202,979 of Advent Convertible & Income Fund",
+      "title": "Virtuix CFO McGinnis buys $40,420 in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Wall Street slides as Anthropic\u2019s debut fails to revive AI enthusiasm",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9446,
-      "currencies": []
-    },
-    {
-      "title": "Why JPMorgan\u2019s 13x P/E isn\u2019t the bargain it looks like",
+      "title": "Virtuix Holdings CEO Jan Goetgeluk buys $40,450 in shares",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Lumentum\u2019s sales surged 137%\u2014so why is its stock crashing?",
+      "title": "Charles R. Schwab, co-chairman, sells $6.59M in Schwab stock",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8294,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why SpaceX\u2019s latest move has T-Mobile investors on edge",
+      "title": "Energous (NASDAQ:WATT) director Roberson buys $9,540 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "AirJoule director Thomas Murphy acquires $50,182 in common stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Stellus Capital CEO Ladd buys $197,100 in SCM stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "wheels up chief people officer Brian Kedzior sells $14,418 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,

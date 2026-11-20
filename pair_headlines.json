@@ -9,29 +9,13 @@
         "score": 0.0
       }
     ],
-    "USD/JPY": [
-      {
-        "title": "Gold and Silver Extend Losses as USD Hits YTD Highs on Hawkish Fed Signals - FXEmpire",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9231
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "AUD/USD: Aussie Hits 11-Month Low Ahead of US Retail Sales - Forex Factory",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9606
-      },
-      {
-        "title": "AUD/NZD Rebounds From Lows as Policy Gap Favors Kiwi - TradingPedia",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.887
-      }
-    ],
     "EUR/USD": [
+      {
+        "title": "EUR/USD Keeps Falling, but Is a Reversal Getting Closer? - Daily Forex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.4873
+      },
       {
         "title": "EUR/USD forecast: Dollar strength puts 1.1000 support in the spotlight | Currency Pair of the Week - FOREX.com",
         "source": "Google News",
@@ -39,12 +23,18 @@
         "score": 0.0
       }
     ],
-    "NZD/USD": [
+    "USD/JPY": [
       {
-        "title": "AUD/NZD Rebounds From Lows as Policy Gap Favors Kiwi - TradingPedia",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.887
+        "title": "PBOC sets USD/ CNY reference rate for today at 6.7131 (vs. estimate at 6.6731)",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.6731 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }
