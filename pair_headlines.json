@@ -1,38 +1,32 @@
 {
   "run_id": 1,
   "pairs": {
-    "GBP/USD": [
-      {
-        "title": "Gold, GBP/USD Forecast: Two trades to watch - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
     "EUR/USD": [
-      {
-        "title": "EUR/USD Keeps Falling, but Is a Reversal Getting Closer? - Daily Forex",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.4873
-      },
       {
         "title": "EUR/USD forecast: Dollar strength puts 1.1000 support in the spotlight | Currency Pair of the Week - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      }
-    ],
-    "USD/JPY": [
-      {
-        "title": "PBOC sets USD/ CNY reference rate for today at 6.7131 (vs. estimate at 6.6731)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
       },
       {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.6731 \u2013 Reuters estimate",
-        "source": "ForexLive",
+        "title": "EUR/USD Keeps Falling, but Is a Reversal Getting Closer? - Daily Forex",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.4873
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "AUD/USD Dips as China Holds Rates & Fed Bets Firm - TradingPedia",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.8723
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "Gold, GBP/USD Forecast: Two trades to watch - FOREX.com",
+        "source": "Google News",
         "label": "neutral",
         "score": 0.0
       }

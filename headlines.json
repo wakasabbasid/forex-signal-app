@@ -8,72 +8,10 @@
       "currencies": []
     },
     {
-      "title": "Gold, GBP/USD Forecast: Two trades to watch - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: Hawkish repricing of Fed policy outlook continues to support US Dollar - FXStreet",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7766,
-      "currencies": []
-    },
-    {
-      "title": "Brazilian real near 52-week lows as fiscal concerns weigh on currency - Investing.com",
+      "title": "Forex Today: Gold extends slide toward $3,500 despite US Dollar pullback - FXStreet",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9523,
-      "currencies": []
-    },
-    {
-      "title": "Tokyo Forex: Dollar-Yen Surges to 159.84 Before Pulling Back \u2014 Hawkish Remarks from Philadelphia Fed President Provide Support - finance.biggo.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.4669,
-      "currencies": []
-    },
-    {
-      "title": "Sterling Edges Up vs Yen as UK Inflation Fuels Hike Bets - TradingPedia",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.905,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD Keeps Falling, but Is a Reversal Getting Closer? - Daily Forex",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.4873,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "SSS starts $200,000 forex investment - The Manila Times",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Moving money internationally? Here\u2019s a simpler, more affordable way to transfer your funds - Moneyweb",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "score": -0.9454,
       "currencies": []
     },
     {
@@ -87,6 +25,71 @@
       ]
     },
     {
+      "title": "AUD/USD Dips as China Holds Rates & Fed Bets Firm - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8723,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
+    },
+    {
+      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Tokyo Forex: Dollar-Yen Surges to 159.84 Before Pulling Back \u2014 Hawkish Remarks from Philadelphia Fed President Provide Support - BigGo Finance",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6848,
+      "currencies": []
+    },
+    {
+      "title": "SSS starts $200,000 forex investment - The Manila Times",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Triennial Central Bank Survey of foreign exchange and Over-the-counter (OTC) derivatives markets in 2025 - Bank for International Settlements",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Moving money internationally? Here\u2019s a simpler, more affordable way to transfer your funds - Moneyweb",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "EUR/USD Keeps Falling, but Is a Reversal Getting Closer? - Daily Forex",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.4873,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "Gold, GBP/USD Forecast: Two trades to watch - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "GBP",
+        "USD"
+      ]
+    },
+    {
       "title": "Forex Market Explained: History, Mechanics, Pros & Cons - Investopedia",
       "source": "Google News",
       "label": "neutral",
@@ -94,59 +97,59 @@
       "currencies": []
     },
     {
-      "title": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say",
+      "title": "Wall Street\u2019s fear gauge touches seven-month high as AI worries mount",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5899,
+      "score": -0.7689,
       "currencies": []
     },
     {
-      "title": "Virtuix CFO McGinnis buys $40,420 in company stock",
+      "title": "Wall St futures slip as Anthropic debut fails to reassure AI investors",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9423,
+      "currencies": []
+    },
+    {
+      "title": "Wells Fargo raises Valvoline stock price target on margin outlook",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Virtuix Holdings CEO Jan Goetgeluk buys $40,450 in shares",
+      "title": "Wells Fargo reiterates Overweight on CoreWeave stock, $115 target",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6,
+      "currencies": []
+    },
+    {
+      "title": "Wells Fargo cuts Keysight Technologies price target on valuation",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Charles R. Schwab, co-chairman, sells $6.59M in Schwab stock",
+      "title": "Evercore ISI cuts Intuit stock price target to $335 on Credit Karma miss",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9243,
       "currencies": []
     },
     {
-      "title": "Energous (NASDAQ:WATT) director Roberson buys $9,540 in stock",
+      "title": "Wells Fargo cuts Ross Stores stock price target on guidance concerns",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.8195,
       "currencies": []
     },
     {
-      "title": "AirJoule director Thomas Murphy acquires $50,182 in common stock",
+      "title": "Exclusive-Beijing to bar young \u2019red-chip\u2019 firms from listing outside mainland China, sources say",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Stellus Capital CEO Ladd buys $197,100 in SCM stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "wheels up chief people officer Brian Kedzior sells $14,418 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.6653,
       "currencies": []
     }
   ],
