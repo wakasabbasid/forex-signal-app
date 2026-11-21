@@ -3,34 +3,46 @@
   "pairs": {
     "USD/JPY": [
       {
+        "title": "USD/JPY Weekly Outlook: Yen Carry Unwind Risks Flash Red - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
         "title": "Japanese Yen Forecast: USD/JPY Bulls Falter at Major Resistance\u2014Critical Range Break in Focus - FOREX.com",
         "source": "Google News",
         "label": "bearish",
         "score": -0.7917
+      },
+      {
+        "title": "U.S. Dollar Moves Lower Amid Profit-Taking: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY - FXEmpire",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9453
       }
     ],
     "EUR/USD": [
       {
-        "title": "US Dollar Freight Train Drives EUR/USD, GBP/USD to Fresh Lows - FOREX.com",
+        "title": "U.S. Dollar Moves Lower Amid Profit-Taking: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY - FXEmpire",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.8611
+        "score": -0.9453
       }
     ],
     "GBP/USD": [
       {
-        "title": "US Dollar Freight Train Drives EUR/USD, GBP/USD to Fresh Lows - FOREX.com",
+        "title": "U.S. Dollar Moves Lower Amid Profit-Taking: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY - FXEmpire",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.8611
+        "score": -0.9453
       }
     ],
-    "AUD/USD": [
+    "USD/CAD": [
       {
-        "title": "AUD/USD Dips as China Holds Rates & Fed Bets Firm - TradingPedia",
+        "title": "U.S. Dollar Moves Lower Amid Profit-Taking: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY - FXEmpire",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.8723
+        "score": -0.9453
       }
     ]
   }

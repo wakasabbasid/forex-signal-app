@@ -1,10 +1,10 @@
 {
   "headlines": [
     {
-      "title": "India's forex reserves fall to over three month low of $705 billion - Reuters",
+      "title": "Forex Market \u2014 Live Currency Charts, News, Ideas - TradingView",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9689,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -12,6 +12,51 @@
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "India's forex reserves fall to over three month low of $705 billion - Reuters",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9689,
+      "currencies": []
+    },
+    {
+      "title": "USD/JPY Weekly Outlook: Yen Carry Unwind Risks Flash Red - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "10 Best Forex Pairs To Trade in 2024 - StoneX",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "EBC at Africa Forex Trading Expo 2026: Digital Trading Panel Discusses Growth, Trust and Payments - EBC Financial Group",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "India's Forex Reserves See Significant Drop to $705.34 Billion - Rediff",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9747,
       "currencies": []
     },
     {
@@ -25,11 +70,27 @@
       ]
     },
     {
-      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "title": "Forex Today: Gold extends slide toward $3,500 despite US Dollar pullback - FXStreet",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9454,
       "currencies": []
+    },
+    {
+      "title": "U.S. Dollar Moves Lower Amid Profit-Taking: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY - FXEmpire",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9453,
+      "currencies": [
+        "EUR",
+        "USD",
+        "GBP",
+        "USD",
+        "USD",
+        "CAD",
+        "USD",
+        "JPY"
+      ]
     },
     {
       "title": "Forex reserves decline by $14 billion to $705 billion amid valuation effects, gold price decline - TradingView",
@@ -39,116 +100,59 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: Gold extends slide toward $3,500 despite US Dollar pullback - FXStreet",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9454,
-      "currencies": []
-    },
-    {
-      "title": "India's Forex Reserves See Significant Drop to $705.34 Billion - Rediff",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9747,
-      "currencies": []
-    },
-    {
-      "title": "US Dollar Freight Train Drives EUR/USD, GBP/USD to Fresh Lows - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8611,
-      "currencies": [
-        "EUR",
-        "USD",
-        "GBP",
-        "USD"
-      ]
-    },
-    {
-      "title": "AUD/USD Dips as China Holds Rates & Fed Bets Firm - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8723,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
-    },
-    {
-      "title": "Triennial Central Bank Survey of foreign exchange and Over-the-counter (OTC) derivatives markets in 2025 - Bank for International Settlements",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex reserves fall $14.2 billion to $705.3 billion, lowest in over three months - Moneycontrol.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9724,
-      "currencies": []
-    },
-    {
-      "title": "Dollar set for 4-week win streak; yen jumps on safe-haven bid, hot inflation data By Investing.com - Investing.com South Africa",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7167,
-      "currencies": []
-    },
-    {
-      "title": "Glaukos CFO Alex Thurman sells $3.55M in stock, exercises options",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Ichor Holdings CEO Philip Barros sells $9,209 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Ethos Technologies president Wang Lingke sells $3.8M in LIFE stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Glaukos CEO Thomas Burns sells $42.6 million in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Ethos Technologies CEO and secretary Colis sells $2.92M in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Lumentum president sells $833,200 in LITE stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Lumentum director Paul Lundstrom sells $578,920 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Anthropic\u2019s post-debut stumble delivers reality check for AI trade",
+      "title": "South Korea\u2019s Lee urges faster AI investment during $5.2bn data center visit",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.6157,
+      "score": 0.833,
+      "currencies": []
+    },
+    {
+      "title": "Rigetti Computing CFO Jeffrey Bertelsen sells $30,996 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Rigetti CTO Andrew Bestwick sells $219,551 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Donegal Group sr. vp Pandey sells $17,355 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "AgEagle director Brent Klavon buys $2,999 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "How are AI chip flows reshaping dollar dominance? Deutsche Bank explains",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Rigetti Computing COO Rivas sells $72,148 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "AgEagle chairman Grant Begley buys $7,317 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],
