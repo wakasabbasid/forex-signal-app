@@ -8,17 +8,17 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s Forex Reserves Fall $14.21 Bn To $705.34 Bn - TradingView",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9675,
-      "currencies": []
-    },
-    {
       "title": "India's forex reserves fall to over three month low of $705 billion - Reuters",
       "source": "Google News",
       "label": "bearish",
       "score": -0.9689,
+      "currencies": []
+    },
+    {
+      "title": "India\u2019s Forex Reserves Fall $14.21 Bn To $705.34 Bn - TradingView",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9675,
       "currencies": []
     },
     {
@@ -53,20 +53,18 @@
       "currencies": []
     },
     {
-      "title": "U.S. Dollar Moves Lower Amid Profit-Taking: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY - FXEmpire",
+      "title": "Triennial Central Bank Survey of foreign exchange and Over-the-counter (OTC) derivatives markets in 2025 - Bank for International Settlements",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9453,
-      "currencies": [
-        "EUR",
-        "USD",
-        "GBP",
-        "USD",
-        "USD",
-        "CAD",
-        "USD",
-        "JPY"
-      ]
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Sterling Edges Up vs Yen as UK Inflation Fuels Hike Bets - TradingPedia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.905,
+      "currencies": []
     },
     {
       "title": "Japanese Yen Forecast: USD/JPY Bulls Falter at Major Resistance\u2014Critical Range Break in Focus - FOREX.com",
@@ -79,13 +77,6 @@
       ]
     },
     {
-      "title": "Sterling Edges Up vs Yen as UK Inflation Fuels Hike Bets - TradingPedia",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.905,
-      "currencies": []
-    },
-    {
       "title": "Forex Today: Hawkish repricing of Fed policy outlook continues to support US Dollar - FXStreet",
       "source": "Google News",
       "label": "bullish",
@@ -93,69 +84,69 @@
       "currencies": []
     },
     {
-      "title": "AUD/USD Dips as China Holds Rates & Fed Bets Firm - TradingPedia",
+      "title": "EUR/USD forecast: Dollar strength puts 1.1000 support in the spotlight | Currency Pair of the Week - FOREX.com",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.8723,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": [
-        "AUD",
+        "EUR",
         "USD"
       ]
     },
     {
-      "title": "Oxford Square Capital CEO Jonathan Cohen buys $24,598 of stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Oxford Square Capital Corp. president buys $24,597 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Trump seeks \u201cpermanent\u201d Iran nuclear deal; two tankers hit off Oman",
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.855,
+      "score": -0.9603,
       "currencies": []
     },
     {
-      "title": "Tecogen director John Hatsopoulos buys $8,535 in company stock",
+      "title": "Presurance Holdings director Smith acquires $7,650 in stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Comstock Inc. CEO Corrado De Gasperis buys $14,962 in stock",
+      "title": "Tecogen CFO Roger Deschenes buys $17,997 in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Comstock director Leo Drozdoff buys $19,950 in company stock",
+      "title": "Tecogen director Earl Lewis buys $19,556 in company stock",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Bitcoin rises over 2% to more than $60,000",
+      "title": "Tecogen general counsel buys $19,600 in company stock",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9273,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US denies Iranian account that missile damaged F-16 over Gulf",
+      "title": "Origin Bancorp director Michael Jones buys $78,660 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Bahrain blames Iran for strike on industrial site; Trump seeks \"permanent\" deal",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6214,
+      "score": -0.8587,
+      "currencies": []
+    },
+    {
+      "title": "Clene Inc. director Reed N. Wilcox buys $34,240 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

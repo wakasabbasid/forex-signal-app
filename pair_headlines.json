@@ -9,12 +9,6 @@
         "score": 0.0
       },
       {
-        "title": "U.S. Dollar Moves Lower Amid Profit-Taking: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY - FXEmpire",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9453
-      },
-      {
         "title": "Japanese Yen Forecast: USD/JPY Bulls Falter at Major Resistance\u2014Critical Range Break in Focus - FOREX.com",
         "source": "Google News",
         "label": "bearish",
@@ -23,34 +17,10 @@
     ],
     "EUR/USD": [
       {
-        "title": "U.S. Dollar Moves Lower Amid Profit-Taking: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY - FXEmpire",
+        "title": "EUR/USD forecast: Dollar strength puts 1.1000 support in the spotlight | Currency Pair of the Week - FOREX.com",
         "source": "Google News",
-        "label": "bearish",
-        "score": -0.9453
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "U.S. Dollar Moves Lower Amid Profit-Taking: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY - FXEmpire",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9453
-      }
-    ],
-    "USD/CAD": [
-      {
-        "title": "U.S. Dollar Moves Lower Amid Profit-Taking: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY - FXEmpire",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9453
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "AUD/USD Dips as China Holds Rates & Fed Bets Firm - TradingPedia",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.8723
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }
