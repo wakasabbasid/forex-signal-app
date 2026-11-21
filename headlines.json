@@ -1,17 +1,17 @@
 {
   "headlines": [
     {
-      "title": "Forex Market \u2014 Live Currency Charts, News, Ideas - TradingView",
+      "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0411\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0438",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0411\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0438",
+      "title": "India\u2019s Forex Reserves Fall $14.21 Bn To $705.34 Bn - TradingView",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9675,
       "currencies": []
     },
     {
@@ -32,13 +32,6 @@
       ]
     },
     {
-      "title": "10 Best Forex Pairs To Trade in 2024 - StoneX",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
       "source": "Google News",
       "label": "neutral",
@@ -51,23 +44,6 @@
       "label": "neutral",
       "score": 0.0,
       "currencies": []
-    },
-    {
-      "title": "India's Forex Reserves See Significant Drop to $705.34 Billion - Rediff",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9747,
-      "currencies": []
-    },
-    {
-      "title": "Japanese Yen Forecast: USD/JPY Bulls Falter at Major Resistance\u2014Critical Range Break in Focus - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7917,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
     },
     {
       "title": "Forex Today: Gold extends slide toward $3,500 despite US Dollar pullback - FXStreet",
@@ -93,66 +69,93 @@
       ]
     },
     {
-      "title": "Forex reserves decline by $14 billion to $705 billion amid valuation effects, gold price decline - TradingView",
+      "title": "Japanese Yen Forecast: USD/JPY Bulls Falter at Major Resistance\u2014Critical Range Break in Focus - FOREX.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9715,
+      "score": -0.7917,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "Sterling Edges Up vs Yen as UK Inflation Fuels Hike Bets - TradingPedia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.905,
       "currencies": []
     },
     {
-      "title": "South Korea\u2019s Lee urges faster AI investment during $5.2bn data center visit",
+      "title": "Forex Today: Hawkish repricing of Fed policy outlook continues to support US Dollar - FXStreet",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7766,
+      "currencies": []
+    },
+    {
+      "title": "AUD/USD Dips as China Holds Rates & Fed Bets Firm - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8723,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
+    },
+    {
+      "title": "Oxford Square Capital CEO Jonathan Cohen buys $24,598 of stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Oxford Square Capital Corp. president buys $24,597 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Trump seeks \u201cpermanent\u201d Iran nuclear deal; two tankers hit off Oman",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.855,
+      "currencies": []
+    },
+    {
+      "title": "Tecogen director John Hatsopoulos buys $8,535 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Comstock Inc. CEO Corrado De Gasperis buys $14,962 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Comstock director Leo Drozdoff buys $19,950 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin rises over 2% to more than $60,000",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.833,
+      "score": 0.9273,
       "currencies": []
     },
     {
-      "title": "Rigetti Computing CFO Jeffrey Bertelsen sells $30,996 in stock",
+      "title": "US denies Iranian account that missile damaged F-16 over Gulf",
       "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Rigetti CTO Andrew Bestwick sells $219,551 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Donegal Group sr. vp Pandey sells $17,355 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "AgEagle director Brent Klavon buys $2,999 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "How are AI chip flows reshaping dollar dominance? Deutsche Bank explains",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Rigetti Computing COO Rivas sells $72,148 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "AgEagle chairman Grant Begley buys $7,317 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.6214,
       "currencies": []
     }
   ],

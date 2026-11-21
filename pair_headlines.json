@@ -9,16 +9,16 @@
         "score": 0.0
       },
       {
-        "title": "Japanese Yen Forecast: USD/JPY Bulls Falter at Major Resistance\u2014Critical Range Break in Focus - FOREX.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.7917
-      },
-      {
         "title": "U.S. Dollar Moves Lower Amid Profit-Taking: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY - FXEmpire",
         "source": "Google News",
         "label": "bearish",
         "score": -0.9453
+      },
+      {
+        "title": "Japanese Yen Forecast: USD/JPY Bulls Falter at Major Resistance\u2014Critical Range Break in Focus - FOREX.com",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.7917
       }
     ],
     "EUR/USD": [
@@ -43,6 +43,14 @@
         "source": "Google News",
         "label": "bearish",
         "score": -0.9453
+      }
+    ],
+    "AUD/USD": [
+      {
+        "title": "AUD/USD Dips as China Holds Rates & Fed Bets Firm - TradingPedia",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.8723
       }
     ]
   }
