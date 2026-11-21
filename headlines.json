@@ -1,13 +1,6 @@
 {
   "headlines": [
     {
-      "title": "Forex CFD Trading - Trade FX & Currency Pairs Online | FOREX.com Europe - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "India's forex reserves fall to over three month low of $705 billion - Reuters",
       "source": "Google News",
       "label": "bearish",
@@ -15,10 +8,27 @@
       "currencies": []
     },
     {
-      "title": "India\u2019s forex surges by $8.663 billion to reach all-time high of $725.727 billion - DD News",
+      "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0411\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0438",
       "source": "Google News",
-      "label": "bullish",
-      "score": 0.9189,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Japanese Yen Forecast: USD/JPY Bulls Falter at Major Resistance\u2014Critical Range Break in Focus - FOREX.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7917,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -43,6 +53,18 @@
       "currencies": []
     },
     {
+      "title": "US Dollar Freight Train Drives EUR/USD, GBP/USD to Fresh Lows - FOREX.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8611,
+      "currencies": [
+        "EUR",
+        "USD",
+        "GBP",
+        "USD"
+      ]
+    },
+    {
       "title": "AUD/USD Dips as China Holds Rates & Fed Bets Firm - TradingPedia",
       "source": "Google News",
       "label": "bearish",
@@ -53,7 +75,7 @@
       ]
     },
     {
-      "title": "China\u2019s Central Bank Tweaks Forex Reserve Rules to Steady Yuan - WSJ",
+      "title": "Triennial Central Bank Survey of foreign exchange and Over-the-counter (OTC) derivatives markets in 2025 - Bank for International Settlements",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -67,83 +89,66 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD forecast: Dollar strength puts 1.1000 support in the spotlight | Currency Pair of the Week - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "title": "Dollar set for 4-week win streak; yen jumps on safe-haven bid, hot inflation data By Investing.com - Investing.com South Africa",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.8977,
+      "score": 0.7167,
       "currencies": []
     },
     {
-      "title": "Rupee Strengthens as Foreign Inflows Climb and Oil Retreats - TradingPedia",
-      "source": "Google News",
+      "title": "Glaukos CFO Alex Thurman sells $3.55M in stock, exercises options",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Ichor Holdings CEO Philip Barros sells $9,209 in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Ethos Technologies president Wang Lingke sells $3.8M in LIFE stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Glaukos CEO Thomas Burns sells $42.6 million in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Ethos Technologies CEO and secretary Colis sells $2.92M in shares",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Lumentum president sells $833,200 in LITE stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Lumentum director Paul Lundstrom sells $578,920 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Anthropic\u2019s post-debut stumble delivers reality check for AI trade",
+      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5553,
-      "currencies": []
-    },
-    {
-      "title": "United Bankshares declares $0.38 Q4 dividend, 53rd annual increase",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Earnings call transcript: Vitasoy H1 2026 profit rises as stock falls 4%",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8619,
-      "currencies": []
-    },
-    {
-      "title": "Trump says US wants only older chips sold to China",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Trump vows tax on US firms building data centers abroad",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "JPMorgan\u2019s Names Top Biotech Stocks",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Why is Palantir Technologies stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9431,
-      "currencies": []
-    },
-    {
-      "title": "Why is Meta Platforms stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.803,
-      "currencies": []
-    },
-    {
-      "title": "Why is Goldman Sachs stock sliding today?",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9122,
+      "score": 0.6157,
       "currencies": []
     }
   ],

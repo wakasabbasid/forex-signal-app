@@ -1,20 +1,36 @@
 {
   "run_id": 1,
   "pairs": {
+    "USD/JPY": [
+      {
+        "title": "Japanese Yen Forecast: USD/JPY Bulls Falter at Major Resistance\u2014Critical Range Break in Focus - FOREX.com",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.7917
+      }
+    ],
+    "EUR/USD": [
+      {
+        "title": "US Dollar Freight Train Drives EUR/USD, GBP/USD to Fresh Lows - FOREX.com",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.8611
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "US Dollar Freight Train Drives EUR/USD, GBP/USD to Fresh Lows - FOREX.com",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.8611
+      }
+    ],
     "AUD/USD": [
       {
         "title": "AUD/USD Dips as China Holds Rates & Fed Bets Firm - TradingPedia",
         "source": "Google News",
         "label": "bearish",
         "score": -0.8723
-      }
-    ],
-    "EUR/USD": [
-      {
-        "title": "EUR/USD forecast: Dollar strength puts 1.1000 support in the spotlight | Currency Pair of the Week - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
       }
     ]
   }
