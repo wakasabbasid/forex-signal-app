@@ -3,21 +3,33 @@
   "pairs": {
     "USD/JPY": [
       {
+        "title": "Euro steady below 1.1000 vs USD, holding above YTD low ahead of flash PMIs - www.tmgm.com",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.6055
+      },
+      {
         "title": "USD/JPY Weekly Outlook: Yen Carry Unwind Risks Flash Red - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "Japanese Yen Forecast: USD/JPY Bulls Falter at Major Resistance\u2014Critical Range Break in Focus - FOREX.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.7917
+        "title": "PBOC sets USD/ CNY reference rate for today at 6.7120 (vs. estimate at 6.6775)",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.6775 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
-    "EUR/USD": [
+    "AUD/USD": [
       {
-        "title": "EUR/USD forecast: Dollar strength puts 1.1000 support in the spotlight | Currency Pair of the Week - FOREX.com",
+        "title": "AUD/USD Outlook: Macro Forces Collide Ahead of US, AU Inflation - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
