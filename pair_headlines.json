@@ -3,25 +3,13 @@
   "pairs": {
     "USD/JPY": [
       {
-        "title": "Euro steady below 1.1000 vs USD, holding above YTD low ahead of flash PMIs - www.tmgm.com",
+        "title": "USD/JPY Price Forecast: Starts the week positively despite USD Index retreats - www.tmgm.com",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.6055
-      },
-      {
-        "title": "USD/JPY Weekly Outlook: Yen Carry Unwind Risks Flash Red - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "score": -0.5142
       },
       {
         "title": "PBOC sets USD/ CNY reference rate for today at 6.7120 (vs. estimate at 6.6775)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      },
-      {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.6775 \u2013 Reuters estimate",
         "source": "ForexLive",
         "label": "neutral",
         "score": 0.0

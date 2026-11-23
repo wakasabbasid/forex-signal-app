@@ -1,10 +1,24 @@
 {
   "headlines": [
     {
+      "title": "FX Futures and Options - CME Group",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "India's forex reserves fall to over three month low of $705 billion - Reuters",
       "source": "Google News",
       "label": "bearish",
       "score": -0.9689,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: Gold rebounds above $3,600, US Dollar retreats ahead of PMI data - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9323,
       "currencies": []
     },
     {
@@ -15,13 +29,29 @@
       "currencies": []
     },
     {
-      "title": "Euro steady below 1.1000 vs USD, holding above YTD low ahead of flash PMIs - www.tmgm.com",
+      "title": "USD/JPY Price Forecast: Starts the week positively despite USD Index retreats - www.tmgm.com",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.6055,
+      "score": -0.5142,
       "currencies": [
+        "USD",
+        "JPY",
         "USD"
       ]
+    },
+    {
+      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Gold and Silver Price Forecast: Strong Dollar Caps Rebound Before PCE - FXEmpire",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9415,
+      "currencies": []
     },
     {
       "title": "AUD/USD Outlook: Macro Forces Collide Ahead of US, AU Inflation - FOREX.com",
@@ -34,7 +64,14 @@
       ]
     },
     {
-      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "title": "Rupee declines 23 paise to 92.85 against U.S. dollar in early trade - The Hindu",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8916,
+      "currencies": []
+    },
+    {
+      "title": "Myanmar\u2019s Foreign Exchange Controls Compound Challenges - fulcrum.sg",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -48,104 +85,66 @@
       "currencies": []
     },
     {
-      "title": "Why the Dollar Is Gaining as the Tech Sell-Off Spreads - Daily Forex",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: Gold extends slide toward $3,500 despite US Dollar pullback - FXStreet",
+      "title": "OCBC: AI rout becomes a growth shock as EM currencies take the dollar's strength - investingLive",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9454,
+      "score": -0.6101,
       "currencies": []
     },
     {
-      "title": "Triennial Central Bank Survey of foreign exchange and Over-the-counter (OTC) derivatives markets in 2025 - Bank for International Settlements",
-      "source": "Google News",
+      "title": "E3 Lithium completes phase 2, begins phase 3 operations",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Sterling Edges Up vs Yen as UK Inflation Fuels Hike Bets - TradingPedia",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.905,
-      "currencies": []
-    },
-    {
-      "title": "USD/JPY Weekly Outlook: Yen Carry Unwind Risks Flash Red - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
-      "title": "SNB\u2019s Martin: Closely watching for second-round inflation effects - www.tmgm.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Copper rises after last week\u2019s 9% drop on AI demand concerns",
+      "title": "Phillip Securities downgrades Disney stock rating on valuation",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9086,
+      "score": -0.7908,
       "currencies": []
     },
     {
-      "title": "India\u2019s RBI expected to raise rates in December, deliver final hike in February",
+      "title": "Indonesia central bank says MSCI talks with Prabowo support rupiah",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7131,
+      "score": 0.6479,
       "currencies": []
     },
     {
-      "title": "Donegal Group svp Jeffery Hay sells $343,155 in shares",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Is a +52% November run the start or the end for this AI-picked ad-tech name?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Gladstone Commercial CEO buys $99,999 in common stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Clariant, CD&R in talks to acquire Ashland, Bloomberg reports",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Wall Street futures jump after major indexes enter correction territory",
+      "title": "Asia FX broadly firmer as dollar retreats from 19-month high; yuan, won gain",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7289,
+      "score": -0.8923,
       "currencies": []
     },
     {
-      "title": "COP31 climate talks collapse as EU and others reject deal",
+      "title": "European shares catch modest bid after brutal sell-off",
       "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8696,
+      "label": "bullish",
+      "score": 0.8121,
+      "currencies": []
+    },
+    {
+      "title": "Jefferies upgrades Zimmer Biomet stock rating on valuation, growth outlook",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Phillip Securities upgrades Palo Alto Networks stock rating on AI security demand",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Hilbert Group Q3 2026 slides: assets surge 55% as costs fall",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9179,
       "currencies": []
     }
   ],
