@@ -1,17 +1,68 @@
 {
   "headlines": [
     {
-      "title": "FX Futures and Options - CME Group",
+      "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0411\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0438",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
+      "title": "EUR/USD forecast: Currency Pair of the Week | November 23, 2026 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
       "title": "India's forex reserves fall to over three month low of $705 billion - Reuters",
       "source": "Google News",
       "label": "bearish",
       "score": -0.9689,
+      "currencies": []
+    },
+    {
+      "title": "The EUR/USD tests critical support ahead of US inflation data - CMC Markets",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6324,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "South Sudan to prosecute unregistered forex traders - CAJ News Africa",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "AUD/USD Stalls Below 0.6650 as Sellers Hold Control - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9444,
+      "currencies": [
+        "AUD",
+        "USD"
+      ]
+    },
+    {
+      "title": "ATFX client trading volumes rise 12% in Q3 2026 to $870.8 billion - FX News Group",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8858,
+      "currencies": []
+    },
+    {
+      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
@@ -22,60 +73,21 @@
       "currencies": []
     },
     {
-      "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0411\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0438",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "USD/JPY Price Forecast: Starts the week positively despite USD Index retreats - www.tmgm.com",
+      "title": "BoSS threatens closure of unlicensed forex dealers - Sudans Post",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.5142,
-      "currencies": [
-        "USD",
-        "JPY",
-        "USD"
-      ]
-    },
-    {
-      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "score": -0.9287,
       "currencies": []
     },
     {
-      "title": "Gold and Silver Price Forecast: Strong Dollar Caps Rebound Before PCE - FXEmpire",
+      "title": "GBP/USD Signal: Pound Breaks Key Support as Dollar Strength Builds - Daily Forex",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9415,
-      "currencies": []
-    },
-    {
-      "title": "AUD/USD Outlook: Macro Forces Collide Ahead of US, AU Inflation - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "score": 0.6047,
       "currencies": [
-        "AUD",
+        "GBP",
         "USD"
       ]
-    },
-    {
-      "title": "Rupee declines 23 paise to 92.85 against U.S. dollar in early trade - The Hindu",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8916,
-      "currencies": []
-    },
-    {
-      "title": "Myanmar\u2019s Foreign Exchange Controls Compound Challenges - fulcrum.sg",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
     },
     {
       "title": "India\u2019s Forex Reserves Fall $14.21 Bn To $705.34 Bn - TradingView",
@@ -85,66 +97,59 @@
       "currencies": []
     },
     {
-      "title": "OCBC: AI rout becomes a growth shock as EM currencies take the dollar's strength - investingLive",
-      "source": "Google News",
+      "title": "US to blacklist Megaspeed chip firm linked to Nvidia scandal, source says",
+      "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6101,
+      "score": -0.8562,
       "currencies": []
     },
     {
-      "title": "E3 Lithium completes phase 2, begins phase 3 operations",
+      "title": "Citadel Securities\u2019 2018 analogy for U.S. markets: what fits and what differs now",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Phillip Securities downgrades Disney stock rating on valuation",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.7908,
-      "currencies": []
-    },
-    {
-      "title": "Indonesia central bank says MSCI talks with Prabowo support rupiah",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.6479,
-      "currencies": []
-    },
-    {
-      "title": "Asia FX broadly firmer as dollar retreats from 19-month high; yuan, won gain",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8923,
-      "currencies": []
-    },
-    {
-      "title": "European shares catch modest bid after brutal sell-off",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.8121,
-      "currencies": []
-    },
-    {
-      "title": "Jefferies upgrades Zimmer Biomet stock rating on valuation, growth outlook",
+      "title": "ServiceNow stock: catalysts, technicals, and outlook after the selloff",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Phillip Securities upgrades Palo Alto Networks stock rating on AI security demand",
+      "title": "PG vs. CL: value, quality, and pair-trade setup compared",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Hilbert Group Q3 2026 slides: assets surge 55% as costs fall",
+      "title": "Social media companies not liable for Buffalo mass shooting, New York\u2019s highest court rules",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.5075,
+      "currencies": []
+    },
+    {
+      "title": "JD Vance\u2019s ties to prized Venezuelan oil contract under investigation by US Senate panel",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Blue Biofuels director Chris Kneppers sells $15,263 in common stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Anthropic options post solid debut, trailing SpaceX record",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9179,
+      "score": 0.8494,
       "currencies": []
     }
   ],
