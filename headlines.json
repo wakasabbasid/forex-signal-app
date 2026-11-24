@@ -1,7 +1,7 @@
 {
   "headlines": [
     {
-      "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0411\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0438",
+      "title": "Forex currencies: live prices, changes, trading volume and daily charts - Yahoo Finance Australia",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -18,6 +18,16 @@
       ]
     },
     {
+      "title": "EUR/USD - CME Group",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
       "title": "India's forex reserves fall to over three month low of $705 billion - Reuters",
       "source": "Google News",
       "label": "bearish",
@@ -25,17 +35,14 @@
       "currencies": []
     },
     {
-      "title": "The EUR/USD tests critical support ahead of US inflation data - CMC Markets",
+      "title": "India\u2019s forex surges by $8.663 billion to reach all-time high of $725.727 billion - DD News",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.6324,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
+      "score": 0.9189,
+      "currencies": []
     },
     {
-      "title": "South Sudan to prosecute unregistered forex traders - CAJ News Africa",
+      "title": "China\u2019s Central Bank Tweaks Forex Reserve Rules to Steady Yuan - WSJ",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -52,24 +59,17 @@
       ]
     },
     {
-      "title": "ATFX client trading volumes rise 12% in Q3 2026 to $870.8 billion - FX News Group",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8858,
-      "currencies": []
-    },
-    {
-      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "title": "South Sudan to prosecute unregistered forex traders - CAJ News Africa",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Forex Today: Gold rebounds above $3,600, US Dollar retreats ahead of PMI data - FXStreet",
+      "title": "ATFX client trading volumes rise 12% in Q3 2026 to $870.8 billion - FX News Group",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9323,
+      "label": "bullish",
+      "score": 0.8858,
       "currencies": []
     },
     {
@@ -80,16 +80,6 @@
       "currencies": []
     },
     {
-      "title": "GBP/USD Signal: Pound Breaks Key Support as Dollar Strength Builds - Daily Forex",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6047,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
-    },
-    {
       "title": "India\u2019s Forex Reserves Fall $14.21 Bn To $705.34 Bn - TradingView",
       "source": "Google News",
       "label": "bearish",
@@ -97,59 +87,66 @@
       "currencies": []
     },
     {
-      "title": "US to blacklist Megaspeed chip firm linked to Nvidia scandal, source says",
+      "title": "Forex Today: Gold rebounds above $3,600, US Dollar retreats ahead of PMI data - FXStreet",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9323,
+      "currencies": []
+    },
+    {
+      "title": "Analysts comment on market impact of Huang\u2019s return as Nvidia CEO",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "BofA names its top U.S. restaurant stock picks",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Western Digital CLO Cynthia Tregillis sells $206,889 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Saba Capital Management buys $2,855 of Gabelli Healthcare stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Big Tech could face billions of dollars in fines under Australian internet safety bill",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8562,
+      "score": -0.9369,
       "currencies": []
     },
     {
-      "title": "Citadel Securities\u2019 2018 analogy for U.S. markets: what fits and what differs now",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "ServiceNow stock: catalysts, technicals, and outlook after the selloff",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "PG vs. CL: value, quality, and pair-trade setup compared",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Social media companies not liable for Buffalo mass shooting, New York\u2019s highest court rules",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.5075,
-      "currencies": []
-    },
-    {
-      "title": "JD Vance\u2019s ties to prized Venezuelan oil contract under investigation by US Senate panel",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Blue Biofuels director Chris Kneppers sells $15,263 in common stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Anthropic options post solid debut, trailing SpaceX record",
+      "title": "Indian economy in 2027: BofA forecasts strength despite inflation, rupee risks",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8494,
+      "score": 0.8972,
+      "currencies": []
+    },
+    {
+      "title": "Why is Swire Pacific stock climbing today?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Why is Cathay Pacific Airways stock falling today?",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9441,
       "currencies": []
     }
   ],

@@ -9,10 +9,10 @@
         "score": 0.0
       },
       {
-        "title": "The EUR/USD tests critical support ahead of US inflation data - CMC Markets",
+        "title": "EUR/USD - CME Group",
         "source": "Google News",
-        "label": "bullish",
-        "score": 0.6324
+        "label": "neutral",
+        "score": 0.0
       }
     ],
     "AUD/USD": [
@@ -23,12 +23,18 @@
         "score": -0.9444
       }
     ],
-    "GBP/USD": [
+    "USD/JPY": [
       {
-        "title": "GBP/USD Signal: Pound Breaks Key Support as Dollar Strength Builds - Daily Forex",
-        "source": "Google News",
-        "label": "bullish",
-        "score": 0.6047
+        "title": "PBOC sets USD/ CNY central rate at 6.7111 (vs. estimate at 6.6757)",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.6757 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }
