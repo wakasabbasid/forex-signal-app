@@ -1,40 +1,34 @@
 {
   "run_id": 1,
   "pairs": {
+    "USD/CAD": [
+      {
+        "title": "Loonie Struggles as USD/CAD Nears 19-Month High - TradingPedia",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9616
+      }
+    ],
     "EUR/USD": [
       {
         "title": "EUR/USD forecast: Currency Pair of the Week | November 23, 2026 - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      },
-      {
-        "title": "EUR/USD - CME Group",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "AUD/USD Stalls Below 0.6650 as Sellers Hold Control - TradingPedia",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.9444
       }
     ],
     "USD/JPY": [
       {
-        "title": "PBOC sets USD/ CNY central rate at 6.7111 (vs. estimate at 6.6757)",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
+        "title": "Columbia Sportswear stock hits 52-week high at 77.75 USD",
+        "source": "Investing.com",
+        "label": "bullish",
+        "score": 0.624
       },
       {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.6757 \u2013 Reuters estimate",
+        "title": "Morning Kickstart. Nvidia slips after Monday\u2019s surge. Nasdaq 100 futures fall 450 points. USD mostly lower",
         "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bearish",
+        "score": -0.9567
       }
     ]
   }

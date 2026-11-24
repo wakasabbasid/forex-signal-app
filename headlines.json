@@ -1,7 +1,73 @@
 {
   "headlines": [
     {
-      "title": "Forex currencies: live prices, changes, trading volume and daily charts - Yahoo Finance Australia",
+      "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0411\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0438",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Currencies, Commodities, and Indices Test Key Confluence Zones - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Chapo calls on Central Bank to strengthen oversight of foreign exchange transactions - aimnews.org",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Xellion Markets Brings Simpler Online Trading to Indian Traders with Instant UPI Deposits and Fast Withdrawals - markets.businessinsider.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Travelling abroad? These forex mistakes could quietly cost you thousands - Moneycontrol.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8101,
+      "currencies": []
+    },
+    {
+      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: Global stocks rally led by tech shares, US Dollar stabilizes at 20-month highs - FXStreet",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7436,
+      "currencies": []
+    },
+    {
+      "title": "Loonie Struggles as USD/CAD Nears 19-Month High - TradingPedia",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9616,
+      "currencies": [
+        "USD",
+        "CAD"
+      ]
+    },
+    {
+      "title": "US dollar refuses to budge despite the risk-on bounce, so what's keeping it so strong? - investingLive",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Ethereum (ETH) Weekly Forecast: ETH Could Revisit $1,000 During This Next Cycle - FXEmpire",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -18,135 +84,68 @@
       ]
     },
     {
-      "title": "EUR/USD - CME Group",
+      "title": "Ringgit ends higher against US dollar, major currencies ahead of FOMC meeting - The Star",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bullish",
+      "score": 0.9244,
+      "currencies": []
+    },
+    {
+      "title": "Columbia Sportswear stock hits 52-week high at 77.75 USD",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.624,
       "currencies": [
-        "EUR",
         "USD"
       ]
     },
     {
-      "title": "India's forex reserves fall to over three month low of $705 billion - Reuters",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9689,
-      "currencies": []
-    },
-    {
-      "title": "India\u2019s forex surges by $8.663 billion to reach all-time high of $725.727 billion - DD News",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9189,
-      "currencies": []
-    },
-    {
-      "title": "China\u2019s Central Bank Tweaks Forex Reserve Rules to Steady Yuan - WSJ",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "AUD/USD Stalls Below 0.6650 as Sellers Hold Control - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9444,
-      "currencies": [
-        "AUD",
-        "USD"
-      ]
-    },
-    {
-      "title": "South Sudan to prosecute unregistered forex traders - CAJ News Africa",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "ATFX client trading volumes rise 12% in Q3 2026 to $870.8 billion - FX News Group",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8858,
-      "currencies": []
-    },
-    {
-      "title": "BoSS threatens closure of unlicensed forex dealers - Sudans Post",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9287,
-      "currencies": []
-    },
-    {
-      "title": "India\u2019s Forex Reserves Fall $14.21 Bn To $705.34 Bn - TradingView",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9675,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: Gold rebounds above $3,600, US Dollar retreats ahead of PMI data - FXStreet",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9323,
-      "currencies": []
-    },
-    {
-      "title": "Analysts comment on market impact of Huang\u2019s return as Nvidia CEO",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "BofA names its top U.S. restaurant stock picks",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Western Digital CLO Cynthia Tregillis sells $206,889 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Saba Capital Management buys $2,855 of Gabelli Healthcare stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Big Tech could face billions of dollars in fines under Australian internet safety bill",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9369,
-      "currencies": []
-    },
-    {
-      "title": "Indian economy in 2027: BofA forecasts strength despite inflation, rupee risks",
+      "title": "Amtrak sets ridership record as rising gas prices encourage Americans to travel by rail",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8972,
+      "score": 0.8532,
       "currencies": []
     },
     {
-      "title": "Why is Swire Pacific stock climbing today?",
+      "title": "Shein to pay $100 million to settle US claims, FTC official says",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Why is Cathay Pacific Airways stock falling today?",
+      "title": "US farm secretary pledges to fight court order halting her religious emails",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9441,
+      "score": -0.6957,
+      "currencies": []
+    },
+    {
+      "title": "US consumer confidence surges to highest level in nearly two years",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9374,
+      "currencies": []
+    },
+    {
+      "title": "Earnings call transcript: Epsilon Energy posts strong Q3 2026 growth, shares jump",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9437,
+      "currencies": []
+    },
+    {
+      "title": "Bybit Introduces TradFi Earn, Unifying Access to Global ETFs and RWA",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.8195,
+      "currencies": []
+    },
+    {
+      "title": "Coffin-carrying Volkswagen workers threaten strikes after first wage talks",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9449,
       "currencies": []
     }
   ],
