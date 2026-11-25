@@ -3,34 +3,38 @@
   "pairs": {
     "EUR/USD": [
       {
+        "title": "EUR/USD - CME Group",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
         "title": "EUR/USD outlook: Fed hawkishness priced in as Ifo hits 3-year high - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
-      }
-    ],
-    "USD/CAD": [
+      },
       {
-        "title": "Loonie Struggles as USD/CAD Nears 19-Month High - TradingPedia",
+        "title": "US Dollar Price Forecast: Dollar Steadies Before PCE, DXY Holds 103.80 as EUR/USD, GBP/USD Stall Below Pivots - FXEmpire",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.9616
+        "score": -0.7075
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "US Dollar Price Forecast: Dollar Steadies Before PCE, DXY Holds 103.80 as EUR/USD, GBP/USD Stall Below Pivots - FXEmpire",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.7075
       }
     ],
     "AUD/USD": [
       {
-        "title": "AUD jumps: Australia October trimmed mean CPI 3.8% y/y (expected 3.6%, prior 3.6%).",
-        "source": "ForexLive",
+        "title": "AUD/USD: Aussie Set for Biggest Monthly Drop in Four Years as Stocks Fall",
+        "source": "Bloomberg",
         "label": "bearish",
-        "score": -0.8947
-      }
-    ],
-    "USD/JPY": [
-      {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.6559 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
+        "score": -0.9704
       }
     ]
   }

@@ -1,10 +1,34 @@
 {
   "headlines": [
     {
-      "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0411\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0438",
+      "title": "Top 10 Strongest Currencies in the World in 2026 - LiteFinance",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "EUR/USD - CME Group",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "Dollar takes breather ahead of U.S. data on Fed path; Aussie jumps on CPI - CNBC",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: US Dollar rebounds ahead of critical PCE inflation data - www.tmgm.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8598,
       "currencies": []
     },
     {
@@ -18,10 +42,31 @@
       ]
     },
     {
-      "title": "FOREX Dollar slips as Nvidia-fueled AI rally fades - Reuters",
+      "title": "Pound Holds Ground as Markets Eye U.S. Inflation, GDP - TradingPedia",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9076,
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8977,
+      "currencies": []
+    },
+    {
+      "title": "China\u2019s Central Bank Tweaks Forex Reserve Rules to Steady Yuan - WSJ",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Rupee jumps 23 paise to 92.62 against U.S. dollar in early trade - The Hindu",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.884,
       "currencies": []
     },
     {
@@ -32,115 +77,75 @@
       "currencies": []
     },
     {
-      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Xellion Markets Brings Simpler Online Trading to Indian Traders with Instant UPI Deposits and Fast Withdrawals - markets.businessinsider.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: Global stocks rally led by tech shares, US Dollar stabilizes at 20-month highs - FXStreet",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7436,
-      "currencies": []
-    },
-    {
-      "title": "Travelling abroad? These forex mistakes could quietly cost you thousands - Moneycontrol.com",
+      "title": "US Dollar Price Forecast: Dollar Steadies Before PCE, DXY Holds 103.80 as EUR/USD, GBP/USD Stall Below Pivots - FXEmpire",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.8101,
-      "currencies": []
-    },
-    {
-      "title": "Currencies, Commodities, and Indices Test Key Confluence Zones - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Loonie Struggles as USD/CAD Nears 19-Month High - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9616,
+      "score": -0.7075,
       "currencies": [
+        "EUR",
         "USD",
-        "CAD"
+        "GBP",
+        "USD"
       ]
     },
     {
-      "title": "US dollar refuses to budge despite the risk-on bounce, so what's keeping it so strong? - investingLive",
+      "title": "What Is the Big Mac Index? How It Values Currencies - EBC Financial Group",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Triennial Central Bank Survey of foreign exchange and Over-the-counter (OTC) derivatives markets in 2025 - Bank for International Settlements",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "title": "Norsk Hydro reaffirms 2030 EBITDA target of up to 49B NOK",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9064,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Qfin Holdings posts weak Q3 2026 results as growth slows",
+      "title": "HBX Group FY26 slides: strong TTV growth, take-rate drop weighs",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.6738,
+      "currencies": []
+    },
+    {
+      "title": "Trump set to add new sweeping tariffs, undeterred by midterms defeat",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.719,
+      "currencies": []
+    },
+    {
+      "title": "Gold holds near 15-month lows on Fed hike bets; PCE inflation awaited",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9747,
+      "score": -0.9503,
       "currencies": []
     },
     {
-      "title": "RBA\u2019s Jacobs says Aussie financial conditions restrictive as inflation accelerates",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.681,
-      "currencies": []
-    },
-    {
-      "title": "Delek US Holdings CFO sells $895,050 in common stock",
+      "title": "Lemonade stock price target held at $75 by Citizens on growth outlook",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Consumer Portfolio Services director sells $39,558 in stock",
+      "title": "BMO Capital reiterates Bristol-Myers Squibb stock rating amid Opdivo biosimilar clarity",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Australian court approves a2 Milk\u2019s class action settlement",
+      "title": "Dick\u2019s Sporting Goods stock gets Buy rating reiterated by BTIG at $180",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Willamette Valley Vineyards president buys $7,957 in stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Amprius Technologies CTO sells $173,633 in common stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Palantir officer Ryan Taylor sells $7.27 million in stock",
+      "title": "CleanSpark stock rating reiterated by Citizens on HPC progress",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
