@@ -1,6 +1,14 @@
 {
   "run_id": 1,
   "pairs": {
+    "EUR/USD": [
+      {
+        "title": "EUR/USD outlook: Fed hawkishness priced in as Ifo hits 3-year high - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      }
+    ],
     "USD/CAD": [
       {
         "title": "Loonie Struggles as USD/CAD Nears 19-Month High - TradingPedia",
@@ -9,26 +17,20 @@
         "score": -0.9616
       }
     ],
-    "EUR/USD": [
+    "AUD/USD": [
       {
-        "title": "EUR/USD forecast: Currency Pair of the Week | November 23, 2026 - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "title": "AUD jumps: Australia October trimmed mean CPI 3.8% y/y (expected 3.6%, prior 3.6%).",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.8947
       }
     ],
     "USD/JPY": [
       {
-        "title": "Columbia Sportswear stock hits 52-week high at 77.75 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.624
-      },
-      {
-        "title": "Morning Kickstart. Nvidia slips after Monday\u2019s surge. Nasdaq 100 futures fall 450 points. USD mostly lower",
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.6559 \u2013 Reuters estimate",
         "source": "ForexLive",
-        "label": "bearish",
-        "score": -0.9567
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }
