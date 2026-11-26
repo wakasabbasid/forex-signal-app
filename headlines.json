@@ -1,13 +1,6 @@
 {
   "headlines": [
     {
-      "title": "Dollar boosted by safety bid as stocks tumble - CNBC",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.4951,
-      "currencies": []
-    },
-    {
       "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0411\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0438",
       "source": "Google News",
       "label": "neutral",
@@ -15,10 +8,10 @@
       "currencies": []
     },
     {
-      "title": "Forex Today: US Dollar rebounds ahead of critical PCE inflation data - www.tmgm.com",
+      "title": "Yen, Swiss franc gain as dollar slips in volatile AI-driven session - CNBC",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.8598,
+      "score": -0.7668,
       "currencies": []
     },
     {
@@ -29,14 +22,21 @@
       "currencies": []
     },
     {
-      "title": "Forex Economic Calendar Overview: Key Events for the Next Trading Week (30.11.2026\u201306.12.2026) - LiteFinance",
+      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "title": "When the Dollar Pauses but Silver Keeps Falling - FXEmpire",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Chapo calls on Central Bank to strengthen oversight of foreign exchange transactions - aimnews.org",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -50,105 +50,100 @@
       "currencies": []
     },
     {
-      "title": "Chapo calls on Central Bank to strengthen oversight of foreign exchange transactions - aimnews.org",
+      "title": "USD/CHF Outlook: Swiss Franc Surges as AI Trade Capitulates and SNB Bets Shift - FOREX.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "U.S. Dollar Gains Ground As GDP Growth Rate Rises To 4.3%: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY - FXEmpire",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.447,
       "currencies": [
-        "EUR",
         "USD",
-        "GBP",
-        "USD",
-        "USD",
-        "CAD",
-        "USD",
-        "JPY"
+        "CHF"
       ]
     },
     {
-      "title": "What Is the Big Mac Index? How It Values Currencies - EBC Financial Group",
+      "title": "Triennial Central Bank Survey of foreign exchange and Over-the-counter (OTC) derivatives markets in 2025 - Bank for International Settlements",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "November 25: Cedi sells at GHS12.55 on forex market, GHS11.86 on BoG interbank - Modern Ghana",
+      "title": "Forex Today: Global stocks rally led by tech shares, US Dollar stabilizes at 20-month highs - FXStreet",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Currencies, Commodities, and Indices Test Key Confluence Zones - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Barrick\u2019s CEO meets Mali\u2019s PM for first time since resolution",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Slate Grocery REIT unitholders approve $13/unit buyout deal",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Exclusive-US famine monitor to halt reporting as funding shortfall hits staff, sources say",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9195,
-      "currencies": []
-    },
-    {
-      "title": "Virbac to buy Axiota Animal Health for $315 million",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Analysis-Volatility-weary investors side swiped as tariff mayhem adds to tech pain",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.897,
-      "currencies": []
-    },
-    {
-      "title": "CDW stock hits 52-week high at 175.2 USD",
-      "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7689,
+      "score": 0.7436,
+      "currencies": []
+    },
+    {
+      "title": "EUR/USD Forecast: Euro Faces Levels Not Seen Since April 2025 - StoneX",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.807,
       "currencies": [
+        "EUR",
         "USD"
       ]
     },
     {
-      "title": "Retailers face rising AI cyberattack threat ahead of Black Friday, many uninsured",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9592,
+      "title": "Xellion Markets Brings Simpler Online Trading to Indian Traders with Instant UPI Deposits and Fast Withdrawals - markets.businessinsider.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Fed survey shows continued economic growth, sticky inflation in recent weeks",
+      "title": "VeriSign CEO D. James Bidzos sells $1.04 million in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forge Nano executive buys $250,647 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Exclusive-Alice Huang-linked firms listed $270 million in AI servers in China, records show",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Gold eases as U.S. inflation data reinforces Fed rate-hike bets",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.4963,
+      "currencies": []
+    },
+    {
+      "title": "Stocks rally in Asia, unrocked by US tariffs",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8115,
+      "currencies": []
+    },
+    {
+      "title": "IKE GPS H1 FY27 slides: subscriptions surge 22%, margins hit 81%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.8591,
+      "score": 0.9446,
+      "currencies": []
+    },
+    {
+      "title": "Energizer CEO Mark Stephen LaVigne sells $2.23M in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Tenable co-CEO Mark Thurmond sells $149,287 in stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     }
   ],

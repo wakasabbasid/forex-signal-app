@@ -1,40 +1,40 @@
 {
   "run_id": 1,
   "pairs": {
-    "EUR/USD": [
+    "USD/CHF": [
       {
-        "title": "U.S. Dollar Gains Ground As GDP Growth Rate Rises To 4.3%: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY - FXEmpire",
+        "title": "USD/CHF Outlook: Swiss Franc Surges as AI Trade Capitulates and SNB Bets Shift - FOREX.com",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bearish",
+        "score": -0.447
       }
     ],
-    "GBP/USD": [
+    "EUR/USD": [
       {
-        "title": "U.S. Dollar Gains Ground As GDP Growth Rate Rises To 4.3%: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY - FXEmpire",
+        "title": "EUR/USD Forecast: Euro Faces Levels Not Seen Since April 2025 - StoneX",
         "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
+        "label": "bearish",
+        "score": -0.807
       }
     ],
     "USD/JPY": [
       {
-        "title": "U.S. Dollar Gains Ground As GDP Growth Rate Rises To 4.3%: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY - FXEmpire",
-        "source": "Google News",
+        "title": "PBOC sets USD/ CNY reference rate for today at 6.7096 (vs. estimate at 6.6655)",
+        "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "CDW stock hits 52-week high at 175.2 USD",
-        "source": "Investing.com",
-        "label": "bullish",
-        "score": 0.7689
+        "title": "PBOC is expected to set the USD/CNY reference rate at 6.6655 \u2013 Reuters estimate",
+        "source": "ForexLive",
+        "label": "neutral",
+        "score": 0.0
       }
     ],
-    "USD/CAD": [
+    "AUD/USD": [
       {
-        "title": "U.S. Dollar Gains Ground As GDP Growth Rate Rises To 4.3%: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY - FXEmpire",
-        "source": "Google News",
+        "title": "The RBA's three 'stars' are fuzzier than they look: what it means for AUD and stocks",
+        "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
       }
