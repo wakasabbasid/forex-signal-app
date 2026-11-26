@@ -1,13 +1,6 @@
 {
   "headlines": [
     {
-      "title": "AFRICA-FX-Ghana, Uganda and Zambia currencies expected to lose ground - Reuters",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9614,
-      "currencies": []
-    },
-    {
       "title": "Yen, Swiss franc gain as dollar slips in volatile AI-driven session - CNBC",
       "source": "Google News",
       "label": "bearish",
@@ -15,7 +8,14 @@
       "currencies": []
     },
     {
-      "title": "EUR/USD - CME Group",
+      "title": "AFRICA-FX-Ghana, Uganda and Zambia currencies expected to lose ground - Reuters",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9614,
+      "currencies": []
+    },
+    {
+      "title": "EUR/USD, Gold Forecast: Two trades to Watch - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -23,6 +23,20 @@
         "EUR",
         "USD"
       ]
+    },
+    {
+      "title": "Chamber of Commerce to approach Government as foreign currency availability concerns grow - News Source Guyana",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Mexican Peso: Will it recover against the US Dollar by end-2028 as Commerzbank expects? - www.tmgm.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
     },
     {
       "title": "Top 10 Strongest Currencies in the World in 2026 - LiteFinance",
@@ -32,34 +46,10 @@
       "currencies": []
     },
     {
-      "title": "Currencies, Commodities, and Indices Test Key Confluence Zones - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Dollar Slips as Falling Stocks Restrain the Fed; EUR/USD Eyes 1.10 While Bitcoin Steps Back Above $60K - FXEmpire",
+      "title": "Japan\u2019s insurers have \u2018given up\u2019 on yen with record-low hedging - The Japan Times",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9536,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
-    },
-    {
-      "title": "ForexRoasted Reports Real Money Testing of 89 Forex Brokers, 47 Signal Services and 10 Trading Robots - Yahoo Finance",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "OCBC Sees Rupee Gaining on Softer Oil, Debt Inflows - TradingPedia",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9142,
+      "score": -0.9042,
       "currencies": []
     },
     {
@@ -70,18 +60,23 @@
       "currencies": []
     },
     {
-      "title": "Taiwan Stocks and Currency Rally in Tandem: Taiwan Dollar Returns to 32 Range, Surging 1.76 Dimes by Midday to Reclaim 33 Line - BigGo Finance",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8683,
-      "currencies": []
-    },
-    {
-      "title": "Gold's share in India's forex reserves falls to 14.38% in September from 16.7% in March, RBI says - bfsi.economictimes.indiatimes.com",
+      "title": "Gold (XAU/USD) Price Forecast: Failed Breakout Leaves Bullish Reversal Unconfirmed - FXEmpire",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.9713,
-      "currencies": []
+      "score": -0.9175,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "DAX, EUR/GBP Forecast: Two trades to watch - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "GBP"
+      ]
     },
     {
       "title": "China to raise FX reserve requirement to slow yuan's rally - Reuters",
@@ -91,59 +86,66 @@
       "currencies": []
     },
     {
-      "title": "Itron executive sells $25,066 in company stock",
+      "title": "US Dollar: Is DXY set for a 103.50-104.50 trading range? \u2013 ING - www.tmgm.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin stays afloat above $60.5k, but rates, regulatory fears persist",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.8508,
+      "currencies": []
+    },
+    {
+      "title": "Allegiance Resources names new CEO, adds board member",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Itron senior VP sells $21,711 in common stock",
+      "title": "Bradesco\u2019s Trabuco accepts invitation to be Brazil\u2019s finance minister, source says",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "ETO Markets Marks 13th Anniversary With \u201cRace Beyond Limits\u201d Global Brand Strategy",
+      "title": "Loonie weakens amid Thanksgiving holiday lull, Canadian labor market data",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9134,
+      "currencies": []
+    },
+    {
+      "title": "Canadian bonds extend rally amid AI jitters, Macklem comments",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.5736,
+      "score": 0.7377,
       "currencies": []
     },
     {
-      "title": "Earnings call transcript: Freetrailer posts strong Q3 2024 revenue growth",
+      "title": "Mexico stocks lower at close of trade; S&P/BMV IPC down 1.33%",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9677,
+      "currencies": []
+    },
+    {
+      "title": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.72%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9519,
+      "score": 0.9399,
       "currencies": []
     },
     {
-      "title": "Altria weighs possible offer for UK\u2019s Imperial Brands",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Brazil mid-November inflation eases, comes in below expectations",
+      "title": "Colombia stocks higher at close of trade; COLCAP up 0.97%",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.7222,
-      "currencies": []
-    },
-    {
-      "title": "Why is Imperial Brands stock surging today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Five takeaways from Trump\u2019s new tariffs",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
+      "score": 0.9425,
       "currencies": []
     }
   ],

@@ -3,16 +3,38 @@
   "pairs": {
     "EUR/USD": [
       {
-        "title": "EUR/USD - CME Group",
+        "title": "EUR/USD, Gold Forecast: Two trades to Watch - FOREX.com",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "Dollar Slips as Falling Stocks Restrain the Fed; EUR/USD Eyes 1.10 While Bitcoin Steps Back Above $60K - FXEmpire",
+        "title": "DAX, EUR/GBP Forecast: Two trades to watch - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
+      },
+      {
+        "title": "EUR/USD might be bottoming out amid peak Fed hawkishness and dovish repricing risks",
+        "source": "ForexLive",
+        "label": "bearish",
+        "score": -0.9695
+      }
+    ],
+    "USD/JPY": [
+      {
+        "title": "Gold (XAU/USD) Price Forecast: Failed Breakout Leaves Bullish Reversal Unconfirmed - FXEmpire",
         "source": "Google News",
         "label": "bearish",
-        "score": -0.9536
+        "score": -0.9175
+      }
+    ],
+    "GBP/USD": [
+      {
+        "title": "DAX, EUR/GBP Forecast: Two trades to watch - FOREX.com",
+        "source": "Google News",
+        "label": "neutral",
+        "score": 0.0
       }
     ]
   }
