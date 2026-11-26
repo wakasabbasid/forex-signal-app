@@ -1,42 +1,18 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/CHF": [
-      {
-        "title": "USD/CHF Outlook: Swiss Franc Surges as AI Trade Capitulates and SNB Bets Shift - FOREX.com",
-        "source": "Google News",
-        "label": "bearish",
-        "score": -0.447
-      }
-    ],
     "EUR/USD": [
       {
-        "title": "EUR/USD Forecast: Euro Faces Levels Not Seen Since April 2025 - StoneX",
+        "title": "EUR/USD - CME Group",
         "source": "Google News",
-        "label": "bearish",
-        "score": -0.807
-      }
-    ],
-    "USD/JPY": [
-      {
-        "title": "PBOC sets USD/ CNY reference rate for today at 6.7096 (vs. estimate at 6.6655)",
-        "source": "ForexLive",
         "label": "neutral",
         "score": 0.0
       },
       {
-        "title": "PBOC is expected to set the USD/CNY reference rate at 6.6655 \u2013 Reuters estimate",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "AUD/USD": [
-      {
-        "title": "The RBA's three 'stars' are fuzzier than they look: what it means for AUD and stocks",
-        "source": "ForexLive",
-        "label": "neutral",
-        "score": 0.0
+        "title": "Dollar Slips as Falling Stocks Restrain the Fed; EUR/USD Eyes 1.10 While Bitcoin Steps Back Above $60K - FXEmpire",
+        "source": "Google News",
+        "label": "bearish",
+        "score": -0.9536
       }
     ]
   }

@@ -1,10 +1,10 @@
 {
   "headlines": [
     {
-      "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0411\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0438",
+      "title": "AFRICA-FX-Ghana, Uganda and Zambia currencies expected to lose ground - Reuters",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "label": "bearish",
+      "score": -0.9614,
       "currencies": []
     },
     {
@@ -15,132 +15,132 @@
       "currencies": []
     },
     {
-      "title": "US dollar outlook: DXY finds fresh support as risk aversion deepens - FOREX.com",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7414,
-      "currencies": []
-    },
-    {
-      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "title": "EUR/USD - CME Group",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "When the Dollar Pauses but Silver Keeps Falling - FXEmpire",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Chapo calls on Central Bank to strengthen oversight of foreign exchange transactions - aimnews.org",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Kiwi Slides as Traders Eye US Inflation, Growth Data - TradingPedia",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8368,
-      "currencies": []
-    },
-    {
-      "title": "USD/CHF Outlook: Swiss Franc Surges as AI Trade Capitulates and SNB Bets Shift - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.447,
-      "currencies": [
-        "USD",
-        "CHF"
-      ]
-    },
-    {
-      "title": "Triennial Central Bank Survey of foreign exchange and Over-the-counter (OTC) derivatives markets in 2025 - Bank for International Settlements",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: Global stocks rally led by tech shares, US Dollar stabilizes at 20-month highs - FXStreet",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.7436,
-      "currencies": []
-    },
-    {
-      "title": "EUR/USD Forecast: Euro Faces Levels Not Seen Since April 2025 - StoneX",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.807,
       "currencies": [
         "EUR",
         "USD"
       ]
     },
     {
-      "title": "Xellion Markets Brings Simpler Online Trading to Indian Traders with Instant UPI Deposits and Fast Withdrawals - markets.businessinsider.com",
+      "title": "Top 10 Strongest Currencies in the World in 2026 - LiteFinance",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "VeriSign CEO D. James Bidzos sells $1.04 million in stock",
-      "source": "Investing.com",
+      "title": "Currencies, Commodities, and Indices Test Key Confluence Zones - FOREX.com",
+      "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Forge Nano executive buys $250,647 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Exclusive-Alice Huang-linked firms listed $270 million in AI servers in China, records show",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Gold eases as U.S. inflation data reinforces Fed rate-hike bets",
-      "source": "Investing.com",
+      "title": "Dollar Slips as Falling Stocks Restrain the Fed; EUR/USD Eyes 1.10 While Bitcoin Steps Back Above $60K - FXEmpire",
+      "source": "Google News",
       "label": "bearish",
-      "score": -0.4963,
+      "score": -0.9536,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
+    },
+    {
+      "title": "ForexRoasted Reports Real Money Testing of 89 Forex Brokers, 47 Signal Services and 10 Trading Robots - Yahoo Finance",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Stocks rally in Asia, unrocked by US tariffs",
-      "source": "Investing.com",
+      "title": "OCBC Sees Rupee Gaining on Softer Oil, Debt Inflows - TradingPedia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9142,
+      "currencies": []
+    },
+    {
+      "title": "China\u2019s Central Bank Tweaks Forex Reserve Rules to Steady Yuan - WSJ",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Taiwan Stocks and Currency Rally in Tandem: Taiwan Dollar Returns to 32 Range, Surging 1.76 Dimes by Midday to Reclaim 33 Line - BigGo Finance",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8683,
+      "currencies": []
+    },
+    {
+      "title": "Gold's share in India's forex reserves falls to 14.38% in September from 16.7% in March, RBI says - bfsi.economictimes.indiatimes.com",
+      "source": "Google News",
       "label": "bearish",
-      "score": -0.8115,
+      "score": -0.9713,
       "currencies": []
     },
     {
-      "title": "IKE GPS H1 FY27 slides: subscriptions surge 22%, margins hit 81%",
+      "title": "China to raise FX reserve requirement to slow yuan's rally - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Itron executive sells $25,066 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Itron senior VP sells $21,711 in common stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "ETO Markets Marks 13th Anniversary With \u201cRace Beyond Limits\u201d Global Brand Strategy",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9446,
+      "score": 0.5736,
       "currencies": []
     },
     {
-      "title": "Energizer CEO Mark Stephen LaVigne sells $2.23M in stock",
+      "title": "Earnings call transcript: Freetrailer posts strong Q3 2024 revenue growth",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9519,
+      "currencies": []
+    },
+    {
+      "title": "Altria weighs possible offer for UK\u2019s Imperial Brands",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Tenable co-CEO Mark Thurmond sells $149,287 in stock",
+      "title": "Brazil mid-November inflation eases, comes in below expectations",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7222,
+      "currencies": []
+    },
+    {
+      "title": "Why is Imperial Brands stock surging today?",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Five takeaways from Trump\u2019s new tariffs",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
