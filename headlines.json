@@ -1,10 +1,17 @@
 {
   "headlines": [
     {
-      "title": "Yen, Swiss franc gain as dollar slips in volatile AI-driven session - CNBC",
+      "title": "Dollar lingers near 22-month peak as AI worries simmer - CNBC",
       "source": "Google News",
       "label": "bearish",
-      "score": -0.7668,
+      "score": -0.4245,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: US Dollar finds footing as Japan CPI can rock the Yen - FXStreet",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9179,
       "currencies": []
     },
     {
@@ -12,6 +19,55 @@
       "source": "Google News",
       "label": "bearish",
       "score": -0.9614,
+      "currencies": []
+    },
+    {
+      "title": "How FX Majors Stack Up Against US Dollar Weakness in December - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Rupee plunges 24 paise to 92.62 against U.S. dollar - The Hindu",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9371,
+      "currencies": []
+    },
+    {
+      "title": "Chamber of Commerce to approach Government as foreign currency availability concerns grow - News Source Guyana",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Forex Today: Major currencies hold steady amid thin Thanksgiving Day liquidity - www.tmgm.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.8275,
+      "currencies": []
+    },
+    {
+      "title": "Yen, Swiss franc gain as dollar slips in volatile AI-driven session - CNBC",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7668,
+      "currencies": []
+    },
+    {
+      "title": "Top 10 Strongest Currencies in the World in 2026 - LiteFinance",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "India\u2019s forex surges by $8.663 billion to reach all-time high of $725.727 billion - DD News",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.9189,
       "currencies": []
     },
     {
@@ -25,60 +81,6 @@
       ]
     },
     {
-      "title": "Chamber of Commerce to approach Government as foreign currency availability concerns grow - News Source Guyana",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Mexican Peso: Will it recover against the US Dollar by end-2028 as Commerzbank expects? - www.tmgm.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Top 10 Strongest Currencies in the World in 2026 - LiteFinance",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan\u2019s insurers have \u2018given up\u2019 on yen with record-low hedging - The Japan Times",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9042,
-      "currencies": []
-    },
-    {
-      "title": "China\u2019s Central Bank Tweaks Forex Reserve Rules to Steady Yuan - WSJ",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Gold (XAU/USD) Price Forecast: Failed Breakout Leaves Bullish Reversal Unconfirmed - FXEmpire",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9175,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "DAX, EUR/GBP Forecast: Two trades to watch - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "GBP"
-      ]
-    },
-    {
       "title": "China to raise FX reserve requirement to slow yuan's rally - Reuters",
       "source": "Google News",
       "label": "neutral",
@@ -86,66 +88,59 @@
       "currencies": []
     },
     {
-      "title": "US Dollar: Is DXY set for a 103.50-104.50 trading range? \u2013 ING - www.tmgm.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
+      "title": "Oil set for first weekly gain in November as WTI jumps 2.5%, Brent steadies",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9138,
       "currencies": []
     },
     {
-      "title": "Bitcoin stays afloat above $60.5k, but rates, regulatory fears persist",
+      "title": "Gold rebounds 1.8% after more than one-year low as bargain hunters return",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.8508,
+      "score": -0.7908,
       "currencies": []
     },
     {
-      "title": "Allegiance Resources names new CEO, adds board member",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Bradesco\u2019s Trabuco accepts invitation to be Brazil\u2019s finance minister, source says",
+      "title": "Why is the Australian Dollar climbing today?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Loonie weakens amid Thanksgiving holiday lull, Canadian labor market data",
+      "title": "Japan\u2019s Jera in talks with Anthropic, Meta, Amazon on data centers- Nikkei",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Aclarion earnings beat by $0.11, revenue fell short of estimates",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9134,
+      "score": -0.8896,
       "currencies": []
     },
     {
-      "title": "Canadian bonds extend rally amid AI jitters, Macklem comments",
+      "title": "Claritev CEO Travis Dalton acquires $49,944 in company stock",
       "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.7377,
+      "label": "neutral",
+      "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Mexico stocks lower at close of trade; S&P/BMV IPC down 1.33%",
+      "title": "Donegal Mutual buys $332,212 in Donegal Group stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Asia FX weakens as high oil prices weigh; dollar edges lower in holiday trade",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9677,
-      "currencies": []
-    },
-    {
-      "title": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.72%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9399,
-      "currencies": []
-    },
-    {
-      "title": "Colombia stocks higher at close of trade; COLCAP up 0.97%",
-      "source": "Investing.com",
-      "label": "bullish",
-      "score": 0.9425,
+      "score": -0.9536,
       "currencies": []
     }
   ],
