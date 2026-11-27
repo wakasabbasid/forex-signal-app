@@ -1,10 +1,33 @@
 {
   "headlines": [
     {
+      "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0411\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0438",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Dollar lingers near 22-month peak as AI worries simmer - CNBC",
       "source": "Google News",
       "label": "bearish",
       "score": -0.4245,
+      "currencies": []
+    },
+    {
+      "title": "USD/MXN Forecast: Mexican Peso Weakness Persists as Year-End Approaches - FOREX.com",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.9407,
+      "currencies": [
+        "USD"
+      ]
+    },
+    {
+      "title": "Aussie Gains vs Kiwi as Copper Surge Lifts Commodity FX - TradingPedia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8577,
       "currencies": []
     },
     {
@@ -15,6 +38,37 @@
       "currencies": []
     },
     {
+      "title": "USD/JPY: Elliott Wave Analysis and Forecast for 27.11.26\u201304.12.26 - LiteFinance",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "Dollar set for flat week as haven bids counter yields - Kitco",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6737,
+      "currencies": []
+    },
+    {
+      "title": "The Fisher Effect: How Inflation Shapes Interest Rates and Currency Values - EBC Financial Group",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "AFRICA-FX-Ghana, Uganda and Zambia currencies expected to lose ground - Reuters",
       "source": "Google News",
       "label": "bearish",
@@ -22,125 +76,73 @@
       "currencies": []
     },
     {
-      "title": "How FX Majors Stack Up Against US Dollar Weakness in December - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Rupee plunges 24 paise to 92.62 against U.S. dollar - The Hindu",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9371,
-      "currencies": []
-    },
-    {
-      "title": "Chamber of Commerce to approach Government as foreign currency availability concerns grow - News Source Guyana",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: Major currencies hold steady amid thin Thanksgiving Day liquidity - www.tmgm.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.8275,
-      "currencies": []
-    },
-    {
-      "title": "Yen, Swiss franc gain as dollar slips in volatile AI-driven session - CNBC",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.7668,
-      "currencies": []
-    },
-    {
-      "title": "Top 10 Strongest Currencies in the World in 2026 - LiteFinance",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "India\u2019s forex surges by $8.663 billion to reach all-time high of $725.727 billion - DD News",
+      "title": "US dollar set for flat week, still close to 22-month peak - The Business Times",
       "source": "Google News",
       "label": "bullish",
-      "score": 0.9189,
+      "score": 0.6528,
       "currencies": []
     },
     {
-      "title": "EUR/USD, Gold Forecast: Two trades to Watch - FOREX.com",
+      "title": "Euro loses ground as improving risk sentiment lifts US yields - www.tmgm.com",
       "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "EUR",
-        "USD"
-      ]
+      "label": "bullish",
+      "score": 0.8648,
+      "currencies": []
     },
     {
-      "title": "China to raise FX reserve requirement to slow yuan's rally - Reuters",
-      "source": "Google News",
+      "title": "Oil trades mixed as Middle East strikes collide with rising Gulf flows",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.893,
+      "currencies": []
+    },
+    {
+      "title": "TruGolf announces 1-for-5 reverse stock split effective Dec. 1",
+      "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "Oil set for first weekly gain in November as WTI jumps 2.5%, Brent steadies",
+      "title": "Nvidia halts server shipments to four Southeast Asian countries, FT reports",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9639,
+      "currencies": []
+    },
+    {
+      "title": "Stifel reiterates Buy on Kodiak Gas Services stock, keeps $90 target",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Gold jumps 3% after hitting 15-month low earlier this week",
       "source": "Investing.com",
       "label": "bullish",
-      "score": 0.9138,
+      "score": 0.8216,
       "currencies": []
     },
     {
-      "title": "Gold rebounds 1.8% after more than one-year low as bargain hunters return",
+      "title": "Explainer-Black Friday test for retailers as tight budgets meet AI-savvy shoppers",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.7395,
+      "currencies": []
+    },
+    {
+      "title": "Trisalus Life Sciences officer sells $4,925 in common stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "European shares extend rally, but bruising November leaves AI scars",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.7908,
-      "currencies": []
-    },
-    {
-      "title": "Why is the Australian Dollar climbing today?",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Japan\u2019s Jera in talks with Anthropic, Meta, Amazon on data centers- Nikkei",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Aclarion earnings beat by $0.11, revenue fell short of estimates",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.8896,
-      "currencies": []
-    },
-    {
-      "title": "Claritev CEO Travis Dalton acquires $49,944 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Donegal Mutual buys $332,212 in Donegal Group stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Asia FX weakens as high oil prices weigh; dollar edges lower in holiday trade",
-      "source": "Investing.com",
-      "label": "bearish",
-      "score": -0.9536,
+      "score": -0.8264,
       "currencies": []
     }
   ],
