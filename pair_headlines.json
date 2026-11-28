@@ -1,25 +1,9 @@
 {
   "run_id": 1,
   "pairs": {
-    "USD/JPY": [
-      {
-        "title": "USD/JPY: Elliott Wave Analysis and Forecast for 27.11.26\u201304.12.26 - LiteFinance",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
     "EUR/USD": [
       {
         "title": "EUR/USD forecast: Currency Pair of the Week | November 23, 2026 - FOREX.com",
-        "source": "Google News",
-        "label": "neutral",
-        "score": 0.0
-      }
-    ],
-    "GBP/USD": [
-      {
-        "title": "GBP/USD: Elliott Wave Analysis and Forecast for 27.11.26\u201304.12.26 - LiteFinance",
         "source": "Google News",
         "label": "neutral",
         "score": 0.0

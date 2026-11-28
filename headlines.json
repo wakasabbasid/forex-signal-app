@@ -1,76 +1,10 @@
 {
   "headlines": [
     {
-      "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0411\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0438",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
       "title": "Dollar lingers near 22-month peak as AI worries simmer - CNBC",
       "source": "Google News",
       "label": "bearish",
       "score": -0.4245,
-      "currencies": []
-    },
-    {
-      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Currencies, Commodities, and Indices Test Key Confluence Zones - FOREX.com",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Forex Today: US Dollar finds footing as Japan CPI can rock the Yen - FXStreet",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.9179,
-      "currencies": []
-    },
-    {
-      "title": "Aussie Gains vs Kiwi as Copper Surge Lifts Commodity FX - TradingPedia",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8577,
-      "currencies": []
-    },
-    {
-      "title": "US dollar set for flat week, still close to 22-month peak - The Business Times",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6528,
-      "currencies": []
-    },
-    {
-      "title": "Dollar set for flat week as haven bids counter yields - Kitco",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6737,
-      "currencies": []
-    },
-    {
-      "title": "USD/JPY: Elliott Wave Analysis and Forecast for 27.11.26\u201304.12.26 - LiteFinance",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
-      "title": "Triennial Central Bank Survey of foreign exchange and Over-the-counter (OTC) derivatives markets in 2025 - Bank for International Settlements",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
       "currencies": []
     },
     {
@@ -84,66 +18,126 @@
       ]
     },
     {
-      "title": "GBP/USD: Elliott Wave Analysis and Forecast for 27.11.26\u201304.12.26 - LiteFinance",
+      "title": "US dollar outlook: Fed hike priced | FOREX Friday - StoneX",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.7491,
+      "currencies": []
+    },
+    {
+      "title": "China to raise FX reserve requirement to slow yuan's rally - Reuters",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
-      "currencies": [
-        "GBP",
-        "USD"
-      ]
+      "currencies": []
     },
     {
-      "title": "United Fidelity shut by regulators in biggest U.S. bank failure in two years",
+      "title": "Forex Today: Can Japan CPI unsettle the Yen as the US Dollar steadies? - www.tmgm.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Top 10 Strongest Currencies in the World in 2026 - LiteFinance",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Aussie Gains vs Kiwi as Copper Surge Lifts Commodity FX - TradingPedia",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8577,
+      "currencies": []
+    },
+    {
+      "title": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.8977,
+      "currencies": []
+    },
+    {
+      "title": "Currencies, Commodities, and Indices Test Key Confluence Zones - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Brazil: Are food and currency pressures set to push prices higher? \u2013 Societe Generale - www.tmgm.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US dollar outlook: DXY finds fresh support as risk aversion deepens - FOREX.com",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.7414,
+      "currencies": []
+    },
+    {
+      "title": "India draws $143.6 billion in forex inflows under concessional swap facility - Reuters",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "S&P turns negative on France\u2019s credit outlook as budget pressures mount",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9032,
+      "score": -0.9643,
       "currencies": []
     },
     {
-      "title": "Is the U.S. tariff wall here to stay? ING weighs in",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "BV Financial director sells $16,754 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Artesian Resources director sells $63,554 in common stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Natural Gas Services Group CEO buys $8,250 in company stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Iran war intensifies maritime risks as OPEC+ prepares for oil supply talks",
+      "title": "Ukraine says it hit Russian refinery, Transneft pipeline units in fresh strikes",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.6845,
+      "score": -0.9257,
       "currencies": []
     },
     {
-      "title": "Bitcoin price falls below $60,000 as whales buy dip, ETF outflows mount",
+      "title": "Trump-backed World Liberty crypto token falls around 50% overnight",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.9222,
+      "score": -0.9382,
       "currencies": []
     },
     {
-      "title": "Missed Black Friday? Here\u2019s one FINAL chance to lock in InvestingPro for 60% off",
+      "title": "EU set to delay plug-in hybrid emissions rating update until 2030",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "US Black Friday online spend rises 11% to a new high of $13.1 billion",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.9436,
+      "currencies": []
+    },
+    {
+      "title": "China\u2019s Chery Automobile moves into police and nurse robots, FT reports",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "U.S. Black Friday online sales set to exceed $13 billion, Adobe predicts",
+      "source": "Investing.com",
+      "label": "bullish",
+      "score": 0.912,
+      "currencies": []
+    },
+    {
+      "title": "Where does last week\u2019s selloff stand in history, and what\u2019s driven bigger ones?",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
