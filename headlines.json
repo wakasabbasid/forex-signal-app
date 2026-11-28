@@ -1,6 +1,13 @@
 {
   "headlines": [
     {
+      "title": "Official exchange rates on selected date | Bank of Russia - \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0411\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0438",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
       "title": "Dollar lingers near 22-month peak as AI worries simmer - CNBC",
       "source": "Google News",
       "label": "bearish",
@@ -8,54 +15,14 @@
       "currencies": []
     },
     {
-      "title": "USD/MXN Forecast: Mexican Peso Weakness Persists as Year-End Approaches - FOREX.com",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.9407,
-      "currencies": [
-        "USD"
-      ]
-    },
-    {
-      "title": "Aussie Gains vs Kiwi as Copper Surge Lifts Commodity FX - TradingPedia",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.8577,
-      "currencies": []
-    },
-    {
-      "title": "China to raise FX reserve requirement to slow yuan's rally - Reuters",
+      "title": "Currency Trading Guide: Master Forex Markets with Confidence - Investopedia",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "US dollar set for flat week, still close to 22-month peak - The Business Times",
-      "source": "Google News",
-      "label": "bullish",
-      "score": 0.6528,
-      "currencies": []
-    },
-    {
-      "title": "USD/JPY: Elliott Wave Analysis and Forecast for 27.11.26\u201304.12.26 - LiteFinance",
-      "source": "Google News",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": [
-        "USD",
-        "JPY"
-      ]
-    },
-    {
-      "title": "Dollar set for flat week as haven bids counter yields - Kitco",
-      "source": "Google News",
-      "label": "bearish",
-      "score": -0.6737,
-      "currencies": []
-    },
-    {
-      "title": "The Fisher Effect: How Inflation Shapes Interest Rates and Currency Values - EBC Financial Group",
+      "title": "Currencies, Commodities, and Indices Test Key Confluence Zones - FOREX.com",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
@@ -69,18 +36,52 @@
       "currencies": []
     },
     {
-      "title": "AFRICA-FX-Ghana, Uganda and Zambia currencies expected to lose ground - Reuters",
+      "title": "Aussie Gains vs Kiwi as Copper Surge Lifts Commodity FX - TradingPedia",
       "source": "Google News",
-      "label": "bearish",
-      "score": -0.9614,
+      "label": "bullish",
+      "score": 0.8577,
       "currencies": []
     },
     {
-      "title": "Currencies, Commodities, and Indices Test Key Confluence Zones - FOREX.com",
+      "title": "US dollar set for flat week, still close to 22-month peak - The Business Times",
+      "source": "Google News",
+      "label": "bullish",
+      "score": 0.6528,
+      "currencies": []
+    },
+    {
+      "title": "Dollar set for flat week as haven bids counter yields - Kitco",
+      "source": "Google News",
+      "label": "bearish",
+      "score": -0.6737,
+      "currencies": []
+    },
+    {
+      "title": "USD/JPY: Elliott Wave Analysis and Forecast for 27.11.26\u201304.12.26 - LiteFinance",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "USD",
+        "JPY"
+      ]
+    },
+    {
+      "title": "Triennial Central Bank Survey of foreign exchange and Over-the-counter (OTC) derivatives markets in 2025 - Bank for International Settlements",
       "source": "Google News",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
+    },
+    {
+      "title": "EUR/USD forecast: Currency Pair of the Week | November 23, 2026 - FOREX.com",
+      "source": "Google News",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": [
+        "EUR",
+        "USD"
+      ]
     },
     {
       "title": "GBP/USD: Elliott Wave Analysis and Forecast for 27.11.26\u201304.12.26 - LiteFinance",
@@ -93,56 +94,56 @@
       ]
     },
     {
-      "title": "Beta Technologies director buys $1.6M in common stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Post Holdings CEO sells $427,581 in common stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Dolby executive sells $166,881 in class A common stock",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Saba Capital buys $147,823 in Ellsworth Growth & Income Fund",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Auddia releases financial statements of Thramann Holdings and pro forma data",
-      "source": "Investing.com",
-      "label": "neutral",
-      "score": 0.0,
-      "currencies": []
-    },
-    {
-      "title": "Icahn Enterprises increases executive salaries, updates employment terms",
+      "title": "United Fidelity shut by regulators in biggest U.S. bank failure in two years",
       "source": "Investing.com",
       "label": "bearish",
-      "score": -0.5577,
+      "score": -0.9032,
       "currencies": []
     },
     {
-      "title": "Fair Isaac CEO sells $2.65 million in company stock",
+      "title": "Is the U.S. tariff wall here to stay? ING weighs in",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
       "currencies": []
     },
     {
-      "title": "HeartSciences to exchange $3.3 million in debt for Class A common stock after merger",
+      "title": "BV Financial director sells $16,754 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Artesian Resources director sells $63,554 in common stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Natural Gas Services Group CEO buys $8,250 in company stock",
+      "source": "Investing.com",
+      "label": "neutral",
+      "score": 0.0,
+      "currencies": []
+    },
+    {
+      "title": "Iran war intensifies maritime risks as OPEC+ prepares for oil supply talks",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.6845,
+      "currencies": []
+    },
+    {
+      "title": "Bitcoin price falls below $60,000 as whales buy dip, ETF outflows mount",
+      "source": "Investing.com",
+      "label": "bearish",
+      "score": -0.9222,
+      "currencies": []
+    },
+    {
+      "title": "Missed Black Friday? Here\u2019s one FINAL chance to lock in InvestingPro for 60% off",
       "source": "Investing.com",
       "label": "neutral",
       "score": 0.0,
